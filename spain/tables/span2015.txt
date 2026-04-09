@@ -4,17 +4,19 @@
   
 
 
-## Spain 2014/15
+== Spain 2014/15
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 ‹Primera División, see §laliga›
 ‹Copa del Rey, see §coparey›
 ‹Segunda División, see §segunda›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Primera División (Liga BBVA)  ‹§laliga›
+==== Primera División (Liga BBVA)  ‹§laliga›
 
-
+<!-- start pre -->
 Final Table:
 
  1.FC Barcelona                  38  30  4  4 110-21  94  Champions
@@ -653,12 +655,13 @@ Final Table:
 
 NB: after the season, Elche were demoted because of extravagant tax debts; because
     of this, Eibar remain at the top level
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Copa del Rey  ‹§coparey›
+==== Copa del Rey  ‹§coparey›
 
-
+<!-- start pre -->
 Round 1 [Sep 3]
 UD Somozas                3-0 CD Varea
 SD Leioa (Lejona)         1-0 Sestao River Club
@@ -829,12 +832,13 @@ RCD Espanyol              0-2 Athletic Club (Bilbao)
 Final [May 30, Barcelona]
 FC Barcelona              3-1 Athletic Club (Bilbao)
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Segunda División (Liga Adelante)  ‹§segunda›
+==== Segunda División (Liga Adelante)  ‹§segunda›
 
-
+<!-- start pre -->
 Final Table:
 
  1.Real Betis Balompié (Sevilla) 42  25  9  8  73-40  84  Promoted
@@ -865,7 +869,7 @@ Final Table:
 
 Promoted: Club Gimnàstic de Tarragona, Real Oviedo, SD Huesca, Bilbao Athletic
 
-**Promotion Playoff  ‹§2prom›**
+Promotion Playoff  ‹§2prom›
 
 Semifinals
 
@@ -890,6 +894,7 @@ Second Leg [Jun 21]
 Las Palmas                2-0 Zaragoza
 
 NB: Las Palmas promoted
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -916,9 +921,10 @@ NB: Las Palmas promoted
 ‹list of top scorers, see page spantops›.
 
 ‹list of foundation dates, see page spanfound›.
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Thanks to Martin Arenlind
 
@@ -931,6 +937,6 @@ Author: Karel Stokkermans
 Last updated: 28 Jan 2021
 
 
-**(C) Copyright Karel Stokkermans and RSSSF 2014/21**
+(C) Copyright Karel Stokkermans and RSSSF 2014/21
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the author. All rights reserved.

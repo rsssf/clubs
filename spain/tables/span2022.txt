@@ -4,17 +4,19 @@
   
 
 
-## Spain 2021/22
+== Spain 2021/22
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 ‹Primera División, see §laliga›
 ‹Segunda División, see §segunda›
 ‹Primera RFEF, see §1rfef›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Primera División  ‹§laliga›
+==== Primera División  ‹§laliga›
 
-
+<!-- start pre -->
 Final Table:
 
  1.Real Madrid CF                38  26  8  4  80-31  86       Champions
@@ -658,12 +660,13 @@ Final Table:
 19.Levante UD (Valencia)         38   8 11 19  51-76  35       Relegated
 20.Deportivo Alavés (Vitoria)    38   8  7 23  31-65  31       Relegated
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Segunda División  ‹§segunda›
+==== Segunda División  ‹§segunda›
 
-
+<!-- start pre -->
 Final Table:
 
  1.UD Almería                    42  24  9  9  68-35  81       Promoted
@@ -692,7 +695,7 @@ Final Table:
 21.CF Fuenlabrada                42   6 15 21  39-65  33       Relegated
 22.AD Alcorcón                   42   6 11 25  37-71  29       Relegated
 
-**Promotion Playoff  ‹§2prom›**
+Promotion Playoff  ‹§2prom›
 
 Semifinals
 
@@ -716,15 +719,16 @@ Girona                    0-0 Tenerife
 Second Leg [Jun 19]
 Tenerife                  1-3 Girona
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Primera RFEF  ‹§1rfef›
+==== Primera RFEF  ‹§1rfef›
 
-
+<!-- start pre -->
 ‹Grupo 1, see §3g1› | ‹Grupo 2, see §3g2› | ‹Final, see §3gf› | ‹Promotion Playoff, see §3gp›
 
-**Grupo 1  ‹§3g1›**
+Grupo 1  ‹§3g1›
 
 Final Table:
 
@@ -754,7 +758,7 @@ Final Table:
 
 NB: Talavera de la Reina remained at third level due to withdrawal Internacional
 
-**Grupo 2  ‹§3g2›**
+Grupo 2  ‹§3g2›
 
 Final Table:
 
@@ -785,12 +789,12 @@ Final Table:
 [*] UD Llagostera were relocated to Palamós and renamed UE Costa Brava before the season;
     after the season they were absorbed by CF Badalona
 
-**Final  ‹§3gf›**
+Final  ‹§3gf›
 
 [Jun 3, Ferrol]
 Racing Santander          1-0 FC Andorra
 
-**Promotion Playoff  ‹§3gp›**
+Promotion Playoff  ‹§3gp›
 
 Round 1
 [Jun 4]
@@ -810,6 +814,7 @@ Promoted from 4th level: AD Ceuta FC, Córdoba CF, CD Eldense, CF Intercity (Ali
                          CF La Nucía, AD Mérida, Real Murcia CF, CD Numancia (Soria),
                          CA Osasuna B (Pamplona), Pontevedra CF
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -836,9 +841,10 @@ Promoted from 4th level: AD Ceuta FC, Córdoba CF, CD Eldense, CF Intercity (Ali
 ‹list of top scorers, see page spantops›.
 
 ‹list of foundation dates, see page spanfound›.
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Prepared and maintained by Karel Stokkermans
 the ‹Rec.Sport.Soccer Statistics Foundation›
@@ -849,6 +855,6 @@ Author: Karel Stokkermans
 Last updated: 28 Jun 2023
 
 
-**(C) Copyright Karel Stokkermans and RSSSF 2021/23**
+(C) Copyright Karel Stokkermans and RSSSF 2021/23
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the author. All rights reserved.

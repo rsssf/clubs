@@ -4,17 +4,19 @@
   
 
 
-## Spain 2017/18
+== Spain 2017/18
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 ‹Primera División, see §laliga›
 ‹Copa del Rey, see §coparey›
 ‹Segunda División, see §segunda›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Primera División  ‹§laliga›
+==== Primera División  ‹§laliga›
 
-
+<!-- start pre -->
 Final Table:
 
  1.FC Barcelona                  38  28  9  1  99-29  93       Champions
@@ -655,12 +657,13 @@ Final Table:
 18.RC Deportivo (La Coruña)      38   6 11 21  38-76  29       Relegated
 19.UD Las Palmas                 38   5  7 26  24-74  22       Relegated
 20.Málaga CF                     38   5  5 28  24-61  20       Relegated
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Copa del Rey  ‹§coparey›
+==== Copa del Rey  ‹§coparey›
 
-
+<!-- start pre -->
 Round 1
 [Aug 30]
 CD Calahorra              1-0 Real Unión de Irún
@@ -835,12 +838,13 @@ Valencia CF               0-2 FC Barcelona
 
 Final [Apr 21, Madrid]
 Sevilla FC                0-5 FC Barcelona
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Segunda División (Liga Adelante)  ‹§segunda›
+==== Segunda División (Liga Adelante)  ‹§segunda›
 
-
+<!-- start pre -->
 Final Table:
 
  1.Rayo Vallecano                42  21 13  8  67-48  76       Promoted
@@ -872,7 +876,7 @@ Final Table:
 Promoted: RCD Mallorca (Palma de Mallorca), CF Rayo Majadahonda,
           Elche CF, Extremadura UD
 
-**Promotion Playoff  ‹§2prom›**
+Promotion Playoff  ‹§2prom›
 
 Semifinals
 
@@ -897,6 +901,7 @@ Second Leg [Jun 16]
 Valladolid                1-1 Numancia
 
 NB: Real Valladolid promoted
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -923,9 +928,10 @@ NB: Real Valladolid promoted
 ‹list of top scorers, see page spantops›.
 
 ‹list of foundation dates, see page spanfound›.
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Prepared and maintained by Karel Stokkermans
 the ‹Rec.Sport.Soccer Statistics Foundation›
@@ -936,6 +942,6 @@ Author: Karel Stokkermans
 Last updated: 29 Sep 2020
 
 
-**(C) Copyright Karel Stokkermans and RSSSF 2017/20**
+(C) Copyright Karel Stokkermans and RSSSF 2017/20
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the author. All rights reserved.

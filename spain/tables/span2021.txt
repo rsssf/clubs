@@ -4,17 +4,19 @@
   
 
 
-## Spain 2020/21
+== Spain 2020/21
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 ‹Primera División, see §laliga›
 ‹Copa del Rey, see §coparey›
 ‹Segunda División, see §segunda›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Primera División  ‹§laliga›
+==== Primera División  ‹§laliga›
 
-
+<!-- start pre -->
 Final Table:
 
  1.Atlético de Madrid            38  26  8  4  67-25  86       Champions
@@ -653,12 +655,13 @@ Final Table:
 19.Real Valladolid               38   5 16 17  34-57  31       Relegated
 20.SD Eibar                      38   6 12 20  29-52  30       Relegated
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Copa del Rey  ‹§coparey›
+==== Copa del Rey  ‹§coparey›
 
-
+<!-- start pre -->
 1/8 Finals
 [Jan 26]
 Real Valladolid           2-4 Levante UD
@@ -698,12 +701,13 @@ Levante UD                1-2 Athletic Club (Bilbao)    [aet]
 Final [Apr 17]
 Athletic Club (Bilbao)    0-4 FC Barcelona
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Segunda División (Liga Adelante)  ‹§segunda›
+==== Segunda División (Liga Adelante)  ‹§segunda›
 
-
+<!-- start pre -->
 Final Table:
 
  1.RCD Espanyol (Barcelona)      42  24 10  8  71-28  82  [R]  Promoted
@@ -734,7 +738,7 @@ Final Table:
 
 Promoted: Burgos CF, Real Sociedad B, UD Ibiza, SD Amorebieta
 
-**Promotion Playoff  ‹§2prom›**
+Promotion Playoff  ‹§2prom›
 
 Semifinals
 
@@ -759,6 +763,7 @@ Second Leg [Jun 20]
 Girona                    0-2 Rayo Vallecano
 
 NB: Rayo Vallecano promoted
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -785,9 +790,10 @@ NB: Rayo Vallecano promoted
 ‹list of top scorers, see page spantops›.
 
 ‹list of foundation dates, see page spanfound›.
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Thanks to Martin Arenlind
 
@@ -800,6 +806,6 @@ Authors: Hans Schöggl and Karel Stokkermans
 Last updated: 9 Jun 2022
 
 
-**(C) Copyright Hans Schöggl, Karel Stokkermans and RSSSF 2020/22**
+(C) Copyright Hans Schöggl, Karel Stokkermans and RSSSF 2020/22
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the authors. All rights reserved.

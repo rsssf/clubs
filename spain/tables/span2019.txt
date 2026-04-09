@@ -4,17 +4,19 @@
   
 
 
-## Spain 2018/19
+== Spain 2018/19
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 ‹Primera División, see §laliga›
 ‹Copa del Rey, see §coparey›
 ‹Segunda División, see §segunda›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Primera División  ‹§laliga›
+==== Primera División  ‹§laliga›
 
-
+<!-- start pre -->
 Final Table:
 
  1.FC Barcelona                  38  26  9  3  90-36  87  [C]  Champions
@@ -670,12 +672,13 @@ Final Table:
 18.Girona FC                     38   9 10 19  37-53  37       Relegated
 19.SD Huesca                     38   7 12 19  43-65  33  [P]  Relegated
 20.Rayo Vallecano                38   8  8 22  41-70  32  [P]  Relegated
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Copa del Rey  ‹§coparey›
+==== Copa del Rey  ‹§coparey›
 
-
+<!-- start pre -->
 Round 1 [Sep 5]
 CD Mensajero              0-3 SD Compostela
 UD Poblense               1-4 Ontinyent CF
@@ -850,12 +853,13 @@ Valencia CF               1-0 Real Betis Balompié
 
 Final [May 25, Sevilla]
 FC Barcelona              1-2 Valencia CF
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Segunda División (Liga Adelante)  ‹§segunda›
+==== Segunda División (Liga Adelante)  ‹§segunda›
 
-
+<!-- start pre -->
 Final Table:
 
  1.CA Osasuna (Pamplona)         42  26  9  7  59-35  87       Promoted
@@ -887,7 +891,7 @@ Final Table:
 Promoted: CF Fuenlabrada, Real Racing de Santander, CD Mirandés (Miranda de Ebro),
           SD Ponferradina (Ponferrada)
 
-**Promotion Playoff  ‹§2prom›**
+Promotion Playoff  ‹§2prom›
 
 Semifinals
 
@@ -912,6 +916,7 @@ Second Leg [Jun 23]
 Mallorca                  3-0 Deportivo
 
 NB: RCD Mallorca promoted
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -938,9 +943,10 @@ NB: RCD Mallorca promoted
 ‹list of top scorers, see page spantops›.
 
 ‹list of foundation dates, see page spanfound›.
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Thanks to Martin Arenlind
 
@@ -953,6 +959,6 @@ Author: Karel Stokkermans
 Last updated: 28 Jan 2021
 
 
-**(C) Copyright Karel Stokkermans and RSSSF 2018/21**
+(C) Copyright Karel Stokkermans and RSSSF 2018/21
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the author. All rights reserved.

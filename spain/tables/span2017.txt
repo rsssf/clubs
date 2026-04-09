@@ -4,17 +4,19 @@
   
 
 
-## Spain 2016/17
+== Spain 2016/17
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 ‹Primera División, see §laliga›
 ‹Copa del Rey, see §coparey›
 ‹Segunda División, see §segunda›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Primera División  ‹§laliga›
+==== Primera División  ‹§laliga›
 
-
+<!-- start pre -->
 Final Table:
 
  1.Real Madrid CF                38  29  6  3 106-41  93                   Champions
@@ -655,12 +657,13 @@ Final Table:
 18.Sporting de Gijón             38   7 10 21  42-72  31                   Relegated
 19.CA Osasuna (Pamplona)         38   4 10 24  40-94  22  [P]              Relegated
 20.Granada CF                    38   4  8 26  30-82  20                   Relegated
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Copa del Rey  ‹§coparey›
+==== Copa del Rey  ‹§coparey›
 
-
+<!-- start pre -->
 Round 1 [Aug 31]
 Andorra CF                0-5 Hércules de Alicante CF
 Caudal Deportivo          2-1 Burgos CF
@@ -833,12 +836,13 @@ Deportivo Alavés          1-0 RC Celta de Vigo
 
 Final [May 27, Madrid]
 FC Barcelona              3-1 Deportivo Alavés
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Segunda División (Liga Adelante)  ‹§segunda›
+==== Segunda División (Liga Adelante)  ‹§segunda›
 
-
+<!-- start pre -->
 Final Table:
 
  1.Levante UD (Valencia)         42  25  9  8  57-32  84  [R]              Promoted
@@ -869,7 +873,7 @@ Final Table:
 
 Promoted: Cultural Leonesa, Lorca FC, FC Barcelona B, Albacete Balompié
 
-**Promotion Playoff  ‹§2prom›**
+Promotion Playoff  ‹§2prom›
 
 Semifinals
 
@@ -896,6 +900,7 @@ Second Leg [Jun 24]
 Getafe                    3-1 Tenerife
 
 NB: Getafe promoted
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -922,9 +927,10 @@ NB: Getafe promoted
 ‹list of top scorers, see page spantops›.
 
 ‹list of foundation dates, see page spanfound›.
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Prepared and maintained by Karel Stokkermans
 the ‹Rec.Sport.Soccer Statistics Foundation›
@@ -935,6 +941,6 @@ Author: Karel Stokkermans
 Last updated: 18 Jul 2019
 
 
-**(C) Copyright Karel Stokkermans and RSSSF 2016/19**
+(C) Copyright Karel Stokkermans and RSSSF 2016/19
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the author. All rights reserved.

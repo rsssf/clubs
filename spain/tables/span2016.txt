@@ -4,17 +4,19 @@
   
 
 
-## Spain 2015/16
+== Spain 2015/16
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 ‹Primera División, see §laliga›
 ‹Copa del Rey, see §coparey›
 ‹Segunda División, see §segunda›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Primera División (Liga BBVA)  ‹§laliga›
+==== Primera División (Liga BBVA)  ‹§laliga›
 
-
+<!-- start pre -->
 Final Table:
 
  1.FC Barcelona                  38  29  4  5 112-29  91  [C]  Champions
@@ -637,12 +639,13 @@ Final Table:
 18.Rayo Vallecano                38   9 11 18  52-73  38  Relegated
 19.Getafe CF                     38   9  9 20  37-67  36  Relegated
 20.Levante UD (Valencia)         38   8  8 22  37-70  32  Relegated
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Copa del Rey  ‹§coparey›
+==== Copa del Rey  ‹§coparey›
 
-
+<!-- start pre -->
 Round 1
 [Aug 27]
 Mérida AD                 0-3 Peña Sport FC
@@ -676,7 +679,7 @@ Barakaldo CF              3-1 SD Formentera
 AD Alcorcón               0-1 SD Ponferradina
 Arandina CF               2-4 CF Reus
 CD Mirandés               1-2 CA Osasuna                [awarded to Mirandés, Osasuna
-Córdoba CF                0-1 CD Lugo                    ⮑fielded suspended player]
+Córdoba CF                0-1 CD Lugo                    fielded suspended player]
 Gimnàstic de Tarragona    2-2 Girona FC                 [aet, 5-4 pen]
 CD Leganés                2-0 CD Tenerife
 Lleida Esportiu           2-0 CD Guijuelo
@@ -745,9 +748,9 @@ Athletic Club (Bilbao)    6-0 Real Balompédica Linense
 SD Eibar                  4-0 SD Ponferradina
 Getafe CF                 3-1 Rayo Vallecano
 Málaga CF                 0-1 CD Mirandés
-Real Madrid CF            o/w Cádiz CF                  [NB: Real Madrid disqualified
-Real Sociedad             1-1 UD Las Palmas              ⮑for fielding suspended
-Valencia CF               2-0 Barakaldo CF               ⮑player in first leg]
+Real Madrid CF            o/w Cádiz CF                  [Real Madrid disqualified
+Real Sociedad             1-1 UD Las Palmas              for fielding suspended
+Valencia CF               2-0 Barakaldo CF               player in first leg]
 [Dec 17]
 Atlético de Madrid        1-0 CF Reus
 RC Celta de Vigo          1-0 UD Almería
@@ -815,12 +818,13 @@ RC Celta de Vigo          2-2 Sevilla FC
 
 Final [May 22, Madrid]
 FC Barcelona              2-0 Sevilla FC                [aet]
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Segunda División (Liga Adelante)  ‹§segunda›
+==== Segunda División (Liga Adelante)  ‹§segunda›
 
-
+<!-- start pre -->
 Final Table:
 
  1.Deportivo Alavés (Vitoria)    42  21 12  9  49-35  75  Promoted
@@ -851,7 +855,7 @@ Final Table:
 
 Promoted: Cádiz CF, CF Reus, Sevilla Atlético, UCAM Murcia CF
 
-**Promotion Playoff  ‹§2prom›**
+Promotion Playoff  ‹§2prom›
 
 Semifinals
 
@@ -876,6 +880,7 @@ Second Leg [Jun 18]
 Girona                    0-1 Osasuna
 
 NB: Osasuna promoted
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -902,9 +907,10 @@ NB: Osasuna promoted
 ‹list of top scorers, see page spantops›.
 
 ‹list of foundation dates, see page spanfound›.
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Prepared and maintained by Karel Stokkermans
 the ‹Rec.Sport.Soccer Statistics Foundation›
@@ -915,6 +921,6 @@ Author: Karel Stokkermans
 Last updated: 18 Jul 2019
 
 
-**(C) Copyright Karel Stokkermans and RSSSF 2015/19**
+(C) Copyright Karel Stokkermans and RSSSF 2015/19
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the author. All rights reserved.

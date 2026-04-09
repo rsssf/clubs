@@ -4,17 +4,19 @@
   
 
 
-## Spain 2013/14
+== Spain 2013/14
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 ‹Primera División, see §laliga›
 ‹Copa del Rey, see §coparey›
 ‹Segunda División, see §segunda›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Primera División (Liga BBVA)  ‹§laliga›
+==== Primera División (Liga BBVA)  ‹§laliga›
 
-
+<!-- start pre -->
 Final Table:
 
  1.Atlético de Madrid            38  28  6  4  77-26  90  Champions
@@ -654,12 +656,13 @@ Final Table:
 19.Real Valladolid               38   7 15 16  38-60  36  Relegated
 20.Real Betis Balompié (Sevilla) 38   6  7 25  36-78  25  Relegated
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Copa del Rey  ‹§coparey›
+==== Copa del Rey  ‹§coparey›
 
-
+<!-- start pre -->
 Round 1 [Sep 4]
 CD Sariñena               1-0 CD Puerta Bonita          [aet]
 UE Sant Andreu            2-1 SCR Peña D. Santa Eulalia
@@ -829,12 +832,13 @@ Final [Apr 16, Valencia]
 FC Barcelona              1-2 Real Madrid CF
 
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Segunda División (Liga Adelante)  ‹§segunda›
+==== Segunda División (Liga Adelante)  ‹§segunda›
 
-
+<!-- start pre -->
 Final Table:
 
  1.SD Eibar                      42  19 14  9  49-28  71  Promoted
@@ -867,7 +871,7 @@ NB: CD Mirandés escaped relegation as Real Murcia were demoted for financial re
 
 Promoted: CD Leganés, Albacete Balompié, Real Racing de Santander, UE Llagostera
 
-**Promotion Playoff  ‹§2prom›**
+Promotion Playoff  ‹§2prom›
 
 Semifinals
 
@@ -889,6 +893,7 @@ Las Palmas                1-1 Córdoba
 
 NB: Córdoba promoted
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -915,9 +920,10 @@ NB: Córdoba promoted
 ‹list of top scorers, see page spantops›.
 
 ‹list of foundation dates, see page spanfound›.
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Prepared and maintained by Karel Stokkermans
 the ‹Rec.Sport.Soccer Statistics Foundation›
@@ -928,6 +934,6 @@ Author: Karel Stokkermans
 Last updated: 29 Sep 2020
 
 
-**(C) Copyright Karel Stokkermans and RSSSF 2013/20**
+(C) Copyright Karel Stokkermans and RSSSF 2013/20
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the author. All rights reserved.

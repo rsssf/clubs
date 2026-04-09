@@ -4,17 +4,19 @@
   
 
 
-## Spain 2011/12
+== Spain 2011/12
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 ‹Primera División, see §laliga›
 ‹Copa del Rey, see §coparey›
 ‹Segunda División, see §segunda›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Primera División (Liga BBVA)  ‹§laliga›
+==== Primera División (Liga BBVA)  ‹§laliga›
 
-
+<!-- start pre -->
 Final Table:
 
  1.Real Madrid CF                38  32  4  2 121-32 100  Champions
@@ -38,12 +40,13 @@ Final Table:
 18.Villarreal CF                 38   9 14 15  39-53  41  Relegated
 19.Sporting de Gijón             38  10  7 21  42-69  37  Relegated
 20.Racing de Santander           38   4 15 19  28-63  27  Relegated
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Copa del Rey  ‹§coparey›
+==== Copa del Rey  ‹§coparey›
 
-
+<!-- start pre -->
 Round 1 [Aug 31]
 CD Manacor                1-4 CE L'Hospitalet
 CD Tudelano               2-2 SD Ponferradina           [aet, 4-5 pen]
@@ -214,12 +217,13 @@ FC Barcelona              2-0 Valencia CF
 Final [May 25, Madrid]
 Athletic Club (Bilbao)    0-3 FC Barcelona
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Segunda División (Liga Adelante)  ‹§segunda›
+==== Segunda División (Liga Adelante)  ‹§segunda›
 
-
+<!-- start pre -->
 Final Table:
 
  1.RC Deportivo (La Coruña)      42  29  4  9  76-45  91  Promoted
@@ -253,7 +257,7 @@ NB: Villarreal B relegated because of relegation of first team; due to this,
 
 Promoted from 3rd level: CD Lugo, CD Mirandés, SD Ponferradina, Real Madrid Castilla
 
-**Promotion Playoff  ‹§2prom›**
+Promotion Playoff  ‹§2prom›
 
 Semifinals
 
@@ -274,6 +278,7 @@ Second Leg [Jun 16]
 Valladolid                1-1 Alcorcón
 
 NB: Real Valladolid promoted
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -300,9 +305,10 @@ NB: Real Valladolid promoted
 ‹list of top scorers, see page spantops›.
 
 ‹list of foundation dates, see page spanfound›.
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Thanks to Martin Arenlind
 
@@ -315,6 +321,6 @@ Author: Karel Stokkermans
 Last updated: 28 Jan 2021
 
 
-**(C) Copyright Karel Stokkermans and RSSSF 2013/21**
+(C) Copyright Karel Stokkermans and RSSSF 2013/21
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the author. All rights reserved.

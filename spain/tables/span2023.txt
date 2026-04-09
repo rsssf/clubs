@@ -4,17 +4,19 @@
   
 
 
-## Spain 2022/23
+== Spain 2022/23
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 ‹Primera División, see §laliga›
 ‹Segunda División, see §segunda›
 ‹Primera RFEF, see §1rfef›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Primera División  ‹§laliga›
+==== Primera División  ‹§laliga›
 
-
+<!-- start pre -->
 Final Table:
 
  1.FC Barcelona                  38  28  4  6  70-20  88       Champions
@@ -681,12 +683,13 @@ Final Table:
 19.RCD Espanyol (Barcelona)      38   8 13 17  52-69  37       Relegated
 20.Elche CF                      38   5 10 23  30-67  25       Relegated
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Segunda División  ‹§segunda›
+==== Segunda División  ‹§segunda›
 
-
+<!-- start pre -->
 Final Table:
 
  1.Granada CF                    42  22  9 11  55-30  75  [R]  Promoted
@@ -715,7 +718,7 @@ Final Table:
 21.UD Ibiza                      42   7 13 22  33-66  34       Relegated
 22.CD Lugo                       42   6 13 23  27-57  31       Relegated
 
-**Promotion Playoff  ‹§2prom›**
+Promotion Playoff  ‹§2prom›
 
 Semifinals
 
@@ -737,15 +740,16 @@ Alavés                    0-0 Levante
 Second Leg [Jun 17]
 Levante                   0-1 Alavés                    [aet]
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Primera RFEF  ‹§1rfef›
+==== Primera RFEF  ‹§1rfef›
 
-
+<!-- start pre -->
 ‹Grupo 1, see §3g1› | ‹Grupo 2, see §3g2› | ‹Final, see §3gf› | ‹Promotion Playoff, see §3gp›
 
-**Grupo 1  ‹§3g1›**
+Grupo 1  ‹§3g1›
 
 Final Table:
 
@@ -773,7 +777,7 @@ Final Table:
 19.Pontevedra CF                 38   9  9 20  34-53  36  [P]  Relegated
 20.CF Talavera de la Reina       38   8  9 21  36-63  33       Relegated
 
-**Grupo 2  ‹§3g2›**
+Grupo 2  ‹§3g2›
 
 Final Table:
 
@@ -801,7 +805,7 @@ Final Table:
 19.CD Calahorra                  38   7 12 19  31-52  33       Relegated
 20.Athletic de Bilbao B          38   5 11 22  27-54  26       Relegated
 
-**Final  ‹§3gf›**
+Final  ‹§3gf›
 
 First Leg [Jun 3]
 Amorebieta                3-0 Racing Ferrol
@@ -809,7 +813,7 @@ Amorebieta                3-0 Racing Ferrol
 Second Leg [Jun 10]
 Racing Ferrol             2-0 Amorebieta
 
-**Promotion Playoff  ‹§3gp›**
+Promotion Playoff  ‹§3gp›
 
 Round 1
 
@@ -851,6 +855,7 @@ Promoted from 4th level: Antequera CF, CD Arenteiro (O Carballiño), Atlético d
                          Atlético Sanluqueño CF (Sanlúcar de Barrameda), CR Granada, UD Melilla,
                          Real Club Recreativo de Huelva, Sestao River Club, SD Tarazona, CD Teruel
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -877,9 +882,10 @@ Promoted from 4th level: Antequera CF, CD Arenteiro (O Carballiño), Atlético d
 ‹list of top scorers, see page spantops›.
 
 ‹list of foundation dates, see page spanfound›.
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Prepared and maintained by Karel Stokkermans
 the ‹Rec.Sport.Soccer Statistics Foundation›
@@ -890,6 +896,6 @@ Author: Karel Stokkermans
 Last updated: 21 Nov 2023
 
 
-**(C) Copyright Karel Stokkermans and RSSSF 2022/23**
+(C) Copyright Karel Stokkermans and RSSSF 2022/23
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the author. All rights reserved.

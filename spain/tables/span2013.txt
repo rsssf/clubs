@@ -4,17 +4,19 @@
   
 
 
-## Spain 2012/13
+== Spain 2012/13
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 ‹Primera División, see §laliga›
 ‹Copa del Rey, see §coparey›
 ‹Segunda División, see §segunda›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Primera División (Liga BBVA)  ‹§laliga›
+==== Primera División (Liga BBVA)  ‹§laliga›
 
-
+<!-- start pre -->
 Final Table:
 
  1.FC Barcelona                  38  32  4  2 115-40 100  Champions
@@ -642,12 +644,13 @@ Final Table:
 18.RCD Mallorca (Palma de M.)    38   9  9 20  43-72  36  Relegated
 19.RC Deportivo (La Coruña)      38   8 11 19  47-70  35  Relegated
 20.Real Zaragoza                 38   9  7 22  37-62  34  Relegated
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Copa del Rey  ‹§coparey›
+==== Copa del Rey  ‹§coparey›
 
-
+<!-- start pre -->
 Round 1
 [Aug 29]
 SD Noja                   3-2 SD Amorebieta             [aet]
@@ -821,12 +824,13 @@ Sevilla FC                2-2 Atlético de Madrid
 Final [May 17, Madrid]
 Real Madrid CF            1-2 Atlético de Madrid        [aet]
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Segunda División (Liga Adelante)  ‹§segunda›
+==== Segunda División (Liga Adelante)  ‹§segunda›
 
-
+<!-- start pre -->
 Final Table:
 
  1.Elche CF                      42  23 13  6  54-27  82  Promoted
@@ -860,7 +864,7 @@ NB: Guadalajara were relegated because of financial irregularities; due to this,
 
 Promoted from 3rd level: Deportivo Alavés, CD Tenerife, SD Eibar, Real Jaén
 
-**Promotion Playoff  ‹§2prom›**
+Promotion Playoff  ‹§2prom›
 
 Semifinals
 
@@ -882,6 +886,7 @@ Almería                   3-0 Girona
 
 NB: UD Almería promoted
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -908,9 +913,10 @@ NB: UD Almería promoted
 ‹list of top scorers, see page spantops›.
 
 ‹list of foundation dates, see page spanfound›.
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Prepared and maintained by Karel Stokkermans
 the ‹Rec.Sport.Soccer Statistics Foundation›
@@ -921,6 +927,6 @@ Author: Karel Stokkermans
 Last updated: 13 Sep 2018
 
 
-**(C) Copyright Karel Stokkermans and RSSSF 2013/18**
+(C) Copyright Karel Stokkermans and RSSSF 2013/18
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the author. All rights reserved.
