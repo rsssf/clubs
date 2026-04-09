@@ -4,18 +4,20 @@
   
 
 
-## Germany 2020/21
+== Germany 2020/21
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 ‹1. Bundesliga, see §1bl›
 ‹DFB Pokal, see §dfbpokal›
 ‹2. Bundesliga, see §2bl›
 ‹3. Liga, see §3bl›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### 1. Bundesliga  ‹§1bl›
+==== 1. Bundesliga  ‹§1bl›
 
-
+<!-- start pre -->
 Final Table:
 
  1.FC Bayern München            34  24  6  4  99-44  78  [C]  Champions
@@ -559,7 +561,7 @@ Final Table:
 17.SV Werder Bremen             34   7 10 17  36-57  31        Relegated
 18.FC Schalke 04 Gelsenkirchen  34   3  7 24  25-86  16        Relegated
 
-**Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›**
+Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
 
 First Leg [May 26]
 Köln            0-1 Kiel
@@ -568,12 +570,13 @@ Second Leg [May 29]
 Kiel            1-5 Köln
 
 NB: both remain at former level
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### DFB Pokal  ‹§dfbpokal›
+==== DFB Pokal  ‹§dfbpokal›
 
-
+<!-- start pre -->
 Round 1
 [Sep 11]
 Eintracht Braunschweig 5-4 Hertha BSC
@@ -666,12 +669,13 @@ Borussia Dortmund      5-0 Holstein Kiel
 Final [May 13, Olympiastadion, Berlin]
 RB Leipzig             1-4 Borussia Dortmund
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### 2. Bundesliga  ‹§2bl›
+==== 2. Bundesliga  ‹§2bl›
 
-
+<!-- start pre -->
 Final Table:
 
  1.VfL Bochum                   34  21  4  9  66-39  67       Promoted
@@ -697,7 +701,7 @@ Final Table:
 17.Eintracht Braunschweig       34   7 10 17  30-59  31  [P]  Relegated
 18.FC Würzburger Kickers        34   6  7 21  37-69  25  [P]  Relegated
 
-**Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›**
+Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
 
 First Leg [May 27]
 Ingolstadt      3-0 Osnabrück
@@ -706,12 +710,13 @@ Second Leg [May 30]
 Osnabrück       3-1 Ingolstadt
 
 NB: FC Ingolstadt 04 promoted, VfL Osnabrück relegated
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### 3. Liga  ‹§3bl›
+==== 3. Liga  ‹§3bl›
 
-
+<!-- start pre -->
 Final Table:
 
  1.Dynamo Dresden               38  23  6  9  61-29  75  [R]  Promoted
@@ -741,7 +746,7 @@ Final Table:
 NB: KFC Uerdingen 05 failed to obtain a license for the 2021/22 season;
     therefore SV Meppen were reprieved from relegation
 
-**Promotion Playoffs for 3. Bundesliga  ‹§3pro›**
+Promotion Playoffs for 3. Bundesliga  ‹§3pro›
 
 NB: only the winners of the RL Bayern (1.FC Schweinfurt 05) and the
     RL Nord (TSV Havelse) enter the playoff; the winners of the
@@ -756,6 +761,7 @@ Havelse         1-0 Schweinfurt
 
 NB: TSV Havelse promoted
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -798,9 +804,10 @@ NB: TSV Havelse promoted
 ‹list of 2nd level topscorers, see page duit2tops›
 
 ‹list of foundation dates, see page duitfound›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Thanks to Martin Arenlind and Hans Schöggl
 
@@ -813,6 +820,6 @@ Author: Karel Stokkermans
 Last updated: 3 Feb 2022
 
 
-**(C) Copyright Karel Stokkermans and RSSSF 2020/22**
+(C) Copyright Karel Stokkermans and RSSSF 2020/22
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the author. All rights reserved.

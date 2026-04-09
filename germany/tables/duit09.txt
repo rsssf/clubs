@@ -4,14 +4,10 @@
   
 
 
-## Germany 2008/09
+== Germany 2008/09
 
-
-
-
-#### 1. Bundesliga
-
-
+<!-- start pre -->
+1.Bundesliga
 
 Final Table:
 
@@ -538,11 +534,7 @@ NB: Nürnberg promoted, Energie relegated
 
 
 
-
-
-#### DFB Pokal
-
-
+DFB Pokal 2008/09
 
 Round 1
 [Aug 7]
@@ -634,11 +626,10 @@ Bayer Leverkusen         0-1 Werder Bremen
 
 
 
+Second Level 2008/09
 
 
-#### 2. Bundesliga
-
-
+2.Bundesliga
 
 Final Table:
 
@@ -2390,10 +2381,11 @@ Final Table:
 ‹list of foundation dates, see page duitfound›
 
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Prepared and maintained by Karel Stokkermans and
 Marcel Haisma for the
@@ -2405,6 +2397,6 @@ Authors: Karel Stokkermans and Marcel Haisma
 Last updated: 2 Aug 2018
 
 
-**(C) Copyright Karel Stokkermans, Marcel Haisma and RSSSF 2008/18**
+(C) Copyright Karel Stokkermans, Marcel Haisma and RSSSF 2008/18
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the authors. All rights reserved.

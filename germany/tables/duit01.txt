@@ -4,17 +4,13 @@
   
 
 
-## Germany 2000/01
+== Germany 2000/01
 
-
+<!-- start pre -->
 NB: this file contains 1st to 3rd level; there is also a file on the
     ‹4th level 2000/01, see page duit4-01›.
 
-
-
-#### 1. Bundesliga
-
-
+1.Bundesliga
 
 Final Table:
 
@@ -851,11 +847,7 @@ Sergej Barbarez (HSV)       22
 Ebbe Sand (Schalke 04)      22
 
 
-
-
-#### DFB Pokal
-
-
+Germany Cup (DFB Pokal) 2000/01
 
 Round 1
 [Aug 25]
@@ -959,11 +951,7 @@ Final [May 26, Berlin; att: 73,011]
    ref: Hermann Albrecht]
 
 
-
-
-#### 2. Bundesliga
-
-
+2.Bundesliga
 
 Final Table:
 
@@ -1637,10 +1625,11 @@ SpVgg Ansbach                (Bayern)
 
 ‹list of foundation dates, see page duitfound›
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Prepared and maintained by Karel Stokkermans
 for the ‹Rec.Sport.Soccer Statistics Foundation›
@@ -1651,6 +1640,6 @@ Author: Karel Stokkermans
 Last updated: 21 Feb 2002
 
 
-**(C) Copyright Karel Stokkermans and RSSSF 2000/02**
+(C) Copyright Karel Stokkermans and RSSSF 2000/02
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the author. All rights reserved.

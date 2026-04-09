@@ -4,9 +4,9 @@
   
 
 
-## Germany 1966/67
+== Germany 1966/67
 
-
+<!-- start pre -->
 
 
 Final Table
@@ -579,10 +579,11 @@ Eintracht Braunschweig 1966/67
 
 
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 With thanks to Gerd Heuser
 
@@ -596,6 +597,6 @@ Gwidon Naskrent
 
 Last updated: 1 Apr 2001
 
-**(c) Copyright Gwidon Naskrent and RSSSF 2000/01**
+(c) Copyright Gwidon Naskrent and RSSSF 2000/01
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the author. All rights reserved.

@@ -4,9 +4,9 @@
   
 
 
-## Germany 1994/95
+== Germany 1994/95
 
-
+<!-- start pre -->
 
 
 Final Table
@@ -728,10 +728,11 @@ Borussia Dortmund 1994/95
        Michael ZORC          33  (2932) +15
 
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 With thanks to Gerd Heuser
 
@@ -745,6 +746,6 @@ Gwidon Naskrent
 
 Last updated: 15 May 2014
 
-**(c) Copyright Gwidon Naskrent and RSSSF 2001/14**
+(c) Copyright Gwidon Naskrent and RSSSF 2001/14
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the author. All rights reserved.

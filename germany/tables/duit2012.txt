@@ -4,18 +4,20 @@
   
 
 
-## Germany 2011/12
+== Germany 2011/12
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 ‹1. Bundesliga, see §1bl›
 ‹DFB Pokal, see §dfbpokal›
 ‹2. Bundesliga, see §2bl›
 ‹3. Liga, see §3bl›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### 1. Bundesliga  ‹§1bl›
+==== 1. Bundesliga  ‹§1bl›
 
-
+<!-- start pre -->
 Final Table:
 
  1.Borussia Dortmund            34  25  6  3  80-25  81  Champions
@@ -39,7 +41,7 @@ Final Table:
 17.1.FC Köln                    34   8  6 20  39-75  30  Relegated
 18.1.FC Kaiserslautern          34   4 11 19  24-54  23  Relegated
 
-**Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›**
+Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
 
 First Leg [May 10]
 Hertha          1-2 Düsseldorf
@@ -48,12 +50,13 @@ Second Leg [May 15]
 Düsseldorf      2-2 Hertha
 
 NB: Fortuna Düsseldorf promoted, Hertha BSC relegated
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### DFB Pokal  ‹§dfbpokal›
+==== DFB Pokal  ‹§dfbpokal›
 
-
+<!-- start pre -->
 
 Round 1
 [Jul 29]
@@ -142,12 +145,13 @@ Borussia M'gladbach    0-0 Bayern München         [aet, 2-4 pen]
 Final [May 12, Berlin]
 Borussia Dortmund      5-2 Bayern München
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### 2. Bundesliga  ‹§2bl›
+==== 2. Bundesliga  ‹§2bl›
 
-
+<!-- start pre -->
 
 Final Table:
 
@@ -174,7 +178,7 @@ Final Table:
 17.TSV Alemannia Aachen         34   6 13 15  30-47  31  Relegated
 18.FC Hansa Rostock             34   5 12 17  34-63  27  Relegated
 
-**Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›**
+Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
 
 First Leg [May 11]
 Regensburg      1-1 Karlsruhe
@@ -184,12 +188,13 @@ Karlsruhe       2-2 Regensburg
 
 NB: Jahn Regensburg promoted, Karlsruher SC relegated
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### 3. Liga  ‹§3bl›
+==== 3. Liga  ‹§3bl›
 
-
+<!-- start pre -->
 Final Table:
 
  1.SV Sandhausen                38  19  9 10  57-42  66  Promoted
@@ -217,6 +222,7 @@ Final Table:
 20.SV Werder Bremen II          38   4 10 24  29-70  22  Relegated
 
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -259,9 +265,10 @@ Final Table:
 ‹list of 2nd level topscorers, see page duit2tops›
 
 ‹list of foundation dates, see page duitfound›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Prepared and maintained by Karel Stokkermans
 for the ‹Rec.Sport.Soccer Statistics Foundation›
@@ -272,6 +279,6 @@ Author: Karel Stokkermans
 Last updated: 23 Sep 2021
 
 
-**(C) Copyright Karel Stokkermans and RSSSF 2012/21**
+(C) Copyright Karel Stokkermans and RSSSF 2012/21
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the author. All rights reserved.

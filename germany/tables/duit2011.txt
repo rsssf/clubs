@@ -4,18 +4,20 @@
   
 
 
-## Germany 2010/11
+== Germany 2010/11
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 ‹1. Bundesliga, see §1bl›
 ‹DFB Pokal, see §dfbpokal›
 ‹2. Bundesliga, see §2bl›
 ‹3. Liga, see §3bl›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### 1. Bundesliga  ‹§1bl›
+==== 1. Bundesliga  ‹§1bl›
 
-
+<!-- start pre -->
 
 Final Table:
 
@@ -532,7 +534,7 @@ Final Table:
 17. Eintracht Frankfurt   34  9  7 18  31-49  34  Relegated
 18. FC St. Pauli          34  8  5 21  35-68  29  Relegated
 
-**Promotion/Relegation Playoff  ‹§prorel›**
+Promotion/Relegation Playoff  ‹§prorel›
 
 First Leg [May 19]
 Borussia M'gladbach  1-0 VfL Bochum
@@ -542,12 +544,13 @@ VfL Bochum           1-1  Borussia M'gladbach
 
 NB: both remain at former level
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### DFB Pokal  ‹§dfbpokal›
+==== DFB Pokal  ‹§dfbpokal›
 
-
+<!-- start pre -->
 Round 1
 [Aug 13]
 SV Wilhelmshaven       0-4  Eintracht Frankfurt
@@ -637,12 +640,13 @@ Final [May 21, Berlin]
 MSV Duisburg           0-5  FC Schalke 04
     (18' Draxler, 22' Huntelaar, 42' Höwedes, 55' Jurado, 70' Huntelaar)
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### 2. Bundesliga  ‹§2bl›
+==== 2. Bundesliga  ‹§2bl›
 
-
+<!-- start pre -->
 Final Table:
 
  1. Hertha BSC            34 23  5  6  69-28  74  Promoted
@@ -1195,7 +1199,7 @@ Final Table:
 17. Rot-Weiß Oberhausen   34  7  7 20  30-65  28  Relegated
 18. Arminia Bielefeld     34  4  8 22  28-65  17  [-3]  Relegated
 
-**Promotion/Relegation Playoff  ‹§2prorel›**
+Promotion/Relegation Playoff  ‹§2prorel›
 
 First Leg [May 20]
 Dynamo Dresden        1-1  VfL Osnabrück
@@ -1205,12 +1209,13 @@ VfL Osnabrück         1-3  Dynamo Dresden        [aet]
 
 NB: Dynamo Dresden promoted, VfL Osnabrück relegated
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### 3. Liga  ‹§3bl›
+==== 3. Liga  ‹§3bl›
 
-
+<!-- start pre -->
 Final Table:
 
  1.Eintracht Braunschweig 38 26  7  5  81-22  85  Promoted
@@ -1827,6 +1832,7 @@ Final Table:
 [*1] TuS Koblenz refrained from renewing license for 3. Liga
 [*2] Rot Weiss Ahlen moved to last position because of financial problems
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -1869,9 +1875,10 @@ Final Table:
 ‹list of 2nd level topscorers, see page duit2tops›
 
 ‹list of foundation dates, see page duitfound›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Thanks to Martin Arenlind
 
@@ -1884,6 +1891,6 @@ Author: Jan Schoenmakers
 Last updated: 25 Mar 2024
 
 
-**(C) Copyright Jan Schoenmakers and RSSSF 2011/24**
+(C) Copyright Jan Schoenmakers and RSSSF 2011/24
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the author. All rights reserved.

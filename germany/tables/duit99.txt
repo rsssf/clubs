@@ -4,9 +4,9 @@
   
 
 
-## Germany 1998/99
+== Germany 1998/99
 
-
+<!-- start pre -->
 
 Final Table
 
@@ -749,11 +749,7 @@ Neuville (Hansa)       14
 Yeboah (HSV)           14
 
 
-
-
-#### DFB Pokal
-
-
+Germany Cup (DFB Pokal) 1998/99
 
 Round 1
 Karlsruher SC        3-4 VfL Wolfsburg
@@ -860,11 +856,7 @@ Eilts            4-4  Effenberg (high) 4-4
 Rost             5-4  Matthäus (held)  5-4
 
 
-
-
-#### 2. Bundesliga
-
-
+Germany 1998/99  2.Bundesliga
 
 Table:
 
@@ -1109,10 +1101,11 @@ SG Hoechst - SG Quelle F"urth 0-2
 
 ‹list of foundation dates, see page duitfound›
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Prepared and maintained by Gwidon Naskrent
 for the
@@ -1124,6 +1117,6 @@ Gwidon Naskrent
 
 Last updated: 1 Apr 2001
 
-**(c) Copyright Gwidon Naskrent and RSSSF 1999/2001**
+(c) Copyright Gwidon Naskrent and RSSSF 1999/2001
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the author. All rights reserved.

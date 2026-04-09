@@ -4,17 +4,19 @@
   
 
 
-## Germany 2023/24
+== Germany 2023/24
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 ‹1. Bundesliga, see §1bl›
 ‹2. Bundesliga, see §2bl›
 ‹3. Liga, see §3bl›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### 1. Bundesliga  ‹§1bl›
+==== 1. Bundesliga  ‹§1bl›
 
-
+<!-- start pre -->
 Final Table:
 
  1.Bayer 04 Leverkusen          34  28  6  0  89-24  90       Champions
@@ -533,7 +535,7 @@ Final Table:
 17.1.FC Köln                    34   5 12 17  28-60  27       Relegated
 18.SV Darmstadt 98              34   3  8 23  30-86  17  [P]  Relegated
 
-**Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›**
+Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
 
 First Leg [May 23]
 Bochum          0-3 Düsseldorf
@@ -542,12 +544,13 @@ Second Leg [May 27]
 Düsseldorf      0-3 Bochum          [aet, 5-6 pen]
 
 NB: both remain at former level
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### 2. Bundesliga  ‹§2bl›
+==== 2. Bundesliga  ‹§2bl›
 
-
+<!-- start pre -->
 Final Table:
 
  1.FC Sankt Pauli               34  20  9  5  62-36  69       Promoted
@@ -573,7 +576,7 @@ Final Table:
 17.FC Hansa Rostock             34   9  4 21  30-57  31       Relegated
 18.VfL Osnabrück                34   6 10 18  31-69  28  [P]  Relegated
 
-**Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›**
+Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
 
 First Leg [May 24]
 Regensburg      2-2 Wehen Wiesbaden
@@ -582,12 +585,13 @@ Second Leg [May 28]
 Wehen Wiesbaden 1-2 Regensburg
 
 NB: Jahn Regensburg promoted, Wehen Wiesbaden relegated
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### 3. Liga  ‹§3bl›
+==== 3. Liga  ‹§3bl›
 
-
+<!-- start pre -->
 Final Table:
 
  1.SSV Ulm 1846                 38  23  8  7  65-38  77  [P]  Promoted
@@ -614,7 +618,7 @@ Final Table:
 19.VfB Lübeck                   38   6 14 18  37-77  32  [P]  Relegated
 20.SC Freiburg II               38   8  6 24  37-64  30       Relegated
 
-**Promotion Playoffs for 3. Bundesliga  ‹§3pro›**
+Promotion Playoffs for 3. Bundesliga  ‹§3pro›
 
 NB: only the winners of the RL Bayern (FC Würzburger Kickers) and the
     RL Nord (Hannover 96 II) enter the playoff; the winners of the
@@ -629,10 +633,13 @@ Hannover II     3-2 Würzburg        [aet, 5-4 pen]
 
 NB: Hannover 96 II promoted
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 ‹2022/23, see page duit2023›
+
+‹2024/25, see page duit2025›
 
 ‹list of champions, see page duitchamp›
 
@@ -669,9 +676,10 @@ NB: Hannover 96 II promoted
 ‹list of 2nd level topscorers, see page duit2tops›
 
 ‹list of foundation dates, see page duitfound›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Prepared and maintained by Karel Stokkermans
 for the ‹Rec.Sport.Soccer Statistics Foundation›
@@ -679,9 +687,9 @@ for the ‹Rec.Sport.Soccer Statistics Foundation›
 
 Author: Karel Stokkermans
 
-Last updated: 2 Jun 2024
+Last updated: 11 Oct 2024
 
 
-**(C) Copyright Karel Stokkermans and RSSSF 2023/24**
+(C) Copyright Karel Stokkermans and RSSSF 2023/24
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the author. All rights reserved.

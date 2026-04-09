@@ -4,18 +4,20 @@
   
 
 
-## Germany 2016/17
+== Germany 2016/17
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 ‹1. Bundesliga, see §1bl›
 ‹DFB Pokal, see §dfbpokal›
 ‹2. Bundesliga, see §2bl›
 ‹3. Liiga, see §3bl›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### 1. Bundesliga  ‹§1bl›
+==== 1. Bundesliga  ‹§1bl›
 
-
+<!-- start pre -->
 Final Table:
 
  1.FC Bayern München            34  25  7  2  89-22  82  [C]  Champions
@@ -551,7 +553,7 @@ Final Table:
 17.FC Ingolstadt 04             34   8  8 18  36-57  32       Relegated
 18.SV Darmstadt 98              34   7  4 23  28-63  25       Relegated
 
-**Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›**
+Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
 
 First Leg [May 25]
 Wolfsburg       1-0 Braunschweig
@@ -560,12 +562,13 @@ Second Leg [May 29]
 Braunschweig    0-1 Wolfsburg
 
 NB: both remain at former level
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### DFB Pokal  ‹§dfbpokal›
+==== DFB Pokal  ‹§dfbpokal›
 
-
+<!-- start pre -->
 Round 1
 [Aug 19]
 Carl Zeiss Jena        0-5 Bayern München
@@ -653,12 +656,13 @@ Bayern München         2-3 Borussia Dortmund
 
 Final [May 27, Berlin]
 Borussia Dortmund      2-1 Eintracht Frankfurt
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### 2. Bundesliga  ‹§2bl›
+==== 2. Bundesliga  ‹§2bl›
 
-
+<!-- start pre -->
 Final Table:
 
  1.VfB Stuttgart                34  21  6  7  63-37  69  [R]  Promoted
@@ -684,7 +688,7 @@ Final Table:
 17.FC Würzburger Kickers        34   7 13 14  32-41  34  [P]  Relegated
 18.Karlsruher SC                34   5 10 19  27-56  25       Relegated
 
-**Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›**
+Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
 
 First Leg [May 26]
 Regensburg      1-1 1860 München
@@ -696,12 +700,13 @@ NB: TSV 1860 München relegated, Jahn Regensburg promoted;
     as TSV 1860 München cannot fulful the license conditions for the third level,
     they are demoted to the fourth level
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### 3. Liga  ‹§3bl›
+==== 3. Liga  ‹§3bl›
 
-
+<!-- start pre -->
 Final Table:
 
  1.MSV Duisburg                 38  18 14  6  52-32  68        [R]  Promoted
@@ -733,7 +738,7 @@ NB: VfR Aalen and FSV Frankfurt 9 points deducted for infringements of licensing
 NB: SC Paderborn were relegated for the third season in succession; however, they were
     reprieved following the forced demotion of 1860 München to the amateur level
 
-**Promotion Playoffs for 3. Bundesliga  ‹§3pro›**
+Promotion Playoffs for 3. Bundesliga  ‹§3pro›
 
 First Legs [May 28]
 Unterhaching    3-0 Elversberg
@@ -749,6 +754,7 @@ Carl Zeiss Jena 0-1 Viktoria Köln
 
 NB: SpVgg Unterhaching, SV Meppen and Carl Zeiss Jena promoted
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -791,9 +797,10 @@ NB: SpVgg Unterhaching, SV Meppen and Carl Zeiss Jena promoted
 ‹list of 2nd level topscorers, see page duit2tops›
 
 ‹list of foundation dates, see page duitfound›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Thanks to Martin Arenlind
 
@@ -806,6 +813,6 @@ Author: Karel Stokkermans
 Last updated: 7 Jan 2021
 
 
-**(C) Copyright Karel Stokkermans and RSSSF 2016/21**
+(C) Copyright Karel Stokkermans and RSSSF 2016/21
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the author. All rights reserved.

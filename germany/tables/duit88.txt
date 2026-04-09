@@ -4,9 +4,9 @@
   
 
 
-## Germany 1987/88
+== Germany 1987/88
 
-
+<!-- start pre -->
 
 Final Table
 
@@ -650,10 +650,11 @@ Werder Bremen 1987/88
         Thomas WOLTER        16  (1098)
 
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 With thanks to Gerd Heuser
 
@@ -667,6 +668,6 @@ Gwidon Naskrent
 
 Last updated: 1 Apr 2001
 
-**(c) Copyright Gwidon Naskrent and RSSSF 2001**
+(c) Copyright Gwidon Naskrent and RSSSF 2001
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the author. All rights reserved.

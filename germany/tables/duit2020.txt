@@ -4,18 +4,20 @@
   
 
 
-## Germany 2019/20
+== Germany 2019/20
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 ‹1. Bundesliga, see §1bl›
 ‹DFB Pokal, see §dfbpokal›
 ‹2. Bundesliga, see §2bl›
 ‹3. Liga, see §3bl›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### 1. Bundesliga  ‹§1bl›
+==== 1. Bundesliga  ‹§1bl›
 
-
+<!-- start pre -->
 Final Table:
 
  1.FC Bayern München            34  26  4  4 100-32  82  [C]  Champions
@@ -559,7 +561,7 @@ Final Table:
 17.Fortuna Düsseldorf           34   6 12 16  36-67  30       Relegated
 18.SC Paderborn 07              34   4  8 22  37-74  20  [P]  Relegated
 
-**Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›**
+Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
 
 First Leg [Jul 2]
 Bremen          0-0 Heidenheim
@@ -568,12 +570,13 @@ Second Leg [Jul 6]
 Heidenheim      2-2 Bremen
 
 NB: both remain at former level
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### DFB Pokal  ‹§dfbpokal›
+==== DFB Pokal  ‹§dfbpokal›
 
-
+<!-- start pre -->
 Round 1
 [Aug 9]
 Ingolstadt             0-1 Nürnberg
@@ -667,12 +670,13 @@ Bayern München         2-1 Eintracht Frankfurt
 Final [Jul 4, Berlin]
 Bayern München         4-2 Bayer Leverkusen
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### 2. Bundesliga  ‹§2bl›
+==== 2. Bundesliga  ‹§2bl›
 
-
+<!-- start pre -->
 Final Table:
 
  1.DSC Arminia Bielefeld        34  18 14  2  65-30  68       Promoted
@@ -698,7 +702,7 @@ Final Table:
 17.SV Wehen Wiesbaden           34   9  7 18  45-65  34  [P]  Relegated
 18.Dynamo Dresden               34   8  8 18  32-58  32       Relegated
 
-**Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›**
+Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
 
 First Leg [Jul 7]
 Nürnberg        2-0 Ingolstadt
@@ -707,12 +711,13 @@ Second Leg [Jul 11]
 Ingolstadt      3-1 Nürnberg
 
 NB: both remain at former level
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### 3. Liga  ‹§3bl›
+==== 3. Liga  ‹§3bl›
 
-
+<!-- start pre -->
 Final Table:
 
  1.FC Bayern München II         38  19  8 11  76-60  65  [P]  Ineligible for Promotion
@@ -739,7 +744,7 @@ Final Table:
 19.SG Sonnenhof Großaspach      38   8  8 22  33-67  32       Relegated
 20.Carl Zeiss Jena              38   5  8 25  40-85  23       Relegated
 
-**Promotion Playoffs for 3. Bundesliga  ‹§3pro›**
+Promotion Playoffs for 3. Bundesliga  ‹§3pro›
 
 NB: only the winners of the RL Nordost (1.FC Lok Leipzig) and the
     RL West (SV Rödinghausen, who renounced on promotion and were
@@ -754,6 +759,7 @@ Second Leg [Jun 30]
 Verl            1-1 Lok Leipzig
 
 NB: SC Verl promoted
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -796,9 +802,10 @@ NB: SC Verl promoted
 ‹list of 2nd level topscorers, see page duit2tops›
 
 ‹list of foundation dates, see page duitfound›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Prepared and maintained by Karel Stokkermans
 for the ‹Rec.Sport.Soccer Statistics Foundation›
@@ -809,6 +816,6 @@ Author: Karel Stokkermans
 Last updated: 8 Oct 2020
 
 
-**(C) Copyright Karel Stokkermans and RSSSF 2019/20**
+(C) Copyright Karel Stokkermans and RSSSF 2019/20
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the author. All rights reserved.

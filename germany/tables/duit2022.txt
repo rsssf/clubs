@@ -4,17 +4,19 @@
   
 
 
-## Germany 2021/22
+== Germany 2021/22
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 ‹1. Bundesliga, see §1bl›
 ‹2. Bundesliga, see §2bl›
 ‹3. Liga, see §3bl›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### 1. Bundesliga  ‹§1bl›
+==== 1. Bundesliga  ‹§1bl›
 
-
+<!-- start pre -->
 Final Table:
 
  1.FC Bayern München            34  24  5  5  97-37  77  [C]  Champions
@@ -555,7 +557,7 @@ Final Table:
 17.DSC Arminia Bielefeld        34   5 13 16  27-53  28       Relegated
 18.SpVgg Greuther Fürth         34   3  9 22  28-82  18  [P]  Relegated
 
-**Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›**
+Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
 
 First Leg [May 19]
 Hertha          0-1 Hamburg
@@ -564,12 +566,13 @@ Second Leg [May 23]
 Hamburg         0-2 Hertha
 
 NB: both remain at former level
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### 2. Bundesliga  ‹§2bl›
+==== 2. Bundesliga  ‹§2bl›
 
-
+<!-- start pre -->
 Final Table:
 
  1.FC Schalke 04 Gelsenkirchen  34  20  5  9  72-44  65  [R]  Promoted
@@ -595,7 +598,7 @@ Final Table:
 17.FC Erzgebirge Aue            34   6  8 20  32-72  26       Relegated
 18.FC Ingolstadt 04             34   4  9 21  30-65  21  [P]  Relegated
 
-**Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›**
+Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
 
 First Leg [May 20]
 Kaiserslautern  0-0 Dresden
@@ -604,12 +607,13 @@ Second Leg [May 24]
 Dresden         0-2 Kaiserslautern
 
 NB: Kaiserslautern promoted, Dynamo Dresden relegated
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### 3. Liga  ‹§3bl›
+==== 3. Liga  ‹§3bl›
 
-
+<!-- start pre -->
 Final Table:
 
  1.1.FC Magdeburg               36  24  6  6  83-39  78       Promoted
@@ -636,7 +640,7 @@ Final Table:
 19.TSV Havelse                  36   5  8 23  28-71  23  [P]  Relegated
  -.Türkgücü München             withdrew during the season; all results annulled
 
-**Promotion Playoffs for 3. Bundesliga  ‹§3pro›**
+Promotion Playoffs for 3. Bundesliga  ‹§3pro›
 
 NB: only the winners of the RL Nordost (BFC Dynamo) and the RL Nord (VfB Oldenburg)
     enter the playoff; the winners of the RL Bayern (SpVgg Bayreuth), the RL West
@@ -649,6 +653,7 @@ Second Leg [Jun 4]
 Oldenburg       1-2 Dynamo Berlin
 
 NB: VfB Oldenburg promoted
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -691,9 +696,10 @@ NB: VfB Oldenburg promoted
 ‹list of 2nd level topscorers, see page duit2tops›
 
 ‹list of foundation dates, see page duitfound›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Thanks to Martin Arenlind
 
@@ -706,6 +712,6 @@ Author: Karel Stokkermans
 Last updated: 25 Sep 2022
 
 
-**(C) Copyright Karel Stokkermans and RSSSF 2021/22**
+(C) Copyright Karel Stokkermans and RSSSF 2021/22
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the author. All rights reserved.

@@ -4,18 +4,20 @@
   
 
 
-## Germany 2014/15
+== Germany 2014/15
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 ‹1. Bundesliga, see §1bl›
 ‹DFB Pokal, see §dfbpokal›
 ‹2. Bundesliga, see §2bl›
 ‹3. Liga, see §3bl›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### 1. Bundesliga  ‹§1bl›
+==== 1. Bundesliga  ‹§1bl›
 
-
+<!-- start pre -->
 Final Table:
 
  1.FC Bayern München            34  25  4  5  80-18  79  Champions
@@ -548,7 +550,7 @@ Final Table:
 17.SC Freiburg                  34   7 13 14  36-47  34  Relegated
 18.SC Paderborn 07              34   7 10 17  31-65  31  Relegated
 
-**Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›**
+Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
 
 First Leg [May 28]
 Hamburg         1-1 Karlsruhe
@@ -557,12 +559,13 @@ Second Leg [Jun 1]
 Karlsruhe       1-2 Hamburg         [aet]
 
 NB: both remain at former level
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### DFB Pokal  ‹§dfbpokal›
+==== DFB Pokal  ‹§dfbpokal›
 
-
+<!-- start pre -->
 Round 1
 [Aug 15]
 Chemnitz               5-5 Mainz                  [aet, 5-4 pen]
@@ -649,12 +652,13 @@ Arminia Bielefeld      0-4 Wolfsburg
 
 Final [May 30, Berlin]
 Borussia Dortmund      1-3 Wolfsburg
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### 2. Bundesliga  ‹§2bl›
+==== 2. Bundesliga  ‹§2bl›
 
-
+<!-- start pre -->
 Final Table:
 
  1.FC Ingolstadt 04             34  17 13  4  53-32  64  Promoted
@@ -684,7 +688,7 @@ NB: Aalen 2 points deducted for infringements of licensing conditions;
     Sandhausen 3 points deducted for infringements of licensing conditions
 
 
-**Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›**
+Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
 
 First Leg [May 29]
 Kiel            0-0 1860 München
@@ -693,12 +697,13 @@ Second Leg [Jun 2]
 1860 München    2-1 Kiel
 
 NB: both remain at former level
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### 3. Liga  ‹§3bl›
+==== 3. Liga  ‹§3bl›
 
-
+<!-- start pre -->
 Final Table:
 
  1.DSC Arminia Bielefeld        38  22  8  8  75-41  74  Promoted
@@ -727,7 +732,7 @@ Final Table:
 
 NB: Unterhaching 2 points deducted for infringements of licensing conditions
 
-**Promotion Playoffs for 3. Bundesliga  ‹§3pro›**
+Promotion Playoffs for 3. Bundesliga  ‹§3pro›
 
 First Legs [May 27]
 Bremen II       0-0 Mönchengladbach II
@@ -741,6 +746,7 @@ Würzburg        0-1 Saarbrücken     [aet, 6-5 pen]
 
 NB: SV Werder Bremen II, 1.FC Magdeburg and FC Würzburger Kickers promoted
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -783,9 +789,10 @@ NB: SV Werder Bremen II, 1.FC Magdeburg and FC Würzburger Kickers promoted
 ‹list of 2nd level topscorers, see page duit2tops›
 
 ‹list of foundation dates, see page duitfound›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Thanks to Martin Arenlind
 
@@ -798,6 +805,6 @@ Author: Karel Stokkermans
 Last updated: 14 Jan 2021
 
 
-**(C) Copyright Karel Stokkermans and RSSSF 2014/21**
+(C) Copyright Karel Stokkermans and RSSSF 2014/21
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the author. All rights reserved.

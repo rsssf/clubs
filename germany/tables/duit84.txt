@@ -4,9 +4,9 @@
   
 
 
-## Germany 1983/84
+== Germany 1983/84
 
-
+<!-- start pre -->
 
 Final Table
 
@@ -684,10 +684,11 @@ VfB Stuttgart 1983/84
        Günther SCHÄFER       27  (2205) + 2
         Rainer ZIETSCH       11  ( 297)
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 With thanks to Gerd Heuser
 
@@ -701,6 +702,6 @@ Gwidon Naskrent
 
 Last updated: 1 Apr 2001
 
-**(c) Copyright Gwidon Naskrent and RSSSF 2001**
+(c) Copyright Gwidon Naskrent and RSSSF 2001
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the author. All rights reserved.

@@ -4,14 +4,10 @@
   
 
 
-## Germany 2007/08
+== Germany 2007/08
 
-
-
-
-#### 1. Bundesliga
-
-
+<!-- start pre -->
+1.Bundesliga
 
 Final Table:
 
@@ -529,11 +525,7 @@ Final Table:
 
 
 
-
-
-#### DFB Pokal
-
-
+DFB Pokal 2007/08
 
 Round 1
 [Aug 3]
@@ -624,11 +616,10 @@ Borussia Dortmund        1-2 Bayern München            [aet]
 
 
 
+Second Level 2007/08
 
 
-#### 2. Bundesliga
-
-
+2.Bundesliga
 
 Final Table:
 
@@ -2072,10 +2063,11 @@ Württemberg
 ‹list of foundation dates, see page duitfound›
 
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Prepared and maintained by Karel Stokkermans
 and Daniel Dalence for the
@@ -2089,6 +2081,6 @@ Daniel Dalence
 Last updated: 7 Nov 2008
 
 
-**(C) Copyright Karel Stokkermans, Daniel Dalence and RSSSF 2007/08**
+(C) Copyright Karel Stokkermans, Daniel Dalence and RSSSF 2007/08
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the authors. All rights reserved.

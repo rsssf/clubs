@@ -4,17 +4,19 @@
   
 
 
-## Germany 2022/23
+== Germany 2022/23
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 ‹1. Bundesliga, see §1bl›
 ‹2. Bundesliga, see §2bl›
 ‹3. Liga, see §3bl›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### 1. Bundesliga  ‹§1bl›
+==== 1. Bundesliga  ‹§1bl›
 
-
+<!-- start pre -->
 Final Table:
 
  1.FC Bayern München            34  21  8  5  92-38  71  [C]  Champions
@@ -554,7 +556,7 @@ Final Table:
 17.FC Schalke 04 Gelsenkirchen  34   7 10 17  35-71  31  [P]  Relegated
 18.Hertha BSC Berlin            34   7  8 19  42-69  29       Relegated
 
-**Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›**
+Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
 
 First Leg [Jun 1]
 Stuttgart       3-0 Hamburg
@@ -563,12 +565,13 @@ Second Leg [Jun 5]
 Hamburg         1-3 Stuttgart
 
 NB: both remain at former level
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### 2. Bundesliga  ‹§2bl›
+==== 2. Bundesliga  ‹§2bl›
 
-
+<!-- start pre -->
 Final Table:
 
  1.1.FC Heidenheim              34  19 10  5  67-36  67       Promoted
@@ -594,7 +597,7 @@ Final Table:
 17.SSV Jahn Regensburg          34   8  7 19  34-58  31       Relegated
 18.SV Sandhausen                34   7  7 20  35-63  28       Relegated
 
-**Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›**
+Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
 
 First Leg [Jun 2]
 Wehen Wiesbaden 4-0 Bielefeld
@@ -603,12 +606,13 @@ Second Leg [Jun 6]
 Bielefeld       1-2 Wehen Wiesbaden
 
 NB: SV Wehen Wiesbaden promoted, Arminia Bielefeld relegated
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### 3. Liga  ‹§3bl›
+==== 3. Liga  ‹§3bl›
 
-
+<!-- start pre -->
 Final Table:
 
  1.SV 07 Elversberg             38  22  8  8  80-40  74  [P]  Promoted
@@ -637,7 +641,7 @@ Final Table:
 
 [!] ineligible for promotion
 
-**Promotion Playoffs for 3. Bundesliga  ‹§3pro›**
+Promotion Playoffs for 3. Bundesliga  ‹§3pro›
 
 NB: only the winners of the RL Bayern (SpVgg Unterhaching) and the
     RL Nordost (Energie Cottbus) enter the playoff; the winners of
@@ -651,6 +655,7 @@ Second Leg [Jun 11]
 Unterhaching    2-0 Cottbus
 
 NB: SpVgg Unterhaching promoted
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -693,9 +698,10 @@ NB: SpVgg Unterhaching promoted
 ‹list of 2nd level topscorers, see page duit2tops›
 
 ‹list of foundation dates, see page duitfound›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Prepared and maintained by Karel Stokkermans
 for the ‹Rec.Sport.Soccer Statistics Foundation›
@@ -706,6 +712,6 @@ Author: Karel Stokkermans
 Last updated: 21 Nov 2023
 
 
-**(C) Copyright Karel Stokkermans and RSSSF 2022/23**
+(C) Copyright Karel Stokkermans and RSSSF 2022/23
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the author. All rights reserved.

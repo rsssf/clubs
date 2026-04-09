@@ -4,15 +4,11 @@
   
 
 
-## Germany 2002/03
+== Germany 2002/03
 
+<!-- start pre -->
 
-
-
-
-#### 1. Bundesliga
-
-
+1.Bundesliga
 
 Final Table:
 
@@ -543,11 +539,7 @@ Final Table:
 18.FC Energie Cottbus           34  7  9 18  34-64  30  Relegated
 
 
-
-
-#### DFB Pokal
-
-
+Germany Cup (DFB Pokal) 2002/03
 
 
 Round 1                                                                   Spectators
@@ -794,11 +786,7 @@ Red Card: Hristov (78)
 
 
 
-
-
-#### 2. Bundesliga
-
-
+2.Bundesliga
 
 Final Table:
 
@@ -2314,10 +2302,11 @@ Group Bayern Süd
 ‹list of foundation dates, see page duitfound›
 
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Prepared and maintained by Pierre Winkler,
 Daniel Dalence Garcia and Manuel Schmidt for the
@@ -2332,7 +2321,7 @@ and Manuel Schmidt
 Last updated: 1 Jun 2005
 
 
-**(C) Copyright Pierre Winkler, Daniel Dalence Garcia,
-Manuel Schmidt and RSSSF 2002/05**
+(C) Copyright Pierre Winkler, Daniel Dalence Garcia,
+Manuel Schmidt and RSSSF 2002/05
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the authors. All rights reserved.

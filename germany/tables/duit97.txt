@@ -4,9 +4,9 @@
   
 
 
-## Germany 1996/97
+== Germany 1996/97
 
-
+<!-- start pre -->
 
 Final Table
 
@@ -760,11 +760,7 @@ Nº Player      Team                 Goals
 12 Balakov     VfB Stuttgart        13
 
 
-
-
-#### DFB Pokal
-
-
+DFB-Pokal 1996/97
 
 First Round:                    [9-11 Aug 1996]
 
@@ -848,11 +844,7 @@ Final:                    [14 Jun 1997, Berlin]
 VfB Stuttgart-Energie Cottbus               2:0
 
 
-
-
-#### 2. Bundesliga
-
-
+2.Bundesliga
 
 Final Table:
 
@@ -1066,10 +1058,11 @@ Team relegated from 2.Bundesliga to Regionalliga Süd:
 ‹list of foundation dates, see page duitfound›
 
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Thanks to Dinant Abbink for a correction
 
@@ -1084,6 +1077,6 @@ and Frank Ballesteros
 
 Last updated: 11 May 2005
 
-**(c) Copyright Gwidon Naskrent, Frank Ballesteros and RSSSF 2001/05**
+(c) Copyright Gwidon Naskrent, Frank Ballesteros and RSSSF 2001/05
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the authors. All rights reserved.

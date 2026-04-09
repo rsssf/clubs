@@ -4,9 +4,9 @@
   
 
 
-## Germany 1997/98
+== Germany 1997/98
 
-
+<!-- start pre -->
 Final Table
 
  1. 1. FC Kaiserslautern         34 19 11  4  63- 39  68
@@ -730,11 +730,7 @@ Michael PREETZ (Hertha) - 14
 
 
 
-
-
-#### DFB Pokal
-
-
+DFB-Pokal
 
 Round 1
 [Aug 14]
@@ -824,11 +820,7 @@ Final [Berlin Olympia-Stadion, May 16]
 Bayern München       2-1 MSV Duisburg
 
 
-
-
-#### 2. Bundesliga
-
-
+2.Bundesliga
 
 Final Table:
 
@@ -996,10 +988,11 @@ Tennis Borussia Berlin    2-0  Sportfreunde Siegen
 
 ‹list of foundation dates, see page duitfound›
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Prepared and maintained by Gwidon Naskrent and Daniel Dalence
 for the
@@ -1012,6 +1005,6 @@ and Daniel Dalence
 
 Last updated: 7 Jun 2005
 
-**(c) Copyright Gwidon Naskrent, Daniel Dalence and RSSSF 2001/05**
+(c) Copyright Gwidon Naskrent, Daniel Dalence and RSSSF 2001/05
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the authors. All rights reserved.

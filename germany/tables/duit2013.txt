@@ -4,18 +4,20 @@
   
 
 
-## Germany 2012/13
+== Germany 2012/13
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 ‹1. Bundesliga, see §1bl›
 ‹DFB Pokal, see §dfbpokal›
 ‹2. Bundesliga, see §2bl›
 ‹3. Liga, see §3bl›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### 1. Bundesliga  ‹§1bl›
+==== 1. Bundesliga  ‹§1bl›
 
-
+<!-- start pre -->
 Final Table:
 
  1.FC Bayern München            34  29  4  1  98-18  91  Champions
@@ -528,7 +530,7 @@ Final Table:
 18.SpVgg Greuther Fürth         34   4  9 21  26-60  21  Relegated
 
 
-**Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›**
+Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
 
 First Leg [May 23]
 Hoffenheim      3-1 Kaiserslautern
@@ -537,12 +539,13 @@ Second Leg [May 27]
 Kaiserslautern  1-2 Hoffenheim
 
 NB: both remain at former level
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### DFB Pokal  ‹§dfbpokal›
+==== DFB Pokal  ‹§dfbpokal›
 
-
+<!-- start pre -->
 Round 1
 [Aug 17]
 Sonnenhof Großaspach   1-2 FSV Frankfurt
@@ -629,12 +632,13 @@ Stuttgart              2-1 Freiburg
 
 Final [Jun 1, Berlin]
 Bayern München         3-2 Stuttgart
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### 2. Bundesliga  ‹§2bl›
+==== 2. Bundesliga  ‹§2bl›
 
-
+<!-- start pre -->
 Final Table:
 
  1.Hertha BSC Berlin            34  22 10  2  65-28  76  Promoted
@@ -1188,7 +1192,7 @@ Final Table:
 NB: MSV Duisburg were refused a license; because of this Sandhausen remained at the
     second level
 
-**Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›**
+Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
 
 First Leg [May 24]
 Osnabrück       1-0 Dresden
@@ -1197,12 +1201,13 @@ Second Leg [May 28]
 Dresden         2-0 Osnabrück
 
 NB: both remain at former level
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### 3. Liga  ‹§3bl›
+==== 3. Liga  ‹§3bl›
 
-
+<!-- start pre -->
 Final Table:
 
  1.Karlsruher SC                38  23 10  5  69-27  79  Promoted
@@ -1232,7 +1237,7 @@ Final Table:
 NB: Offenbacher Kickers were refused a license; because of this Darmstadt remained
     at the third level
 
-**Promotion Playoffs for 3. Bundesliga  ‹§3pro›**
+Promotion Playoffs for 3. Bundesliga  ‹§3pro›
 
 First Legs [May 29]
 RB Leipzig      2-0 Lotte
@@ -1247,6 +1252,7 @@ Kassel          1-2 Kiel
 1860 München II 1-1 Elversberg
 
 NB: RB Leipzig, Holstein Kiel and Elversberg promoted
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -1289,9 +1295,10 @@ NB: RB Leipzig, Holstein Kiel and Elversberg promoted
 ‹list of 2nd level topscorers, see page duit2tops›
 
 ‹list of foundation dates, see page duitfound›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Prepared and maintained by Karel Stokkermans
 for the ‹Rec.Sport.Soccer Statistics Foundation›
@@ -1302,6 +1309,6 @@ Author: Karel Stokkermans
 Last updated: 2 Aug 2018
 
 
-**(C) Copyright Karel Stokkermans and RSSSF 2012/18**
+(C) Copyright Karel Stokkermans and RSSSF 2012/18
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the author. All rights reserved.

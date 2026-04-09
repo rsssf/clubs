@@ -4,18 +4,20 @@
   
 
 
-## Germany 2017/18
+== Germany 2017/18
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 ‹1. Bundesliga, see §1bl›
 ‹DFB Pokal, see §dfbpokal›
 ‹2. Bundesliga, see §2bl›
 ‹3. Liga, see §3bl›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### 1. Bundesliga  ‹§1bl›
+==== 1. Bundesliga  ‹§1bl›
 
-
+<!-- start pre -->
 Final Table:
 
  1.FC Bayern München            34  27  3  4  92-28  84  [C]  Champions
@@ -557,7 +559,7 @@ Final Table:
 17.Hamburger SV                 34   8  7 19  29-53  31       Relegated
 18.1.FC Köln                    34   5  7 22  35-70  22       Relegated
 
-**Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›**
+Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
 
 First Leg [May 17]
 Wolfsburg       3-1 Kiel
@@ -566,12 +568,13 @@ Second Leg [May 21]
 Kiel            0-1 Wolfsburg
 
 NB: both remain at former level
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### DFB Pokal  ‹§dfbpokal›
+==== DFB Pokal  ‹§dfbpokal›
 
-
+<!-- start pre -->
 Round 1
 [Aug 11]
 TuS Koblenz            2-3 Dynamo Dresden
@@ -658,12 +661,13 @@ Schalke 04             0-1 Eintracht Frankfurt
 
 Final [May 19, Berlin]
 Eintracht Frankfurt    3-1 Bayern München
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### 2. Bundesliga  ‹§2bl›
+==== 2. Bundesliga  ‹§2bl›
 
-
+<!-- start pre -->
 Final Table:
 
  1.Fortuna Düsseldorf           34  19  6  9  57-44  63       Promoted
@@ -689,7 +693,7 @@ Final Table:
 17.Eintracht Braunschweig       34   8 15 11  37-43  39       Relegated
 18.1.FC Kaiserslautern          34   9  8 17  42-55  35       Relegated
 
-**Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›**
+Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
 
 First Leg [May 18]
 Karlsruhe       0-0 Aue
@@ -699,12 +703,13 @@ Aue             3-1 Karlsruhe
 
 NB: both remain at former level
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### 3. Liga  ‹§3bl›
+==== 3. Liga  ‹§3bl›
 
-
+<!-- start pre -->
 Final Table:
 
  1.1.FC Magdeburg               38  27  4  7  70-32  85       Promoted
@@ -731,7 +736,7 @@ Final Table:
 19.Chemnitzer FC                38   8  7 23  48-74  22  [-9] Relegated
 20.Rot-Weiß Erfurt              38   5  8 25  26-78  13 [-10] Relegated
 
-**Promotion Playoffs for 3. Bundesliga  ‹§3pro›**
+Promotion Playoffs for 3. Bundesliga  ‹§3pro›
 
 First Legs [May 24]
 Saarbrücken     2-3 1860 München
@@ -745,6 +750,7 @@ Waldhof         awd Uerdingen       [abandoned at 1-2 in 82'; awarded 0-2]
 
 NB: TSV 1860 München, Energie Cottbus and KFC Uerdingen 05 promoted
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -787,9 +793,10 @@ NB: TSV 1860 München, Energie Cottbus and KFC Uerdingen 05 promoted
 ‹list of 2nd level topscorers, see page duit2tops›
 
 ‹list of foundation dates, see page duitfound›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Thanks to Florian Andrews for corrections
 
@@ -802,6 +809,6 @@ Author: Karel Stokkermans
 Last updated: 9 May 2019
 
 
-**(C) Copyright Karel Stokkermans and RSSSF 2017/19**
+(C) Copyright Karel Stokkermans and RSSSF 2017/19
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the author. All rights reserved.

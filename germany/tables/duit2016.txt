@@ -4,18 +4,20 @@
   
 
 
-## Germany 2015/16
+== Germany 2015/16
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 ‹1. Bundesliga, see §1bl›
 ‹DFB Pokal, see §dfbpokal›
 ‹2. Bundesliga, see §2bl›
 ‹3. Liga, see §3bl›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### 1. Bundesliga  ‹§1bl›
+==== 1. Bundesliga  ‹§1bl›
 
-
+<!-- start pre -->
 Final Table:
 
  1.FC Bayern München            34  28  4  2  80-17  88  [C]  Champions
@@ -552,7 +554,7 @@ Final Table:
 17.VfB Stuttgart                34   9  6 19  50-75  33  Relegated
 18.Hannover 96                  34   7  4 23  31-62  25  Relegated
 
-**Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›**
+Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
 
 First Leg [May 19]
 Frankfurt       1-1 Nürnberg
@@ -561,12 +563,13 @@ Second Leg [May 23]
 Nürnberg        0-1 Frankfurt
 
 NB: both remain at former level
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### DFB Pokal  ‹§dfbpokal›
+==== DFB Pokal  ‹§dfbpokal›
 
-
+<!-- start pre -->
 Round 1
 [Aug 7]
 BFC Dynamo (Berlin)    0-2 FSV Frankfurt
@@ -653,12 +656,13 @@ Hertha BSC             0-3 Borussia Dortmund
 
 Final [May 21, Berlin]
 Bayern München         0-0 Borussia Dortmund      [aet, 4-3 pen]
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### 2. Bundesliga  ‹§2bl›
+==== 2. Bundesliga  ‹§2bl›
 
-
+<!-- start pre -->
 Final Table:
 
  1.SC Freiburg                  34  22  6  6  75-39  72  [R]  Promoted
@@ -686,7 +690,7 @@ Final Table:
 
 NB: Sandhausen 3 points deducted for infringements of licensing conditions
 
-**Promotion/Relegation Playoff 2./3. Liga  ‹§2prorel›**
+Promotion/Relegation Playoff 2./3. Liga  ‹§2prorel›
 
 First Leg [May 20]
 Würzburg        2-0 Duisburg
@@ -695,12 +699,13 @@ Second Leg [May 24]
 Duisburg        1-2 Würzburg
 
 NB: MSV Duisburg relegated, FC Würzburger Kickers promoted
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### 3. Liga  ‹§3bl›
+==== 3. Liga  ‹§3bl›
 
-
+<!-- start pre -->
 Final Table:
 
  1.Dynamo Dresden               38  21 15  2  75-35  78  Promoted
@@ -727,7 +732,7 @@ Final Table:
 19.FC Energie Cottbus           38   9 14 15  32-52  41  Relegated
 20.VfB Stuttgart II             38   7 10 21  38-63  31  Relegated
 
-**Promotion Playoffs for 3. Bundesliga  ‹§3pro›**
+Promotion Playoffs for 3. Bundesliga  ‹§3pro›
 
 First Legs [May 25]
 Elversberg      1-1 Zwickau
@@ -741,6 +746,7 @@ Waldhof         0-2 Lotte
 
 NB: FSV Zwickau, Jahn Regensburg and Sportfreunde Lotte promoted
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -783,9 +789,10 @@ NB: FSV Zwickau, Jahn Regensburg and Sportfreunde Lotte promoted
 ‹list of 2nd level topscorers, see page duit2tops›
 
 ‹list of foundation dates, see page duitfound›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Prepared and maintained by Karel Stokkermans
 for the ‹Rec.Sport.Soccer Statistics Foundation›
@@ -796,6 +803,6 @@ Author: Karel Stokkermans
 Last updated: 9 May 2019
 
 
-**(C) Copyright Karel Stokkermans and RSSSF 2015/19**
+(C) Copyright Karel Stokkermans and RSSSF 2015/19
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the author. All rights reserved.

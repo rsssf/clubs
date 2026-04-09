@@ -4,18 +4,20 @@
   
 
 
-## Germany 2018/19
+== Germany 2018/19
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 ‹1. Bundesliga, see §1bl›
 ‹DFB Pokal, see §dfbpokal›
 ‹2. Bundesliga, see §2bl›
 ‹3. Liga, see §3bl›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### 1. Bundesliga  ‹§1bl›
+==== 1. Bundesliga  ‹§1bl›
 
-
+<!-- start pre -->
 Final Table:
 
  1.FC Bayern München            34  24  6  4  88-32  78  [C]  Champions
@@ -559,7 +561,7 @@ Final Table:
 17.Hannover 96                  34   5  6 23  31-71  21       Relegated
 18.1.FC Nürnberg                34   3 10 21  26-68  19  [P]  Relegated
 
-**Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›**
+Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
 
 First Leg [May 23]
 Stuttgart       2-2 Union Berlin
@@ -569,12 +571,13 @@ Union Berlin    0-0 Stuttgart
 
 NB: 1.FC Union Berlin promoted, VfB Stuttgart relegated
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### DFB Pokal  ‹§dfbpokal›
+==== DFB Pokal  ‹§dfbpokal›
 
-
+<!-- start pre -->
 Round 1
 [Aug 17]
 Magdeburg              0-1 Darmstadt 98
@@ -661,12 +664,13 @@ Werder Bremen          2-3 Bayern München
 
 Final [May 25, Berlin]
 RB Leipzig             0-3 Bayern München
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### 2. Bundesliga  ‹§2bl›
+==== 2. Bundesliga  ‹§2bl›
 
-
+<!-- start pre -->
 Final Table:
 
  1.1.FC Köln                    34  19  6  9  84-47  63  [R]  Promoted
@@ -692,7 +696,7 @@ Final Table:
 17.1.FC Magdeburg               34   6 13 15  35-53  31  [P]  Relegated
 18.MSV Duisburg                 34   6 10 18  39-65  28       Relegated
 
-**Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›**
+Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
 
 First Leg [May 24]
 Wiesbaden       1-2 Ingolstadt
@@ -701,12 +705,13 @@ Second Leg [May 28]
 Ingolstadt      2-3 Wiesbaden
 
 NB: SV Wehen Wiesbaden promoted, FC Ingolstadt 04 relegated
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### 3. Liga  ‹§3bl›
+==== 3. Liga  ‹§3bl›
 
-
+<!-- start pre -->
 Final Table:
 
  1.VfL Osnabrück                38  22 10  6  56-31  76       Promoted
@@ -733,7 +738,7 @@ Final Table:
 19.Fortuna Köln                 38   9 12 17  38-64  39       Relegated
 20.VfR Aalen                    38   6 13 19  45-62  31       Relegated
 
-**Promotion Playoffs for 3. Bundesliga  ‹§3pro›**
+Promotion Playoffs for 3. Bundesliga  ‹§3pro›
 
 NB: only the winners of the RL Nord (VfL Wolfsburg II) and the RL Bayern
     (FC Bayern München II) enter the playoff; the winners of the RL Nordost
@@ -748,6 +753,7 @@ Bayern II       4-1 Wolfsburg II
 
 NB: FC Bayern München II promoted
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -790,9 +796,10 @@ NB: FC Bayern München II promoted
 ‹list of 2nd level topscorers, see page duit2tops›
 
 ‹list of foundation dates, see page duitfound›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Thanks to Martin Arenlind
 
@@ -805,6 +812,6 @@ Author: Karel Stokkermans
 Last updated: 14 Jan 2021
 
 
-**(C) Copyright Karel Stokkermans and RSSSF 2018/21**
+(C) Copyright Karel Stokkermans and RSSSF 2018/21
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the author. All rights reserved.

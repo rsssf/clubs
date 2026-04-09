@@ -4,18 +4,20 @@
   
 
 
-## Germany 2009/10
+== Germany 2009/10
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 ‹1. Bundesliga, see §1bl›
 ‹DFB Pokal, see §dfbpokal›
 ‹2. Bundesliga, see §2bl›
 ‹3. Liga, see §3bl›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### 1. Bundesliga  ‹§1bl›
+==== 1. Bundesliga  ‹§1bl›
 
-
+<!-- start pre -->
 Final Table:
 
  1.FC Bayern München            34 20 10  4  72-31  70  Champions
@@ -526,7 +528,7 @@ Final Table:
 17.VfL Bochum                   34  6 10 18  33-64  28  Relegated
 18.Hertha BSC Berlin            34  5  9 20  34-56  24  Relegated
 
-**Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›**
+Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
 
 First Leg [May 13]
 Nürnberg        1-0 Augsburg
@@ -536,12 +538,13 @@ Augsburg        0-2 Nürnberg
 
 NB: Nürnberg remain in 1. Bundesliga, Augsburg in 2. Bundesliga
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### DFB Pokal  ‹§dfbpokal›
+==== DFB Pokal  ‹§dfbpokal›
 
-
+<!-- start pre -->
 Round 1
 [Jul 31]
 Wehen                  1-4 Wolfsburg
@@ -629,12 +632,13 @@ Schalke                0-1 Bayern München         [aet]
 Final [May 15, Berlin]
 Werder Bremen          0-4 Bayern München
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### 2. Bundesliga  ‹§2bl›
+==== 2. Bundesliga  ‹§2bl›
 
-
+<!-- start pre -->
 Final Table:
 
  1.1.FC Kaiserslautern          34 19 10  5  56-28  67  Promoted
@@ -1193,7 +1197,7 @@ Final Table:
 NB: Arminia Bielefeld had 4 points deducted at the end of
     the season for infringement of license regulations
 
-**Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›**
+Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
 
 First Leg [May 14]
 Ingolstadt      1-0 Rostock
@@ -1203,12 +1207,13 @@ Rostock         0-2 Ingolstadt
 
 NB: Ingolstadt promoted, Hansa Rostock relegated
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### 3. Liga  ‹§3bl›
+==== 3. Liga  ‹§3bl›
 
-
+<!-- start pre -->
 Final Table:
 
  1.VfL Osnabrück                38 20  9  9  55-37  69  Promoted
@@ -1825,6 +1830,7 @@ Final Table:
 19.Holstein Kiel                38  9 11 18  43-61  38  Relegated
 20.Wuppertaler SV Borussia      38 10  8 20  40-61  38  Relegated
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -1867,9 +1873,10 @@ Final Table:
 ‹list of 2nd level topscorers, see page duit2tops›
 
 ‹list of foundation dates, see page duitfound›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Thanks to Michael van D. for corrections
 
@@ -1883,7 +1890,7 @@ Authors: Karel Stokkermans and Marcel Haisma
 Last updated: 2 Aug 2018
 
 
-**(C) Copyright Karel Stokkermans, Marcel Haisma and
-RSSSF 2009/18**
+(C) Copyright Karel Stokkermans, Marcel Haisma and
+RSSSF 2009/18
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the authors. All rights reserved.
