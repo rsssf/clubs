@@ -4,9 +4,9 @@
   
 
 
-## Austria 1998/99
+== Austria 1998/99
 
-
+<!-- start pre -->
 Bundesliga
 
 Final Table:
@@ -2251,7 +2251,7 @@ Tirol
 =====
 
 **************************
-     FOHRENBURGER CUP  ‹§tircup›
+     ‹§tircup›FOHRENBURGER CUP
 **************************
 
 Two preliminary rounds (without teams from Regionalliga) with 22 games
@@ -2924,7 +2924,7 @@ Eighth Level
 14.Young Guns                   26  2  3 21 40-149  9
 
 
-
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -2941,9 +2941,10 @@ Eighth Level
 ‹list of super cup finals, see page oostsupcuphist›.
 
 ‹list of foundation dates, see page oostfound›.
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Prepared and maintained by the ‹RSSSF, see page ../nersssf›
 
@@ -2953,6 +2954,6 @@ Author: RSSSF
 Last updated: 15 Jun 2022
 
 
-**(C) Copyright RSSSF 1999/2022**
+(C) Copyright RSSSF 1999/2022
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the RSSSF. All rights reserved.

@@ -4,9 +4,9 @@
   
 
 
-## Austria 2001/02
+== Austria 2001/02
 
-
+<!-- start pre -->
 First Level (Bundesliga)
 
 Final Table:
@@ -3188,6 +3188,7 @@ Dissolved: SC Serfaus (merges with FC Prutz from 1.Klasse)
 No relegation, lowest class.
 
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -3204,9 +3205,10 @@ No relegation, lowest class.
 ‹list of super cup finals, see page oostsupcuphist›.
 
 ‹list of foundation dates, see page oostfound›.
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Prepared and maintained by Andreas Exenberger
 and Karel Stokkermans for the
@@ -3220,7 +3222,7 @@ and Karel Stokkermans
 Last updated: 15 Jun 2022
 
 
-**(C) Copyright Andreas Exenberger, Karel Stokkermans
-and RSSSF 2001/22**
+(C) Copyright Andreas Exenberger, Karel Stokkermans
+and RSSSF 2001/22
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the authors. All rights reserved.

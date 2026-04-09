@@ -4,9 +4,9 @@
   
 
 
-## Austria 1978/79
+== Austria 1978/79
 
-
+<!-- start pre -->
 1.Division
 
 Final Table:
@@ -422,10 +422,11 @@ SV Innsbruck and Innsbrucker Sportklub.
 ‹list of foundation dates, see page oostfound›.
 
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Prepared and maintained by Ambrosius Kutschera
 for the ‹Rec.Sport.Soccer Statistics Foundation›
@@ -435,6 +436,6 @@ Author: Ambrosius Kutschera
 Last updated: 26 Mar 2005
 
 
-**(C) Copyright Ambrosius Kutschera and RSSSF 2003/05**
+(C) Copyright Ambrosius Kutschera and RSSSF 2003/05
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the author. All rights reserved.

@@ -4,9 +4,9 @@
   
 
 
-## Austria 1990/91
+== Austria 1990/91
 
-
+<!-- start pre -->
 Fall season
 ===========
 
@@ -482,10 +482,11 @@ Cup Final: SV Stockerau 2-1 Rapid
 
 
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Prepared and maintained by Ambrosius Kutschera
 for the ‹Rec.Sport.Soccer Statistics Foundation›
@@ -495,6 +496,6 @@ Author: Ambrosius Kutschera
 Last updated: 18 May 2003
 
 
-**(C) Copyright Ambrosius Kutschera and RSSSF 1999/2003**
+(C) Copyright Ambrosius Kutschera and RSSSF 1999/2003
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the author. All rights reserved.

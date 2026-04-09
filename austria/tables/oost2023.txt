@@ -4,22 +4,24 @@
   
 
 
-## Austria 2022/23
+== Austria 2022/23
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 ‹Bundesliga, see §bund›
 ‹ÖFB Cup, see §cup›
 ‹2. Liga, see §1liga›
 ‹Regionalliga, see §regliga›
 ‹Cup Tournaments Bundesländer, see §bundcup›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Bundesliga  ‹§bund›
+==== Bundesliga  ‹§bund›
 
-
+<!-- start pre -->
 ‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
-**Regular Stage  ‹§reg›**
+Regular Stage  ‹§reg›
 
 Final Table:
 
@@ -277,11 +279,11 @@ Final Table:
 
 NB: Austria Wien 3 points deducted
 
-**Playoff Stage  ‹§play›**
+Playoff Stage  ‹§play›
 
 ‹Championship Playoff, see §champ› | ‹Relegation Playoff, see §releg›
 
-<u>Championship Playoff  ‹§champ›</u>
+Championship Playoff  ‹§champ›
 
 Final Table:
 
@@ -359,7 +361,7 @@ Final Table:
 NB: teams carry over half their points from the regular stage (listed between
     square brackets), rounded downwards (marked by * where applicable)
 
-<b>Conference League Playoff  ‹§conf›</a></b>
+Conference League Playoff  ‹§conf›
 
 NB: between fifth placed club from the championship playoff and the
     top-2 of the relegation playoff
@@ -375,7 +377,7 @@ Austria L        1-1 Austria W
 Second Leg [Jun 11]
 Austria W        5-0 Austria L
 
-<u>Relegation Playoff  ‹§releg›</u>
+Relegation Playoff  ‹§releg›
 
 Final Table:
 
@@ -485,12 +487,13 @@ Topscorers:
 10 Nuhiu (Altach)
    Adamu (Red Bull Salzburg)
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### ÖFB Cup  ‹§cup›
+==== ÖFB Cup  ‹§cup›
 
-
+<!-- start pre -->
 Round 1
 [Jul 15]
 DSV Leoben                          1-2 TSV Hartberg
@@ -584,12 +587,13 @@ SK Sturm Graz                       1-0 LASK
 Final [Apr 30, 28 Black Arena, Klagenfurt; att: 30,000]
 SK Rapid Wien                       0-2 SK Sturm Graz
   [Sarkaria 65, 84]
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### 2. Liga (Second Level)  ‹§1liga›
+==== 2. Liga (Second Level)  ‹§1liga›
 
-
+<!-- start pre -->
 Final Table:
 
  1.FC Blau-Weiß Linz            30  19  4  7  63-27  61       Promoted
@@ -1038,15 +1042,16 @@ Final Table:
 15.SK Rapid Wien II             30   7  9 14  33-55  30       Relegated
 16.Young Violets Austria Wien   30   7  8 15  34-61  29       Relegated
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Regionalliga  ‹§regliga›
+==== Regionalliga  ‹§regliga›
 
-
+<!-- start pre -->
 ‹Regionalliga West, see §regwest› | ‹Regionalliga Mitte, see §regmitte› | ‹Regionalliga Ost, see §regost›
 
-**Regionalliga West  ‹§regwest›**
+Regionalliga West  ‹§regwest›
 
 Final Table:
 
@@ -1058,7 +1063,7 @@ Final Table:
  5.FC Pinzgau Saalfelden        10   2  3  5  13-16   9
  6.SVG Reichenau                10   1  2  7  13-28   5
 
-**Regionalliga Mitte  ‹§regmitte›**
+Regionalliga Mitte  ‹§regmitte›
 
 Final Table:
 
@@ -1083,7 +1088,7 @@ Final Table:
 
 [*] FC Juniors Oberösterreich were renamed LASK Amateure OÖ
 
-**Regionalliga Ost  ‹§regost›**
+Regionalliga Ost  ‹§regost›
 
 Final Table:
 
@@ -1108,15 +1113,16 @@ Final Table:
 
 [*] FC Marchfeld/Mannsdorf-Großenzersdorf were renamed FC Marchfeld Donauauen
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Cup Tournaments Bundesländer  ‹§bundcup›
+==== Cup Tournaments Bundesländer  ‹§bundcup›
 
-
+<!-- start pre -->
 NB: winners qualify for ‹ÖFB-Cup 2023/24, see page oost2024.html#cup›.
 
-**Burgenland-Cup 2022/23  ‹§burgcup›**
+Burgenland-Cup 2022/23  ‹§burgcup›
 
 Quarterfinals [Apr 10]
 ASK Klingenbach               1-2 SC Neusiedl
@@ -1131,7 +1137,7 @@ DSC Pinkafeld                 2-2 SC/ESV Parndorf               [4-5 pen]
 Final [May 29]
 SC/ESV Parndorf               5-2 SC Neusiedl
 
-**Kärnten Cup 2022/23  ‹§kaerncup›**
+Kärnten Cup 2022/23  ‹§kaerncup›
 
 Quarterfinals [Oct 26]
 SC St. Veit                   1-2 ATUS Ferlach
@@ -1151,7 +1157,7 @@ SV Dellach/Gail               2-2 SAK Klagendfurt
 Second Leg [Jun 17]
 SAK Klagenfurt                3-1 SV Dellach/Gail
 
-**NÖ (Niederösterreich) Cup 2022/23  ‹§noecup›**
+NÖ (Niederösterreich) Cup 2022/23  ‹§noecup›
 
 Quarterfinals [Apr 10]
 St. Bernhard/Frauenhofen      0-1 SC Gmünd
@@ -1171,7 +1177,7 @@ SC Katzelsdorf                0-0 SV Haitzendorf
 Second Leg [May 29]
 SV Haitzendorf                0-0 SC Katzelsdorf                [7-6 pen]
 
-**OÖ (Oberösterreich) Landescup 2022/23  ‹§ooecup›**
+OÖ (Oberösterreich) Landescup 2022/23  ‹§ooecup›
 
 Quarterfinals
 [Apr 18]
@@ -1188,7 +1194,7 @@ Wallern/St. Marienkirchen     4-2 SPG Pregarten
 Final  [May 18]
 Wallern/St. Marienkirchen     2-3 SV Bad Schallerbach           [aet]
 
-**SFV (Salzburg) Cup 2022/23  ‹§salzcup›**
+SFV (Salzburg) Cup 2022/23  ‹§salzcup›
 
 1/8 Finals [Oct 26]
 SC Mittersill                 1-0 SAK 1914
@@ -1213,7 +1219,7 @@ UFV ThaLGAU                   1-1 SV Kuchl                      [4-5 pen]
 Final [May 17]
 SV Austria Salzburg           1-0 SV Kuchl
 
-**Steirer Cup 2022/23  ‹§steicup›**
+Steirer Cup 2022/23  ‹§steicup›
 
 Quarterfinals
 [Oct 25]
@@ -1230,7 +1236,7 @@ SC Weiz                       3-0 SV Tillmitsch
 Final [May 29]
 ASK Köflach                   1-2 DSV Leoben
 
-**Tirol-Cup 2022/23  ‹§tircup›**
+Tirol-Cup 2022/23  ‹§tircup›
 
 Quarterfinals [May 1]
 SPG Prutz/Serfaus             3-1 SV Fügen
@@ -1245,7 +1251,7 @@ SPG Prutz/Serfaus             1-4 SV Oberperfuss
 Final [May 28]
 SC Imst                       5-3 SV Oberperfuss
 
-**VFV (Vorarlberg) Cup 2022/23  ‹§vorcup›**
+VFV (Vorarlberg) Cup 2022/23  ‹§vorcup›
 
 Quarterfinals
 [May 9]
@@ -1262,7 +1268,7 @@ SCR Altach Juniors            2-3 FC Wolfurt
 Final [Jun 7]
 FC Alberschwende              0-2 FC Wolfurt
 
-**Wiener Landescup 2022/23  ‹§wiencup›**
+Wiener Landescup 2022/23  ‹§wiencup›
 
 Quarterfinals
 [Mar 22]
@@ -1283,6 +1289,7 @@ LAC-Inter                     1-3 SV Dinamoo Helfort
 Final [May 24]
 SV Dinamo Helfort             0-2 Austria XIII
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -1299,9 +1306,10 @@ SV Dinamo Helfort             0-2 Austria XIII
 ‹list of super cup finals, see page oostsupcuphist›.
 
 ‹list of foundation dates, see page oostfound›.
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Thanks to Martin Arenlind
 
@@ -1314,6 +1322,6 @@ Author: Hans Schöggl
 Last updated: 14 Jun 2024
 
 
-**(C) Copyright Hans Schöggl and RSSSF 2022/24**
+(C) Copyright Hans Schöggl and RSSSF 2022/24
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the author. All rights reserved.

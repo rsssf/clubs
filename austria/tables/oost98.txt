@@ -4,9 +4,9 @@
   
 
 
-## Austria 1997/98
+== Austria 1997/98
 
-
+<!-- start pre -->
 1.Bundesliga
 
 Final Table:
@@ -1788,7 +1788,7 @@ Standings (26-04)
 
 [Top-3 finished: 1. FC Lustenau 1b; 2. SW Bregenz Amateure; 3. FC Lauterach 1b]
 
-
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -1805,9 +1805,10 @@ Standings (26-04)
 ‹list of super cup finals, see page oostsupcuphist›.
 
 ‹list of foundation dates, see page oostfound›.
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Prepared and maintained by the ‹RSSSF, see page ../nersssf›
 
@@ -1817,6 +1818,6 @@ Author: RSSSF
 Last updated: 15 Jun 2022
 
 
-**(C) Copyright RSSSF 1999/2022**
+(C) Copyright RSSSF 1999/2022
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the RSSSF. All rights reserved.

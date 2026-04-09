@@ -4,20 +4,22 @@
   
 
 
-## Austria 2015/16
+== Austria 2015/16
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 ‹Bundesliga, see §bund›
 ‹ÖFB Cup, see §cup›
 ‹1. Liga, see §1liga›
 ‹Regionalliga, see §regliga›
 ‹SFV (Salzburg) Cup, see §salzcup›
 ‹Steirer Cup, see §steicup›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Bundesliga  ‹§bund›
+==== Bundesliga  ‹§bund›
 
-
+<!-- start pre -->
 Final Table:
 
  1.RB Salzburg                  36  21 11  4  71-33  74  [C]  Champions
@@ -371,12 +373,13 @@ Final Table:
 
 NB: after the end of the season, Grödig announced they will not play at the second
     level next season but withdraw to their regional league (Regionalliga West)
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### ÖFB Cup  ‹§cup›
+==== ÖFB Cup  ‹§cup›
 
-
+<!-- start pre -->
 Round 1
 [Jul 17]
 SC Weiz                     1-5 SK Rapid Wien
@@ -464,12 +467,13 @@ FC Red Bull Salzburg        5-2 FK Austria Wien
 Final [May 19, Klagenfurt]
 FC Red Bull Salzburg        5-0 FC Admira/Wacker Mödling
   [Soriano 7, 65, 86pen , Keita 28, Laimer 73]
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### 1. Liga (Second Level)  ‹§1liga›
+==== 1. Liga (Second Level)  ‹§1liga›
 
-
+<!-- start pre -->
 Final Table:
 
  1.SKN Sankt Pölten             36  26  2  8  68-34  80  Promoted
@@ -487,7 +491,7 @@ Final Table:
 
 [*] FC Liefering (farm team RB Salzburg) are not eligible for promotion
 
-**Promotion Playoff  ‹§2prorel›**
+Promotion Playoff  ‹§2prorel›
 
 NB: both SV Austria Salzburg (who opened insolvency proceedings during the season) and
     SK Austria Klagenfurt (who were denied a second level license for next season in
@@ -497,15 +501,16 @@ NB: both SV Austria Salzburg (who opened insolvency proceedings during the seaso
     SV Horn (Regionalliga Ost), FC Blau-Weiß Linz (Regionalliga Mitte) and WSG Wattens
     (Regionalliga West); the playoff for one promotion place between FC Blau-Weiß Linz
     and WSG Wattens will therefore not be played.
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Regionalliga  ‹§regliga›
+==== Regionalliga  ‹§regliga›
 
-
+<!-- start pre -->
 ‹Regionalliga West, see §regwest› | ‹Regionalliga Mitte, see §regmitte› | ‹Regionalliga Ost, see §regost›
 
-**Regionalliga West  ‹§regwest›**
+Regionalliga West  ‹§regwest›
 
 Final Table:
 
@@ -532,7 +537,7 @@ Promoted: SAK 1914 (Salzburg) [FC Bergheim declined promotion]
           SV Wörgl (Tirol)
           VfB Hohenems (Vorarlberg)
 
-**Regionalliga Mitte  ‹§regmitte›**
+Regionalliga Mitte  ‹§regmitte›
 
 Final Table:
 
@@ -559,7 +564,7 @@ Promoted: ATSV Wolfsberg (Kärnten) [ATUS Ferlach declined promotion]
           SV Grieskirchen (Oberösterreich)
           FC Gleisdorf 09 (Steiermark)
 
-**Regionalliga Ost  ‹§regost›**
+Regionalliga Ost  ‹§regost›
 
 Final Table:
 
@@ -594,12 +599,13 @@ NB: SV Eberau (Burgenland) declined promotion, and as no other club from the
       but as they did so very late, they were not replaced, reducing the number
       of clubs in the RL Ost to 15 for 2016/17.
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### SFV (Salzburg) Cup 2015/16  ‹§salzcup›
+==== SFV (Salzburg) Cup 2015/16  ‹§salzcup›
 
-
+<!-- start pre -->
 1/8 Finals
 [Aug 25]
 SC Mühlbach/Pinzgau           0-3 Union Henndorf
@@ -628,12 +634,13 @@ FC Bergheim                   3-2 TSV Neumarkt
 
 Final [May 25]
 USK Anif                      3-0 FC Bergheim
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Woche Cup 2015/16  ‹§steicup›
+==== Woche Cup 2015/16  ‹§steicup›
 
-
+<!-- start pre -->
 1/8 Finals [Mar 28]
 SC Bruck/Mur                  0-2 SC Weiz
 SV Feldbach                   4-1 SK Fürstenfeld
@@ -661,6 +668,7 @@ TSV Pöllau                    2-3 SC Kalsdorf                   [aet]
 
 Final [Jun 3]
 SV Lafnitz                    2-0 SC Kalsdorf
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -677,9 +685,10 @@ SV Lafnitz                    2-0 SC Kalsdorf
 ‹list of super cup finals, see page oostsupcuphist›.
 
 ‹list of foundation dates, see page oostfound›.
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Prepared and maintained by Hans Schöggl and Karel Stokkermans for the
 ‹Rec.Sport.Soccer Statistics Foundation›
@@ -690,7 +699,7 @@ Authors: Hans Schöggl and Karel Stokkermans
 Last updated: 7 Mar 2023
 
 
-**(C) Copyright Hans Schöggl, Karel Stokkermans
-and RSSSF 2015/23**
+(C) Copyright Hans Schöggl, Karel Stokkermans
+and RSSSF 2015/23
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the authors. All rights reserved.

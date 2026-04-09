@@ -4,9 +4,9 @@
   
 
 
-## Austria 2008/09
+== Austria 2008/09
 
-
+<!-- start pre -->
 First Level (Bundesliga)
 
 Final Table:
@@ -1032,6 +1032,7 @@ FC Gleisdorf 09               1-0 SV Allerheiligen
 Final [Jun 17]
 Deutschlandsberger SC         2-4 FC Gleisdorf 09               [aet]
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -1048,9 +1049,10 @@ Deutschlandsberger SC         2-4 FC Gleisdorf 09               [aet]
 ‹list of super cup finals, see page oostsupcuphist›.
 
 ‹list of foundation dates, see page oostfound›.
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Prepared and maintained by Andreas Exenberger, Hans Schöggl
 and Karel Stokkermans for the
@@ -1063,7 +1065,7 @@ and Karel Stokkermans
 Last updated: 15 Jul 2022
 
 
-**(C) Copyright Andreas Exenberger, Hans Schöggl, Karel Stokkermans
-and RSSSF 2008/22**
+(C) Copyright Andreas Exenberger, Hans Schöggl, Karel Stokkermans
+and RSSSF 2008/22
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the authors. All rights reserved.

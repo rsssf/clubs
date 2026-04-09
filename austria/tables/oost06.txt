@@ -4,9 +4,9 @@
   
 
 
-## Austria 2005/06
+== Austria 2005/06
 
-
+<!-- start pre -->
 First Level (Bundesliga)
 
 Final Table:
@@ -1268,6 +1268,7 @@ FC Hallein 04                 2-2 SV Grödig                     [9-8 pen]
 Final
 FC Hallein 04                 7-2 1. Oberndorfer SK
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -1284,9 +1285,10 @@ FC Hallein 04                 7-2 1. Oberndorfer SK
 ‹list of super cup finals, see page oostsupcuphist›.
 
 ‹list of foundation dates, see page oostfound›.
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Prepared and maintained by Andreas Exenberger, Hans Schöggl
 and Karel Stokkermans for the
@@ -1298,7 +1300,7 @@ Authors: Andreas Exenberger, Hans Schöggl and Karel Stokkermans
 Last updated: 15 Jun 2022
 
 
-**(C) Copyright Andreas Exenberger, Hans Schöggl, Karel Stokkermans
-and RSSSF 2005/22**
+(C) Copyright Andreas Exenberger, Hans Schöggl, Karel Stokkermans
+and RSSSF 2005/22
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the authors. All rights reserved.

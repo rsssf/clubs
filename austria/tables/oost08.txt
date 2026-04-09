@@ -4,9 +4,9 @@
   
 
 
-## Austria 2007/08
+== Austria 2007/08
 
-
+<!-- start pre -->
 First Level (Bundesliga)
 
 Final Table:
@@ -975,6 +975,7 @@ FC Zell/See                   1-1 FC Puch                       [aet, 0-3 pen]
 
 Final [May 22]
 FC Hallein 04                 1-0 FC Puch
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -991,9 +992,10 @@ FC Hallein 04                 1-0 FC Puch
 ‹list of super cup finals, see page oostsupcuphist›.
 
 ‹list of foundation dates, see page oostfound›.
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Prepared and maintained by Andreas Exenberger, Hans Schöggl
 and Karel Stokkermans for the
@@ -1006,7 +1008,7 @@ and Karel Stokkermans
 Last updated: 15 Jun 2022
 
 
-**(C) Copyright Andreas Exenberger, Hans Schöggl, Karel Stokkermans
-and RSSSF 2007/22**
+(C) Copyright Andreas Exenberger, Hans Schöggl, Karel Stokkermans
+and RSSSF 2007/22
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the authors. All rights reserved.

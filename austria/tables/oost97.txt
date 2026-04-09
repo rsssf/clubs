@@ -4,9 +4,9 @@
   
 
 
-## Austria 1996/97
+== Austria 1996/97
 
-
+<!-- start pre -->
 1.Bundesliga
 
 Table:
@@ -2464,7 +2464,7 @@ Final Table:
 Relegated from RL West: Wacker Innsbruck.
 Promoted: FC Kitzbühel (LL Ost) and SV Götzens (LL West).
 
-Tiroler Pokal  ‹§tircup›:
+Tiroler Pokal:   ‹§tircup›
 
 Final [Jun 18, Angerberg}
 SV Wörgl 5-0 SC Kundl
@@ -4493,7 +4493,7 @@ New clubs for 1997/98: D & K Team 93, FC Brauchbar, FC Gummibärli,
                        Türkgücü Sakarya.
 
 
-
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -4510,9 +4510,10 @@ New clubs for 1997/98: D & K Team 93, FC Brauchbar, FC Gummibärli,
 ‹list of super cup finals, see page oostsupcuphist›.
 
 ‹list of foundation dates, see page oostfound›.
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Prepared and maintained by the ‹RSSSF, see page ../nersssf›
 
@@ -4521,6 +4522,6 @@ Author: RSSSF
 Last updated: 15 Jun 2022
 
 
-**(C) Copyright RSSSF 1999/2022**
+(C) Copyright RSSSF 1999/2022
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the RSSSF. All rights reserved.

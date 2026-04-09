@@ -4,9 +4,9 @@
   
 
 
-## Austria 2002/03
+== Austria 2002/03
 
-
+<!-- start pre -->
 First Level (Bundesliga)
 
 Final Table:
@@ -1781,6 +1781,7 @@ New Team in new 2.Klasse Mitte: FC Achensee, SC Schwaz II, WSG Wattens II,
 
 
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -1797,9 +1798,10 @@ New Team in new 2.Klasse Mitte: FC Achensee, SC Schwaz II, WSG Wattens II,
 ‹list of super cup finals, see page oostsupcuphist›.
 
 ‹list of foundation dates, see page oostfound›.
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Prepared and maintained by Andreas Exenberger
 and Karel Stokkermans for the
@@ -1813,7 +1815,7 @@ and Karel Stokkermans
 Last updated: 15 Jun 2022
 
 
-**(C) Copyright Andreas Exenberger, Karel Stokkermans
-and RSSSF 2002/22**
+(C) Copyright Andreas Exenberger, Karel Stokkermans
+and RSSSF 2002/22
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the authors. All rights reserved.

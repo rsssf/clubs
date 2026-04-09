@@ -4,9 +4,9 @@
   
 
 
-## Austria 1999/2000
+== Austria 1999/2000
 
-
+<!-- start pre -->
 Final Table:
 
  1.FC Tirol Innsbruck           36 24  5  7 54-30  77  Champions
@@ -4028,6 +4028,7 @@ The teams played an ordinary league with 16 games each and two
 additional single round robin Play offs.
 No relegation, lowest class.
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -4040,9 +4041,10 @@ No relegation, lowest class.
 ‹list of champions, see page oostchamp›.
 
 ‹list of cup finals, see page oostcuphist›.
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Prepared and maintained by Andreas Exenberger, Karel Stokkermans
 and Gerhard Öhlinger for the
@@ -4056,7 +4058,7 @@ and Gerhard Öhlinger
 Last updated: 15 Jun 2022
 
 
-**(C) Copyright Andreas Exenberger, Karel Stokkermans, Gerhard Öhlinger
-and RSSSF 1999/2022**
+(C) Copyright Andreas Exenberger, Karel Stokkermans, Gerhard Öhlinger
+and RSSSF 1999/2022
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the authors. All rights reserved.

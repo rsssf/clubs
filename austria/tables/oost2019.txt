@@ -4,23 +4,25 @@
   
 
 
-## Austria 2018/19
+== Austria 2018/19
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 ‹Bundesliga, see §bund›
 ‹ÖFB Cup, see §cup›
 ‹2. Liga, see §1liga›
 ‹Regionalliga, see §regliga›
 ‹SFV (Salzburg) Cup, see §salzcup›
 ‹Steirer Cup, see §steicup›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Bundesliga  ‹§bund›
+==== Bundesliga  ‹§bund›
 
-
+<!-- start pre -->
 ‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
-**Regular Stage  ‹§reg›**
+Regular Stage  ‹§reg›
 
 Final Table:
 
@@ -272,11 +274,11 @@ Final Table:
 11.SC Rheindorf Altach          22   4  6 12  30-32  18       ‹Relegation Playoff, see §releg›
 12.FC Wacker Innsbruck          22   4  5 13  17-34  17  [P]  ‹Relegation Playoff, see §releg›
 
-**Playoff Stage  ‹§play›**
+Playoff Stage  ‹§play›
 
 ‹Championship Playoff, see §champ› | ‹Relegation Playoff, see §releg›
 
-<u>Championship Playoff  ‹§champ›</u>
+Championship Playoff  ‹§champ›
 
 Final Table:
 
@@ -352,7 +354,7 @@ Final Table:
 NB: teams carry over half their points from the regular stage (listed between square brackets),
     rounded downwards (marked by * where applicable)
 
-**Europa League Playoff  ‹§eurpo›**
+Europa League Playoff  ‹§eurpo›
 
 Semifinal [May 28]
 Rapid            2-0 Mattersburg
@@ -367,7 +369,7 @@ Sturm            0-1 Rapid
 
 NB: Sturm qualified on away goals rule
 
-<u>Relegation Playoff  ‹§releg›</u>
+Relegation Playoff  ‹§releg›
 
 Final Table:
 
@@ -445,12 +447,13 @@ Final Table:
 NB: teams carry over half their points from the regular stage (listed between square brackets),
     rounded downwards (marked by * where applicable)
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### ÖFB Cup  ‹§cup›
+==== ÖFB Cup  ‹§cup›
 
-
+<!-- start pre -->
 Round 1
 [Jul 20]
 SV Leobendorf                   2-0 SV Neuberg
@@ -540,12 +543,13 @@ Final [May 1, Wörtherseestadion, Klagenfurt]
 FC Red Bull Salzburg            2-0 SK Rapid Wien
   [Patrick Farkas 37, Munas Dabbur 39]
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### 2. Liga (Second Level)  ‹§1liga›
+==== 2. Liga (Second Level)  ‹§1liga›
 
-
+<!-- start pre -->
 Final Table:
 
  1.WSG Wattens                  30  19  8  3  59-26  65            Promoted
@@ -578,15 +582,16 @@ NB: as Wiener Neustadt were denied a license, Wacker II were relegated
 
 Promoted: GAK, FC Dornbirn
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Regionalliga  ‹§regliga›
+==== Regionalliga  ‹§regliga›
 
-
+<!-- start pre -->
 ‹Regionalliga West, see §regwest› | ‹Regionalliga Mitte, see §regmitte› | ‹Regionalliga Ost, see §regost›
 
-**Regionalliga West  ‹§regwest›**
+Regionalliga West  ‹§regwest›
 
 Final Table:
 
@@ -612,7 +617,7 @@ NB: next season, the Regionalliga West is split in three: Eliteliga Salzburg,
     Eliteliga Tirol and Eliteliga Vorarlberg, each with 10 clubs; the top-2
     of each will then play off for promotion to the second level
 
-**Regionalliga Mitte  ‹§regmitte›**
+Regionalliga Mitte  ‹§regmitte›
 
 Final Table:
 
@@ -635,7 +640,7 @@ Final Table:
 15.FC Lendorf                   30   5  5 20  32-77  20  [P]  Relegated
 16.FC Wels                      30   3  7 20  30-85  16  [P]  Relegated
 
-**Regionalliga Ost  ‹§regost›**
+Regionalliga Ost  ‹§regost›
 
 Final Table:
 
@@ -661,21 +666,23 @@ Final Table:
 [*] full name: FC Marchfeld Donauauen Mannsdorf
 
 NB: no club eligible for promotion
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### SFV (Salzburg) Cup 2018/19  ‹§salzcup›
+==== SFV (Salzburg) Cup 2018/19  ‹§salzcup›
 
-
+<!-- start pre -->
 Final [Jun 4]
 FC Zell/See                   1-2 USK Anif
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Woche Cup 2018/19  ‹§steicup›
+==== Woche Cup 2018/19  ‹§steicup›
 
-
+<!-- start pre -->
 1/8 Finals
 [Apr 16]
 ASK Köflach                   4-1 SV Pischelsdorf
@@ -704,6 +711,7 @@ SC Bruck/Mur                  1-3 SC Kalsdorf
 
 Final [Jun 10]
 SC Kalsdorf                   3-0 Deutschlandsberger SC
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -720,9 +728,10 @@ SC Kalsdorf                   3-0 Deutschlandsberger SC
 ‹list of super cup finals, see page oostsupcuphist›.
 
 ‹list of foundation dates, see page oostfound›.
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Prepared and maintained by Hans Schöggl and Karel Stokkermans for the
 ‹Rec.Sport.Soccer Statistics Foundation›
@@ -733,7 +742,7 @@ Authors: Hans Schöggl and Karel Stokkermans
 Last updated: 7 Mar 2023
 
 
-**(C) Copyright Hans Schöggl, Karel Stokkermans
-and RSSSF 2018/23**
+(C) Copyright Hans Schöggl, Karel Stokkermans
+and RSSSF 2018/23
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the authors. All rights reserved.

@@ -4,21 +4,23 @@
   
 
 
-## Austria 2020/21
+== Austria 2020/21
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 ‹Bundesliga, see §bund›
 ‹ÖFB Cup, see §cup›
 ‹2. Liga, see §1liga›
 ‹Steirer Cup, see §steicup›
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Bundesliga  ‹§bund›
+==== Bundesliga  ‹§bund›
 
-
+<!-- start pre -->
 ‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
-**Regular Stage  ‹§reg›**
+Regular Stage  ‹§reg›
 
 Final Table:
 
@@ -276,11 +278,11 @@ Final Table:
 11.SV Ried                      22   4  4 14  21-46  16  [P]  ‹Relegation Playoff, see §releg›
 12.FC Admira Wacker Mödling     22   3  5 14  22-50  14       ‹Relegation Playoff, see §releg›
 
-**Playoff Stage  ‹§play›**
+Playoff Stage  ‹§play›
 
 ‹Championship Playoff, see §champ› | ‹Relegation Playoff, see §releg›
 
-<u>Championship Playoff  ‹§champ›</u>
+Championship Playoff  ‹§champ›
 
 Final Table:
 
@@ -356,7 +358,7 @@ Final Table:
 NB: teams carry over half their points from the regular stage (listed between
     square brackets), rounded downwards (marked by * where applicable)
 
-<b>Conference League Playoff  ‹§conf›</a></b>
+Conference League Playoff  ‹§conf›
 
 NB: between fifth placed club from the championship playoff and the
     top-2 of the relegation playoff
@@ -372,7 +374,7 @@ Austria          3-0 Wolfsberg
 Second Leg [May 30]
 Wolfsberg        1-2 Austria
 
-<u>Relegation Playoff  ‹§releg›</u>
+Relegation Playoff  ‹§releg›
 
 Final Table:
 
@@ -452,7 +454,7 @@ Final Table:
 NB: teams carry over half their points from the regular stage (listed between
     square brackets), rounded downwards (marked by * where applicable)
 
-**Promotion/Relegation Playoff  ‹§prorel›**
+Promotion/Relegation Playoff  ‹§prorel›
 
 NB: as only clubs finishing first or second at the second level are entitled to
     direct promotion, Sankt Pölten are not relegated directly but play off
@@ -466,12 +468,13 @@ Sankt Pölten     0-1 Austria K
 
 NB: SK Austria Klagenfurt promoted, SKN Sankt Pölten relegated
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### ÖFB Cup  ‹§cup›
+==== ÖFB Cup  ‹§cup›
 
-
+<!-- start pre -->
 Round 1
 [Aug 28]
 Wolfsberger AC                      5-2 SC Neusiedl/See                     [aet]
@@ -569,12 +572,13 @@ SK Sturm Graz                       0-4 FC Red Bull Salzburg
 Final [May 1, Klagenfurt]
 LASK Linz                           0-3 FC Red Bull Salzburg
   [Berisha 45, Aaronson 66, Mwepu 88]
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### 2. Liga (Second Level)  ‹§1liga›
+==== 2. Liga (Second Level)  ‹§1liga›
 
-
+<!-- start pre -->
 Final Table:
 
  1.FC Blau-Weiß Linz            30  20  3  7  70-31  63       [-]
@@ -1019,12 +1023,13 @@ NB: as only clubs finishing first or second at the second level are entitled to
 NB: due to the cancellation of the third level leagues, no clubs will be
     relegated at the end of the season
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Woche Cup 2020/21  ‹§steicup›
+==== Woche Cup 2020/21  ‹§steicup›
 
-
+<!-- start pre -->
 1/8 Finals
 [Oct 6]
 ESV Mürzzuschlag              0-5 Deutschlandsberger SC
@@ -1051,6 +1056,7 @@ Semifinals [Jun 2 - cancelled]
 
 Final [Jun 26 - cancelled]
 
+<!-- end pre -->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -1067,9 +1073,10 @@ Final [Jun 26 - cancelled]
 ‹list of super cup finals, see page oostsupcuphist›.
 
 ‹list of foundation dates, see page oostfound›.
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document  ‹§about›
+== About this document  ‹§about›
 
 Thanks to Martin Arenlind
 
@@ -1082,7 +1089,7 @@ Authors: Hans Schöggl and Karel Stokkermans
 Last updated: 7 Mar 2023
 
 
-**(C) Copyright Hans Schöggl, Karel Stokkermans
-and RSSSF 2020/23**
+(C) Copyright Hans Schöggl, Karel Stokkermans
+and RSSSF 2020/23
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the authors. All rights reserved.
