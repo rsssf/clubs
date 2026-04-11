@@ -6,34 +6,10 @@
 
 == England 1993/94
 
-<!-- start pre -->
 Premiership
 
-Final Table:
+<!-- $table1$ -->
 
-Pos Team                  P   W   D   L   F   A  GD Pts
-  1 Manchester United    42  27  11   4  80  38  42  92
-  2 Blackburn Rovers     42  25   9   8  63  36  27  84
-  3 Newcastle United     42  23   8  11  82  41  41  77
-  4 Arsenal              42  18  17   7  53  28  25  71
-  5 Leeds United         42  18  16   8  65  39  26  70
-  6 Wimbledon            42  18  11  13  56  53   3  65
-  7 Sheffield Wednesday  42  16  16  10  76  54  22  64
-  8 Liverpool            42  17   9  16  59  55   4  60
-  9 Queens Park Rangers  42  16  12  14  62  61   1  60
- 10 Aston Villa          42  15  12  15  46  50  -4  57
- 11 Coventry City        42  14  14  14  43  45  -2  56
- 12 Norwich City         42  12  17  13  65  61   4  53
- 13 West Ham United      42  13  13  16  47  58 -11  52
- 14 Chelsea              42  13  12  17  49  53  -4  51
- 15 Tottenham Hotspur    42  11  12  19  54  59  -5  45
- 16 Manchester City      42   9  18  15  38  49 -11  45
- 17 Everton              42  12   8  22  42  63 -21  44
- 18 Southampton          42  12   7  23  49  66 -17  43
- 19 Ipswich Town         42   9  16  17  35  58 -23  43
- 20 Sheffield United     42   8  18  16  42  60 -18  42
- 21 Oldham Athletic      42   9  13  20  42  68 -26  40
- 22 Swindon Town         42   5  15  22  47 100 -53  30
 
 14 August 1993
 Arsenal                     0    Coventry City               3
@@ -1192,31 +1168,8 @@ West Ham United             3    Southampton                 3
 Manchester United           0    Coventry City               0
 
 
-Final Table:
+<!-- $table2$ -->
 
-Pos Team                  P   W   D   L   F   A  GD Pts
-  1 Manchester United    42  27  11   4  80  38  42  92
-  2 Blackburn Rovers     42  25   9   8  63  36  27  84
-  3 Newcastle United     42  23   8  11  82  41  41  77
-  4 Arsenal              42  18  17   7  53  28  25  71
-  5 Leeds United         42  18  16   8  65  39  26  70
-  6 Wimbledon            42  18  11  13  56  53   3  65
-  7 Sheffield Wednesday  42  16  16  10  76  54  22  64
-  8 Liverpool            42  17   9  16  59  55   4  60
-  9 Queens Park Rangers  42  16  12  14  62  61   1  60
- 10 Aston Villa          42  15  12  15  46  50  -4  57
- 11 Coventry City        42  14  14  14  43  45  -2  56
- 12 Norwich City         42  12  17  13  65  61   4  53
- 13 West Ham United      42  13  13  16  47  58 -11  52
- 14 Chelsea              42  13  12  17  49  53  -4  51
- 15 Tottenham Hotspur    42  11  12  19  54  59  -5  45
- 16 Manchester City      42   9  18  15  38  49 -11  45
- 17 Everton              42  12   8  22  42  63 -21  44
- 18 Southampton          42  12   7  23  49  66 -17  43
- 19 Ipswich Town         42   9  16  17  35  58 -23  43
- 20 Sheffield United     42   8  18  16  42  60 -18  42
- 21 Oldham Athletic      42   9  13  20  42  68 -26  40
- 22 Swindon Town         42   5  15  22  47 100 -53  30
 
 ‹1992/93, see page eng93›.
 
@@ -1235,21 +1188,10 @@ Pos Team                  P   W   D   L   F   A  GD Pts
 ‹list of league cup winners, see page engleagcuphist›.
 
 
-<!-- end pre -->
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-== About this document  ‹§about›
-
-Prepared and maintained by Michael Heneghan
-for the ‹Rec.Sport.Soccer Statistics Foundation›
 
 
-Author: Michael Heneghan
-
-Last updated: 7 Jul 2004
 
 
-(C) Copyright Michael Heneghan and RSSSF 2004
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.
+
+<!-- $about$ -->
+

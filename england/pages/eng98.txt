@@ -6,7 +6,6 @@
 
 == England 1997/98
 
-<!-- start pre -->
 
 Premiership
 
@@ -563,8 +562,8 @@ Premiership
 
 England Cup 1997/98
 
-Third Round
-[Jan 3-5]
+▪ Third Round ▪
+(Jan 3-5)
 Liverpool               1-3 Coventry City
 Derby County            2-0 Southampton
 Barnsley                1-0 Bolton Wanderers
@@ -590,7 +589,7 @@ Charlton Athletic       4-1 Nottingham Forest
 Everton                 0-1 Newcastle United
 Chelsea                 3-5 Manchester United
 Tottenham Hotspur       3-1 Fulham
-[Jan 13,14]
+(Jan 13,14)
 Hereford United         0-3 Tranmere Rovers
 Peterborough            0-2 Walsall
 West Bromwich Albion    3-1 Stoke City
@@ -600,14 +599,14 @@ Darlington              0-4 Wolverhampton Wanderers
 Wrexham                 2-3 Wimbledon
 
 Third Round Replays
-[Jan 13,14]
+(Jan 13,14)
 Aston Villa             1-0 Portsmouth
-Port Vale               1-1 Arsenal               [aet, 3-4 pen]
-Sheffield Wednesday     0-0 Watford               [aet, 5-3 pen]
+Port Vale               1-1 Arsenal               (aet, 3-4 pen)
+Sheffield Wednesday     0-0 Watford               (aet, 5-3 pen)
 Bury                    1-2 Sheffield United
 Middlesbrough           2-0 Queen's Park Rangers
 Ipswich Town            1-0 Bristol Rovers
-[Jan 20]
+_ Jan 20 _
 Reading                 2-1 Cheltenham
 
 Fourth Round [Jan 24-26]
@@ -630,7 +629,7 @@ Sheffield Wednesday     0-3 Blackburn Rovers
 
 Fourth Round Replays [Feb 3,4]
 Sheffield United        1-0 Ipswich Town
-Reading                 1-1 Cardiff City          [aet, 4-3 pen]
+Reading                 1-1 Cardiff City          (aet, 4-3 pen)
 Wolverhampton Wanderers 3-0 Charlton Athletic
 Barnsley                3-1 Tottenham Hotspur
 Newcastle United        2-1 Stevenage Borough
@@ -647,7 +646,7 @@ Manchester United       1-1 Barnsley
 
 1/8 Finals Replays [Feb 25]
 Barnsley                3-2 Manchester United
-Blackburn Rovers        1-1 West Ham United       [aet, 4-5 pen]
+Blackburn Rovers        1-1 West Ham United       (aet, 4-5 pen)
 Crystal Palace          1-2 Arsenal
 Wolverhampton Wanderers 2-1 Wimbledon
 
@@ -658,32 +657,32 @@ Arsenal                 1-1 West Ham United
 Newcastle United        3-1 Barnsley
 
 Quarterfinal Replays [Mar 17]
-West Ham United         1-1 Arsenal               [aet, 3-4 pen]
-Sheffield United        1-1 Coventry City         [aet, 3-1 pen]
+West Ham United         1-1 Arsenal               (aet, 3-4 pen)
+Sheffield United        1-1 Coventry City         (aet, 3-1 pen)
 
-Semifinals [Apr 5]
+▪ Semifinals ▪  Apr 5
 Wolverhampton Wanderers 0-1 Arsenal               [Villa Park]
 Sheffield United        0-1 Newcastle United      [Old Trafford]
 
-Final [May 16]
+▪ Final ▪  May 16
 Arsenal                 2-0 Newcastle United
-  [Overmars 23', Anelka 70']
+  (Overmars 23', Anelka 70')
 
 
 England League Cup 1997/98
 
-Quarterfinals [Jan 6,7]
+▪ Quarterfinals ▪  Jan 6, 7
 West Ham United         1-2 Arsenal
 Raeding                 0-1 Middlesbrough
-Ipswich Town            2-2 Chelsea            [aet, 2-4 pen]
-Newcastle United        0-2 Liverpool          [aet]
+Ipswich Town            2-2 Chelsea            (aet, 2-4 pen)
+Newcastle United        0-2 Liverpool          (aet)
 
 Semifinals [Jan 27/28; Feb 17/18]
 Liverpool               2-1 0-2 Middlesbrough
 Arsenal                 2-1 1-3 Chelsea
 
-Final [Mar 29, Wembley]
-Chelsea                 2-0 Middlesbrough      [aet]
+▪ Final ▪  Mar 29, Wembley
+Chelsea                 2-0 Middlesbrough      (aet)
   95' Sinclair 1-0  107' Di Matteo 2-0
 
 
@@ -719,147 +718,69 @@ First Division (2nd level)
 
 Promotion Playoffs
 
-Semifinals
+▪ Semifinals ▪
 
-First Legs [May 10]
+▪ First Legs ▪  May 10
 Sheffield United    2-1 Sunderland
 Ipswich Town        0-1 Charlton Athletic
 
-Second Legs [May 13]
+▪ Second Legs ▪  May 13
 Sunderland          2-0 Sheffield United
 Charlton Athletic   1-0 Ipswich Town
 
-Final [May 25]
+▪ Final ▪  May 25
 Sunderland          4-4 Charlton Athletic   [aet, 3-3 after 90 mins]
 Charlton Athletic win 7-6 on penalties
 
 
 Second Division (3rd level)
 
-Final Table:
+<!-- $table1$ -->
 
- 1.Watford                 46 24 16  6  67-41   88  Promoted
- 2.Bristol City            46 25 10 11  69-39   85  Promoted
---------------------------------------------------
- 3.Grimsby Town            46 19 15 12  55-37   72  Promotion Playoff
- 4.Northampton Town        46 18 17 11  52-37   71  Promotion Playoff
- 5.Bristol Rovers          46 20 10 16  70-64   70  Promotion Playoff
- 6.Fulham                  46 20 10 16  60-43   70  Promotion Playoff
- - - - - - - - - - - - - - - - - - - - - - - - - -
- 7.Wrexham                 46 18 16 12  55-51   70
- 8.Gillingham              46 19 13 14  52-47   70
- 9.AFC Bournemouth         46 18 12 16  57-52   66
-10.Chesterfield            46 16 17 13  46-44   65
-11.Wigan Athletic          46 17 11 18  64-66   62
-12.Blackpool               46 17 11 18  59-67   62
-13.Oldham Athletic         46 15 16 15  62-54   61
-14.Wycombe Wanderers       46 14 18 14  51-53   60
-15.Preston North End       46 15 14 17  56-56   59
-16.York City               46 14 17 15  52-58   59
-17.Luton Town              46 14 15 17  60-64   57
-18.Millwall                46 14 13 19  43-54   55
-19.Walsall                 46 14 12 20  43-52   54
-20.Burnley                 46 13 13 20  55-65   52
---------------------------------------------------
-21.Brentford               46 11 17 18  50-71   50  Relegated
-22.Plymouth Argyle         46 12 13 21  55-70   49  Relegated
-23.Carlisle United         46 12  8 26  57-73   44  Relegated
-24.Southend United         46 11 10 25  47-79   43  Relegated
 
 Promotion Playoffs
 
-Semifinals
+▪ Semifinals ▪
 
-First Legs [May 9, 10]
+▪ First Legs ▪  May 9, 10
 Fulham              1-1 Grimsby Town
 Bristol Rovers      3-1 Northampton Town
 
-Second Legs [May 13]
+▪ Second Legs ▪  May 13
 Grimsby Town        1-0 Fulham
 Northampton Town    3-0 Bristol Rovers
 
-Final [May 24]
+▪ Final ▪  May 24
 Grimsby Town        1-0 Northampton Town
-  [19' Donovan]
+  (19' Donovan)
 
 
 Third Division (4th level)
 
-Final Table:
+<!-- $table2$ -->
 
- 1.Notts County            46 29 17  8  82-43   99  Promoted
- 2.Macclesfield Town       46 23 13 10  63-44   82  Promoted
- 3.Lincoln City            46 20 15 11  60-51   75  Promoted
---------------------------------------------------
- 4.Colchester United       46 21 11 14  72-60   74  Promotion Playoff
- 5.Torquay United          46 21 11 14  68-59   74  Promotion Playoff
- 6.Scarborough             46 19 15 12  67-58   72  Promotion Playoff
- 7.Barnet                  46 19 13 14  61-51   70  Promotion Playoff
- - - - - - - - - - - - - - - - - - - - - - - - - -
- 8.Scunthorpe United       46 19 12 15  56-52   69
- 9.Rotherham United        46 16 19 11  67-61   67
-10.Peterborough United     46 18 13 15  63-51   67
-11.Leyton Orient           46 19 12 15  62-47   66  [3 points deducted]
-12.Mansfield Town          46 16 17 13  64-55   65
-13.Shrewsbury Town         46 16 13 17  61-62   61
-14.Chester City            46 17 10 19  60-61   61
-15.Exeter City             46 15 15 16  68-63   60
-16.Cambridge United        46 14 18 14  63-57   60
-17.Hartlepool United       46 12 23 11  61-53   59
-18.Rochdale                46 17  7 22  56-55   58
-19.Darlington              46 14 12 20  56-72   54
-20.Swansea City            46 13 11 22  49-62   50
-21.Cardiff City            46  9 23 14  48-52   50
-22.Hull City               46 11  8 27  56-83   41
-23.Brighton & Hove Albion  46  6 17 23  38-66   35
---------------------------------------------------
-24.Doncaster Rovers        46  4  8 34  30-113  20  Relegated
 
 
 Promotion Playoffs
 
-Semifinals
+▪ Semifinals ▪
 
-First Legs [May 10]
+▪ First Legs ▪  May 10
 Barnet              1-0 Colchester United
 Scarborough         1-3 Torquay United
 
-Second Legs [May 13]
+▪ Second Legs ▪  May 13
 Colchester United   3-1 Barnet
 Torquay United      4-1 Scarborough
 
-Final [May 22]
+▪ Final ▪  May 22
 Colchester United   1-0 Torquay United
 
 
 Conference (5th level)
 
-Final Table:
+<!-- $table3$ -->
 
- 1.Halifax Town            42 25 12  5  74-43   87  Promoted
---------------------------------------------------
- 2.Cheltenham Town         42 23  9 10  63-43   78
- 3.Woking                  42 22  8 12  72-46   74
- 4.Rushden and Diamonds    42 23  5 14  79-57   74
- 5.Morecambe               42 21 10 11  77-64   73
- 6.Hereford United         42 18 13 11  56-49   67
- 7.Hednesford Town         42 18 12 12  59-50   66
- 8.Slough Town             42 18 10 14  58-49   64  Demoted
- 9.Northwich Victoria      42 15 15 12  63-59   60
-10.Welling United          42 17  9 16  64-62   60
-11.Yeovil Town             42 17  8 17  73-63   59
-12.Hayes                   42 16 10 16  62-52   58
-13.Dover Athletic          42 15 10 17  60-70   55
-14.Kettering Town          42 13 13 16  53-60   52
-15.Stevenage Borough       42 13 12 17  59-63   51
-16.Southport               42 13 11 18  56-58   50
-17.Kidderminster Harriers  42 11 14 17  56-63   47
-18.Farnborough Town        42 12  8 22  56-70   44
-19.Leek Town               42 10 14 18  52-67   44
-20.Telford United          42 10 12 20  53-76   42
---------------------------------------------------
-21.Gateshead               42  8 11 23  51-87   35  Relegated
-22.Stalybridge Celtic      42  7  8 27  48-93   29  Relegated
 
 [Telford United were not relegated after Slough Town were demoted.]
 
@@ -971,21 +892,10 @@ Premier Division
 
 ‹list of league cup winners, see page engleagcuphist›.
 
-<!-- end pre -->
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-== About this document  ‹§about›
-
-Premiership results thanks to Ian King
-
-Prepared and maintained by the ‹RSSSF, see page ../nersssf›
 
 
-Author: RSSSF
-Last updated: 26 Jan 2007
 
 
-(C) Copyright RSSSF 1999/2007
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the RSSSF. All rights reserved.
+
+<!-- $about$ -->
+
