@@ -539,7 +539,7 @@ Arnfels           1-0 PSV Salzburg
 Kottingbrunn      3-1 FAC
 Zeltweg           2-1 Neuberg                  (aet)
 Puch              1-0 Rohrbach                 (aet)
-Langenrohr        1-1 Gersthof                 [aet, 5-3pen]
+Langenrohr        1-1 Gersthof                 (aet, 5-3pen)
 
 ▪ Round 2 ▪
 _ Sep 24 _
@@ -603,7 +603,7 @@ Austria Wien      3-0 FC Kärnten
   (Janocko 15, Rushfeldt 47, 87)
 
 
-Super Cup Final [Jul 12]
+▪ Super Cup Final ▪  Jul 12
 Austria Wien      2-1 FC Kärnten
 
 
@@ -1488,10 +1488,10 @@ Fifth and Lower Levels (Tirol)
 
 Tiroler Cup (Anton-Nöhrer Cup) 2002/03  ‹§tircup›
 
-FOURTH ROUND
-(16-04)
+▪ FOURTH ROUND ▪
+_ 16/04 _
   Lohbach/Kra.      1-4   Thiersee
-(21-04)
+_ 21/04 _
   Hall              4-1   Hippach
   Kundl             7-0   St.Johann
   Kufstein          2-1   Axams
@@ -1501,19 +1501,19 @@ FOURTH ROUND
   Westendorf        0-1   Stams
 
 ▪ QUARTER FINALS ▪
-(13-05)
+_ 13/05 _
   Kundl             4-1   Matrei/Br.
   Stams             0-3   Kufstein
   Thiersee          3-2   Hall
   Wattens/W. II     2-1   Reichenau/Ald.
 
 ▪ SEMI FINALS ▪
-(20-05)
+_ 20/05 _
   Kufstein          5-1   Wattens/W. II
   Thiersee          1-2   Kundl
 
 ▪ FINAL ▪
-(09-06, Fügen)
+_ 09/06 _, Fügen
   Kufstein          2-2   Kundl             [pen 3-2]
 
 

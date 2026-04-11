@@ -1411,7 +1411,7 @@ SV Austria Salzburg Amateure  2-2 PSV Schwarz-Weiß Salzburg     (aet, 2-1 pen)
 
 Tiroler Cup (Anton-Nöhrer Cup) 2004/05  ‹§tircup›
 
-Preliminary Round [Jul 31]
+▪ Preliminary Round ▪  Jul 31
 Tiroler Zugspitze   2-7     Reutte
 Landeck II     0-3   Roppen
 Sistrans     5-8     Wilten
@@ -1433,7 +1433,7 @@ Hochfilzen     0-4   St.Ulrich
 Ellmau       1-0   Kundl II
 Bad Häring     0-13   Niederndorf
 
-▪ Round 1 ▪  Aug 10, 11
+▪ Round 1 ▪  Aug 10,11
 Karres       0-6   Oberhofen
 Wilten       0-1   Matrei
 Going       2-5     St.Johann
@@ -1528,7 +1528,7 @@ Sölden      6-3   Haiming
 Kirchberg     7-0   St.Johann
 Schmirn     2-1   Fulpmes
 
-▪ Round 3 ▪  Oct 12, 26
+▪ Round 3 ▪  Oct 12,26
 Finkenberg     1-1    Niederndorf    [6-7 pen]
 Kundl I     4-4    Kufstein I    [2-4 pen]
 Reichenau/A. II   3-4   Landeck
