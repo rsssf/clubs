@@ -6,375 +6,343 @@
 
 == Austria 1979/80
 
-<!-- start pre -->
 1.Division
 
-Final Table:
+<!-- $table1$ -->
 
- 1.FK Austria                36  20 10  6  84-39   50
- 2.VOEST Linz                36  17  9 10  63-41   43
- 3.Linzer ASK                36  13 17  6  51-34   43
- 4.Grazer AK                 36  15 12  9  45-40   42
- 5.SK Rapid                  36  11 13 12  46-40   35
- 6.SV Austria Salzburg       36  12  8 16  37-61   32
- 7.FC Admira/Wacker          36   9 13 14  34-53   31
- 8.Wiener Sport-Club/Post    36   9 11 16  52-59   29
- 9.SK Sturm Graz             36   8 13 15  41-60   29
------------------------------------------------------
-10.First Vienna FC           36  10  6 20  40-66   26
 
 Sportclub/Post was renamed to Wr. Sport-Club at the end of the season
 (now stripped from the new sponsor name Sportclub/Postsparkasse (PSK))
 
-Round 1
-[Aug 17]
+▪ Round 1 ▪
+_ Aug 17 _
 LASK      3-1 VOEST
 Rapid      0-0 Vienna
 Sturm      0-2 Austria Salzburg
-[Aug 18]
+_ Aug 18 _
 Sportclub    2-2 Austria Wien
-[Aug 19]
+_ Aug 19 _
 Admira/Wacker    1-1 GAK
 
-Round 2
-[Aug 24]
+▪ Round 2 ▪
+_ Aug 24 _
 Admira/Wacker    2-2 Rapid
 GAK      1-0 Austria Salzburg
 VOEST      4-1 Sportclub
-[Aug 25]
+_ Aug 25 _
 Austria Wien    6-1 Sturm
 Vienna      1-0 LASK
 
-Round 3
-[Aug 31]
+▪ Round 3 ▪
+_ Aug 31 _
 LASK      4-1 Admira/Wacker
 Rapid      2-0 GAK
 Sturm      2-1 VOEST
 Austria Salzburg 3-3 Austria Wien
-[Sep 1]
+_ Sep 1 _
 Sportclub    2-1 Vienna
 
-Round 4
-[Sep 7]
+▪ Round 4 ▪
+_ Sep 7 _
 GAK      2-2 Austria Wien
 Rapid      0-0 LASK
 VOEST      2-0 Austria Salzburg
-[Sep 8]
+_ Sep 8 _
 Admira/Wacker    1-0 Sportclub
 Vienna      2-0 Sturm
 
-Round 5
-[Sep 14]
+▪ Round 5 ▪
+_ Sep 14 _
 Austria Wien    2-1 VOEST
 LASK      1-2 GAK
 Sturm      3-1 Admira/Wacker
 Austria Salzburg 3-2 Vienna
-[Sep 15]
+_ Sep 15 _
 Sportclub    3-0 Rapid
 
-Round 6
-[Sep 21]
+▪ Round 6 ▪
+_ Sep 21 _
 GAK      1-1 VOEST
 LASK      0-0 Sportclub
-[Sep 22]
+_ Sep 22 _
 Admira/Wacker    1-1 Austria Salzburg
 Rapid      3-0 Sturm
-[Sep 23]
+_ Sep 23 _
 Vienna      1-6 Austria Wien
 
-Round 7
-[Sep 28]
+▪ Round 7 ▪
+_ Sep 28 _
 Sturm      2-1 LASK
 Austria Salzburg 0-0 Rapid
 VOEST      3-0 Vienna
 Sportclub    2-3 GAK
-[Sep 29]
+_ Sep 29 _
 Austria Wien    3-0 Admira/Wacker
 
-Round 8
-[Oct 5]
+▪ Round 8 ▪
+_ Oct 5 _
 Admira/Wacker    1-1 VOEST
 GAK      2-1 Vienna
 LASK      2-0 Austria Salzburg
-[Oct 6]
+_ Oct 6 _
 Rapid      0-0 Austria Wien
-[Oct 7]
+_ Oct 7 _
 Sportclub    0-3 Sturm
 
-Round 9
-[Oct 12]
+▪ Round 9 ▪
+_ Oct 12 _
 Sturm      0-1 GAK
 Austria Salzburg 1-0 Sportclub
 Vienna      4-1 Admira/Wacker
 VOEST      4-0 Rapid
-[Oct 13]
+_ Oct 13 _
 Austria Wien    1-2 LASK
 
-Round 10
-[Oct 20]
+▪ Round 10 ▪
+_ Oct 20 _
 Admira/Wacker    3-0 Vienna
 GAK      1-0 Sturm
 LASK      3-2 Austria Wien
 Rapid      2-0 VOEST
-[Oct 21]
+_ Oct 21 _
 Sportclub    6-0 Austria Salzburg
 
-Round 11
-[Oct 26]
+▪ Round 11 ▪
+_ Oct 26 _
 Austria Salzburg 2-1 Sturm
-[Oct 27]
+_ Oct 27 _
 Austria Wien    3-2 Sportclub
 GAK      2-0 Admira/Wacker
 Vienna      1-0 Rapid
 VOEST      1-2 LASK
 
-Round 12
-[Nov 3]
+▪ Round 12 ▪
+_ Nov 3 _
 LASK      2-1 Vienna
 Rapid      3-0 Admira/Wacker
 Sturm      0-0 Austria Wien
 Austria Salzburg 3-1 GAK
-[Nov 4]
+_ Nov 4 _
 Sportclub    1-2 VOEST
 
-Round 13 [Nov 10]
+▪ Round 13 ▪  Nov 10
 Admira/Wacker    1-1 LASK
 Austria Wien    3-1 Austria Salzburg
 GAK      2-0 Rapid
 Vienna      0-0 Sportclub
 VOEST      0-0 Sturm
 
-Round 14
-[Nov 17]
+▪ Round 14 ▪
+_ Nov 17 _
 Austria Wien    2-0 GAK
 LASK      4-1 Rapid
 Sturm      2-0 Vienna
 Austria Salzburg 2-1 VOEST
-[Nov 28]
+_ Nov 28 _
 Sportclub    0-0 Admira/Wacker
 
-Round 15 [Nov 24]
+▪ Round 15 ▪  Nov 24
 Admira/Wacker    2-0 Sturm
 GAK      0-0 LASK
 Rapid      1-1 Sportclub
 Vienna       0-1 Austria Salzburg
 VOEST      3-1 Austria Wien
 
-Round 16
-[Dec 1]
+▪ Round 16 ▪
+_ Dec 1 _
 Sturm      0-1 Rapid
 Austria Salzburg 0-1 Admira/Wacker
 VOEST      3-1 GAK
 Sportclub    4-1 LASK
-[Dec 2]
+_ Dec 2 _
 Austria Wien    3-1 Vienna
 
-Round 17
-[Dec 8]
+▪ Round 17 ▪
+_ Dec 8 _
 Admira/Wacker    0-2 Austria Wien
 GAK      2-2 Sportclub
 LASK      4-1 Sturm
 Rapid      5-0 Austria Salzburg
-[Dec 9]
+_ Dec 9 _
 Vienna      3-2 VOEST
 
-Round 18
-[Dec 15]
+▪ Round 18 ▪
+_ Dec 15 _
 Sturm      2-2 Sportclub
 Austria Salzburg 1-1 LASK
 Vienna      0-2 GAK
 VOEST      0-0 Admira/Wacker
-[Feb 16]
+_ Feb 16 _
 Austria Wien    0-0 Rapid
 
-Round 19
-[Feb 23]
+▪ Round 19 ▪
+_ Feb 23 _
 Admira/Wacker    1-2 GAK
 LASK      0-0 VOEST
 Rapid      0-1 Vienna
 Sturm      1-1 Austria Salzburg
-[Feb 24]
+_ Feb 24 _
 Sportclub    0-4 Austria Wien
 
-Round 20 [Mar 1]
+▪ Round 20 ▪  Mar 1
 Admira/Wacker    1-1 Rapid
 Austria Wien    3-1 Sturm
 GAK      2-0 Austria Salzburg
 Vienna      4-2 LASK
 VOEST      1-2 Sportclub
 
-Round 21
-[Mar 8]
+▪ Round 21 ▪
+_ Mar 8 _
 LASK      4-1 Admira/Wacker
 Rapid      3-1 GAK
 Sturm      1-1 VOEST
 Austria Salzburg 2-1 Austria Wien
-[Mar 9]
+_ Mar 9 _
 Sportclub    3-3 Vienna
 
-Round 22
-[Mar 15]
+▪ Round 22 ▪
+_ Mar 15 _
 Admira/Wacker    3-2 Sportclub
 GAK      1-1 Austria Wien
 Rapid      0-0 LASK
 VOEST      2-1 Austria Salzburg
-[Mar 16]
+_ Mar 16 _
 Vienna      1-1 Sturm
 
-Round 23
-[Mar 22]
+▪ Round 23 ▪
+_ Mar 22 _
 Austria Wien    2-1 VOEST
 LASK      0-0 GAK
 Sturm      2-2 Admira/Wacker
 Austria Salzburg 3-1 Vienna
-[Mar 23]
+_ Mar 23 _
 Sportclub    2-3 Rapid
 
-Round 24 [Mar 29]
+▪ Round 24 ▪  Mar 29
 Admira/Wacker    1-0 Austria Salzburg
 GAK      0-1 VOEST
 LASK      3-0 Sportclub
 Rapid      3-0 Sturm
 Vienna      1-6 Austria Wien
 
-Round 25
-[Apr 4]
+▪ Round 25 ▪
+_ Apr 4 _
 VOEST      3-0 Vienna
-[Apr 5]
+_ Apr 5 _
 Austria Wien    5-0 Admira/Wacker
 Sturm      1-1 LASK
-[Apr 9]
+_ Apr 9 _
 Sportclub    0-2 GAK
-[Apr 16]
+_ Apr 16 _
 Austria Salzburg 2-1 Rapid
 
-Round 26
-[Apr 11]
+▪ Round 26 ▪
+_ Apr 11 _
 Admira/Wacker    1-3 VOEST
-[Apr 12]
+_ Apr 12 _
 GAK      1-0 Vienna
 LASK      0-0 Austria Salzburg
 Rapid      1-1 Austria Wien
-[Apr 13]
+_ Apr 13 _
 Sportclub    2-2 Sturm
 
-Round 27
-[Apr 18]
+▪ Round 27 ▪
+_ Apr 18 _
 VOEST      1-0 Rapid
-[Apr 19]
+_ Apr 19 _
 Austria Wien    0-0 LASK
 Sturm      1-1 GAK
 Austria Salzburg 2-1 Sportclub
 Vienna      0-1 Admira/Wacker
 
-Round 28
-[Apr 22]
+▪ Round 28 ▪
+_ Apr 22 _
 GAK      1-1 Sturm
 LASK      1-1 Austria Wien
-[Apr 23]
+_ Apr 23 _
 Rapid      5-0 VOEST
 Sportclub    2-0 Austria Salzburg
-[Apr 30]
+_ Apr 30 _
 Admira/Wacker    0-0 Vienna
 
-Round 29
-[Apr 26]
+▪ Round 29 ▪
+_ Apr 26 _
 GAK      1-1 Admira/Wacker
 Vienna      4-0 Rapid
 VOEST      1-1 LASK
-[Apr 27]
+_ Apr 27 _
 Austria Wien    2-1 Sportclub
-[Apr 29]
+_ Apr 29 _
 Austria Salzburg 0-0 Sturm
 
-Round 30
-[May 2]
+▪ Round 30 ▪
+_ May 2 _
 LASK      1-0 Vienna
 Austria Salzburg 1-2 GAK
 Sportclub    2-2 VOEST
-[May 3]
+_ May 3 _
 Rapid      1-2 Admira/Wacker
 Sturm      0-2 Austria Wien
 
-Round 31 [May 6]
+▪ Round 31 ▪  May 6
 Admira/Wacker    1-1 LASK
 Austria Wien     7-0 Austria Salzburg
 GAK      1-1 Rapid
 Vienna      1-0 Sportclub
 VOEST      5-1 Sturm
 
-Round 32
-[May 9]
+▪ Round 32 ▪
+_ May 9 _
 Austria Salzburg 1-2 VOEST
-[May 10]
+_ May 10 _
 Austria Wien    2-0 GAK
 LASK      0-0 Rapid
 Sturm      3-0 Vienna
-[May 11]
+_ May 11 _
 Sportclub    1-0 Admira/Wacker
 
-Round 33
-[May 16]
+▪ Round 33 ▪
+_ May 16 _
 Rapid       0-0 Sportclub
-[May 17]
+_ May 17 _
 Admira/Wacker    1-2 Sturm
 GAK      0-0 LASK
 Vienna      1-1 Austria Salzburg
 VOEST      4-0 Austria Wien
 
-Round 34 [May 24]
+▪ Round 34 ▪  May 24
 Austria Wien    3-0 Vienna
 Sturm      3-1 Rapid
 Austria Salzburg 1-0 Admira/Wacker
 VOEST      3-1 GAK
 Sportclub    2-1 LASK
 
-Round 35
-[May 30]
+▪ Round 35 ▪
+_ May 30 _
 Rapid      4-1 Austria Salzburg
-[May 31]
+_ May 31 _
 Admira/Wacker    2-0 Austria Wien
 GAK      2-0 Sportclub
 LASK      2-2 Sturm
 Vienna      1-3 VOEST
 
-Round 36
-[Jun 6]
+▪ Round 36 ▪
+_ Jun 6 _
 Sturm      2-4 Sportclub
-[Jun 7]
+_ Jun 7 _
 Austria Wien    3-2 Rapid
 Austria Salzburg 1-3 LASK
 Vienna      4-3 GAK
 VOEST      0-0 Admira/Wacker
 
-Final Table:
+<!-- $table2$ -->
 
- 1.FK Austria                36  20 10  6  84-39   50
- 2.VOEST Linz                36  17  9 10  63-41   43
- 3.Linzer ASK                36  13 17  6  51-34   43
- 4.Grazer AK                 36  15 12  9  45-40   42
- 5.SK Rapid                  36  11 13 12  46-40   35
- 6.SV Austria Salzburg       36  12  8 16  37-61   32
- 7.FC Admira/Wacker          36   9 13 14  34-53   31
- 8.Wiener Sport-Club/Post    36   9 11 16  52-59   29
- 9.SK Sturm Graz             36   8 13 15  41-60   29
------------------------------------------------------
-10.First Vienna FC           36  10  6 20  40-66   26
 
 Sportclub/Post was renamed to Wr. Sport-Club at the end of the season
 (now stripped from the new sponsor name Sportclub/Postsparkasse (PSK))
 
-Topscorers:
- 1.Walter Schachner (Austria Wien)    34
- 2.Helmut Köglberger (LAS)      18
- 3.Alfred Drabits (Sportclub/Post)    14
- 4.Johann Krankl (Vienna)      13
-   Wilhelm Kreuz (VOEST)      13
-   Gernot Jurtin (Sturm)      13
- 7.Max Hagmayr (VOEST)        12
- 8.Gerald Haider (VOEST)      10
-   Vukan Perovic (Rapid)      10
-   Hans-Gerd Schildt (Austria Salzburg)    10
+<!-- $topscorers1$ -->
+
 
 2.Division
 
@@ -417,20 +385,10 @@ Salzburger AK (West)
 ‹list of foundation dates, see page oostfound›.
 
 
-<!-- end pre -->
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-== About this document  ‹§about›
-
-Prepared and maintained by Ambrosius Kutschera
-for the ‹Rec.Sport.Soccer Statistics Foundation›
 
 
-Author: Ambrosius Kutschera
-Last updated: 10 Oct 2004
 
 
-(C) Copyright Ambrosius Kutschera and RSSSF 2003/04
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.
+
+<!-- $about$ -->
+

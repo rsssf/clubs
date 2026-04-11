@@ -6,7 +6,6 @@
 
 == Austria 1993/94
 
-<!-- start pre -->
 Zehnerliga
 
 Table:
@@ -25,319 +24,319 @@ Table:
 -----------------------------------------------------
 10.Wiener Sport-Club         36   5 12 19  21-57   22 Relegated
 
-Round 1 [Jul 31]
+▪ Round 1 ▪  Jul 31
 Austria Wien    1-0 Mödling
 Tirol      2-1 St. Pölten
 Sturm      1-0 Rapid
 Vorwärts    4-1 Admira/Wacker
 Sportclub    0-0 Austria Salzburg
 
-Round 2
-[Aug 3]
+▪ Round 2 ▪
+_ Aug 3 _
 Mödling    2-1 Vorwärts
-[Aug 4]
+_ Aug 4 _
 Admira/Wacker    2-2 Sturm
 Rapid      3-1 Sportclub
 Austria Salzburg 1-0 Tirol
 St. Pölten    3-2 Austria Wien
 
-Round 3
-[Aug 6]
+▪ Round 3 ▪
+_ Aug 6 _
 Mödling    1-0 St. Pölten
-[Aug 7]
+_ Aug 7 _
 Austria Wien    1-2 Austria Salzburg
 Tirol      1-1 Rapid
 Vorwärts    0-1 Sturm
-[Aug 8]
+_ Aug 8 _
 Sportclub    0-2 Admira/Wacker
 
-Round 4
-[Aug 10]
+▪ Round 4 ▪
+_ Aug 10 _
 Admira/Wacker    0-0 Tirol
-[Aug 11]
+_ Aug 11 _
 Rapid      0-3 Austria Wien
 Sturm      3-1 Sportclub
 Austria Salzburg 1-2 Mödling
 St. Pölten    3-1 Vorwärts
 
-Round 5 [Aug 14]
+▪ Round 5 ▪  Aug 14
 Austria Wien    2-0 Admira/Wacker
 Tirol      4-2 Sturm
 Mödling    1-1 Rapid
 Vorwärts    6-0 Sportclub
 St. Pölten    1-0 Austria Salzburg
 
-Round 6
-[Aug 17]
+▪ Round 6 ▪
+_ Aug 17 _
 Sturm      2-4 Austria Wien
-[Aug 20]
+_ Aug 20 _
 Rapid      4-0 St. Pölten
 Austria Salzburg 2-0 Vorwärts
-[Aug 21]
+_ Aug 21 _
 Admira/Wacker    2-0 Mödling
 Sportclub    1-1 Tirol
 
-Round 7
-[Aug 27]
+▪ Round 7 ▪
+_ Aug 27 _
 Mödling    1-0 Sturm
 St. Pölten    0-1 Admira/Wacker
-[Aug 28]
+_ Aug 28 _
 Austria Wien    3-1 Sportclub
 Austria Salzburg 1-0 Rapid
 Vorwärts    1-1 Tirol
 
-Round 8
-[Aug 31]
+▪ Round 8 ▪
+_ Aug 31 _
 Sportclub    1-1 Mödling
-[Sep 1]
+_ Sep 1 _
 Admira/Wacker    1-0 Austria Salzburg
 Tirol      3-1 Austria Wien
 Rapid      1-1 Vorwärts
 Sturm      1-0 St. Pölten
 
-Round 9 [Sep 4]
+▪ Round 9 ▪  Sep 4
 Austria Wien    4-1 Vorwärts
 Rapid      1-2 Admira/Wacker
 Austria Salzburg 2-0 Sturm
 Mödling    1-1 Tirol
 St. Pölten    0-1 Sportclub
 
-Round 10
-[Sep 7]
+▪ Round 10 ▪
+_ Sep 7 _
 Sportclub    1-1 St. Pölten
-[Sep 8]
+_ Sep 8 _
 Admira/Wacker    2-0 Rapid
 Tirol      4-2 Mödling
 Sturm      0-2 Austria Salzburg
 Vorwärts    2-0 Austria Wien
 
-Round 11
-[Sep 17]
+▪ Round 11 ▪
+_ Sep 17 _
 Rapid      2-1 Sturm
 Austria Salzburg 3-1 Sportclub
-[Sep 18]
+_ Sep 18 _
 Mödling    0-2 Austria Wien
 St. Pölten    0-0 Tirol
-[Sep 19]
+_ Sep 19 _
 Admira/Wacker     2-0 Vorwärts
 
-Round 12
-[Sep 24]
+▪ Round 12 ▪
+_ Sep 24 _
 Austria Wien    3-0 St. Pölten
 Tirol      2-0 Austria Salzburg
-[Sep 25]
+_ Sep 25 _
 Sturm      1-2 Admira/Wacker
 Vorwärts    1-1 Mödling
 Sportclub    0-1 Rapid
 
-Round 13
-[Oct 1]
+▪ Round 13 ▪
+_ Oct 1 _
 Admira/Wacker    3-0 Sportclub
-[Oct 2]
+_ Oct 2 _
 Rapid      2-0 Tirol
 Sturm      1-1 Vorwärts
 Austria Salzburg 2-0 Austria Wien
 St. Pölten    1-0 Mödling
 
-Round 14
-[Oct 8]
+▪ Round 14 ▪
+_ Oct 8 _
 Mödling    1-1 Austria Salzburg
 Vorwärts    2-0 St. Pölten
-[Oct 9]
+_ Oct 9 _
 Austria Wien    2-1 Rapid
 Tirol      2-1 Admira/Wacker
-[Oct 10]
+_ Oct 10 _
 Sportclub    0-0 Sturm
 
-Round 15
-[Oct 22]
+▪ Round 15 ▪
+_ Oct 22 _
 Austria Salzburg 2-0 St. Pölten
-[Oct 23]
+_ Oct 23 _
 Admira/Wacker    0-3 Austria Wien
 Rapid      0-0 Mödling
-[Oct 24]
+_ Oct 24 _
 Sportclub    2-1 Vorwärts
-[Nov 17]
+_ Nov 17 _
 Sturm      1-0 Tirol
 
-Round 16
-[Oct 29]
+▪ Round 16 ▪
+_ Oct 29 _
 Tirol      2-0 Sportclub
-[Oct 30]
+_ Oct 30 _
 Austria Wien    3-0 Sturm
 Mödling    1-1 Admira/Wacker
 Vorwärts    0-2 Austria Salzburg
 St. Pölten    1-1 Rapid
 
-Round 17
-[Nov 5]
+▪ Round 17 ▪
+_ Nov 5 _
 Admira/Wacker    4-3 St. Pölten
-[Nov 6]
+_ Nov 6 _
 Tirol       3-0 Vorwärts
 Rapid      0-3 Austria Salzburg
 Sturm      1-0 Mödling
 Sportclub    0-1 Austria Wien
 
-Round 18 [Nov 13]
+▪ Round 18 ▪  Nov 13
 Austria Wien    2-1 Tirol
 Austria Salzburg 0-0 Admira/Wacker
 Mödling    1-0 Sportclub
 Vorwärts    3-0 Rapid
 St. Pölten    2-1 Sturm
 
-Round 19
-[Nov 19]
+▪ Round 19 ▪
+_ Nov 19 _
 Austria Wien    3-0 Mödling
-[Nov 20]
+_ Nov 20 _
 Tirol      2-1 St. Pölten
 Sturm      1-2 Rapid
 Vorwärts    0-0 Admira/Wacker
 Sportclub    0-1 Austria Salzburg
 
-Round 20
-[Nov 26]
+▪ Round 20 ▪
+_ Nov 26 _
 Mödling    0-5 Vorwärts
-[Nov 27]
+_ Nov 27 _
 Admira/Wacker    1-1 Sturm
 Rapid      0-0 Sportclub
 Austria Salzburg 0-0 Tirol
 St. Pölten    2-3 Austria Wien
 
-Round 21
-[Mar 5]
+▪ Round 21 ▪
+_ Mar 5 _
 Tirol      0-1 Rapid
 Mödling    4-1 St. Pölten
 Vorwärts    0-0 Sturm
 Sportclub    1-1 Admira/Wacker
-[Mar 6]
+_ Mar 6 _
 Austria Wien    0-4 Austria Salzburg
 
-Round 22
-[Mar 11]
+▪ Round 22 ▪
+_ Mar 11 _
 Austria Salzburg 0-0 Mödling
-[Mar 12]
+_ Mar 12 _
 Admira/Wacker    2-0 Tirol
 Rapid      1-1 Austria Wien
 St. Pölten    0-1 Vorwärts
-[Mar 13]
+_ Mar 13 _
 Sturm      3-1 Sportclub
 
-Round 23
-[Mar 18]
+▪ Round 23 ▪
+_ Mar 18 _
 Vorwärts    1-1 Sportclub
-[Mar 19]
+_ Mar 19 _
 Austria Wien    3-1 Admira/Wacker
 Tirol      2-1 Sturm
 Mödling    0-0 Rapid
 St. Pölten    0-0 Austria Salzburg
 
-Round 24
-[Mar 25]
+▪ Round 24 ▪
+_ Mar 25 _
 Rapid      5-3 St. Pölten
-[Mar 26]
+_ Mar 26 _
 Admira/Wacker    0-1 Mödling
 Sportclub    1-2 Tirol
-[Mar 27]
+_ Mar 27 _
 Sturm      0-0 Austria Wien
-[May 25]
+_ May 25 _
 Austria Salzburg 3-1 Vorwärts
 
-Round 25
-[Apr 5]
+▪ Round 25 ▪
+_ Apr 5 _
 Austria Salzburg 2-1 Rapid
 St. Pölten    1-0 Admira/Wacker
-[Apr 6]
+_ Apr 6 _
 Austria Wien    1-1 Sportclub
 Mödling    2-0 Sturm
 Vorwärts    2-0 Tirol
 
-Round 26
-[Apr 8]
+▪ Round 26 ▪
+_ Apr 8 _
 Admira/Wacker    0-3 Austria Salzburg
-[Apr 9]
+_ Apr 9 _
 Tirol      0-1 Austria Wien
 Rapid      3-0 Vorwärts
 Sturm      2-0 St. Pölten
-[Apr 10]
+_ Apr 10 _
 Sportclub    0-2 Mödling
 
-Round 27
-[Apr 16]
+▪ Round 27 ▪
+_ Apr 16 _
 Austria Wien    1-0 Vorwärts
 Rapid      0-3 Admira/Wacker
 Austria Salzburg 0-0 Sturm
 St. Pölten    0-0 Sportclub
-[Apr 17]
+_ Apr 17 _
 Mödling    0-0 Tirol
 
-Round 28
-[Apr 22]
+▪ Round 28 ▪
+_ Apr 22 _
 Sturm      0-1 Austria Salzburg
 Sportclub    3-1 St. Pölten
-[Apr 23]
+_ Apr 23 _
 Admira/Wacker    0-0 Rapid
 Tirol      4-0 Mödling
 Vorwärts    1-1 Austria Wien
 
-Round 29
-[Apr 29]
+▪ Round 29 ▪
+_ Apr 29 _
 Admira/Wacker    4-0 Vorwärts
-[Apr 30]
+_ Apr 30 _
 Rapid      2-4 Sturm
 Austria Salzburg 0-1 Sportclub
 Mödling    0-4 Austria Wien
 St. Pölten    0-0 Tirol
 
-Round 30 [May 3]
+▪ Round 30 ▪  May 3
 Austria Wien    0-1 St. Pölten
 Tirol      1-1 Austria Salzburg
 Sturm      1-0 Admira/Wacker
 Vorwärts    1-2 Mödling
 Sportclub    0-1 Rapid
 
-Round 31
-[May 6]
+▪ Round 31 ▪
+_ May 6 _
 Admira/Wacker    2-0 Sportclub
 Austria Salzburg 6-0 Austria Wien
-[May 7]
+_ May 7 _
 Rapid      2-0 Tirol
 St. Pölten    5-0 Mödling
-[May 8]
+_ May 8 _
 Sturm      3-1 Vorwärts
 
-Round 32
-[May 13]
+▪ Round 32 ▪
+_ May 13 _
 Austria Wien    2-0 Rapid
-[May 14]
+_ May 14 _
 Tirol      0-1 Admira/Wacker
 Mödling    3-2 Austria Salzburg
 Vorwärts    1-1 St. Pölten
 Sportclub    1-0 Sturm
 
-Round 33
-[May 20]
+▪ Round 33 ▪
+_ May 20 _
 Austria Salzburg 4-1 St. Pölten
-[May 21]
+_ May 21 _
 Admira/Wacker    4-2 Austria Wien
 Rapid      0-2 Mödling
 Sturm      0-0 Tirol
 Sportclub    1-1 Vorwärts
 
-Round 34 [May 28]
+▪ Round 34 ▪  May 28
 Austria Wien    0-0 Sturm
 Tirol      6-0 Sportclub
 Mödling    0-3 Admira/Wacker
 Vorwärts    1-3 Austria Salzburg
 St. Pölten    1-1 Rapid
 
-Round 35 [Jun 5]
+▪ Round 35 ▪  Jun 5
 Admira/Wacker    3-1 St. Pölten
 Tirol      4-2 Vorwärts
 Rapid      0-0 Austria Salzburg
 Sturm      2-1 Mödling
 Sportclub    0-3 Austria Wien
 
-Round 36 [Jun 8]
+▪ Round 36 ▪  Jun 8
 Austria Wien    1-0 Tirol
 Austria Salzburg 2-0 Admira/Wacker
 Mödling    0-0 Sportclub
@@ -664,7 +663,7 @@ Promoted to Vorarlberger Liga: FC Wolfurt.
 ÖFB Snickers Cup 1993/94
 =========================
 
-Round 3
+▪ Round 3 ▪
 -------
 
 October 15,16
@@ -756,7 +755,7 @@ FC Admira/Wacker      0-5 FK Austria Wien       Att: 2,500
                           Zsak 29', 59'
                           Zingler (og) 37'
 
-Final
+▪ Final ▪
 
 June 11
 
@@ -780,23 +779,10 @@ Austria Wien          4-0 FC Linz               Att: 6,000
 
 
 
-<!-- end pre -->
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-== About this document  ‹§about›
-
-Prepared and maintained by Ambrosius Kutschera
-and Karel Stokkermans
-for the ‹Rec.Sport.Soccer Statistics Foundation›
 
 
-Authors: Ambrosius Kutschera
-and Karel Stokkermans
-Last updated: 31 Oct 2004
 
 
-(C) Copyright Ambrosius Kutschera,
-Karel Stokkermans and RSSSF 1999/2004
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.
+
+<!-- $about$ -->
+

@@ -6,581 +6,547 @@
 
 == Austria 1998/99
 
-<!-- start pre -->
 Bundesliga
 
-Final Table:
+<!-- $table1$ -->
 
- 1.SK Sturm Graz                36 23  4  9 72-32  73  Champions
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.SK Rapid Wien                36 19 13  4 50-25  70  Champions' League Qualifying
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 3.Grazer AK                    36 20  5 11 46-29  65  UEFA Cup
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 4.SV Austria Salzburg          36 15 12  9 55-40  57
- 5.LASK Linz                    36 17  6 13 53-44  57  UEFA Cup (Cup Finalists)
- 6.FC Tirol Innsbruck           36 15 10 11 49-41  55
- 7.FK Austria Wien              36 13 11 12 41-44  50
- 8.SV Ried im Innkreis          36  8  8 20 25-47  32
- 9.SC Austria Lustenau          36  4 11 21 24-61  22
------------------------------------------------------
-10.SK Vorwärts Steyr            36  3  6 27 29-81  12  [*]  Relegated
 
 [*] Vorwärts 3 points deducted because of failure to meet license
     criteria in time
 
-Round 1
-[Jul 28]
+▪ Round 1 ▪
+_ Jul 28 _
 Sturm            2-0 Austria W
-  [35' and 71' Vastic]
-[Jul 29]
+  (35' and 71' Vastic)
+_ Jul 29 _
 Vorwärts         0-1 GAK
-  [63' Akwuegbu]
+  (63' Akwuegbu)
 Tirol            1-0 Ried
-  [57' Svensson]
+  (57' Svensson)
 LASK             3-0 Austria L
-  [17' Frigård, 73' W.Kogler, 75' Pawlowski]
-[Nov 3]
+  (17' Frigård, 73' W.Kogler, 75' Pawlowski)
+_ Nov 3 _
 Rapid            1-0 Austria S
-  [45' (pen) Prosenik]
+  (45' (pen) Prosenik)
 
-Round 2
-[Aug 1]
+▪ Round 2 ▪
+_ Aug 1 _
 Austria S        1-3 LASK
-  [80' Sabitzer; 6' H.Kogler, 21' Frigård, 89' Pawlowski]
+  (80' Sabitzer; 6' H.Kogler, 21' Frigård, 89' Pawlowski)
 Ried             0-1 Sturm
-  [17' Vastic]
+  (17' Vastic)
 Austria W        4-1 Vorwärts
-  [5' Rosenegger, 21' and 90' Mayrleb, 73' Plassnegger; 76' Metlitskij]
+  (5' Rosenegger, 21' and 90' Mayrleb, 73' Plassnegger; 76' Metlitskij)
 Austria L        2-2 Tirol
-  [2' (pen) Tiefenbach, 66' Prinzen; 30' (pen) Baur, 52' Scharrer]
-[Aug 2]
+  (2' (pen) Tiefenbach, 66' Prinzen; 30' (pen) Baur, 52' Scharrer)
+_ Aug 2 _
 GAK              1-1 Rapid
-  [23' Kulovits; 54' Zingler]
+  (23' Kulovits; 54' Zingler)
 
-Round 3
-[Aug 4]
+▪ Round 3 ▪
+_ Aug 4 _
 Sturm            3-0 Austria L
-  [11' and 77' Reinmayr, 84' Martens]
-[Aug 5]
+  (11' and 77' Reinmayr, 84' Martens)
+_ Aug 5 _
 Vorwärts         1-2 Rapid
-  [35' Metlitskij; 38' Wetl, 59' Penksa]
+  (35' Metlitskij; 38' Wetl, 59' Penksa)
 Austria W        1-0 Ried
-  [90' Mayrleb]
+  (90' Mayrleb)
 LASK             0-1 GAK
-  [90' Radovic]
-[Sep 15]
+  (90' Radovic)
+_ Sep 15 _
 Tirol            1-1 Austria S
-  [45' Vacha; 25' Glieder]
+  (45' Vacha; 25' Glieder)
 
-Round 4 [Aug 8]
+▪ Round 4 ▪  Aug 8
 Rapid            5-0 LASK
-  [26' (pen) Prosenik, 62' Ratajcvyk, 68' Penksa, 82' Pürk, 87' R.Wagner]
+  (26' (pen) Prosenik, 62' Ratajcvyk, 68' Penksa, 82' Pürk, 87' R.Wagner)
 GAK              2-0 Tirol
-  [79' Akwuegbu, 86' Dmitrovic]
+  (79' Akwuegbu, 86' Dmitrovic)
 Austria L        1-1 Austria W
-  [14' (pen) Kleer; 43' Mayrleb]
+  (14' (pen) Kleer; 43' Mayrleb)
 Ried             0-0 Vorwärts
 Austria S        1-1 Sturm
-  [3' Kitzbichler; 29' Haas]
+  (3' Kitzbichler; 29' Haas)
 
-Round 5
-[Aug 14]
+▪ Round 5 ▪
+_ Aug 14 _
 Tirol            1-3 Rapid
-  [90' Kollmann; 21' and 92' Heraf, 66' Pürk]
-[Aug 15]
+  (90' Kollmann; 21' and 92' Heraf, 66' Pürk)
+_ Aug 15 _
 Austria W        3-2 Austria S
-  [6' and 37' M.Wagner, 74' Simon; 54' Hütter, 84' Pfeifenberger]
+  (6' and 37' M.Wagner, 74' Simon; 54' Hütter, 84' Pfeifenberger)
 Vorwärts         1-4 LASK
-  [2' Hickersberger; 36' Pawlowski, 40' W.Kogler, 80' Dadi, 85' Weissenberger]
+  (2' Hickersberger; 36' Pawlowski, 40' W.Kogler, 80' Dadi, 85' Weissenberger)
 Ried             3-1 Austria L
-  [13' (pen) Stanisavljevic, 50' Sliwowski, 53' Brunmayr; 12' Kosturkow]
+  (13' (pen) Stanisavljevic, 50' Sliwowski, 53' Brunmayr; 12' Kosturkow)
 Sturm            2-3 GAK
-  [18' Reinmayr, 86' Vastic; 45' Kulovits, 64' Ramusch, 82' Brenner]
+  (18' Reinmayr, 86' Vastic; 45' Kulovits, 64' Ramusch, 82' Brenner)
 
-Round 6
-[Aug 28]
+▪ Round 6 ▪
+_ Aug 28 _
 GAK              0-0 Austria W
-[Aug 29]
+_ Aug 29 _
 LASK             3-2 Tirol
-  [48' and 64' Frigård, 75' Weissenberger; 43' Knavs, 87' Barisic]
+  (48' and 64' Frigård, 75' Weissenberger; 43' Knavs, 87' Barisic)
 Austria L        1-1 Vorwärts
-  [80' Kleer; 22' Datoru]
+  (80' Kleer; 22' Datoru)
 Austria S        3-2 Ried
-  [29', 69' and 90' Glieder; 67' Strafner, 74' Hartl]
-[Aug 30]
+  (29', 69' and 90' Glieder; 67' Strafner, 74' Hartl)
+_ Aug 30 _
 Rapid            2-0 Sturm
-  [59' (pen) Prosenik, 90' Saler]
+  (59' (pen) Prosenik, 90' Saler)
 
-Round 7
-[Sep 8]
+▪ Round 7 ▪
+_ Sep 8 _
 Austria W        0-1 Rapid
-  [63' R.Wagner]
-[Sep 9]
+  (63' R.Wagner)
+_ Sep 9 _
 Austria L        1-1 Austria S
-  [85' Kleer (pen); 65' Glieder]
+  (85' Kleer (pen); 65' Glieder)
 Ried             0-1 GAK
-  [18' Dmitrovic]
+  (18' Dmitrovic)
 Vorwärts         2-1 Tirol
-  [62' Bradaric, 90' Schrammel; 45' Vacha]
+  (62' Bradaric, 90' Schrammel; 45' Vacha)
 Sturm            0-1 LASK
-  [50' Panis]
+  (50' Panis)
 
-Round 8
-[Sep 18]
+▪ Round 8 ▪
+_ Sep 18 _
 LASK             1-3 Austria W
-  [8' Frigård; 25' and 70' Erntsson, 76' Mayrleb]
-[Sep 19]
+  (8' Frigård; 25' and 70' Erntsson, 76' Mayrleb)
+_ Sep 19 _
 GAK              4-0 Austria L
-  [19' Grimm, 43' Bernner, 58' Radovic, 81' (pen) Luhovy]
+  (19' Grimm, 43' Bernner, 58' Radovic, 81' (pen) Luhovy)
 Austria S        5-2 Vorwärts
-  [2' Aufhauser, 14' Nikolic, 28' and 74' Glieder, 83' Koejoe; 37' Ipavec,
-   84' Bradaric]
+  (2' Aufhauser, 14' Nikolic, 28' and 74' Glieder, 83' Koejoe; 37' Ipavec,
+   84' Bradaric)
 Tirol            0-1 Sturm
-  [33' Haas]
-[Sep 20]
+  (33' Haas)
+_ Sep 20 _
 Rapid            1-1 Ried
-  [16' Hearf; 15' Rothbauer]
+  (16' Hearf; 15' Rothbauer)
 
-Round 9
-[Sep 22]
+▪ Round 9 ▪
+_ Sep 22 _
 Austria S        1-0 GAK
-  [48' Glieder]
-[Sep 23]
+  (48' Glieder)
+_ Sep 23 _
 Austria W        1-1 Tirol
-  [55' M.Wagner; 75' Baur (pen)]
+  (55' M.Wagner; 75' Baur (pen))
 Austria L        2-0 Rapid
-  [50' Regtop, 56' Kleber]
+  (50' Regtop, 56' Kleber)
 Ried             0-0 LASK
 Sturm            5-2 Vorwärts
-  [12' and 68' Reinmayr, 13' (og) Grubor, 27' Neukirchner, 36' Haas;
-   26' Ipavec, 90' Bradaric]
+  (12' and 68' Reinmayr, 13' (og) Grubor, 27' Neukirchner, 36' Haas;
+   26' Ipavec, 90' Bradaric)
 
-Round 10
-[Sep 25]
+▪ Round 10 ▪
+_ Sep 25 _
 GAK              3-1 Austria S
-  [10' Ceh, 72' Grimm, 90' Radovic; 38' Aufhauser]
-[Sep 26]
+  (10' Ceh, 72' Grimm, 90' Radovic; 38' Aufhauser)
+_ Sep 26 _
 LASK             3-1 Ried
-  [28' W.Kogler, 38' Frigård, 84' Pawlowski; 54' Strafner]
+  (28' W.Kogler, 38' Frigård, 84' Pawlowski; 54' Strafner)
 Rapid            1-0 Austria L
-  [9' R.Wagner]
+  (9' R.Wagner)
 Vorwärts         0-1 Sturm
-  [57' Milanic]
-[Sep 27]
+  (57' Milanic)
+_ Sep 27 _
 Tirol            3-0 Austria W
-  [26' and 72' Vacha, 90' Anfang]
+  (26' and 72' Vacha, 90' Anfang)
 
-Round 11
-[Oct 2]
+▪ Round 11 ▪
+_ Oct 2 _
 Austria S        1-1 Rapid
-  [10' Glieder; 13' R.Wagner]
-[Oct 3]
+  (10' Glieder; 13' R.Wagner)
+_ Oct 3 _
 GAK              2-0 Vorwärts
-  [4' Radovic, 20' Lipa]
+  (4' Radovic, 20' Lipa)
 Austria L        0-4 LASK
-  [16' W.Kogler, 47' M.Weissenberger, 49' Brzeczek, 90' Stöger]
+  (16' W.Kogler, 47' M.Weissenberger, 49' Brzeczek, 90' Stöger)
 Austria W        0-3 Sturm
-  [6' and 32' Mählich, 82' Foda]
-[Oct 4]
+  (6' and 32' Mählich, 82' Foda)
+_ Oct 4 _
 Ried             0-1 Tirol
-  [15' Sabry]
+  (15' Sabry)
 
-Round 12
-[Oct 17]
+▪ Round 12 ▪
+_ Oct 17 _
 Rapid            0-2 GAK
-  [36' Luhovy, 83' Ramusch]
+  (36' Luhovy, 83' Ramusch)
 Vorwärts         0-1 Austria W
-  [16' Schießwald]
+  (16' Schießwald)
 Sturm            4-0 Ried
-  [45' and 73' Haas, 53' Vastic, 61' Angibeaud]
+  (45' and 73' Haas, 53' Vastic, 61' Angibeaud)
 Tirol            3-1 Austria L
-  [21' Höretnagl, 53' and 57' Jezek; 38' Prinzen]
-[Oct 18]
+  (21' Höretnagl, 53' and 57' Jezek; 38' Prinzen)
+_ Oct 18 _
 LASK             3-1 Austria S
-  [39' Weissenberger, 72' Stöger, 80' Pawlowski; 31' Hütter]
+  (39' Weissenberger, 72' Stöger, 80' Pawlowski; 31' Hütter)
 
-Round 13
-[Oct 23]
+▪ Round 13 ▪
+_ Oct 23 _
 GAK              0-2 LASK
-  [37' and 87' Frigård]
-[Oct 24]
+  (37' and 87' Frigård)
+_ Oct 24 _
 Austria L        1-2 Sturm
-  [45' Tiefenbach; 21' Haas, 29' Schopp]
+  (45' Tiefenbach; 21' Haas, 29' Schopp)
 Rapid            5-1 Vorwärts
-  [23' and 47' (pen) Prosenik, 37' Heraf, 43' Adzic, 68' Vier; 77' Hubich]
+  (23' and 47' (pen) Prosenik, 37' Heraf, 43' Adzic, 68' Vier; 77' Hubich)
 Ried             2-1 Austria W
-  [15' Strafner, 16' Sliwowski; 80' Mayrleb]
+  (15' Strafner, 16' Sliwowski; 80' Mayrleb)
 Austria S        1-1 Tirol
-  [77' Ivanauskas; 22' Scharrer]
+  (77' Ivanauskas; 22' Scharrer)
 
-Round 14
-[Oct 27]
+▪ Round 14 ▪
+_ Oct 27 _
 LASK             0-0 Rapid
-[Oct 28]
+_ Oct 28 _
 Sturm            2-0 Austria S
-  [19' Haas, 35' Reinmayr]
+  (19' Haas, 35' Reinmayr)
 Tirol            1-1 GAK
-  [75' (pen) Scharrer; 89' Brenner]
+  (75' (pen) Scharrer; 89' Brenner)
 Austria W        1-1 Austria L
-  [53' Holtsman; 41' Moitzi]
+  (53' Holtsman; 41' Moitzi)
 Vorwärts         0-3 Ried
-  [5' Sliwowski, 85' (og) Metlitskij, 87' Rothbauer]
+  (5' Sliwowski, 85' (og) Metlitskij, 87' Rothbauer)
 
-Round 15
-[Nov 6]
+▪ Round 15 ▪
+_ Nov 6 _
 Rapid            1-0 Tirol
-  [45' Zingler]
-[Nov 7]
+  (45' Zingler)
+_ Nov 7 _
 Austria S        2-0 Austria W
-  [41' Glieder, 90' Koejoe]
-[Nov 8]
+  (41' Glieder, 90' Koejoe)
+_ Nov 8 _
 Austria L        0-2 Ried
-  [56' and 80' Strafner]
+  (56' and 80' Strafner)
 GAK              0-5 Sturm
-  [19' Reinmayr, 34' and 61' Haas, 45' Vastic, 80' Popovic]
+  (19' Reinmayr, 34' and 61' Haas, 45' Vastic, 80' Popovic)
 LASK             2-1 Vorwärts
-  [46' Stöger, 72' Frigård; 80' Hubich]
+  (46' Stöger, 72' Frigård; 80' Hubich)
 
-Round 16
-[Nov 11]
+▪ Round 16 ▪
+_ Nov 11 _
 Austria W        0-0 GAK
 Ried             0-0 Austria S
 Tirol            1-4 LASK
-  [51' Kirchler; 24' Milinovic, 47' and 90' M.Weissenberger, 88' Frigård]
+  (51' Kirchler; 24' Milinovic, 47' and 90' M.Weissenberger, 88' Frigård)
 Sturm            2-1 Rapid
-  [24' and 49' Neukirchner; 57' R.Wagner]
-[Dec 1]
+  (24' and 49' Neukirchner; 57' R.Wagner)
+_ Dec 1 _
 Vorwärts         1-1 Austria L
-  [44' Rahimic; 86' Kristo]
+  (44' Rahimic; 86' Kristo)
 
-Round 17
-[Nov 14]
+▪ Round 17 ▪
+_ Nov 14 _
 Austria S        1-2 Austria L
-  [82' Pfeifenberger; 6' and 74' Tiefenbach]
+  (82' Pfeifenberger; 6' and 74' Tiefenbach)
 GAK              1-0 Ried
-  [49' Lipa]
+  (49' Lipa)
 Tirol            3-2 Vorwärts
-  [10' Sabry, 63' Hörtnagl, 88' Jezek; 16' Hubich, 45' Bradaric]
+  (10' Sabry, 63' Hörtnagl, 88' Jezek; 16' Hubich, 45' Bradaric)
 Rapid            3-1 Austria W
-  [42' R.Wagner, 65' (pen) Prosenik, 77' Penksa; 74' Mayrleb]
+  (42' R.Wagner, 65' (pen) Prosenik, 77' Penksa; 74' Mayrleb)
 LASK             0-0 Sturm
 
-Round 18
-[Nov 20]
+▪ Round 18 ▪
+_ Nov 20 _
 Sturm            2-0 Tirol
-  [54' Prilasnig, 71' Popovic]
-[Nov 21]
+  (54' Prilasnig, 71' Popovic)
+_ Nov 21 _
 Austria L        0-3 GAK
-  [17' and 75' Drechsel, 21' Dmitrovic]
+  (17' and 75' Drechsel, 21' Dmitrovic)
 Ried             0-1 Rapid
-  [65' R.Wagner]
+  (65' R.Wagner)
 Vorwärts         0-1 Austria S
-  [73' Koejoe]
-[Nov 22]
+  (73' Koejoe)
+_ Nov 22 _
 Austria W        2-0 LASK
-  [35' Ernstsson, 66' Mayrleb]
+  (35' Ernstsson, 66' Mayrleb)
 
-Round 19
-[Nov 27]
+▪ Round 19 ▪
+_ Nov 27 _
 Tirol            0-3 Austria S
-  [23' and 84' Koejoe, 29' Glieder]
-[Nov 28]
+  (23' and 84' Koejoe, 29' Glieder)
+_ Nov 28 _
 Austria W        1-0 Sturm
-  [55' Mayrleb]
+  (55' Mayrleb)
 GAK              1-0 Vorwärts
-  [62' Vukovic]
-[Nov 29]
+  (62' Vukovic)
+_ Nov 29 _
 LASK             1-3 Rapid
-  [71' Milinovic; 24' (og) Ba, 42' R.Wagner, 55' Freund]
-[Mar 9]
+  (71' Milinovic; 24' (og) Ba, 42' R.Wagner, 55' Freund)
+_ Mar 9 _
 Austria L        0-0 Ried
 
-Round 20
-[Dec 4]
+▪ Round 20 ▪
+_ Dec 4 _
 Sturm            2-0 LASK
-  [53' Reinmayr, 64' (pen) Vastic]
-[Dec 5]
+  (53' Reinmayr, 64' (pen) Vastic)
+_ Dec 5 _
 Austria S        1-0 Austria L
-  [47' Glieder]
-[Dec 6]
+  (47' Glieder)
+_ Dec 6 _
 Rapid            1-0 GAK
-  [78' Pürk]
-[Feb 27]
+  (78' Pürk)
+_ Feb 27 _
 Ried             2-1 Austria W
-  [12' Anicic, 56' (pen) Stanisavljevic; 4' M.Wagner]
-[Mar 2]
+  (12' Anicic, 56' (pen) Stanisavljevic; 4' M.Wagner)
+_ Mar 2 _
 Vorwärts         0-1 Tirol
-  [27' Gilewicz]
+  (27' Gilewicz)
 
-Round 21
-[Mar 5]
+▪ Round 21 ▪
+_ Mar 5 _
 LASK             0-0 GAK
-[Mar 6]
+_ Mar 6 _
 Austria W        3-1 Austria S
-  [5' and 26' Mayrleb, 53' Rachimov; 9' Kitzbichler]
+  (5' and 26' Mayrleb, 53' Rachimov; 9' Kitzbichler)
 Austria L        1-1 Vorwärts
-  [90' Prinzen; 28' Pavlek]
+  (90' Prinzen; 28' Pavlek)
 Sturm            4-2 Ried
-  [13' Schopp, 32' Haas, 59' Reinmayr, 83' Martens; 63' Anicic, 76' Hujdurovic]
+  (13' Schopp, 32' Haas, 59' Reinmayr, 83' Martens; 63' Anicic, 76' Hujdurovic)
 Tirol            0-0 Rapid
 
-Round 22
-[Mar 12]
+▪ Round 22 ▪
+_ Mar 12 _
 GAK              0-1 Tirol
-  [89' Gilewicz]
-[Mar 13]
+  (89' Gilewicz)
+_ Mar 13 _
 Rapid            2-1 Austria L
-  [51' Ratajczyk, 71' Pürk; 75' Tiefenbach]
+  (51' Ratajczyk, 71' Pürk; 75' Tiefenbach)
 Ried             1-2 LASK
-  [90' Jank; 44' Stumpf, 76' Augustine]
+  (90' Jank; 44' Stumpf, 76' Augustine)
 Vorwärts         1-3 Austria W
-  [4' Grubor; 10' and 37' M.Wagner, 59' Mayrleb]
+  (4' Grubor; 10' and 37' M.Wagner, 59' Mayrleb)
 Austria S        3-1 Sturm
-  [37' Lipcsei, 50' and 87' Glieder; 72' Haas]
+  (37' Lipcsei, 50' and 87' Glieder; 72' Haas)
 
-Round 23 [Mar 16]
+▪ Round 23 ▪  Mar 16
 Austria W        1-1 Rapid
-  [45' M.Wagner; 16. R.Wagner]
+  (45' M.Wagner; 16. R.Wagner)
 Sturm            5-0 Vorwärts
-  [22' and 74' (pen) Haas, 43' Mählich, 55' Kocijan, 80' Reinmayr]
+  (22' and 74' (pen) Haas, 43' Mählich, 55' Kocijan, 80' Reinmayr)
 Austria L        2-1 GAK
-  [24' Butrej, 52' Pavao; 16' Akwuegbu]
+  (24' Butrej, 52' Pavao; 16' Akwuegbu)
 LASK             0-1 Tirol
-  [34' Barisic]
+  (34' Barisic)
 Ried             1-1 Austria S
-  [70' Hujdurovic; 65' Glieder]
+  (70' Hujdurovic; 65' Glieder)
 
-Round 24
-[Mar 19]
+▪ Round 24 ▪
+_ Mar 19 _
 Austria S        2-0 LASK
-  [26' Kitzbichler, 90' Sabitzer]
-[Mar 20]
+  (26' Kitzbichler, 90' Sabitzer)
+_ Mar 20 _
 GAK              3-0 Austria W
-  [38' Akwuegbu, 40' (og) Dospel, 46' Kulovits]
+  (38' Akwuegbu, 40' (og) Dospel, 46' Kulovits)
 Vorwärts         2-0 Ried
-  [43' and 62' Pavlek]
+  (43' and 62' Pavlek)
 Tirol            0-0 Austria L
-[Mar 21]
+_ Mar 21 _
 Rapid            2-0 Sturm
-  [31' Wetl, 61' Pürk]
+  (31' Wetl, 61' Pürk)
 
-Round 25
-[Mar 30]
+▪ Round 25 ▪
+_ Mar 30 _
 Sturm            0-1 GAK
-  [33' Pamic (pen)]
-[Mar 31]
+  (33' Pamic (pen))
+_ Mar 31 _
 Ried             0-0 Rapid
 Austria W        1-1 Tirol
-  [75' Mayrleb; 10' Hörtnagl]
+  (75' Mayrleb; 10' Hörtnagl)
 LASK             2-0 Austria L
-  [17' Pawlowski, 70' Weissenberger]
+  (17' Pawlowski, 70' Weissenberger)
 Austria S        1-0 Vorwärts
-  [55' Glieder (pen)]
+  (55' Glieder (pen))
 
-Round 26 [Apr 3]
+▪ Round 26 ▪  Apr 3
 GAK              1-0 Ried
-  [47' Akwuegbu]
+  (47' Akwuegbu)
 Tirol            3-1 Sturm
-  [52' Vacha, 69' and 82' Jezek; 26' Vastic]
+  (52' Vacha, 69' and 82' Jezek; 26' Vastic)
 Austria L        0-0 Austria W
 Vorwärts         1-1 LASK
-  [64' Schneidhofer; 46' Stumpf]
+  (64' Schneidhofer; 46' Stumpf)
 Rapid            1-1 Austria S
-  [74' Penksa; 49' Kitzbichler]
+  (74' Penksa; 49' Kitzbichler)
 
-Round 27
-[Apr 9]
+▪ Round 27 ▪
+_ Apr 9 _
 Sturm            5-2 Austria L
-[Apr 10]
+_ Apr 10 _
 Austria S        3-0 GAK
-  [14' Aigner, 41' Lipcsei, 66' Sabitzer]
+  (14' Aigner, 41' Lipcsei, 66' Sabitzer)
 Ried             2-0 Tirol
-  [65' Strafner, 89' Glasner]
+  (65' Strafner, 89' Glasner)
 Vorwärts         3-3 Rapid
-  [54' Datoru, 65' Grubor, 73' Zovko; 7' Braun, 9' Vier, 26' Wimmer]
-[Apr 11]
+  (54' Datoru, 65' Grubor, 73' Zovko; 7' Braun, 9' Vier, 26' Wimmer)
+_ Apr 11 _
 Austria W        2-0 LASK
-  [41' Streiter, 85' Plassnegger]
+  (41' Streiter, 85' Plassnegger)
 
-Round 28
-[Apr 13]
+▪ Round 28 ▪
+_ Apr 13 _
 Austria L        1-2 Sturm
-  [84' Kristo; 41' Reinmayr, 57' Vastic]
-[Apr 14]
+  (84' Kristo; 41' Reinmayr, 57' Vastic)
+_ Apr 14 _
 GAK              1-4 Austria S
-  [72' Golombek; 9' Amerhauser, 27' Kitzbichler, 40' Glieder, 74' Sabitzer]
+  (72' Golombek; 9' Amerhauser, 27' Kitzbichler, 40' Glieder, 74' Sabitzer)
 LASK             0-0 Austria W
 Rapid            2-1 Vorwärts
-  [50' Pürk, 60' Vier; 76' Metlitskij]
+  (50' Pürk, 60' Vier; 76' Metlitskij)
 Tirol            1-0 Ried
-  [90' Baur]
+  (90' Baur)
 
-Round 29
-[Apr 17]
+▪ Round 29 ▪
+_ Apr 17 _
 Rapid            2-0 LASK
-  [22' Pürk, 81' R.Wagner]
+  (22' Pürk, 81' R.Wagner)
 Ried             1-0 Austria L
-  [14' Strafner]
+  (14' Strafner)
 Austria S        2-2 Tirol
-  [45' Glieder, 83' Koejoe; 11' Scharrer, 60' Kirchler]
+  (45' Glieder, 83' Koejoe; 11' Scharrer, 60' Kirchler)
 Vorwärts         0-3 GAK
-  [24' Drechsel, 40' Lipa, 48' Radovic]
-[Apr 18]
+  (24' Drechsel, 40' Lipa, 48' Radovic)
+_ Apr 18 _
 Sturm            0-0 Austria W
 
-Round 30
-[Apr 23]
+▪ Round 30 ▪
+_ Apr 23 _
 LASK             1-2 Sturm
-  [75' Kauz; 66' Martens, 89' Vastic]
-[Apr 24]
+  (75' Kauz; 66' Martens, 89' Vastic)
+_ Apr 24 _
 Austria W        3-0 Ried
-  [45' (pen) M. Wagner, 52' and 63' Mayrleb]
+  (45' (pen) M. Wagner, 52' and 63' Mayrleb)
 Austria L        0-0 Austria S
 Tirol            4-0 Vorwärts
-  [50' Barisic, 62' 80' and 89' Gilewicz]
+  (50' Barisic, 62' 80' and 89' Gilewicz)
 GAK              0-1 Rapid
-  [8' Adzic]
+  (8' Adzic)
 
-Round 31 [May 1]
+▪ Round 31 ▪  May 1
 GAK              2-1 LASK
-  [78' Vukovic, 85' Lipa; 24' Rohseano]
+  (78' Vukovic, 85' Lipa; 24' Rohseano)
 Ried             0-3 Sturm
-  [15' Prilasnig, 21' and 83' Vastic]
+  (15' Prilasnig, 21' and 83' Vastic)
 Austria S        3-0 Austria W
-  [60' Koejoe, 83' Glieder, 90' Bradaric]
+  (60' Koejoe, 83' Glieder, 90' Bradaric)
 Vorwärts         2-0 Austria L
-  [45' Grubor, 68' Löbe]
+  (45' Grubor, 68' Löbe)
 Rapid            1-1 Tirol
-  [18' Freund; 4' Kirchler]
+  (18' Freund; 4' Kirchler)
 
-Round 32
-[May 7]
+▪ Round 32 ▪
+_ May 7 _
 Tirol            1-0 GAK
-  [89' Baur (pen)]
-[May 8]
+  (89' Baur (pen))
+_ May 8 _
 Austria W        4-1 Vorwärts
-  [29' Leitner, 31' Darasz, 62' Ernstsson, 71' Plassnegger; 8' Datoru]
+  (29' Leitner, 31' Darasz, 62' Ernstsson, 71' Plassnegger; 8' Datoru)
 LASK             6-1 Ried
-  [14' and 55' Milinovic, 20' Stumpf, 39' Tangen, 43' Dadi, 90' Pichorner;
-   6' Angerschmid]
+  (14' and 55' Milinovic, 20' Stumpf, 39' Tangen, 43' Dadi, 90' Pichorner;
+   6' Angerschmid)
 Austria L        2-0 Rapid
-  [51' Regtop, 83' Butrej]
+  (51' Regtop, 83' Butrej)
 Sturm            1-2 Austria S
-  [41' Popovic; 66' Szewczyk, 82' Sabitzer]
+  (41' Popovic; 66' Szewczyk, 82' Sabitzer)
 
-Round 33 [May 11]
+▪ Round 33 ▪  May 11
 Tirol            4-0 LASK
-  [16' Gilewicz,  45' (pen) Marasek, 51' Anfang, 89' Kirchler]
+  (16' Gilewicz,  45' (pen) Marasek, 51' Anfang, 89' Kirchler)
 Austria S        0-0 Ried
 GAK              2-0 Austria L
-  [73' Lipa, 90' Kulovits]
+  (73' Lipa, 90' Kulovits)
 Vorwärts         1-4 Sturm
-  [90' Woldeab; 37' Mählich, 43' Prilasnig, 53' Schupp, 66' Haas]
+  (90' Woldeab; 37' Mählich, 43' Prilasnig, 53' Schupp, 66' Haas)
 Rapid            0-0 Austria W
 
-Round 34
-[May 14]
+▪ Round 34 ▪
+_ May 14 _
 Austria W        0-3 GAK
-  [30' Ramusch, 54' Akwuegbu, 90' Radovic]
-[May 15]
+  (30' Ramusch, 54' Akwuegbu, 90' Radovic)
+_ May 15 _
 LASK             3-2 Austria S
-  [22' and 30' Lichtenwagner, 36' Dadi; 35' and 45' Glieder]
+  (22' and 30' Lichtenwagner, 36' Dadi; 35' and 45' Glieder)
 Ried             1-0 Vorwärts
-  [23' Rothbauer]
+  (23' Rothbauer)
 Sturm            1-1 Rapid
-  [51' Schopp; 12' Wimmer]
-[May 16]
+  (51' Schopp; 12' Wimmer)
+_ May 16 _
 Austria L        0-3 Tirol
-  [Barisic 39', Scharrer 46', Benneker (og) 74']
+  (Barisic 39', Scharrer 46', Benneker (og) 74')
 
-Round 35
-[May 22]
+▪ Round 35 ▪
+_ May 22 _
 Vorwärts         1-3 Austria S
-  [85' Löbe; 7' Glieder, 30' Kitzbichler, 38' Amerhauser]
+  (85' Löbe; 7' Glieder, 30' Kitzbichler, 38' Amerhauser)
 GAK              1-2 Sturm
-  [80' Dmitrovic; 52' Vastic, 90' Martens]
+  (80' Dmitrovic; 52' Vastic, 90' Martens)
 Rapid            1-0 Ried
-  [89' Saler]
-[May 23]
+  (89' Saler)
+_ May 23 _
 Tirol            4-1 Austria W
-  [17' W.Kogler, 70' and 71' Gilewicz, 90' Bilgen; 84' Hoitsman]
-[May 24]
+  (17' W.Kogler, 70' and 71' Gilewicz, 90' Bilgen; 84' Hoitsman)
+_ May 24 _
 Austria L        0-1 LASK
-  [16' (pen) Stumpf]
+  (16' (pen) Stumpf)
 
-Round 36 [May 29]
+▪ Round 36 ▪  May 29
 Austria W        2-1 Austria L
-  [13' and 77' Mayrleb; 89' Moitzi]
+  (13' and 77' Mayrleb; 89' Moitzi)
 LASK             2-0 Vorwärts
-  [7' Grassler, 67' Lichtenwagner]
+  (7' Grassler, 67' Lichtenwagner)
 Ried             0-2 GAK
-  [4' (pen) Vukovic, 86' Luhovy]
+  (4' (pen) Vukovic, 86' Luhovy)
 Austria S        0-0 Rapid
 Sturm            3-0 Tirol
-  [11' and 74' Haas, 48' Martens]
+  (11' and 74' Haas, 48' Martens)
 
-Final Table:
+<!-- $table2$ -->
 
- 1.SK Sturm Graz                36 23  4  9 72-32  73  Champions
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.SK Rapid Wien                36 19 13  4 50-25  70  Champions' League Qualifying
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 3.Grazer AK                    36 20  5 11 46-29  65  UEFA Cup
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 4.SV Austria Salzburg          36 15 12  9 55-40  57
- 5.LASK Linz                    36 17  6 13 53-44  57  UEFA Cup (Cup Finalists)
- 6.FC Tirol Innsbruck           36 15 10 11 49-41  55
- 7.FK Austria Wien              36 13 11 12 41-44  50
- 8.SV Ried im Innkreis          36  8  8 20 25-47  32
- 9.SC Austria Lustenau          36  4 11 21 24-61  22
------------------------------------------------------
-10.SK Vorwärts Steyr            36  3  6 27 29-81  12  [*]  Relegated
 
 [*] Vorwärts 3 points deducted because of failure to meet license
     criteria in time
 
-Topscorers:
+<!-- $topscorers1$ -->
 
-22 Glieder (Austria Salzburg)
-17 Haas (Sturm)
-16 Mayrleb (Austria Wien)
-14 Vastic (Sturm)
-11 Reinmayr (Sturm)
 
 
 Austria ÖFB Cup 1998/99
 
-Round 1
+▪ Round 1 ▪
 Puch             2-3 Austria Salzburg Am.
 U.Esternberg     1-0 Anif
 Waidhofen/Ybbs   2-1 SAK 1914
-Pasching         2-0 Bürmoos               [aet]
-SCR Altach       0-0 Schwarzach/Pingau     [aet, 3-1 pen]
-SVG Reichenau    1-1 Axams                 [aet, 5-4 pen]
+Pasching         2-0 Bürmoos               (aet)
+SCR Altach       0-0 Schwarzach/Pingau     (aet, 3-1 pen)
+SVG Reichenau    1-1 Axams                 (aet, 5-4 pen)
 Lendorf          2-1 Rothenthurn
 ÖMV Stadlau      2-4 Eisenstadt
 SAK Klagenfurt   3-1 Köflach
-Sturm St. Pölten 1-1 Wienerberg            [aet, 8-7 pen]
+Sturm St. Pölten 1-1 Wienerberg            (aet, 8-7 pen)
 Tulln            1-0 SR Donaufeld
 Wr. Neustadt     1-3 Himberg
 ASK Kottingbrunn 2-1 Prater SV
 Asten            1-5 Donau Linz
 Kapfenberg       3-1 Gratkorn
-Sankt Magdalena  0-0 Eintracht Wels        [aet, 2-4 pen]
-Wolfsberger AC   1-1 Pöllau                [aet, 4-5 pen]
-Untersiebenbrunn 5-2 Tadten                [aet]
+Sankt Magdalena  0-0 Eintracht Wels        (aet, 2-4 pen)
+Wolfsberger AC   1-1 Pöllau                (aet, 4-5 pen)
+Untersiebenbrunn 5-2 Tadten                (aet)
 Neuberg          0-4 Deutschkreutz
 Oberndorf        5-2 Engelhartsstetten
 Wr. Neudorf      0-1 Klingenbach
 Würmla           5-1 St. Peter/Au
-Kremser SC       3-3 FAC                   [aet, 6-7 pen]
+Kremser SC       3-3 FAC                   (aet, 6-7 pen)
 Hirm             3-6 Horn
 Gmünd            4-2 Güssing
 Zwettl           1-0 Admira Landhaus
 NAC              1-5 LAC
 Mattersburg      3-0 Langenrohr
-Red Star/Rapid   1-2 Schwechat             [aet]
+Red Star/Rapid   1-2 Schwechat             (aet)
 St. Florian      1-0 Blau-Weiß Linz
 Bad Schallerbach 5-0 Ottensheim
 Rohrbach/Berg    0-2 Sattledt
@@ -589,36 +555,36 @@ Leibnitz         2-0 Kindberg
 Zeltweg          2-0 Voitsberg
 Rapid Lienz      1-0 Feldbach
 Flavia Solva     0-4 Hartberg
-GAK Amateure     1-0 Sankt Veit            [aet]
+GAK Amateure     1-0 Sankt Veit            (aet)
 Rötis            0-4 Wattens
-Bleiburg         3-2 Rottenmann            [aet]
+Bleiburg         3-2 Rottenmann            (aet)
 St. Michael      2-4 LUV Graz
-Hard             2-0 Hall                  [aet]
+Hard             2-0 Hall                  (aet)
 Kundl            0-3 FC Lustenau
 Kufstein         0-1 Rum
 
 Round 2 [Aug 21-23]
 FAC              0-3 Austria Salzburg
 ESK Graz/GAK Am. 0-4 Sturm Graz
-Donau Linz       0-2 Austria Lustenau      [aet]
+Donau Linz       0-2 Austria Lustenau      (aet)
 Mattersburg      2-1 Tirol Innsbruck
 Eisenstadt       2-1 Vorwärts Steyr
 Aus.Salzburg Am. 0-2 LASK Linz
-SCR Altach       1-1 Austria Wien          [aet, 4-3 pen]
+SCR Altach       1-1 Austria Wien          (aet, 4-3 pen)
 SAK Klagenfurt   1-5 GAK
 Bad Schallerbach 1-2 Ried
 Oberndorf        0-8 Rapid
 Klingenbach      1-3 Spittal
 LUV/Sturm Am.    0-3 Braunau
 Kapfenberg       0-4 Vienna
-Pöllau           1-1 Kottingbrunn          [aet, 4-5 pen]
+Pöllau           1-1 Kottingbrunn          (aet, 4-5 pen)
 Untersiebenbrunn 3-1 Himberg
 Wattens          0-4 Admira Wacker Mödling
 Pasching         0-1 Eintracht Wels
-Zwettl           3-4 Sankt Pölten          [aet]
+Zwettl           3-4 Sankt Pölten          (aet)
 Bleiburg         2-1 Grieskirchen
 Deutschkreutz    2-4 Reichenau
-Hard             2-2 Stockerau             [aet, 3-5 pen]
+Hard             2-2 Stockerau             (aet, 3-5 pen)
 Leibnitz         4-1 EPSV Gmünd
 Lendorf          1-6 DSV Leoben
 Rum              1-3 Schwarz-Weiß Bregenz
@@ -629,55 +595,55 @@ LAC              2-8 Austria Klagenfurt/VSV
 Sturm 19 St.P.   3-4 FC Lustenau
 Tulln            2-1 Sattledt
 Horn             4-0 Esternberg
-Waidhofen/Ybbs   3-2 Würmla                [aet]
+Waidhofen/Ybbs   3-2 Würmla                (aet)
 
-Round 3
-[Sep 4]
+▪ Round 3 ▪
+_ Sep 4 _
 Eisenstadt       1-6 GAK
-[Sep 11]
+_ Sep 11 _
 Untersiebenbrunn 1-3 Schwarz-Weiß Bregenz
-Sankt Florian    2-2 Admira Wacker Mödling [aet, 3-4 pen]
-[Sep 12]
+Sankt Florian    2-2 Admira Wacker Mödling (aet, 3-4 pen)
+_ Sep 12 _
 Kottingbrunn     0-4 Wörgl
 Tulln            0-2 Sankt Pölten
 Leibnitz         1-3 Austria Lustenau
 Mattersburg      3-5 Rapid
 Horn             7-1 Austria Klagenfurt/VSV
-SCR Altach       1-2 Braunau               [aet]
-Eintracht Wels   0-0 Spittal               [aet, 3-4 pen]
+SCR Altach       1-2 Braunau               (aet)
+Eintracht Wels   0-0 Spittal               (aet, 3-4 pen)
 Reichenau        0-5 Sturm Graz
 Bleiburg         0-5 Austria Salzburg
-Waidhofen/Ybbs   0-2 Ried                  [aet]
+Waidhofen/Ybbs   0-2 Ried                  (aet)
 Schwechat        1-0 Vienna
 Stockerau        0-2 LASK Linz
-[Sep 13]
-FC Lustenau      1-3 DSV Leoben            [aet]
+_ Sep 13 _
+FC Lustenau      1-3 DSV Leoben            (aet)
 
-Round 4 [Oct 31]
+▪ Round 4 ▪  Oct 31
 Spittal          0-1 LASK Linz
 Horn             0-3 Ried
 Rapid            3-0 Wörgl
 Schwechat        0-4 Braunau
 Sturm Graz       2-1 Schwarz-Weiß Bregenz
-Austria Lustenau 3-1 DSV Leoben            [aet]
-Admira Wacker M. 2-2 Austria Salzburg      [aet, 2-4 pen]
+Austria Lustenau 3-1 DSV Leoben            (aet)
+Admira Wacker M. 2-2 Austria Salzburg      (aet, 2-4 pen)
 Sankt Pölten     0-4 GAK
 
-Quarterfinals [Apr 6]
+▪ Quarterfinals ▪  Apr 6
 Rapid            4-1 Austria Salzburg
 GAK              1-2 Sturm Graz
 Braunau          0-1 Ried
 Austria Lustenau 0-1 LASK Linz
 
-Semifinals [May 5]
+▪ Semifinals ▪  May 5
 Sturm Graz       5-0 Ried
-  [4' Kocijan, 7' Minavand, 45' Vastic, 54' Schopp, 88' Prilasnig]
+  (4' Kocijan, 7' Minavand, 45' Vastic, 54' Schopp, 88' Prilasnig)
 Rapid            0-2 LASK Linz
-  [5' Panis, 79' Stumpf]
+  (5' Panis, 79' Stumpf)
 
-Final [May 18, Happel-Stadion, Wien]
-Sturm Graz       1-1 LASK Linz             [aet, 4-2 pen]
-  [60' Haas; 36' (og) Vastic] [att 8,500]
+▪ Final ▪  May 18, Happel-Stadion, Wien
+Sturm Graz       1-1 LASK Linz             (aet, 4-2 pen)
+  (60' Haas; 36' (og) Vastic] [att 8,500)
 penalty shootout:
   Kauz (LASK)          miss     Vastic (Sturm) 0-1
   Rohseano (LASK)      miss     Haas (Sturm)   0-2
@@ -693,8 +659,8 @@ LASK: Pavlovic - Muhr - Milinovic, Ba (56' Mehlem) - Pichorner, Rohseano,
 
 
 Super Cup Final [Jun 25, Arnold Schwarzenegger Stadion, Graz]
-Sturm Graz       1-1 LASK Linz             [aet, 5-4 pen]
-  [Vastic 60' Udovic 25'] [att 4,500]
+Sturm Graz       1-1 LASK Linz             (aet, 5-4 pen)
+  (Vastic 60' Udovic 25'] [att 4,500)
 
 
 1.Division (Second Level)
@@ -715,287 +681,287 @@ Table:
 -----------------------------------------------------
 10.SV Stockerau                 36  9 10 17 35-59  37  Relegated
 
-Round 1
-[Jul 24]
+▪ Round 1 ▪
+_ Jul 24 _
 Austria K/VSV    0-0 Vienna
-[Jul 25]
+_ Jul 25 _
 Braunau          1-3 Admira/Wacker
 Schwarz-Weiß     3-1 Spittal
 Sankt Pölten     2-1 DSV
 Wörgl            4-0 Stockerau
 
-Round 2 [Jul 29]
+▪ Round 2 ▪  Jul 29
 Admira/Wacker    0-2 Sankt Pölten
 Spittal          0-1 Wörgl
 Vienna           2-4 Schwarz-Weiß
 Stockerau        0-2 Braunau
 DSV              4-0 Austria K/VSV
 
-Round 3 [Aug 1]
+▪ Round 3 ▪  Aug 1
 Braunau          1-0 Spittal
 Sankt Pölten     3-0 Stockerau
 Austria K/VSV    5-1 Schwarz-Weiß
 DSV              2-2 Admira/Wacker
 Wörgl            3-2 Vienna
 
-Round 4 [Aug 8]
+▪ Round 4 ▪  Aug 8
 Schwarz-Weiß     3-0 Wörgl
 Spittal          0-1 Sankt Pölten
 Stockerau        2-0 DSV
 Vienna           1-1 Braunau
 Admira/Wacker    0-0 Austria K/VSV
 
-Round 5 [Aug 15]
+▪ Round 5 ▪  Aug 15
 Braunau          2-0 Schwarz-Weiß
 DSV              1-1 Spittal
 Admira/Wacker    2-0 Stockerau
 Sankt Pölten     2-0 Vienna
 Austria K/VSV    0-1 Wörgl
 
-Round 6
-[Aug 28]
+▪ Round 6 ▪
+_ Aug 28 _
 Spittal          3-0 Admira/Wacker
-[Aug 29]
+_ Aug 29 _
 Schwarz-Weiß     2-2 Sankt Pölten
 Vienna           1-2 DSV
 Wörgl            0-1 Braunau
 Stockerau        1-1 Austria K/VSV
 
-Round 7
-[Sep 1]
+▪ Round 7 ▪
+_ Sep 1 _
 Sankt Pölten     3-0 Wörgl
 DSV              0-1 Schwarz-Weiß
-[Sep 2]
+_ Sep 2 _
 Austria K/VSV    0-1 Braunau
 Stockerau        0-0 Spittal
-[Sep 16]
+_ Sep 16 _
 Admira/Wacker    2-1 Vienna
 
-Round 8
-[Sep 8]
+▪ Round 8 ▪
+_ Sep 8 _
 Schwarz-Weiß     1-1 Admira/Wacker
-[Sep 9]
+_ Sep 9 _
 Wörgl            0-2 DSV
 Braunau          0-0 Sankt Pölten
 Spittal          1-1 Austria K/VSV
 Vienna           0-0 Stockerau
 
-Round 9
-[Sep 18]
+▪ Round 9 ▪
+_ Sep 18 _
 DSV              2-0 Braunau
-[Sep 19]
+_ Sep 19 _
 Sankt Pölten     1-0 Austria K/VSV
 Admira/Wacker    4-2 Wörgl
 Spittal          0-2 Vienna
 Stockerau        1-4 Schwarz-Weiß
 
-Round 10
-[Sep 22]
+▪ Round 10 ▪
+_ Sep 22 _
 Braunau          3-1 DSV
 Schwarz-Weiß     1-0 Stockerau
-[Aug 23]
+_ Aug 23 _
 Wörgl            1-1 Admira/Wacker
 Austria K/VSV    2-1 Sankt Pölten
 Vienna           2-0 Spittal
 
-Round 11 [Sep 26]
+▪ Round 11 ▪  Sep 26
 DSV              2-3 Sankt Pölten
 Spittal          1-1 Schwarz-Weiß
 Admira/Wacker    1-1 Braunau
 Stockerau        2-2 Wörgl
 Vienna           4-1 Austria K/VSV
 
-Round 12
-[Oct 2]
+▪ Round 12 ▪
+_ Oct 2 _
 Schwarz-Weiß     1-0 Vienna
-[Oct 3]
+_ Oct 3 _
 Austria K/VSV    2-0 DSV
 Sankt Pölten     2-0 Admira/Wacker
 Braunau          0-1 Stockerau
 Wörgl            2-0 Spittal
 
-Round 13
-[Oct 6]
+▪ Round 13 ▪
+_ Oct 6 _
 Admira/Wacker    0-2 DSV
 Vienna           3-0 Wörgl
-[Oct 7]
+_ Oct 7 _
 Schwarz-Weiß     5-2 Austria K/VSV
 Stockerau        2-1 Sankt Pölten
-[Oct 21]
+_ Oct 21 _
 Spittal          1-0 Braunau
 
-Round 14 [Oct 17]
+▪ Round 14 ▪  Oct 17
 Braunau          4-0 Vienna
 Sankt Pölten     2-1 Spittal
 Austria K/VSV    0-1 Admira/Wacker
 DSV              4-2 Stockerau
 Wörgl            2-4 Schwarz-Weiß
 
-Round 15 [Oct 24]
+▪ Round 15 ▪  Oct 24
 Schwarz-Weiß     4-1 Braunau
 Spittal          2-1 DSV
 Stockerau        2-2 Admira/Wacker
 Vienna           2-2 Sankt Pölten
 Wörgl            0-3 Austria K/VSV
 
-Round 16
-[Oct 30]
+▪ Round 16 ▪
+_ Oct 30 _
 Austria K/VSV    0-0 Stockerau
-[Nov 6]
+_ Nov 6 _
 DSV              2-1 Vienna
-[Nov 7]
+_ Nov 7 _
 Admira/Wacker    2-0 Spittal
 Braunau          0-2 Wörgl
 Sankt Pölten     2-2 Schwarz-Weiß
 
-Round 17 [Nov 14]
+▪ Round 17 ▪  Nov 14
 Schwarz-Weiß     3-2 DSV
 Wörgl            2-1 Sankt Pölten
 Vienna           0-1 Admira/Wacker
 Braunau          0-2 Austria K/VSV
 Spittal          2-0 Stockerau
 
-Round 18 [Nov 21]
+▪ Round 18 ▪  Nov 21
 Austria K/VSV    1-1 Spittal
 Sankt Pölten     1-0 Braunau
 Admira/Wacker    2-4 Schwarz-Weiß
 Stockerau        1-0 Vienna
 DSV              0-0 Wörgl
 
-Round 19 [Nov 28]
+▪ Round 19 ▪  Nov 28
 Sankt Pölten     1-2 Admira/Wacker
 Spittal          1-2 Schwarz-Weiß
 Wörgl            1-2 DSV
 Braunau          0-1 Vienna
 Stockerau        2-0 Austria K/VSV
 
-Round 20
-[Mar 6]
+▪ Round 20 ▪
+_ Mar 6 _
 Admira/Wacker    2-0 Braunau
 Austria K/VSV    1-1 Wörgl
 Vienna           3-1 Spittal
-[Mar 7]
+_ Mar 7 _
 Schwarz-Weiß     3-2 Stockerau
-[Mar 16]
+_ Mar 16 _
 DSV              4-1 Sankt Pölten
 
-Round 21 [Mar 13,14]
+▪ Round 21 ▪  Mar 13, 14
 Sankt Pölten     2-0 Braunau
 Wörgl            2-2 Schwarz-Weiß
 Spittal          1-1 Admira/Wacker
 Stockerau        1-1 Vienna
 DSV              3-1 Austria K/VSV
 
-Round 22 [Mar 20]
+▪ Round 22 ▪  Mar 20
 Admira/Wacker    0-0 Stockerau
 Braunau          1-0 Spittal
 Schwarz-Weiß     1-0 DSV
 Austria K/VSV    0-0 Sankt Pölten
 Vienna           2-2 Wörgl
 
-Round 23
-[Mar 27]
+▪ Round 23 ▪
+_ Mar 27 _
 Stockerau        1-2 Braunau
 Austria K/VSV    1-1 Schwarz-Weiß
-[Mar 30]
+_ Mar 30 _
 Wörgl            0-5 Admira/Wacker
-[Mar 31]
+_ Mar 31 _
 Sankt Pölten     2-1 Spittal
 DSV              1-1 Vienna
 
-Round 24 [Apr 3]
+▪ Round 24 ▪  Apr 3
 Admira/Wacker    1-0 DSV
 Braunau          2-1 Wörgl
 Schwarz-Weiß     1-0 Sankt Pölten
 Spittal          2-0 Stockerau
 Vienna           1-0 Austria K/VSV
 
-Round 25 [Apr 10]
+▪ Round 25 ▪  Apr 10
 Schwarz-Weiß     1-0 Vienna
 Sankt Pölten     0-1 Stockerau
 Austria K/VSV    1-1 Admira/Wacker
 DSV              0-0 Braunau
 Wörgl            1-0 Spittal
 
-Round 26 [Apr 14]
+▪ Round 26 ▪  Apr 14
 Admira/Wacker    0-0 Schwarz-Weiß
 Braunau          0-0 Austria K/VSV
 Spittal          2-1 DSV
 Stockerau        0-2 Wörgl
 Vienna           3-1 Sankt Pölten
 
-Round 27
-[Apr 17]
+▪ Round 27 ▪
+_ Apr 17 _
 Schwarz-Weiß     1-1 Braunau
 DSV              1-1 Stockerau
 Austria K/VSV    0-2 Spittal
-[Apr 18]
+_ Apr 18 _
 Vienna           2-0 Admira/Wacker
-[Apr 21]
+_ Apr 21 _
 Wörgl            2-2 Sankt Pölten
 
-Round 28 [Apr 24]
+▪ Round 28 ▪  Apr 24
 Admira/Wacker    1-0 Vienna
 Braunau          2-0 Schwarz-Weiß
 Sankt Pölten     2-0 Wörgl
 Stockerau        2-1 DSV
 Spittal          0-3 Austria K/VSV
 
-Round 29 [May 1]
+▪ Round 29 ▪  May 1
 Admira/Wacker    2-2 Sankt Pölten
 Schwarz-Weiß     2-2 Spittal
 Austria K/VSV    1-1 Stockerau
 DSV              1-1 Wörgl
 Vienna           2-1 Braunau
 
-Round 30 [May 8]
+▪ Round 30 ▪  May 8
 Braunau          0-0 Admira/Wacker
 Sankt Pölten     1-1 DSV
 Spittal          1-0 Vienna
 Stockerau        1-3 Schwarz-Weiß
 Wörgl            1-2 Austria K/VSV
 
-Round 31 [May 11]
+▪ Round 31 ▪  May 11
 Braunau          0-0 Sankt Pölten
 Admira/Wacker    0-1 Spittal
 Schwarz-Weiß     1-3 Wörgl
 Vienna           2-0 Stockerau
 Austria K/VSV    0-1 DSV
 
-Round 32 [May 15]
+▪ Round 32 ▪  May 15
 DSV              0-1 Schwarz-Weiß
 Sankt Pölten     1-0 Austria K/VSV
 Stockerau        3-1 Admira/Wacker
 Wörgl            2-3 Vienna
 Spittal          0-0 Braunau
 
-Round 33
-[May 21]
+▪ Round 33 ▪
+_ May 21 _
 Braunau          3-1 Stockerau
-[May 22]
+_ May 22 _
 Spittal          1-1 Sankt Pölten
 Admira/Wacker    1-0 Wörgl
 Vienna           2-1 DSV
-[May 23]
+_ May 23 _
 Schwarz-Weiß     1-2 Austria K/VSV
 
-Round 34
-[May 28]
+▪ Round 34 ▪
+_ May 28 _
 DSV              1-2 Admira/Wacker
-[May 29]
+_ May 29 _
 Sankt Pölten     2-0 Schwarz-Weiß
 Austria K/VSV    3-2 Vienna
 Stockerau        0-3 Spittal
 Wörgl            2-0 Braunau
 
-Round 35 [Jun 5]
+▪ Round 35 ▪  Jun 5
 Vienna           3-0 Schwarz-Weiß
 Stockerau        5-4 Sankt Pölten
 Admira/Wacker    1-4 Austria K/VSV
 Braunau          1-0 DSV
 Spittal          1-1 Wörgl
 
-Round 36 [Jun 9]
+▪ Round 36 ▪  Jun 9
 Schwarz-Weiß     2-0 Admira/Wacker
 Sankt Pölten     1-2 Vienna
 Austria K/VSV    2-0 Braunau
@@ -1022,11 +988,11 @@ NB: after the season, Austria Klagenfurt/VSV changed name to FC Kärnten.
 
 Promotion/Relegation Playoffs
 
-First Legs [Jun 15]
+▪ First Legs ▪  Jun 15
 Spittal          1-1 Untersiebenbrunn
 Hartberg         0-2 Wattens
 
-Second Legs [Jun 19]
+▪ Second Legs ▪  Jun 19
 Untersiebenbrunn 0-0 Spittal
 Wattens          3-2 Hartberg
 
@@ -2355,26 +2321,8 @@ Fourth Level
 
 Tiroler Liga  ‹§tirol›
 
-Final Table:
+<!-- $table3$ -->
 
- 1. SVg Jenbach              30  20  5  5  80-34  65  promoted
-----------------------------------------------------
- 2. SV Götzens               30  19  5  6  73-40  62
- 3. SV Telfs                 30  15  5 10  62-52  50
- 4. Innsbrucker SK           30  12 12  6  60-45  48
- 5. SV Axams                 30  14  6 10  48-51  48
- 6. SV Innsbruck             30  14  5 11  52-50  47
- 7. SV Kirchbichl            30  12  7 11  49-42  43
- 8. SC Schwaz                30  11 10  9  47-43  43
- 9. SC Steinach              30  11  8 11  61-53  41
-10. SV Thiersee              30  11  4 15  47-48  37
-11. FC Kitzbühel             30  10  7 13  52-60  37
-12. SV Fügen                 30   9  8 13  55-60  35
-13. FC Vils                  30   9  7 14  36-53  34
-14. SV Kematen               30   7  9 14  50-73  30
-----------------------------------------------------
-15. SC Imst                  30   6  8 16  35-53  26  relegated
-16. FC Vomp                  30   3  8 19  39-89  17  relegated
 
 Changes:
 - Champion SVg Jenbach mixes with FC Achensee to form SPG Jenbach/Achensee
@@ -2633,24 +2581,8 @@ Fourth Level
 
 Vorarlberg-Liga
 
-Final Table:
+<!-- $table4$ -->
 
- 1. Blau-Weiß Feldkirch      26  14  8  4  50-24  50  promoted
-----------------------------------------------------
- 2. Dornbirner SV            26  13  9  4  40-19  48
- 3. FC Götzis                26  13  5  8  45-27  44
- 4. FC Höchst                26  12  6  8  38-31  42
- 5. FC Dornbirn              26  12  5  9  57-40  41
- 6. FC Wolfurt               26  11  8  7  40-31  41
- 7. SC Röthis                26  11  8  7  42-36  41
- 8. VfB Hohenems             26  10  8  8  29-23  38
- 9. SC Göfis                 26   8  8 10  28-40  32
-10. FC Schwarzach            26   8  6 12  37-54  30
-11. FC Koblach               26   6  9 11  36-44  27
-12. SK Rätia Bludenz         26   6  7 13  32-42  25
-13. Viktoria Bregenz         26   5  6 15  29-61  21
-----------------------------------------------------
-14. SK Brederis              26   2  9 15  24-55  15  relegated
 
 No relegation from Regionalliga
 
@@ -2924,36 +2856,10 @@ Eighth Level
 14.Young Guns                   26  2  3 21 40-149  9
 
 
-<!-- end pre -->
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-‹1997/98, see page oost98›.
-
-‹1999/2000, see page oost00›.
-
-‹list of final tables, see page oosthist›.
-
-‹list of champions, see page oostchamp›.
-
-‹list of cup finals, see page oostcuphist›.
-
-‹list of super cup finals, see page oostsupcuphist›.
-
-‹list of foundation dates, see page oostfound›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-== About this document  ‹§about›
-
-Prepared and maintained by the ‹RSSSF, see page ../nersssf›
 
 
-Author: RSSSF
-
-Last updated: 15 Jun 2022
 
 
-(C) Copyright RSSSF 1999/2022
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the RSSSF. All rights reserved.
+
+<!-- $about$ -->
+

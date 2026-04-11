@@ -6,7 +6,6 @@
 
 == Austria 1985/86
 
-<!-- start pre -->
 Fall season
 ===========
 
@@ -29,27 +28,27 @@ Table:
 11.Donawitzer SV Alpine      22   3  7 12  27-53   13
 12.Salzburger AK             22   0  7 15  16-52    7
 
-Round 1
-[Aug 8]
+▪ Round 1 ▪
+_ Aug 8 _
 Eisenstadt       0-2 Austria
-[Aug 9]
+_ Aug 9 _
 Klagenfurt       0-0 VOEST
 LASK             4-0 SAK
 Rapid            3-1 Admira/Wacker
 Sturm            0-0 Donawitz
 Innsbruck        1-1 GAK
 
-Round 2
-[Aug 13]
+▪ Round 2 ▪
+_ Aug 13 _
 Donawitz         1-1 Eisenstadt
 GAK              1-2 Klagenfurt
 Rapid            6-0 Innsbruck
 SAK              0-0 Sturm
 VOEST            0-0 LASK
-[Sep 10]
+_ Sep 10 _
 Admira/Wacker    0-1 Austria
 
-Round 3 [Aug 16]
+▪ Round 3 ▪  Aug 16
 Klagenfurt       2-2 Rapid
 Austria          1-2 Donawitz
 LASK             1-3 GAK
@@ -57,27 +56,27 @@ Eisenstadt       3-2 SAK
 Sturm            3-1 VOEST
 Innsbruck        4-1 Admira/Wacker
 
-Round 4
-[Aug 20]
+▪ Round 4 ▪
+_ Aug 20 _
 Admira/Wacker    2-2 Donawitz
 GAK              0-0 Sturm
 SAK              0-2 Austria
 VOEST            2-0 Eisenstadt
 Innsbruck        3-2 Klagenfurt
-[Sep 10]
+_ Sep 10 _
 Rapid            5-0 LASK
 
-Round 5
-[Aug 23]
+▪ Round 5 ▪
+_ Aug 23 _
 Klagenfurt       0-0 Admira/Wacker
 Austria          7-1 VOEST
 LASK             1-1 Innsbruck
 Eisenstadt       1-1 GAK
-[Aug 24]
+_ Aug 24 _
 Donawitz         4-2 SAK
 Sturm            2-2 Rapid
 
-Round 6 [Aug 27]
+▪ Round 6 ▪  Aug 27
 Admira/Wacker    2-0 SAK
 Klagenfurt       1-1 LASK
 GAK              1-5 Austria
@@ -85,17 +84,17 @@ Rapid            6-0 Eisenstadt
 VOEST            3-2 Donawitz
 Innsbruck        1-1 Sturm
 
-Round 7
-[Aug 30]
+▪ Round 7 ▪
+_ Aug 30 _
 LASK             2-1 Admira/Wacker
 SAK              1-1 VOEST
 Eisenstadt       1-1 Innsbruck
 Sturm            1-1 Klagenfurt
-[Aug 31]
+_ Aug 31 _
 Donawitz         0-7 GAK
 Austria          0-0 Rapid
 
-Round 8 [Sep 6]
+▪ Round 8 ▪  Sep 6
 Admira/Wacker    2-0 VOEST
 Klagenfurt       1-1 Eisenstadt
 GAK              3-0 SAK
@@ -103,80 +102,80 @@ LASK             1-0 Sturm
 Rapid            3-0 Donawitz
 Innsbruck        1-3 Austria
 
-Round 9
-[Sep 13]
+▪ Round 9 ▪
+_ Sep 13 _
 Austria          2-0 Klagenfurt
 SAK              2-3 Rapid
 Eisenstadt       1-0 LASK
 VOEST            0-0 GAK
-[Sep 14]
+_ Sep 14 _
 Donawitz         2-5 Innsbruck
 Sturm            2-1 Admira/Wacker
 
-Round 10
-[Sep 20]
+▪ Round 10 ▪
+_ Sep 20 _
 Admira/Wacker    1-1 GAK
 Klagenfurt       2-1 Donawitz
-[Sep 21]
+_ Sep 21 _
 Rapid            7-0 VOEST
 Sturm            0-0 Eisenstadt
 Innsbruck        2-0 SAK
-[Oct 8]
+_ Oct 8 _
 LASK             1-3 Austria
 
-Round 11
-[Sep 27]
+▪ Round 11 ▪
+_ Sep 27 _
 Austria          5-0 Sturm
 GAK             0-10 Rapid
 SAK              2-2 Klagenfurt
 Eisenstadt       2-2 Admira/Wacker
 VOEST            3-2 Innsbruck
-[Sep 28]
+_ Sep 28 _
 Donawitz         1-3 LASK
 
-Round 12
-[Oct 4]
+▪ Round 12 ▪
+_ Oct 4 _
 GAK              2-0 Innsbruck
 VOEST            2-1 Klagenfurt
-[Oct 5]
+_ Oct 5 _
 Admira/Wacker    0-2 Rapid
 Donawitz         2-2 Sturm
 SAK              0-0 LASK
-[Oct 6]
+_ Oct 6 _
 Austria          4-0 Eisenstadt
 
-Round 13
-[Oct 11]
+▪ Round 13 ▪
+_ Oct 11 _
 Klagenfurt       5-2 GAK
 Austria          3-1 Admira/Wacker
 LASK             1-2 VOEST
 Eisenstadt       1-0 Donawitz
 Innsbruck        1-2 Rapid
-[Oct 12]
+_ Oct 12 _
 Sturm            2-2 SAK
 
-Round 14
-[Oct 18]
+▪ Round 14 ▪
+_ Oct 18 _
 GAK              0-2 LASK
 Rapid            4-0 Klagenfurt
-[Oct 19]
+_ Oct 19 _
 Admira/Wacker    5-2 Innsbruck
 Donawitz         1-4 Austria
 SAK              1-1 Eisenstadt
 VOEST            2-2 Sturm
 
-Round 15
-[Oct 25]
+▪ Round 15 ▪
+_ Oct 25 _
 Eisenstadt       2-0 VOEST
-[Oct 26]
+_ Oct 26 _
 LASK             0-0 Rapid
 Sturm            2-1 GAK
-[Oct 27]
+_ Oct 27 _
 Donawitz         1-1 Admira/Wacker
 Klagenfurt       2-1 Innsbruck
 Austria          5-0 SAK
 
-Round 16 [Nov 2]
+▪ Round 16 ▪  Nov 2
 Admira/Wacker    4-0 Klagenfurt
 GAK              3-1 Eisenstadt
 Rapid            3-0 Sturm
@@ -184,17 +183,17 @@ SAK              1-1 Donawitz
 VOEST            0-2 Austria
 Innsbruck        1-1 LASK
 
-Round 17
-[Nov 9]
+▪ Round 17 ▪
+_ Nov 9 _
 Donawitz         1-0 VOEST
 LASK             3-0 Klagenfurt
 SAK              0-3 Admira/Wacker
 Eisenstadt       0-0 Rapid
 Sturm            4-3 Innsbruck
-[Nov 10]
+_ Nov 10 _
 Austria          5-0 GAK
 
-Round 18 [Nov 16]
+▪ Round 18 ▪  Nov 16
 Admira/Wacker    5-1 LASK
 Klagenfurt       2-2 Sturm
 GAK              3-1 Donawitz
@@ -202,18 +201,18 @@ Rapid            1-5 Austria
 VOEST            3-1 SAK
 Innsbruck        6-2 Eisenstadt
 
-Round 19
-[Nov 23]
+▪ Round 19 ▪
+_ Nov 23 _
 Donawitz         2-3 Rapid
 SAK              1-3 GAK
 Sturm            2-1 LASK
 VOEST            2-1 Admira/Wacker
-[Nov 27]
+_ Nov 27 _
 Austria          2-0 Innsbruck
-[Dec 3]
+_ Dec 3 _
 Eisenstadt       0-5 Klagenfurt
 
-Round 20 [Nov 30]
+▪ Round 20 ▪  Nov 30
 Admira/Wacker    3-0 Sturm
 Klagenfurt       2-0 Austria
 GAK              1-0 VOEST
@@ -221,7 +220,7 @@ LASK             6-0 Eisenstadt
 Rapid            4-0 SAK
 Innsbruck        5-1 Donawitz
 
-Round 21 [Dec 7]
+▪ Round 21 ▪  Dec 7
 Donawitz         1-1 Klagenfurt
 Austria          4-1 LASK
 GAK              4-0 Admira/Wacker
@@ -229,7 +228,7 @@ SAK              0-2 Innsbruck
 Eisenstadt       0-0 Sturm
 VOEST            0-4 Rapid
 
-Round 22 [Dec 14]
+▪ Round 22 ▪  Dec 14
 Admira/Wacker    2-2 Eisenstadt
 Klagenfurt       2-1 SAK
 LASK             3-1 Donawitz
@@ -270,107 +269,107 @@ Table:
  7.FC Admira/Wacker          36   9 11 16  54-66   29
  8.Austria Klagenfurt        36   8 12 16  41-67   28
 
-Round 23
-[Mar 1]
+▪ Round 23 ▪
+_ Mar 1 _
 LASK      1-1 Innsbruck
 Rapid      2-2 Klagenfurt
-[Mar 18]
+_ Mar 18 _
 Admira/Wacker    0-0 GAK
-[Mar 19]
+_ Mar 19 _
 Sturm      2-2 Austria
 
-Round 24
-[Mar 8]
+▪ Round 24 ▪
+_ Mar 8 _
 GAK      0-1 Rapid
 Innsbruck    3-0 Sturm
-[Mar 9]
+_ Mar 9 _
 Austria    6-1 Admira/Wacker
-[Mar 19]
+_ Mar 19 _
 Klagenfurt    0-3 LASK
 
-Round 25
-[Mar 14]
+▪ Round 25 ▪
+_ Mar 14 _
 Austria    2-2 Innsbruck
-[Mar 15]
+_ Mar 15 _
 Admira/Wacker    0-4 Rapid
 LASK      1-0 GAK
-[Mar 16]
+_ Mar 16 _
 Sturm      4-1 Klagenfurt
 
-Round 26 [Mar 22]
+▪ Round 26 ▪  Mar 22
 Admira/Wacker    0-1 Innsbruck
 Klagenfurt    0-6 Austria
 GAK      0-0 Sturm
 Rapid      awd LASK     [awarded 0-3; original match 3-0,
            Rapid used inlegible player Brucic]
-Round 27 [Mar 29]
+▪ Round 27 ▪  Mar 29
 Austria    4-1 GAK
 LASK      1-1 Admira/Wacker
 Sturm      0-0 Rapid
 Innsbruck    1-1 Klagenfurt
 
-Round 28
-[Apr 4]
+▪ Round 28 ▪
+_ Apr 4 _
 Admira/Wacker    2-1 Klagenfurt
-[Apr 5]
+_ Apr 5 _
 GAK      3-1 Innsbruck
 LASK      1-0 Sturm
 Rapid      2-0 Austria
 
-Round 29 [Apr 12]
+▪ Round 29 ▪  Apr 12
 Klagenfurt    0-2 GAK
 Austria    0-0 LASK
 Sturm      1-1 Admira/Wacker
 Innsbruck    2-0 Rapid
 
-Round 30
-[Apr 18]
+▪ Round 30 ▪
+_ Apr 18 _
 Klagenfurt    1-1 Rapid
 GAK      4-1 Admira/Wacker
-[Apr 19]
+_ Apr 19 _
 Innsbruck    3-0 LASK
-[Apr 20]
+_ Apr 20 _
 Austria    3-2 Sturm
 
-Round 31
-[Apr 25]
+▪ Round 31 ▪
+_ Apr 25 _
 Admira/Wacker    2-2 Austria
 LASK      1-0 Klagenfurt
 Rapid      3-1 GAK
-[Apr 26]
+_ Apr 26 _
 Sturm      1-0 Innsbruck
 
-Round 32
-[May 2]
+▪ Round 32 ▪
+_ May 2 _
 GAK      1-1 LASK
 Rapid      5-3 Admira/Wacker
-[May 3]
+_ May 3 _
 Klagenfurt    0-5 Sturm
 Innsbruck    1-1 Austria
 
-Round 33
-[May 9]
+▪ Round 33 ▪
+_ May 9 _
 LASK      2-2 Rapid
 Innsbruck    3-1 Admira/Wacker
-[May 10]
+_ May 10 _
 Austria    2-0 Klagenfurt
 Sturm      1-1 GAK
 
-Round 34 [May 16]
+▪ Round 34 ▪  May 16
 Admira/Wacker    2-2 LASK
 Klagenfurt    0-2 Innsbruck
 GAK      0-2 Austria
 Rapid      2-1 Sturm
 
-Round 35
-[May 23]
+▪ Round 35 ▪
+_ May 23 _
 Austria    1-3 Rapid
 Sturm      2-1 LASK
 Innsbruck    3-1 GAK
-[May 24]
+_ May 24 _
 Klagenfurt    1-0 Admira/Wacker
 
-Round 36 [May 30]
+▪ Round 36 ▪  May 30
 Admira/Wacker    2-1 Sturm
 GAK      2-1 Klagenfurt
 LASK      0-1 Austria
@@ -389,18 +388,8 @@ Table:
 
 [After this season Innsbruck changed name to FC Tirol.]
 
-Topscorers:
- 1.Anton Polster (Austria)    33
- 2.Zlatko Kranjcar (Rapid)    22
- 3.Alfred Drabits (Austria)    20
- 4.Hans Krankl (Rapid)      18
-   Tibor Nyilasi (Austria)              18
- 6.Hans Müller (Innsbruck)              16
- 7.Peter Pacult (Rapid)      15
- 8.Alfred Roscher (Innsbruck)    13
- 9.Jaroslav Jedynak (GAK)    12
-   Walter Knaller (Admira/Wacker)       12
-   Andreas Spielmann (Innsbruck)        12
+<!-- $topscorers1$ -->
+
 
 Fall season
 ===========
@@ -473,20 +462,10 @@ SK Kufstein (West)
 
 
 
-<!-- end pre -->
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-== About this document  ‹§about›
-
-Prepared and maintained by Ambrosius Kutschera
-for the ‹Rec.Sport.Soccer Statistics Foundation›
 
 
-Author: Ambrosius Kutschera
-Last updated: 31 Aug 2003
 
 
-(C) Copyright Ambrosius Kutschera and RSSSF 2003
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.
+
+<!-- $about$ -->
+

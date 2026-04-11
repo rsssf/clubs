@@ -6,22 +6,10 @@
 
 == Austria 2003/04
 
-<!-- start pre -->
 First Level (Bundesliga)
 
-Final Table:
+<!-- $table1$ -->
 
- 1.Grazer AK                    36 21  9  6 62-32  72  Champions
- 2.FK Austria Wien              36 21  8  7 63-31  71
- 3.SV Pasching                  36 17 12  7 59-41  63
- 4.SK Rapid Wien                36 16  9 11 50-47  57
- 5.Schwarz-Weiß Bregenz         36 11 12 13 47-58  45
- 6.VfB Admira/Wacker Mödling    36 11  9 16 42-49  42  [*]
- 7.SV Austria Salzburg          36 11  5 20 44-48  38
- 8.SV Mattersburg               36  9 10 17 39-61  37
- 9.SK Sturm Graz                36  8 11 17 39-52  35
------------------------------------------------------
-10.FC Kärnten                   36  7 11 18 36-62  32  Relegated
 
 [*] the reported name change of VfB Admira/Wacker Mödling refers
     only to the visual appearance of their logo, from which Wacker
@@ -29,500 +17,489 @@ Final Table:
     'Wir Niederösterreicher'; their officially registered name has
     not been changed.
 
-Round 1
-[Jul 16]
+▪ Round 1 ▪
+_ Jul 16 _
 Kärnten          2-1 Austria W
-  [Maric 72, Zafarin 74; Janocko 65]
+  (Maric 72, Zafarin 74; Janocko 65)
 Rapid            4-2 Pasching
-  [R.Wagner 14, Pashazadeh 30, Hofmann 52, Bico 73; Glieder 79, 87]
+  (R.Wagner 14, Pashazadeh 30, Hofmann 52, Bico 73; Glieder 79, 87)
 GAK              1-0 Admira
-  [Naumoski 47]
-[Jul 17]
+  (Naumoski 47)
+_ Jul 17 _
 Schwarz-Weiß     1-0 Austria S
-  [Lawarée 56]
-[Jul 26]
+  (Lawarée 56)
+_ Jul 26 _
 Mattersburg      3-1 Sturm
-  [Kühbauer 3pen, Fülöp 38, T.Wagner 91; Rojas 31]
+  (Kühbauer 3pen, Fülöp 38, T.Wagner 91; Rojas 31)
 
-Round 2 [Jul 23]
+▪ Round 2 ▪  Jul 23
 Austria W        4-0 Schwarz-Weiß
-  [Vastic 34, 74pen, Dospel 36, Rushfeldt 63]
+  (Vastic 34, 74pen, Dospel 36, Rushfeldt 63)
 Admira           1-1 Mattersburg
-  [Swierczewski 85; Kühbauer 90pen]
+  (Swierczewski 85; Kühbauer 90pen)
 Pasching         1-2 GAK
-  [Rothbauer 63; Tokic 12, Pogatetz 62]
+  (Rothbauer 63; Tokic 12, Pogatetz 62)
 Austria S        1-2 Rapid
-  [Hassler 75; R.Wagner 18, Adamski 47]
+  (Hassler 75; R.Wagner 18, Adamski 47)
 Sturm            0-0 Kärnten
 
-Round 3
-[Jul 30]
+▪ Round 3 ▪
+_ Jul 30 _
 Schwarz-Weiß     2-1 Sturm
-  [Aslan 24, Klausz 41; Rojas 65]
+  (Aslan 24, Klausz 41; Rojas 65)
 Mattersburg      0-0 Kärnten
 Rapid            1-0 Admira
-  [R.Wagner 33]
-[Aug 9]
+  (R.Wagner 33)
+_ Aug 9 _
 Pasching         3-2 Austria S
-  [Glieder 55pen, 71, 81; Laessig 30, 84pen]
-[Sep 17]
+  (Glieder 55pen, 71, 81; Laessig 30, 84pen)
+_ Sep 17 _
 GAK              1-3 Austria W
-  [Kollmann 65; Rushfeldt 16, 63, Gilewicz 72]
+  (Kollmann 65; Rushfeldt 16, 63, Gilewicz 72)
 
-Round 4
-[Aug 2]
+▪ Round 4 ▪
+_ Aug 2 _
 Austria S        1-2 GAK
-  [Hassler 27; Kollmann 87, 90]
-[Aug 6]
+  (Hassler 27; Kollmann 87, 90)
+_ Aug 6 _
 Austria W        3-0 Mattersburg
-  [M.Wagner 14, Verlaat 51, Rushfeldt 74]
+  (M.Wagner 14, Verlaat 51, Rushfeldt 74)
 Kärnten          1-1 Schwarz-Weiß
-  [Schellander 71; Hauser 93]
-[Aug 7]
+  (Schellander 71; Hauser 93)
+_ Aug 7 _
 Sturm            0-2 Rapid
-  [Ivanschitz 57, Hofmann 58]
-[Sep 17]
+  (Ivanschitz 57, Hofmann 58)
+_ Sep 17 _
 Admira           4-0 Pasching
-  [Linz 12, 77, 87, Iwan 47]
+  (Linz 12, 77, 87, Iwan 47)
 
-Round 5
-[Aug 16]
+▪ Round 5 ▪
+_ Aug 16 _
 Admira           4-0 Austria S
-  [Astafjevs 30, Linz 71, Ziervogel 76, Katzer 88]
+  (Astafjevs 30, Linz 71, Ziervogel 76, Katzer 88)
 Mattersburg      3-2 Schwarz-Weiß
-  [Fülöp 25, Kühbauer 75pen, Mörz 80; Lawarée 29, 35]
+  (Fülöp 25, Kühbauer 75pen, Mörz 80; Lawarée 29, 35)
 Pasching         2-1 Sturm
-  [Glieder 58, 90; Neukirchner 77]
-[Aug 17]
+  (Glieder 58, 90; Neukirchner 77)
+_ Aug 17 _
 Rapid            2-2 Austria W
-  [Verlaat 23og, Vico 57; Rushfeldt 65, Verlaat 69]
+  (Verlaat 23og, Vico 57; Rushfeldt 65, Verlaat 69)
 GAK              5-1 Kärnten
-  [Naumoski 8, 83, Tokic 51, Kollmann 56, Ehmann 71; Schellander 39]
+  (Naumoski 8, 83, Tokic 51, Kollmann 56, Ehmann 71; Schellander 39)
 
-Round 6
-[Aug 23]
+▪ Round 6 ▪
+_ Aug 23 _
 Schwarz-Weiß     4-1 GAK
-  [Berchtold 7, Aslan 28, Lawarée 41, 52; Kollmann 19pen]
+  (Berchtold 7, Aslan 28, Lawarée 41, 52; Kollmann 19pen)
 Austria W        2-1 Admira
-  [Rushfeldt 14, Gilewicz 42; Linz 84]
+  (Rushfeldt 14, Gilewicz 42; Linz 84)
 Kärnten          0-0 Pasching
 Sturm            4-2 Austria S
-  [Korsos 39, Neukirchner 51, Haas 74, Rojas 81; Pfeifenberger 29, Eder 64]
-[Aug 24]
+  (Korsos 39, Neukirchner 51, Haas 74, Rojas 81; Pfeifenberger 29, Eder 64)
+_ Aug 24 _
 Mattersburg      1-4 Rapid
-  [Mörz 23; R.Wagner 21, 60, Ivanschitz 32, Hofmann 58]
+  (Mörz 23; R.Wagner 21, 60, Ivanschitz 32, Hofmann 58)
 
-Round 7
-[Aug 30]
+▪ Round 7 ▪
+_ Aug 30 _
 Admira           2-1 Sturm
-  [Iwan 69, 70; Filipovic 73]
+  (Iwan 69, 70; Filipovic 73)
 GAK              1-1 Mattersburg
-  [Kollmann 14; Koziak 26]
+  (Kollmann 14; Koziak 26)
 Pasching         3-1 Schwarz-Weiß
-  [Riegler 4, Wisio 29, Glieder 44; Berchtold 82]
-[Aug 31]
+  (Riegler 4, Wisio 29, Glieder 44; Berchtold 82)
+_ Aug 31 _
 Austria S        0-0 Austria W
 Rapid            2-2 Kärnten
-  [Hofmann 45pen, Vico 91; Ambrosius 21, Maric 54]
+  (Hofmann 45pen, Vico 91; Ambrosius 21, Maric 54)
 
-Round 8
-[Sep 10]
+▪ Round 8 ▪
+_ Sep 10 _
 Austria W        1-0 Pasching
-  [Scharner 57]
+  (Scharner 57)
 Mattersburg      0-1 Austria S
-  [Teber 67]
-[Sep 17]
+  (Teber 67)
+_ Sep 17 _
 Schwarz-Weiß     1-2 Rapid
-  [Schepens 55; Hofmann 10, Wallner 50]
-[Oct 1]
+  (Schepens 55; Hofmann 10, Wallner 50)
+_ Oct 1 _
 Sturm            2-1 GAK
-  [Silvestre 40, Filipovic 90; Bazina 62]
+  (Silvestre 40, Filipovic 90; Bazina 62)
 Kärnten          2-0 Admira
-  [Kampel 87, Bubalo 93]
+  (Kampel 87, Bubalo 93)
 
-Round 9
-[Sep 13]
+▪ Round 9 ▪
+_ Sep 13 _
 Austria S        5-0 Kärnten
-  [Amoah 3, Eder 11, Pfeifenberger 16, Teber 60, Ibertsberger 71]
+  (Amoah 3, Eder 11, Pfeifenberger 16, Teber 60, Ibertsberger 71)
 Sturm            0-0 Austria W
 Pasching         1-1 Mattersburg
-  [Pichlmann 31, Mörz 46]
+  (Pichlmann 31, Mörz 46)
 Admira           0-1 Schwarz-Weiß
-  [Hauser 44]
-[Sep 14]
+  (Hauser 44)
+_ Sep 14 _
 Rapid            2-1 GAK
-  [Vico 49, Ivanschitz 59; Kollmann 9]
+  (Vico 49, Ivanschitz 59; Kollmann 9)
 
-Round 10
-[Sep 20]
+▪ Round 10 ▪
+_ Sep 20 _
 Austria W        1-1 Sturm
-  [Rushfeldt 78; Rojas 49]
+  (Rushfeldt 78; Rojas 49)
 Schwarz-Weiß     2-2 Admira
-  [Schepens 44pen, Hlinka 52; Linz 45, Katzer 70]
+  (Schepens 44pen, Hlinka 52; Linz 45, Katzer 70)
 Kärnten          1-2 Austria S
-  [Bubalo 53; Eder 42, Laessig 75]
+  (Bubalo 53; Eder 42, Laessig 75)
 Mattersburg      4-2 Pasching
-  [Fülöp 18, Mörz 23, Th.Wagner 44, Kühbauer 72; Kirchler 21, 75]
-[Sep 21]
+  (Fülöp 18, Mörz 23, Th.Wagner 44, Kühbauer 72; Kirchler 21, 75)
+_ Sep 21 _
 GAK              2-0 Rapid
-  [Kollmann 37, 77]
+  (Kollmann 37, 77)
 
-Round 11
-[Sep 27]
+▪ Round 11 ▪
+_ Sep 27 _
 Admira           1-1 GAK
-  [Jugovic 80; Kollmann 62]
+  (Jugovic 80; Kollmann 62)
 Austria S        0-1 Schwarz-Weiß
-  [Schepens 54]
+  (Schepens 54)
 Sturm            0-1 Mattersburg
-  [Köszegi 4]
-[Sep 28]
+  (Köszegi 4)
+_ Sep 28 _
 Austria W        3-0 Kärnten
-  [Rushfeldt 47, Wagner 75, Gilewicz 96]
+  (Rushfeldt 47, Wagner 75, Gilewicz 96)
 Pasching         1-2 Rapid
-  [Riegler 83; Hofmann 12pen, Baur 32og]
+  (Riegler 83; Hofmann 12pen, Baur 32og)
 
-Round 12
-[Oct 3]
+▪ Round 12 ▪
+_ Oct 3 _
 Schwarz-Weiß     4-2 Austria W
-  [Schepens 8, Bragstad 18, Berchtold 74, Aslan 91; Helstad 21, Rushfeldt 39]
-[Oct 4]
+  (Schepens 8, Bragstad 18, Berchtold 74, Aslan 91; Helstad 21, Rushfeldt 39)
+_ Oct 4 _
 GAK              1-1 Pasching
-  [Tokic 81pen; Dollinger 43og]
+  (Tokic 81pen; Dollinger 43og)
 Mattersburg      1-1 Admira
-  [Fülöp 35; Linz 33]
+  (Fülöp 35; Linz 33)
 Rapid            1-0 Austria S
-  [Ivanschitz 89]
-[Oct 5]
+  (Ivanschitz 89)
+_ Oct 5 _
 Kärnten          0-3 Sturm
-  [Rojas 15, Dag 30, Strafner 80]
+  (Rojas 15, Dag 30, Strafner 80)
 
-Round 13
-[Oct 18]
+▪ Round 13 ▪
+_ Oct 18 _
 Admira           4-2 Rapid
-  [Linz 2, Matyus 8, Prisc 55og, Iwan 61; R.Wagner 68pen, 81]
+  (Linz 2, Matyus 8, Prisc 55og, Iwan 61; R.Wagner 68pen, 81)
 Austria S        0-2 Pasching
-  [Atalay 17, Kiesenebner 30]
+  (Atalay 17, Kiesenebner 30)
 Sturm            1-1 Schwarz-Weiß
-  [Dag 87; Aslan 1]
-[Oct 19]
+  (Dag 87; Aslan 1)
+_ Oct 19 _
 Kärnten          1-2 Mattersburg
-  [Höller 65; Kühbauer 14pen, Fülöp 31]
+  (Höller 65; Kühbauer 14pen, Fülöp 31)
 Austria W        0-1 GAK
-  [Kollmann 9]
+  (Kollmann 9)
 
-Round 14
-[Oct 25]
+▪ Round 14 ▪
+_ Oct 25 _
 Schwarz-Weiß     3-2 Kärnten
-  [Lawaree 8, 87, Klausz 80; Kabat 11, Höller 50]
+  (Lawaree 8, 87, Klausz 80; Kabat 11, Höller 50)
 GAK              1-0 Austria S
-  [Aufhauser 11]
+  (Aufhauser 11)
 Mattersburg      0-1 Austria W
-  [Vastic 83]
+  (Vastic 83)
 Pasching         3-0 Admira
-  [Kirchler 18, Datoru 28, 37]
-[Oct 26]
+  (Kirchler 18, Datoru 28, 37)
+_ Oct 26 _
 Rapid            2-0 Sturm
-  [R.Wagner 20, Ivanschitz 73]
+  (R.Wagner 20, Ivanschitz 73)
 
-Round 15 [Oct 29]
+▪ Round 15 ▪  Oct 29
 Schwarz-Weiß     2-1 Mattersburg
-  [Schepens 16pen, Mravac 90og; Kausich 81]
+  (Schepens 16pen, Mravac 90og; Kausich 81)
 Austria S        1-2 Admira
-  [Häßler 54; Katzer 68, Linz 80]
+  (Häßler 54; Katzer 68, Linz 80)
 Sturm            0-1 Pasching
-  [Mayrleb 62]
+  (Mayrleb 62)
 Kärnten          1-4 GAK
-  [Kolvidsson 9; Kollmann 45, 55, 60, Akwuegbu 73]
+  (Kolvidsson 9; Kollmann 45, 55, 60, Akwuegbu 73)
 Austria W        2-0 Rapid
-  [M.Wagner 54, Rushfeldt 86]
+  (M.Wagner 54, Rushfeldt 86)
 
-Round 16
-[Nov 1]
+▪ Round 16 ▪
+_ Nov 1 _
 Rapid            3-1 Mattersburg
-  [Hofmann 53pen, Burgstaller 64, Pashazadeh 86; Kühbauer 37pen]
+  (Hofmann 53pen, Burgstaller 64, Pashazadeh 86; Kühbauer 37pen)
 Admira           0-2 Austria W
-  [Blanchard 70, Kitzbichler 74]
+  (Blanchard 70, Kitzbichler 74)
 Pasching         3-0 Kärnten
-  [Mayrleb 8, 71, Baur 34]
-[Nov 2]
+  (Mayrleb 8, 71, Baur 34)
+_ Nov 2 _
 Austria S        5-0 Sturm
-  [Laessig 21, Brenner 31, 83, Tomic 79, Scharrer 90]
+  (Laessig 21, Brenner 31, 83, Tomic 79, Scharrer 90)
 GAK              2-0 Schwarz-Weiß
-  [Kollmann 70, 88]
+  (Kollmann 70, 88)
 
-Round 17
-[Nov 8]
+▪ Round 17 ▪
+_ Nov 8 _
 Mattersburg      0-0 GAK
 Schwarz-Weiß     1-2 Pasching
-  [Klausz 17; Baur 16, Kirchler 38]
+  (Klausz 17; Baur 16, Kirchler 38)
 Sturm            2-0 Admira
-  [Dag 7, Rojas 47]
-[Nov 9]
+  (Dag 7, Rojas 47)
+_ Nov 9 _
 Kärnten          2-0 Rapid
-  [Papac 27, Bubalo 84]
+  (Papac 27, Bubalo 84)
 Austria W        0-0 Austria S
 
-Round 18
-[Nov 22]
+▪ Round 18 ▪
+_ Nov 22 _
 Rapid            2-2 Schwarz-Weiß
-  [Wallner 40, Hofmann 83; Berchtold 8, Klausz 31]
+  (Wallner 40, Hofmann 83; Berchtold 8, Klausz 31)
 Pasching         2-4 Austria W
-  [Chaile 7, Mayrleb 24; Helstad 12, Wagner 15, Ruushfeldt 43, 65]
+  (Chaile 7, Mayrleb 24; Helstad 12, Wagner 15, Ruushfeldt 43, 65)
 Admira           1-0 Kärnten
-  [Jugovic 91]
-[Nov 23]
+  (Jugovic 91)
+_ Nov 23 _
 Austria S        4-0 Mattersburg
-  [Hassler 46, Lässig 68, Tomic 74, Pichorner 91]
+  (Hassler 46, Lässig 68, Tomic 74, Pichorner 91)
 GAK              1-0 Sturm
-  [Kollmann 82]
+  (Kollmann 82)
 
-Round 19
-[Nov 29]
+▪ Round 19 ▪
+_ Nov 29 _
 Austria W        5-1 Admira
-  [Helstad 13, M.Wagner 15, Rushfeldt 25, 50, Gilewicz 93;
-   Swierczewski 53]
+  (Helstad 13, M.Wagner 15, Rushfeldt 25, 50, Gilewicz 93;
+   Swierczewski 53)
 Mattersburg      1-1 Rapid
-  [Kühbauer 30; Mandreko 72og]
+  (Kühbauer 30; Mandreko 72og)
 Sturm            2-2 Pasching
-  [Rojas 70, 74; Chaile 29, Bosnar 91og]
-[Nov 30]
+  (Rojas 70, 74; Chaile 29, Bosnar 91og)
+_ Nov 30 _
 Kärnten          0-3 Austria S
-  [M.Suazo 34, Teber 80, Schriebl 92]
+  (M.Suazo 34, Teber 80, Schriebl 92)
 Schwarz-Weiß     1-0 GAK
-  [S.Aslan 57]
+  (S.Aslan 57)
 
-Round 20
-[Dec 6]
+▪ Round 20 ▪
+_ Dec 6 _
 Admira           2-0 Mattersburg
-  [Katzer 56, 61]
+  (Katzer 56, 61)
 GAK              4-1 Kärnten
-  [Bazina 12, Akwuegbu 13, 40, Kollmann 86pen; Hota 29]
+  (Bazina 12, Akwuegbu 13, 40, Kollmann 86pen; Hota 29)
 Pasching         3-0 Schwarz-Weiß
-  [Kirchler 7, Mayrleb 60, Datoru 91]
-[Dec 7]
+  (Kirchler 7, Mayrleb 60, Datoru 91)
+_ Dec 7 _
 Austria S        0-1 Austria W
-  [Winklhofer 77og]
+  (Winklhofer 77og)
 Rapid            1-1 Sturm
-  [Ivanschitz 58; Haas 43]
+  (Ivanschitz 58; Haas 43)
 
-Round 21
-[Feb 21]
+▪ Round 21 ▪
+_ Feb 21 _
 Austria W        0-1 Pasching
-  [Kirchler 31]
+  (Kirchler 31)
 Kärnten          0-0 Admira
 Mattersburg      1-4 GAK
-  [Novakovic 51; Kollmann 2, 43, Ehmann 72, Ramusch 90]
+  (Novakovic 51; Kollmann 2, 43, Ehmann 72, Ramusch 90)
 Sturm            0-0 Austria S
-[Feb 22]
+_ Feb 22 _
 Schwarz-Weiß     1-1 Rapid
-  [Berchtold 11; Hofmann 45]
+  (Berchtold 11; Hofmann 45)
 
-Round 22
-[Feb 28]
+▪ Round 22 ▪
+_ Feb 28 _
 Admira           0-0 Sturm
 Mattersburg      1-1 Schwarz-Weiß
-  [T.Wagner 13; Berchtold 94]
+  (T.Wagner 13; Berchtold 94)
 Pasching         1-0 Austria S
-  [Datoru 40]
-[Feb 29]
+  (Datoru 40)
+_ Feb 29 _
 GAK              0-0 Austria W
-[May 5]
+_ May 5 _
 Rapid            3-2 Kärnten
-  [Sturm 44, Wallner 57, Hofmann 80; Prawda 27, Akwuegbu 48]
+  (Sturm 44, Wallner 57, Hofmann 80; Prawda 27, Akwuegbu 48)
 
-Round 23
-[Mar 6]
+▪ Round 23 ▪
+_ Mar 6 _
 Kärnten          3-2 Schwarz-Weiß
-  [Kabat 3, 50, 60; Aslam 12, 44]
-[Mar 7]
+  (Kabat 3, 50, 60; Aslam 12, 44)
+_ Mar 7 _
 Pasching         2-1 Admira
-  [Mayrleb 8, 91; Astafjevs 21]
+  (Mayrleb 8, 91; Astafjevs 21)
 Austria S        1-2 GAK
-  [Pfeifenberger 32; Kollmann 41, 89pen]
+  (Pfeifenberger 32; Kollmann 41, 89pen)
 Sturm            4-0 Mattersburg
-  [Rabihou 15, 45, Rojas 32, Haas 34]
+  (Rabihou 15, 45, Rojas 32, Haas 34)
 Austria W        1-1 Rapid
-  [Gilewicz 77; Jazic 68]
+  (Gilewicz 77; Jazic 68)
 
-Round 24
-[Mar 13]
+▪ Round 24 ▪
+_ Mar 13 _
 Admira           3-2 Austria S
-  [Markovic 55, Katzer 61, Jugovic 78; Pfeifenberger 75, Scharner 86]
+  (Markovic 55, Katzer 61, Jugovic 78; Pfeifenberger 75, Scharner 86)
 Schwarz-Weiß     0-1 Austria W
-  [Rushfeldt 74]
+  (Rushfeldt 74)
 Mattersburg      2-0 Kärnten
-  [Novakovic 11, Köszegi 72]
+  (Novakovic 11, Köszegi 72)
 Rapid            0-0 Pasching
-[Mar 14]
+_ Mar 14 _
 GAK              1-1 Sturm
-  [Aufhauser 51; Haas 36]
+  (Aufhauser 51; Haas 36)
 
-Round 25 [Mar 17]
+▪ Round 25 ▪  Mar 17
 Admira           1-0 Rapid
-  [Linz 12]
+  (Linz 12)
 Austria W        1-0 Mattersburg
-  [Vastic 65]
+  (Vastic 65)
 Pasching         3-3 GAK
-  [Baur 12, Kiesenebner 24, 95pen; Aufhauser 53, 79, Amerhauser 64]
+  (Baur 12, Kiesenebner 24, 95pen; Aufhauser 53, 79, Amerhauser 64)
 Austria S        2-0 Schwarz-Weiß
-  [Scharner 16, Pichorner 87]
+  (Scharner 16, Pichorner 87)
 Sturm            2-0 Kärnten
-  [Haas 25, Mujiri 32]
+  (Haas 25, Mujiri 32)
 
-Round 26
-[Mar 20]
+▪ Round 26 ▪
+_ Mar 20 _
 Schwarz-Weiß     2-1 Sturm
-  [Schepens 36, Aslan 52; Rabihou 53]
+  (Schepens 36, Aslan 52; Rabihou 53)
 GAK              2-1 Admira
-  [Hassler 17, Sick 74; Linz 7]
+  (Hassler 17, Sick 74; Linz 7)
 Mattersburg      0-0 Pasching
 Rapid            2-0 Austria S
-  [Martínez 20, Wallner 91]
-[Mar 21]
+  (Martínez 20, Wallner 91)
+_ Mar 21 _
 Kärnten          2-0 Austria W
-  [Kabat 3, Maric 70]
+  (Kabat 3, Maric 70)
 
-Round 27
-[Mar 27]
+▪ Round 27 ▪
+_ Mar 27 _
 Admira           0-0 Schwarz-Weiß
 Pasching         1-1 Kärnten
-  [Datoru 5; Akwuegbu 91]
+  (Datoru 5; Akwuegbu 91)
 Austria W        5-1 Sturm
-  [Gilewicz 2, 37, 41, 45, Rushfeldt 81; Haas 40]
+  (Gilewicz 2, 37, 41, 45, Rushfeldt 81; Haas 40)
 Austria S        1-0 Mattersburg
-  [Laessig 53]
-[Mar 28]
+  (Laessig 53)
+_ Mar 28 _
 GAK              2-1 Rapid
-  [Ehmann 31, Bazina 88; Martínez 78]
+  (Ehmann 31, Bazina 88; Martínez 78)
 
-Round 28
-[Apr 3]
+▪ Round 28 ▪
+_ Apr 3 _
 Rapid            0-4 GAK
-  [Bazina 15, Muratovic 58, Tokic 79pen, Sionko 91]
+  (Bazina 15, Muratovic 58, Tokic 79pen, Sionko 91)
 Kärnten          1-1 Pasching
-  [Papac 82; Kirchler 4]
+  (Papac 82; Kirchler 4)
 Schwarz-Weiß     2-2 Admira
-  [Hlinka 39pen, Aslan 76; Katzer 33, Iwan 56]
+  (Hlinka 39pen, Aslan 76; Katzer 33, Iwan 56)
 Mattersburg      2-1 Austria S
-  [Kühbauer 28, 82; Tomic 90]
-[Apr 4]
+  (Kühbauer 28, 82; Tomic 90)
+_ Apr 4 _
 Sturm            1-3 Austria W
-  [Strafner 25; Akoto 39, Gilewicz 49, Rushfeldt 51]
+  (Strafner 25; Akoto 39, Gilewicz 49, Rushfeldt 51)
 
-Round 29 [Apr 7]
+▪ Round 29 ▪  Apr 7
 Admira           0-1 Austria W
-  [Janocko 63]
+  (Janocko 63)
 Austria S        3-2 Kärnten
-  [Scharrer 27, Laessig 66, Pichorner 93; Papac 56, Kabat 71]
+  (Scharrer 27, Laessig 66, Pichorner 93; Papac 56, Kabat 71)
 GAK              1-0 Schwarz-Weiß
-  [Sionko 24]
+  (Sionko 24)
 Pasching         3-0 Sturm
-  [Kirchler 38, Kiesenebner 61pen, Schoppitsch 76]
+  (Kirchler 38, Kiesenebner 61pen, Schoppitsch 76)
 Rapid            2-0 Mattersburg
-  [R.Wagner 80, Ivanschitz 91]
+  (R.Wagner 80, Ivanschitz 91)
 
-Round 30 [Apr 14]
+▪ Round 30 ▪  Apr 14
 Schwarz-Weiß     1-1 Pasching
-  [Schepens 85; Mayrleb 76]
+  (Schepens 85; Mayrleb 76)
 Austria W        3-0 Austria S
-  [Helstad 34, Gilewicz 64, Rushfeldt 75]
+  (Helstad 34, Gilewicz 64, Rushfeldt 75)
 Kärnten          0-0 GAK
 Mattersburg      3-0 Admira
-  [Schmidt 47, Fülöp 59, Dragic 81]
+  (Schmidt 47, Fülöp 59, Dragic 81)
 Sturm            1-2 Rapid
-  [Brunmayr 92; Pashazadeh 33, Lawaree 88]
+  (Brunmayr 92; Pashazadeh 33, Lawaree 88)
 
-Round 31
-[Apr 17]
+▪ Round 31 ▪
+_ Apr 17 _
 Admira           1-1 Kärnten
-  [Linz 58; B.Akwuegbu 39]
+  (Linz 58; B.Akwuegbu 39)
 GAK              1-0 Mattersburg
-  [Aufhauser 30]
+  (Aufhauser 30)
 Rapid            0-0 Schwarz-Weiß
 Austria S        0-0 Sturm
-[Apr 18]
+_ Apr 18 _
 Pasching         1-1 Austria W
-  [Kiesenebner 51pen; Helstad 23]
+  (Kiesenebner 51pen; Helstad 23)
 
-Round 32
-[Apr 24]
+▪ Round 32 ▪
+_ Apr 24 _
 Schwarz-Weiß     3-2 Mattersburg
-  [Hlinka 18, 79, Klausz 88; Mörz 16, Kühbauer 20]
+  (Hlinka 18, 79, Klausz 88; Mörz 16, Kühbauer 20)
 Kärnten          0-1 Rapid
-  [R.Wagner 86]
+  (R.Wagner 86)
 Sturm            2-0 Admira
-  [Haas 37, Silvestre 58]
+  (Haas 37, Silvestre 58)
 Austria S        1-2 Pasching
-  [Schriebl 87; Mayrleb 11, 48]
-[Apr 25]
+  (Schriebl 87; Mayrleb 11, 48)
+_ Apr 25 _
 Austria W        1-3 GAK
-  [Rushfeldt 90; Bazina 32, Kollmann 57, Amerhauser 81]
+  (Rushfeldt 90; Bazina 32, Kollmann 57, Amerhauser 81)
 
-Round 33
-[May 1]
+▪ Round 33 ▪
+_ May 1 _
 Admira           1-2 Pasching
-  [Linz 90; Mayrleb 76, Pichlmann 93]
+  (Linz 90; Mayrleb 76, Pichlmann 93)
 Schwarz-Weiß     1-1 Kärnten
-  [Schepens 76; Kabat 48]
+  (Schepens 76; Kabat 48)
 GAK              3-0 Austria S
-  [Kollmann 70, Dollinger 92, Bazina 93]
+  (Kollmann 70, Dollinger 92, Bazina 93)
 Mattersburg      2-2 Sturm
-  [Fülöp 50, 76; Haas 60, Rabihou 78]
-[May 2]
+  (Fülöp 50, 76; Haas 60, Rabihou 78)
+_ May 2 _
 Rapid            1-2 Austria W
-  [Vico 77; Rushfeldt 32, 40]
+  (Vico 77; Rushfeldt 32, 40)
 
-Round 34
-[May 8]
+▪ Round 34 ▪
+_ May 8 _
 Austria W        4-1 Schwarz-Weiß
-  [Rushfeldt 11, 51, Gilewicz 21, Helstad 69; Bragstad 50]
+  (Rushfeldt 11, 51, Gilewicz 21, Helstad 69; Bragstad 50)
 Kärnten          5-1 Mattersburg
-  [Akwuegbu 29, 58, Hota 88, Maric 91pen, Zajac 94, Mörz 37]
+  (Akwuegbu 29, 58, Hota 88, Maric 91pen, Zajac 94, Mörz 37)
 Pasching         2-0 Rapid
-  [Mayrleb 42, 51]
+  (Mayrleb 42, 51)
 Austria S        2-1 Admira
-  [Laessig 30, Schriebl 69; Iwan 97]
-[May 9]
+  (Laessig 30, Schriebl 69; Iwan 97)
+_ May 9 _
 Sturm            0-2 GAK
-  [Kollmann 53, Bazina 74]
+  (Kollmann 53, Bazina 74)
 
-Round 35 [May 15]
+▪ Round 35 ▪  May 15
 GAK              1-1 Pasching
-  [Kollmann 23pen; Kovacevic 71]
+  (Kollmann 23pen; Kovacevic 71)
 Mattersburg      4-1 Austria W
-  [Fülöp 1, Dragic 19, Köszegi 59, 82; Gilewicz 21]
+  (Fülöp 1, Dragic 19, Köszegi 59, 82; Gilewicz 21)
 Kärnten          2-0 Sturm
-  [B.Akwuegbu 29, Maric 91]
+  (B.Akwuegbu 29, Maric 91)
 Schwarz-Weiß     2-2 Austria S
-  [Nzuzi 1, 19; Richarlyson 67, Pfeifenberger 89]
+  (Nzuzi 1, 19; Richarlyson 67, Pfeifenberger 89)
 Rapid            1-3 Admira
-  [Burgstaller 80; Linz 40, Mohl 51, Ortner 65]
+  (Burgstaller 80; Linz 40, Mohl 51, Ortner 65)
 
-Round 36 [May 20]
+▪ Round 36 ▪  May 20
 Admira           2-1 GAK
-  [Iwan 54, Linz 57; Kollmann 80]
+  (Iwan 54, Linz 57; Kollmann 80)
 Austria W        2-0 Kärnten
-  [Rushfeldt 21, 28]
+  (Rushfeldt 21, 28)
 Pasching         4-0 Mattersburg
-  [Chaile 52, Mayrleb 71, 91, Kirchler 77]
+  (Chaile 52, Mayrleb 71, 91, Kirchler 77)
 Austria S        2-0 Rapid
-  [Laessig 51, Krimbacher 82]
+  (Laessig 51, Krimbacher 82)
 Sturm            4-1 Schwarz-Weiß
-  [Filipovic 27, Brunmayr 29, Haas 40, 43; Hauser 31]
+  (Filipovic 27, Brunmayr 29, Haas 40, 43; Hauser 31)
 
-Final Table:
+<!-- $table2$ -->
 
- 1.Grazer AK                    36 21  9  6 62-32  72  Champions
- 2.FK Austria Wien              36 21  8  7 63-31  71
- 3.SV Pasching                  36 17 12  7 59-41  63
- 4.SK Rapid Wien                36 16  9 11 50-47  57
- 5.Schwarz-Weiß Bregenz         36 11 12 13 47-58  45
- 6.VfB Admira/Wacker Mödling    36 11  9 16 42-49  42  [*]
- 7.SV Austria Salzburg          36 11  5 20 44-48  38
- 8.SV Mattersburg               36  9 10 17 39-61  37
- 9.SK Sturm Graz                36  8 11 17 39-52  35
------------------------------------------------------
-10.FC Kärnten                   36  7 11 18 36-62  32  Relegated
 
 [*] the reported name change of VfB Admira/Wacker Mödling refers
     only to the visual appearance of their logo, from which Wacker
@@ -530,12 +507,8 @@ Final Table:
     'Wir Niederösterreicher'; their officially registered name has
     not been changed.
 
-Topscorers:
-27 Kollmann (GAK)
-25 Rushfeldt (Austria W)
-15 Linz (Admira)
-   Mayrleb (Pasching)
-13 Gilewicz (Austria W)
+<!-- $topscorers1$ -->
+
 
 
 ÖFB Cup 2003/04
@@ -552,158 +525,158 @@ Sturm/Amateure    1-3 GAK/Amateure
 FC Hard           5-0 SC Kundl
 SCR Altach        4-0 Admira Dornbirn
 SV Hall           0-4 FC Kufstein
-Reichenau/Aldrans 5-2 Axams-Götzens            [aet]
+Reichenau/Aldrans 5-2 Axams-Götzens            (aet)
 PSV/SW Salzburg   4-1 SAK 1914
 FC Puch           4-0 Salzburg/Amateure
-SC Schwanenstadt  4-2 SV Seekirchen            [aet]
-WSVATSV Ranshofen 3-3 Blau-Weiß Linz           [aet]
+SC Schwanenstadt  4-2 SV Seekirchen            (aet)
+WSVATSV Ranshofen 3-3 Blau-Weiß Linz           (aet)
 SV Gmunden        2-1 SV Micheldorf
-Union Pettenbach  2-0 FC Wels                  [aet]
+Union Pettenbach  2-0 FC Wels                  (aet)
 LASK/Amateure     1-4 Union St. Florian
 FC Waidhofen/Ybbs 1-0 Union Perg
 FC Mistelbach     3-0 ASK Baumgarten
-SV Horn           2-3 Admira/Amateure          [aet]
+SV Horn           2-3 Admira/Amateure          (aet)
 SC Wr. Neustadt   2-4 SKN St. Pölten
 ASK Kottingbrunn  2-1 ASK Schwadorf
 SKU Amstetten     2-3 SV Donau (Wien)
 Kremser SC        5-0 SC Ritzing
 SV Langenrohr     3-2 SC Eisenstadt
-SC/ESV Parndorf   2-3 ASK Klingenbach          [aet]
-Markt St. Martin  1-1 SV Leobendorf            [aet, 4-2 pen]
-SV Schwechat      3-3 Austria/Amateure         [aet, 8-7 pen]
+SC/ESV Parndorf   2-3 ASK Klingenbach          (aet)
+Markt St. Martin  1-1 SV Leobendorf            (aet, 4-2 pen)
+SV Schwechat      3-3 Austria/Amateure         (aet, 8-7 pen)
 Vienna            0-1 Fortuna 05
-Wiener Sportklub  1-1 OMV Stadlau              [aet, 3-5 pen]
+Wiener Sportklub  1-1 OMV Stadlau              (aet, 3-5 pen)
 
-Round 1
-[Aug 26]
-Bleiburg          0-0 DSV Leoben               [aet, 4-3 pen]
+▪ Round 1 ▪
+_ Aug 26 _
+Bleiburg          0-0 DSV Leoben               (aet, 4-3 pen)
 GAK Amateure      1-2 Admira
-  [Lechner 65; Katzer 33, Parapatits 56]
-Treibach          0-1 Austria Lustenau         [aet]
-  [Bradaric 104]
+  (Lechner 65; Katzer 33, Parapatits 56)
+Treibach          0-1 Austria Lustenau         (aet)
+  (Bradaric 104)
 Fortuna 05        0-2 Schwarz-Weiß Bregenz
-  [Klausz 8, Aslan 73]
+  (Klausz 8, Aslan 73)
 Stadlau           2-9 Sturm
-  [Sehrengel 31, Gögh 59; Haas 7, 19, Korsos 16, Mujiri 27, Säumel 43,
-   Dag 55, 66, Brunmayr 74pen, Strafner 90]
+  (Sehrengel 31, Gögh 59; Haas 7, 19, Korsos 16, Mujiri 27, Säumel 43,
+   Dag 55, 66, Brunmayr 74pen, Strafner 90)
 Donau Wien        1-0 Markt St. Martin
-  [Delic 12og]
+  (Delic 12og)
 Altach            1-3 Hartberg
-  [Späth 71; Fladerer 13, Eder 36, Dvorsak 78]
+  (Späth 71; Fladerer 13, Eder 36, Dvorsak 78)
 Hard              1-3 Voitsberg
-  [Klocker 5; Hutter 11, Wovakovic 18, Eccher 28]
+  (Klocker 5; Hutter 11, Wovakovic 18, Eccher 28)
 Arnfels           2-1 Schwechat
-  [Kocijan 13, Smaljovic 62; Schulz 26]
-Gmunden           2-1 Wörgl                    [aet]
-  [Cubrelij 71, Tuschek 99; Miloti 74]
+  (Kocijan 13, Smaljovic 62; Schulz 26)
+Gmunden           2-1 Wörgl                    (aet)
+  (Cubrelij 71, Tuschek 99; Miloti 74)
 Gratkorn          1-3 FC Lustenau
-  [Wawra 39; Dorner 4, 74, 91]
+  (Wawra 39; Dorner 4, 74, 91)
 Kottingbrunn      2-0 Klingenbach
-  [Opel 3, 26]
+  (Opel 3, 26)
 Blau-Weiß Linz    4-0 BSV Juniors
-  [Gradascevic 33, Schimpl 44, Simunovic 46, Vujic 82]
+  (Gradascevic 33, Schimpl 44, Simunovic 46, Vujic 82)
 Mistelbach        0-1 LASK
-  [Dietrich 79]
+  (Dietrich 79)
 Pettenbach        0-3 Wacker Tirol
-  [Mader 24, Kellner 45, Hölzl 75]
+  (Mader 24, Kellner 45, Hölzl 75)
 Puch              2-4 Kapfenberg
-  [Kastner 36, Özel 65pen; Rasinger 15, 17, Kopunovic 31, Baumgartner 85]
+  (Kastner 36, Özel 65pen; Rasinger 15, 17, Kopunovic 31, Baumgartner 85)
 Schwanenstadt     5-0 Langenrohr
-  [Tichy 1, Bleyer 18, 72, Ph.Weissenberger 19, 63]
+  (Tichy 1, Bleyer 18, 72, Ph.Weissenberger 19, 63)
 St. Florian       1-2 Ried
-  [Stockinger 91pen; Gruber 23, Kujic 72]
+  (Stockinger 91pen; Gruber 23, Kujic 72)
 St. Pölten        3-1 Kufstein
-  [Ch.Knaller 28, 56, 82pen; Schneeberger 11]
+  (Ch.Knaller 28, 56, 82pen; Schneeberger 11)
 Waidhofen/Ybbs    1-2 Untersiebenbrunn
-  [Jelitzer 92; Stöger 34, 75]
+  (Jelitzer 92; Stöger 34, 75)
 Krems             4-0 Reichenau/Aldrans
-  [Topic 17, 58, Terkl 63, Selimi 90]
-[Aug 27]
+  (Topic 17, 58, Terkl 63, Selimi 90)
+_ Aug 27 _
 Admira Amateure   0-3 Rapid
-  [Wallner 20, Garics 31, Kienast 60]
+  (Wallner 20, Garics 31, Kienast 60)
 Spittal           0-1 Mattersburg
-  [Kausich 26]
-[Sep 23]
+  (Kausich 26)
+_ Sep 23 _
 PSV Salzburg      0-4 Pasching
-  [Wojtanowicz 25, 36, Schoppitsch 49, Atalay 71]
+  (Wojtanowicz 25, 36, Schoppitsch 49, Atalay 71)
 
-Round 2
-[Sep 23]
+▪ Round 2 ▪
+_ Sep 23 _
 Donau Wien        0-3 Sturm
-  [Markovic 47og, Dag 73, Rojas 89]
+  (Markovic 47og, Dag 73, Rojas 89)
 Bleiburg          0-4 Ried
-  [Lasnik 41, Hartter 63, 75, Gruber 88]
+  (Lasnik 41, Hartter 63, 75, Gruber 88)
 Gmunden           0-6 Schwarz-Weiß Bregenz
-  [Eller 8, 83, Aslan 11, Hauser 47, Pekala 55, Bolter 79]
-Blau-Weiß Linz    2-2 Admira                   [aet, 0-3 pen]
-  [Vujic 80, Wahlmüller 90; Iwan 62, Bozgo 90]
+  (Eller 8, 83, Aslan 11, Hauser 47, Pekala 55, Bolter 79)
+Blau-Weiß Linz    2-2 Admira                   (aet, 0-3 pen)
+  (Vujic 80, Wahlmüller 90; Iwan 62, Bozgo 90)
 Kottingbrunn      1-3 Mattersburg
-  [Manfred Haas 71; Fülöp 18, Mandreko 21, Mörz 66]
+  (Manfred Haas 71; Fülöp 18, Mandreko 21, Mörz 66)
 Arnfels           3-1 Austria Lustenau
-  [Smajlovic 11, Ploschnik 30, Koinegg 50; Eisele 70]
+  (Smajlovic 11, Ploschnik 30, Koinegg 50; Eisele 70)
 Hartberg          1-0 Kapfenberg
-  [Fladerer 83]
+  (Fladerer 83)
 Voitsberg         0-3 Untersiebenbrunn
-  [Hobel 32, 71, Stöger 46]
-Schwanenstadt     2-4 Wacker Tirol             [aet]
+  (Hobel 32, 71, Stöger 46)
+Schwanenstadt     2-4 Wacker Tirol             (aet)
   Möseneder 11, Bleyer 68; W.Aigner 48, 104, Stary 60pen, Hölzl 115]
-[Sep 24]
+_ Sep 24 _
 Krems             2-3 Rapid
-  [Karl 26, Eldar Topic 2-3; Wallner 10, Kienast 20, Andi Ivanschitz 50]
-[Sep 30]
+  (Karl 26, Eldar Topic 2-3; Wallner 10, Kienast 20, Andi Ivanschitz 50)
+_ Sep 30 _
 LASK              0-2 FC Lustenau
-[Nov 12]
+_ Nov 12 _
 St. Pölten        0-2 Pasching
-  [Chaile 27, Datoru 91]
+  (Chaile 27, Datoru 91)
 
-Round 3
+▪ Round 3 ▪
 NB: Austria Wien, GAK, Austria Salzburg, FC Kärnten enter.
-[Mar 23]
-FC Lustenau       1-1 Schwarz-Weiß Bregenz     [aet, 1-3 pen]
-  [Grumser 112; Hlinka 98]
+_ Mar 23 _
+FC Lustenau       1-1 Schwarz-Weiß Bregenz     (aet, 1-3 pen)
+  (Grumser 112; Hlinka 98)
 Sturm Graz        2-0 Pasching
-  [Mujiri 61, Rojas 84]
+  (Mujiri 61, Rojas 84)
 Wacker Tirol      1-2 Grazer AK
-  [Eder 26; Aufhauser 6, Sick 40]
+  (Eder 26; Aufhauser 6, Sick 40)
 Admira            0-2 Mattersburg
-  [Hopfer 10, Köszegi 90]
+  (Hopfer 10, Köszegi 90)
 Ried              3-1 Untersiebenbrunn
-  [Nentwich 26, Gruber 30, Kuljic 44; Briza 45]
-[Mar 24]
+  (Nentwich 26, Gruber 30, Kuljic 44; Briza 45)
+_ Mar 24 _
 Hartberg          0-2 Austria Wien
-  [Vastic 45, Rushfeldt 92]
-[Apr 10]
+  (Vastic 45, Rushfeldt 92)
+_ Apr 10 _
 Kärnten           4-0 Austria Salzburg
-  [Weber 34, Papac 45, Akwuegbu 62pen, 85]
+  (Weber 34, Papac 45, Akwuegbu 62pen, 85)
 Arnfels           0-1 Rapid
-  [R.Wagner 85]
+  (R.Wagner 85)
 
-Quarterfinals
-[Apr 10]
+▪ Quarterfinals ▪
+_ Apr 10 _
 Sturm Graz        4-0 Schwarz-Weiß Bregenz
-  [Bosnar 45, Rojas 72, Brunmayr 73, Dag 91]
-Mattersburg       0-0 Austria Wien             [aet, 1-4 pen]
-[Apr 20]
-Ried              2-2 Kärnten                  [aet, 3-1 pen]
-  [Kuljic 70, 116; Bubalo 26, Kampel 95]
-[Apr 21]
+  (Bosnar 45, Rojas 72, Brunmayr 73, Dag 91)
+Mattersburg       0-0 Austria Wien             (aet, 1-4 pen)
+_ Apr 20 _
+Ried              2-2 Kärnten                  (aet, 3-1 pen)
+  (Kuljic 70, 116; Bubalo 26, Kampel 95)
+_ Apr 21 _
 Rapid             1-3 Grazer AK
-  [Lawaree 17; Sick 13, Ramusch 19, Bazina 85]
+  (Lawaree 17; Sick 13, Ramusch 19, Bazina 85)
 
-Semifinals
-[May 4]
+▪ Semifinals ▪
+_ May 4 _
 Grazer AK         3-2 Ried
-  [Pogatetz 55, Dollinger 79pen, Sick 86; Sidibe 32, Schiemer 80]
-[May 5]
-Sturm Graz        1-1 Austria Wien             [aet, 4-5 pen]
-  [Salmutter 90; Vastic 14]
+  (Pogatetz 55, Dollinger 79pen, Sick 86; Sidibe 32, Schiemer 80)
+_ May 5 _
+Sturm Graz        1-1 Austria Wien             (aet, 4-5 pen)
+  (Salmutter 90; Vastic 14)
 
-Final [May 23, Stadion Wals-Siezenheim, Salzburg; att: 7,900]
-Grazer AK         3-3 Austria Wien             [aet, 5-4 pen]
-  [Bazina 45, Kollmann 86, Aufhauser 106; Gilewicz 28, 99, Dundee 64]
-  [penalties: Muratovic 1-0, Verlaat 1-1; Standfest 2-1, Flögel 2-2;
+▪ Final ▪  May 23, Stadion Wals-Siezenheim, Salzburg; att: 7,900
+Grazer AK         3-3 Austria Wien             (aet, 5-4 pen)
+  (Bazina 45, Kollmann 86, Aufhauser 106; Gilewicz 28, 99, Dundee 64)
+  (penalties: Muratovic 1-0, Verlaat 1-1; Standfest 2-1, Flögel 2-2;
               Pogatetz 3-2, Gilewicz 3-3; Kollmann 4-3, Janocko 4-4;
-              Milinkovic 5-4, Dundee (held) 5-4]
+              Milinkovic 5-4, Dundee (held) 5-4)
   [GAK: Almer, Standfest, Tokic, Pogatetz, Majstorovic (Naumoski 73),
         Sionko (Milinkovic 117), Muratovic, Aufhauser, Amerhauser,
         Bazina (Ramusch 90), Kollmann;
@@ -718,27 +691,14 @@ Grazer AK         3-3 Austria Wien             [aet, 5-4 pen]
 
 Super Cup 2004 [Jul 9, Schwarzenegger-Stadion, Graz; att: 7,000]
 Grazer AK         1-1 Austria Wien             [2-4 pen]
-  [Kollmann 8; Pogatetz 54og]
+  (Kollmann 8; Pogatetz 54og)
 
 
 
 Second Level (1. Liga)
 
-Final Table:
+<!-- $table3$ -->
 
- 1.FC Wacker Tirol (Innsbruck)  36 22  6  8 65-44  72  Promoted
------------------------------------------------------
- 2.SC Austria Lustenau          36 18 11  7 55-36  65
- 3.Kapfenberger SV              36 18  6 12 68-55  60
- 4.SC Untersiebenbrunn          36 18  6 12 61-48  60
- 5.SV Ried im Innkreis          36 16  8 12 60-43  56
- 6.DSV Leoben                   36 11 13 12 44-44  46
- 7.LASK Linz                    36 12  8 16 46-55  44
- 8.SV Wörgl                     36  9 10 17 48-66  37
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 9.FC Lustenau                  36  6 13 17 40-58  31  Relegation Playoff
------------------------------------------------------
-10.BSV Juniors (Villach)        36  5  9 22 31-69  24  Relegated
 
 NB: team names stripped from sponsors
 
@@ -746,494 +706,481 @@ NB: SPG WSG Wattens/Wacker Tirol were dissolved into FC Wacker Tirol
     (at 2nd level) and WSG Wattens (at 4th level) during the summer;
     BSV Bad Bleiberg were renamed BSV Juniors (playing in Villach)
 
-Round 1
-[Jul 15]
+▪ Round 1 ▪
+_ Jul 15 _
 Kapfenberg       4-2 BSV Juniors
-  [Toth 28, 44, 56, Rasinger 67; Ceylan 35, Feichter 71]
+  (Toth 28, 44, 56, Rasinger 67; Ceylan 35, Feichter 71)
 Ried             2-1 FC Lustenau
-  [Hartter 13, Marquinhos 43; Dorner 3pen]
+  (Hartter 13, Marquinhos 43; Dorner 3pen)
 Wörgl            0-1 LASK
-  [Ortner 59]
+  (Ortner 59)
 Austria L        0-0 Wacker
-[Jul 25]
+_ Jul 25 _
 Untersiebenbrunn 0-1 DSV
-  [Klapf 73]
+  (Klapf 73)
 
-Round 2
-[Jul 20]
+▪ Round 2 ▪
+_ Jul 20 _
 LASK             1-0 BSV Juniors
-  [Schwellensattl 30]
-[Jul 22]
+  (Schwellensattl 30)
+_ Jul 22 _
 FC Lustenau      0-1 Austria L
-  [Bradaric 83]
+  (Bradaric 83)
 Untersiebenbrunn 2-2 Wörgl
-  [Unverdorben 68, Stöger 72; Silberberger 70, Miloti 77]
+  (Unverdorben 68, Stöger 72; Silberberger 70, Miloti 77)
 DSV              0-0 Ried
 Wacker           1-3 Kapfenberg
-  [Stary 58pen; Planer 18og, Toth 42, Wieger 45]
+  (Stary 58pen; Planer 18og, Toth 42, Wieger 45)
 
-Round 3 [Jul 29]
+▪ Round 3 ▪  Jul 29
 Kapfenberg       0-2 LASK
-  [Ortner 10, Schwellensattl 20]
+  (Ortner 10, Schwellensattl 20)
 Austria L        3-1 DSV
-  [Patocka 35, Bradaric 85, Vural 92; Rinnhofer 11]
+  (Patocka 35, Bradaric 85, Vural 92; Rinnhofer 11)
 Ried             1-1 Untersiebenbrunn
-  [Lopes 3pen; M.Aigner 52]
+  (Lopes 3pen; M.Aigner 52)
 BSV Juniors      0-0 FC Lustenau
 Wörgl            1-3 Wacker
-  [Hattenberger 81; Mair 26, Stary 73pen, Kellner 92]
+  (Hattenberger 81; Mair 26, Stary 73pen, Kellner 92)
 
-Round 4
-[Aug 1]
+▪ Round 4 ▪
+_ Aug 1 _
 DSV              1-1 Kapfenberg
-  [Hüttenbrenner 89; Hütter 88pen]
+  (Hüttenbrenner 89; Hütter 88pen)
 Wacker           1-0 BSV Juniors
-  [H.Aigner 9]
+  (H.Aigner 9)
 Ried             0-3 Wörgl
-  [Jörgensen 9, 63, Pichler 83]
-[Auzg 2]
+  (Jörgensen 9, 63, Pichler 83)
+(Auzg 2)
 FC Lustenau      1-2 LASK
-  [Grumser 67; Riedl 41, Dietrich 80]
+  (Grumser 67; Riedl 41, Dietrich 80)
 Untersiebenbrunn 0-0 Austria L
 
-Round 5 [Aug 5]
+▪ Round 5 ▪  Aug 5
 LASK             0-2 Wacker
-  [Grüner 59pen, Mair 82]
+  (Grüner 59pen, Mair 82)
 Austria L        2-0 Ried
-  [Bradaric 33, Stumpf 48]
+  (Bradaric 33, Stumpf 48)
 Kapfenberg       4-2 FC Lustenau
-  [Rasinger 69, 75, Kopunovic 14, Reiter 26; Sara 73, Dos Santos 89]
+  (Rasinger 69, 75, Kopunovic 14, Reiter 26; Sara 73, Dos Santos 89)
 BSV Juniors      0-4 Untersiebenbrunn
-  [Aigner 30, Stöger 57, Briza 67, Mählich 89]
+  (Aigner 30, Stöger 57, Briza 67, Mählich 89)
 Wörgl            1-1 DSV
-  [Gruber 34; Pichlmann 21]
+  (Gruber 34; Pichlmann 21)
 
-Round 6
-[Aug 15]
+▪ Round 6 ▪
+_ Aug 15 _
 Untersiebenbrunn 0-2 Kapfenberg
-  [Saraba 38, Rainer 44]
+  (Saraba 38, Rainer 44)
 DSV              4-1 LASK
-  [Pistrol 71, 78, Pichlmann 85, Kozelski 89; Ortner 24]
+  (Pistrol 71, 78, Pichlmann 85, Kozelski 89; Ortner 24)
 Ried             0-0 BSV Juniors
 Wörgl            1-1 Austria L
-  [M.Pichler 11; Stumpf 61]
-[Aug 16]
+  (M.Pichler 11; Stumpf 61)
+_ Aug 16 _
 FC Lustenau      2-2 Wacker
-  [Grumser 61, Sara 71; Kellner 45, Mair 86]
+  (Grumser 61, Sara 71; Kellner 45, Mair 86)
 
-Round 7
-[Aug 22]
+▪ Round 7 ▪
+_ Aug 22 _
 BSV Juniors      3-4 Austria L
-  [Schreier 41, 56, Linimair 62; Eisele 20, Turgay 35, Stumpf 38,
-   Bradaric 88]
+  (Schreier 41, 56, Linimair 62; Eisele 20, Turgay 35, Stumpf 38,
+   Bradaric 88)
 Kapfenberg       2-1 Wörgl
-  [Krautberger 3, Wieger 53; Pichler 70]
+  (Krautberger 3, Wieger 53; Pichler 70)
 LASK             1-1 Ried
-  [Bernscherer 67; Drechsel 24]
+  (Bernscherer 67; Drechsel 24)
 Wacker           1-0 Untersiebenbrunn
-  [Stary 22pen]
-[Aug 23]
+  (Stary 22pen)
+_ Aug 23 _
 FC Lustenau      0-0 DSV
 
-Round 8
-[Aug 29]
+▪ Round 8 ▪
+_ Aug 29 _
 Untersiebenbrunn 3-1 LASK
-  [Stöger 19, Unverdorben 24, Krajic 62; Kern 36]
+  (Stöger 19, Unverdorben 24, Krajic 62; Kern 36)
 Ried             4-2 Wacker
-  [Kuljic 4, Drechsel 25, Nentwich 45, B.Friesenbichler 71; Mair 9, Mimm 15]
+  (Kuljic 4, Drechsel 25, Nentwich 45, B.Friesenbichler 71; Mair 9, Mimm 15)
 Wörgl            0-4 FC Lustenau
-  [Dorner 65, 91, Dos Santos 74, Vonbrül 87]
-[Aug 30]
+  (Dorner 65, 91, Dos Santos 74, Vonbrül 87)
+_ Aug 30 _
 Austria L        3-0 Kapfenberg
-  [Stumpf 7pen, 43, Bozkurt 83]
+  (Stumpf 7pen, 43, Bozkurt 83)
 DSV              1-2 BSV Juniors
-  [Pichlmann 50; Linimair 9, Waitschacher 16]
+  (Pichlmann 50; Linimair 9, Waitschacher 16)
 
-Round 9 [Sep 9]
+▪ Round 9 ▪  Sep 9
 FC Lustenau      1-2 Untersiebenbrunn
-  [Resch 63; Krajic 30, Stöger 71]
+  (Resch 63; Krajic 30, Stöger 71)
 BSV Juniors      2-2 Wörgl
-  [Kristo 18, Schreier 50; Rissbacher 60, Muslic 65]
+  (Kristo 18, Schreier 50; Rissbacher 60, Muslic 65)
 Kapfenberg       1-2 Ried
-  [Toth 70; Lamprecht 8, 33]
+  (Toth 70; Lamprecht 8, 33)
 LASK             2-4 Austria L
-  [Fallmann 58, Kern 68; Bahadir 12, 26, Baradric 54, Stumpf 62]
+  (Fallmann 58, Kern 68; Bahadir 12, 26, Baradric 54, Stumpf 62)
 Wacker           0-1 DSV
-  [Zela 3]
+  (Zela 3)
 
-Round 10
-[Sep 12]
+▪ Round 10 ▪
+_ Sep 12 _
 Ried             2-3 Kapfenberg
-  [Schiemer 7, Lamprecht 21; Toth 14, Saler 43, Wieger 63]
+  (Schiemer 7, Lamprecht 21; Toth 14, Saler 43, Wieger 63)
 Wörgl            2-0 BSV Juniors
-  [Silberberger 45, Nussbaumer 50]
-[Sep 13]
+  (Silberberger 45, Nussbaumer 50)
+_ Sep 13 _
 Austria L        1-1 LASK
-  [Stumpf 10; Fellner 8]
+  (Stumpf 10; Fellner 8)
 Untersiebenbrunn 4-1 FC Lustenau
-  [Kinder 22, 65, Luttenberger 55, Hobel 64; Tamandl 78]
+  (Kinder 22, 65, Luttenberger 55, Hobel 64; Tamandl 78)
 DSV              4-0 Wacker
-  [Taboga 16, Jani 26, 54, 68]
+  (Taboga 16, Jani 26, 54, 68)
 
-Round 11
-[Sep 19]
+▪ Round 11 ▪
+_ Sep 19 _
 BSV Juniors      1-2 Kapfenberg
-  [Feichter 92; Pfeilstöcker 4, Toth 72]
+  (Feichter 92; Pfeilstöcker 4, Toth 72)
 LASK             0-3 Wörgl
-  [Jörgensen 42, 88, Muslic 54]
+  (Jörgensen 42, 88, Muslic 54)
 DSV              1-2 Untersiebenbrunn
-  [Pistrol 89; Kinder 28, Stöger 50]
+  (Pistrol 89; Kinder 28, Stöger 50)
 Wacker           4-3 Austria L
-  [Grüner 38, Minn (2-3) 50, Hörtnagl (3-3) 50, 93; Stumpf 24,
-   Pamminger 54, Patocka 48]
-[Sep 20]
+  (Grüner 38, Minn (2-3) 50, Hörtnagl (3-3) 50, 93; Stumpf 24,
+   Pamminger 54, Patocka 48)
+_ Sep 20 _
 FC Lustenau      0-1 Ried
-  [Nentwich 78]
+  (Nentwich 78)
 
-Round 12
-[Sep 26]
+▪ Round 12 ▪
+_ Sep 26 _
 Austria L        0-0 FC Lustenau
 Kapfenberg       1-1 Wacker
-  [Saler 28; Wazinger 8]
+  (Saler 28; Wazinger 8)
 Wörgl            1-2 Untersiebenbrunn
-  [Miloti 21; Krajic 54, 79]
+  (Miloti 21; Krajic 54, 79)
 BSV Juniors      0-2 LASK
-  [Fellner 24, 65]
-[Sep 27]
+  (Fellner 24, 65)
+_ Sep 27 _
 Ried             4-2 DSV
-  [Nentwich 31, Drechsel 65, Kuljic 70, Gruber 83; Früstük 60, Taboga 76]
+  (Nentwich 31, Drechsel 65, Kuljic 70, Gruber 83; Früstük 60, Taboga 76)
 
-Round 13
-[Oct 3]
+▪ Round 13 ▪
+_ Oct 3 _
 Wacker           1-0 Wörgl
-  [Koejoe 33]
+  (Koejoe 33)
 Untersiebenbrunn 2-1 Ried
-  [Hobel 14, Stöger 38pen; Kuljic 45pen]
+  (Hobel 14, Stöger 38pen; Kuljic 45pen)
 DSV              0-2 Austria L
-  [Bradaric 67, Stumpf 89]
-[Oct 4]
+  (Bradaric 67, Stumpf 89)
+_ Oct 4 _
 FC Lustenau      0-1 BSV Juniors
-  [Sablatnig 32]
+  (Sablatnig 32)
 LASK             0-3 Kapfenberg
-  [Pfeilstöcker 62, Rainer 71, Bodul 85]
+  (Pfeilstöcker 62, Rainer 71, Bodul 85)
 
-Round 14 [Oct 14]
+▪ Round 14 ▪  Oct 14
 Kapfenberg       1-0 DSV
-  [Toth 79]
+  (Toth 79)
 Austria L        1-1 Untersiebenbrunn
-  [Ayisi 73; Stöger 90pen]
+  (Ayisi 73; Stöger 90pen)
 BSV Juniors      0-4 Wacker
-  [Mader 10, Mair 20, 25, Koejoe 74]
+  (Mader 10, Mair 20, 25, Koejoe 74)
 LASK             1-1 FC Lustenau
-  [Hartl 84; Maicon 93pen]
+  (Hartl 84; Maicon 93pen)
 Wörgl            4-3 Ried
-  [Miloti 8, 75, Hattenberger 26, F.Schwarz 78; M.Gruber 32,
-   Kuljic 41pen, Hartter 66]
+  (Miloti 8, 75, Hattenberger 26, F.Schwarz 78; M.Gruber 32,
+   Kuljic 41pen, Hartter 66)
 
-Round 15
-[Oct 17]
+▪ Round 15 ▪
+_ Oct 17 _
 DSV              2-2 Wörgl
-  [Kozelsky 30, Gajser 70; Jörgensen 10, Miloti 40]
-[Oct 18]
+  (Kozelsky 30, Gajser 70; Jörgensen 10, Miloti 40)
+_ Oct 18 _
 FC Lustenau      1-3 Kapfenberg
-  [Dos Santos 60; Wieger 16, Swoboda 47og, Toth 76]
+  (Dos Santos 60; Wieger 16, Swoboda 47og, Toth 76)
 Wacker           1-0 LASK
-  [Koejoe 82pen]
+  (Koejoe 82pen)
 Untersiebenbrunn 0-0 BSV Juniors
-[Oct 19]
+_ Oct 19 _
 Ried             1-0 Austria L
-  [Kuljic 20]
+  (Kuljic 20)
 
-Round 16
-[Oct 24]
+▪ Round 16 ▪
+_ Oct 24 _
 Kapfenberg       0-2 Untersiebenbrunn
-  [Stückler 4, Weiss 75]
+  (Stückler 4, Weiss 75)
 BSV Juniors      1-3 Ried
-  [Kirisits 74; Kuljic 17, 45pen, Gruber 52]
+  (Kirisits 74; Kuljic 17, 45pen, Gruber 52)
 LASK             0-1 DSV
-  [Jani 17]
-[Oct 25]
+  (Jani 17)
+_ Oct 25 _
 Austria L        1-0 Wörgl
-  [Stumpf 42]
+  (Stumpf 42)
 Wacker           4-0 FC Lustenau
-  [Koejoe 16, 17, 72, Mair 51]
+  (Koejoe 16, 17, 72, Mair 51)
 
-Round 17 [Oct 28]
+▪ Round 17 ▪  Oct 28
 Untersiebenbrunn 2-0 Wacker
-  [Stöger 17, Stückler 77]
+  (Stöger 17, Stückler 77)
 Wörgl            2-0 Kapfenberg
-  [Silberberger 17, Miloti 53]
+  (Silberberger 17, Miloti 53)
 Austria L        1-1 BSV Juniors
-  [Pamminger 17; Sablatnig 81]
+  (Pamminger 17; Sablatnig 81)
 Ried             2-2 LASK
-  [Drechsel 27, Vukotic 81; Memnic 30, Fellner 43]
+  (Drechsel 27, Vukotic 81; Memnic 30, Fellner 43)
 DSV              0-1 FC Lustenau
-  [Dos Santos 32]
+  (Dos Santos 32)
 
-Round 18 [Oct 31]
+▪ Round 18 ▪  Oct 31
 FC Lustenau      2-2 Wörgl
-  [Gouvea 23, Jank 33; Silberberger 61, Miloti 87]
+  (Gouvea 23, Jank 33; Silberberger 61, Miloti 87)
 Kapfenberg       3-1 Austria L
-  [Rasinger 11, Wieger 38, Toth 48; Karatay 64]
+  (Rasinger 11, Wieger 38, Toth 48; Karatay 64)
 BSV Juniors      2-2 DSV
-  [Feichter 35, Waitschacher 70pen; Jani 55, Früstük 69]
+  (Feichter 35, Waitschacher 70pen; Jani 55, Früstük 69)
 LASK             1-2 Untersiebenbrunn
-  [Ortner 58; Stöger 40, Schießwald 86]
+  (Ortner 58; Stöger 40, Schießwald 86)
 Wacker           1-0 Ried
-  [Koejoe 45]
+  (Koejoe 45)
 
-Round 19
-[Nov 7]
+▪ Round 19 ▪
+_ Nov 7 _
 Untersiebenbrunn 4-4 Kapfenberg
-  [Kinder 45, 83, Stöger 19, Krajic 62; Toth 11, 66, Wieger 31, Lew 64]
+  (Kinder 45, 83, Stöger 19, Krajic 62; Toth 11, 66, Wieger 31, Lew 64)
 DSV              3-3 LASK
-  [Rinnhofer 9, N.Jovanovic 51, Zela 80; Schiener 50, Lederer 64, Kern 67]
+  (Rinnhofer 9, N.Jovanovic 51, Zela 80; Schiener 50, Lederer 64, Kern 67)
 Ried             3-0 FC Lustenau
-  [Drechsel 3, Bammer 55, Kuljic 67]
-[Nov 8]
+  (Drechsel 3, Bammer 55, Kuljic 67)
+_ Nov 8 _
 Austria L        3-1 Wacker
-  [Stumpf 85pen, Bozkurt 88, Karatay 90; Mimm 14]
+  (Stumpf 85pen, Bozkurt 88, Karatay 90; Mimm 14)
 Wörgl            1-0 BSV Juniors
-  [Miltoi 67]
+  (Miltoi 67)
 
-Round 20
-[Nov 21]
+▪ Round 20 ▪
+_ Nov 21 _
 BSV Juniors      2-2 Austria L
-  [Breitenberger 28, Feichter 56; Patocka 52, Bozkurt 55]
+  (Breitenberger 28, Feichter 56; Patocka 52, Bozkurt 55)
 LASK             2-3 Wörgl
-  [Schwellensattl 48, Schiener 68; Schwarz 46, Rissbacher 84, Höck 88]
+  (Schwellensattl 48, Schiener 68; Schwarz 46, Rissbacher 84, Höck 88)
 Kapfenberg       0-0 Ried
-[nov 22]
+_ nov 22 _
 FC Lustenau      2-0 DSV
-  [Vonbrül 6, Jank 90]
+  (Vonbrül 6, Jank 90)
 Wacker           4-0 Untersiebenbrunn
-  [Hölzl 16, Koejoe 41pen, 75, 86]
+  (Hölzl 16, Koejoe 41pen, 75, 86)
 
-Round 21
-[Nov 28]
+▪ Round 21 ▪
+_ Nov 28 _
 Untersiebenbrunn 2-0 LASK
-  [Kinder 19, Schießwald 85]
+  (Kinder 19, Schießwald 85)
 Ried             1-3 Wacker
-  [Vukotic 13; Schrott 15, Koejoe 75, Mühlbauer 88]
+  (Vukotic 13; Schrott 15, Koejoe 75, Mühlbauer 88)
 DSV              2-1 BSV Juniors
-  [Pistrol 14, Rinnhofer 80; Steiner 22]
-[Nov 29]
+  (Pistrol 14, Rinnhofer 80; Steiner 22)
+_ Nov 29 _
 Austria L        3-1 Kapfenberg
-  [Stumpf 15, Bradaric 27, Karatay 89; Kopunovic 78]
+  (Stumpf 15, Bradaric 27, Karatay 89; Kopunovic 78)
 Wörgl            2-1 FC Lustenau
-  [Gruber 29, F.Schwarz 92; Tamandl 59]
+  (Gruber 29, F.Schwarz 92; Tamandl 59)
 
-Round 22
-[Mar 6]
+▪ Round 22 ▪
+_ Mar 6 _
 FC Lustenau      1-1 Austria L
-  [Seoane 30; Krupinac 91]
-[Mar 7]
+  (Seoane 30; Krupinac 91)
+_ Mar 7 _
 Kapfenberg       4-0 Wörgl
-  [Schmid 8, 71, 81, Hütter 25pen]
+  (Schmid 8, 71, 81, Hütter 25pen)
 Ried             3-0 Untersiebenbrunn
-  [Hartter 49, Kuljic 86, 89]
+  (Hartter 49, Kuljic 86, 89)
 Wacker           1-0 DSV
-  [Mair 35]
-[May 4]
+  (Mair 35)
+_ May 4 _
 BSV Juniors      0-1 LASK
-  [Kern 4]
+  (Kern 4)
 
-Round 23
-[Mar 12]
+▪ Round 23 ▪
+_ Mar 12 _
 LASK             2-2 FC Lustenau
-  [Öbster 19, Mladenov 42; Dos Santos 34, 54]
-[Mar 13]
+  (Öbster 19, Mladenov 42; Dos Santos 34, 54)
+_ Mar 13 _
 Austria L        1-0 Ried
-  [Stumpf 28]
-[Apr 9]
+  (Stumpf 28)
+_ Apr 9 _
 DSV              2-0 Kapfenberg
-  [Stankovic 27, Zela 89]
-[Apr 20]
+  (Stankovic 27, Zela 89)
+_ Apr 20 _
 BSV Juniors      1-1 Wacker
-  [Waitschacher 14; Koejoe 26pen]
+  (Waitschacher 14; Koejoe 26pen)
 Wörgl            1-2 Untersiebenbrunn
-  [Muslic 16; Krajic 21, Parapatits 43]
+  (Muslic 16; Krajic 21, Parapatits 43)
 
-Round 24 [Mar 16]
+▪ Round 24 ▪  Mar 16
 FC Lustenau      0-0 BSV Juniors
 Wacker           5-2 Wörgl
-  [Koejoe 27, 64, 82, Mair 32, Stary 40; Silberberger 16, Muslic 22]
+  (Koejoe 27, 64, 82, Mair 32, Stary 40; Silberberger 16, Muslic 22)
 Untersiebenbrunn 1-0 Austria L
-  [Parapatits 46]
+  (Parapatits 46)
 Kapfenberg       1-2 LASK
-  [Toth 53; Miloti 54, Riedl 92]
+  (Toth 53; Miloti 54, Riedl 92)
 Ried             1-2 DSV
-  [Kührer 28; Kozelsky 24, Pistrol 31]
+  (Kührer 28; Kozelsky 24, Pistrol 31)
 
-Round 25 [Mar 19]
+▪ Round 25 ▪  Mar 19
 FC Lustenau      2-1 Wacker
-  [Seoane 21, 48; Koejoe 3]
+  (Seoane 21, 48; Koejoe 3)
 Wörgl            1-1 Austria L
-  [F.Schwarz 5pen; Krupinac 14]
+  (F.Schwarz 5pen; Krupinac 14)
 BSV Juniors      1-2 Kapfenberg
-  [Hilberger 78; Wieger 63, Rasinger 72]
+  (Hilberger 78; Wieger 63, Rasinger 72)
 DSV              1-0 Untersiebenbrunn
-  [Kozelsky 52]
+  (Kozelsky 52)
 LASK             1-0 Ried
-  [Kern 35]
+  (Kern 35)
 
-Round 26
-[Mar 26]
+▪ Round 26 ▪
+_ Mar 26 _
 Wacker           2-0 LASK
-  [Koejoe 19pen, Mair 20]
+  (Koejoe 19pen, Mair 20)
 Kapfenberg       1-1 FC Lustenau
-  [Toth 52; Miksits 84]
-[Mar 27]
+  (Toth 52; Miksits 84)
+_ Mar 27 _
 Austria L        1-0 DSV
-  [Stumpf 12]
+  (Stumpf 12)
 Untersiebenbrunn 4-1 BSV Juniors
-  [Kinder 3, Hobel 15, Krajic 78, Parapatits 82; Steiner 88]
-[Mar 28]
+  (Kinder 3, Hobel 15, Krajic 78, Parapatits 82; Steiner 88)
+_ Mar 28 _
 Ried             5-2 Wörgl
-  [Sidibe 21, 68, M.Gruber 47, Nentwich 63, Hartter 89; A.Gruber 38,
-   Nussbaumer 49]
+  (Sidibe 21, 68, M.Gruber 47, Nentwich 63, Hartter 89; A.Gruber 38,
+   Nussbaumer 49)
 
-Round 27
-[Apr 2]
+▪ Round 27 ▪
+_ Apr 2 _
 Kapfenberg       1-2 Wacker
-  [Tutu 64; Mader 10, Koejoe 39]
+  (Tutu 64; Mader 10, Koejoe 39)
 FC Lustenau      1-3 Untersiebenbrunn
-  [Dos Santos 40; Hobel 17, Luttenberger 66, Krajic 82]
+  (Dos Santos 40; Hobel 17, Luttenberger 66, Krajic 82)
 BSV Juniors      0-4 Ried
-  [Kuljic 10, 40, Hartter 85, Lasnik 87]
+  (Kuljic 10, 40, Hartter 85, Lasnik 87)
 Wörgl            1-1 DSV
-  [Höck 65; Kozelsky 21]
-[Apr 3]
+  (Höck 65; Kozelsky 21)
+_ Apr 3 _
 LASK             0-2 Austria L
-  [Stumpf 2, Dürr 91]
+  (Stumpf 2, Dürr 91)
 
-Round 28 [Apr 6]
+▪ Round 28 ▪  Apr 6
 Wacker           2-1 Kapfenberg
-  [Koejoe 42pen, Mader 71; Hütter 35]
+  (Koejoe 42pen, Mader 71; Hütter 35)
 Austria L        1-0 LASK
-  [Parocka 62]
+  (Parocka 62)
 Untersiebenbrunn 1-0 FC Lustenau
-  [Stückler 26]
+  (Stückler 26)
 Ried             2-0 BSV Juniors
-  [Lasnik 45, Gruber 67]
+  (Lasnik 45, Gruber 67)
 DSV              0-0 Wörgl
 
-Round 29 [Apr 13]
+▪ Round 29 ▪  Apr 13
 Wacker           2-0 Austria L
-  [Grüner 29, Mader 32]
+  (Grüner 29, Mader 32)
 Kapfenberg       3-1 Untersiebenbrunn
-  [Hütter 48pen, Schicker 63, Liendl 65; Stöger 43pen]
+  (Hütter 48pen, Schicker 63, Liendl 65; Stöger 43pen)
 LASK             1-1 DSV
-  [Bernscherer 30; Pistrol 3]
+  (Bernscherer 30; Pistrol 3)
 FC Lustenau      1-1 Ried
-  [Seoane 57; Lasnik 63]
+  (Seoane 57; Lasnik 63)
 BSV Juniors      2-1 Wörgl
-  [Breitenberger 22, Winsauer 92og; Muslic 34]
+  (Breitenberger 22, Winsauer 92og; Muslic 34)
 
-Round 30
-[Apr 16]
+▪ Round 30 ▪
+_ Apr 16 _
 Untersiebenbrunn 1-2 Wacker
-  [Windisch 92og; Mader 85, Mimm 87]
+  (Windisch 92og; Mader 85, Mimm 87)
 Ried             5-1 Kapfenberg
-  [Kuljic 10, Hartter 46, Drechsel 49, 53, Lasnik 62; Tutu 28]
+  (Kuljic 10, Hartter 46, Drechsel 49, 53, Lasnik 62; Tutu 28)
 Wörgl            2-1 LASK
-  [M.Pichler 51, Muslic 77; Öbster 69]
+  (M.Pichler 51, Muslic 77; Öbster 69)
 DSV              1-1 FC Lustenau
-  [Jovanovic 65pen; Dos Santos 87]
-[Apr 17]
+  (Jovanovic 65pen; Dos Santos 87)
+_ Apr 17 _
 Austria L        3-2 BSV Juniors
-  [Bozkurt 56, 92, Stumpf 60; Breitenberger 41, Jochum 68pen]
+  (Bozkurt 56, 92, Stumpf 60; Breitenberger 41, Jochum 68pen)
 
-Round 31 [Apr 23]
+▪ Round 31 ▪  Apr 23
 BSV Juniors      3-1 DSV
-  [Ambrosius 25, Schierhuber 56, Schreier 87; Schierhuber 31og]
+  (Ambrosius 25, Schierhuber 56, Schreier 87; Schierhuber 31og)
 FC Lustenau      4-0 Wörgl
-  [Hanikel 4, Dos Santos 19, Grumser 40, 49pen]
+  (Hanikel 4, Dos Santos 19, Grumser 40, 49pen)
 Kapfenberg       3-1 Austria L
-  [Wieger 22, Schmid 42, Toth 55; Pamminger 87]
+  (Wieger 22, Schmid 42, Toth 55; Pamminger 87)
 LASK             4-2 Untersiebenbrunn
-  [Schiener 18, Hartl 66, Miloti 68, Ruckendorfer 87; Stöger 32,
-   Schießwald 55]
+  (Schiener 18, Hartl 66, Miloti 68, Ruckendorfer 87; Stöger 32,
+   Schießwald 55)
 Wacker           1-0 Ried
-  [Koejoe 85pen]
+  (Koejoe 85pen)
 
-Round 32
-[Apr 30]
+▪ Round 32 ▪
+_ Apr 30 _
 Untersiebenbrunn 1-2 Ried
-  [Horvath 89; Lessnigg 85, Steininger 92]
+  (Horvath 89; Lessnigg 85, Steininger 92)
 LASK             2-0 BSV Juniors
-  [Dika-Dika 29, Miloti 63pen]
+  (Dika-Dika 29, Miloti 63pen)
 DSV              1-1 Wacker
-  [Jani 2; Grüner 63]
+  (Jani 2; Grüner 63)
 Wörgl            3-4 Kapfenberg
-  [Muslic 45, 54, Lampl 78; Wieger 8, Hütter 27pen, Toth 41, Bodul 73]
-[May 1]
+  (Muslic 45, 54, Lampl 78; Wieger 8, Hütter 27pen, Toth 41, Bodul 73)
+_ May 1 _
 Austria L        0-0 FC Lustenau
 
-Round 33 [May 7]
+▪ Round 33 ▪  May 7
 Ried             3-1 Austria L
-  [Sidibe 9, Kuljic 24pen, Sulimani 93; Bozkurt 40]
+  (Sidibe 9, Kuljic 24pen, Sulimani 93; Bozkurt 40)
 Kapfenberg       0-0 DSV
 FC Lustenau      2-0 LASK
-  [Dos Santos 22, Seoane 37]
+  (Dos Santos 22, Seoane 37)
 Untersiebenbrunn 2-1 Wörgl
-  [Luttenberger 4, Stückler 69; Gaudenzi 39]
+  (Luttenberger 4, Stückler 69; Gaudenzi 39)
 Wacker           1-0 BSV Juniors
-  [Mair 69]
+  (Mair 69)
 
-Round 34 [May 11]
+▪ Round 34 ▪  May 11
 Wörgl            1-1 Tirol
-  [Schwarz 73; H.Aigner 90]
+  (Schwarz 73; H.Aigner 90)
 Austria L        2-0 Untersiebenbrunn
-  [Pamminger 31, Karatay 77]
+  (Pamminger 31, Karatay 77)
 BSV Juniors      2-1 FC Lustenau
-  [Ambrosius 25, Schreier 28; Sara 52]
+  (Ambrosius 25, Schreier 28; Sara 52)
 LASK             2-0 Kapfenberg
-  [Schiener 21, Miloti 72]
+  (Schiener 21, Miloti 72)
 DSV              2-0 Ried
-  [Jani 1, 28]
+  (Jani 1, 28)
 
-Round 35 [May 14]
+▪ Round 35 ▪  May 14
 Wacker           5-3 FC Lustenau
-  [Mair 4, 30, Koejoe 48, 68pen, Schroll 77; Hanikel 43,
-   Dos Santos 59. Miksits 87]
+  (Mair 4, 30, Koejoe 48, 68pen, Schroll 77; Hanikel 43,
+   Dos Santos 59. Miksits 87)
 Kapfenberg       3-1 BSV Juniors
-  [Wieger 40, Liendl 73, Schicker 86; Feichter 4]
+  (Wieger 40, Liendl 73, Schicker 86; Feichter 4)
 Austria L        2-0 Wörgl
-  [Dürr 71, Pamminger 84]
+  (Dürr 71, Pamminger 84)
 Ried             1-1 LASK
-  [Kuljic 2; Kern 51]
+  (Kuljic 2; Kern 51)
 Untersiebenbrunn 3-4 DSV
-  [Parapatits 33, 54, Kinder 60; Sekic 21, Jani 56,
-   Früstük 84, Kozelsky 88]
+  (Parapatits 33, 54, Kinder 60; Sekic 21, Jani 56,
+   Früstük 84, Kozelsky 88)
 
-Round 36 [May 21]
+▪ Round 36 ▪  May 21
 BSV Juniors      0-5 Untersiebenbrunn
-  [Parapatits 6, 37, 63pen, 84, Krajic 88]
+  (Parapatits 6, 37, 63pen, 84, Krajic 88)
 FC Lustenau      1-6 Kapfenberg
-  [Seoane 74; Toth 7, 69, Wieger 10, 33, 49, 76]
+  (Seoane 74; Toth 7, 69, Wieger 10, 33, 49, 76)
 LASK             6-2 Wacker
-  [Kern 2, 37, 87, 89, Schiener 8, Mladenow 59; Aigner 9, 28]
+  (Kern 2, 37, 87, 89, Schiener 8, Mladenow 59; Aigner 9, 28)
 DSV              1-3 Austria L
-  [Rinnhofer 44; Vural 16, Ibrahimi 84, Pamminger 93]
+  (Rinnhofer 44; Vural 16, Ibrahimi 84, Pamminger 93)
 Wörgl            0-2 Ried
-  [Sidibe 50, Drechsel 76]
+  (Sidibe 50, Drechsel 76)
 
-Final Table:
+<!-- $table4$ -->
 
- 1.FC Wacker Tirol (Innsbruck)  36 22  6  8 65-44  72  Promoted
------------------------------------------------------
- 2.SC Austria Lustenau          36 18 11  7 55-36  65
- 3.Kapfenberger SV              36 18  6 12 68-55  60
- 4.SC Untersiebenbrunn          36 18  6 12 61-48  60
- 5.SV Ried im Innkreis          36 16  8 12 60-43  56
- 6.DSV Leoben                   36 11 13 12 44-44  46
- 7.LASK Linz                    36 12  8 16 46-55  44
- 8.SV Wörgl                     36  9 10 17 48-66  37
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 9.FC Lustenau                  36  6 13 17 40-58  31  Relegation Playoff
------------------------------------------------------
-10.BSV Juniors (Villach)        36  5  9 22 31-69  24  Relegated
 
 NB: team names stripped from sponsors
 
@@ -1243,24 +1190,21 @@ NB: SPG WSG Wattens/Wacker Tirol were dissolved into FC Wacker Tirol
 
 Promotion/Relegation Playoffs
 
-First Legs [Jun 8]
+▪ First Legs ▪  Jun 8
 SCR Altach       3-2 FC Lustenau
-  [Schnepf 2, 44, Mattle 79; Sara 32, Seoane 65]
+  (Schnepf 2, 44, Mattle 79; Sara 32, Seoane 65)
 FC Gratkorn      0-0 SC/ESV Parndorf
 
-Second Legs [Jun 12]
+▪ Second Legs ▪  Jun 12
 FC Lustenau      2-3 SCR Altach
-  [Erkinger 15, Seoane 35; Zöhrer 40, Carneiro 57, 90]
+  (Erkinger 15, Seoane 35; Zöhrer 40, Carneiro 57, 90)
 SC/ESV Parndorf  1-1 FC Gratkorn
-  [Hoffmann 21; Wolf 78]
+  (Hoffmann 21; Wolf 78)
 
 FC Gratkorn and SC Rheindorf Altach promoted, FC Lustenau relegated
 
-Topscorers:
-22 Koejoe (Wacker)
-17 Toth (Kapfenberg)
-16 Stumpf (Austria L)
-15 Kuljic (Ried)
+<!-- $topscorers2$ -->
+
 
 
 Third Level 2003/04
@@ -1815,7 +1759,7 @@ SV Tulfes                 2-5  SV Völs
 FC Tux                    0-4  FC Aschau im Zillertal
 WSG Wattens II            4-0  SPG Ellbögen/Patsch
 
-First Round
+▪ First Round ▪
 FC Kufstein               bye
 SV Hall                   bye
 SPG Reichenau/Aldrans I   bye
@@ -1881,7 +1825,7 @@ FC Wildschönau            1-1  SV Kirchbichl             [pen 5-6]
 SK Wilten                 0-5  SV Kolsass/Weer
 SK Zell am Ziller         5-1  SV Breitenbach
 
-Second Round
+▪ Second Round ▪
 SV Absam                  1-6  SPG Axams/Götzens
 SV Bad Häring             2-1  FC Kufstein II
 SPG Brixlegg/Rattenberg   4-3  FC Vomp
@@ -1915,7 +1859,7 @@ SV Völs                   1-5  SV Hall
 SV Zams                   3-2  FC Oberhofen
 SK Zell am Ziller         0-1  FC Aschau im Zillertal
 
-Third Round
+▪ Third Round ▪
 FC Aschau im Zillertal    5-3  SK Ebbs
 SV Bad Häring             1-3  SVG Jenbach
 SPG Brixlegg/Rattenberg   4-2  SV Thiersee
@@ -1943,53 +1887,23 @@ SV Neustift               0-1  SPG Axams/Götzens I
 SPG Rum/IAC I             1-1  TS Stams                  [pen 4-3]
 SV Zams                   3-1  SV Landeck
 
-Quarter Finals
+▪ Quarter Finals ▪
 SPG Axams/Götzens I       6-1  FC Flaurling
 SPG Brixlegg/Rattenberg   1-0  SVG Jenbach
 FC Kufstein I             3-1  SPG Rum/IAC
 SV Zams                   1-1  SV Kolsass/Weer           [pen 2-4]
 
-Semi Finals
+▪ Semi Finals ▪
 SPG Brixlegg/Rattenberg   2-4  SPG Axams/Götzens
 FC Kufstein               4-0  SV Kolsass/Weer
 
-Final [June 10, 2004, Imst]
+▪ Final ▪  June 10, 2004, Imst
 SPG Axams/Götzens         3-3  FC Kufstein               [pen 3-0]
 
-<!-- end pre -->
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-‹2002/03, see page oost03›.
-
-‹2004/05, see page oost05›.
-
-‹list of final tables, see page oosthist›.
-
-‹list of champions, see page oostchamp›.
-
-‹list of cup finals, see page oostcuphist›.
-
-‹list of super cup finals, see page oostsupcuphist›.
-
-‹list of foundation dates, see page oostfound›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-== About this document  ‹§about›
-
-Prepared and maintained by Andreas Exenberger
-and Karel Stokkermans for the
-‹Rec.Sport.Soccer Statistics Foundation›
 
 
-Authors: Andreas Exenberger
-and Karel Stokkermans
-
-Last updated: 15 Jun 2022
 
 
-(C) Copyright Andreas Exenberger, Karel Stokkermans
-and RSSSF 2003/22
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.
+
+<!-- $about$ -->
+

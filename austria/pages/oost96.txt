@@ -6,7 +6,6 @@
 
 == Austria 1995/96
 
-<!-- start pre -->
 1.Bundesliga
 
 Table:
@@ -26,313 +25,313 @@ Table:
 -----------------------------------------------------
 10.SK Vorwärts Steyr            36  0  6 30  25-93  6  Relegated
 
-Round 1
-[Aug 2]
+▪ Round 1 ▪
+_ Aug 2 _
 Admira/Wacker    1-5 Sturm
 Austria Salzburg 1-1 LASK
 Austria Wien     4-0 Vorwärts
 Ried             2-1 Rapid
-[Sep 2]
+_ Sep 2 _
 GAK              3-0 Tirol
 
-Round 2
-[Aug 4]
+▪ Round 2 ▪
+_ Aug 4 _
 LASK             1-1 Ried
-[Aug 5]
+_ Aug 5 _
 Sturm            0-2 Austria Salzburg
 Rapid            1-0 Austria Wien
 Tirol            3-0 Admira/Wacker
 Vorwärts         1-2 GAK
 
-Round 3
-[Aug 11]
+▪ Round 3 ▪
+_ Aug 11 _
 Austria Wien     0-1 LASK
-[Aug 12]
+_ Aug 12 _
 Admira/Wacker    1-2 Austria Salzburg
 GAK              1-2 Rapid
 Ried             2-4 Sturm
 Tirol            5-1 Vorwärts
 
-Round 4
-[Aug 18]
+▪ Round 4 ▪
+_ Aug 18 _
 Vorwärts         0-1 Admira/Wacker
-[Aug 19]
+_ Aug 19 _
 Rapid            3-1 Tirol
 Austria Salzburg 1-1 Ried
 Sturm            2-0 Austria Wien
 LASK             0-0 GAK
 
-Round 5
-[Aug 25]
+▪ Round 5 ▪
+_ Aug 25 _
 Admira/Wacker    3-2 Ried
-[Aug 26]
+_ Aug 26 _
 Austria Wien     3-0 Austria Salzburg
 GAK              3-2 Sturm
 Tirol            2-1 LASK
 Vorwärts         0-2 Rapid
 
-Round 6 [Aug 30]
+▪ Round 6 ▪  Aug 30
 Austria Salzburg 2-1 GAK
 Ried             0-0 Austria Wien
 Rapid            1-1 Admira/Wacker
 Sturm            2-0 Tirol
 LASK             1-0 Vorwärts
 
-Round 7
-[Sep 16]
+▪ Round 7 ▪
+_ Sep 16 _
 Vorwärts         1-3 Sturm
 GAK              4-2 Ried
 Admira/Wacker    1-1 Austria Wien
 Tirol            1-1 Austria Salzburg
-[Sep 17]
+_ Sep 17 _
 Rapid            1-1 LASK
 
-Round 8 [Sep 20]
+▪ Round 8 ▪  Sep 20
 Sturm            0-1 Rapid
 Ried             2-1 Tirol
 Austria Salzburg 4-0 Vorwärts
 Austria Wien     3-2 GAK
 LASK             2-0 Admira/Wacker
 
-Round 9 [Sep 23]
+▪ Round 9 ▪  Sep 23
 Rapid            3-1 Austria Salzburg
 LASK             2-1 Sturm
 Tirol            3-1 Austria Wien
 GAK              1-1 Admira/Wacker
 Vorwärts         0-2 Ried
 
-Round 10 [Oct 3]
+▪ Round 10 ▪  Oct 3
 Austria Salzburg 0-3 Rapid
 Sturm            3-1 LASK
 Austria Wien     1-0 Tirol
 Admira/Wacker    0-2 GAK
 Ried             3-1 Vorwärts
 
-Round 11 [Oct 6]
+▪ Round 11 ▪  Oct 6
 Rapid            4-1 Ried
 Sturm            0-0 Admira/Wacker
 Tirol            1-1 GAK
 LASK             0-0 Austria Salzburg
 Vorwärts         0-0 Austria Wien
 
-Round 12
-[Oct 14]
+▪ Round 12 ▪
+_ Oct 14 _
 Austria Wien     4-1 Rapid
 Austria Salzburg 1-1 Sturm
 Ried             1-0 LASK
 GAK              1-1 Vorwärts
-[Oct 15]
+_ Oct 15 _
 Admira/Wacker    0-0 Tirol
 
-Round 13
-[Oct 20]
+▪ Round 13 ▪
+_ Oct 20 _
 Vorwärts         2-2 Tirol
-[Oct 21]
+_ Oct 21 _
 Sturm            1-0 Ried
 LASK             0-1 Austria Wien
 Austria Salzburg 2-2 Admira/Wacker
-[Oct 22]
+_ Oct 22 _
 Rapid            3-1 GAK
 
-Round 14
-[Oct 28]
+▪ Round 14 ▪
+_ Oct 28 _
 Admira/Wacker    4-1 Vorwärts
 Austria Wien     0-3 Sturm
 Ried             0-0 Austria Salzburg
 Tirol            1-2 Rapid
-[Oct 29]
+_ Oct 29 _
 GAK              1-0 LASK
 
-Round 15
-[Nov 4]
+▪ Round 15 ▪
+_ Nov 4 _
 Sturm            1-1 GAK
 LASK             1-2 Tirol
 Ried             2-2 Admira/Wacker
-[Nov 5]
+_ Nov 5 _
 Rapid            4-3 Vorwärts
-[Nov 25]
+_ Nov 25 _
 Austria Salzburg 2-2 Austria Wien
 
-Round 16
-[Nov 8]
+▪ Round 16 ▪
+_ Nov 8 _
 Admira/Wacker    1-1 Rapid
 GAK              0-0 Austria Salzburg
 Austria Wien     0-0 Ried
 Tirol            2-2 Sturm
-[Nov 11]
+_ Nov 11 _
 Vorwärts         0-3 LASK   [Awarded Nov 13. Originally abandoned in the 74'
                              minute with the score at 0-2 due to failure
                              of floodlights; Vorwärts then refused to
                              continue when the referee summoned the teams
                              on again.]
-Round 17
-[Nov 18]
+▪ Round 17 ▪
+_ Nov 18 _
 GAK              0-0 Austria Wien
 Tirol            2-0 Ried
 Admira/Wacker    0-1 LASK
 Vorwärts         0-6 Austria Salzburg
-[Nov 19]
+_ Nov 19 _
 Rapid            0-2 Sturm
 
-Round 18
-[Nov 21]
+▪ Round 18 ▪
+_ Nov 21 _
 LASK             2-0 Rapid
 Austria Salzburg 3-1 Tirol
 Austria Wien     3-1 Admira/Wacker
 Ried             0-0 GAK
-[Nov 22]
+_ Nov 22 _
 Sturm            4-2 Vorwärts
 
-Round 19
-[Mar 2]
+▪ Round 19 ▪
+_ Mar 2 _
 LASK             0-2 Rapid
 Tirol            2-0 GAK
 Austria Wien     2-0 Vorwärts
 Austria Salzburg 0-3 Ried
-[Mar 20]
+_ Mar 20 _
 Sturm            2-0 Admira/Wacker
 
-Round 20
-[Mar 9]
+▪ Round 20 ▪
+_ Mar 9 _
 GAK              1-0 LASK
 Ried             1-0 Austria Wien
 Admira/Wacker    1-4 Tirol
-[Mar 10]
+_ Mar 10 _
 Rapid            3-1 Austria Salzburg
-[Apr 16]
+_ Apr 16 _
 Vorwärts         1-3 Sturm
 
-Round 21
-[Feb 28]
+▪ Round 21 ▪
+_ Feb 28 _
 Rapid            1-0 GAK
-[Mar 13]
+_ Mar 13 _
 Austria Salzburg 1-1 Austria Wien
 LASK             0-0 Admira/Wacker
 Sturm            3-1 Ried
 Tirol            3-0 Vorwärts
 
-Round 22
-[Mar 16]
+▪ Round 22 ▪
+_ Mar 16 _
 Austria Wien     0-1 Sturm
 Ried             0-6 Tirol
 GAK              2-1 Austria Salzburg
 Vorwärts         1-2 LASK
-[Mar 17]
+_ Mar 17 _
 Admira/Wacker    0-0 Rapid
 
-Round 23
-[Mar 23]
+▪ Round 23 ▪
+_ Mar 23 _
 Austria Salzburg 1-2 Sturm
 Tirol            2-0 Austria Wien
 LASK             0-0 Ried
 GAK              2-0 Admira/Wacker
-[Mar 24]
+_ Mar 24 _
 Rapid            2-0 Vorwärts
 
-Round 24
-[Mar 29]
+▪ Round 24 ▪
+_ Mar 29 _
 Austria Wien     3-0 LASK
-[Mar 30]
+_ Mar 30 _
 Admira/Wacker    2-2 Austria Salzburg
 Sturm            0-1 Tirol
 Vorwärts         0-1 GAK
 Ried             1-1 Rapid
 
-Round 25
-[Apr 6]
+▪ Round 25 ▪
+_ Apr 6 _
 GAK              1-1 Ried
 Austria Salzburg 0-2 Tirol
-[Apr 7]
+_ Apr 7 _
 Admira/Wacker    3-0 Vorwärts
 LASK             2-1 Sturm
 Rapid            0-1 Austria Wien
 
-Round 26 [Apr 10]
+▪ Round 26 ▪  Apr 10
 Sturm            1-0 Rapid
 Ried             2-3 Admira/Wacker
 Vorwärts         1-3 Austria Salzburg
 Austria Wien     0-1 GAK
 Tirol            2-1 LASK
 
-Round 27 [Apr 13]
+▪ Round 27 ▪  Apr 13
 Rapid            3-1 Tirol
 GAK              1-0 Sturm
 Admira/Wacker    0-3 Austria Wien
 LASK             3-0 Austria Salzburg
 Vorwärts         1-2 Ried
 
-Round 28
-[Apr 16]
+▪ Round 28 ▪
+_ Apr 16 _
 Austria Wien     0-1 Admira/Wacker
-[Apr 30]
+_ Apr 30 _
 Sturm            0-2 GAK
 Austria Salzburg awd LASK              [3-0 awarded May 2, since LASK made 4
                                         substitutions; originally 3-1]
 Ried             1-1 Vorwärts
 Tirol            1-1 Rapid
 
-Round 29
-[Apr 20]
+▪ Round 29 ▪
+_ Apr 20 _
 GAK              1-3 Tirol
 Admira/Wacker    0-2 Sturm
 Vorwärts         2-2 Austria Wien
 Ried             1-1 Austria Salzburg
-[Apr 21]
+_ Apr 21 _
 Rapid            2-1 LASK
 
-Round 30
-[Apr 26]
+▪ Round 30 ▪
+_ Apr 26 _
 Sturm            0-0 Vorwärts
 Tirol            2-0 Admira/Wacker
-[Apr 27]
+_ Apr 27 _
 Austria Salzburg 4-2 Rapid
 LASK             1-1 GAK
 Austria Wien     2-0 Ried
 
-Round 31
-[May 4]
+▪ Round 31 ▪
+_ May 4 _
 Austria Wien     2-0 Austria Salzburg
 Vorwärts         0-3 Tirol
 Admira/Wacker    0-1 LASK
-[May 21]
+_ May 21 _
 Ried             2-2 Sturm
 GAK              1-1 Rapid
 
-Round 32
-[May 10]
+▪ Round 32 ▪
+_ May 10 _
 Admira/Wacker    1-1 GAK
-[May 11]
+_ May 11 _
 Vorwärts         2-3 Rapid
 Austria Wien     1-0 Tirol
 Sturm            2-1 Austria Salzburg
 Ried             1-0 LASK
 
-Round 33
-[May 14]
+▪ Round 33 ▪
+_ May 14 _
 Rapid            6-0 Admira/Wacker
 Sturm            3-0 Austria Wien
 Austria Salzburg 0-0 GAK
 LASK             3-1 Vorwärts
 Tirol            awd Ried            [awarded 0-3 May 17; was abandoned at 2-2 in the
                                       87th minute because of a pitch invasion]
-Round 34
-[May 18]
+▪ Round 34 ▪
+_ May 18 _
 Rapid            4-2 Ried
 Tirol            1-1 Sturm
 GAK              3-2 Vorwärts
 LASK             2-0 Austria Wien
 Austria Salzburg 2-2 Admira/Wacker
 
-Round 35
-[May 25]
+▪ Round 35 ▪
+_ May 25 _
 Austria Wien     0-2 Rapid
 Ried             2-2 GAK
 Sturm            2-1 LASK
 Tirol            3-1 Austria Salzburg
 Vorwärts         0-2 Admira/Wacker
 
-Round 36
-[Jun 1]
+▪ Round 36 ▪
+_ Jun 1 _
 Rapid            2-0 Sturm
 GAK              2-2 Austria Wien
 LASK             1-1 Tirol
@@ -358,14 +357,8 @@ Table:
 
 Promoted from the 2. Bundesliga: FC Linz.
 
-Topscorers:
-Vastic              (Sturm)            20
-Stumpf              (Rapid)            15
-Krinner             (Vorwärts/Tirol)   14
-Pfeifenberger       (Austria Salzburg) 14
-Haas                (Sturm)            12
-Mjelde              (Austria Wien)     11
-Janeschitz          (Tirol)            10
+<!-- $topscorers1$ -->
+
 
 Promotion/Relegation Matches:
 
@@ -439,45 +432,45 @@ Round 1 (Aug 2 - Aug 22)
  ASK/BSC Bruck/L. - EPSV Gmünd            2:0
 
 
-Round 2
-[Sep 7]
+▪ Round 2 ▪
+_ Sep 7 _
 SC/ESV Parndorf         1-0     ASK/BSC Bruck/Leitha
-[Sep 8]
-FC Köflach              1-0     USV Vöcklamarkt         [aet]
+_ Sep 8 _
+FC Köflach              1-0     USV Vöcklamarkt         (aet)
 SVS Schwechat           0-2     SG Gerasdorf
 SV Stockerau            0-3     Vienna
 SVG Wr.Neudorf          1-4     SV Oberwart
 TSV Hartberg            0-1     Flavia Solva
-[Sep 9]
+_ Sep 9 _
 FC Wacker Innsbruck (A) 0-5     SV Casino Salzburg
 ATSV Trimmelkam         1-8     FC Tirol Innsbruck
 SC Marchtrenk           0-5     Sturm Graz
 SV Feldkirchen          0-1     SV Ried im Innkreis
 SV Traun                1-3     SK Vorwärts Steyr
 SV Leibnitz             1-2     Linzer ASK
-SV Lendorf              1-3     Grazer AK               [aet]
-SV Mattersburg          0-1     Austria Wien            [aet]
+SV Lendorf              1-3     Grazer AK               (aet)
+SV Mattersburg          0-1     Austria Wien            (aet)
 ASK Baumgarten          1-6     SK Rapid Wien
 SC Zwettl               0-3     Admira/Wacker
-ESV Saalfelden          0-2     FC Kufstein             [aet]
+ESV Saalfelden          0-2     FC Kufstein             (aet)
 FC Hard                 2-1     SV Braunau
 FC Puch                 1-2     SC Austria Lustenau
 SC Kundl                2-0     SV Wörgl
 SV Fügen                2-5     VfB Hohenems
 Schwarz-Weiß Bregenz    7-1     ÖTSU Henndorf
 ASK Voitsberg           3-0     SAK Klagenfurt
-Villacher SV            1-2     SV Spittal/Dr.          [aet]
+Villacher SV            1-2     SV Spittal/Dr.          (aet)
 SV Eibiswald            0-5     FC Linz
 Union Esternberg        0-3     DSV Leoben
 Austria Klagenfurt      2-2     Donau Linz              [aet, pen 4-3]
 FC Deutschkreutz        0-2     VfB Mödling
 SR Donaufeld            0-0     Klingenbach             [aet, pen 3-5]
-FC Waidhofen/Y.         2-0     ASK Kottingbrunn        [aet]
-Untersiebenbrunn        3-1     Admira Landhaus         [aet]
+FC Waidhofen/Y.         2-0     ASK Kottingbrunn        (aet)
+Untersiebenbrunn        3-1     Admira Landhaus         (aet)
 Gersthofer SV           1-0     SV Essling
 
-Round 3
-[Sep 29]
+▪ Round 3 ▪
+_ Sep 29 _
 Austria Klagenfurt      1-3     DSV Leoben
 SC/ESV Parndorf         0-3     SG Gerasdorf
 FC Waidhofen/Ybbs       2-6     Austria Wien
@@ -485,7 +478,7 @@ SC Kundl                2-0     FC Kufstein
 Schwarz-Weiß Bregenz    2-7     Grazer AK
 SV Oberwart             0-1     Linzer ASK
 SV Ried im Innkreis     2-3     SV Casino Salzburg
-[Sep 30]
+_ Sep 30 _
 FC Tirol Innsbruck      2-5     Sturm Graz
 Admira/Wacker           4-1     SK Rapid Wien
 SV Untersiebenbrunn     0-1     SK Vorwärts Steyr
@@ -496,15 +489,15 @@ ASK Voitsberg           1-3     VfB Mödling
 FC Köflach              2-3     ASK Klingenbach
 Gersthofer SV           0-6     Vienna
 
-Round 4
-[Oct 24]
+▪ Round 4 ▪
+_ Oct 24 _
 SG Gerasdorf            1-0     ASK Klingenbach
 Vienna                  0-3     Admira/Wacker
-[Oct 25]
+_ Oct 25 _
 FK Austria Wien         0-1     SK Sturm Graz
 FC Linz                 1-2     SK Vorwärts Steyr
 SC Kundl                4-3     DSV Leoben
-[Oct 26]
+_ Oct 26 _
 Grazer AK               2-0     SV Casino Salzburg
 Flavia Solva            1-0     Linzer ASK
 FC Hard                 1-0     VfB Mödling
@@ -564,7 +557,7 @@ Table:
 16.ASK Klingenbach              30  4  8 18  28-54 20  Relegated
 
 
-Round 1
+▪ Round 1 ▪
 Austria Lustenau 2-2 Linz
 Kufstein         1-4 Braunau
 Oberwart         3-1 Vienna
@@ -574,7 +567,7 @@ SAK              0-1 FavAC
 Spittal          0-1 Flavia Solva
 Wattens          2-2 Gerasdorf
 
-Round 2
+▪ Round 2 ▪
 Braunau          1-1 Sankt Pölten
 Linz             0-0 Gerasdorf
 Vienna           5-0 Spittal
@@ -584,7 +577,7 @@ Austria Lustenau 5-0 SAK
 FavAC            2-1 Kufstein
 DSV              1-1 Wattens
 
-Round 3
+▪ Round 3 ▪
 Sankt Pölten     3-6 FavAC
 Spittal          3-1 Klingenbach
 Gerasdorf        0-0 DSV
@@ -594,7 +587,7 @@ Wattens          1-1 Flavia Solva
 Kufstein         0-2 Austria Lustenau
 Oberwart         2-1 Braunau
 
-Round 4
+▪ Round 4 ▪
 Linz             4-1 DSV
 Vienna           1-1 Wattens
 Braunau          0-3 Spittal
@@ -604,7 +597,7 @@ SAK              4-0 Kufstein
 Flavia Solva     0-0 Gerasdorf
 FavAC            3-0 Oberwart
 
-Round 5
+▪ Round 5 ▪
 Sankt Pölten     1-1 SAK
 Spittal          2-2 FavAC
 Oberwart         1-5 Austria Lustenau
@@ -614,7 +607,7 @@ Kufstein         0-1 Linz
 Gerasdorf        2-2 Vienna
 Wattens          3-2 Klingenbach
 
-Round 6
+▪ Round 6 ▪
 FavAC            3-0 Mödling
 Linz             1-0 Flavia Solva
 Braunau          1-1 Wattens
@@ -624,7 +617,7 @@ Austria Lustenau 1-0 Spittal
 Klingenbach      0-3 Gerasdorf
 SAK              0-0 Oberwart
 
-Round 7
+▪ Round 7 ▪
 Oberwart         3-2 Kufstein
 Austria Lustenau 0-1 Mödling
 Spittal          4-2 SAK
@@ -635,7 +628,7 @@ Wattens          1-0 FavAC
 Sankt Pölten     1-7 Linz              [originally abandoned because of
                                         floodlight failure at 1-3 in 63']
 
-Round 8
+▪ Round 8 ▪
 Linz             4-0 Vienna
 FavAC            1-1 Gerasdorf
 SAK              1-1 Mödling
@@ -645,7 +638,7 @@ Austria Lustenau 2-1 Wattens
 Kufstein         2-1 Spittal
 Klingenbach      1-1 Flavia Solva
 
-Round 9
+▪ Round 9 ▪
 DSV              2-0 FavAC
 Flavia Solva     0-0 Braunau
 Oberwart         0-1 Linz
@@ -655,7 +648,7 @@ Mödling          1-2 Kufstein
 Spittal          1-1 Sankt Pölten
 Gerasdorf        1-1 Austria Lustenau
 
-Round 10
+▪ Round 10 ▪
 Linz             3-1 Klingenbach
 Sankt Pölten     1-2 Mödling
 Braunau          2-0 Vienna
@@ -665,7 +658,7 @@ Oberwart         1-1 Spittal
 FavAC            0-0 Flavia Solva
 SAK              0-3 Gerasdorf
 
-Round 11
+▪ Round 11 ▪
 Vienna           2-2 FavAC
 Mödling          5-0 Oberwart
 DSV              0-1 SAK
@@ -675,7 +668,7 @@ Flavia Solva     1-0 Austria Lustenau
 Wattens          3-1 Sankt Pöten
 Spittal          4-3 Linz
 
-Round 12
+▪ Round 12 ▪
 Linz             1-3 Braunau
 Spittal          3-0 Mödling
 FavAC            1-1 Klingenbach
@@ -685,7 +678,7 @@ Kufstein         2-2 DSV
 SAK              2-3 Flavia Solva
 Vienna           3-3 Austria Lustenau
 
-Round 13
+▪ Round 13 ▪
 Mödling          4-0 Linz
 Braunau          2-2 FavAC
 Wattens          0-0 Spittal
@@ -695,7 +688,7 @@ Klingenbach      0-0 Austria Lustenau
 Vienna           1-0 SAK
 Gerasdorf        2-0 Oberwart
 
-Round 14
+▪ Round 14 ▪
 Kufstein         2-2 Vienna
 Braunau          1-0 Austria Lustenau
 Sankt Pölten     1-2 Flavia Solva
@@ -705,7 +698,7 @@ Oberwart         0-1 DSV
 Spittal          1-2 Gerasdorf
 SAK              1-1 Klingenbach
 
-Round 15
+▪ Round 15 ▪
 DSV              1-2 Spittal
 Klingenbach      0-1 Kufstein
 Flavia Solva     0-0 Oberwart
@@ -715,7 +708,7 @@ Braunau          0-2 SAK
 FavAC            1-0 Austria Lustenau
 Wattens          2-0 Linz
 
-Round 16
+▪ Round 16 ▪
 Linz             1-0 Wattens
 Spittal          0-2 DSV
 Sankt Pölten     2-0 Vienna
@@ -725,7 +718,7 @@ Kufstein         2-0 Klingenbach
 Oberwart         1-1 Flavia Solva
 SAK              0-0 Braunau
 
-Round 17
+▪ Round 17 ▪
 Vienna           2-0 Oberwart
 Braunau          2-1 Kufstein
 Linz             1-0 Austria Lustenau
@@ -735,7 +728,7 @@ FavAC            2-1 SAK
 Gerasdorf        2-0 Wattens
 DSV              1-1 Mödling
 
-Round 18
+▪ Round 18 ▪
 Oberwart         4-1 Klingenbach
 Sankt Pölten     1-1 Braunau
 Gerasdorf        1-1 Linz
@@ -745,7 +738,7 @@ SAK              1-0 Austria Lustenau
 Wattens          1-1 DSV
 Mödling          0-1 Flavia Solva
 
-Round 19
+▪ Round 19 ▪
 Linz             3-1 SAK
 Braunau          2-0 Oberwart
 Austria Lustenau 2-1 Kufstein
@@ -755,7 +748,7 @@ Flavia Solva     0-2 Wattens
 DSV              2-2 Gerasdorf
 FavAC            0-0 Sankt Pölten
 
-Round 20
+▪ Round 20 ▪
 Wattens          0-0 Vienna
 Spittal          1-0 Braunau
 Oberwart         1-1 FavAC
@@ -765,7 +758,7 @@ Sankt Pölten     1-0 Austria Lustenau
 DSV              0-0 Linz
 Mödling          2-0 Klingenbach
 
-Round 21
+▪ Round 21 ▪
 FavAC            0-0 Spittal
 Flavia Solva     0-2 DSV
 Klingenbach      0-1 Wattens
@@ -775,7 +768,7 @@ Braunau          1-1 Mödling
 Austria Lustenau 1-2 Oberwart
 SAK              1-0 Sankt Pölten
 
-Round 22
+▪ Round 22 ▪
 Mödling          3-0 FavAC
 Sankt Pölten     0-1 Kufstein
 DSV              1-0 Vienna
@@ -785,7 +778,7 @@ Spittal          0-0 Austria Lustenau
 Wattens          0-0 Braunau
 Gerasdorf        0-1 Klingenbach
 
-Round 23
+▪ Round 23 ▪
 Linz             2-0 Sankt Pölten
 Braunau          1-2 Gerasdorf
 Vienna           2-1 Flavia Solva
@@ -795,7 +788,7 @@ Klingenbach      0-0 DSV
 Kufstein         0-2 Oberwart
 FavAC            1-1 Wattens
 
-Round 24
+▪ Round 24 ▪
 Vienna           1-3 Linz
 DSV              3-0 Braunau
 Gerasdorf        1-2 FavAC
@@ -805,7 +798,7 @@ Wattens          0-0 Austria Lustenau
 Spittal          0-2 Kufstein
 Oberwart         0-1 Sankt Pölten
 
-Round 25
+▪ Round 25 ▪
 FavAC            3-0 DSV
 Linz             2-1 Oberwart
 Sankt Pölten     1-0 Spittal
@@ -815,7 +808,7 @@ Braunau          2-2 Flavia Solva
 Klingenbach      2-3 Vienna
 Austria Lustenau 0-0 Gerasdorf
 
-Round 26
+▪ Round 26 ▪
 DSV              1-2 Austria Lustenau
 Spittal          3-2 Oberwart
 Wattens          0-2 Kufstein
@@ -825,7 +818,7 @@ Gerasdorf        4-1 SAK
 Klingenbach      1-2 Linz
 Flavia Solva     0-0 FavAC
 
-Round 27
+▪ Round 27 ▪
 Linz             3-0 Spittal
 Sankt Pölten     3-1 Wattens
 Braunau          4-1 Klingenbach
@@ -835,7 +828,7 @@ Oberwart         3-0 Mödling
 SAK              0-3 DSV
 FavAC            1-2 Vienna
 
-Round 28
+▪ Round 28 ▪
 Gerasdorf        6-1 Sankt Pölten
 DSV              4-0 Kufstein
 Wattens          1-1 Oberwart
@@ -845,7 +838,7 @@ Flavia Solva     1-1 SAK
 Mödling          4-0 Spittal
 Austria Lustenau 2-2 Vienna
 
-Round 29
+▪ Round 29 ▪
 Linz             5-0 Mödling
 Oberwart         0-4 Gerasdorf
 SAK              2-1 Vienna
@@ -855,7 +848,7 @@ Kufstein         3-0 Flavia Solva
 Sankt Pölten     2-3 DSV
 FavAC            2-0 Braunau
 
-Round 30
+▪ Round 30 ▪
 FavAC            1-2 Linz
 Austria Lustenau 1-1 Braunau
 Klingenbach      0-2 SAK
@@ -928,26 +921,8 @@ Zwettl          1-0 2-0 2-0 1-4 1-1 0-0 1-1 1-2 0-1 0-0 4-2 1-0 1-1 2-2 2-1 xxx
 
 NB: Sig-Adm 1-4 but awarded 3-0; WNe-Sig 10-0
 
-Final Table:
+<!-- $table1$ -->
 
- 1.SV Stockerau                 30 18  7  5  53-27 61  Promoted
------------------------------------------------------
- 2.ASK Kottingbrunn             30 16  9  5  75-35 57
- 3.SV Mattersburg               30 15  6  9  45-31 51
- 4.FC Waidhofen/Ybbs            30 13  9  8  42-30 48
- 5.Wiener Sportclub             30 12 11  7  44-21 47
- 6.EPSV Gmünd                   30 13  8  9  62-46 47
- 7.Baumgarten                   30 12  8 10  39-38 44
- 8.SC Himberg                   30  9 14  7  33-31 41
- 9.SV Schwechat                 30 11  8 11  34-35 41
-10.Bruck/Leitha                 30 10  9 11  36-41 39
-11.SV Horn                      30  8 13  9  39-35 37
-12.1. Wiener Neustädter SC      30  9  9 12  39-41 36
------------------------------------------------------
-13.Floridsdorfer AC             30  8  9 13  39-46 33  Relegated  (Wien)
-14.SC Zwettl                    30  6  9 15  26-50 27  Relegated  (Nöst.)
-15.SV Sigless                   30  7  6 17  29-69 27  Relegated  (Burg.)
-16.Admira/Landhaus              30  4  3 23  26-85 15  Relegated  (Wien)
 
 [winners promoted to 2. Bundesliga; bottom 4 relegated to their
  Landesliga because of the relegation of Oberwart and Klingenbach
@@ -977,28 +952,18 @@ Eintracht Wels  1-1 0-2 2-2 1-0 4-0 1-0 xxx 2-1
 Wolfsberger AC  1-0 1-3 0-2 0-0 3-1 2-2 2-3 xxx
                 1-0 0-0 4-0 1-0 1-0 3-2 4-2 xxx
 
-Final Table:
+<!-- $table2$ -->
 
- 1.TSV Hartberg                 28 16  6  6  41-21 54  Promoted
------------------------------------------------------
- 2.SK Eintracht Wels            28 16  5  7  52-32 53
- 3.Wolfsberger AC               28 14  6  8  43-28 48
- 4.ASK Voitsberg                28 14  4 10  51-38 46
- 5.Villacher SV                 28  9  6 13  34-42 33
- 6.LUV Graz                     28  8  5 15  31-46 29
- 7.SV Feldkirchen               28  7  5 16  30-50 26
------------------------------------------------------
- 8.SC Marchtrenk                28  6  7 15  16-41 25  Relegated (Oöst.)
 
-[winners promoted to 2. Bundesliga; one team relegated because
- of relegation of SAK from 2.Bundesliga]
+(winners promoted to 2. Bundesliga; one team relegated because
+ of relegation of SAK from 2.Bundesliga)
 
 [Promoted to 14-team RL Mitte: SV Gratkorn, TSV Pöllau, SV Leibnitz
  (all Steiermark), Austria Klagenfurt (Kärnten), Union SV Esternberg,
  Union Rohrbach/Berg, and Union Sankt Florian (all Oberösterreich).]
 
-[Note: LUV Graz have withdrawn from the Regionalliga Mitte for 1996/97;
- their place will be taken by SVG Bleiburg (2nd in the LL Kärnten).]
+(Note: LUV Graz have withdrawn from the Regionalliga Mitte for 1996/97;
+ their place will be taken by SVG Bleiburg (2nd in the LL Kärnten).)
 
 
 Regionalliga West
@@ -1016,17 +981,8 @@ Woergl          2-1 0-1 3-0 0-0 0-3 5-1 3-1 xxx
 
 NB: Woe-Puc 1-0 awarded 0-3
 
-Final Table:
+<!-- $table3$ -->
 
- 1.Schwarz-Weiss Bregenz        14  9  2  3  26-14 29  Promoted
------------------------------------------------------
- 2.SC Kundl                     14  7  4  3  29- 9 25
- 3.FC Puch                      14  7  3  4  20-14 24
- 4.FC Hard                      14  7  0  7  22-25 21
- 5.SPG Wörgl                    14  5  4  5  21-19 19
- 6.VfB Hohenems                 14  4  4  6  16-24 16
- 7.FC Salzburg                  14  3  6  5  18-23 15
- 8.Wacker Innsbruck             14  1  3 10  14-38  6
 
 [winners promoted to 2. Bundesliga;  the eight clubs
  earned their places in the fall season by finishing
@@ -1076,28 +1032,10 @@ Steinbrunn      2-4 1-3 0-0 4-0 2-0 2-1 0-2 0-0 2-1 0-0 1-3 2-0 4-0 xxx 1-1 3-0
 Tadten          2-0 1-0 5-3 3-1 0-3 4-1 2-3 2-0 3-1 5-0 2-0 6-1 3-0 0-0 xxx 0-0
 Trausdorf       2-0 0-1 1-1 4-2 2-0 0-1 1-2 3-0 3-0 0-1 1-1 0-0 3-0 0-3 1-1 xxx
 
-Final Table:
+<!-- $table4$ -->
 
- 1.SC Eisenstadt                30 22  4  4  72-20 70  Promoted
------------------------------------------------------
- 2.UFC Tadten                   30 16  8  6  57-30 56
- 3.UFC Purbach                  30 15  9  6  57-25 54
- 4.SV Sankt Margarethen         30 15  7  8  55-43 52
- 5.Trausdorf                    30 14  7  9  41-30 49
- 6.SC/ESV Parndorf              30 14  5 11  40-39 47
- 7.SV Rohrbach                  30 12  8 10  55-40 44
- 8.FC Deutschkreutz             30 12  6 12  45-48 42
- 9.ASV Steinbrunn               30 10 11  9  44-34 41
-10.ASK Hirm                     30 11  7 12  34-40 40
-11.USV Halbturn                 30 11  6 13  49-58 39
-12.SV Gols                      30 10  7 13  37-47 37
-13.ASK Kohfidisch               30  8  8 14  40-52 32
------------------------------------------------------
-14.Schlaining                   30  7  7 16  42-67 28  Relegated
-15.Pöttsching                   30  6  6 18  32-71 24  Relegated
-16.USV Rudersdorf               30  1  6 23  21-77  9  Relegated
 
-[winners promoted to Ostliga; bottom 3 relegated]
+(winners promoted to Ostliga; bottom 3 relegated)
 
 Down from Ostliga: SV Sigleß.  Promoted to Landesliga: Horitschon,
 Neuberg, and Zurndorf.
@@ -1126,31 +1064,13 @@ Ybbs            1-1 0-1 1-0 0-1 1-2 0-0 2-1 0-1 1-1 0-0 0-3 2-1 1-1 1-3 1-0 xxx
 
 Note: Neudoerfl-Tulln apparently awarded 0-3 (originally 1-0)
 
-Final Table:
+<!-- $table5$ -->
 
- 1.Untersiebenbrunn             30 22  6  2  65-14 72  Promoted
------------------------------------------------------
- 2.Sankt Peter/Au               30 17  7  6  55-28 58
- 3.Würmla                       30 15 10  5  57-30 55
- 4.Retz                         30 14  7  9  57-36 49
- 5.Wiener Neudorf               30 13  9  8  55-32 48
- 6.SCIATSV Tulln                30 12  7 11  40-47 43
- 7.Oed/Zeillern                 30 12  6 12  44-50 42
- 8.SC Neudörfl                  30 10  8 12  46-52 38
- 9.Gottsdorf                    30 10  7 13  48-63 37
-10.SC Amaliendorf               30  8 12 10  35-42 36
-11.Hochwolkersdorf              30  9  8 13  31-42 35  [*]
-12.Kremser SC                   30 10  5 15  39-55 35
-13.Langenrohr                   30  8 10 12  38-43 34
-14.ASK Ybbs                     30  8 10 12  27-41 34
------------------------------------------------------
-15.ASK Marienthal               30  9  4 17  36-54 31  Relegated
-16.SV Leobendorf                30  2  6 22  16-60 12  Relegated
 
 [*] Hochwolkersdorf voluntarily withdrew from the Landesliga after
     the season because of financial problems.
 
-[winners promoted to Ostliga; bottom 3 relegated]
+(winners promoted to Ostliga; bottom 3 relegated)
 
 Down from Ostliga: SC Zwettl.  Promoted to Landesliga: Hohenau,
 Oberndorf, and Schrems.
@@ -1179,26 +1099,8 @@ Wienerfeld      0-2 0-2 3-1 0-5 0-1 4-7 0-0 1-1 0-0 0-7 1-1 2-1 2-0 1-1 2-7 xxx
 
 Note: Wacker-LAC 0-3 awarded; Simmering-Wacker 3-0 awarded; Fortuna-Wacker 12-0.
 
-Final Table:
+<!-- $table6$ -->
 
- 1.SR Donaufeld                 30 18  7  5  74-34 61  Promoted
------------------------------------------------------
- 2.Hellas Kagran                30 19  4  7  71-35 61
- 3.Post SV                      30 14 10  6  50-38 52
- 4.Fortuna 05                   30 13  7 10  69-44 46
- 5.Wienerberg/Inzersdorf        30 14  4 12  52-42 46
- 6.Prater SV                    30 13  6 11  70-43 45
- 7.LAC Persil                   30 12  9  9  48-42 45
- 8.KDAG Phönix                  30 12  9  9  57-53 45  Merged with Helfort
- 9.Gaswerk                      30 13  4 13  54-49 43
-10.Simmering                    30 11  7 12  49-51 40
-11.Red Star                     30 11  5 14  49-53 38
-12.Wacker Wien                  30  8 11 11  41-57 35  Resigned end of season
-13.ÖMV Stadlau                  30  8 11 11  34-57 35
-14.Kaiserebersdorf              30  9  5 16  42-62 32
------------------------------------------------------
-15.Wienerfeld                   30  5  9 16  35-74 24  Relegated
-16.Austria XIII                 30  4  4 22  31-92 16  Relegated
 
 [winners promoted to Ostliga; 3 teams relegated because of relegation
 of Admira/Landhaus and FAC from Ostliga; promoted from Unterliga:
@@ -1231,30 +1133,12 @@ St Veit         0-1 1-2 0-0 2-0 1-2 5-0 2-1 0-1 0-1 2-0 1-1 0-0 0-0 xxx 5-0 4-1
 Wietersdorf     1-1 1-2 0-0 3-1 3-1 1-1 2-0 1-3 2-0 2-1 2-3 2-0 1-1 0-1 xxx 0-0
 ATSV Wolfsberg  0-0 0-3 2-2 1-1 0-0 1-6 1-1 1-7 0-2 1-2 1-4 3-1 1-1 3-0 1-1 xxx
 
-Final Table:
+<!-- $table7$ -->
 
- 1.Austria Klagenfurt           30 21  7  2  61-12 70  Promoted
- 2.SVG Bleiburg                 30 14  9  7  62-33 51  Promoted
------------------------------------------------------
- 3.Sankt Michael/Lavanttal      30 14  9  7  42-23 51
- 4.Friesacher AC                30 13 11  6  59-36 50
- 5.Nussdorf-Debant              30 13  7 10  35-31 46
- 6.FC Sankt Veit/Glan           30 12  9  9  44-29 45
- 7.FC Mölltal                   30 12  7 11  42-26 43
- 8.SK Treibach                  30  9 12  9  33-33 39
- 9.SV Rapid Lienz               30  9 12  9  50-51 39
-10.SC Ebental                   30  8 11 11  36-43 35
-11.Wietersdorf                  30  8 10 12  34-45 34
-12.SV Lendorf                   30  6 15  9  27-37 33
-13.TS Union Matrei              30  7 12 11  36-53 33
-14.SV Maria Gail                30  6 13 11  24-45 31
-15.ATSV Wolfsberg               30  5 11 14  37-62 26
------------------------------------------------------
-16.ATUS Ferlach                 30  1  9 20  16-79 12  Relegated
 
 [winner promoted to RL Mitte; Bleiburg earned promotion because LUV
  Graz withdrew from the RL Mitte; 1 team relegated]
-[promoted to LL: Völkermarkt (from 2.LL Ost)]
+(promoted to LL: Völkermarkt (from 2.LL Ost))
 
 
 Landesliga Oberösterreich
@@ -1278,26 +1162,10 @@ Voecklamarkt    1-2 1-1 1-0 2-0 0-0 0-2 1-2 0-3 1-3 0-0 0-0 0-0 1-1 xxx
 
 NB: Magdalena-Sattledt 0-3 awd (orig 2-2)
 
-Final Table:
+<!-- $table8$ -->
 
- 1.Union SV Esternberg          26 15  6  5  46-22 51  Promoted
- 2.Union Rohrbach/Berg          26 14  7  5  47-23 49  Promoted
- 3.Union Sankt Florian          26 14  6  6  49-21 48  Promoted
------------------------------------------------------
- 4.SV Grieskirchen              26 13  5  8  49-31 44
- 5.ATSV Lenzing                 26 10 10  6  34-31 40
- 6.SK Sankt Magdalena           26 10  7  9  46-41 37
- 7.ATSV Sattledt                26 10  6 10  37-36 36
- 8.ASKÖ Donau Linz              26  8 11  7  45-36 35
- 9.SK Altheim                   26  8  8 10  38-48 32
-10.SV Austria Tabak             26  8  7 11  29-33 31
-11.SV Traun                     26  7  6 13  37-58 27
-12.Union Vöcklamarkt            26  5  9 12  21-37 24
-13.SK Schärding                 26  4  9 13  20-40 21
------------------------------------------------------
-14.SK Amateure Steyr            26  5  5 16  21-62 20  Relegated
 
-[top-3 promoted to RL Mitte; 1 team relegated]
+(top-3 promoted to RL Mitte; 1 team relegated)
 
 [First relegation of Amateure after 76 years.  Promoted to 1.Landesliga:
 Micheldorf, Gmunden, and Bad Schallerbach.  Relegated from RL Mitte:
@@ -1329,28 +1197,10 @@ Zeltweg         2-1 1-1 1-2 2-0 3-0 3-0 2-0 0-1 2-2 3-1 1-0 2-1 2-2 3-0 1-0 xxx
 
 NB: Poellau-Knittelfeld 3-0 awd (was 1-0).
 
-Final Table:
+<!-- $table9$ -->
 
- 1.SV Gratkorn                  30 20 10  0  54-20 70  Promoted
- 2.TSV Pöllau                   30 20  6  4  54-27 66  Promoted
- 3.SV Leibnitz                  30 18  9  3  68-21 63  Promoted
------------------------------------------------------
- 4.Zeltweg                      30 19  4  7  54-23 61
- 5.Kapfenberger SV              30 17  9  4  65-34 60
- 6.Rottenmann                   30 11  8 11  35-34 41
- 7.ESK Graz                     30 11  7 12  38-36 40
- 8.SV Kindberg                  30 10 10 10  35-33 40
- 9.Deutschlandsberg             30  9  8 13  43-57 35
-10.SC Fürstenfeld               30  9  5 16  30-44 32
-11.SV Feldbach                  30  9  3 18  41-54 30
-12.Breitenfeld                  30  7  9 14  41-65 30
-13.Köflach                      30  6  8 16  30-52 26
-14.Bärnbach                     30  6  7 17  26-45 25
-15.AE/RS Knittelfeld            30  6  6 18  25-52 24
------------------------------------------------------
-16.SV Eibiswald                 30  4  7 19  33-75 19  Relegated
 
-[top-3 promoted to RL Mitte; 1 team will be relegated]
+(top-3 promoted to RL Mitte; 1 team will be relegated)
 
 [Promoted: SC Anger (Oberliga Süd-Ost), SC Bruck/Mur (Oberliga Nord), and
  SV Großklein (Oberliga Mitte-West).]
@@ -1381,9 +1231,8 @@ Table at winter break:
 
 [Puch and Salzburg to Westliga in spring season]
 
-Final Table:
+<!-- $table10$ -->
 
-With thanks to Peter Schmitzberger.
 
  1.Salzburger AK                32 17  6  9  64-46 57
  2.FC Zell/See                  32 16  7  9  62-46 55
@@ -1456,9 +1305,8 @@ Table at winter break:
 
 [Hard, SW Bregenz and Hohenems to Westliga in spring season]
 
-Final Table:
+<!-- $table11$ -->
 
-Thanks to Wolfgang Lorber.
 
  1.FC Lustenau                  30 17  8  5  51-32 43 (17)
  2.SC Rheindorf Altach          30 16  4 10  72-44 39 (14)
@@ -1469,7 +1317,7 @@ Thanks to Wolfgang Lorber.
  6.FC Dornbirn                  30  4  1 25  25-76 12 ( 2)
  7.Viktoria Bregenz             30  2  4 24  21-84  8 ( 3)
 
-[First three promoted to extended Westliga 1996/97]
+(First three promoted to extended Westliga 1996/97)
 
 [RW Rankweil renounced the place in the Westliga after a massive
  walk-out due to financial problems; instead Lauterach obtained
@@ -2029,38 +1877,12 @@ their second team) The league is extended to 16 teams
 6th Level
 
 Landesliga Ost
-Final Table
+<!-- $table12$ -->
 
- 1.SV Thiersee              22  13  5  4  57-27 44
---------------------------------------------------
- 2.SK St.Johann             22  10  6  6  48-26 36
- 3.SV Angerberg             21  10  6  5  47-35 36
- 4.SK Fieberbrunn           22   9  6  7  48-29 33
- 5.FC Kufstein Amateure     22   9  6  7  33-30 33
- 6.SV Kolsaß/Weer           22   9  5  8  37-40 32
- 7.SK Ebbs                  22   9  3 10  47-40 30
- 8.SV Niederndorf           22   7  6  9  25-41 27
- 9.SVg Mayrhofen            21   7  5  9  30-40 26
-10.SV Hopfgarten            22   6  6 10  40-46 24
-11.SV Westendorf            22   6  4 12  31-47 22
-12.SV Brixen im Thale       22   5  4 13  29-71 19
 
 Landesliga West
-Final Table
+<!-- $table13$ -->
 
- 1.SV Kematen               22  20  0  2  57-16 60
---------------------------------------------------
- 2.SV Umhausen              22  19  2  1  54-11 59
- 3.SV Zams                  22  13  1  8  50-24 40
- 4.SV Götzens               22  11  2  9  54-34 35
- 5.SV Matrei am Brenner     22   9  4  9  38-44 31
- 6.SPG Silz/Mötz            22   9  1 12  42-39 28
- 7.SK Zirl                  22   7  6  9  34-41 27
- 8.SV Oberperfuß            22   7  1 14  27-45 22
- 9.SC Steinach              22   5  6 11  28-51 21
-10.SC Mils                  22   6  2 14  36-53 20
-11.SV Neustift              22   5  5 12  34-57 20
-12.Union Innsbruck-West     22   5  2 15  29-68 17
 
 Promoted: SK Hippach, SV Aldrans
 Relegated: FC Kitzbühel, SV Volders, IAC, SV Landeck
@@ -2069,39 +1891,12 @@ Both leagues are extended to 14 teams
 7th Level
 
 Gebietsliga Ost
-Final Table
+<!-- $table14$ -->
 
- 1.SK Hippach               22  14  5  3  53-29 47
---------------------------------------------------
- 2.FC Vomp                  22  13  7  2  48-20 46
- 3.SV Breitenbach           22  11  2  9  40-32 35
- 4.FC Buch                  22   8  9  5  48-37 33
- 5.SV Walchsee              22   9  3 10  34-30 30
- 6.SV Kirchdorf             22   8  4 10  25-35 28
- 7.SVg Stumm                22   6  9  7  37-36 27
- 8.FC St.Ulrich             22   8  3 11  33-48 27
- 9.FC Bruckhäusl            22   6  8  8  41-44 26
-10.SR Oberlangkampfen       22   7  4 11  39-56 25
-11.FC Finkenberg            22   5  7 10  33-42 22
-12.SV Weerberg              22   3  7 12  30-52 16
 
 Gebietsliga West
-Final Table
+<!-- $table15$ -->
 
- 1.SV Aldrans               22  15  3  4  65-30 48
---------------------------------------------------
- 2.SV Längenfeld            22  14  1  7  42-27 43
- 3.FC Prutz                 22  14  0  8  48-33 42
- 4.SV Thaur                 22  12  5  5  39-26 41
- 5.SV Fritzens              22  11  2  9  43-35 35
- 6.SV Absam                 22   9  7  6  54-33 34
- 7.SK Seefeld               22   9  5  8  47-53 32
- 8.SPG Wilten/Austria       22   8  5  9  34-42 29
- 9.SV Reutte                22   7  4 11  35-48 25
-10.SK Rietz                 22   7  3 12  43-54 24
-11.ESV Hatting              22   5  4 14  35-57 19
---------------------------------------------------
-12.FC Grinzens              22   1  1 20  22-69  4
 
 Promoted: FC Aschau im Zillertal, SV Rinn, TS Stams
 No Relegation from Landesliga
@@ -2109,56 +1904,16 @@ No Relegation from Landesliga
 8th Level
 
 1.Klasse Ost
-Final Table
+<!-- $table16$ -->
 
- 1.FC Aschau im Zillertal   22  17  2  3  69-29 53
---------------------------------------------------
- 2.SV Bad Häring            22  14  4  4  84-33 46
- 3.FC Söll                  22  13  3  6  85-31 42
- 4.SV Ried/Kaltenbach       22  12  5  5  52-31 41
- 5.SV Langkampfen           22  12  4  6  59-33 40
- 6.FC Kössen                22  12  3  7  69-50 39
- 7.SV Uderns                22   9  4  9  41-40 31
- 8.SK Waidring              22   8  3 11  51-68 27
- 9.SV Schlitters            22   7  2 13  48-74 23
-10.SV Schwoich              22   6  2 14  42-62 20
-11.FC Wildschönau           22   3  1 18  21-84 10
---------------------------------------------------
-12.FC Tux                   22   2  1 19  20-106 7
 
 1.Klasse Mitte
-Final Table
+<!-- $table17$ -->
 
- 1.SV Rinn                  22  15  3  4  64-25 48
---------------------------------------------------
- 2.FC Wacker Alpbach        22  15  2  5  59-37 47
- 3.FC Kramsach              22  12  6  4  55-25 42
- 4.SV Natters               22  10  2 10  51-61 32
- 5.SV Völs                  22   8  7  7  35-31 31
- 6.WSG Wattens Amateure     22   9  2 11  62-52 29
- 7.FC Sellraintal           22   9  2 11  42-49 29
- 8.FC Schönberg             22   8  4 10  27-36 28
- 9.FC Gries am Brenner      22   8  3 11  45-50 27
-10.Brixlegg/Rattenberg II   22   6  5 11  53-58 23
-11.SV Stans                 22   7  2 13  51-68 23
-12.FC Navis                 22   4  4 14  31-87 16
 
 1.Klasse West
-Final Table
+<!-- $table18$ -->
 
- 1.TS Stams                 22  19  3  0  89-18 60
---------------------------------------------------
- 2.SPG Union Sölden         22  12  3  7  69-45 39
- 3.TSU Tarrenz              22  11  5  6  72-47 38
- 4.SK Schönwies             22  12  2  8  42-30 38
- 5.TSU Roppen               22  11  5  6  44-34 38
- 6.FC Flaurling/Polling     22  10  5  7  36-39 35
- 7.USV Ötz                  22  10  3  9  59-41 33
- 8.SV Karres                22   6  6 10  39-55 24
- 9.FC Oberhofen             22   5  5 12  35-52 20
-10.FC Lechaschau            22   5  3 14  26-58 18
-11.SPG Obsteig/Mieming      22   4  3 15  33-76 15
-12.SC Serfaus               22   4  3 15  22-71 15
 
 Promoted: SV Wörgl II, SV Lohbach/Kranebitten, FC Fließ
 Relegated: FC Grinzens (because of worst points in Gebietsliga)
@@ -2166,55 +1921,16 @@ Relegated: FC Grinzens (because of worst points in Gebietsliga)
 9th Level
 
 2.Klasse Ost
-Final Table
+<!-- $table19$ -->
 
- 1.SV Wörgl II              22  19  3  0  96-18 60
---------------------------------------------------
- 2.SVg Erl                  22  14  2  6  57-35 44
- 3.SV Radfeld               22  12  5  5  47-48 41
- 4.USC Itter                22  10  5  7  53-40 35
- 5.SV Kirchbichl II         22   8  7  7  37-42 31
- 6.FC Hochfilzen            22   8  5  9  42-42 29
- 7.SC Going                 22   8  3 11  47-45 27
- 8.FC Reith bei Kitzbühel   22   7  3 12  37-45 24
- 9.FC Oberndorf             22   7  1 14  41-64 22
-10.SK Kirchberg             22   6  3 12  25-40 21
-11.SC Ellmau                22   6  3 12  34-61 21
-12.FC Kitzbühel II          22   4  4 14  26-62 16
 
 2.Klasse Mitte
-Final Table
+<!-- $table20$ -->
 
- 1.SV Lohbach/Kranebitten   22  19  1  2  88:27 58
---------------------------------------------------
- 2.FC Veldidena             22  16  1  5  75:30 49
- 3.SV Tulfes                22  13  3  6  68:42 42
- 4.SPG Patsch/Ellbögen      22  13  2  7  57:38 41
- 5.SV Scharnitz             22  11  3  8  63:61 36
- 6.SC Münster               22   9  3  9  48:35 30
- 7.SC Gnadenwald            22   9  2 11  48:60 29
- 8.SV Volders II            22   8  1 12  39:53 25
- 9.SV Achenkirch            22   8  1 13  38:66 25
-10.FC Achensee              22   5  4 13  42:66 19
-11.SV Schmirn               22   5  1 16  34:79 16
-12.SV Fügen II              22   3  2 17  37:78 11
 
 2.Klasse West
-Final Table
+<!-- $table21$ -->
 
- 1.FC Fließ                 22  15  3  4  64-21 48
---------------------------------------------------
- 2.FC Stanzach              22  13  4  5  48-35 43
- 3.SV Elbigenalp            22  12  4  6  49-32 40
- 4.SV Pfunds                22  12  4  6  52-38 40
- 5.SV Ried im Oberinntal    22  12  3  7  49-31 39
- 6.FC Ehrwald               22  10  5  7  43-42 35
- 7.TS Nassereith            22   8  4 10  39-39 28
- 8.TSV Inzing               22   7  6  9  42-43 27
- 9.FC Pettneu               22   7  4 11  47-50 25
-10.SV Arzl im Pitztal       22   5  5 12  41-53 20
-11.SK Sautens               22   6  2 14  33-62 20
-12.FC St.Anton              22   1  4 17  22-83  7
 
 Dissolved teams: FC Kitzbühel II, SV Fügen II, SV Volders II, SV
 Tulfes FC Achensee and SV Achenkirch merge to SPG Achensee Relegated:
@@ -2438,23 +2154,10 @@ Eighth Level
 
 
 
-<!-- end pre -->
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-== About this document  ‹§about›
-
-Prepared and maintained by Ambrosius Kutschera
-and Karel Stokkermans
-for the ‹Rec.Sport.Soccer Statistics Foundation›
 
 
-Authors: Ambrosius Kutschera
-and Karel Stokkermans
-Last updated: 31 Oct 2004
 
 
-(C) Copyright Ambrosius Kutschera,
-Karel Stokkermans and RSSSF 1999/2004
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.
+
+<!-- $about$ -->
+

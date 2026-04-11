@@ -6,7 +6,6 @@
 
 == Austria 1982/83
 
-<!-- start pre -->
 1.Division
 ----------
 
@@ -30,48 +29,48 @@ Table:
 15.First Vienna FC           30   7  5 18  25-61   19
 16.1.Simmeringer SC          30   2  7 21  20-62   11
 
-Round 1
-[Aug 20]
+▪ Round 1 ▪
+_ Aug 20 _
 GAK      0-0 Simmering
 Eisenstadt    3-1 LASK
 VOEST      0-0 Neusiedl
-[Aug 21]
+_ Aug 21 _
 Admira/Wacker    4-0 Sturm
 Klagenfurt    1-3 Rapid
 Wels      3-1 Vienna
 Sportclub    1-1 Austria Salzburg
 Austria Wien    6-1 Innsbruck
 
-Round 2
-[Aug 27]
+▪ Round 2 ▪
+_ Aug 27 _
 LASK      1-1 Klagenfurt
 Rapid      0-0 Austria Wien
 Austria Salzburg 3-0 Admira/Wacker
-[Aug 28]
+_ Aug 28 _
 Simmering    0-2 Sturm
 GAK      1-0 Wels
 Neusiedl    2-1 Sportclub
 Vienna      0-0 Eisenstadt
 Innsbruck    3-1 VOEST
 
-Round 3
-[Sep 3]
+▪ Round 3 ▪
+_ Sep 3 _
 Admira/Wacker    1-0 Neusiedl
 Klagenfurt    2-1 Vienna
 Eisenstadt    1-0 GAK
-[Sep 4]
+_ Sep 4 _
 Sturm      4-1 Austria Salzburg
 Wels      1-1 Simmering
 VOEST      0-3 Rapid
 Sportclub    2-1 Innsbruck
-[Sep 5]
+_ Sep 5 _
 Austria Wien    1-0 LASK
 
-Round 4
-[Sep 10]
+▪ Round 4 ▪
+_ Sep 10 _
 LASK      4-0 VOEST
 Rapid      5-1 Sportclub
-[Sep 11]
+_ Sep 11 _
 Simmering    1-0 Austria Salzburg
 GAK      2-4 Klagenfurt
 Neusiedl    0-4 Sturm
@@ -79,97 +78,97 @@ Wels      0-0 Eisenstadt
 Vienna      1-3 Austria Wien
 Innsbruck    0-0 Admira/Wacker
 
-Round 5
-[Sep 17]
+▪ Round 5 ▪
+_ Sep 17 _
 Klagenfurt    2-0 Wels
 Eisenstadt    3-1 Simmering
 Austria Salzburg 3-0 Neusiedl
 VOEST      3-1 Vienna
-[Sep 18]
+_ Sep 18 _
 Admira/Wacker    0-0 Rapid
 Sturm      1-1 Innsbruck
 Sportclub    2-1 LASK
-[Sep 19]
+_ Sep 19 _
 Austria Wien    1-0 GAK
 
-Round 6
-[Sep 24]
+▪ Round 6 ▪
+_ Sep 24 _
 GAK      1-0 VOEST
 LASK      3-0 Admira/Wacker
 Vienna      2-1 Sportclub
-[Sep 25]
+_ Sep 25 _
 Simmering    1-0 Neusiedl
 Rapid      2-1 Sturm
 Eisenstadt    2-3 Klagenfurt
 Wels      1-2 Austria Wien
 Innsbruck    3-1 Austria Salzburg
 
-Round 7
-[Oct 1]
+▪ Round 7 ▪
+_ Oct 1 _
 Admira/Wacker    3-0 Vienna
 Austria Salzburg 0-0 Rapid
 VOEST      3-0 Wels
-[Oct 2]
+_ Oct 2 _
 Klagenfurt    4-0 Simmering
 Austria Wien    2-2 Eisenstadt
 Neusiedl    1-1 Innsbruck
 Sturm      1-0 LASK
-[Oct 3]
+_ Oct 3 _
 Sportclub    7-1 GAK
 
-Round 8
-[Oct 8]
+▪ Round 8 ▪
+_ Oct 8 _
 GAK      3-2 Admira/Wacker
 Eisenstadt    0-0 VOEST
 Vienna      1-4 Sturm
-[Oct 9]
+_ Oct 9 _
 Klagenfurt    1-2 Austria Wien
 LASK      1-0 Austria Salzburg
 Rapid      4-0 Neusiedl
 Wels      2-0 Sportclub
-[Oct 10]
+_ Oct 10 _
 Simmering    1-2 Innsbruck
 
-Round 9
-[Oct 15]
+▪ Round 9 ▪
+_ Oct 15 _
 Admira/Wacker    4-2 Wels
 Austria Salzburg 1-0 Vienna
-[Oct 16]
+_ Oct 16 _
 Neusiedl    2-2 LASK
 Sturm      1-0 GAK
 VOEST      3-1 Klagenfurt
 Innsbruck    2-2 Rapid
 Sportclub    2-5 Eisenstadt
-[Oct 17]
+_ Oct 17 _
 Austria Wien    2-2 Simmering
 
-Round 10
-[Oct 22]
+▪ Round 10 ▪
+_ Oct 22 _
 GAK      2-0 Austria Salzburg
 Eisenstadt    1-1 Admira/Wacker
-[Oct 23]
+_ Oct 23 _
 Simmering    1-4 Rapid
 Klagenfurt    5-0 Sportclub
 LASK      1-2 Innsbruck
 Wels      0-1 Sturm
 Vienna       2-1 Neusiedl
-[Oct 24]
+_ Oct 24 _
 Austria Wien    5-1 VOEST
 
-Round 11
-[Oct 29]
+▪ Round 11 ▪
+_ Oct 29 _
 Rapid      0-0 LASK
-[Oct 30]
+_ Oct 30 _
 Admira/Wacker    1-1 Klagenfurt
 Neusiedl    1-2 GAK
 Sturm      4-0 Eisenstadt
 Austria Salzburg 0-0 Wels
 VOEST      4-1 Simmering
 Innsbruck    3-0 Vienna
-[Oct 31]
+_ Oct 31 _
 Sportclub    2-1 Austria Wien
 
-Round 12 [Nov 6]
+▪ Round 12 ▪  Nov 6
 Simmering    1-1 LASK
 Klagenfurt    3-2 Sturm
 Austria Wien    4-1 Admira/Wacker
@@ -179,8 +178,8 @@ Wels      1-0 Neusiedl
 Vienna      0-3 Rapid
 VOEST      1-1 Sportclub
 
-Round 13
-[Nov 13]
+▪ Round 13 ▪
+_ Nov 13 _
 Admira/Wacker    1-1 VOEST
 LASK       2-0 Vienna
 Rapid      2-0 GAK
@@ -188,23 +187,23 @@ Neusiedl    1-3 Eisenstadt
 Sturm      0-1 Austria Wien
 Austria Salzburg 2-1 Klagenfurt
 Innsbruck    4-0 Wels
-[Nov 14]
+_ Nov 14 _
 Sportclub    4-1 Simmering
 
-Round 14
-[Nov 19]
+▪ Round 14 ▪
+_ Nov 19 _
 VOEST      2-1 Sturm
-[Nov 20]
+_ Nov 20 _
 Simmering    1-1 Vienna
 Klagenfurt    0-0 Neusiedl
 GAK      5-2 LASK
 Eisenstadt    3-3 Innsbruck
 Wels      0-3 Rapid
 Sportclub    3-2 Admira/Wacker
-[Nov 21]
+_ Nov 21 _
 Austria Wien    0-1 Austria Salzburg
 
-Round 15 [Nov 27]
+▪ Round 15 ▪  Nov 27
 Admira/Wacker    3-1 Simmering
 LASK      2-0 Wels
 Rapid      5-1 Eisenstadt
@@ -214,8 +213,8 @@ Austria Salzburg 1-1 VOEST
 Vienna      0-1 GAK
 Innsbruck    4-1 Klagenfurt
 
-Round 16
-[Mar 19]
+▪ Round 16 ▪
+_ Mar 19 _
 Simmering    0-1 GAK
 LASK      2-3 Eisenstadt
 Rapid      2-2 Klagenfurt
@@ -223,27 +222,27 @@ Neusiedl    3-1 VOEST
 Sturm      4-1 Admira/Wacker
 Austria Salzburg 5-0 Sportclub
 Innsbruck    1-1 Austria Wien
-[Mar 20]
+_ Mar 20 _
 Vienna      2-1 Wels
 
-Round 17
-[Mar 25]
+▪ Round 17 ▪
+_ Mar 25 _
 Admira/Wacker    1-0 Austria Salzburg
 Eisenstadt    0-0 Vienna
 VOEST      2-0 Innsbruck
-[Mar 26]
+_ Mar 26 _
 Klagenfurt    3-1 LASK
 Sturm      1-0 Simmering
 Wels      1-1 GAK
-[Mar 27]
+_ Mar 27 _
 Sportclub    0-0 Neusiedl
-[May 12]
+_ May 12 _
 Austria Wien    0-3 Rapid     [original match (Mar 26, 0-1) replayed;
                                          Rapid used ineligible player Weinhofer]
-Round 18
-[Apr 1]
+▪ Round 18 ▪
+_ Apr 1 _
 Austria Salzburg 2-0 Sturm
-[Apr 2]
+_ Apr 2 _
 Simmering    0-0 Wels
 GAK       0-2 Eisenstadt
 LASK      1-5 Austria Wien
@@ -252,23 +251,23 @@ Neusiedl    1-1 Admira/Wacker
 Vienna      3-0 Klagenfurt
 Innsbruck    3-0 Sportclub
 
-Round 19
-[Apr 8]
+▪ Round 19 ▪
+_ Apr 8 _
 Klagenfurt    2-0 GAK
 Eisenstadt    2-2 Wels
 Sturm       1-0 Neusiedl
 VOEST      2-0 LASK
-[Apr 9]
+_ Apr 9 _
 Admira/Wacker    2-2 Innsbruck
 Austria Salzburg 3-0 Simmering
 Sportclub    0-4 Rapid
-[Apr 10]
+_ Apr 10 _
 Austria Wien    5-1 Vienna
 
-Round 20
-[Apr 15]
+▪ Round 20 ▪
+_ Apr 15 _
 LASK      2-1 Sportclub
-[Apr 16]
+_ Apr 16 _
 Simmering    2-3 Eisenstadt
 GAK      3-0 Austria Wien
 Rapid      2-0 Admira/Wacker
@@ -277,24 +276,24 @@ Wels      3-0 Klagenfurt
 Vienna      1-0 VOEST
 Innsbruck    3-1 Sturm
 
-Round 21
-[Apr 22]
+▪ Round 21 ▪
+_ Apr 22 _
 VOEST      1-1 GAK
-[Apr 23]
+_ Apr 23 _
 Admira/Wacker    3-0 LASK
 Klagenfurt    0-0 Eisenstadt
 Neusiedl    4-1 Simmering
 Sturm      0-0 Rapid
 Austria Salzburg 1-0 Innsbruck
 Sportclub    4-3 Vienna
-[Apr 24]
+_ Apr 24 _
 Austria Wien    4-0 Wels
 
-Round 22
-[Apr 29]
+▪ Round 22 ▪
+_ Apr 29 _
 GAK      0-0 Sportclub
 LASK      0-0 Sturm
-[Apr 30]
+_ Apr 30 _
 Simmering    0-1 Klagenfurt
 Rapid      5-2 Austria Salzburg
 Eisenstadt    0-1 Austria Wien
@@ -302,11 +301,11 @@ Wels      1-1 VOEST
 Vienna      1-0 Admira/Wacker
 Innsbruck    3-0 Neusiedl
 
-Round 23
-[May 6]
+▪ Round 23 ▪
+_ May 6 _
 Austria Wien    1-0 Klagenfurt
 Austria Salzburg 4-1 LASK
-[May 7]
+_ May 7 _
 Admira/Wacker    0-0 GAK
 Neusiedl    2-1 Rapid
 Sturm       2-1 Vienna
@@ -314,36 +313,36 @@ VOEST      1-1 Eisenstadt
 Innsbruck    1-0 Simmering
 Sportclub    3-0 Wels
 
-Round 24
-[May 13]
+▪ Round 24 ▪
+_ May 13 _
 Klagenfurt    1-3 VOEST
 LASK      2-0 Neusiedl
-[May 14]
+_ May 14 _
 GAK      2-1 Sturm
 Eisenstadt    1-2 Sportclub
 Wels      3-0 Admira/Wacker
 Vienna      1-1 Austria Salzburg
-[May 15]
+_ May 15 _
 Simmering    0-4 Austria Wien
 Rapid      1-1 Innsbruck
 
-Round 25
-[May 20]
+▪ Round 25 ▪
+_ May 20 _
 Rapid      3-0 Simmering
 Sturm      3-1 Wels
 Austria Salzburg 2-0 GAK
-[May 21]
+_ May 21 _
 Admira/Wacker    1-1 Eisenstadt
 Neusiedl    4-0 Vienna
 VOEST      1-3 Austria Wien
 Innsbruck    1-1 LASK
 Sportclub    2-2 Klagenfurt
 
-Round 26
-[May 27]
+▪ Round 26 ▪
+_ May 27 _
 Austria Wien    3-1 Sportclub
 Wels      0-1 Austria Salzburg
-[May 28]
+_ May 28 _
 Simmering    0-1 VOEST
 Klagenfurt    2-1 Admira/Wacker
 GAK      2-1 Neusiedl
@@ -351,23 +350,23 @@ LASK      3-0 Rapid
 Eisenstadt    1-2 Sturm
 Vienna      0-4 Innsbruck
 
-Round 27
-[Jun 3]
+▪ Round 27 ▪
+_ Jun 3 _
 LASK      4-2 Simmering
 Rapid      2-1 Vienna
 Austria Salzburg 6-2 Eisenstadt
-[Jun 4]
+_ Jun 4 _
 Admira/Wacker    1-4 Austria Wien
 Neusiedl    1-0 Wels
 Sturm      3-1 Klagenfurt
 Innsbruck    2-2 GAK
 Sportclub    0-2 VOEST
 
-Round 28
-[Jun 10]
+▪ Round 28 ▪
+_ Jun 10 _
 Simmering    0-2 Sportclub
 VOEST      3-2 Admira/Wacker
-[Jun 11]
+_ Jun 11 _
 Klagenfurt    5-2 Austria Salzburg
 Austria Wien    4-2 Sturm
 GAK      0-4 Rapid
@@ -375,11 +374,11 @@ Eisenstadt    1-1 Neusiedl
 Wels      2-2 Innsbruck
 Vienna      1-0 LASK
 
-Round 29
-[Jun 17]
+▪ Round 29 ▪
+_ Jun 17 _
 Admira/Wacker    3-0 Sportclub
 LASK      3-3 GAK
-[Jun 18]
+_ Jun 18 _
 Rapid      1-0 Wels
 Neusiedl    4-0 Klagenfurt
 Sturm      2-0 VOEST
@@ -387,11 +386,11 @@ Austria Salzburg 0-2 Austria Wien
 Vienna      0-0 Simmering
 Innsbruck    1-0 Eisenstadt
 
-Round 30
-[Jun 24]
+▪ Round 30 ▪
+_ Jun 24 _
 Simmering    2-3 Admira/Wacker
 Klagenfurt    3-1 Innsbruck
-[Jun 25]
+_ Jun 25 _
 Austria Wien    8-0 Neusiedl
 GAK      7-0 Vienna
 Eisenstadt    0-4 Rapid
@@ -419,17 +418,8 @@ Table:
 15.First Vienna FC           30   7  5 18  25-61   19
 16.1.Simmeringer SC          30   2  7 21  20-62   11
 
-Topscorers:
- 1.Johann Krankl (Rapid)    23
- 2.Bozo Bakota (Sturm)      19
- 3.Gerald Haider (VOEST)    18
-   Gerd Steinkogler (Austria)    18
- 5.Peter Pacult (Sportclub)    16
- 6.Richard Niederbacher (Sturm)        15
-   Antonin Panenka (Rapid)    15
- 8.Felix Gasselich (Austria)    14
-   Alfred Roscher (Innsbruck)           14
-10.Erwin Schneider (Eisenstadt)    10
+<!-- $topscorers1$ -->
+
 
 2.Division
 
@@ -472,20 +462,10 @@ SK Kufstein (West)
 ‹list of foundation dates, see page oostfound›.
 
 
-<!-- end pre -->
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-== About this document  ‹§about›
-
-Prepared and maintained by Ambrosius Kutschera
-for the ‹Rec.Sport.Soccer Statistics Foundation›
 
 
-Author: Ambrosius Kutschera
-Last updated: 10 Oct 2004
 
 
-(C) Copyright Ambrosius Kutschera and RSSSF 2003/04
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.
+
+<!-- $about$ -->
+
