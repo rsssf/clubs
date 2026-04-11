@@ -6,29 +6,10 @@
 
 == Germany 1966/67
 
-<!-- start pre -->
 
 
-Final Table
+<!-- $table1$ -->
 
- 1. Eintracht Braunschweig       34 17  9  8  49- 27  43
- 2. TSV 1860 München             34 17  7 10  60- 47  41
- 3. Borussia Dortmund            34 15  9 10  70- 41  39
- 4. Eintracht Frankfurt          34 15  9 10  66- 49  39
- 5. 1. FC Kaiserslautern         34 13 12  9  43- 42  38
- 6. Bayern München               34 16  5 13  62- 47  37
- 7. 1. FC Köln                   34 14  9 11  48- 48  37
- 8. Borussia Mönchengladbach     34 12 10 12  70- 49  34
- 9. Hannover 96                  34 13  8 13  40- 46  34
-10. 1. FC Nürnberg               34 12 10 12  43- 50  34
-11. MSV Duisburg                 34 10 13 11  40- 42  33
-12. VfB Stuttgart                34 10 13 11  48- 54  33
-13. Karlsruher SC                34 11  9 14  54- 62  31
-14. Hamburger SV                 34 10 10 14  37- 53  30
-15. Schalke 04                   34 12  6 16  37- 63  30
-16. Werder Bremen                34 10  9 15  49- 56  29
-17. Rot-Weiß Essen               34  6 13 15  35- 53  25
-18. Fortuna Düsseldorf           34  9  7 18  44- 66  25
 
     Bra TSV Dor Fra Kai Bay Köl Mön Han Nür MSV VfB Kar  Sch Ham Wer For Rot
 Bra xxx 1-0 3-1 3-0 2-0 5-2 1-0 2-1 0-1 4-1 0-0 1-1 4-1  1-0 2-0 2-0 4-0 0-0
@@ -50,7 +31,7 @@ Wer 2-3 2-4 2-1 3-0 1-1 4-1 1-3 2-2 3-0 4-4 1-1 1-2 0-3  2-1 5-1 xxx 1-0 0-0
 For 1-1 0-1 0-5 2-4 3-1 0-0 1-3 2-2 1-0 2-2 1-5 3-3 1-0  3-1 2-2 0-1 xxx 2-0
 Rot 0-0 2-2 1-1 1-1 1-1 3-1 1-3 2-1 3-0 1-1 0-1 1-3 3-1  4-1 1-1 0-1 0-4 xxx
 
-Round 1 [Aug 20]
+▪ Round 1 ▪  Aug 20
 K'lautern  3-1 Karlsruher (Reitgaßl 2, Geisert 57, Rummel 81 - Zaczyk 47)
 1. FC Köln 2-0 TSV 1860   (Peter 26 o, Overath 27)
 Bayern     1-2 Frankfurt  (G.Müller 14 - Grabowski 53 p, Huberts 75)
@@ -62,7 +43,7 @@ Duisburg   2-0 Rot-Weiß   (van Haaren 30, Lotz 78)
 Schalke    0-0 M'gladbach
 Stuttgart  1-0 Nürnberg   (Peters 64)
 
-Round 2 [Aug 27]
+▪ Round 2 ▪  Aug 27
 Nürnberg   3-1 Duisburg   (Volkert 70, Hilpert 79, Strehl 86 - Rühl 67)
                           (sent off: Lotz (Duisburg, 62))
 M'gladbach 1-1 K'lautern  (Heynckes 8 - Braner 36)
@@ -74,7 +55,7 @@ Rot-Weiß   4-1 Schalke    (Hasebrink 65, 80, Weinberg 87, Borgmann 89)
 TSV 1860   2-1 B'schweig  (Küppers 27, Brunnenmeier 79 - Saborowski 63)
 Werder     1-2 Stuttgart  (Zebrowski 81 - Peters 4, Gress 31)
 
-Round 3 [Sep 3]
+▪ Round 3 ▪  Sep 3
 
 K'lautern  5-2 Rot-Weiß   (Rummel 34, 75, Koopenhöfer 43, Reitgaßl 45,
                           Kapitulski 47 - Lippens 23, Simmet 54)
@@ -88,10 +69,10 @@ Duisburg   1-0 Werder     (Rühl 89) [22 Heidemann (Duisburg) m/pen]
 Schalke    1-0 Nürnberg   (W.Kraus 43)
 Stuttgart  2-0 TSV 1860   (Entenmann 34, Peters 50)
 
-Round 4 [Sep 7]
+▪ Round 4 ▪  Sep 7
 Frankfurt  0-1 B'schweig  (Gerwien 68)
 
-[Sep 10]
+_ Sep 10 _
 Nürnberg   1-2 K'lautern  (Brungs 60 - L.Müller 81, Reitgaßl 85)
 1. FC Köln 3-1 Stuttgart  (Regh 3, Hemmersbach 46, Löhr 52 - Peters 85)
 Hannover   0-2 Fortuna    (Koch 50, 79)
@@ -103,7 +84,7 @@ Rot-Weiß   1-1 Hamburger  (Hasebrink 15 - B.Dörfel 71)
 TSV 1860   3-3 Duisburg   (Konietzka 34, 68, Rebele 35 - Krämer 5, Heidemann 7,
                           van Haaren 58)
 
-Round 5 [Sep 17]
+▪ Round 5 ▪  Sep 17
 K'lautern  2-0 Werder     (Geisert 50, Reitgaßl 57)
 Bayern     4-3 M'gladbach (Olk 15, Brenninger 39, G.Müller 63, 68 - Heynckes
                           31, Wimmer 41, Laumen 47)
@@ -116,7 +97,7 @@ Duisburg   1-0 1. FC Köln (Rühl 16)
 Schalke    1-0 TSV 1860   (W.Kraus 60)
 Stuttgart  1-2 B'schweig  (Köppel 66 - Ulsaß 78, Maas 79)
 
-Round 6 [Sep 24]
+▪ Round 6 ▪  Sep 24
 1. FC Köln 2-1 Schalke    (Hornig 31, Löhr 52 - Bechmann 54)
 Nürnberg   2-0 Dortmund   (Brungs 42, Volkert 48)
 M'gladbach 3-1 Fortuna    (Rupp 41, 48, Heynckes 84 - Gerhardt 29)
@@ -129,7 +110,7 @@ TSV 1860   3-0 K'lautern  (Brunnenmeier 11, 23, Kohlars 54)
 Werder     5-1 Hamburger  (Höttges 7 p, Zebrowski 8, Schütz 42, Schweghöfer 52,
                           Danielsen 63 - Kurbjuhn 55)
 
-Round 7 [Oct 1]
+▪ Round 7 ▪  Oct 1
 K'lautern  0-0 1. FC Köln
 Bayern     0-1 Nürnberg   (Greif 35)
 Hamburger  3-2 TSV 1860   (U.Seeler 21, Sandmann 65 p, G.Dörfel 86 -
@@ -141,7 +122,7 @@ Karlsruher 3-2 Frankfurt  (C.Müller 17, Zaczyk 29, 53 - Huberts 63, Solz 72)
 Duisburg   0-0 Stuttgart  [35 van Haaren (Duisburg) m/pen]
 Schalke    0-0 B'schweig
 
-Round 8 [Oct 8]
+▪ Round 8 ▪  Oct 8
 1. FC Köln 0-0 Hamburger
 M'gladbach 3-1 Karlsruher (Heynckes 18, Rupp 38, Laumen 45 - H.Wild 43 p)
 B'schweig  2-0 K'lautern  (Dulz 25, Maas 59)
@@ -157,7 +138,7 @@ Stuttgart  1-1 Schalke    (Köppel 14 - Neuser 51)
 Werder     4-1 Bayern     (Piontek 18, Ferner 28, Schweighöfer 74, Schütz 90 -
                           Ohlhauser 60)
 
-Round 9 [Oct 15]
+▪ Round 9 ▪  Oct 15
 K'lautern  3-3 Stuttgart  (Rummel 6, Reitgaßl 41, Rehhagel 44 p - Sieloff
                           56, 59, Peters 81)
 Dortmund   6-1 1. FC Köln (Emmerich 54, 71, 76, Wosab 13, 62, Held 26 -
@@ -170,7 +151,7 @@ Hannover   2-0 Nürnberg   (Gräber 20, Rodekamp 84)
 Karlsruher 0-1 Rot-Weiß   (Simmet 87)
 Schalke    2-1 Duisburg   (Herrmann 7, Klose 86 - Nolden 89 p)
 
-Round 10 [Oct 22]
+▪ Round 10 ▪  Oct 22
 1. FC Köln 2-4 Bayern     (Magnusson 19, Pott 68 - G.Müller 3, 89, Ohlhauser
                           32, 62)
 Nürnberg   2-2 Karlsruher (Hilpert 17, Brungs 62 - L.Müller 33 o,
@@ -184,21 +165,21 @@ TSV 1860   3-0 Fortuna    (Zeiser 28, Rebele 43, Küppers 89)
 Stuttgart  1-3 Hamburger  (Huttary 39 - U.Seeler 36, G.Dörfel 63, B.Dörfel 73)
 Werder     3-0 Hannover   (Görts 32, 86, Schütz 60)
 
-Round 11 [Oct 29]
+▪ Round 11 ▪  Oct 29
 Bayern     2-0 B'schweig  (G.Müller 43, Koulmann 80)
 Dortmund   1-1 Stuttgart  (Wosab 23 - Larsson 86)
                           (sent off: Libuda (Dortmund, 80))
 M'gladbach 2-0 Nürnberg   (Netzer 43, Laumen 65)
 K'lautern  1-0 Schalke    (Braner 13)
 Fortuna    1-3 1. FC Köln (Hoffer 61 - Magnusson 25, Hemmersbach 41, Löhr 79)
-                          [9 Biskup (Fortuna) m/pen, 87 Koch (Fortuna) m/pen]
+                          (9 Biskup (Fortuna) m/pen, 87 Koch (Fortuna) m/pen)
 Hamburger  0-0 Duisburg
 Hannover   2-2 TSV 1860   (Siemensmeyer 22, Bandura 71 - Bründl 34, Heiß 86)
 Karlsruher 4-4 Werder     (H.Wild 27 p, Zaczyk 75, Sekularic 79, C.Müller 83 -
                           Schütz 22, 44, 65, Görts 69)
 Rot-Weiß   1-1 Frankfurt  (Simmet 68 - Bronnert 62)
 
-Round 12 [Nov 5]
+▪ Round 12 ▪  Nov 5
 1. FC Köln 1-1 Hannover   (Flohe 22 - Straschitz 37)
 Nürnberg   1-1 Rot-Weiß   (Volkert 9 - Hasebrink 42)
 B'schweig  4-0 Fortuna    (Dulz 30, 66, Maas 50, Gerwien 60)
@@ -212,13 +193,13 @@ Stuttgart  2-4 Bayern     (Larsson 28, Sieloff 62 - Ohlhauser 37, 80,
                           Brenninger 3, 51)
 Werder     2-2 M'gladbach (Höttges 61 p, Piontek 70 - Netzer 30, Heynckes 55)
 
-Round 13 [Nov 12]
+▪ Round 13 ▪  Nov 12
 Nürnberg   0-1 Frankfurt  (Solz 64)
 Bayern     2-1 Duisburg   (Ohlhauser 25, G.Müller 28 - Lotz 34)
 Dortmund   6-2 Schalke    (Emmerich 15 p, 21, 27, Rausch 35 o, Wosab 45, Held
                           71 - Neuser 50, Bechmann 70)
 M'gladbach 2-3 TSV 1860   (Netzer 31 p, 47 - Grosser 43, 59, Küppers 66)
-                          [68 Netzer (M'gladbach) m/pen]
+                          (68 Netzer (M'gladbach) m/pen)
 Rot-Weiß   0-1 Werder     (Zebrowski 12)
 Fortuna    3-3 Stuttgart  (Gerhardt 5, 13, Schult 73 - Larsson 3,
                           Handschuh 47, 72)
@@ -227,7 +208,7 @@ Hannover   4-2 B'schweig  (Siemensmeyer 6, 23, Poulsen 40, Bandura 76 -
                           Ulsaß 18, Maas 75)
 Karlsruher 1-1 1. FC Köln (C.Müller 87 - Löhr 35)
 
-Round 14 [Nov 26]
+▪ Round 14 ▪  Nov 26
 B'schweig  4-1 Karlsruher (Maas 50, Saborowski 53, 89, Ulsaß 68 - Zaczyk 2)
 Frankfurt  1-3 Hamburger  (Schämer 50 p - U.Seeler 15, Schulz 42,
                           Pohlschmidt 76)
@@ -240,7 +221,7 @@ Werder     4-4 Nürnberg   (Schweighöfer 28, 31, Höttges 54 p, Zebrowski 68 -
                           H.Müller 17, Volkert 26, Brungs 57, Piontek 87 o)
 Stuttgart  1-2 Hannover   (Sieloff 87 - Mülhausen 22, Siemensmeyer 30)
 
-Round 15 [Dec 3]
+▪ Round 15 ▪  Dec 3
 Nürnberg   2-2 TSV 1860   (Brungs 21, 51 - Küppers 20, Rebele 27)
 Bayern     5-0 K'lautern  (G.Müller 1, 57, 69, 89 p, Roth 67)
 M'gladbach 0-0 B'schweig
@@ -252,16 +233,16 @@ Hannover   3-0 Duisburg   (Straschitz 28, Rodekamp 37, Breuer 77)
 Karlsruher 4-1 Stuttgart  (C.Müller 56, 71, Dürrschabel 42, Dobat 83 -
                           Arnold 87)
 Rot-Weiß   1-3 1. FC Köln (Lippens 73 - Jendrossek 29, Löhr 68, Magnusson 72)
-                          [20 Saric (Rot-Weiß) m/pen]
+                          (20 Saric (Rot-Weiß) m/pen)
 
-Round 16 [Dec 10]
+▪ Round 16 ▪  Dec 10
 Schalke    2-1 Hannover   (Herrmann 10 p, Blechinger 68 - Straschitz 59)
 TSV 1860   2-1 Werder     (Rebele 15, Zeiser 89 - Görts 8)
 Stuttgart  0-2 M'gladbach (Laumen 30, Rupp 44)
 B'schweig  0-0 Rot-Weiß
 Hamburger  3-1 Bayern     (G.Dörfel 2, 6 p, U.Seeler 63 - G.Müller 24)
 
-Round 17 [Dec 17]
+▪ Round 17 ▪  Dec 17
 Nürnberg   0-4 B'schweig  (Dulz 36, Grzyb 64, Ulsaß 70, Saborowski 88)
 Bayern     1-0 Dortmund   (G.Müller 64)
 M'gladbach 3-3 Duisburg   (Laumen 34, Rupp 45, Wimmer 86 - Rühl 33,
@@ -274,7 +255,7 @@ Karlsruher 1-0 Schalke    (Sekularic 25)
 Rot-Weiß   1-3 Stuttgart  (Koslowski 80 - Köppel 13, 56, Peters 28)
 Werder     1-3 1. FC Köln (Schweighöfer 24 - Jendrossek 10, 52, Struth 71)
 
-[Dec 21]
+_ Dec 21 _
 K'lautern  2-1 Fortuna    (Rehhagel 32, Ankovic 69 - Gerhardt 23)
 Duisburg   0-1 Karlsruher (Dobat 27)
 
@@ -299,7 +280,7 @@ Fall Table
 17. VfB Stuttgart                17  4  5  8  23- 34  13
 18. Karlsruher SC                17  4  5  8  22- 34  13
 
-Round 18 [Jan 7]
+▪ Round 18 ▪  Jan 7
 M'gladbach11-0 Schalke    (Heynckes 21, 85, 90, Rupp 7, 41, 61, Laumen
                           30, 57, 70, Netzer 47, 67)
 Fortuna    0-5 Dortmund   (Neuberger 30, 48, Emmerich 47, Wosab 79, Kurrat 89)
@@ -313,7 +294,7 @@ Rot-Weiß   0-1 Duisburg   (M.Müller 11)
 TSV 1860   2-1 1. FC Köln (Bründl 4, Grosser 61 - Hornig 56)
 Werder     2-3 B'schweig  (Zebrowski 22, Lorenz 73 - Ulsaß 36, 81, Maas 12)
 
-Round 19 [Jan 21]
+▪ Round 19 ▪  Jan 21
 K'lautern  1-0 M'gladbach (Ankovic 70)
 1. FC Köln 1-4 Frankfurt  (Magnusson 13 - Bronnert 12, 44, 70, Solz 64)
 Bayern     1-2 Fortuna    (G.Müller 29 - Gerhardt 7, Straus 55)
@@ -325,7 +306,7 @@ Duisburg   2-0 Nürnberg   (Rühl 13, 72)
 Schalke    1-1 Rot-Weiß   (Kreuz 28 p - Simmet 55)
 Stuttgart  1-1 Werder     (Weiß 24 - Schweighöfer 68)
 
-Round 20 [Jan 28]
+▪ Round 20 ▪  Jan 28
 M'gladbach 4-2 Hamburger  (Milder 35 p, Rupp 49, Heynckes 73, Laumen 77 -
                           Kurbjuhn 6, B.Dörfel 71) [60 Pohlschmidt (Hamburger)
                           m/pen]
@@ -339,22 +320,22 @@ Rot-Weiß   1-1 K'lautern  (Dietrich 5 - Rehhagel 38)
 TSV 1860   1-1 Stuttgart  (Grosser 37 - Köppel 79)
 Werder     1-1 Duisburg   (Zebrowski 88 - Rühl 8)
 
-[Feb 4]
+_ Feb 4 _
 Dortmund   3-1 Frankfurt  (Held 7, Emmerich 40, Peehs 65 - Lotz 61)
 
-Round 21 [Feb 11]
+▪ Round 21 ▪  Feb 11
 K'lautern  1-1 Nürnberg   (Kaminke 2 - Brungs 34) [48 Volkert (Nürnberg) m/pen]
 B'schweig  3-0 Frankfurt  (Moll 35, Grzyb 61, Maas 86)
 Bayern     2-2 Karlsruher (G.Müller 24, Werner 43 - H.Wild 26 p, C.Müller 62)
 Dortmund   3-2 M'gladbach (Wosab 15, Emmerich 38, Held 73 - Netzer 12, Rupp 42)
-                          [51 Milder (M'gladbach) m/pen]
+                          (51 Milder (M'gladbach) m/pen)
 Stuttgart  2-2 1. FC Köln (Weiß 27, 85 - Overath 50 p, Struth 75)
 Hamburger  1-1 Rot-Weiß   (G.Dörfel 57 - Dietrich 79)
 Duisburg   1-2 TSV 1860   (Rühl 17 - Kohlars 22, Küppers 64)
 Fortuna    1-0 Hannover   (Laszig 17 o)
 Schalke    0-1 Werder     (Ferner 16)
 
-Round 22 [Feb 18]
+▪ Round 22 ▪  Feb 18
 M'gladbach 1-2 Bayern     (Schwarzenbeck 74 o - Roth 3, Ohlhauser 70)
 B'schweig  1-1 Stuttgart  (Ulsaß 45 - Eisele 65)
 1. FC Köln 1-1 Duisburg   (Overath 43 - Lotz 3)
@@ -365,11 +346,11 @@ Karlsruher 3-2 Fortuna    (H.Wild 44 p, 71 p, Dobat 55 - Hoffer 15, Meyer 80)
 TSV 1860   0-2 Schalke    (Pyka 33, Blechinger 86) [87 Patzke (TSV) m/pen]
 Werder     1-1 K'lautern  (Görts 81 - Reitgaßl 34)
 
-Round 23 [Feb 24]
+▪ Round 23 ▪  Feb 24
 
 Duisburg   0-0 B'schweig
 
-[Feb 25]
+_ Feb 25 _
 K'lautern  0-3 TSV 1860   (Rebele 25, Grosser 28, Küppers 89)
                           (sent off: Klimaschewski (K'lautern, 80))
 Bayern     4-1 Rot-Weiß   (G.Müller 18, 36, 80, Rigotti 74 - Glinka 33)
@@ -381,7 +362,7 @@ Schalke    1-0 1. FC Köln (Herrmann 27)
                           (sent off: Struth (Köln, 86))
 Stuttgart  3-0 Frankfurt  (Reiner 26, Hoffmann 30 p, Handschuh 60)
 
-Round 24 [Mar 4]
+▪ Round 24 ▪  Mar 4
 M'gladbach 2-0 Hannover   (Rupp 70, 86) [58 Laumen (M'gladbach) m/pen]
 B'schweig  1-0 Schalke    (Maas 47)
 1. FC Köln 2-1 K'lautern  (Löhr 47, 80 - Kentschke 61)
@@ -393,7 +374,7 @@ Stuttgart  1-3 Duisburg   (Gress 19 - Gecks 18, Krämer 52, Pavlic 67)
 TSV 1860   2-0 Hamburger  (Zeiser 50, Rebele 65)
 Werder     2-1 Dortmund   (Schütz 63, 85 - Wosab 22)
 
-Round 25 [Mar 11]
+▪ Round 25 ▪  Mar 11
 K'lautern  2-0 B'schweig  (Kentschke 61, 82)
 Fortuna    2-2 Nürnberg   (Gerhardt 22, Hoffer 82 - Volkert 2, Strehl 15)
                           (sent off: Gerhardt (Fortuna, 28), Wabra (Nürnberg,
@@ -408,7 +389,7 @@ Dortmund   1-1 TSV 1860   (Mikulasch 18 - Bründl 64) [88 Emmerich (Dortmund)
                           m/pen]
 Schalke    2-0 Stuttgart  (Seibold 14 o, Pliska 49)
 
-Round 26 [Mar 18]
+▪ Round 26 ▪  Mar 18
 1. FC Köln 1-1 Dortmund   (Löhr 27 - Peehs 33) [74 Overath (Köln) m/pen]
 Nürnberg   1-1 Hannover   (L.Müller 88 - Rodekamp 38)
 B'schweig  2-0 Hamburger  (Gerwien 5, Dulz 28) [24 Ulsaß (B'schweig) m/pen]
@@ -420,10 +401,10 @@ TSV 1860   1-0 Bayern     (Zeiser 19)
 Stuttgart  0-1 K'lautern  (Rehhagel 87)
 Werder     1-0 Fortuna    (Ferner 31)
 
-[Mar 25]
+_ Mar 25 _
 1. FC Köln 2-0 Nürnberg   (Jendrossek 34, Löhr 68)
 
-Round 27 [Apr 1]
+▪ Round 27 ▪  Apr 1
 K'lautern  0-0 Duisburg
 Bayern     2-0 1. FC Köln (G.Müller 43, Roth 89)
 Dortmund   0-0 B'schweig
@@ -436,7 +417,7 @@ M'gladbach 4-3 Rot-Weiß   (Heynckes 9, 76, Laumen 42, Frankowski 73 o -
                           Lippens 16, 39, Littek 67) [49 Elfert (M'gladbach)
                           m/pen]
 
-Round 28 [Apr 15]
+▪ Round 28 ▪  Apr 15
 Frankfurt  5-0 Rot-Weiß   (Abbe 12, 80, Bechtold 48, 74, Lotz 75)
 Nürnberg   1-0 M'gladbach (Brungs 32)
 1. FC Köln 2-0 Fortuna    (Löhr 78, Hornig 85)
@@ -450,7 +431,7 @@ TSV 1860   3-0 Hannover   (Küppers 20, Konietzka 30, Heiß 32)
 Werder     0-3 Karlsruher (Dobat 40, C.Müller 52, Weidlandt 69)
 Stuttgart  1-0 Dortmund   (Sieloff 69)
 
-Round 29 [Apr 22]
+▪ Round 29 ▪  Apr 22
 K'lautern  1-1 Frankfurt  (Kentschke 52 - Bechtold 44) [69 Reitgaßl (K'lautern)
                           m/pen]
 Bayern     1-1 Stuttgart  (G.Müller 46 - Larsson 77)
@@ -464,7 +445,7 @@ Karlsruher 3-1 TSV 1860   (C.Müller 38, Cieslarczyk 73 o, Dürrschnabel 78 -
                           Rebele 20)
 Rot-Weiß   1-1 Nürnberg   (Lippens 13 - Strehl 63)
 
-Round 30 [Apr 29]
+▪ Round 30 ▪  Apr 29
 K'lautern  2-1 Hamburger  (Kentschke 65, Braner 90 - Rohrschneider 26)
 1. FC Köln 2-2 Karlsruher (Thielen 12, Overath 59 - Weidlandt 5,
                           Cieslarczyk 59 p)
@@ -478,10 +459,10 @@ TSV 1860   4-3 M'gladbach (Küppers 41 p, 80, Konietzka 67, Grosser 70 -
 Stuttgart  3-1 Fortuna    (Larsson 1, 58, 86 - Straus 67)
 Werder     0-0 Rot-Weiß
 
-Round 31 [May 12]
+▪ Round 31 ▪  May 12
 M'gladbach 3-0 1. FC Köln (Laumen 3, Vogts 29, Heynckes 41)
 
-[May 13]
+_ May 13 _
 Nürnberg   2-1 Werder     (Volkert 38, Brungs 84 - Lorenz 44) [26 Strehl
                           (Nürnberg) m/pen]
 Bayern     5-0 Schalke    (Ohlhauser 67, 83, Kopferschmidt 43, Brenninger 52 p,
@@ -495,7 +476,7 @@ Fortuna    1-5 Duisburg   (Budde 41 - Krämer 57, 69, 87, Lotz 25,
 Rot-Weiß   2-2 TSV 1860   (Hasebrink 38, Dietrich 50 - Steiner 77,
                           Brunnenmeier 79)
 
-Round 32 [May 20]
+▪ Round 32 ▪  May 20
 K'lautern  1-0 Bayern     (Geisert 25)
 1. FC Köln 2-1 Rot-Weiß   (Overath 75, 85 - Lippens 9)
 Dortmund   7-0 Hamburger  (Emmerich 18, 82, Wosab 42, 55, Paul 34 p, Peehs 38,
@@ -507,7 +488,7 @@ Schalke    2-1 Fortuna    (Kreuz 53 p, W.Kraus 79 - Gerhardt 14)
 TSV 1860   1-2 Nürnberg   (Ferschl 38 o - Ebenhöh 60, Volkert 81)
 Stuttgart  2-0 Karlsruher (Weiß 25, 43)
 
-Round 33 [May 27]
+▪ Round 33 ▪  May 27
 M'gladbach 1-2 Stuttgart  (Milder 40 p - Weiß 11, Köppel 43)
 Karlsruher 3-0 Duisburg   (C.Müller 72, 85, Cieslarczyk 35)
 Rot-Weiß   0-0 B'schweig
@@ -521,7 +502,7 @@ Hannover   1-2 Schalke    (Bandura 81 - Herrmann 3, Neuser 14)
 Werder     2-4 TSV 1860   (Hänel 26, Lorenz 60 - Heiß 10, 83, Brunnenmeier
                           42, Küppers 86)
 
-Round 34 [Jun 3]
+▪ Round 34 ▪  Jun 3
 K'lautern  1-0 Hannover   (Reitgaßl 5)
 1. FC Köln 4-1 Werder     (Hornig 6, Neumann 30, Löhr 66, Pott 90 p -
                           Ferner 83)
@@ -579,24 +560,10 @@ Eintracht Braunschweig 1966/67
 
 
 
-<!-- end pre -->
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-== About this document  ‹§about›
-
-With thanks to Gerd Heuser
-
-Prepared and maintained by Gwidon Naskrent
-for the
-‹Rec.Sport.Soccer Statistics Foundation›
 
 
-Author:
-Gwidon Naskrent
 
-Last updated: 1 Apr 2001
 
-(c) Copyright Gwidon Naskrent and RSSSF 2000/01
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.
+
+<!-- $about$ -->
+

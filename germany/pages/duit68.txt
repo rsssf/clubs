@@ -6,28 +6,9 @@
 
 == Germany 1967/68
 
-<!-- start pre -->
 
-Final Table
+<!-- $table1$ -->
 
- 1. 1. FC Nürnberg               34 19  9  6  71- 37  47
- 2. Werder Bremen                34 18  8  8  68- 51  44
- 3. Borussia Mönchengladbach     34 15 12  7  77- 45  42
- 4. 1. FC Köln                   34 17  4 13  68- 52  38
- 5. Bayern München               34 16  6 12  68- 58  38
- 6. Eintracht Frankfurt          34 15  8 11  58- 51  38
- 7. MSV Duisburg                 34 13 10 11  69- 58  36
- 8. VfB Stuttgart                34 14  7 13  65- 54  35
- 9. Eintracht Braunschweig       34 15  5 14  37- 39  35
-10. Hannover 96                  34 12 10 12  48- 52  34
-11. Alemannia Aachen             34 13  8 13  52- 66  34
-12. TSV 1860 München             34 11 11 12  55- 39  33
-13. Hamburger SV                 34 11 11 12  51- 54  33
-14. Borussia Dortmund            34 12  7 15  60- 59  31
-15. Schalke 04                   34 11  8 15  42- 48  30
-16. 1. FC Kaiserslautern         34  8 12 14  39- 67  28
-17. Borussia Neunkirchen         34  7  5 22  33- 93  19
-18. Karlsruher SC                34  6  5 23  32- 70  17
 
     Nür Wer Mön Köl Bay Fra MSV Bra VfB Han Ale Ham TSV Dor Sch Kai  Neu Kar
 Nür xxx 0-0 1-0 2-1 7-3 0-2 4-1 3-1 5-1 2-1 4-1 4-0 1-1 2-1 2-3 4-1  3-0 2-0
@@ -49,11 +30,11 @@ Kai 1-0 2-2 0-1 2-1 2-2 1-1 0-1 2-2 2-0 0-0 1-0 3-3 0-0 2-2 1-0 xxx  2-1 1-1
 Neu 2-2 0-0 0-3 2-1 1-1 2-2 2-1 1-2 0-5 3-1 0-1 0-3 1-0 3-2 1-5 2-1  xxx 3-2
 Kar 1-1 1-2 3-2 0-1 0-2 0-1 0-2 1-2 1-4 3-1 2-4 2-1 0-3 2-0 1-0 2-2  5-1 xxx
 
-Round 1 [Aug 18]
+▪ Round 1 ▪  Aug 18
 
 Duisburg    2-2 Dortmund    (Pavlic 19 p, Gecks 37 - Lotz 31 o, Neuberger 84)
 
-[Aug 19]
+_ Aug 19 _
 Aachen      0-4 Bayern      (Roth 22, Hermandung 61 o, Ohlhauser 74,
                             Beckenbauer 82)
 Nürnberg    2-0 Karlsruher  (Strehl 30, 32)
@@ -66,7 +47,7 @@ Schalke     3-4 M'gladbach  (Rausch 85, 88, W.Kraus 73 - Meyer 8, 32, 77,
 TSV 1860    1-0 B'schweig   (Bründl 89)
 Hannover    3-0 1. FC Köln  (Heynckes 71, 83, Bandura 5)
 
-Round 2 [Aug 26]
+▪ Round 2 ▪  Aug 26
 B'schweig   1-0 Schalke     (W.Schmidt 21)
 M'gladbach  1-1 Stuttgart   (Meyer 69 - Weiß 3)
 Frankfurt   5-3 Werder      (Steinmann 15 o, Bechtold 21, Solz 36, 45 -
@@ -79,7 +60,7 @@ Dortmund    1-0 Aachen      (Wosab 44)
 Bayern      1-0 Hannover    (Roth 83)
 1. FC Köln  1-0 TSV 1860    (Flohe 76)
 
-Round 3 [Sep 2]
+▪ Round 3 ▪  Sep 2
 Aachen      2-1 Karlsruher  (Martinelli 66, 88 - Ehmann 70)
 Duisburg    3-1 Neunkirchen (H.Wild 32, Kostedde 62, van Haaren 81 - Lang 24)
 Nürnberg    4-0 Hamburger   (Brungs 8, 74, Starek 35, Cebinac 81)
@@ -92,7 +73,7 @@ Schalke     0-0 TSV 1860
 Bayern      0-3 1. FC Köln  (Löhr 59, 89, Rühl 51)
 Hannover    2-2 Dortmund    (Straschitz 41, Skoblar 81 - Emmerich 61, 67)
 
-Round 4 [Sep 9]
+▪ Round 4 ▪  Sep 9
 TSV 1860    3-3 Stuttgart   (Grosser 8, Küppers 37, Kohlars 52 - Köppel 65, 73,
                             Schmitt 89)
 B'schweig   0-3 Werder      (Görts 5, Ferner 61, Rupp 88)
@@ -103,14 +84,14 @@ Frankfurt   1-2 Nürnberg    (Lotz 23 - Strehl 45, Brungs 88)
 Hamburger   1-3 Duisburg    (Krämer 32 - Budde 12, van Haaren 24, Gecks 66)
 Neunkirchen 0-1 Aachen      (Glenski 28) [78 Gronen (Aachen) m/pen]
 Karlsruher  3-1 Hannover    (C.Müller 65, 66, Herrmann 40 - Siemensmeyer 29 p)
-                            [30 Marx (Karlsruher) m/pen]
+                            (30 Marx (Karlsruher) m/pen)
                             (sent off: Skoblar (Hannover, 50))
 Dortmund    6-3 Bayern      (Emmerich 16, 21, 59, Brenninger 52, Assauer 57,
                             Wosab 62 - Jung 14, 44)
 1. FC Köln  7-0 Schalke     (Löhr 2, 57, 88, Rühl 53, 66, Weber 78, Simmet 90)
                             (sent off: Nikolic (Schalke, 63))
 
-Round 5 [Sep 13]
+▪ Round 5 ▪  Sep 13
 Aachen      2-0 Hamburger   (Ferdinand 40, Martinelli 70)
 Duisburg    0-1 Frankfurt   (Sztani 77)
 Nürnberg    1-0 M'gladbach  (Ferschl 70)
@@ -121,7 +102,7 @@ Dortmund    2-0 1. FC Köln  (Wosab 40, Emmerich 90)
 Bayern      3-0 Karlsruher  (Ohlhauser 31, 83, Jung 50)
 Hannover    2-0 Neunkirchen (Siemensmeyer 45, Heynckes 88)
 
-Round 6 [Sep 16]
+▪ Round 6 ▪  Sep 16
 Schalke     0-2 Werder      (Görts 49, Björnmose 81)
 TSV 1860    0-3 K'lautern   (Roggensack 62, 73, 85)
 B'schweig   0-3 Nürnberg    (Brungs 30, 88, Strehl 7)
@@ -135,11 +116,11 @@ Neunkirchen 1-1 Bayern      (Gayer 52 p - Schauß 76)
 Karlsruher  2-0 Dortmund    (Dürrschnabel 20, C.Müller 87)
 1. FC Köln  2-2 Stuttgart   (Rühl 59, Overath 70 p - Weiß 13, Huttary 23)
 
-Round 7 [Sep 22]
+▪ Round 7 ▪  Sep 22
 Duisburg    2-3 B'schweig   (Pavlic 17 p, Heidemann 82 - Dulz 18, Moll 32,
                             Saborowski 34)
 
-[Sep 23]
+_ Sep 23 _
 Aachen      0-0 M'gladbach
 Nürnberg    1-1 TSV 1860    (Strehl 58 - Bründl 63)
 K'lautern   1-0 Schalke     (Rehhagel 28)
@@ -150,7 +131,7 @@ Dortmund    6-0 Neunkirchen (Emmerich 3, 78, Wosab 27, 87, Kirsch 38 o,
 Bayern      1-0 Hamburger   (Brenninger 86)
 Hannover    2-1 Frankfurt   (Heynckes 31, Rodekamp 87 - Huberts 20)
 
-Round 8 [Sep 30]
+▪ Round 8 ▪  Sep 30
 Schalke     0-0 Nürnberg
 TSV 1860    0-1 Duisburg    (Budde 88)
 B'schweig   2-0 Aachen      (Berg 31, Gerwien 39)
@@ -164,10 +145,10 @@ Neunkirchen 3-2 Karlsruher  (Gayer 5, 43, 59 p - Ehmann 44, 82)
                             (sent off: Regitz (Neunkirchen, 82))
 1. FC Köln  1-4 Werder      (Löhr 85 - Rupp 43, 65, Björnmose 79, Lorenz 88)
 
-[Oct 6]
+_ Oct 6 _
 Stuttgart   0-1 K'lautern   (Roggensack 70)
 
-Round 9 [Oct 14]
+▪ Round 9 ▪  Oct 14
 Aachen      3-3 TSV 1860    (Krott 35, 67, Pawellek 76 - Rebele 47, Grosser
                             53 p, 73)
 Duisburg    1-1 Schalke     (H.Wild 14 - Pohlschmidt 74)
@@ -180,12 +161,12 @@ Dortmund    2-1 Frankfurt   (Trimhold 85, Held 89 - Wessel 11 o)
 Bayern      3-1 M'gladbach  (Ohlhauser 14, G.Müller 34, Nowak 40 - Netzer 69 p)
 Hannover    1-1 B'schweig   (Straschitz 59 p - Ulsaß 11)
 
-Round 10 [Oct 21]
+▪ Round 10 ▪  Oct 21
 Werder      0-4 Nürnberg    (Ferschl 55, B.Schmidt 60 o, Brungs 63, Volkert 64)
 Stuttgart   3-0 Duisburg    (R.Entenmann 4, W.Entenmann 5, Larsson 55)
 Schalke     2-1 Aachen      (W.Kraus 15, Wittkamp 56 - Glenski 45)
 TSV 1860    3-1 Hannover    (Küppers 17, Kohlars 19, 60 - Straschitz 38 p)
-                            [65 Küppers (TSV) m/pen]
+                            (65 Küppers (TSV) m/pen)
 B'schweig   1-0 Bayern      (Maas 80)
 M'gladbach  2-2 Dortmund    (Laumen 41, Meyer 58 - Wosab 75, Libuda 81)
 Frankfurt   2-0 Karlsruher  (Keifler 45, Grabowski 89)
@@ -193,7 +174,7 @@ Hamburger   0-0 Neunkirchen
 1. FC Köln  5-0 K'lautern   (Overath 15, 66 p, Löhr 28, 62, Flohe 3)
                             (sent off: Kapitulski (K'lautern, 38))
 
-Round 11 [Oct 28]
+▪ Round 11 ▪  Oct 28
 Aachen      3-2 Stuttgart   (Hoffmann 20, 68, Glenski 47 - W.Entenmann 45,
                             Sieloff 63)
 Duisburg    1-1 Werder      (H.Wild 21 - Ferner 65)
@@ -206,7 +187,7 @@ Dortmund    0-1 B'schweig   (Ulsaß 65)
 Bayern      2-2 TSV 1860    (Ohlhauser 37, Koulmann 87 - Kohlars 26, Heiß 83)
 Hannover    2-1 Schalke     (Ahnefeld 32, Heynckes 43 - W.Kraus 51 p)
 
-Round 12 [Nov 4]
+▪ Round 12 ▪  Nov 4
 K'lautern   0-1 Duisburg    (Pavlic 69)
 Werder      0-1 Aachen      (Ferdinand 46)
 Stuttgart   2-0 Hannover    (Menne 11, Sieloff 54 p) [54 Sieloff (Stuttgart)
@@ -220,7 +201,7 @@ Frankfurt   1-1 Hamburger   (Grabowski 61 - G.Dörfel 42)
 1. FC Köln  3-3 Nürnberg    (Flohe 43, Rühl 63, Overath 72 p - Strehl 9,
                             Brungs 54, Leopold 74)
 
-Round 13 [Nov 11]
+▪ Round 13 ▪  Nov 11
 Aachen      1-1 K'lautern   (Kentschke 56 - Ferdinand 64)
 Duisburg    2-0 Nürnberg    (H.Wild 63, Pavlic 89)
 Frankfurt   1-2 1. FC Köln  (Schämer 85 p - Löhr 15, 68)
@@ -234,11 +215,11 @@ Bayern      3-1 Stuttgart   (Ohlhauser 62, G.Müller 74, Brenninger 87 -
 Hannover    4-2 Werder      (Rodekamp 21, Straschitz 43 p, Skoblar 75,
                             Siemensmeyer 84 - Höttges 38 p, Björnmose 48)
 
-Round 14 [Nov 18]
+▪ Round 14 ▪  Nov 18
 Nürnberg    4-1 Aachen      (Brungs 2, 31, 38, Strehl 54 - Glenski 50)
 K'lautern   0-0 Hannover
 Werder      4-1 Bayern      (Höttges 15 p, 87 p, Görts 50, 81 - G.Müller 26)
-                            [24 G.Müller (Bayern) m/pen]
+                            (24 G.Müller (Bayern) m/pen)
 Stuttgart   4-1 Dortmund    (Gress 63, 68, Köppel 14, 75 - Assauer 40)
 Schalke     2-0 Karlsruher  (Wittkamp 33, W.Kraus 90)
 TSV 1860    5-0 Neunkirchen (Küppers 45, 62, H.Schmidt 39, Kohlars 84,
@@ -247,7 +228,7 @@ B'schweig   0-1 Hamburger   (Kurbjuhn 26) [67 Moll (B'schweig) m/pen]
 M'gladbach  1-1 Frankfurt   (Meyer 41 - Friedrich 44)
 1. FC Köln  3-0 Duisburg    (Overath 6, Löhr 38, Rühl 58)
 
-Round 15 [Nov 25]
+▪ Round 15 ▪  Nov 25
 Duisburg    3-0 Aachen      (Kostedde 22, 70, Budde 55)
 Frankfurt   2-0 B'schweig   (Schämer 2, Berthold 69)
 Hamburger   2-2 TSV 1860    (U.Seeler 63, Kurbjuhn 67 - Küppers 56, Kohlars 68)
@@ -262,7 +243,7 @@ Hannover    1-1 Nürnberg    (Polusen 55 - Starek 66)
 1. FC Köln  2-5 M'gladbach  (Löhr 32, Simmet 89 - Meyer 65. 67, Wimmer 35, 87,
                             Netzer 85 p)
 
-Round 16 [Dec 2]
+▪ Round 16 ▪  Dec 2
 Aachen      4-2 1. FC Köln  (Ferdinand 5, 76, Gronen 8, Krott 56 - Löhr 25, 33)
 Duisburg    1-2 Hannover    (van Haaren 75 - Bandura 23, Straschitz 29)
 Nürnberg    7-3 Bayern      (Brungs 37, 51, 57, 62, 74, Strehl 26, Volkert 27 -
@@ -275,7 +256,7 @@ Schalke     3-0 Hamburger   (W.Kraus 19, 43, Wittkamp 20)
 TSV 1860    5-0 Frankfurt   (Küppers 54 p, 65 p, 78, Kohlars 59, 69)
 B'schweig   2-1 M'gladbach  (Gerwien 30, Berg 52 - Laumen 81)
 
-Round 17 [Dec 9]
+▪ Round 17 ▪  Dec 9
 M'gladbach  1-1 TSV 1860    (Ackermann 87 - H.Schmidt 51)
 Frankfurt   2-2 Schalke     (Bechtold 11, 83 - Neuser 21, Wittkamp 52)
 Hamburger   1-1 Stuttgart   (Krämer 73 - Köppel 49)
@@ -288,7 +269,7 @@ Bayern      0-4 Duisburg    (Gecks 35, 72, Kostedde 15, Lehmann 27)
 Hannover    1-1 Aachen      (Gräber 84 - Groner 41)
 1. FC Köln  1-0 B'schweig   (Thielen 61)
 
-[Dec 16]
+_ Dec 16 _
 Stuttgart   2-1 Neunkirchen (Weidmann 38, Ertz 54 o - Seebauer 43)
                             (sent off: Seebauer (Neunkirchen, 60))
 
@@ -313,7 +294,7 @@ Fall Table
 17. Karlsruher SC                17  4  1 12  17- 37   9
 18. Borussia Neunkirchen         17  2  5 10  15- 46   9
 
-Round 18 [Jan 16]
+▪ Round 18 ▪  Jan 16
 
 M'gladbach  1-6 Schalke     (Netzer 63 - Wittkamp 39, 57, Erlhoff 40,
                             Pohlschmidt 49, 84, W.Kraus 52 p)
@@ -326,7 +307,7 @@ Bayern      4-1 Aachen      (G.Müller 10, 33, 52, Ohlhauser 77 - Hermandung 34)
 1. FC Köln  2-1 Hannover    (Löhr 25, Simmet 72 - Irtel 48)
                             (sent off: Bandura (Hannover, 82))
 
-Round 19 [Jun 13]
+▪ Round 19 ▪  Jun 13
 Aachen      3-0 Dortmund    (Hermandung 26, Ferdinand 49, Glenski 68)
 Duisburg    2-1 Karlsruher  (Gecks 32, Kostedde 44 - Weidlandt 70)
 Nürnberg    3-0 Neunkirchen (Brungs 50, 89, Heinz Müller 64)
@@ -336,7 +317,7 @@ Schalke     0-2 B'schweig   (Gerwien 61, Ulsaß 74)
 TSV 1860    0-1 1. FC Köln  (Löhr 3)
 Hannover    2-1 Bayern      (Rodekamp 6, Poulsen 57 - G.Müller 89)
 
-Round 20 [Jun 20]
+▪ Round 20 ▪  Jun 20
 TSV 1860    1-2 Schalke     (Heiß 59 - Neuser 57, Erlhoff 78) [41 W.Kraus
                             (Schalke) m/pen]
 B'schweig   2-1 Stuttgart   (Ulsaß 13, 66 - Sieloff 38)
@@ -353,7 +334,7 @@ Dortmund    3-1 Hannover    (Emmerich 4, 62, Paul 41 p - Bandura 85)
 1. FC Köln  3-3 Bayern      (Löhr 40, 75 p, Rühl 45 - Koulmann 15, 25,
                             G.Müller 56 p)
 
-Round 21 [Feb 3]
+▪ Round 21 ▪  Feb 3
 Aachen      5-1 Neunkirchen (Ferdinand 16, 27, Glenski 76, 86, Klostermann
                             61 - Linsenmaier 72)
 Duisburg    1-2 Hamburger   (van Haaren 53 - G.Dörfel 47, U.Seeler 66)
@@ -365,7 +346,7 @@ Stuttgart   2-1 TSV 1860    (Handschuh 31, Köppel 60 - Küppers 70)
 Schalke     1-1 1. FC Köln  (Wittkamp 17, Löhr 44)
 Hannover    2-0 Karlsruher  (Heynckes 47, Straschitz 90 p)
 
-Round 22 [Feb 10]
+▪ Round 22 ▪  Feb 10
 Schalke     2-1 Stuttgart   (Pohlschmidt 29, 53 p - Köppel 24)
 TSV 1860    1-3 Werder      (Zeiser 15 - Görts 20, Höttges 25 p, Björnmose 75)
 B'schweig   1-0 K'lautern   (Ulsaß 81)
@@ -379,7 +360,7 @@ Karlsruher  0-2 Bayern      (Ohlhauser 80, G.Müller 82)
 1. FC Köln  3-0 Dortmund    (Löhr 62, Rühl 73, Jendrossek 83) [22 Löhr
                             (Köln) m/pen]
 
-Round 23 [Feb 17]
+▪ Round 23 ▪  Feb 17
 Aachen      2-1 Frankfurt   (Bechmann 19, Klostermann 32 - Bechtold 75)
 Duisburg    2-2 M'gladbach  (Budde 50, 51 - Laumen 31, Wimmer 44)
 Nürnberg    3-1 B'schweig   (Volkert 77, 79, Cebinac 51 - Maas 40)
@@ -391,11 +372,11 @@ Bayern      4-0 Neunkirchen (Ohlhauser 72, 82, G.Müller 23, Beckenbauer 78)
 Hannover    2-2 Hamburger   (G.Dörfel 38, Skoblar 58 - Hönig 15,
                             Siemensmeyer 56)
 
-[Feb 24]
+_ Feb 24 _
 K'lautern   3-3 Hamburger   (Hasebrink 2, 26, 90 - Hönig 37, U.Seeler 81,
                             Krämer 84)
 
-Round 24 [Mar 2]
+▪ Round 24 ▪  Mar 2
 Stuttgart   0-3 Werder      (Danielsen 30, Görts 51, Björnmose 63)
 Schalke     2-1 K'lautern   (Pohlschmidt 37, Neuser 69 - Klimaschewski 84)
 TSV 1860    1-2 Nürnberg    (Grosser 82 p - Starek 44, Strehl 77)
@@ -408,7 +389,7 @@ Neunkirchen 3-2 Dortmund    (Linsenmaier 15, Leist 72 p, Gayer 76 - Assauer 63,
 1. FC Köln  4-0 Karlsruher  (Löhr 32, 50, Rühl 77, Hornig 82)
                             (sent off: Ehmann (Karlsruher, 55))
 
-Round 25 [Mar 9]
+▪ Round 25 ▪  Mar 9
 Aachen      2-1 B'schweig   (Ferdinand 55, Bechmann 74 - Moll 42)
 Duisburg    2-1 TSV 1860    (Pavlic 18, Budde 44 - Grosser 77) [15 Grosser
                             (TSV) m/pen]
@@ -424,7 +405,7 @@ Bayern      3-0 Frankfurt   (G.Müller 70, 74, Jung 78)
 Hannover    1-1 M'gladbach  (Rodekamp 29 - Vogts 70) [60 Skoblar (Hannover)
                             m/pen]
 
-Round 26 [Mar 16]
+▪ Round 26 ▪  Mar 16
 Werder      2-1 K'lautern   (Piontek 3, Ferner 63 - Kapitulski 80)
 Stuttgart   1-1 Nürnberg    (Larsson 4 - Strehl 27 p) [31 Hoffmann (Stuttgart)
                             m/pen]
@@ -438,7 +419,7 @@ Frankfurt   4-1 Dortmund    (Nickel 5, 88, Huberts 7, Friedrich 80 -
 Hamburger   0-0 Karlsruher
 1. FC Köln  2-1 Neunkirchen (Löhr 44, Thielen 89 - Linsenmaier 86)
 
-Round 27 [Mar 23]
+▪ Round 27 ▪  Mar 23
 Aachen      2-1 Schalke     (Krott 22, Ferdinand 62 - Blechinger 54)
 Duisburg    3-3 Stuttgart   (Budde 15, Heidemann 34, Gecks 41 - Handschuh 25,
                             Menne 50, Huttary 64)
@@ -447,11 +428,11 @@ K'lautern   2-1 1. FC Köln  (Kapitulski 75 p, 80 - Löhr 48)
 Neunkirchen 0-3 Hamburger   (Hönig 14, 33, Libuda 87)
 Karlsruher  0-1 Frankfurt   (Racky 58)
 Dortmund    3-1 M'gladbach  (Kurrat 36, Peehs 62, Emmerich 77 - Vogts 5)
-                            [36 Kurrat (Dortmund) m/pen]
+                            (36 Kurrat (Dortmund) m/pen)
 Bayern      3-0 B'schweig   (Ohlhauser 53, 84, G.Müller 88)
 Hannover    1-2 TSV 1860    (Gräber 87 - Bründl 72, 76 p)
 
-Round 28 [Mar 30]
+▪ Round 28 ▪  Mar 30
 K'lautern   1-0 Nürnberg    (Kentschke 25)
 Werder      3-3 Duisburg    (Piontek 9, W.Kremer 27, Höttges 83 p - H.Wild
                             65, 68, Steinmann 79)
@@ -467,17 +448,17 @@ Frankfurt   4-1 Neunkirchen (Bechtold 38, 68, Friedrich 63, Lotz 69 -
 1. FC Köln  2-1 Hamburger   (Rühl 63, 68 - U.Seeler 87) [7 Overath (Köln)
                             m/pen]
 
-[Apr 2]
+_ Apr 2 _
 Bayern      2-0 Dortmund    (G.Müller 24, 44)
 
-[Apr 3]
+_ Apr 3 _
 B'schweig   0-1 TSV 1860    (Kohlars 81)
 Frankfurt   4-0 Stuttgart   (Bechtold 29, 64, Nickel 11, Blusch 69)
 
-Round 29 [Apr 5]
+▪ Round 29 ▪  Apr 5
 Aachen      1-1 Werder      (Ferdinand 25 - Rupp 63)
 
-[Apr 6]
+_ Apr 6 _
 Duisburg    7-0 K'lautern   (H.Wild 17, 74, 78, Budde 3, 47, W.Kremer 18,
                             van Haaren 35)
 Nürnberg    2-1 1. FC Köln  (Volkert 30, Starek 47 - Rühl 50)
@@ -488,7 +469,7 @@ Dortmund    0-0 TSV 1860
 Bayern      2-0 Schalke     (Ohlhauser 62, Brenninger 75)
 Hannover    2-1 Stuttgart   (Skoblar 15, Heynckes 87 - Haug 34)
 
-Round 30 [Apr 20]
+▪ Round 30 ▪  Apr 20
 Nürnberg    4-1 Duisburg    (Brungs 14, 32, Strehl 7, van Haaren 2 o -
                             Heidemann 82)
 K'lautern   1-0 Aachen      (Windhausen 23)
@@ -502,10 +483,10 @@ M'gladbach  4-1 Hamburger   (Laumen 45, 64, Pöggeler 71, Vogts 75 - Krämer 89)
 1. FC Köln  5-1 Frankfurt   (Overath 13, Jendrossek 37, Flohe 44, 56, Löhr 90 -
                             Hölzenbein 77)
 
-Round 31 [Apr 26]
+▪ Round 31 ▪  Apr 26
 Duisburg    3-2 1. FC Köln  (W.Kremer 44, 65, Budde 66 - Overath 77, Weber 87)
 
-[Apr 27]
+_ Apr 27 _
 Aachen      2-0 Nürnberg    (Krott 34, Hoffmann 39 p)
 Frankfurt   3-1 M'gladbach  (Friedrich 66, Huberts 82, Schämer 87 - Wimmer 41)
 Hamburger   0-0 B'schweig
@@ -516,7 +497,7 @@ Bayern      2-3 Werder      (Ohlhauser 46, 62 - Danielsen 16, Steinmann 84,
                             Lorenz 90)
 Hannover    2-0 K'lautern   (Skoblar 27, 41)
 
-Round 32 [May 11]
+▪ Round 32 ▪  May 11
 Aachen      4-4 Duisburg    (Krott 7, 84, Ferdinand 9, Klostermann 23 - Pavlic
                             13, Gecks 22, Budde 60, 90)
 Nürnberg    2-1 Hannover    (Brungs 41, Laszig 71 o - Siemensmeyer 57)
@@ -531,7 +512,7 @@ TSV 1860    0-1 Hamburger   (G.Dörfel 48)
 B'schweig   0-0 Frankfurt
 M'gladbach  1-0 1. FC Köln  (Netzer 23 p)
 
-Round 33 [May 18]
+▪ Round 33 ▪  May 18
 M'gladbach  2-0 B'schweig   (Netzer 9, E.Kremers 83)
 Frankfurt   2-1 TSV 1860    (Friedrich 25, Hölzenbein 26 - Heiß 45)
 Hamburger   1-1 Schalke     (G.Dörfel 49 - Pohlschmidt 60)
@@ -545,7 +526,7 @@ Hannover    2-2 Duisburg    (Heynckes 55, Skoblar 64 - Budde 31, Lotz 68)
 1. FC Köln  3-1 Aachen      (Hammersbach 1, Overath 32, Jendrossek 52 -
                             Sell 72)
 
-Round 34 [May 25]
+▪ Round 34 ▪  May 25
 Aachen      2-2 Hannover    (Hermandung 35, 73 - Heynckes 40, 51)
 Duisburg    3-3 Bayern      (Gecks 13, 34, Pavlic 80 - Ohlhauser 3, 39,
                             G.Müller 48 p)
@@ -602,24 +583,10 @@ Topscorers: Hannes LÖHR (Köln) - 27, Franz BRUNGS (Nürnberg) -
 
 
 
-<!-- end pre -->
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-== About this document  ‹§about›
-
-With thanks to Gerd Heuser
-
-Prepared and maintained by Gwidon Naskrent
-for the
-‹Rec.Sport.Soccer Statistics Foundation›
 
 
-Author:
-Gwidon Naskrent
 
-Last updated: 1 Apr 2001
 
-(c) Copyright Gwidon Naskrent and RSSSF 2000/01
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.
+
+<!-- $about$ -->
+

@@ -6,28 +6,9 @@
 
 == Germany 1965/66
 
-<!-- start pre -->
 
-Final Table
+<!-- $table1$ -->
 
- 1. TSV 1860 München             34 20 10  4  80- 40  50
- 2. Borussia Dortmund            34 19  9  6  70- 36  47
- 3. Bayern München               34 20  7  7  71- 38  47
- 4. Werder Bremen                34 21  3 10  76- 40  45
- 5. 1. FC Köln                   34 19  6  9  74- 41  44
- 6. 1. FC Nürnberg               34 14 11  9  54- 43  39
- 7. Eintracht Frankfurt          34 16  6 12  64- 46  38
- 8. Meidericher SV               34 14  8 12  70- 48  36
- 9. Hamburger SV                 34 13  8 13  64- 52  34
-10. Eintracht Braunschweig       34 11 12 11  49- 49  34
-11. VfB Stuttgart                34 13  6 15  42- 48  32
-12. Hannover 96                  34 11  8 15  59- 57  30
-13. Borussia Mönchengladbach     34  9 11 14  57- 68  29
-14. Schalke 04                   34 10  7 17  33- 55  27
-15. 1. FC Kaiserslautern         34  8 10 16  42- 65  26
-16. Karlsruher SC                34  9  6 19  35- 71  24
-17. Borussia Neunkirchen         34  9  4 21  32- 82  22
-18. Tasmania Berlin              34  2  4 28  15-108   8
 
 Nb. Meidericher SV changed name to MSV Duisburg
 
@@ -51,7 +32,7 @@ Kar 1-1 0-0 1-0 3-2 2-1 1-2 4-0 0-4 1-4 1-4 3-0 1-0 3-3 1-0 1-0 xxx 1-1 3-0
 Neu 1-9 1-3 0-4 1-2 2-1 2-1 1-6 0-1 1-1 1-0 1-2 1-0 1-1 1-0 1-4 1-0 xxx 3-1
 Tas 0-5 0-2 0-2 1-1 0-6 0-1 0-3 0-9 0-4 0-2 0-2 1-5 0-0 1-2 1-1 2-0 2-1 xxx
 
-Round 1 [Aug 14]
+▪ Round 1 ▪  Aug 14
 Tasmania    2-0 Karlsruher  (Usbeck 68, 77)
 Neunkirchen 1-1 M'gladbach  (Wingert 41 - Elfert 21) [53 Heiden (Neunkirchen)
                             m/pen]
@@ -66,7 +47,7 @@ Werder      1-0 Nürnberg    (H.Schulz 57)
 Meidericher 2-2 K'lautern   (Lotz 58, van Haaren 71 - Rummel 76, 79)
 Stuttgart   1-0 Schalke     (Fichtel 21 o)
 
-Round 2 [Aug 21]
+▪ Round 2 ▪  Aug 21
 K'lautern   3-2 1. FC Köln  (Reitgaßl 46, 50, Rummel 42 - C.Müller 15,
                             Krauthausen 44)
 Hannover    2-1 Werder      (Heiser 52, Bandura 67 - Ferner 73)
@@ -79,11 +60,11 @@ M'gladbach  5-0 Tasmania    (Heynckes 40, 74, Rupp 51, Netzer 64, 90)
 Stuttgart   2-0 Meidericher (Entenmann 5, Höller 85)
 Schalke     0-0 Karlsruher
 
-Round 3 [Aug 27]
+▪ Round 3 ▪  Aug 27
 Meidericher 5-1 Schalke     (Lotz 41, van Haaren 45, Rühl 56, Nolden 63 p,
                             Versteeg 84 - Werner 68)
 
-[Aug 28]
+_ Aug 28 _
 Karlsruher  3-3 M'gladbach  (Witlatschil 42 p, 58, Zaczyk 80 - Heynckes 1, 77,
                             Rupp 30) [40 Netzer (M'gladbach) m/pen]
 Tasmania    0-2 Dortmund    (Emmerich 9, A.Schmidt 62)
@@ -98,7 +79,7 @@ Werder      4-1 K'lautern   (Matischak 21, 68, Hänel 11, Schütz 84 p -
                             [87 H.Sturm (Köln) m/pen, 88 Sieloff (Stuttgart)
                             m/pen]
 
-Round 4 [Sep 4]
+▪ Round 4 ▪  Sep 4
 K'lautern   3-0 TSV 1860    (Rummel 12, 35, 86)
 Hannover    4-1 Frankfurt   (Siemensmeyer 30, Rodekamp 35, Bandura 57,
                             Mülhausen 86 - Grabowski 43) [32 Laszig (Hannover)
@@ -114,7 +95,7 @@ Meidericher 2-3 1. FC Köln  (Krämer 30, Versteeg 38 - Thielen 20, 50,
 Stuttgart   0-2 Bremen      (Zembski 37, Schütz 71 p)
 Schalke     0-0 M'gladbach
 
-Round 5 [Sep 11]
+▪ Round 5 ▪  Sep 11
 M'gladbach  4-5 Dortmund    (Milder 43 p, Rupp 59, Netzer 63, 70 p - Emmerich
                             22 p, 64, 73 p, W.Sturm 44, Wosab 69) [77 Milder
                             (M'gladbach) m/pen]
@@ -130,7 +111,7 @@ Werder      2-0 Meidericher (Ferner 25, Matischak 90)
 1. FC Köln  2-1 Schalke     (Löhr 63, H.Sturm 87 - Kreuz 68) [53 H.Sturm
                             (Köln) m/pen]
 
-Round 6 [Sep 18]
+▪ Round 6 ▪  Sep 18
 K'lautern   1-1 B'schweig   (Ulsaß 69 - Matz 71 o)
 Hannover    6-0 Neunkirchen (Rodekamp 11, 37, Siemensmeyer 5, Bandura 45,
                             Mittrowski 60, Leist 90 o)
@@ -148,7 +129,7 @@ Stuttgart   0-0 Frankfurt
 Schalke     2-3 Dortmund    (Herrmann 45, Pyka 63 - Emmerich 41, 69,
                             Geisler 52)
 
-Round 7 [Oct 2]
+▪ Round 7 ▪  Oct 2
 Dortmund    2-2 Tasmania    (Held 44, 72 - Peltonen 32, Pohlschmidt 58)
 M'gladbach  1-2 Bayern      (Netzer 33 - Ohlhauser 43, G.Müller 78)
 Karlsruher  1-2 Nürnberg    (Dobat 7 - Strehl 73, Greif 84)
@@ -161,7 +142,7 @@ Frankfurt   2-0 Meidericher (Huberts 53, Sztani 83)
 TSV 1860    2-1 1. FC Köln  (Rebele 25, Grosser 77 - Löhr 60)
 Werder      2-0 Schalke     (Podlich 28, Matischak 68)
 
-Round 8 [Oct 16]
+▪ Round 8 ▪  Oct 16
 K'lautern   0-0 Tasmania
 Hannover    5-2 K'lautern   (Bandura 3, Siemensmeyer 14, Rodekamp 27,
                             Heiser 68, Laszig 77 p - Dürrschabel 67, Dobat 87)
@@ -173,7 +154,7 @@ Meidericher 4-1 B'schweig   (Mielke 36, 75, Lotz 58, Sabath 69 - Maas 71)
 Stuttgart   2-0 Neunkirchen (Geiger 8, Huttary 77)
 Schalke     2-1 Hamburger   (Neuser 20, Pliska 42 - U.Seeler 36)
 
-Round 9 [Oct 20]
+▪ Round 9 ▪  Oct 20
 Hamburger   0-4 Bayern      (Nefziger 9, 78, Drescher 19, Brenninger 81)
 Dortmund    2-0 Nürnberg    (Emmerich 42, 78) [42 Emmerich (Dortmund) m/pen,
                             73 Flachenecker (Nürnberg) m/pen]
@@ -186,7 +167,7 @@ B'schweig   1-2 1. FC Köln  (Gerwien 15 - F-P.Neumann 8, 40)
 Frankfurt   1-0 Werder      (Huberts 44)
 TSV 1860    3-0 Schalke     (Brunnenmeier 20, Heiß 63, Konietzka 76)
 
-Round 10 [Oct 23]
+▪ Round 10 ▪  Oct 23
 K'lautern   1-2 M'gladbach  (Geisert 79 - Netzer 18, Schneider 70 o)
 Hannover    1-1 Dortmund    (Laszig 32 - Held 7)
 Nürnberg    5-0 Hamburger   (Strehl 62, 66, 77 p, Flachenecker 26, 81)
@@ -199,7 +180,7 @@ Meidericher 3-0 Tasmania    (Nolden 64 p, Gecks 79, Heidemann 88)
 Stuttgart   1-0 Karlsruher  (Sieloff 53 p)
 Schalke     1-1 Bayern      (Kreuz 65 - Koulmann 5)
 
-Round 11 [Oct 30]
+▪ Round 11 ▪  Oct 30
 Bayern      0-0 Nürnberg
 Hamburger   2-1 Hannover    (G.Dörfel 61, Wulf 88 - Rodekamp 8)
 Dortmund    4-0 K'lautern   (Libuda 47, Held 55, Emmerich 71, A.Schmidt 87)
@@ -212,7 +193,7 @@ B'schweig   2-2 TSV 1860    (Ulsaß 15, 67 p - Brunnenmeier 4, 18)
 Frankfurt   4-1 Schalke     (Trimhold 26, 68, Solz 7, Huberts 85 -
                             Herrmann 72 p)
 
-Round 12 [Nov 6]
+▪ Round 12 ▪  Nov 6
 K'lautern   2-1 Hamburger   (Wrenger 8, Rummel 33 - Wulf 18)
 Hannover    3-4 Bayern      (Mülhausen 14, 44 p, Nix 60 - G.Müller 54, 58,
                             Ohlhauser 32, Brenninger 47)
@@ -225,7 +206,7 @@ Meidericher 3-2 M'gladbach  (Nielke 25, 40, Krämer 22 - Netzer 6 p,
 Stuttgart   1-1 Dortmund    (Emmerich 40 - Peters 79)
 Schalke     1-0 Nürnberg    (Herrmann 80) [78 Herrmann (Schalke) m/pen]
 
-Round 13 [Nov 20]
+▪ Round 13 ▪  Nov 20
 Nürnberg    2-1 Hannover    (Volkert 55, Brungs 70 - Siemensmeyer 71)
 Bayern      3-0 K'lautern   (G.Müller 37, Ohlhauser 68, Brenninger 70)
 Hamburger   4-1 Stuttgart   (Wulf 18, 90, Peltonen 58, G.Dörfel 60 -
@@ -240,7 +221,7 @@ Neunkirchen 1-6 Frankfurt   (May 55 - Bechtold 13, 64, 88, Huberts 36,
                             Grabowski 52, Trimhold 84)
 B'schweig   3-0 Schalke     (Ulsaß 8, 76, Gerwien 73)
 
-Round 14 [Nov 27]
+▪ Round 14 ▪  Nov 27
 K'lautern   0-0 Nürnberg
 B'schweig   1-2 Neunkirchen (Ulsaß 81 - Winger 57, Simmet 82)
 Frankfurt   4-0 Tasmania    (Bechtold 35, Lotz 50, 77, Grabowski 83)
@@ -251,7 +232,7 @@ Meidericher 3-1 Hamburger   (Rühl 46, Krämer 55, R.Schmidt 75 - Pohlschmidt 78
 Stuttgart   0-1 Bayern      (Menne 38)
 Schalke     1-0 Hannover    (Herrmann 44)
 
-Round 15 [Dec 4]
+▪ Round 15 ▪  Dec 4
 Hannover    4-0 K'lautern   (Hoff 16, 64, 69, Rodekamp 8)
 Nürnberg    1-1 Stuttgart   (Brungs 56 - Reiner 64)
                             (sent off: Eisele (Stuttgart, 25))
@@ -263,7 +244,7 @@ Neunkirchen 1-0 Schalke     (May 21)
 M'gladbach  1-1 TSV 1860    (Rupp 80 - Konietzka 28)
 Tasmania    0-2 B'schweig   (Maas 16, 36)
 
-Round 16 [Dec 11]
+▪ Round 16 ▪  Dec 11
 Neunkirchen 3-1 Tasmania    (May 9, Wingert 55, Simmet 80 - Zeh 23)
 B'schweig   2-0 Karlsruher  (Maas 61, Krause 63)
 Frankfurt   3-1 M'gladbach  (Lotz 28, Grabowski 68, 90 - Rupp 58)
@@ -276,7 +257,7 @@ Stuttgart   4-2 Hannover    (Peters 12, Entenmann 15, Mülhausen 46 o,
 Schalke     2-1 K'lautern   (Pyka 23, Neuser 85 - Geisert 32) [78
                             Herrmann (Schalke) m/pen]
 
-Round 17 [Dec 18]
+▪ Round 17 ▪  Dec 18
 K'lautern   1-2 Stuttgart   (Kostrewa 79 - Weiß 2, Peters 6)
 Hannover    0-3 Meidericher (Nolden 14 p, Krämer 16, van Haaren 42)
 Nürnberg    2-0 1. FC Köln  (Volkert 46, T.Wild 54)
@@ -287,7 +268,7 @@ M'gladbach  1-0 B'schweig   (Heynckes 18)
 Karlsruher  1-1 Neunkirchen (Berking 54 - Simmet 10)
 Tasmania    1-2 Schalke     (Szymaniak 81 - Neuser 5, Klose 29)
 
-[Dec 29]
+_ Dec 29 _
 Meidericher 1-2 Nürnberg    (Rühl 78 - Bast 4, Reisch 65 p)
 
 Fall Table
@@ -311,7 +292,7 @@ Fall Table
 17. Karlsruher SC                17  3  3 11  18- 39   9
 18. Tasmania Berlin              17  1  1 15   8- 58   3
 
-Round 18 [Jan 8]
+▪ Round 18 ▪  Jan 8
 K'lautern   1-0 Meidericher (Wrenger 87)
 Hannover    1-1 1. FC Köln  (Löhr 20 - Gräber 26)
 Nürnberg    2-1 Werder      (Reisch 56, T.Wild 76 - Höttges 61) [49 Reisch
@@ -323,7 +304,7 @@ M'gladbach  4-1 Neunkirchen (Pöggeler 40, Rupp 49, 65, Netzer 69 - Heiden 51)
 Karlsruher  3-0 Tasmania    (Kentschke 7, Dobat 17, 27)
 Schalke     2-0 Stuttgart   (Kreuz 72, 84)
 
-Round 19 [Jan 15]
+▪ Round 19 ▪  Jan 15
 Karlsruher  1-0 Schalke     (H.Wild 20)
 Tasmania    0-0 M'gladbach
 Neunkirchen 1-3 Dortmund    (G.Kuntz 73 - Held 40, Sturm 66, Emmerich 77)
@@ -337,10 +318,10 @@ Bremen      3-3 Hannover    (Zembski 3, Danielsen 65, Schimeczek 73 -
 Meidericher 5-2 Stuttgart   (Bella 25, Gecks 43, van Haaren 49, Nielke 65,
                             Heidemann 73 p - Entenmann 66, Arnold 85)
 
-[Jan 19]
+_ Jan 19 _
 Dortmund    3-0 Frankfurt   (A.Schmidt 31, Libuda 65 - Paul 76)
 
-Round 20 [Jan 30]
+▪ Round 20 ▪  Jan 30
 K'lautern   2-3 Werder      (Wrenger 10, Kaminke 43 - Schütz 8, 45,
                             Zembski 69)
 Hannover    0-1 TSV 1860    (Brunnenmeier 70)
@@ -352,7 +333,7 @@ M'gladbach  1-1 Karlsruher  (Laumen 61 - Kentschke 11)
 Stuttgart   0-1 1. FC Köln  (Löhr 40)
 Schalke     0-0 Meidericher
 
-Round 21 [Feb 5]
+▪ Round 21 ▪  Feb 5
 M'gladbach  2-0 Schalke     (Rupp 68, 88)
 Kalsruher   0-0 Dortmund
 Tasmania    0-4 Hamburger   (B.Dörfel 9, Krug 58, G.Dörfel 62, U.Seeler 73)
@@ -364,7 +345,7 @@ Werder      3-1 Stuttgart   (Zembski 52, Lorenz 57, Schütz 63 - Menne 84)
 1. FC Köln  1-1 Meidericher (Pott 63 - Rühl 47)
                             (sent off: C.Müller (Köln, 80))
 
-Round 22 [Feb 12]
+▪ Round 22 ▪  Feb 12
 K'lautern   5-2 Frankfurt   (Geisert 42, 58, Kaminke 46, Kapitulski 47,
                             Reitgaßl 50 - Lechner 15, Bechtold 20)
 Nürnberg    3-1 Neunkirchen (Brungs 16, 48, Flachenecker 71 - G.Kuntz 82)
@@ -376,7 +357,7 @@ Meidericher 1-2 Werder      (Sabath 48 - Schütz 32, 65)
 Stuttgart   0-0 TSV 1860
 Schalke     0-0 1. FC Köln
 
-Round 23 [Feb 26]
+▪ Round 23 ▪  Feb 26
 Dortmund    7-0 Schalke     (A.Schmidt 28, 74, Held 27, 29, W.Sturm 67,
                             Kurrat 72, Emmerich 77)
 M'gladbach  0-0 Hamburger
@@ -390,7 +371,7 @@ TSV 1860    3-3 Meidericher (Brunnenmeier 51, 62, Konietzka 52 - Gecks 26, 78,
                             Tagliari 11)
 Werder      2-1 1. FC Köln  (Danielsen 26, Dausmann 39 - Löhr 84)
 
-Round 24 [Mar 5]
+▪ Round 24 ▪  Mar 5
 K'lautern   0-0 Neunkirchen
 Hannover    5-0 Tasmania    (Badura 22, 58, Siesensmeyer 25, 59, Rodekamp 14)
 Nürnberg    3-0 Karlsruher  (Flachenecker 28, 67, Strehl 52)
@@ -403,7 +384,7 @@ Stuttgart   0-1 B'schweig   (Maas 31)
 Schalke     1-6 Werder      (Pyka 27 - Podlich 62, 90, Lorenz 23, Danielsen 46,
                             Hänel 79, Schütz 68 p)
 
-Round 25 [Mar 12]
+▪ Round 25 ▪  Mar 12
 Hamburger   1-1 Schalke     (Pohlschmidt 5 - Pyka 56)
 Dortmund    3-0 Bayern      (Emmerich 48, 66, Held 83)
 M'gladbach  8-3 Nürnberg    (Heynckes 12, 28, 52, Netzer 5, 38, Rupp 81, 84,
@@ -415,19 +396,19 @@ B'schweig   1-0 Meidericher (Krafczyk 82)
 Frankfurt   0-0 1. FC Köln
 TSV 1860    3-1 Werder      (Konietzka 29, 80, Brunnenmeier 14 - Hänel 2)
 
-Round 26 [Mar 19]
+▪ Round 26 ▪  Mar 19
 K'lautern   1-0 Karlsruher  (Geisert 24)
 Hannover    2-1 M'gladbach  (Rodekamp 11, Siesensmeyer 63 p - Heynckes 13)
 Nürnberg    0-0 Dortmund
 Bayern      3-0 Hamburger   (Ohlhauser 9, Werner 63, Nafziger 90)
 Werder      3-2 Frankfurt   (Schütz 7, 21 p, Podlich 38 - Lechner 44, Solz 78)
-                            [62 Schütz (Werder) m/pen]
+                            (62 Schütz (Werder) m/pen)
 1. FC Köln  3-0 B'schweig   (Thielen 13, 28, H.Sturm 20)
 Meidericher 1-0 Neunkirchen (van Haaren 26)
 Stuttgart   2-0 Tasmania    (Weiß 67, Waldner 87)
 Schalke     0-2 TSV 1860    (Heiß 39, Konietzka 77)
 
-Round 27 [Mar 26]
+▪ Round 27 ▪  Mar 26
 Bayern      1-0 Schalke     (Werner 33)
 Hamburger   0-2 Nürnberg    (Strehl 17, Brungs 65)
 Dortmund    4-0 Hannover    (Emmerich 45 p, 84, 89, Kurrat 76)
@@ -442,7 +423,7 @@ Frankfurt   5-2 TSV 1860    (Trimhold 21, 81, Huberts 45, 78, Sztani 35 -
                             Küppers 22, Konietzka 76) [5 Trimhold (Frankfurt)
                             m/pen]
 
-Round 28 [Apr 2]
+▪ Round 28 ▪  Apr 2
 K'lautern   0-0 Dortmund
 Hannover    0-0 Hamburger
 Nürnberg    2-2 Bayern      (Strehl 9 p, Brungs 83 - Brenninger 36 p,
@@ -456,14 +437,14 @@ Meidericher 8-2 Karlsruher  (Gecks 43, 48, 58, Krämer 42, 49, 63, Rühl 14,
 Stuttgart   5-0 M'gladbach  (Sieloff 53 p, 59, Waldner 29, Weiß 30, Lowin 42 o)
 Schalke     3-2 Frankfurt   (Herrmann 44, 80, Bechmann 45 - Huberts 40, 43)
 
-[Apr 7]
+_ Apr 7 _
 Hannover    1-1 B'schweig   (Siemensmeyer 31 - Krafczyk 59)
 
-[Apr 12]
+_ Apr 12 _
 TSV 1860    4-2 K'lautern   (Konietzka 23, 48, Grosser 6, 88 - Rummel 70
                             J.Neumann 82) [90 Reitgaßl (K'lautern) m/pen]
 
-Round 29 [Apr 16]
+▪ Round 29 ▪  Apr 16
 Nürnberg    1-0 Schalke     (Brungs 83)
 Bayern      3-1 Hannover    (Ohlhauser 13, Beckenbauer 73, G.Müller 77 -
                             Siemensmeyer 42)
@@ -476,7 +457,7 @@ Tasmania    1-1 Werder      (Engler 31 - Podlich 45)
 Neunkirchen 1-9 TSV 1860    (G.Kuntz 55 - Heiß 36, 44, 69, 77, Grosser 16, 52,
                             Konietzka 34, Küppers 61, Rebele 66)
 
-Round 30 [Apr 23]
+▪ Round 30 ▪  Apr 23
 K'lautern   1-2 Bayern      (Rummel 54 - Werner 38, Nafziger 71)
                             (sent off: Klimaschewski (K'lautern, 62),
                             Wrenger (K'lautern, 89), J.Neumann (K'lautern, 39),
@@ -491,11 +472,11 @@ Meidericher 2-1 Dortmund    (Lotz 55, Rühl 57 - A.Schmidt 82)
 Stuttgart   1-3 Hamburger   (Eisele 66 - B.Dörfel 35, 86, Kurbjuhn 54)
 Schalke     1-1 B'schweig   (Neuser 63 - Maas 79)
 
-[Apr 26]
+_ Apr 26 _
 B'schweig   2-2 Frankfurt   (Krafczyk 28, Gerwien 58 - Friedrich 45,
                             Huberts 87)
 
-Round 31 [Apr 30]
+▪ Round 31 ▪  Apr 30
 Hannover    0-3 Schalke     (Kreuz 31, 62, Rausch 83)
 Nürnberg    1-1 K'lautern   (Greif 66 - Rummel 38)
 Bayern      0-1 Stuttgart   (Sieloff 18 p)
@@ -507,10 +488,10 @@ Karlsruher  1-1 TSV 1860    (Kentschke 19 - Grosser 53)
 Tasmania    0-3 Frankfurt   (Huberts 32, 54, Grabowski 71 p)
 Neunkirchen 1-0 B'schweig   (G.Kuntz 24 p)
 
-Round 32 [May 7]
+▪ Round 32 ▪  May 7
 K'lautern   1-1 Hannover    (Reitgaßl 85 - Heiser 52)
 
-[May 14]
+_ May 14 _
 B'schweig   3-1 Tasmania    (Moll 27, Krafczyk 85, Maas 80 - Konieczka 56)
 Frankfurt   1-0 Karlsruher  (Blusch 38)
 TSV 1860    3-3 M'gladbach  (Konietzka 36, 49, Küppers 46 - Laumen 25, 81, 83)
@@ -521,7 +502,7 @@ Meidericher 1-1 Bayern      (Nielke 37 - Ohlhauser 70)
 Stuttgart   1-0 Nürnberg    (Peters 25)
 Schalke     2-0 Neunkirchen (Bechmann 75, Kreuz 85) [37 Pyka (Schalke) m/pen]
 
-Round 33 [May 21]
+▪ Round 33 ▪  May 21
 K'lautern   3-2 Schalke     (Reitgaßl 36, 54, Braner 18 - Bechmann 13,
                             Kreuz 69)
 Hannover    4-2 Stuttgart   (Rodekamp 28, Klose 78, Siemensmeyer 79, Bena 90 -
@@ -537,7 +518,7 @@ M'gladbach  1-2 Frankfurt   (Laumann 51 - Huberts 20, Friedrich 65)
 Karlsruher  1-4 B'schweig   (H.Wild 88 - Ulsaß 9, 75, Maas 62, W.Schmidt 65)
 Tasmania    2-1 Neunkirchen (Zeh 22, W.Neumann 83 - G.Kuntz 36 p)
 
-Round 34 [May 22]
+▪ Round 34 ▪  May 22
 Neunkirchen 1-0 Karlsruher  (G.Kuntz 17)
 B'schweig   1-1 M'gladbach  (Ulsaß 65 - Brase 11 o)
 Frankfurt   4-1 Dortmund    (Solz 6, Huberts 8, 80, Blusch 22 - Wosab 2)
@@ -592,24 +573,10 @@ TSV 1860 München 1965/66
 
 
 
-<!-- end pre -->
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-== About this document  ‹§about›
-
-With thanks to Gerd Heuser
-
-Prepared and maintained by Gwidon Naskrent
-for the
-‹Rec.Sport.Soccer Statistics Foundation›
 
 
-Author:
-Gwidon Naskrent
 
-Last updated: 1 Apr 2001
 
-(c) Copyright Gwidon Naskrent and RSSSF 2000/01
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.
+
+<!-- $about$ -->
+

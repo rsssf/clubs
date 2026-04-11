@@ -6,142 +6,116 @@
 
 == Germany 2017/18
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹1. Bundesliga, see §1bl›
-‹DFB Pokal, see §dfbpokal›
-‹2. Bundesliga, see §2bl›
-‹3. Liga, see §3bl›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== 1. Bundesliga  ‹§1bl›
 
-<!-- start pre -->
-Final Table:
+<!-- $table1$ -->
 
- 1.FC Bayern München            34  27  3  4  92-28  84  [C]  Champions
- 2.FC Schalke 04 Gelsenkirchen  34  18  9  7  53-37  63
- 3.TSG 1899 Hoffenheim          34  15 10  9  66-48  55
- 4.Borussia Dortmund            34  15 10  9  64-47  55
- 5.Bayer 04 Leverkusen          34  15 10  9  58-44  55
- 6.RB Leipzig                   34  15  8 11  57-53  53
- 7.VfB Stuttgart                34  15  6 13  36-36  51  [P]
- 8.Eintracht Frankfurt          34  14  7 13  45-45  49
- 9.Borussia Mönchengladbach     34  13  8 13  47-52  47
-10.Hertha BSC Berlin            34  10 13 11  43-46  43
-11.SV Werder Bremen             34  10 12 12  37-40  42
-12.FC Augsburg                  34  10 11 13  43-46  41
-13.Hannover 96                  34  10  9 15  44-54  39  [P]
-14.1.FSV Mainz 05               34   9  9 16  38-52  36
-15.SC Freiburg                  34   8 12 14  32-56  36
-- - - - - - - - - - - - - - - - - - - - - - - - - - - -
-16.VfL Wolfsburg                34   6 15 13  36-48  33       ‹Relegation Playoff, see §1prorel›
--------------------------------------------------------
-17.Hamburger SV                 34   8  7 19  29-53  31       Relegated
-18.1.FC Köln                    34   5  7 22  35-70  22       Relegated
 
-Round 1
-[Aug 18]
+▪ Round 1 ▪
+_ Aug 18 _
 Bayern          3-1 Leverkusen
-[Aug 19]
+_ Aug 19 _
 Mainz           0-1 Hannover
 Hamburg         1-0 Augsburg
 Hertha          2-0 Stuttgart
 Hoffenheim      1-0 Bremen
 Wolfsburg       0-3 Dortmund
 Schalke         2-0 Leipzig
-[Aug 20]
+_ Aug 20 _
 Freiburg        0-0 Frankfurt
 Mönchengladbach 1-0 Köln
 
-Round 2
-[Aug 25]
+▪ Round 2 ▪
+_ Aug 25 _
 Köln            1-3 Hamburg
-[Aug 26]
+_ Aug 26 _
 Leverkusen      2-2 Hoffenheim
 Frankfurt       0-1 Wolfsburg
 Augsburg        2-2 Mönchengladbach
 Stuttgart       1-0 Mainz
 Bremen          0-2 Bayern
 Dortmund        2-0 Hertha
-[Aug 27]
+_ Aug 27 _
 Leipzig         4-1 Freiburg
 Hannover        1-0 Schalke
 
-Round 3
-[Sep 8]
+▪ Round 3 ▪
+_ Sep 8 _
 Hamburg         0-2 Leipzig
-[Sep 9]
+_ Sep 9 _
 Mainz           3-1 Leverkusen
 Mönchengladbach 0-1 Frankfurt
 Augsburg        3-0 Köln
 Freiburg        0-0 Dortmund
 Wolfsburg       1-1 Hannover
 Hoffenheim      2-0 Bayern
-[Sep 10]
+_ Sep 10 _
 Hertha          1-1 Bremen
 Schalke         3-1 Stuttgart
 
-Round 4
-[Sep 15]
+▪ Round 4 ▪
+_ Sep 15 _
 Hannover        2-0 Hamburg
-[Sep 16]
+_ Sep 16 _
 Frankfurt       1-2 Augsburg
 Bayern          4-0 Mainz
 Stuttgart       1-0 Wolfsburg
 Bremen          1-2 Schalke
 Leipzig         2-2 Mönchengladbach
-[Sep 17]
+_ Sep 17 _
 Hoffenheim      1-1 Hertha
 Leverkusen      4-0 Freiburg
 Dortmund        5-0 Köln
 
-Round 5
-[Sep 19]
+▪ Round 5 ▪
+_ Sep 19 _
 Mönchengladbach 2-0 Stuttgart
 Augsburg        1-0 Leipzig
 Schalke         0-3 Bayern
 Wolfsburg       1-1 Bremen
-[Sep 20]
+_ Sep 20 _
 Köln            0-1 Frankfurt
 Mainz           2-3 Hoffenheim
 Hamburg         0-3 Dortmund
 Hertha          2-1 Leverkusen
 Freiburg        1-1 Hannover
 
-Round 6
-[Sep 22]
+▪ Round 6 ▪
+_ Sep 22 _
 Bayern          2-2 Wolfsburg
-[Sep 23]
+_ Sep 23 _
 Mainz           1-0 Hertha
 Leipzig         2-1 Frankfurt
 Hoffenheim      2-0 Schalke
 Stuttgart       0-0 Augsburg
 Bremen          0-0 Freiburg
 Dortmund        6-1 Mönchengladbach
-[Sep 24]
+_ Sep 24 _
 Hannover        0-0 Köln
 Leverkusen      3-0 Hamburg
 
-Round 7
-[Sep 29]
+▪ Round 7 ▪
+_ Sep 29 _
 Schalke         1-1 Leverkusen
-[Sep 30]
+_ Sep 30 _
 Frankfurt       2-1 Stuttgart
 Augsburg        1-2 Dortmund
 Wolfsburg       1-1 Mainz
 Mönchengladbach 2-1 Hannover
 Hamburg         0-0 Bremen
-[Oct 1]
+_ Oct 1 _
 Freiburg        3-2 Hoffenheim
 Hertha          2-2 Bayern
 Köln            1-2 Leipzig
 
-Round 8
-[Oct 13]
+▪ Round 8 ▪
+_ Oct 13 _
 Stuttgart       2-1 Köln
-[Oct 14]
+_ Oct 14 _
 Mainz           3-2 Hamburg
 Bayern          5-0 Freiburg
 Hannover        1-2 Frankfurt
@@ -149,302 +123,282 @@ Hertha          0-2 Schalke
 Hoffenheim      2-2 Augsburg
 Dortmund        2-3 Leipzig
 Leverkusen      2-2 Wolfsburg
-[Oct 15]
+_ Oct 15 _
 Bremen          0-2 Mönchengladbach
 
-Round 9
-[Oct 20]
+▪ Round 9 ▪
+_ Oct 20 _
 Schalke         2-0 Mainz
-[Oct 21]
+_ Oct 21 _
 Mönchengladbach 1-5 Leverkusen
 Frankfurt       2-2 Dortmund
 Augsburg        1-2 Hannover
 Leipzig         1-0 Stuttgart
 Hamburg         0-1 Bayern
-[Oct 22]
+_ Oct 22 _
 Köln            0-0 Bremen
 Freiburg        1-1 Hertha
 Wolfsburg       1-1 Hoffenheim
 
-Round 10
-[Oct 27]
+▪ Round 10 ▪
+_ Oct 27 _
 Mainz           1-1 Frankfurt
-[Oct 28]
+_ Oct 28 _
 Leverkusen      2-1 Köln
 Schalke         1-1 Wolfsburg
 Hannover        4-2 Dortmund
 Hertha          2-1 Hamburg
 Hoffenheim      1-3 Mönchengladbach
 Bayern          2-0 Leipzig
-[Oct 29]
+_ Oct 29 _
 Bremen          0-3 Augsburg
 Stuttgart       3-0 Freiburg
 
-Round 11
-[Nov 3]
+▪ Round 11 ▪
+_ Nov 3 _
 Frankfurt       2-1 Bremen
-[Nov 4]
+_ Nov 4 _
 Mönchengladbach 1-1 Mainz
 Augsburg        1-1 Leverkusen
 Hamburg         3-1 Stuttgart
 Leipzig         2-1 Hannover
 Freiburg        0-1 Schalke
 Dortmund        1-3 Bayern
-[Nov 5]
+_ Nov 5 _
 Köln            0-3 Hoffenheim
 Wolfsburg       3-3 Hertha
 
-Round 12
-[Nov 17]
+▪ Round 12 ▪
+_ Nov 17 _
 Stuttgart       2-1 Dortmund
-[Nov 18]
+_ Nov 18 _
 Mainz           1-0 Köln
 Leverkusen      2-2 Leipzig
 Bayern          3-0 Augsburg
 Hoffenheim      1-1 Frankfurt
 Wolfsburg       3-1 Freiburg
 Hertha          2-4 Mönchengladbach
-[Nov 19]
+_ Nov 19 _
 Schalke         2-0 Hamburg
 Bremen          4-0 Hannover
 
-Round 13
-[Nov 24]
+▪ Round 13 ▪
+_ Nov 24 _
 Hannover        1-1 Stuttgart
-[Nov 25]
+_ Nov 25 _
 Dortmund        4-4 Schalke
 Frankfurt       0-1 Leverkusen
 Augsburg        2-1 Wolfsburg
 Leipzig         2-0 Bremen
 Freiburg        2-1 Mainz
 Mönchengladbach 2-1 Bayern
-[Nov 26]
+_ Nov 26 _
 Hamburg         3-0 Hoffenheim
 Köln            0-2 Hertha
 
-Round 14
-[Dec 1]
+▪ Round 14 ▪
+_ Dec 1 _
 Freiburg        0-0 Hamburg
-[Dec 2]
+_ Dec 2 _
 Mainz           1-3 Augsburg
 Leverkusen      1-1 Dortmund
 Bayern          3-1 Hannover
 Hoffenheim      4-0 Leipzig
 Bremen          1-0 Stuttgart
 Schalke         2-2 Köln
-[Dec 3]
+_ Dec 3 _
 Hertha          1-2 Frankfurt
 Wolfsburg       3-0 Mönchengladbach
 
-Round 15
-[Dec 8]
+▪ Round 15 ▪
+_ Dec 8 _
 Stuttgart       0-2 Leverkusen
-[Dec 9]
+_ Dec 9 _
 Dortmund        1-2 Bremen
 Frankfurt       0-1 Bayern
 Hamburg         0-0 Wolfsburg
 Leipzig         2-2 Mainz
 Mönchengladbach 1-1 Schalke
-[Dec 10]
+_ Dec 10 _
 Köln            3-4 Freiburg
 Hannover        2-0 Hoffenheim
 Augsburg        1-1 Hertha
 
-Round 16
-[Dec 12]
+▪ Round 16 ▪
+_ Dec 12 _
 Wolfsburg       1-1 Leipzig
 Mainz           0-2 Dortmund
 Hamburg         1-2 Frankfurt
 Freiburg        1-0 Mönchengladbach
-[Dec 13]
+_ Dec 13 _
 Hoffenheim      1-0 Stuttgart
 Leverkusen      1-0 Bremen
 Bayern          1-0 Köln
 Schalke         3-2 Augsburg
 Hertha          3-1 Hannover
 
-Round 17
-[Dec 15]
+▪ Round 17 ▪
+_ Dec 15 _
 Mönchengladbach 3-1 Hamburg
-[Dec 16]
+_ Dec 16 _
 Köln            1-0 Wolfsburg
 Frankfurt       2-2 Schalke
 Augsburg        3-3 Freiburg
 Stuttgart       0-1 Bayern
 Bremen          2-2 Mainz
 Dortmund        2-1 Hoffenheim
-[Dec 17]
+_ Dec 17 _
 Hannover        4-4 Leverkusen
 Leipzig         2-3 Hertha
 
-Halfway Table:
+<!-- $table2$ -->
 
- 1.FC Bayern München            17  13  2  2  37-11  41  [C]
- 2.FC Schalke 04 Gelsenkirchen  17   8  6  3  28-21  30
- 3.Borussia Dortmund            17   8  4  5  39-24  28
- 4.Bayer 04 Leverkusen          17   7  7  3  34-23  28
- 5.RB Leipzig                   17   8  4  5  27-25  28
- 6.Borussia Mönchengladbach     17   8  4  5  27-28  28
- 7.TSG 1899 Hoffenheim          17   7  5  5  27-22  26
- 8.Eintracht Frankfurt          17   7  5  5  20-18  26
- 9.FC Augsburg                  17   6  6  5  27-23  24
-10.Hertha BSC Berlin            17   6  6  5  26-25  24
-11.Hannover 96                  17   6  5  6  24-26  23  [P]
-12.VfL Wolfsburg                17   3 10  4  21-21  19
-13.SC Freiburg                  17   4  7  6  17-31  19
-14.VfB Stuttgart                17   5  2 10  13-21  17  [P]
-15.1.FSV Mainz 05               17   4  5  8  19-28  17
-- - - - - - - - - - - - - - - - - - - - - - - - - - - -
-16.SV Werder Bremen             17   3  6  8  13-20  15
--------------------------------------------------------
-17.Hamburger SV                 17   4  3 10  15-25  15
-18.1.FC Köln                    17   1  3 13  10-32   6
 
-Round 18
-[Jan 12]
+▪ Round 18 ▪
+_ Jan 12 _
 Leverkusen      1-3 Bayern
-[Jan 13]
+_ Jan 13 _
 Frankfurt       1-1 Freiburg
 Stuttgart       1-0 Hertha
 Hannover        3-2 Mainz
 Bremen          1-1 Hoffenheim
 Augsburg        1-0 Hamburg
 Leipzig         3-1 Schalke
-[Jan 14]
+_ Jan 14 _
 Köln            2-1 Mönchengladbach
 Dortmund        0-0 Wolfsburg
 
-Round 19
-[Jan 19]
+▪ Round 19 ▪
+_ Jan 19 _
 Hertha          1-1 Dortmund
-[Jan 20]
+_ Jan 20 _
 Mainz           3-2 Stuttgart
 Mönchengladbach 2-0 Augsburg
 Wolfsburg       1-3 Frankfurt
 Hoffenheim      1-4 Leverkusen
 Freiburg        2-1 Leipzig
 Hamburg         0-2 Köln
-[Jan 21]
+_ Jan 21 _
 Bayern          4-2 Bremen
 Schalke         1-1 Hannover
 
-Round 20
-[Jan 26]
+▪ Round 20 ▪
+_ Jan 26 _
 Frankfurt       2-0 Mönchengladbach
-[Jan 27]
+_ Jan 27 _
 Köln            1-1 Augsburg
 Leipzig         1-1 Hamburg
 Stuttgart       0-2 Schalke
 Dortmund        2-2 Freiburg
 Bayern          5-2 Hoffenheim
 Bremen          0-0 Hertha
-[Jan 28]
+_ Jan 28 _
 Leverkusen      2-0 Mainz
 Hannover        0-1 Wolfsburg
 
-Round 21
-[Feb 2]
+▪ Round 21 ▪
+_ Feb 2 _
 Köln            2-3 Dortmund
-[Feb 3]
+_ Feb 3 _
 Mainz           0-2 Bayern
 Schalke         1-2 Bremen
 Hertha          1-1 Hoffenheim
 Freiburg        0-0 Leverkusen
 Wolfsburg       1-1 Stuttgart
 Mönchengladbach 0-1 Leipzig
-[Feb 4]
+_ Feb 4 _
 Augsburg        3-0 Frankfurt
 Hamburg         1-1 Hannover
 
-Round 22
-[Feb 9]
+▪ Round 22 ▪
+_ Feb 9 _
 Leipzig         2-0 Augsburg
-[Feb 10]
+_ Feb 10 _
 Leverkusen      0-2 Hertha
 Dortmund        2-0 Hamburg
 Frankfurt       4-2 Köln
 Hannover        2-1 Freiburg
 Hoffenheim      4-2 Mainz
 Bayern          2-1 Schalke
-[Feb 11]
+_ Feb 11 _
 Stuttgart       1-0 Mönchengladbach
 Bremen          3-1 Wolfsburg
 
-Round 23
-[Feb 16]
+▪ Round 23 ▪
+_ Feb 16 _
 Hertha          0-2 Mainz
-[Feb 17]
+_ Feb 17 _
 Köln            1-1 Hannover
 Hamburg         1-2 Leverkusen
 Freiburg        1-0 Bremen
 Wolfsburg       1-2 Bayern
 Schalke         2-1 Hoffenheim
-[Feb 18]
+_ Feb 18 _
 Augsburg        0-1 Stuttgart
 Mönchengladbach 0-1 Dortmund
-[Feb 19]
+_ Feb 19 _
 Frankfurt       2-1 Leipzig
 
-Round 24
-[Feb 23]
+▪ Round 24 ▪
+_ Feb 23 _
 Mainz           1-1 Wolfsburg
-[Feb 24]
+_ Feb 24 _
 Bayern          0-0 Hertha
 Hannover        0-1 Mönchengladbach
 Hoffenheim      1-1 Freiburg
 Stuttgart       1-0 Frankfurt
 Bremen          1-0 Hamburg
-[Feb 25]
+_ Feb 25 _
 Leverkusen      0-2 Schalke
 Leipzig         1-2 Köln
-[Feb 26]
+_ Feb 26 _
 Dortmund        1-1 Augsburg
 
-Round 25
-[Mar 2]
+▪ Round 25 ▪
+_ Mar 2 _
 Mönchengladbach 2-2 Bremen
-[Mar 3]
+_ Mar 3 _
 Frankfurt       1-0 Hannover
 Augsburg        0-2 Hoffenheim
 Schalke         1-0 Hertha
 Hamburg         0-0 Mainz
 Wolfsburg       1-2 Leverkusen
 Leipzig         1-1 Dortmund
-[Mar 4]
+_ Mar 4 _
 Köln            2-3 Stuttgart
 Freiburg        0-4 Bayern
 
-Round 26
-[Mar 9]
+▪ Round 26 ▪
+_ Mar 9 _
 Mainz           0-1 Schalke
-[Mar 10]
+_ Mar 10 _
 Bayern          6-0 Hamburg
 Hannover        1-3 Augsburg
 Hertha          0-0 Freiburg
 Hoffenheim      3-0 Wolfsburg
 Leverkusen      2-0 Mönchengladbach
-[Mar 11]
+_ Mar 11 _
 Stuttgart       0-0 Leipzig
 Dortmund        3-2 Frankfurt
-[Mar 12]
+_ Mar 12 _
 Bremen          3-1 Köln
 
-Round 27
-[Mar 16]
+▪ Round 27 ▪
+_ Mar 16 _
 Freiburg        1-2 Stuttgart
-[Mar 17]
+_ Mar 17 _
 Mönchengladbach 3-3 Hoffenheim
 Frankfurt       3-0 Mainz
 Augsburg        1-3 Bremen
 Hamburg         1-2 Hertha
 Wolfsburg       0-1 Schalke
-[Mar 18]
+_ Mar 18 _
 Dortmund        1-0 Hannover
 Köln            2-0 Leverkusen
 Leipzig         2-1 Bayern
 
-Round 28
-[Mar 31]
+▪ Round 28 ▪
+_ Mar 31 _
 Leverkusen      0-0 Augsburg
 Schalke         2-0 Freiburg
 Hannover        2-3 Leipzig
@@ -452,69 +406,69 @@ Hoffenheim      6-0 Köln
 Stuttgart       1-1 Hamburg
 Bayern          6-0 Dortmund
 Hertha          0-0 Wolfsburg
-[Apr 1]
+_ Apr 1 _
 Bremen          2-1 Frankfurt
 Mainz           0-0 Mönchengladbach
 
-Round 29
-[Apr 6]
+▪ Round 29 ▪
+_ Apr 6 _
 Hannover        2-1 Bremen
-[Apr 7]
+_ Apr 7 _
 Köln            1-1 Mainz
 Mönchengladbach 2-1 Hertha
 Augsburg        1-4 Bayern
 Freiburg        0-2 Wolfsburg
 Hamburg         3-2 Schalke
-[Apr 8]
+_ Apr 8 _
 Dortmund        3-0 Stuttgart
 Frankfurt       1-1 Hoffenheim
-[Apr 9]
+_ Apr 9 _
 Leipzig         1-4 Leverkusen
 
-Round 30
-[Apr 13]
+▪ Round 30 ▪
+_ Apr 13 _
 Wolfsburg       0-0 Augsburg
-[Apr 14]
+_ Apr 14 _
 Leverkusen      4-1 Frankfurt
 Hertha          2-1 Köln
 Hoffenheim      2-0 Hamburg
 Stuttgart       1-1 Hannover
 Bayern          5-1 Mönchengladbach
-[Apr 15]
+_ Apr 15 _
 Schalke         2-0 Dortmund
 Bremen          1-1 Leipzig
-[Apr 16]
+_ Apr 16 _
 Mainz           2-0 Freiburg
 
-Round 31
-[Apr 20]
+▪ Round 31 ▪
+_ Apr 20 _
 Mönchengladbach 3-0 Wolfsburg
-[Apr 21]
+_ Apr 21 _
 Frankfurt       0-3 Hertha
 Hamburg         1-0 Freiburg
 Hannover        0-3 Bayern
 Leipzig         2-5 Hoffenheim
 Stuttgart       2-0 Bremen
 Dortmund        4-0 Leverkusen
-[Apr 22]
+_ Apr 22 _
 Augsburg        2-0 Mainz
 Köln            2-2 Schalke
 
-Round 32
-[Apr 27]
+▪ Round 32 ▪
+_ Apr 27 _
 Hoffenheim      3-1 Hannover
-[Apr 28]
+_ Apr 28 _
 Bayern          4-1 Frankfurt
 Schalke         1-1 Mönchengladbach
 Hertha          2-2 Augsburg
 Freiburg        3-2 Köln
 Wolfsburg       1-3 Hamburg
 Leverkusen      0-1 Stuttgart
-[Apr 29]
+_ Apr 29 _
 Mainz           3-0 Leipzig
 Bremen          1-1 Dortmund
 
-Round 33 [May 5]
+▪ Round 33 ▪  May 5
 Köln            1-3 Bayern
 Dortmund        1-2 Mainz
 Mönchengladbach 3-1 Freiburg
@@ -525,7 +479,7 @@ Leipzig         4-1 Wolfsburg
 Stuttgart       2-0 Hoffenheim
 Bremen          0-0 Leverkusen
 
-Round 34 [May 12]
+▪ Round 34 ▪  May 12
 Mainz           1-2 Bremen
 Leverkusen      3-2 Hannover
 Bayern          1-4 Stuttgart
@@ -536,52 +490,32 @@ Freiburg        2-0 Augsburg
 Hoffenheim      3-1 Dortmund
 Wolfsburg       4-1 Köln
 
-Final Table:
+<!-- $table3$ -->
 
- 1.FC Bayern München            34  27  3  4  92-28  84  [C]  Champions
- 2.FC Schalke 04 Gelsenkirchen  34  18  9  7  53-37  63
- 3.TSG 1899 Hoffenheim          34  15 10  9  66-48  55
- 4.Borussia Dortmund            34  15 10  9  64-47  55
- 5.Bayer 04 Leverkusen          34  15 10  9  58-44  55
- 6.RB Leipzig                   34  15  8 11  57-53  53
- 7.VfB Stuttgart                34  15  6 13  36-36  51  [P]
- 8.Eintracht Frankfurt          34  14  7 13  45-45  49
- 9.Borussia Mönchengladbach     34  13  8 13  47-52  47
-10.Hertha BSC Berlin            34  10 13 11  43-46  43
-11.SV Werder Bremen             34  10 12 12  37-40  42
-12.FC Augsburg                  34  10 11 13  43-46  41
-13.Hannover 96                  34  10  9 15  44-54  39  [P]
-14.1.FSV Mainz 05               34   9  9 16  38-52  36
-15.SC Freiburg                  34   8 12 14  32-56  36
-- - - - - - - - - - - - - - - - - - - - - - - - - - - -
-16.VfL Wolfsburg                34   6 15 13  36-48  33       ‹Relegation Playoff, see §1prorel›
--------------------------------------------------------
-17.Hamburger SV                 34   8  7 19  29-53  31       Relegated
-18.1.FC Köln                    34   5  7 22  35-70  22       Relegated
 
 Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
 
-First Leg [May 17]
+▪ First Leg ▪  May 17
 Wolfsburg       3-1 Kiel
 
-Second Leg [May 21]
+▪ Second Leg ▪  May 21
 Kiel            0-1 Wolfsburg
 
 NB: both remain at former level
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== DFB Pokal  ‹§dfbpokal›
 
-<!-- start pre -->
-Round 1
-[Aug 11]
+▪ Round 1 ▪
+_ Aug 11 _
 TuS Koblenz            2-3 Dynamo Dresden
 Holstein Kiel          2-1 Eintracht Braunschweig
-Karlsruhe              0-3 Bayer Leverkusen       [aet]
+Karlsruhe              0-3 Bayer Leverkusen       (aet)
 Rot-Weiss Essen        1-2 Borussia M'gladbach
-[Aug 12]
+_ Aug 12 _
 Rielasingen-Arlen      0-4 Borussia Dortmund
 Chemnitzer FC          0-5 Bayern München
 Germania Halberstadt   1-2 Freiburg
@@ -590,12 +524,12 @@ Lüneburger SK Hansa    1-3 Mainz
 Unterhaching           0-4 Heidenheim
 Eichede                0-4 Kaiserslautern
 Erndtebrück            0-3 Eintracht Frankfurt
-Arminia Bielefeld      1-3 Fortuna Düsseldorf     [aet]
+Arminia Bielefeld      1-3 Fortuna Düsseldorf     (aet)
 Jahn Regensburg        3-1 Darmstadt 98
 Rot-Weiß Erfurt        0-1 Hoffenheim
 Würzburger Kickers     0-3 Werder Bremen
-[Aug 13]
-Saarbrücken            1-2 Union Berlin           [aet]
+_ Aug 13 _
+Saarbrücken            1-2 Union Berlin           (aet)
 Schweinfurt 05         2-1 Sandhausen
 1860 München           1-2 Ingolstadt
 Bonner SC              2-6 Hannover
@@ -605,210 +539,110 @@ Spfr. Dorfmerkingen    0-5 RB Leipzig
 Morlautern             0-5 Greuther Fürth
 Osnabrück              3-1 Hamburg
 Magdeburg              2-0 Augsburg
-Energie Cottbus        2-2 Stuttgart              [aet, 3-4 pen]
+Energie Cottbus        2-2 Stuttgart              (aet, 3-4 pen)
 Wehen Wiesbaden        2-0 Erzgebirge Aue
-[Aug 14]
+_ Aug 14 _
 BFC Dynamo (Berlin)    0-2 Schalke 04
 MSV Duisburg           1-2 Nürnberg
 Paderborn              2-1 Sankt Pauli
 Hansa Rostock          0-2 Hertha BSC
 
-Round 2
-[Oct 24]
+▪ Round 2 ▪
+_ Oct 24 _
 Bayer Leverkusen       4-1 Union Berlin
 Fortuna Düsseldorf     0-1 Borussia M'gladbach
 Paderborn              2-0 Bochum
 Wehen Wiesbaden        1-3 Schalke 04
 Magdeburg              0-5 Borussia Dortmund
 Schweinfurt 05         0-4 Eintracht Frankfurt
-Mainz                  3-2 Holstein Kiel          [aet]
+Mainz                  3-2 Holstein Kiel          (aet)
 Greuther Fürth         1-3 Ingolstadt
-[Oct 25]
+_ Oct 25 _
 Kaiserslautern         1-3 Stuttgart
 Hertha BSC             1-3 Köln
 Osnabrück              2-3 Nürnberg
 Wolfsburg              1-0 Hannover
-RB Leipzig             1-1 Bayern München         [aet, 4-5 pen]
+RB Leipzig             1-1 Bayern München         (aet, 4-5 pen)
 Freiburg               3-1 Dynamo Dresden
 Jahn Regensburg        2-5 Heidenheim
 Werder Bremen          1-0 Hoffenheim
 
-1/8 Finals
-[Dec 19]
+▪ 1/8 Finals ▪
+_ Dec 19 _
 Mainz                  3-1 Stuttgart
 Paderborn              1-0 Ingolstadt
-Nürnberg               0-2 Wolfsburg              [aet]
+Nürnberg               0-2 Wolfsburg              (aet)
 Schalke 04             1-0 Köln
-[Dec 20]
+_ Dec 20 _
 Werder Bremen          3-2 Freiburg
 Borussia M'gladbach    0-1 Bayer Leverkusen
-Heidenheim             1-2 Eintracht Frankfurt    [aet]
+Heidenheim             1-2 Eintracht Frankfurt    (aet)
 Bayern München         2-1 Borussia Dortmund
 
-Quarterfinals
-[Feb 6]
+▪ Quarterfinals ▪
+_ Feb 6 _
 Paderborn              0-6 Bayern München
-Bayer Leverkusen       4-2 Werder Bremen          [aet]
-[Feb 7]
+Bayer Leverkusen       4-2 Werder Bremen          (aet)
+_ Feb 7 _
 Eintracht Frankfurt    3-0 Mainz
 Schalke 04             1-0 Wolfsburg
 
-Semifinals
-[Apr 17]
+▪ Semifinals ▪
+_ Apr 17 _
 Bayer Leverkusen       2-6 Bayern München
-[Apr 18]
+_ Apr 18 _
 Schalke 04             0-1 Eintracht Frankfurt
 
-Final [May 19, Berlin]
+▪ Final ▪  May 19, Berlin
 Eintracht Frankfurt    3-1 Bayern München
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== 2. Bundesliga  ‹§2bl›
 
-<!-- start pre -->
-Final Table:
+<!-- $table4$ -->
 
- 1.Fortuna Düsseldorf           34  19  6  9  57-44  63       Promoted
- 2.1.FC Nürnberg                34  17  9  8  61-39  60       Promoted
--------------------------------------------------------
- 3.Holstein Kiel                34  14 14  6  71-44  56  [P]  ‹Promotion Playoff, see §1prorel›
-- - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 4.DSC Arminia Bielefeld        34  12 12 10  51-47  48
- 5.Jahn Regensburg              34  14  6 14  53-53  48  [P]
- 6.VfL Bochum                   34  13  9 12  37-40  48
- 7.MSV Duisburg                 34  13  9 12  52-56  48  [P]
- 8.1. FC Union Berlin           34  12 11 11  54-46  47
- 9.FC Ingolstadt 04             34  12  9 13  47-45  45  [R]
-10.SV Darmstadt 98              34  10 13 11  47-45  43  [R]
-11.SV Sandhausen                34  11 10 13  35-33  43
-12.FC Sankt Pauli               34  11 10 13  35-48  43
-13.1. FC Heidenheim             34  11  9 14  50-56  42
-14.Dynamo Dresden               34  11  8 15  42-52  41
-15.SpVgg Greuther Fürth         34  10 10 14  37-48  40
-- - - - - - - - - - - - - - - - - - - - - - - - - - - -
-16.FC Erzgebirge Aue            34  10 10 14  35-49  40       ‹Relegation Playoff, see §2prorel›
--------------------------------------------------------
-17.Eintracht Braunschweig       34   8 15 11  37-43  39       Relegated
-18.1.FC Kaiserslautern          34   9  8 17  42-55  35       Relegated
 
 Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
 
-First Leg [May 18]
+▪ First Leg ▪  May 18
 Karlsruhe       0-0 Aue
 
-Second Leg [May 22]
+▪ Second Leg ▪  May 22
 Aue             3-1 Karlsruhe
 
 NB: both remain at former level
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== 3. Liga  ‹§3bl›
 
-<!-- start pre -->
-Final Table:
+<!-- $table5$ -->
 
- 1.1.FC Magdeburg               38  27  4  7  70-32  85       Promoted
- 2.SC Paderborn 07              38  25  8  5  90-33  83       Promoted
--------------------------------------------------------
- 3.Karlsruher SC                38  19 12  7  49-29  69  [R]  ‹Promotion Playoff, see §2prorel›
-- - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 4.SV Wehen Wiesbaden           38  21  5 12  76-39  68
- 5.FC Würzburger Kickers        38  17 10 11  53-46  61  [R]
- 6.FC Hansa Rostock             38  16 12 10  48-34  60
- 7.SV Meppen                    38  15 13 10  50-47  58  [P]
- 8.Fortuna Köln                 38  15  9 14  53-48  54
- 9.SpVgg Unterhaching           38  16  6 16  54-55  54  [P]
-10.SC Preußen Münster           38  14 10 14  50-49  52
-11.Carl Zeiss Jena              38  14 10 14  49-59  52  [P]
-12.VfR Aalen                    38  13 11 14  48-57  50
-13.Hallescher FC                38  13 10 15  52-54  49
-14.SG Sonnenhof Großaspach      38  12 11 15  55-60  47
-15.FSV Zwickau                  38  10 11 17  38-55  41
-16.Sportfreunde Lotte           38  11  7 20  43-60  40
-17.VfL Osnabrück                38   8 13 17  47-67  37
--------------------------------------------------------
-18.SV Werder Bremen II          38   6 13 19  39-62  31       Relegated
-19.Chemnitzer FC                38   8  7 23  48-74  22  [-9] Relegated
-20.Rot-Weiß Erfurt              38   5  8 25  26-78  13 [-10] Relegated
 
 Promotion Playoffs for 3. Bundesliga  ‹§3pro›
 
-First Legs [May 24]
+▪ First Legs ▪  May 24
 Saarbrücken     2-3 1860 München
 Weiche 08       2-3 Cottbus
 Uerdingen       1-0 Waldhof
 
-Second Legs [May 27]
+▪ Second Legs ▪  May 27
 1860 München    2-2 Saarbrücken
 Cottbus         0-0 Weiche 08
 Waldhof         awd Uerdingen       [abandoned at 1-2 in 82'; awarded 0-2]
 
 NB: TSV 1860 München, Energie Cottbus and KFC Uerdingen 05 promoted
 
-<!-- end pre -->
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-‹2016/17, see page duit2017›
-
-‹2018/19, see page duit2019›
-
-‹list of champions, see page duitchamp›
-
-‹all-time table, see page duialltime›
-
-‹list of 2nd level champions, see page duit2champ›
-
-‹list of amateur champions, see page duitamachamp›
-
-‹oberliga berlin 1945-1963, see page duit-ol-berlin4563›
-
-‹oberliga nord 1945-1963, see page duit-ol-nord4563›
-
-‹oberliga süd 1945-1963, see page duit-ol-sued4563›
-
-‹oberliga südwest 1945-1963, see page duit-ol-suedwest4563›
-
-‹oberliga südwest süd 1945-1950, see page duit-ol-suedwestsued4550›
-
-‹oberliga west 1945-1963, see page duit-ol-west4563›
-
-‹regionalliga nord 63-74, see page dui3nordhist›
-
-‹regionalliga süd 63-74, see page dui3suedhist›
-
-‹regionalliga west 63-74, see page dui3westhist›
-
-‹list of cup finals, see page duitcuphist›
-
-‹list of super and league cup finals, see page duitsupcuphist›
-
-‹list of topscorers, see page duittops›
-
-‹list of 2nd level topscorers, see page duit2tops›
-
-‹list of foundation dates, see page duitfound›
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-== About this document  ‹§about›
-
-Thanks to Florian Andrews for corrections
-
-Prepared and maintained by Karel Stokkermans
-for the ‹Rec.Sport.Soccer Statistics Foundation›
 
 
-Author: Karel Stokkermans
-
-Last updated: 9 May 2019
 
 
-(C) Copyright Karel Stokkermans and RSSSF 2017/19
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.
+
+<!-- $about$ -->
+
