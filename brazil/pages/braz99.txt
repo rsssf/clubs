@@ -9,8 +9,8 @@
 <!-- $table1$ -->
 
 
-(NB: Vasco-Paraná of Aug 19 included)
-(NB: São Paulo-Internacional and São Paulo-Botafogo/RJ included as 0-1)
+[NB: Vasco-Paraná of Aug 19 included]
+[NB: São Paulo-Internacional and São Paulo-Botafogo/RJ included as 0-1]
 
 ▪ Round 1 ▪
 _ Jul 24 _
@@ -358,8 +358,8 @@ Atlético/MG   2-0 Grêmio
 <!-- $table2$ -->
 
 
-(NB: Vasco-Paraná of Aug 19 included)
-(NB: São Paulo-Internacional and São Paulo-Botafogo/RJ included as 0-1)
+[NB: Vasco-Paraná of Aug 19 included]
+[NB: São Paulo-Internacional and São Paulo-Botafogo/RJ included as 0-1]
 
 
 ▪ Championship Playoff ▪

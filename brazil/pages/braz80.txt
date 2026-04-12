@@ -1105,7 +1105,7 @@ Grêmio         1-0  Coritiba
 _ May 21 and 25 _
 Atlético-MG    1-1   3-0  Internacional
   [Reinaldo;  Cléo]
-  (Éder (2), Reinaldo)
+  [Éder (2), Reinaldo]
 Coritiba       0-2   3-4  Flamengo-RJ
   (Zico (2))
   (Vílson Tadei, Aladim, Luís Freire;  Nunes (2), Carlos Alberto, Anselmo)
@@ -1115,7 +1115,7 @@ Coritiba       0-2   3-4  Flamengo-RJ
 _ May 28 _
 Atlético-MG    1-0   2-3  Flamengo-RJ
   [Reinaldo]
-  (Reinaldo (2);  Nunes (2), Zico)
+  [Reinaldo (2);  Nunes (2), Zico]
 
 Flamengo wins due to better semifinal record.
 CR Flamengo are the 1980 Brazilian champions

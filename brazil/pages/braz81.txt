@@ -992,7 +992,7 @@ Náutico           0-0   1-2  Ponte Preta
   [Piter;  Serginho, Lola]
 Fluminense        0-2   3-2  Vasco da Gama
   [César, Roberto Dinamite]
-  (Cláudio Adão (2), Edinho;  Gilcimar, Edinho (own goal))
+  [Cláudio Adão (2), Edinho;  Gilcimar, Edinho (own goal)]
 Vitória           2-1   0-2  Grêmio
   [Zé Augusto, Róbson;  Tarciso]
   [Paulo Isidoro, Tarciso]
@@ -1013,7 +1013,7 @@ Grêmio            2-0   1-0  Operário-MS
 _ Apr 16 and 19 _
 Internacional-RS  0-1   0-2  São Paulo
   [Éverton]
-  (Serginho (2))
+  [Serginho (2)]
 Flamengo          0-0   1-3  Botafogo
   (Zico;  Mendonça (2), Jérson)
 
@@ -1026,7 +1026,7 @@ Ponte Preta qualified due to better 1/8 finals record
 _ Apr 22 and 26 _
 Botafogo          1-0   2-3  São Paulo
   [Marcelo]
-  (Éverton (2), Serginho; Jérson, Mendonça)
+  [Éverton (2), Serginho; Jérson, Mendonça]
 _ Apr 23 and 26 _
 Ponte Preta       2-3   1-0  Grêmio
   (Lola (2);  Paulo Isidoro, Víldon Tadei, Tarciso)
@@ -1037,7 +1037,7 @@ Grêmio and São Paulo qualified due to better quarterfinals record
 ▪ Final ▪
 
 ▪ First Leg ▪
-(Apr 30 and May 3)
+_ Apr 30 and May 3 _
 Grêmio            2-1   1-0  São Paulo
   (Paulo Isidoro (2);  Serginho)
   [Baltazar]

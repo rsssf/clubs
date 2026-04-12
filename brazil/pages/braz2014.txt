@@ -730,14 +730,14 @@ Obs.: 1) In each match, the second mentioned team plays the 2nd leg in home.
       2) Away goal rule applied on all phases.
 
 Preliminary Phase
-(if the away team wins the 1st leg by 2 or more goals, no 2nd leg is played)
+[if the away team wins the 1st leg by 2 or more goals, no 2nd leg is played]
 
    Real Noroeste (ES) - Rio Branco (AC)         1-1 (19/02)     0-1 (26/02)
                                                 (Robert 70 ; Thiago 6)
                                                 (Adriano Louzada 89)
 
 First Round (03/04 to 25/04)
-(if the away team wins the 1st leg by 2 or more goals, no 2nd leg is played)
+[if the away team wins the 1st leg by 2 or more goals, no 2nd leg is played]
 
  1 Resende (RJ) - Vasco (RJ)                    0-0 (03/04)     0-1 (17/04)     [b]
                                                 (Douglas 70pen)
@@ -850,7 +850,7 @@ First Round (03/04 to 25/04)
 [f] 1st leg played in Teresina.
 
 ▪ Second Round ▪
-(if the away team wins the 1st leg by 2 or more goals, no 2nd leg is played)
+[if the away team wins the 1st leg by 2 or more goals, no 2nd leg is played]
 
 41 Treze - Vasco                                2-1 (30/04)     1-1 (07/05)
                                                 (Thalles 50, 85 ; Esquerdinha 19)

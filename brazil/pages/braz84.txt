@@ -1242,10 +1242,10 @@ Corinthians    2-0  Atlético-PR
 
 ▪ Quarterfinals ▪
 
-(Apr 29 and May 6)
+_ Apr 29 and May 6 _
 Coritiba       2-2   0-5  Fluminense
   [Vavá, Lela; Washington, Romerito]
-  (Washington (2), Assis, Renê, Romerito)
+  [Washington (2), Assis, Renê, Romerito]
 Flamengo       2-0   1-4  Corinthians
   [Élder, Bebeto]
   [Biro-Biro, Wladimir, Édson Boaro, Ataliba; Paulinho (own goal)]
@@ -1264,7 +1264,7 @@ Náutico        2-3   1-3  Grêmio
 _ May 12 and 19 _
 Grêmio         1-0   0-3  Vasco da Gama
   [Tarciso]
-  (Roberto Dinamite (2), Marquinho Carioca)
+  [Roberto Dinamite (2), Marquinho Carioca]
 _ May 13 and 20 _
 Corinthians    0-2   0-0  Fluminense
   [Assis, Tato]
@@ -1373,7 +1373,7 @@ Botafogo-PB          0-4   0-2   Uberlândia
 
 ▪ Final ▪
 
-(Mar 28 and Apr 1)
+_ Mar 28 and Apr 1 _
 Uberlândia           1-0   0-0   Remo
 
 Uberlândia are Champions of 1984 Brazilian 2nd Level (Taça CBF), qualified to the third phase of the 1984 1st Level (Copa Brasil).

@@ -1067,7 +1067,7 @@ Obs.: 1) In each match, the second mentioned team plays the 2nd leg in home.
       2) Away goal rule applied on all phases.
 
 First Round (10/02 to 10/03)
-(if the away team wins the 1st leg by 2 or more goals, no 2nd leg is played)
+[if the away team wins the 1st leg by 2 or more goals, no 2nd leg is played]
 
  1 Sousa (PB) - Vasco (RJ)                      1-2 (10/02)     0-0 (25/02)       [a]
                                                 (Manu 14 ; Tiago 61, Elton 90+1)
@@ -1165,7 +1165,7 @@ Pedro in 1st leg
 [h] 1st leg played in Porto Alegre
 
 ▪ Second Round ▪
-(if the away team wins the 1st leg by 2 or more goals, no 2nd leg is played)
+[if the away team wins the 1st leg by 2 or more goals, no 2nd leg is played]
 
 33 ASA - Vasco                                  1-1 (17/03)     1-3 (31/03)       [i]
                                                 (Júnior Viçosa 38 ; Philippe Coutinho 63pen)

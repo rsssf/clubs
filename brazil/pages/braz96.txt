@@ -381,7 +381,7 @@ Agnaldo (Vit)            9
 Brazil 1996 Cup
 
 ▪ Preliminary Round ▪
-(2 goals away win guarantees qualification without 2nd leg being played)
+[2 goals away win guarantees qualification without 2nd leg being played]
 Ferrovia.-CE 0-1 0-2 Goias
 Aragauin.-TO 2-1 0-1 Vila Nova
 Cristal      0-1 1-3 Santa Cruz-PE
@@ -392,7 +392,7 @@ Nacional-AM    1-3   America-MG
 Gama-DF      0-1 1-2 Bahia
 
 First Round (1/16 Finals)
-(2 goals away win guarantees qualification without 2nd leg being played)
+[2 goals away win guarantees qualification without 2nd leg being played]
 Santa Cruz-PB  0-2   Vasco
 ABC            0-4   Corinthians
 Sergipe        0-8   Palmeiras

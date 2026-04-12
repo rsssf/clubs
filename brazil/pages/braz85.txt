@@ -1557,7 +1557,7 @@ Vasco da Gama   4-0  Mixto
 _ Jul 24 and 28 _
 Brasil          0-1   1-3  Bangu           [1st leg played in Porto Alegre due
   [Jorge Batata (own goal)]                 to insufficient stadium capacity in
-  (Marinho (2), Ado; Bira]                  Pelotas)
+  [Marinho (2), Ado; Bira]                  Pelotas]
 Coritiba        1-0   0-0  Atlético-MG
   [Heraldo]
 
@@ -1625,7 +1625,7 @@ Operário MS    2-0    2-1   Goiânia
 
 ▪ Second Phase ▪
 
-(Feb 23-Mar 2)
+[Feb 23-Mar 2]
 Tuna Luso      1-0    2-1   Rio Negro
 (Feb 23-Mar 3)
 América-MG     1-3    0-1   Goytacaz

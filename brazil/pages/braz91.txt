@@ -432,8 +432,8 @@ Internacional   1-2  Náutico
 Sport           1-2  Bahia
   [Sérgio Alves; Luís Henrique, Adil]
 Fluminense      awd  Botafogo              [awarded 1-0, abandoned at 0-0
-(May 2]                                     during halftime due to pitch
-Santos          1-1  Palmeiras              invasion by Botafogo's fans)
+[May 2]                                     during halftime due to pitch
+Santos          1-1  Palmeiras              invasion by Botafogo's fans]
   [Paulinho; Toninho]
 _ May 10 _
 Cruzeiro        0-2  Flamengo
@@ -494,10 +494,10 @@ Atlético-PR     1-2  Bragantino
 ▪ Semifinals ▪
 São Paulo and Bragantino won a bonus point due to better first phase record
 
-(May 25 and Jun 1)
+_ May 25 and Jun 1 _
 Atlético-MG     1-1   0-0  São Paulo
   [Cléber; Mário Tilico]
-(May 26 and Jun 1)
+_ May 26 and Jun 1 _
 Fluminense      0-1   1-1  Bragantino
   [Franklin]
   [Ézio; Franklin]
@@ -1257,7 +1257,7 @@ Knockout style, away goals rule applied
                                                 (Heraldo 89')
                                                 (Pereira 45')
 ▪ Finals ▪
-(Domingo, 19 Maio 1991)
+[Domingo, 19 Maio 1991]
 Guarani 1-0 Paysandu
 Local: Brinco de Ouro da Princesa - Campinas
 Horário: 16:00 h
@@ -1270,7 +1270,7 @@ Cartões Vermelhos: Nadi e Vagner no 1o. tempo e César no 2o. tempo.
 GUARANI - Marcos Garça, Jura, Paulo Silva, Pereira e Julimar; Biro-biro, Valmir e Edson Abobrão; Vagner, Vonei (Paulinho) e Claudinho (Alex). Técnico: Pepe.
 PAYSANDU - Luís Carlos, César, Ari, Nadi e Paulo Cruz; Maurício, Oberdan e Rogerinho; Cacaio, Fernando e Mazinho. Técnico: Joel Martins.
 
-(Domingo, 26 Maio 1991)
+[Domingo, 26 Maio 1991]
 Paysandu 2-0 Guarani
 Local: Alacid Nunes (Mangueirão) - Belém
 Horário: 17:00 h

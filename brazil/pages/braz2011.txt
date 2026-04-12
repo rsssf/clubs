@@ -1077,7 +1077,7 @@ Obs.: 1) In each match, the second mentioned team plays the 2nd leg in home.
       2) Away goal rule applied on all phases.
 
 First Round (16/02 to 03/03)
-(if the away team wins the 1st leg by 2 or more goals, no 2nd leg is played)
+[if the away team wins the 1st leg by 2 or more goals, no 2nd leg is played]
 
  1 Murici (AL) - Flamengo (RJ)                  0-3 (16/02)     n/p (24/02)      [a]
                                                 (Ronaldinho Gaúcho 66, Renato Abreu 72, Negueba 90)
@@ -1170,7 +1170,7 @@ to 02/03 and was postponed until this situation be judged. The judgement happene
 03/03 and Baré was eliminated from the competition.
 
 Second Round (16/03 to 07/04)
-(if the away team wins the 1st leg by 2 or more goals, no 2nd leg is played)
+[if the away team wins the 1st leg by 2 or more goals, no 2nd leg is played]
 
 33 Fortaleza - Flamengo                         0-3 (16/03)     n/p (30/03)
                                                 (Renato Abreu 20, Wanderley 60, Diego Mauricio 90+1)

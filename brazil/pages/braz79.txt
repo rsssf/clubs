@@ -273,8 +273,8 @@ Desportiva        2-1  Caxias
 Caldense          3-0  Colatina
   [Armando, Mirandinha, Natal]
 São Paulo-RS      awd  Operário-PR         [points awarded to S.Paulo after
-  (Paquito]                                 Operário had only 6 players in the
-                                            field at 85', originally 0-1)
+  [Paquito]                                 Operário had only 6 players in the
+                                            field at 85', originally 0-1]
 
 <!-- $table2$ -->
 

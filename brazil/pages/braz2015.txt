@@ -1074,14 +1074,14 @@ Obs.: 1) In each match, the second mentioned team plays the 2nd leg in home.
       2) Away goal rule applied on all phases.
 
 Preliminary Phase
-(if the away team wins the 1st leg by 2 or more goals, no 2nd leg is played)
+[if the away team wins the 1st leg by 2 or more goals, no 2nd leg is played]
 
    Real Noroeste (ES) - Atlético Acreano (AC)   1-0 (08/02)     3-2 (22/02)
                                                 (Morotó 40)
                                                 (Stênio Garcia 14, 20, 40 ; Aílton 50, Jeferson 69og)
 
 ▪ First Round ▪
-(if the away team wins the 1st leg by 2 or more goals, no 2nd leg is played)
+[if the away team wins the 1st leg by 2 or more goals, no 2nd leg is played]
 
  1 Palmeiras (SP) - Vitória da Conquista (BA)   4-1 (04/03)     n/p (02/04)
                                                 (Cristaldo 13pen, Allione 64, Robinho 78, Dudu 83 ; Tatu 63)
@@ -1199,7 +1199,7 @@ Preliminary Phase
 [g] 1st leg played in Aracaju.
 
 ▪ Second Round ▪
-(if the away team wins the 1st leg by 2 or more goals, no 2nd leg is played)
+[if the away team wins the 1st leg by 2 or more goals, no 2nd leg is played]
 
 41 Palmeiras - Sampaio Corrêa                   1-1 (29/04)     5-1 (12/05)
                                                 (Cristaldo 68 ; Cleitinho 86)

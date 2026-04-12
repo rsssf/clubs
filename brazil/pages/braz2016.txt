@@ -742,7 +742,7 @@ Obs.: 1) In each match, the second mentioned team plays the 2nd leg in home.
       2) Away goal rule applied on all phases.
 
 First Round (16/03 to 25/05)
-(if the away team wins the 1st leg by 2 or more goals, no 2nd leg is played)
+[if the away team wins the 1st leg by 2 or more goals, no 2nd leg is played]
 
  1 Santos (SP) - Santos (AP)                    1-1 (21/04)     3-0 (28/04)
                                                 (Rafinha 44, Joel 78)
@@ -865,7 +865,7 @@ First Round (16/03 to 25/05)
 [g] 1st leg played in Cuiabá.
 
 Second Round (03/08 to 06/07)
-(if the away team wins the 1st leg by 2 or more goals, no 2nd leg is played)
+[if the away team wins the 1st leg by 2 or more goals, no 2nd leg is played]
 
 41 Santos - Galvez                             3-0 (11/05)     n/p (18/05)
                                                 (Rafael Longuine 35, Paulinho 45, Fernando Medeiros 59)

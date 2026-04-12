@@ -55,7 +55,7 @@ _ Sep 10 _
 Atlético-PR       1-1  Flamengo
   [Jacenir; Fernando]
 Internacional-SP  3-2  Náutico
-  (Machado (2), Edvaldo] Náutico: Nivaldo (2))
+  [Machado (2), Edvaldo] Náutico: Nivaldo (2)]
 Internacional-RS  1-0  Atlético-MG
   [Edu Lima]
 São Paulo         0-0  Vitória

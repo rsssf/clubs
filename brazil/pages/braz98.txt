@@ -481,7 +481,7 @@ Brazil 1998 Cup
 Thanks to Miguel Alvim Gonzalez.
 
 Preliminary Round [Jan 20-Feb 10]
-(if the away team wins the 1st leg by 2 or more goals, no 2nd leg is played)
+[if the away team wins the 1st leg by 2 or more goals, no 2nd leg is played]
 Ji-Parana(RO)  2-3 0-2 America(MG)
 Vila Nova(MG)  3-4 2-2 Santos(SP)
 ABC(RN)          1-4   Fluminense(RJ)
@@ -494,7 +494,7 @@ Linhares(ES)   0-0 1-1 America(RN)
 Avai(SC)       1-1 1-5 Atletico(MG)
 
 First Round [Jan 27-Mar 5]
-(if the away team wins the 1st leg by 2 or more goals, no 2nd leg is played)
+[if the away team wins the 1st leg by 2 or more goals, no 2nd leg is played]
 S.Correa(MA)   0-0 0-4 Sao Paulo(SP)
 Picos(PI)      1-1 0-8 Vasco da Gama(RJ)
 S.Raimundo(AM) 0-1 0-4 Botafogo(RJ)      [2nd leg abd at 4-0 to Botafogo in 72';
@@ -534,7 +534,7 @@ Cruzeiro(MG)   2-0 0-0 Vasco(RJ)
 
 Final [May 26; May 30]
 Cruzeiro(MG)   1-0 0-2 Palmeiras(SP)
-  (27' Fabio Jr]  [12' Paulo Nunes, 90' Oseas)
+  [27' Fabio Jr]  [12' Paulo Nunes, 90' Oseas]
 
 
 Brazil 1998 Championship Second Division
