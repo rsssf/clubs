@@ -336,19 +336,8 @@ Coritiba          dns  Santos              [awarded 0-1, Coritiba refused to
                                             others of the round, as a result
                                             the club was eliminated from the
                                             tournament]
-Table
- 1-Palmeiras          10  6  2  2  13- 5  14  Qualified
- 2-Vasco da Gama      10  5  4  1  14- 7  14  Qualified
- 3-Portuguesa         10  3  5  2  12- 7  11  Qualified
- 4-Grêmio             10  4  2  4  11-11  10  Qualified
- 5-Goiás              10  4  2  4  10-12  10  Qualified
- 6-Fluminense         10  4  2  4   9-10  10  Qualified
- 7-Cruzeiro           10  3  4  3   8- 8  10  Qualified
- 8-Santos             10  2  5  3   6- 7   9  Qualified
---------------------------------------------
- 9-Sport              10  3  2  5   9-12   8
-10-Bahia              10  1  3  6   9-17   5
-11-Coritiba           10  3  3  4  10-15   4*
+<!-- $table1$ -->
+
 
 * - Lost 5 points and was eliminated from the tournament and relegated
 
@@ -600,13 +589,8 @@ Atlético-PR       4-1  Guarani
   (Mazinho (2), Geraldo, Osvaldo; Élcio)
 Sport             0-0  Vitória
 
-Table
- 1-Vitória             8  4  2  2  10- 7  10
- 2-Bahia               8  3  4  1   6- 5  10
-- - - - - - - - - - - - - - - - - - - - - --
- 3-Atlético-PR         8  2  6  0   9- 3  10  Relegated
- 4-Guarani             8  2  3  3   8-10   7  Relegated
- 5-Sport               8  0  3  5   3-11   3  Relegated
+<!-- $table2$ -->
+
 
 ▪ Final ▪
 
@@ -633,7 +617,7 @@ Técnico: Nelsinho Rosa
 No second leg was held since Vasco da Gama reached 3 points
 CR Vasco da Gama were the 1989 Brazilian Champions
 
-<!-- $table1$ -->
+<!-- $table3$ -->
 
 
 * - Lost 5 points and was eliminated from the tournament and relegated
@@ -659,7 +643,7 @@ Atlético Rio Negro Clube (Manaus-AM)
 Clube Esportivo Dom Bosco (Cuiabá-MT)
 Mixto Esporte Clube (Cuiabá-MT)
 
-First Stage
+▪ First Stage ▪
 Princesa         2-4         Dom Bosco
 Nacional         0-1         Rio Branco
 Mixto            1-0         Rio Negro
@@ -676,7 +660,7 @@ Rio Branco       1-0         Mixto
 Dom Bosco        2-1         Nacional
 Rio Negro        4-0         Princesa
 
-Second Stage
+▪ Second Stage ▪
 Princesa         1-0         Rio Negro
 Nacional         1-0         Dom Bosco
 Mixto            2-0         Rio Branco
@@ -716,7 +700,7 @@ Associação Atlética Anapolina (Anápolis-GO)
 Atlético Clube Goianiense (Goiânia-GO)
 Vila Nova Futebol Clube (Goiânia-GO)
 
-First Stage
+▪ First Stage ▪
 
 Ceilândia        0-0         Sobradinho
 Vila Nova        1-1         Taguatinga
@@ -734,7 +718,7 @@ Ceilândia        1-0         Taguatinga
 Sobradinho       2-1         Anapolina
 Atlético         1-1         Vila Nova
 
-Second Stage
+▪ Second Stage ▪
 
 Atlético         2-0         Anapolina
 Sobradinho       1-2         Ceilândia
@@ -775,7 +759,7 @@ Paysandu Sport Club (Belém-PA)
 Tuna Luso Brasileira (Belém-PA)
 
 
-First Stage
+▪ First Stage ▪
 
 Moto Clube       1-0         Remo
 Paysandu         1-0         Tuna Luso
@@ -793,7 +777,7 @@ Moto Clube       3-0         Sampaio Corrêa
 Remo             0-2         Paysandu
 Maranhão         2-2         Tuna Luso
 
-Second Stage
+▪ Second Stage ▪
 
 Sampaio Corrêa   2-1         Maranhão
 Tuna Luso        0-0         Paysandu
@@ -832,7 +816,7 @@ Fortaleza Esporte Clube (Fortaleza-CE)
 Esporte Clube Flamengo (Teresina-PI)
 4 de Julho Esporte Clube (Piripiri-PI)
 Ríver Atlético Clube (Teresina-PI)
-First Stage
+▪ First Stage ▪
 
 Flamengo         1-0         Ríver
 Fortaleza        1-0         4 de Julho
@@ -849,7 +833,7 @@ Ferroviário      2-0         Flamengo
 Flamengo         2-1         4 de Julho
 Ferroviário      1-3         Fortaleza
 Ríver            0-1         Ceará
-Second Stage
+▪ Second Stage ▪
 
 Ríver            0-0         Flamengo
 Ferroviário      1-1         Ceará
@@ -889,7 +873,7 @@ ABC Futebol Clube (Natal-RN)
 América Futebol Clube (Natal-RN)
 Associação Cultural Esporte Clube Baraúnas (Mossoró-RN)
 
-First Stage
+▪ First Stage ▪
 
 ABC              0-1         América
 Nacional         2-0         Botafogo
@@ -907,7 +891,7 @@ Botafogo         0-1         ABC
 Baraúnas         0-2         América
 Treze            2-0         Nacional
 
-Second Stage
+▪ Second Stage ▪
 
 América          1-2         ABC
 Treze            1-1         Baraúnas
@@ -947,7 +931,7 @@ América Futebol Clube (Recife-PE)
 Central Sport Club (Caruaru-PE)
 Santa Cruz Futebol Clube (Recife-PE)
 
-First Stage
+▪ First Stage ▪
 
 Santa Cruz       1-1         Central
 CRB              2-0         América
@@ -965,7 +949,7 @@ Santa Cruz       3-0         América
 Central          1-1         Capelense
 CSA              0-2         CRB
 
-Second Stage
+▪ Second Stage ▪
 
 Central          1-0         Santa Cruz
 América          0-0         CRB
@@ -1005,7 +989,7 @@ Associação Desportiva Confiança (Aracaju-SE)
 Lagarto Esporte Clube (Lagarto-SE)
 Club Sportivo Sergipe (Aracaju-SE)
 
-First Stage
+▪ First Stage ▪
 
 Fluminense       1-1         Sergipe
 Catuense         0-1         Leônico
@@ -1023,7 +1007,7 @@ Leônico          1-0         Fluminense
 Lagarto          0-1         Sergipe
 Confiança        0-0         Catuense
 
-Second Stage
+▪ Second Stage ▪
 
 Leônico          0-1         Catuense
 Sergipe          1-2         Fluminense
@@ -1063,7 +1047,7 @@ Americano Futebol Clube (Campos-RJ)
 Associação Atlética Cabofriense (Cabo Frio-RJ)
 Itaperuna Esporte Clube (Itaperuna-RJ)
 
-First Stage
+▪ First Stage ▪
 
 Itaperuna        3-1         Desportiva
 Colatina         0-0         Rio Branco
@@ -1081,7 +1065,7 @@ Rio Branco       0-1         Americano
 Colatina         1-2         Desportiva
 Cabofriense      0-0         Itaperuna
 
-Second Stage
+▪ Second Stage ▪
 
 Desportiva       1-0         Itaperuna
 Cabofriense      2-1         Americano
@@ -1121,7 +1105,7 @@ América Futebol Clube (São José do Rio Preto-SP)
 Botafogo Futebol Clube (Ribeirão Preto-SP)
 Grêmio Esportivo Catanduvense (Catanduva-SP)
 
-First Stage
+▪ First Stage ▪
 
 Goiatuba         2-1         Goiânia
 Uberlândia       1-0         América
@@ -1139,7 +1123,7 @@ Botafogo         1-0         América
 Goiânia          0-0         Catanduvense
 Goiatuba         0-0         Uberlândia
 
-Second Stage
+▪ Second Stage ▪
 
 Goiânia          1-1         Goiatuba
 América          0-0         Uberlândia
@@ -1179,7 +1163,7 @@ Grêmio Esportivo Novorizontino (Novo Horizonte-SP)
 Santo André Futebol Clube (Santo André-SP)
 São José Esporte Clube (São José dos Campos-SP)
 
-First Stage
+▪ First Stage ▪
 
 São José         1-1         Volta Redonda
 Bragantino       1-1         Novorizontino
@@ -1197,7 +1181,7 @@ São José         0-1         Bragantino
 Volta Redonda    2-0         Santo André
 Esportivo        1-0         Novorizontino
 
-Second Stage
+▪ Second Stage ▪
 
 Novorizontino    1-2         Bragantino
 Volta Redonda    1-0         São José
@@ -1236,7 +1220,7 @@ América Futebol Clube (Rio de Janeiro-RJ)
 Bangu Atlético Clube (Rio de Janeiro-RJ)
 União São João Esporte Clube (Araras-SP)
 
-First Stage
+▪ First Stage ▪
 
 Tupi             0-1         América
 Democrata        1-1         Valeriodoce
@@ -1254,7 +1238,7 @@ União São João   5-0         Democrata
 América          2-4         Bangu
 Valeriodoce      1-2         Tupi
 
-Second Stage
+▪ Second Stage ▪
 
 América          3-1         Tupi
 Valeriodoce      0-1         Democrata
@@ -1293,7 +1277,7 @@ Clube Atlético Juventus (São Paulo-SP)
 Esporte Clube XV de Novembro (Piracicaba-SP)
 Mogi Mirim Esporte Clube (Mogi Mirim-SP)
 
-First Stage
+▪ First Stage ▪
 
 Juventus         0-0         América
 Mogi-Mirim       1-0         Ponte Preta
@@ -1311,7 +1295,7 @@ América          0-1         XV de Novembro
 Rio Branco       1-0         Ponte Preta
 Juventus         1-0         Mogi-Mirim
 
-Second Stage
+▪ Second Stage ▪
 
 América          0-0         Juventus
 Ponte Preta      4-1         Mogi-Mirim
@@ -1350,7 +1334,7 @@ Ubiratan Esporte Clube (Dourados-MS)
 Grêmio de Esportes Maringá (Maringá-PR)
 Londrina Esporte Clube (Londrina-PR)
 
-First Stage
+▪ First Stage ▪
 
 Ubiratan         0-0         União
 Londrina         1-0         Operário
@@ -1367,7 +1351,7 @@ União            0-1         Grêmio Maringá
 Douradense       2-0         Ubiratan
 Grêmio Maringá   1-0         Londrina
 União            0-0         Operário
-Second Stage
+▪ Second Stage ▪
 
 Douradense       0-0         Grêmio Maringá
 Operário         0-0         Londrina
@@ -1406,7 +1390,7 @@ Blumenau Esporte Clube (Blumenau-SC)
 Brusque Futebol Clube (Brusque-SC)
 Clube Náutico Marcílio Dias (Itajaí-SC)
 
-First Stage
+▪ First Stage ▪
 
 Marcílio Dias    0-1         Blumenau
 Glória           1-1         Brusque
@@ -1424,7 +1408,7 @@ Marcílio Dias    2-0         Brusque
 Blumenau         2-1         Juventude
 Esportivo        0-1         Glória
 
-Second Stage
+▪ Second Stage ▪
 
 Blumenau         1-0         Marcílio Dias
 Brusque          2-1         Glória
@@ -1466,7 +1450,7 @@ Esporte Clube Noroeste (Bauru-SP)
 NOTE: This was the last national official tournament played by Pinheiros,
  in 1990 Pinheiros would merge with Colorado to create Paraná Clube.
 
-First Stage
+▪ First Stage ▪
 
 Foz do Iguaçu    1-1         Operário
 Pinheiros        0-1         Joinville
@@ -1484,7 +1468,7 @@ Foz do Iguaçu    1-1         Pinheiros
 Noroeste         1-0         Operário
 Joinville        1-0         Caxias
 
-Second Stage
+▪ Second Stage ▪
 
 Operário         1-1         Foz do Iguaçu
 Joinville        2-0         Pinheiros
@@ -1523,7 +1507,7 @@ Avaí Futebol Clube (Florianópolis-SC)
 Cricúma Esporte Clube (Cricúma-SC)
 Figueirense Futebol Clube (Florianópolis-SC)
 
-First Stage
+▪ First Stage ▪
 
 Figueirense      0-0         Avaí
 Novo Hamburgo    0-0         Criciúma
@@ -1541,7 +1525,7 @@ Figueirense      1-1         Criciúma
 Avaí             2-1         Pelotas
 Santa Cruz       2-0         Novo Hamburgo
 
-Second Stage
+▪ Second Stage ▪
 
 Avaí             0-1         Figueirense
 Criciúma         1-1         Novo Hamburgo
@@ -1625,7 +1609,7 @@ Finalists were promoted to the 1990 1st Level
 Remo             0-0   0-0   Bragantino    [pen.Bragantino 4-1]
 Catuense         0-1   1-1   São José
 
-FINALS
+▪ FINALS ▪
 
 Same rules as Third Phase
 

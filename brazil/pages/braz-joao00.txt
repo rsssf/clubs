@@ -39,34 +39,8 @@ SE Gama (Brasília-DF)                       CR Vasco da Gama (Rio de Janeiro-RJ
 Goiás EC (Goiânia-GO)                       EC Vitória (Salvador-BA)
 Grêmio FBPA (Porto Alegre-RS)
 
-Table:
+<!-- $table1$ -->
 
- 1.Cruzeiro          24 12  9  3  46-27  45  [1]  Qualified
- 2.Sport             24 12  6  6  46-27  42  [1]  Qualified
- 3.Fluminense        24 12  6  6  45-31  42  [2]  Qualified
- 4.Goiás             24 11  8  5  41-29  41  [1]  Qualified
- 5.Vasco da Gama     24 11  6  7  36-37  39  [1]  Qualified
- 6.São Paulo         24 10  9  5  46-35  39  [1]  Qualified
- 7.Ponte Preta       24 11  5  8  49-37  38  [1]  Qualified
- 8.Atlético-PR       24 11  5  8  32-28  38  [1]  Qualified
- 9.Internacional-RS  24 10  8  6  34-25  38  [1]  Qualified
-10.Grêmio            24 10  7  7  37-31  37  [1]  Qualified
-11.Palmeiras         24 10  7  7  29-30  37  [1]  Qualified
-12.Bahia             24 10  6  8  32-31  36  [2]  Qualified
--------------------------------------------
-13.Guarani           24  9  8  7  29-29  35  [1]
-14.Santos            24  9  6  9  38-31  33  [1]
-15.Flamengo-RJ       24  9  6  9  42-37  33  [1]
-16.Botafogo-RJ       24  9  5 10  31-35  32  [1]
-17.Portuguesa (SP)   24  9  5 10  34-43  32  [1]
-18.Vitória           24  9  4 11  44-40  31  [1]
-19.América-MG        24  7  6 11  26-35  27  [2]
-20.Atlético-MG       24  7  6 11  31-42  27  [1]
-21.Juventude         24  7  5 12  27-36  26  [2]
-22.Gama              24  6  4 14  22-39  22  [2*]
-23.Coritiba          24  5  6 13  26-35  21  [1]
-24.Corinthians       24  4  4 16  26-46  16  [1]
-25.Santa Cruz        24  3  7 14  18-51  16  [1]
 
 [1] teams that would have played 1st level in case of normal season
 [2] teams that would have played 2nd level in case of normal season
@@ -473,34 +447,8 @@ Ponte Preta        3-4  Fluminense
 Bahia              0-1  Goiás
 América/MG         2-1  Corinthians
 
-Table:
+<!-- $table2$ -->
 
- 1.Cruzeiro          24 12  9  3  46-27  45  [1]  Qualified
- 2.Sport             24 12  6  6  46-27  42  [1]  Qualified
- 3.Fluminense        24 12  6  6  45-31  42  [2]  Qualified
- 4.Goiás             24 11  8  5  41-29  41  [1]  Qualified
- 5.Vasco da Gama     24 11  6  7  36-37  39  [1]  Qualified
- 6.São Paulo         24 10  9  5  46-35  39  [1]  Qualified
- 7.Ponte Preta       24 11  5  8  49-37  38  [1]  Qualified
- 8.Atlético-PR       24 11  5  8  32-28  38  [1]  Qualified
- 9.Internacional-RS  24 10  8  6  34-25  38  [1]  Qualified
-10.Grêmio            24 10  7  7  37-31  37  [1]  Qualified
-11.Palmeiras         24 10  7  7  29-30  37  [1]  Qualified
-12.Bahia             24 10  6  8  32-31  36  [2]  Qualified
--------------------------------------------
-13.Guarani           24  9  8  7  29-29  35  [1]
-14.Santos            24  9  6  9  38-31  33  [1]
-15.Flamengo-RJ       24  9  6  9  42-37  33  [1]
-16.Botafogo-RJ       24  9  5 10  31-35  32  [1]
-17.Portuguesa (SP)   24  9  5 10  34-43  32  [1]
-18.Vitória           24  9  4 11  44-40  31  [1]
-19.América-MG        24  7  6 11  26-35  27  [2]
-20.Atlético-MG       24  7  6 11  31-42  27  [1]
-21.Juventude         24  7  5 12  27-36  26  [2]
-22.Gama              24  6  4 14  22-39  22  [2*]
-23.Coritiba          24  5  6 13  26-35  21  [1]
-24.Corinthians       24  4  4 16  26-46  16  [1]
-25.Santa Cruz        24  3  7 14  18-51  16  [1]
 
 [1] teams that would have played 1st level in case of normal season
 [2] teams that would have played 2nd level in case of normal season
@@ -708,27 +656,8 @@ Brasil/RS          0-1  Caxias
 Marcílio Dias      1-1  Criciúma
 Avaí               2-0  Villa Nova/MG
 
-Table:
+<!-- $table3$ -->
 
- 1.São Caetano       17 11  4  2  40-19  37  Qualified  [2]
- 2.Figueirense       17  8  7  2  25-13  31  Qualified
- 3.Paraná            17  8  5  4  18-11  29  Qualified  [2]
- 4.Botafogo-SP       17  8  4  5  27-15  28  Qualified  [2]
- 5.Criciúma          17  7  5  5  19-18  26  Qualified
- 6.Caxias            17  6  8  3  29-26  26  Qualified
- 7.Bangu             17  6  6  5  25-23  24  Qualified
- 8.Avaí              17  5  9  3  27-21  24  Qualified  [2]
--------------------------------------------
- 9.Joinville         17  5  7  5  19-17  22  [2]
-10.América-RJ        17  5  6  6  18-20  21
-11.Americano         17  4  8  5  17-22  20
-12.União São João    17  3 11  3  20-21  20
-13.XV de Novembro/P  17  5  4  8  21-27  19  [2]
-14.Marcílio Dias     17  4  7  6  17-23  19
-15.Bragantino        17  2 11  4  16-21  17  [2]
-16.Brasil (Pelotas)  17  4  3 10  17-25  15
-17.Villa Nova-MG     17  3  6  8  18-27  15
-18.Londrina          17  2  3 12   8-32   9  [2]
 
 [2] teams that would have played 2nd level in case of normal season
 
@@ -935,27 +864,8 @@ Vila Nova/GO       0-1  ABC
 Bandeirante        2-3  CSA
 Anapolina          0-1  Sampaio Corrêa
 
-Table:
+<!-- $table4$ -->
 
- 1.Fortaleza         17 10  5  2  38-25  35  Qualified
- 2.São Raimundo      17  9  3  5  32-24  30  Qualified  [2]
- 3.Sampaio Corrêa    17  9  3  5  23-24  30  Qualified  [2]
- 4.Náutico           17  8  4  5  22-16  28  Qualified
- 5.Paysandú          17  8  4  5  22-17  28  Qualified
- 6.Anapolina         17  7  7  3  24-14  28  Qualified
- 7.Remo              17  7  5  5  23-21  26  Qualified  [2]
- 8.CRB               17  6  8  3  25-19  26  Qualified  [2]
--------------------------------------------
- 9.Serra             17  7  4  6  26-22  25
-10.ABC               17  6  5  6  26-24  23  [2]
-11.Ríver             17  6  4  7  23-23  22
-12.América-RN        17  5  6  6  24-23  21
-13.Ceará             17  5  6  6  20-19  21  [2]
-14.CSA               17  6  2  9  22-29  20
-15.Nacional-AM       17  5  4  8  34-37  19
-16.Desportiva        17  5  1 11  19-42  16
-17.Vila Nova-GO      17  2  5 10  20-25  11  [2]
-18.Bandeirante       17  1  6 10  16-35   9
 
 [2] teams that would have played 2nd level in case of normal season
 
@@ -1108,16 +1018,8 @@ _ Sep 24 _
 Central            0-0  Porto
 Botafogo/PB        1-2  Tuna Luso
 
-Table:
+<!-- $table5$ -->
 
- 1.Tuna Luso         12  8  2  2  25-15  26  Qualified
- 2.Central           12  7  1  4  16-15  22  Qualified
- 3.Moto Clube        12  5  3  4  24-17  18  Qualified
-- - - - - - - - - - - - - - - - - - - - - -
- 4.Botafogo/PB       12  5  2  5  22-17  17
- 5.Porto/PE          12  5  1  6  15-13  16
- 6.Treze             12  5  1  6  16-17  16
- 7.Potiguar          12  2  0 10   9-33   6
 
 ▪ Group B ▪
 
@@ -1190,16 +1092,8 @@ Camaçari           0-0  Sergipe
 Campinense         2-2  Confiança
 Juazeiro           1-0  ASA
 
-Table:
+<!-- $table6$ -->
 
- 1.Corinthians/AL    12  8  3  1  16- 8  27  Qualified
- 2.Juazeiro          12  7  2  3  15- 9  23  Qualified
- 3.Confiança/SE      12  5  3  4  10-11  18  Qualified
-- - - - - - - - - - - - - - - - - - - - - -
- 4.Sergipe           12  5  2  5  15-14  17
- 5.ASA               12  4  3  5  11-13  15
- 6.Camaçari          12  3  3  6  13-11  12
- 7.Campinense        12  1  2  9   9-23   5
 
 ▪ Group C ▪
 
@@ -1272,16 +1166,8 @@ Flamengo/PI        3-1  Rio Branco/AC
 Rio Negro          4-2  Genus
 Baré               3-3  Ypiranga
 
-Table:
+<!-- $table7$ -->
 
- 1.Flamengo/PI       12  7  1  4  18-11  22  Qualified
- 2.Ypiranga          12  6  2  4  23-19  20  Qualified
- 3.Tocantinópolis    12  6  1  5  16-14  19  Qualified
-- - - - - - - - - - - - - - - - - - - - - -
- 4.Rio Branco/AC     12  5  3  4  20-16  18
- 5.Baré              12  5  2  5  21-15  17
- 6.Rio Negro/AM      12  5  2  5  12-14  17
- 7.Gênus Rondoniense 12  2  1  9  16-37   7
 
 ▪ Group D ▪
 
@@ -1342,16 +1228,8 @@ _ Sep 24 _
 Atlético/GO        0-1  Operário
 Dom Pedro          2-0  Brasília
 
-Table:
+<!-- $table8$ -->
 
- 1.Operário/MS       10  5  2  3  14-12  17  Qualified
- 2.Dom Pedro II      10  4  3  3  11- 9  15  Qualified
- 3.Atlético/GO       10  4  3  3   9- 9  15  Qualified
-- - - - - - - - - - - - - - - - - - - - - -
- 4.Comercial/MS      10  3  2  5   9-10  11
- 5.Goiânia           10  3  4  3  15-14  13
- 6.Brasília          10  3  2  5  10-14  11
- -.Interporto         0  0  0  0   0- 0   0  [withdrew before playing a match]
 
 ▪ Second Phase ▪
 
@@ -1496,16 +1374,8 @@ Rio Branco/SP      4-0  Nacional/SP
 Volta Redonda      1-1  Juventus
 Uberlândia         2-1  São José/SP              [other source: 3-1]
 
-Table:
+<!-- $table9$ -->
 
- 1.Rio Branco/SP     10  6  3  1  23-10  21  Qualified
- 2.Juventus          10  6  3  1  20-10  21  Qualified
- 3.Uberlândia        10  5  3  2  15-14  18  Qualified
-- - - - - - - - - - - - - - - - - - - - - -
- 4.Nacional/SP       10  4  1  5  13-21  13
- 5.Volta Redonda     10  2  3  5  10-14   9
- 6.São José/SP       10  0  1  9   8-20   1
- -.Rio Branco/ES      0  0  0  0   0- 0   0  [withdrew before playing a match]
 
 ▪ Group F ▪
 
@@ -1579,16 +1449,8 @@ Malutrom           2-1  Etti Jundiaí
 União Bandeirante  3-0  Internacional/SP
 Madureira          7-1  Comercial/SP
 
-Table:
+<!-- $table10$ -->
 
- 1.Etti Jundiaí      12 10  1  1  40- 8  31  Qualified
- 2.Malutrom          12  6  4  2  21-15  22  Qualified
- 3.União Bandeirante 12  4  4  4  17-23  16  Qualified
-- - - - - - - - - - - - - - - - - - - - - -
- 4.Madureira         12  3  5  4  20-15  14
- 5.Internacional/SP  12  3  4  5  18-17  13
- 6.União/MT          12  3  1  8  12-28  10
- 7.Comercial/SP      12  3  1  8   9-31  10
 
 ▪ Group G ▪
 
@@ -1655,16 +1517,8 @@ Mogi Mirim         2-0  União Barbarense
 Ipatinga           0-3  Olímpia
 Friburguense       2-1  Matonense
 
-Table:
+<!-- $table11$ -->
 
- 1.Olímpia           12  5  5  2  16-11  20  Qualified
- 2.Friburguense      12  4  6  2  11-10  18  Qualified
- 3.Matonense         12  4  5  3  15-13  17  Qualified
-- - - - - - - - - - - - - - - - - - - - - -
- 4.São Cristóvão     12  4  4  4  13-16  16
- 5.Mogi-Mirim        12  3  7  2  23-17  16
- 6.Ipatinga/MG       12  3  4  5  16-20  13
- 7.União Barbarense  12  2  3  7  12-19   9
 
 ▪ Group H ▪
 
@@ -1719,15 +1573,8 @@ Ituano             4-0  Internacional/SM
 Portuguesa Sant.   3-1  Rio Branco/PR
 Olaria             2-0  Santo André
 
-Table:
+<!-- $table12$ -->
 
- 1.Rio Branco/PR     10  6  3  1  16- 8  21  Qualified
- 2.Portuguesa Sant.  10  5  4  1  19- 9  19  Qualified
- 3.Santo André       10  3  3  4  11-14  12  Qualified
-- - - - - - - - - - - - - - - - - - - - - -
- 4.Ituano            10  3  2  5  10-10  11
- 5.Olaria            10  3  2  5   9-10  11
- 6.Internacional/SM  10  2  2  6   7-21   8
 
 ▪ Second Phase ▪
 
@@ -2031,7 +1878,7 @@ Vasco da Gama      abd  São Caetano       [abandoned at 0-0 in 23' following th
   accident; Vasco had the bad taste to make a victory lap while wounded were being
   treated]
 
-Second Leg Replay [Jan 18, 2001]
+▪ Second Leg Replay ▪  Jan 18, 2001
 Vasco da Gama      3-1  São Caetano
   (Juninho Pernambuco 30, Jorginho Paulista 39, Romário 53; Adaozinho 37)
 

@@ -54,7 +54,7 @@ Two groups of 8 teams. In the first stage, Group A teams played against Group B 
 In the second stage, teams played the other teams inside their groups. Winners of the
 groups from both stages qualified to the semifinals.
 
-FIRST STAGE
+▪ FIRST STAGE ▪
 
 GROUPS A AND B
 
@@ -291,7 +291,7 @@ TEAM              Pts   P   W   D   L   GF   GA   DIF
 
 
 
-SECOND STAGE
+▪ SECOND STAGE ▪
 
 ▪ ROUND 1 ▪
 
@@ -902,7 +902,7 @@ Overtime: Guarani 1-0 Atlético-PR
 _ Dec 3 _
 Sport           3-1  Bangu
 
-FINALS
+▪ FINALS ▪
 
 1st leg
 _ Dec 6 _

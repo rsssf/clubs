@@ -1408,29 +1408,8 @@ Esporte Clube VITÓRIA (Salvador-BA)
 (Double round-robin; top 4 are promoted, bottom 4 are relegated)
 (Turno e returno em pontos corridos; os 4 primeiros sobem, os 4 últimos caem)
 
-Table:
- 1.Botafogo     38 21  9  8  60-30  72  Champions; promoted
- 2.Santa Cruz      38 20  7 11  63-43  67  Promoted
- 3.Vitória     38 19  9 10  58-40  66  Promoted
- 4.América     38 19  8 11  55-39  65  Promoted
------------------------------------------
- 5.Náutico     38 18  9 11  49-42  63
- 6.Bragantino     38 19  3 16  56-56  60
- 7.Paysandu     38 17  9 12  49-40  60
- 8.Sampaio Corrêa  38 15 13 10  51-43  58
- 9.Bahia     38 15 13 10  48-41  58
-10.Luverdense     38 15  9 14  46-40  54
-11.CRB       38 15  9 14  47-45  54
-12.Criciúma     38 12 13 13  36-41  49
-13.Paraná     38 12 11 15  39-43  47
-14.Atlético     38 11 13 14  36-46  46
-15.Ceará     38 12  9 17  42-50  45
-16.Oeste     38 10 14 14  37-45  44
------------------------------------------
-17.Macaé     38 10 13 15  46-54  43  Relegated
-18.ABC       38  6 14 18  41-64  32  Relegated
-19.Boa       38  7 10 21  34-54  31  Relegated
-20.Mogi Mirim     38  4 11 23  32-69  23  Relegated
+<!-- $table4$ -->
+
 
 ▪ Round 1 ▪
 _ May 8 _
@@ -2313,29 +2292,8 @@ Criciúma    2-1  CRB
 Luverdense    2-0  Mogi Mirim
  (Tozin 51'p, Adriano da Matta 88')
 
-Table:
- 1.Botafogo     38 21  9  8  60-30  72  Champions; promoted
- 2.Santa Cruz      38 20  7 11  63-43  67  Promoted
- 3.Vitória     38 19  9 10  58-40  66  Promoted
- 4.América     38 19  8 11  55-39  65  Promoted
------------------------------------------
- 5.Náutico     38 18  9 11  49-42  63
- 6.Bragantino     38 19  3 16  56-56  60
- 7.Paysandu     38 17  9 12  49-40  60
- 8.Sampaio Corrêa  38 15 13 10  51-43  58
- 9.Bahia     38 15 13 10  48-41  58
-10.Luverdense     38 15  9 14  46-40  54
-11.CRB       38 15  9 14  47-45  54
-12.Criciúma     38 12 13 13  36-41  49
-13.Paraná     38 12 11 15  39-43  47
-14.Atlético     38 11 13 14  36-46  46
-15.Ceará     38 12  9 17  42-50  45
-16.Oeste     38 10 14 14  37-45  44
------------------------------------------
-17.Macaé     38 10 13 15  46-54  43  Relegated
-18.ABC       38  6 14 18  41-64  32  Relegated
-19.Boa       38  7 10 21  34-54  31  Relegated
-20.Mogi Mirim     38  4 11 23  32-69  23  Relegated
+<!-- $table5$ -->
+
 
 * 925 goals / 380 matches = 2.43 gpm.
 

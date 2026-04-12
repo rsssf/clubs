@@ -488,29 +488,8 @@ Cruzeiro        2-0  Palmeiras
 Atlético-PR     1-2  Bragantino
   (Moreno; Sílvio (2))
 
-Table
- 1-São Paulo       19 11  4  4  26-14  26  Qualified
- 2-Bragantino      19  9  8  2  27-14  26  Qualified
- 3-Fluminense      19 10  4  5  28-19  24  Qualified
- 4-Atlético-MG     19  8  8  3  28-19  24  Qualified
------------------------------------------
- 5-Corinthians     19  8  8  3  23-17  24
- 6-Palmeiras       19  7  8  4  20-19  22
- 7-Internacional   19  5 10  4  19-16  20
- 8-Santos          19  7  5  7  23-20  19
- 9-Flamengo        19  7  5  7  20-24  19
-10-Portuguesa      19  5  9  5  14-15  19
-11-Vasco da Gama   19  4 11  4  22-26  19
-12-Botafogo        19  6  6  7  19-21  18
-13-Bahia           19  5  8  6  16-18  18
-14-Náutico         19  7  3  9  19-25  17
-15-Goiás           19  6  5  8  27-24  17
-16-Cruzeiro        19  5  6  8  23-28  16
-17-Atlético-PR     19  5  5  9  27-28  15
-18-Sport           19  4  5 10  15-30  13
-- - - - - - - - - - - - - - - - - - - - -
-19-Grêmio          19  3  6 10  15-24  12  Relegated
-20-Vitória         19  3  6 10  17-27  12  Relegated
+<!-- $table1$ -->
+
 
 ▪ Semifinals ▪
 São Paulo and Bragantino won a bonus point due to better first phase record
@@ -546,7 +525,7 @@ Cafu e Raí; Macedo e Müller (Flávio).
 Técnico: Telê Santana. 
 <!-- start pre -->São Paulo FC Were The 1991 Brazilian Champions
 
-<!-- $table1$ -->
+<!-- $table2$ -->
 
 
 
@@ -640,16 +619,8 @@ Sampaio Corrêa  1-0  Remo
 Rio Branco      0-1  Paysandu
 Rio Negro       4-0  Independência
 
-Table
-1-Sampaio Corrêa      14 11  1  2  18- 6  23   Qualified
-2-Paysandu            14 10  3   1  27- 8  23  Qualified
----------------------------------------------
-3-Remo                 14   8  3  3  18- 7  19
-4-Tuna Luso           14  6  4   4  13-12  16
-5-Maranhão            14  4   1  9  15-20   9
-6-Rio Branco-AC       14  1  6  7    7-19   8
-7-Rio Negro           14  2  3   9  11-21   7
-8-Independência       14  1  5  8    6-22   7
+<!-- $table3$ -->
+
 
 ▪ Group 2 ▪
 
@@ -734,16 +705,8 @@ Parnaíba        1-3  Ferroviário
 Moto Clube      1-1  América
 Fortaleza       1-0  Auto Esporte
 
-Table
-1-Ceará                14   6  7  1  14- 4  19  Qualified
-2-ABC                  14   4 10  0  20-10  18  Qualified
----------------------------------------------
-3-Fortaleza           14  5  7   2  17-11  17
-4-América-RN          14  4  7   3  16-17  15
-5-Auto Esporte-PI     14  7  0  7  18-19  14
-6-Ferroviário         14  3  6  5   10-11  12
-7-Parnaíba            14  2   5  7  13-28   9
-8-Moto Clube          14  2  4   8  15-23   8
+<!-- $table4$ -->
+
 
 ▪ Group 3 ▪
 
@@ -828,16 +791,8 @@ Treze           1-2  Central
 Santa Cruz      1-1  CSA
 CRB             2-1   Estudantes
 
-Table
-1-Santa Cruz          14  8  5   1  22- 6  21  Qualified
-2-CSA                  14   6  5  3  13- 8  17  Qualified
----------------------------------------------
-3-Central             14   4  8  2  10- 7  16
-4-Auto Esporte-PB     14  3  8  3  13-11  14
-5-Estudantes          14  4  5   5  11-16  13
-6-Treze                14   3  6  5  10-12  12
-7-CRB                  14   2  7  5  10-20  11
-8-América-PE          14  1  6   7   4-13   8
+<!-- $table5$ -->
+
 
 ▪ Group 4 ▪
 
@@ -922,16 +877,8 @@ Catuense        1-0  Itaperuna
 Colatina        1-1  América
 Americano       1-2  Desportiva
 
-Table
-1-Americano           14  8  3   3  17- 9  19  Qualified
-2-Desportiva          14  8  3   3  21-20  19  Qualified
----------------------------------------------
-3-Itaperuna           14  6  2   6  14-13  14
-4-Catuense            14  5   4  5  18-14  14
-5-Colatina            14  5   4  5  17-19  14
-6-América-RJ          14  3  5   6  13-15  11
-7-Fluminense-BA       14  3  5  6  14-20   11
-8-Confiança           14  2   6  6  11-15  10
+<!-- $table6$ -->
+
 
 ▪ Group 5 ▪
 
@@ -1016,16 +963,8 @@ Atlético        2-1  Gama
 Guarani         2-0  Vila Nova
 Taguatinga      1-1  Anapolina
 
-Table
-1-Novorizontino       14  7  5  2  26-12   19  Qualified
-2-Guarani             14   6  6  2  19-11  18  Qualified
----------------------------------------------
-3-Anapolina           14  5  7   2  17-16  14
-4-Goiânia             14   3  7  4  20-20  13
-5-Gama                 14   4  4  6  18-20  12
-6-Taguatinga          14  4  4   6  14-22  12
-7-Atlético-GO         14  3  6  5   12-16  12
-8-Vila Nova           14  1  7   6   6-15   9
+<!-- $table7$ -->
+
 
 ▪ Group 6 ▪
 
@@ -1110,16 +1049,8 @@ Esportivo       0-0  Noroeste
 Ponte Preta     2-0  América
 Internacional   1-0  Rio Branco
 
-Table
-1-Botafogo-SP         14  8  5  1   18- 6  21  Qualified
-2-Noroeste            14  8   2  4  23-15  18  Qualified
----------------------------------------------
-3-Ponte Preta         14  5  6  3   13- 8  16
-4-América-MG          14  3  7   4  14-16  13
-5-Internacional-SP    14  3  7  4  12-15  13
-6-XV de Novembro/Pir  14  3  5  6  10-17  11
-7-Esportivo-MG        14  2  7  5    6-11  11
-8-Rio Branco-MG       14  2  5  7  10-18    9
+<!-- $table8$ -->
+
 
 ▪ Group 7 ▪
 
@@ -1204,16 +1135,8 @@ São José        1-1  Londrina
 Juventus        2-1  Operário
 Bangu           2-0  Ubiratan
 
-Table
-1-Londrina            14  8   5  1  26-14  21  Qualified
-2-Bangu                14   6  5  3  13- 9  17  Qualified
----------------------------------------------
-3-Juventus            14  4   9  1  14-12  17
-4-Operário-PR         14  5  4  5   21-18  14
-5-Campo Grande        14  4  6  4   14-14  14
-6-Grêmio Maringá      14  3  8  3  14-14   14
-7-São José            14  2   4  8  12-23   8
-8-Ubiratan            14  1   5  8  12-22   7
+<!-- $table9$ -->
+
 
 ▪ Group 8 ▪
 
@@ -1298,21 +1221,13 @@ Blumenau        1-1  Paraná
 Juventude       2-1  Criciúma
 Figueirense     1-1  Caxias
 
-Table
-1-Coritiba            14  7   4  3  23-12  18  Qualified
-2-Paraná              14   6  5  3  15- 7  17  Qualified
----------------------------------------------
-3-Joinville           14  5  6   3  16-15  16
-4-Figueirense         14  3  8  3    8-10  14
-5-Criciúma            14  5   3  6  22-16  13
-6-Caxias              14   4  5  5  14-19  13
-7-Juventude           14  4  5   5  10-15  13
-8-Blumenau            14  1   6  7   8-22   8
+<!-- $table10$ -->
+
 
 ▪ Second Phase ▪
 Knockout style, away goals rule applied
 
-ABC             0-0   0-0 Sampaio Corrêa  [pen 4-1]
+ABC             0-0   0-0 Sampaio Corrêa  (pen 4-1)
 Paysandu        1-0   1-1  Ceará
 Desportiva      2-3   0-4  Santa Cruz
 CSA             0-0   0-4  Americano
@@ -1341,7 +1256,7 @@ Knockout style, away goals rule applied
   Coritiba  -  Guarani                          1-0 (09/05)     0-1 (13/05) [pen. 4-5]
                                                 (Heraldo 89')
                                                 (Pereira 45')
-Finals
+▪ Finals ▪
 (Domingo, 19 Maio 1991)
 Guarani 1-0 Paysandu
 Local: Brinco de Ouro da Princesa - Campinas
@@ -1456,7 +1371,7 @@ THIRD PHASE
 22/05 - 25/05 Coritiba          1-1  0-1   Grêmio
 12/05 - 19/05 Remo              0-1  0-2   Criciúma
 
-FINALS
+▪ FINALS ▪
 
 30/05 - 02/06 Grêmio            1-1  0-0   Criciúma
 

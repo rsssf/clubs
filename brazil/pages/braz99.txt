@@ -6,31 +6,8 @@
 
 == Brazil 1999 Championship
 
-Table:
+<!-- $table1$ -->
 
- 1.Corinthians     21 14  2  5 49-31 44  Qualified
- 2.Cruzeiro        21 12  6  3 46-32 42  Qualified
- 3.Vasco da Gama   21 10  6  5 33-23 36  Qualified
- 4.Ponte Preta     21 10  5  6 23-16 35  Qualified
- 5.São Paulo       21 11  1  9 35-24 34  Qualified
- 6.Vitória         21 10  4  7 31-33 34  Qualified
- 7.Atlético/MG     21 10  3  8 39-30 33  Qualified
- 8.Guarani         21 10  3  8 31-22 33  Qualified
----------------------------------------
- 9.Atlético/PR     21  9  4  8 36-31 31
-10.Palmeiras       21  8  7  6 36-23 31
-11.Santos          21  8  6  7 25-26 30
-12.Flamengo        21  9  2 10 30-33 29
-13.Coritiba        21  7  8  6 31-29 29
-14.Botafogo/RJ     21  8  2 11 23-37 26
-15.Gama            21  7  5  9 24-29 26  Relegated
-16.Internacional   21  7  3 11 18-26 24
-17.Paraná          21  6  6  9 23-29 24  Relegated
-18.Grêmio          21  6  4 11 24-43 22
-19.Juventude       21  5  7  9 18-32 22  Relegated
-20.Botafogo/SP     21  5  6 10 27-38 21  Relegated
-21.Portuguesa      21  4  6 11 27-31 18
-22.Sport           21  3  8 10 14-25 17
 
 (NB: Vasco-Paraná of Aug 19 included)
 (NB: São Paulo-Internacional and São Paulo-Botafogo/RJ included as 0-1)
@@ -378,31 +355,8 @@ Santos        3-3 Cruzeiro
 Atlético/PR   3-1 Sport
 Atlético/MG   2-0 Grêmio
 
-Table:
+<!-- $table2$ -->
 
- 1.Corinthians     21 14  2  5 49-31 44  Qualified
- 2.Cruzeiro        21 12  6  3 46-32 42  Qualified
- 3.Vasco da Gama   21 10  6  5 33-23 36  Qualified
- 4.Ponte Preta     21 10  5  6 23-16 35  Qualified
- 5.São Paulo       21 11  1  9 35-24 34  Qualified
- 6.Vitória         21 10  4  7 31-33 34  Qualified
- 7.Atlético/MG     21 10  3  8 39-30 33  Qualified
- 8.Guarani         21 10  3  8 31-22 33  Qualified
----------------------------------------
- 9.Atlético/PR     21  9  4  8 36-31 31
-10.Palmeiras       21  8  7  6 36-23 31
-11.Santos          21  8  6  7 25-26 30
-12.Flamengo        21  9  2 10 30-33 29
-13.Coritiba        21  7  8  6 31-29 29
-14.Botafogo/RJ     21  8  2 11 23-37 26
-15.Gama            21  7  5  9 24-29 26  Relegated
-16.Internacional   21  7  3 11 18-26 24
-17.Paraná          21  6  6  9 23-29 24  Relegated
-18.Grêmio          21  6  4 11 24-43 22
-19.Juventude       21  5  7  9 18-32 22  Relegated
-20.Botafogo/SP     21  5  6 10 27-38 21  Relegated
-21.Portuguesa      21  4  6 11 27-31 18
-22.Sport           21  3  8 10 14-25 17
 
 (NB: Vasco-Paraná of Aug 19 included)
 (NB: São Paulo-Internacional and São Paulo-Botafogo/RJ included as 0-1)

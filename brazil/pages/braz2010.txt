@@ -27,28 +27,8 @@ CR Flamengo (Rio de Janeiro-RJ)         EC Vitória (Salvador-BA)
 
 * - former Grêmio Barueri, which reallocated to Presidente Prudente in 2010
 
-Table:
- 1.Fluminense        38 20 11  7  62-36  71  Champions; Libertadores 2011
- 2.Cruzeiro          38 20  9  9  53-38  69  Libertadores 2011
- 3.Corinthians       38 19 11  8  65-41  68  Libertadores 2011
- 4.Grêmio            38 17 12  9  68-43  63  Libertadores 2011
- 5.Atlético-PR       38 17  9 12  43-45  60  Sudamericana 2011
- 6.Botafogo          38 14 17  7  54-42  59  Sudamericana 2011
- 7.Internacional     38 16 10 12  48-41  58  Libertadores 2011 (previous winners)
- 8.Santos            38 15 11 12  63-50  56  Libertadores 2011 (Copa do Brasil 2010 winners)
- 9.São Paulo         38 15 10 13  54-54  55  Sudamericana 2011
-10.Palmeiras         38 12 14 12  42-43  50  Sudamericana 2011
-11.Vasco da Gama     38 11 16 11  43-45  49  (+) Sudamericana 2011
-12.Ceará             38 10 17 11  35-44  47  (+) Sudamericana 2011
-13.Atlético-MG       38 13  6 19  52-64  45  Sudamericana 2011
-14.Flamengo          38  9 17 12  41-44  44  Sudamericana 2011
-15.Avaí              38 11 10 17  49-58  43
-16.Atlético-GO       38 11  9 18  51-57  42  (+)
-- - - - - - - - - - - - - - - - - - - - - -
-17.Vitória           38  9 15 14  42-48  42  Relegated
-18.Guarani           38  8 13 17  33-53  37  (+) Relegated
-19.Goiás             38  8  9 21  41-68  33  Relegated
-20.Grêmio Prudente   38  7 10 21  39-64  28  Relegated [*1]
+<!-- $table1$ -->
+
 
 [*1] Had 3 points deducted for fielding an ineligible player.
 [*1] Perdeu 3 pontos por escalar um jogador sem condições legais de jogo.
@@ -931,28 +911,8 @@ Vitória         0-0   Atlético-Go
 Atlético-PR     1-0   Avaí
  (Paulo Baier 7')
 
-Table:
- 1.Fluminense        38 20 11  7  62-36  71  Champions; Libertadores 2011
- 2.Cruzeiro          38 20  9  9  53-38  69  Libertadores 2011
- 3.Corinthians       38 19 11  8  65-41  68  Libertadores 2011
- 4.Grêmio            38 17 12  9  68-43  63  Libertadores 2011
- 5.Atlético-PR       38 17  9 12  43-45  60  Sudamericana 2011
- 6.Botafogo          38 14 17  7  54-42  59  Sudamericana 2011
- 7.Internacional     38 16 10 12  48-41  58  Libertadores 2011 (previous winners)
- 8.Santos            38 15 11 12  63-50  56  Libertadores 2011 (Copa do Brasil 2010 winners)
- 9.São Paulo         38 15 10 13  54-54  55  Sudamericana 2011
-10.Palmeiras         38 12 14 12  42-43  50  Sudamericana 2011
-11.Vasco da Gama     38 11 16 11  43-45  49  (+) Sudamericana 2011
-12.Ceará             38 10 17 11  35-44  47  (+) Sudamericana 2011
-13.Atlético-MG       38 13  6 19  52-64  45  Sudamericana 2011
-14.Flamengo          38  9 17 12  41-44  44  Sudamericana 2011
-15.Avaí              38 11 10 17  49-58  43
-16.Atlético-GO       38 11  9 18  51-57  42  (+)
-- - - - - - - - - - - - - - - - - - - - - -
-17.Vitória           38  9 15 14  42-48  42  Relegated
-18.Guarani           38  8 13 17  33-53  37  (+) Relegated
-19.Goiás             38  8  9 21  41-68  33  Relegated
-20.Grêmio Prudente   38  7 10 21  39-64  28  Relegated [*1]
+<!-- $table2$ -->
+
 
 [*1] Had 3 points deducted for fielding an ineligible player.
 [*1] Perdeu 3 pontos por escalar um jogador sem condições legais de jogo.
@@ -1336,29 +1296,8 @@ Duque de Caxias FC (RJ)                 São Caetano FL (São Caetano do Sul-SP)
 Figueirense FC (Florianópolis-SC)       Sport Club do Recife (PE)
 Guaratinguetá FL (SP)                   Vila Nova FC (Goiânia-GO)
 
-Table:
- 1.Coritiba          38 21  8  9  69-49  71  Champions; promoted (-)
- 2.Figueirense       38 19 10  9  68-37  67  Promoted
- 3.Bahia             38 19  8 11  63-44  65  Promoted
- 4.América-MG        38 19  6 13  56-42  63  Promoted (+)
--------------------------------------------
- 5.Portuguesa        38 19  5 14  68-53  62
- 6.Sport Recife      38 15 11 12  55-41  56  (-)
- 7.Paraná            38 15  8 15  47-44  53
- 8.Bragantino        38 13 14 11  52-37  53
- 9.ASA               38 16  4 18  53-56  52  (+)
-10.São Caetano       38 14 10 14  50-52  52
-11.Duque de Caxias   38 15  5 18  46-56  50
-12.Icasa             38 13 10 15  51-52  49  (+)
-13.Náutico           38 14  6 18  41-60  48  (-)
-14.Ponte Preta       38 12 12 14  49-48  48
-15.Guaratinguetá     38 11 14 13  48-58  47  (+)
-16.Vila Nova         38 13  7 18  50-68  46
-- - - - - - - - - - - - - - - - - - - - - -
-17.Brasiliense       38 12 10 16  41-59  46  Relegated
-18.Santo André       38 11 10 17  53-61  43  Relegated (-)
-19.Ipatinga          38 11  8 19  47-62  41  Relegated
-20.América-RN        38 11  8 19  40-68  41  Relegated
+<!-- $table3$ -->
+
 
 (-) - Teams relegated from 2009 Série A (1st level)
 (+) - Teams promoted from 2009 Série C (3rd level)
@@ -1889,29 +1828,8 @@ Coritiba         2-3  Guaratinguetá
 Ipatinga         2-2  Icasa
 América-RN       1-2  Brasiliense
 
-Table:
- 1.Coritiba          38 21  8  9  69-49  71  Champions; promoted (-)
- 2.Figueirense       38 19 10  9  68-37  67  Promoted
- 3.Bahia             38 19  8 11  63-44  65  Promoted
- 4.América-MG        38 19  6 13  56-42  63  Promoted (+)
--------------------------------------------
- 5.Portuguesa        38 19  5 14  68-53  62
- 6.Sport Recife      38 15 11 12  55-41  56  (-)
- 7.Paraná            38 15  8 15  47-44  53
- 8.Bragantino        38 13 14 11  52-37  53
- 9.ASA               38 16  4 18  53-56  52  (+)
-10.São Caetano       38 14 10 14  50-52  52
-11.Duque de Caxias   38 15  5 18  46-56  50
-12.Icasa             38 13 10 15  51-52  49  (+)
-13.Náutico           38 14  6 18  41-60  48  (-)
-14.Ponte Preta       38 12 12 14  49-48  48
-15.Guaratinguetá     38 11 14 13  48-58  47  (+)
-16.Vila Nova         38 13  7 18  50-68  46
-- - - - - - - - - - - - - - - - - - - - - -
-17.Brasiliense       38 12 10 16  41-59  46  Relegated
-18.Santo André       38 11 10 17  53-61  43  Relegated (-)
-19.Ipatinga          38 11  8 19  47-62  41  Relegated
-20.América-RN        38 11  8 19  40-68  41  Relegated
+<!-- $table4$ -->
+
 
 (-) - Teams relegated from 2009 Série A (1st level)
 (+) - Teams promoted from 2009 Série C (3rd level)
@@ -1950,20 +1868,14 @@ SALGUEIRO Atlético Clube (Salgueiro-PE)
 SÃO RAIMUNDO Esporte Clube (Santarém-PA)
 
 
-FIRST STAGE:
+▪ FIRST STAGE ▪
 (Top 2 from each group qualify, bottom club from each group is relegated)
 (Os 2 primeiros de cada grupo se classificam, o lanterna de cada grupo é rebaixado)
 
 ▪ Group A ▪
 
-Table:
-1.Paysandu        8  4  2  2  15- 9  14  Qualified
-2.Águia           8  3  3  2  11- 7  12  Qualified
----------------------------------------
-3.Fortaleza       8  2  6  0   9- 7  12
-4.Rio Branco      8  2  4  2  12-17  10
-- - - - - - - - - - - - - - - - - - - -
-5.São Raimundo    8  0  3  5   8-15   3  Relegated
+<!-- $table5$ -->
+
 
 ▪ Round 1 ▪
 _ Jul 18 _
@@ -2038,26 +1950,14 @@ Rio Branco    3-1  Paysandu
 Águia      1-1  Fortaleza
  (Torrô 80'; Tatu 77')
 
-Table:
-1.Paysandu        8  4  2  2  15- 9  14  Qualified
-2.Águia           8  3  3  2  11- 7  12  Qualified
----------------------------------------
-3.Fortaleza       8  2  6  0   9- 7  12
-4.Rio Branco      8  2  4  2  12-17  10
-- - - - - - - - - - - - - - - - - - - -
-5.São Raimundo    8  0  3  5   8-15   3  Relegated
+<!-- $table6$ -->
+
 
 
 ▪ Group B ▪
 
-Table:
-1.ABC             8  3  3  2  11- 6  12  Qualified
-2.Salgueiro       8  3  2  3  11-12  11  Qualified
----------------------------------------
-3.CRB             8  3  2  3   9-11  11
-4.Campinense      8  3  1  4   7- 7  10
-- - - - - - - - - - - - - - - - - - - -
-5.Alecrim         8  2  4  2   9-10  10  Relegated
+<!-- $table7$ -->
+
 
 ▪ Round 1 ▪  Jul 18
 ABC      3-1  CRB
@@ -2121,26 +2021,14 @@ CRB      1-0  ABC
 Alecrim    0-2  Salgueiro
  (Júnior Ferrim 70', Fagner 90'+3')
 
-Table:
-1.ABC             8  3  3  2  11- 6  12  Qualified
-2.Salgueiro       8  3  2  3  11-12  11  Qualified
----------------------------------------
-3.CRB             8  3  2  3   9-11  11
-4.Campinense      8  3  1  4   7- 7  10
-- - - - - - - - - - - - - - - - - - - -
-5.Alecrim         8  2  4  2   9-10  10  Relegated
+<!-- $table8$ -->
+
 
 
 ▪ Group C ▪
 
-Table:
-1.Ituiutaba       8  4  3  1   9- 4  15  Qualified
-2.Macaé           8  4  2  2  12- 8  14  Qualified
----------------------------------------
-3.Luverdense      8  3  3  2  12-10  12
-4.Marília         8  1  3  4   7-12   6
-- - - - - - - - - - - - - - - - - - - -
-5.Gama            8  0  5  3   5-11   5  Relegated
+<!-- $table9$ -->
+
 
 ▪ Round 1 ▪  Jul 18
 Gama      1-4  Macaé
@@ -2208,26 +2096,14 @@ Macaé      2-1  Gama
 Ituiutaba    3-1  Luverdense
  (Peri 52',67', Stanley 79'; Roger 80')
 
-Table:
-1.Ituiutaba       8  4  3  1   9- 4  15  Qualified
-2.Macaé           8  4  2  2  12- 8  14  Qualified
----------------------------------------
-3.Luverdense      8  3  3  2  12-10  12
-4.Marília         8  1  3  4   7-12   6
-- - - - - - - - - - - - - - - - - - - -
-5.Gama            8  0  5  3   5-11   5  Relegated
+<!-- $table10$ -->
+
 
 
 ▪ Group D ▪
 
-Table:
-1.Criciúma    8  3  3  2   7- 4  12  Qualified
-2.Chapecoense    8  3  2  3   9- 9  11  Qualified
----------------------------------------
-3.Caxias     8  2  4  2   6- 6  10
-4.Brasil    8  2  4  2   4- 5  10
-- - - - - - - - - - - - - - - - - - - -
-5.Juventude    8  1  5  2   6- 8   8  Relegated
+<!-- $table11$ -->
+
 
 ▪ Round 1 ▪
 _ Jul 17 _
@@ -2292,14 +2168,8 @@ Criciúma    1-1  Juventude
  (Diogo Oliveira 44'; Fausto 60')
 Caxias      0-0  Brasil
 
-Table:
-1.Criciúma    8  3  3  2   7- 4  12  Qualified
-2.Chapecoense    8  3  2  3   9- 9  11  Qualified
----------------------------------------
-3.Caxias     8  2  4  2   6- 6  10
-4.Brasil    8  2  4  2   4- 5  10
-- - - - - - - - - - - - - - - - - - - -
-5.Juventude    8  1  5  2   6- 8   8  Relegated
+<!-- $table12$ -->
+
 
 
 ▪ QUARTERFINALS ▪
@@ -2346,7 +2216,7 @@ ABC     2-0  Salgueiro
  (Leandrão 17',50')
 
 
-FINALS:
+▪ FINALS ▪
 
 _ Nov 13 _
 Ituiutaba   0-1  ABC        [played in Uberlândia]
@@ -2357,29 +2227,8 @@ ABC    0-0  Ituiutaba
 
 *** ABC are Brazil 2010 champions - 3rd level ***
 
-Final standings:
- 1.ABC     14  7  5  2  19- 8  26  Champions; promoted
----------------------------------------
- 2.Ituiutaba     14  4  8  2  12- 8  20  Promoted
- 3.Criciúma     12  4  5  3  13- 9  17  Semifinalists; promoted
- 4.Salgueiro     12  4  4  4  16-18  16  Semifinalists; promoted
-- - - - - - - - - - - - - - - - - - - -
- 5.Macaé     10  5  2  3  15-12  17
- 6.Paysandu     10  4  3  3  18-13  15
- 7.Chapecoense   10  3  4  3  10-10  13
- 8.Águia     10  3  3  4  12-11  12  Quarterfinalists
- 9.Luverdense      8  3  3  2  12-10  12
-10.Fortaleza     8  2  6  0   9- 7  12
-11.CRB       8  3  2  3   8-11  11
-12.Campinense     8  3  1  4   7- 7  10
-13.Caxias     8  2  4  2   6- 6  10
-14.Alecrim     8  2  4  2   9-10  10  Relegated
-15.Brasil     8  2  4  2   4- 5  10
-16.Rio Branco     8  2  4  2  12-17  10
-17.Juventude     8  1  5  2   6- 8   8  Relegated
-18.Marília     8  1  3  4   7-12   6
-19.Gama     8  0  5  3   5-11   5  Relegated
-20.São Raimundo   8  0  3  5   8-15   3  Relegated
+<!-- $table13$ -->
+
 
 Topscorer: Bruno Rangel (Paysandu), 8 goals.
      Cascata (ABC) and Felipe Mamão (Águia), 5 goals.
@@ -2490,7 +2339,7 @@ Araguaína FR - Tocantins 2009.
 
 
 
-FIRST STAGE:
+▪ FIRST STAGE ▪
 (Top 2 from each group qualify)
 (Os 2 primeiros de cada grupo se classificam)
 
@@ -2527,12 +2376,8 @@ Remo     4-0  Cristal
 Cristal     1-2  América-AM
 Cametá     3-1  Remo
 
-Table:
-1.Remo      6  3  2  1   9- 5  11  Qualified
-2.América-AM      6  2  3  1   9- 7   9  Qualified
----------------------------------------
-3.Cametá      6  2  2  2  10- 8   8
-4.Cristal      6  1  1  4   4-12   4
+<!-- $table14$ -->
+
 
 
 Group A2
@@ -2563,12 +2408,8 @@ Mixto     1-0  VEC
 VEC    WO-0  Nauás    [awd 3-0]
 Vila Aurora   1-2  Mixto
 
-Table:
-1.Mixto      6  5  1  0  13- 4  16  Qualified
-2.Vila Aurora    6  3  2  1   8- 5  11  Qualified
----------------------------------------
-3.VEC        6  2  0  4   6- 6   6
-4.Nauás      6  0  1  5   3-15   1
+<!-- $table15$ -->
+
 
 
 Group A3
@@ -2603,12 +2444,8 @@ Guarany     5-0  Flamengo
 Sampaio Corrêa   2-2  Guarany
 Flamengo   1-1  JV Lideral
 
-Table:
-1.Guarany    6  2  3  1  13- 7   9  Qualified
-2.Sampaio Corrêa  6  2  3  1   9- 5   9  Qualified
----------------------------------------
-3.JV Lideral    6  2  3  1   6- 6   9
-4.Flamengo    6  0  3  3   4-14   2
+<!-- $table16$ -->
+
 
 
 Group A4
@@ -2642,12 +2479,8 @@ Santa Cruz   2-0  Potiguar
 CSA     1-2  Santa Cruz
 Potiguar   0-2  Confiança
 
-Table:
-1.CSA      6  5  0  1  13- 7  15  Qualified
-2.Santa Cruz    6  3  2  1   6- 3  11  Qualified
----------------------------------------
-3.Confiança    6  2  2  2   6- 6   8
-4.Potiguar    6  0  0  6   3-12   0
+<!-- $table17$ -->
+
 
 
 Group A5
@@ -2680,12 +2513,8 @@ Central     5-2  River Plate
 Fluminense   2-1  Central
 River Plate   1-0  Treze
 
-Table:
-1.Treze      6  4  0  2  10- 6  12  Qualified
-2.Fluminense      6  3  1  2  10- 9  10  Qualified
----------------------------------------
-3.River Plate      6  2  2  2  10-12   8
-4.Central      6  1  1  4  10-13   4
+<!-- $table18$ -->
+
 
 
 Group A6
@@ -2722,12 +2551,8 @@ Ceilândia   1-0  Araguaína
 Brasília   2-0  Ceilândia
 Araguaína   1-0  Botafogo-DF
 
-Table:
-1.Brasília      6  2  3  1   7- 6   9  Qualified
-2.Araguaína      6  2  3  1   6- 5   9  Qualified
----------------------------------------
-3.Ceilândia      6  2  2  2   7- 7   8
-4.Botafogo-DF      6  0  4  2   4- 6   4
+<!-- $table19$ -->
+
 
 
 Group A7
@@ -2762,12 +2587,8 @@ Uberaba     6-1  Rio Branco
 Rio Branco   4-1  Camaçari
 América-RJ   1-1  Uberaba
 
-Table:
-1.Uberaba      6  4  1  1  18- 7  13  Qualified
-2.Rio Branco      6  3  1  2  14-12  10  Qualified
----------------------------------------
-3.América-RJ      6  3  1  2  11-12  10
-4.Camaçari      6  0  1  5   4-16   1
+<!-- $table20$ -->
+
 
 
 Group A8
@@ -2798,12 +2619,8 @@ CENE     1-1  Tupi
 Tupi     3-0  Madureira
 Botafogo-SP   0-1  CENE
 
-Table:
-1.Madureira      6  3  1  2   9-11  10  Qualified
-2.Tupi      6  2  3  1   7- 4   9  Qualified
----------------------------------------
-2.CENE      6  2  3  1   8- 6   9
-4.Botafogo-SP      6  1  1  4   5- 8   4
+<!-- $table21$ -->
+
 
 
 Group A9
@@ -2838,12 +2655,8 @@ Joinville   2-0  Operário
 Operário   1-0  São José
 Oeste     0-0  Joinville
 
-Table:
-1.Joinville    6  3  2  1   7- 4  11  Qualified
-2.Operário    6  3  1  2   3- 3  10  Qualified
----------------------------------------
-3.São José    6  2  1  3   6- 6   7
-4.Oeste      6  1  2  3   3- 6   5
+<!-- $table22$ -->
+
 
 
 Group A10
@@ -2876,16 +2689,12 @@ Marcílio Dias   1-1  Pelotas
 Pelotas   2-2  Iraty
 Metropolitano   1-1  Marcílio Dias
 
-Table:
-1.Metropolitano    6  3  2  1   9- 5  11  Qualified
-2.Iraty      6  2  3  1   8- 8   9  Qualified
----------------------------------------
-3.Pelotas    6  2  2  2   9- 6   8
-4.Marcílio Dias    6  0  3  3   2- 9   3
+<!-- $table23$ -->
 
 
 
-SECOND STAGE:
+
+▪ SECOND STAGE ▪
 
 ▪ First leg ▪
 
@@ -2920,7 +2729,7 @@ Remo     1-1  Vila Aurora
 Mixto     4-2  América-AM
 
 
-THIRD STAGE:
+▪ THIRD STAGE ▪
 (Match winners plus best 3 overall qualify for Quarterfinals)
 (Os vencedores dos jogos e os outros 3 melhores passam às Quartas-de-Final)
 
@@ -2971,7 +2780,7 @@ Madureira  0-2  América-AM
 Guarany    0-0  Araguaína
 
 
-FINALS:
+▪ FINALS ▪
 
 _ Nov 7 _
 América-AM   1-1  Guarany        [played in Santarém-PA]
@@ -2989,53 +2798,8 @@ Classificação Geral. As Semifinais e Finais tiveram seus resultados mantidos.
 
 
 
-Final standings:
+<!-- $table24$ -->
 
- 1.Guarany       16  7  7  2  33-19  28  Champions; promoted
------------------------------------------
- 2.Madureira       14  8  3  3  27-21  27  Promoted
- 3.Araguaína       14  4  9  1  17-14  21  Semifinalists; promoted
- 4.Joinville       12  6  4  2  14- 7  22  Promoted
-- - - - - - - - - - - - - - - - - - - - -
- 5.Uberaba       12  5  5  2  23-12  20
- 6.Operário      12  5  2  5  11-16  17  Quarterfinalists
- 7.Vila Aurora     12  4  4  4  13-11  16  Quarterfinalists
- 8.América-AM       16  6  5  5  23-24  13  Finalists, but lost 10 points and was disqualified
-- - - - - - - - - - - - - - - - - - - - -
- 9.Sampaio Corrêa  10  3  5  2  19-11  14  Third Stage
-10.Brasília     10  3  3  4  14-13  12  Third Stage
-- - - - - - - - - - - - - - - - - - - - -
-11.Mixto      8  6  1  1  18- 9  19
-12.CSA        8  5  1  2  15-14  16
-13.Treze      8  4  2  2  13- 9  14
-14.Santa Cruz      8  4  2  2  10- 8  14
-15.Fluminense      8  4  1  3  11-12  13
-16.Remo        8  3  4  1  10- 6  13
-17.Metropolitano    8  3  3  2  11- 8  12
-18.Rio Branco      8  3  2  3  16-15  11
-19.Tupi        8  2  4  2   9- 8  10  Second Stage
-20.Iraty      8  2  3  3   8-12   9  Second Stage
-- - - - - - - - - - - - - - - - - - - - -
-21.América-RJ      6  3  1  2  11-12  10
-22.CENE        6  2  3  1   8- 6   9
-22.JV Lideral      6  2  3  1   6- 6   9
-24.Pelotas      6  2  2  2   9- 6   8
-25.Cametá      6  2  2  2  10- 8   8
-26.Ceilândia      6  2  2  2   7- 7   8
-27.Confiança      6  2  2  2   6- 6   8
-28.River Plate      6  2  2  2  10-12   8
-29.São José      6  2  1  3   6- 6   7
-30.VEC        6  2  0  4   6- 6   6
-31.Oeste      6  1  2  3   3- 6   5
-32.Central      6  1  1  4  10-13   4
-33.Botafogo-SP      6  1  1  4   5- 8   4
-34.Cristal      6  1  1  4   4-12   4
-35.Botafogo-DF      6  0  4  2   4- 6   4
-36.Marcílio Dias    6  0  3  3   2- 9   3
-37.Flamengo      6  0  3  3   4-14   3
-38.Camaçari      6  0  1  5   4-16   1
-39.Nauás      6  0  1  5   3-15   1
-40.Potiguar      6  0  0  6   3-12   0
 
 Topscorer: Danilo Pitbull (Guarany), 11 goals.
 

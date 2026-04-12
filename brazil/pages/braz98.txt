@@ -4,34 +4,8 @@
   
 Brazil 1998 Championship
 
-Table:
+<!-- $table1$ -->
 
- 1.Corinthians     23 14  4  5 46-30 46  Qualified
- 2.Palmeiras       23 14  3  6 46-32 45  Qualified
- 3.Coritiba        23 11  9  3 32-26 42  Qualified
- 4.Santos          23 11  8  4 46-29 41  Qualified
- 5.Sport           23 12  4  7 34-22 40  Qualified
- 6.Portuguesa      23 11  7  5 44-34 40  Qualified
- 7.Cruzeiro        23 10  7  6 42-28 37  Qualified
- 8.Grêmio          23 10  6  7 32-30 36  Qualified
-- - - - - - - - - - - - - - - - - - - -
- 9.Atlético/MG     23  9  9  5 38-33 36
-10.Vasco da Gama   23  9  7  7 34-24 34
-11.Flamengo        23  9  6  8 37-34 33
-12.Internacional   23  9  5  9 25-25 32
-13.Vitória         23  9  3 11 31-38 30
-14.Botafogo        23  7  8  8 35-37 29
-15.São Paulo       23  8  3 12 34-35 27
-16.Atlético/PR     23  7  6 10 32-32 27
-17.Ponte Preta     23  7  5 11 25-34 26
-18.Juventude       23  6  8  9 24-32 26
-19.Guarani         23  6  7 10 34-39 25
-20.Paraná          23  7  3 13 25-41 24
----------------------------------------
-21.América/MG      23  6  5 12 26-39 23  Relegated
-22.Goiás           23  5  7 11 29-37 22  Relegated
-23.Bragantino      23  5  6 12 20-37 21  Relegated
-24.América/RN      23  3  6 14 24-47 15  Relegated
 
 ▪ Round 1 ▪  Jul 25,26
 Vasco         0-1 Corinthians
@@ -406,34 +380,8 @@ Ponte Preta   0-0 Atletico-MG
 Coritiba      1-0 Internacional
 Cruzeiro      5-0 Juventude
 
-Table:
+<!-- $table2$ -->
 
- 1.Corinthians     23 14  4  5 46-30 46  Qualified
- 2.Palmeiras       23 14  3  6 46-32 45  Qualified
- 3.Coritiba        23 11  9  3 32-26 42  Qualified
- 4.Santos          23 11  8  4 46-29 41  Qualified
- 5.Sport           23 12  4  7 34-22 40  Qualified
- 6.Portuguesa      23 11  7  5 44-34 40  Qualified
- 7.Cruzeiro        23 10  7  6 42-28 37  Qualified
- 8.Grêmio          23 10  6  7 32-30 36  Qualified
-- - - - - - - - - - - - - - - - - - - -
- 9.Atlético/MG     23  9  9  5 38-33 36
-10.Vasco da Gama   23  9  7  7 34-24 34
-11.Flamengo        23  9  6  8 37-34 33
-12.Internacional   23  9  5  9 25-25 32
-13.Vitória         23  9  3 11 31-38 30
-14.Botafogo        23  7  8  8 35-37 29
-15.São Paulo       23  8  3 12 34-35 27
-16.Atlético/PR     23  7  6 10 32-32 27
-17.Ponte Preta     23  7  5 11 25-34 26
-18.Juventude       23  6  8  9 24-32 26
-19.Guarani         23  6  7 10 34-39 25
-20.Paraná          23  7  3 13 25-41 24
----------------------------------------
-21.América/MG      23  6  5 12 26-39 23  Relegated
-22.Goiás           23  5  7 11 29-37 22  Relegated
-23.Bragantino      23  5  6 12 20-37 21  Relegated
-24.América/RN      23  3  6 14 24-47 15  Relegated
 
 ▪ Championship Playoff ▪
 
@@ -635,7 +583,7 @@ third Stage where they will be divided in two groups of 4. Round robin
 inside the groups. Top 2 from each group qualify to the Final Stage. Round
 robin to decide the Champion and the 2 promoted clubs.
 
-First Stage
+▪ First Stage ▪
 
 Tables:
 
@@ -857,7 +805,7 @@ On October 14, all further matches were postponed pending decisions on
 the matches awarded against Volta Redonda.  Eventually, the two awards
 were confirmed.
 
-Second Stage
+▪ Second Stage ▪
 
 ▪ First Legs ▪
 _ Oct 13 _
@@ -896,7 +844,7 @@ XV/Piracicaba   2-0 Vila Nova/GO      [XV/Piracicaba on goal difference]
 _ Nov 2 _
 Santa Cruz      1-2 Paysandu
 
-Third Stage
+▪ Third Stage ▪
 
 Tables:
 
@@ -972,13 +920,8 @@ Tables:
 
 Fourth and Final Stage
 
-Table:
+<!-- $table3$ -->
 
- 1.Gama                    6  2  4  0 10- 6 10  Promoted
- 2.Botafogo/SP             6  2  3  1  9- 5  9  Promoted
-----------------------------------------------
- 3.Desportiva              6  1  3  2  8-12  6
- 4.Londrina                6  1  2  3  2- 6  5
 
 ▪ Round 1 ▪  Dec 3
 Desportiva      1-1 Botafogo/SP
@@ -1008,13 +951,8 @@ Desportiva      2-2 Gama
 Gama            3-0 Londrina
 Botafogo/SP     5-1 Desportiva
 
-Table:
+<!-- $table4$ -->
 
- 1.Gama                    6  2  4  0 10- 6 10  Promoted
- 2.Botafogo/SP             6  2  3  1  9- 5  9  Promoted
-----------------------------------------------
- 3.Desportiva              6  1  3  2  8-12  6
- 4.Londrina                6  1  2  3  2- 6  5
 
 
 1998 Brazilian Championship Série C (3rd Level)
@@ -1105,13 +1043,8 @@ Nacional          4-3  São Francisco
 Baré              1-1  Vênus
 São Raimundo      1-0  Santos
 
-Table
- 1.São Raimundo      10  6  2  2  14-10  20  Qualified
- 2.Vênus             10  6  1  3  17-13  19  Qualified
- 3.São Francisco     10  6  1  3  16-12  19  Qualified
- 4.Nacional          10  5  1  4  18-14  16
- 5.Baré              10  2  4  4  10-12  10
- 6.Santos            10  0  1  9   2-16   1
+<!-- $table5$ -->
+
 
 ▪ GROUP 2 ▪
 
@@ -1198,13 +1131,8 @@ Ferroviário       0-0  Viana
 Picos             1-0  Fortaleza
 
 
-Table
- 1.Moto Clube        10  5  3  2  14- 9  18  Qualified
- 2.Viana             10  5  2  3  16- 9  17  Qualified
- 3.Picos             10  3  6  1  12-10  15  Qualified
- 4.Ferroviário       10  3  4  3  20-17  13
- 5.Fortaleza         10  3  4  3  18-15  13
- 6.Corissabá         10  0  3  7   7-27   3
+<!-- $table6$ -->
+
 
 ▪ GROUP 3 ▪
 
@@ -1293,13 +1221,8 @@ Potiguar          1-1  Juazeiro
 _ Sep 27 _
 Baraúnas          1-2  Limoeiro
 
-Table
- 1.Limoeiro          10  5  1  4  17-18  16  Qualified
- 2.Potiguar          10  4  4  2  15- 9  16  Qualified
- 3.Juazeiro          10  4  3  3  14-12  15  Qualified
- 4.Icasa             10  4  3  3  11- 9  15
- 5.Campinense        10  2  4  4  16-17  10
- 6.Baraúnas          10  1  5  4  10-18   8
+<!-- $table7$ -->
+
 
 ▪ GROUP 4 ▪
 
@@ -1375,13 +1298,8 @@ Botafogo          4-0  Catuense
 CSA               1-2  Itabaiana
 Treze             2-0  Confiança
 
-Table
- 1.Itabaiana         10  6  1  3  14-10  19  Qualified
- 2.Botafogo          10  5  1  4  18-13  16  Qualified
- 3.Confiança         10  5  0  5  18-15  15  Qualified
- 4.Catuense          10  4  2  4  13-14  14
- 5.CSA               10  4  0  6  11-13  12
- 6.Treze             10  3  2  5  11-20  11
+<!-- $table8$ -->
+
 
 ▪ GROUP 5 ▪
 
@@ -1452,12 +1370,8 @@ _ Sep 27 _
 Alvorada          0-5  Anapolina
 Goiânia           1-0  Anápolis
 
-Table
- 1.Anapolina          8  6  1  1  22- 4  19  Qualified
- 2.Anápolis           8  4  1  3   9- 7  13  Qualified
- 3.Goiânia            8  3  2  3  11- 9  11
- 4.Alvorada           8  2  2  4   6-21   8
- 5.Palmas             8  0  4  4   8-15   4
+<!-- $table9$ -->
+
 
 N.B.: Itumbiara was eliminated from the tournament for not paying referee
       fees.  All its matches were cancelled.
@@ -1541,13 +1455,8 @@ Rio-Verdense      3-0  Paranavaí
 Comercial         4-0  Ubiratan
 Noroeste          0-3  América
 
-Table
- 1.América           10  8  1  1  27- 9  25  Qualified
- 2.Noroeste          10  5  2  3  13-10  17  Qualified
- 3.Comercial         10  5  0  5  18-18  15  Qualified
- 4.Rio-Verdense      10  3  3  4  11-12  12
- 5.Paranavaí         10  3  3  4   9-14  12
- 6.Ubiratan          10  0  3  7   2-17   3
+<!-- $table10$ -->
+
 
 ▪ GROUP 7 ▪
 
@@ -1622,13 +1531,8 @@ América           2-0  Tupi
 Campo Grande      2-1  Villa Nova
 Rio Branco        0-1  Friburguense
 
-Table
- 1.Tupi              10  5  3  2  14- 9  18  Qualified
- 2.Villa Nova        10  4  3  3  13- 9  15  Qualified
- 3.América           10  4  2  4  12-14  14  Qualified
- 4.Friburguense      10  3  4  3  12-13  13
- 5.Rio Branco        10  2  4  4   9-10  10
- 6.Campo Grande      10  2  4  4  12-17  10
+<!-- $table11$ -->
+
 
 ▪ GROUP 8 ▪
 
@@ -1705,13 +1609,8 @@ Rio Branco        0-0  Mogi Mirim
 Atlético Sorocaba 2-0  Madureira
 Nacional          2-0  CFZ do Rio
 
-Table
- 1.Mogi Mirim        10  6  2  2  14- 8  20  Qualified
- 2.Rio Branco        10  5  4  1  10- 6  19  Qualified
- 3.Atlético Sorocaba 10  5  1  4  13- 9  16  Qualified
- 4.Nacional          10  4  4  2   9- 6  16
- 5.Madureira         10  0  6  4   7-15   6
- 6.CFZ do Rio        10  1  1  8   4-13   4
+<!-- $table12$ -->
+
 
 NB: CFZ do Rio is the new name for the team founded in 1997 as
     Rio de Janeiro EC.
@@ -1791,13 +1690,8 @@ São Caetano       2-1  Etti
 Rio Branco        0-2  Santo André
 
 
-Table
- 1.São Caetano       10  8  2  0  15- 3  26  Qualified
- 2.Santo André       10  5  2  3  14-10  17  Qualified
- 3.Rio Branco        10  4  5  1  18-11  17  Qualified
- 4.Matonense         10  3  2  5  11-14  11
- 5.Etti              10  2  2  6  11-16   8
- 6.Francana          10  1  1  8   7-22   4
+<!-- $table13$ -->
+
 
 NB: Etti is the new name for Lousano Paulista.  Etti is a subsidiary of
     Parmalat, who bought Paulista from Lousano.  Since a major competitor
@@ -1883,13 +1777,8 @@ Caxias            2-0  Blumenau
 _ Sep 28 _
 Figueirense       4-1  Rio Branco
 
-Table
- 1.Caxias            10  4  5  1  19- 9  17  Qualified
- 2.Figueirense       10  4  3  3  15-17  15  Qualified
- 3.São José          10  3  6  1  12-10  15  Qualified
- 4.União Bandeirante 10  3  4  3  15-13  13
- 5.Rio Branco        10  3  3  4  15-16  12
- 6.Blumenau          10  1  3  6  11-22   6
+<!-- $table14$ -->
+
 
 ▪ GROUP 11 ▪
 
@@ -1968,13 +1857,8 @@ Brasil            0-1  Pelotas
 _ Sep 28 _
 Avaí              6-0  Chapecoense
 
-Table
- 1.Avaí              10  6  1  3  22-13  19  Qualified
- 2.Brasil            10  6  1  3  16- 7  19  Qualified
- 3.15 de Novembro    10  6  0  4  19-17  18  Qualified
- 4.Pelotas           10  5  1  4  16-13  16
- 5.Tubarão           10  2  2  6  13-21   8
- 6.Chapecoense       10  1  3  6  11-26   6
+<!-- $table15$ -->
+
 
 
 3rd places point average (Top 10 are qualified)
@@ -2070,11 +1954,8 @@ _ Dec 6 _
 Anapolina         5-0  Itabaiana
 São Caetano       1-0  Avaí
 
-Table
- 1.Avaí               6  2  3  1   8- 7   9  Promoted
- 2.São Caetano        6  2  2  2   4- 5   8  Promoted
- 3.Anapolina          6  1  4  1   8- 5   7
- 4.Itabaiana          6  1  3  2   5- 8   6
+<!-- $table16$ -->
+
 
 ‹1997, see page braz97›
 

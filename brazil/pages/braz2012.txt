@@ -1293,29 +1293,8 @@ Clube de Regatas Brasil - CRB (Maceió-AL)  EC Vitória (Salvador-BA)
 (-) - Teams relegated from 2011 Série A (1st level)
 (+) - Teams promoted from 2011 Série C (3rd level)
 
-Table:
- 1.Goiás     38 23  9  6  75-37  78  Champions; promoted
- 2.Criciúma     38 22  7  9  78-57  73  Promoted
- 3.Atlético     38 21  8  9  65-37  71  Promoted (-)
- 4.Vitória     38 21  8  9  59-43  71  Promoted
------------------------------------------
- 5.São Caetano     38 20 11  7  58-38  71
- 6.Joinville     38 17  9 12  58-40  60  (+)
- 7.Avaí       38 18  5 15  44-42  59  (-)
- 8.América/MG     38 16  7 15  63-58  55  (-)
- 9.América/RN     38 14 12 12  60-61  54  (+)
-10.Paraná     38 14 10 14  50-47  52
-11.Ceará     38 12 11 15  51-52  47  (-)
-12.ABC       38 11 12 15  50-52  45
-13.ASA       38 13  5 20  48-56  44
-14.Bragantino     38 12  8 18  45-53  44
-15.Boa       38 11 11 16  51-63  44
-16.Guaratinguetá   38 13  4 21  41-63  43
------------------------------------------
-17.CRB       38 12  6 20  47-67  42  Relegated (+)
-18.Guarani     38 10 11 17  36-47  41  Relegated
-19.Ipatinga     38  8  7 23  38-73  31  Relegated (+)
-20.Grêmio Barueri  38  7  9 22  38-69  30  Relegated
+<!-- $table3$ -->
+
 
 ▪ Round 1 ▪
 _ May 18 _
@@ -1846,29 +1825,8 @@ Goiás    2-1  Joinville
 Atlético  1-1  Paraná
 Vitória    1-1  Ceará
 
-Table:
- 1.Goiás     38 23  9  6  75-37  78  Champions; promoted
- 2.Criciúma     38 22  7  9  78-57  73  Promoted
- 3.Atlético     38 21  8  9  65-37  71  Promoted (-)
- 4.Vitória     38 21  8  9  59-43  71  Promoted
------------------------------------------
- 5.São Caetano     38 20 11  7  58-38  71
- 6.Joinville     38 17  9 12  58-40  60  (+)
- 7.Avaí       38 18  5 15  44-42  59  (-)
- 8.América/MG     38 16  7 15  63-58  55  (-)
- 9.América/RN     38 14 12 12  60-61  54  (+)
-10.Paraná     38 14 10 14  50-47  52
-11.Ceará     38 12 11 15  51-52  47  (-)
-12.ABC       38 11 12 15  50-52  45
-13.ASA       38 13  5 20  48-56  44
-14.Bragantino     38 12  8 18  45-53  44
-15.Boa       38 11 11 16  51-63  44
-16.Guaratinguetá   38 13  4 21  41-63  43
------------------------------------------
-17.CRB       38 12  6 20  47-67  42  Relegated (+)
-18.Guarani     38 10 11 17  36-47  41  Relegated
-19.Ipatinga     38  8  7 23  38-73  31  Relegated (+)
-20.Grêmio Barueri  38  7  9 22  38-69  30  Relegated
+<!-- $table4$ -->
+
 
 
 Topscorer: Zé Carlos (Criciúma), 27 goals.

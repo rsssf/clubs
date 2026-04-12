@@ -65,7 +65,7 @@ Villa Nova AC (Nova Lima-MG)
 
 Groups A and B
 
-First Stage
+▪ First Stage ▪
 
 ▪ Round 1 ▪
 _ Jan 26 _
@@ -323,7 +323,7 @@ Table - First stage
  9-Portuguesa      10  2  2  6   9-16   6
 10-Goiás           10  1  4  5  10-17   6
 
-Second Stage
+▪ Second Stage ▪
 
 ▪ Round 1 ▪
 _ Mar 9 _
@@ -610,7 +610,7 @@ Table - Combined first and second stages
 
 ▪ Group C ▪
 
-First Stage
+▪ First Stage ▪
 
 ▪ Round 1 ▪
 _ Jan 27 _
@@ -791,7 +791,7 @@ Table - First stage
 11-Sergipe         11  2  2  7   6-17   6
 12-Remo            11  1  4  6  10-18   6
 
-Second stage
+▪ Second stage ▪
 
 ▪ Round 1 ▪
 _ Mar 16 _
@@ -989,7 +989,7 @@ Table - Combined first and second stages
 
 ▪ Group D ▪
 
-First Stage
+▪ First Stage ▪
 
 ▪ Round 1 ▪
 _ Jan 26 _
@@ -1404,12 +1404,8 @@ Guarani         6-1  CSA
   (Edmar (5), Gérson; Luisão)
 
 
-Table
- 1-Atlético-MG      6  3  3  0   7- 3   9  Qualified
------------------------------------------
- 2-Guarani          6  1  4  1   9- 5   6
- 3-Ponte Preta      6  1  4  1   4- 3   6
- 4-CSA              6  0  3  3   1-10   3
+<!-- $table1$ -->
+
 
 ▪ Group F ▪
 
@@ -1455,12 +1451,8 @@ Bahia           2-3  Brasil
 Flamengo-RJ     2-2  Ceará
   [Bebeto, Tita; Catinha, Anselmo]
 
-Table
- 1-Brasil (Pel.)     6  4  1  1  11- 4   9  Qualified
------------------------------------------
- 2-Flamengo-RJ      6  2  3  1   7- 5   7
- 3-Ceará            6  1  3  2   5-12   5
- 4-Bahia            6  1  1  4   8-10   3
+<!-- $table2$ -->
+
 
 ▪ Group F ▪
 
@@ -1506,12 +1498,8 @@ Coritiba        0-0  Sport
 Corinthians     1-1  Joinville
   [Casagrande; Reginaldo]
 
-Table
- 1-Coritiba         6  3  2  1   5- 3   8  Qualified
------------------------------------------
- 2-Sport            6  2  3  1   7- 6   7
- 3-Joinville        6  2  1  3   8- 7   5
- 4-Corinthians      6  1  2  3   3- 7   4
+<!-- $table3$ -->
+
 
 ▪ Group H ▪
 
@@ -1558,12 +1546,8 @@ Internacional   1-2  Bangu
 Vasco da Gama   4-0  Mixto
   (Roberto Dinamite (2), Cláudio José, Mauricinho)
 
-Table
- 1-Bangu            6  4  2  0  13- 5  10  Qualified
------------------------------------------
- 2-Internacional    6  2  3  1   9- 7   7
- 3-Vasco da Gama    6  1  3  2   9- 9   5
- 4-Mixto            6  0  2  4   4-14   2
+<!-- $table4$ -->
+
 
 
 ▪ Semifinals ▪
@@ -1586,7 +1570,7 @@ Bangu           1-1  Coritiba        [aet 0-0, pen 5-6]
 
 Coritiba FC (Curitiba) are the 1985 Brazilian Champions
 
-<!-- $table1$ -->
+<!-- $table5$ -->
 
 
 
@@ -1626,11 +1610,11 @@ _ Feb 2-9 _
 Moto Clube     0-0    0-3   Tuna Luso
 _ Feb 2-10 _
 Ríver          1-3    0-2   Fortaleza
-América MG     2-0    0-2   Vitória ES      [pen 5-4]
+América MG     2-0    0-2   Vitória ES      (pen 5-4)
 _ Feb 3-9 _
 Treze          2-0    1-1   América RN
-América SP     1-0    0-1   Goytacaz        [pen 2-3]
-Central        1-1    0-0   CRB             [pen 4-2]
+América SP     1-0    0-1   Goytacaz        (pen 2-3)
+Central        1-1    0-0   CRB             (pen 4-2)
 Marília        1-1    3-0   Colorado
 _ Feb 3-10 _
 União MT       1-1    0-2   Rio Negro
@@ -1650,7 +1634,7 @@ Treze          3-1    0-3   Fortaleza
 Operário-MS    3-0    0-0   Americano
 (Feb 24-Mar 3)
 Marília        2-3    1-3   Figueirense
-Central        1-1    0-0   Catuense        [pen 3-4]
+Central        1-1    0-0   Catuense        (pen 3-4)
 
 Third Phase
 

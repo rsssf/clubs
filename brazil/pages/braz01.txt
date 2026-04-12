@@ -31,37 +31,8 @@ Grêmio FBPA (Porto Alegre-RS)               EC Vitória (Salvador-BA)
 
 ▪ First Phase ▪
 
-Table
- 1.São Caetano         27 18  5  4  48-25  59  Qualified
- 2.Atlético-PR         27 15  6  6  58-40  51  Qualified
- 3.Fluminense          27 14  9  4  44-29  51  Qualified
- 4.Atlético-MG         27 15  4  8  50-34  49  Qualified
- 5.Grêmio              27 14  5  8  39-29  47  Qualified
- 6.Ponte Preta         27 13  8  6  53-48  47  Qualified
- 7.São Paulo           27 13  7  7  48-34  46  Qualified
- 8.Bahia               27 13  6  8  43-38  45  Qualified
----------------------------------------------
- 9.Internacional       27 12  4 11  38-40  40
-10.Goiás               27 12  3 12  38-32  39
-11.Vasco da Gama       27 10  9  8  57-36  39
-12.Palmeiras           27 12  2 13  40-47  38
-13.Portuguesa          27 11  4 12  31-33  37
-14.Paraná              27 11  3 13  35-37  36
-15.Santos              27  9  9  9  37-32  36
-16.Vitória             27  9  9  9  33-37  36
-17.Coritiba            27  9  8 10  31-32  35
-18.Corinthians         27  9  7 11  46-45  34
-19.Guarani             27  9  6 12  29-45  33
-20.Gama                27  8  9 10  40-34  33
-21.Cruzeiro            27  9  5 13  36-43  32
-22.Juventude           27  6 12  9  29-37  30
-23.Botafogo-RJ         27  8  5 14  41-51  29
-24.Flamengo            27  8  5 14  25-38  29
-- - - - - - - - - - - - - - - - - - - - - - -
-25.Santa Cruz          27  7  6 14  31-50  27  Relegated
-26.América-MG          27  6  7 14  32-46  25  Relegated
-27.Botafogo-SP         27  6  7 14  23-41  25  Relegated
-28.Sport Recife        27  5  4 18  24-46  19  Relegated
+<!-- $table1$ -->
+
 
 ▪ Round 1 ▪
 _ Aug 1 _
@@ -923,37 +894,8 @@ Gama           5-0  Botafogo-SP
 Santos         2-2  Vasco da Gama
   (Marcelo Silva 73', Válber 77'; Gilberto 32'p, Dedé 69')
 
-Table
- 1.São Caetano         27 18  5  4  48-25  59  Qualified
- 2.Atlético-PR         27 15  6  6  58-40  51  Qualified
- 3.Fluminense          27 14  9  4  44-29  51  Qualified
- 4.Atlético-MG         27 15  4  8  50-34  49  Qualified
- 5.Grêmio              27 14  5  8  39-29  47  Qualified
- 6.Ponte Preta         27 13  8  6  53-48  47  Qualified
- 7.São Paulo           27 13  7  7  48-34  46  Qualified
- 8.Bahia               27 13  6  8  43-38  45  Qualified
----------------------------------------------
- 9.Internacional       27 12  4 11  38-40  40
-10.Goiás               27 12  3 12  38-32  39
-11.Vasco da Gama       27 10  9  8  57-36  39
-12.Palmeiras           27 12  2 13  40-47  38
-13.Portuguesa          27 11  4 12  31-33  37
-14.Paraná              27 11  3 13  35-37  36
-15.Santos              27  9  9  9  37-32  36
-16.Vitória             27  9  9  9  33-37  36
-17.Coritiba            27  9  8 10  31-32  35
-18.Corinthians         27  9  7 11  46-45  34
-19.Guarani             27  9  6 12  29-45  33
-20.Gama                27  8  9 10  40-34  33
-21.Cruzeiro            27  9  5 13  36-43  32
-22.Juventude           27  6 12  9  29-37  30
-23.Botafogo-RJ         27  8  5 14  41-51  29
-24.Flamengo            27  8  5 14  25-38  29
-- - - - - - - - - - - - - - - - - - - - - - -
-25.Santa Cruz          27  7  6 14  31-50  27  Relegated
-26.América-MG          27  6  7 14  32-46  25  Relegated
-27.Botafogo-SP         27  6  7 14  23-41  25  Relegated
-28.Sport Recife        27  5  4 18  24-46  19  Relegated
+<!-- $table2$ -->
+
 
 ▪ Quarterfinals ▪
 
@@ -976,7 +918,7 @@ São Caetano    2-1  Atlético-MG
 Atlético-PR    3-2  Fluminense
   (Alex Mineiro 48', 69', 89'; Magno Alves 44', 74')
 
-Finals
+▪ Finals ▪
 
 _ Dec 16 and 23 _
 Atlético-PR    4-2   1-0  São Caetano

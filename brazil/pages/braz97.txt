@@ -44,39 +44,11 @@ UNIÃO SÃO JOÃO (Araras)         - São Paulo             - -
 VASCO (Rio de Janeiro)          - Rio de Janeiro        - 1974/1989
 VITÓRIA (Salvador)              - Bahia                 - -
 
-First Stage:
+▪ First Stage ▪
 ===========
 
-Table:
+<!-- $table1$ -->
 
- 1.Vasco da Gama   25 17  3  5 55-32 54  Qualified for Playoffs
- 2.Internacional   25 15  6  4 52-21 51  Qualified for Playoffs
- 3.Atlético/MG     25 14  5  6 42-33 47  Qualified for Playoffs
- 4.Portuguesa      25 12  9  4 45-28 45  Qualified for Playoffs
- 5.Flamengo        25 12  6  7 30-24 42  Qualified for Playoffs
- 6.Santos          25 12  5  8 39-33 41  Qualified for Playoffs
- 7.Palmeiras       25 10 10  5 47-24 40  Qualified for Playoffs
- 8.Juventude       25  9 10  6 24-20 37  Qualified for Playoffs
-- - - - - - - - - - - - - - - - - - - -
- 9.Vitória         25  9  9  7 44-40 36
-10.Botafogo        25  8 10  7 32-32 34
-11.Sport           25  9  6 10 34-32 33
-12.São Paulo       25  8  9  8 41-32 33
-13.Paraná          25  8  8  9 30-30 32
-14.Grêmio          25  7 10  8 34-47 31
-15.Coritiba        25  7  9  9 31-32 30
-16.América/RN      25  7  9  9 31-40 30
-17.Corinthians     25  8  5 12 23-27 29
-18.Atlético/PR     25  9  6 10 37-41 28  [*]
-19.Goiás           25  7  3 13 30-40 28
-20.Cruzeiro        25  6 10  9 30-35 28
-21.Guarani         25  6 10  9 36-43 28
-22.Bragantino      25  7  5 13 27-46 26
----------------------------------------
-23.Bahia           25  6  8 11 39-49 26  Relegated
-24.Criciúma        25  6  7 12 27-35 25  Relegated
-25.Fluminense      25  4 10 11 26-41 22  Relegated
-26.União São João  25  2  9 14 18-47 15  Relegated
 
 [*] 5 points deducted
 
@@ -481,60 +453,24 @@ Flamengo       0-0 Uniao Sao Joao
 Sport          1-1 Palmeiras
 Sao Paulo      4-4 Parana
 
-Table:
+<!-- $table2$ -->
 
- 1.Vasco da Gama   25 17  3  5 55-32 54  Qualified for Playoffs
- 2.Internacional   25 15  6  4 52-21 51  Qualified for Playoffs
- 3.Atlético/MG     25 14  5  6 42-33 47  Qualified for Playoffs
- 4.Portuguesa      25 12  9  4 45-28 45  Qualified for Playoffs
- 5.Flamengo        25 12  6  7 30-24 42  Qualified for Playoffs
- 6.Santos          25 12  5  8 39-33 41  Qualified for Playoffs
- 7.Palmeiras       25 10 10  5 47-24 40  Qualified for Playoffs
- 8.Juventude       25  9 10  6 24-20 37  Qualified for Playoffs
-- - - - - - - - - - - - - - - - - - - -
- 9.Vitória         25  9  9  7 44-40 36
-10.Botafogo        25  8 10  7 32-32 34
-11.Sport           25  9  6 10 34-32 33
-12.São Paulo       25  8  9  8 41-32 33
-13.Paraná          25  8  8  9 30-30 32
-14.Grêmio          25  7 10  8 34-47 31
-15.Coritiba        25  7  9  9 31-32 30
-16.América/RN      25  7  9  9 31-40 30
-17.Corinthians     25  8  5 12 23-27 29
-18.Atlético/PR     25  9  6 10 37-41 28  [*]
-19.Goiás           25  7  3 13 30-40 28
-20.Cruzeiro        25  6 10  9 30-35 28
-21.Guarani         25  6 10  9 36-43 28
-22.Bragantino      25  7  5 13 27-46 26
----------------------------------------
-23.Bahia           25  6  8 11 39-49 26  Relegated
-24.Criciúma        25  6  7 12 27-35 25  Relegated
-25.Fluminense      25  4 10 11 26-41 22  Relegated
-26.União São João  25  2  9 14 18-47 15  Relegated
 
 [*] 5 points deducted
 
 
-Second Stage:
+▪ Second Stage ▪
 ============
 
 ▪ Group A ▪
 
-Table:
+<!-- $table3$ -->
 
- 1.Vasco da Gama    6  4  2  0 14- 5 14  Qualified for Final
- 2.Flamengo         6  2  2  2  7- 8  8
- 3.Juventude        6  2  1  3  6-11  7
- 4.Portuguesa       6  1  1  4  5- 8  4
 
 ▪ Group B ▪
 
-Table:
+<!-- $table4$ -->
 
- 1.Palmeiras        6  5  1  0 10- 4 16  Qualified for Final
- 2.Santos           6  2  1  3  9-10  7
- 3.Internacional    6  2  0  4  8-10  6
- 4.Atlético/MG      6  2  0  4  6- 9  6
 
 ▪ Round 1 ▪  Nov 15,16
 Juventude      0-3 Vasco
@@ -574,21 +510,13 @@ Internacional  0-1 Palmeiras
 
 ▪ Group A ▪
 
-Table:
+<!-- $table5$ -->
 
- 1.Vasco da Gama    6  4  2  0 14- 5 14  Qualified for Final
- 2.Flamengo         6  2  2  2  7- 8  8
- 3.Juventude        6  2  1  3  6-11  7
- 4.Portuguesa       6  1  1  4  5- 8  4
 
 ▪ Group B ▪
 
-Table:
+<!-- $table6$ -->
 
- 1.Palmeiras        6  5  1  0 10- 4 16  Qualified for Final
- 2.Santos           6  2  1  3  9-10  7
- 3.Internacional    6  2  0  4  8-10  6
- 4.Atlético/MG      6  2  0  4  6- 9  6
 
 
 ▪ Final ▪  Dec 14,20
@@ -979,7 +907,7 @@ América-MG      2-0 1-1 2-1 Desportiva
 Payssandú       2-1 0-0 0-4 Tuna Luso
 Atlético-GO     1-2 1-2     Joinville
 
-THIRD STAGE
+▪ THIRD STAGE ▪
 
 ▪ Group A ▪
  1.Ponte Preta           6  3  2  1 14- 9 11
@@ -1047,12 +975,8 @@ América       5-0 Tuna Luso
 
 FINAL STAGE
 
-Table:
- 1.América-MG            6  4  1  1  7- 1 13  Champions, Promoted
- 2.Ponte Preta           6  3  2  1  6- 6 11  Promoted
---------------------------------------------
- 3.Náutico               6  2  2  2  9- 6  8
- 4.Vila Nova-GO          6  0  1  5  3-12  1
+<!-- $table7$ -->
+
 
 ▪ Round 1 ▪  Nov 14,16
 Náutico       3-0 Ponte Preta
@@ -1078,12 +1002,8 @@ Náutico       0-2 América        [abandoned in 90']
 Ponte Preta   1-1 Náutico
 América       1-0 Vila Nova
 
-Table:
- 1.América-MG            6  4  1  1  7- 1 13  Champions, Promoted
- 2.Ponte Preta           6  3  2  1  6- 6 11  Promoted
---------------------------------------------
- 3.Náutico               6  2  2  2  9- 6  8
- 4.Vila Nova-GO          6  0  1  5  3-12  1
+<!-- $table8$ -->
+
 
 Topscorer: Tupãzinho 13 goals.
 
@@ -1650,13 +1570,8 @@ Ji Paraná(RO)          0-3 2-4 Juventus(SP)
 
 Final Phase
 
-Table:
+<!-- $table9$ -->
 
- 1. Sampaio Corrêa(MA)     6   3   3   0  11   5  12  Promoted, Champions
- 2. Juventus(SP)           6   2   2   2   9   8   8  Promoted
-----------------------------------------------------
- 3. Francana(SP)     6   2   1   3   6   8   7
- 4. Tupi(MG)               6   2   0   4   5  10   6
 
 ▪ Round 1 ▪  Nov 9
 Francana(SP)           1-1 Sampaio Corrêa(MA)
@@ -1682,13 +1597,8 @@ Francana(SP)           1-0 Juventus(SP)
 Sampaio Corrêa(MA)     3-1 Francana(SP)
 Juventus(SP)           3-1 Tupi(MG)
 
-Table:
+<!-- $table10$ -->
 
- 1. Sampaio Corrêa(MA)     6   3   3   0  11   5  12  Promoted, Champions
- 2. Juventus(SP)           6   2   2   2   9   8   8  Promoted
-----------------------------------------------------
- 3. Francana(SP)     6   2   1   3   6   8   7
- 4. Tupi(MG)               6   2   0   4   5  10   6
 
 ‹1996, see page braz96›
 

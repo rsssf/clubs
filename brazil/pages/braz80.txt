@@ -216,18 +216,8 @@ Corinthians    4-1  Colorado
   [Sócrates, Wilsinho, Geraldo, Píter;  Carlos Alberto]
 Botafogo-RJ    0-0  Joinville
 
-Table
- 1-Corinthians     9  7  1  1  18- 8  15  Qualified
- 2-Botafogo-RJ     9  4  2  3  16-10  10  Qualified
- 3-Colorado        9  4  2  3   9-10  10  Qualified
- 4-Remo            9  4  2  3   6- 8  10  Qualified
- 5-Cruzeiro        9  3  4  2   9- 9  10  Qualified
- 6-Joinville       9  3  3  3  15- 9   9  Qualified
- 7-Bahia           9  3  2  4  10- 9   8  Qualified
-----------------------------------------
- 8-Operário-MS     9  3  2  4   8-12   8
- 9-CRB             9  2  1  6   9-13   5
-10-Portuguesa      9  2  1  6   7-19   5
+<!-- $table1$ -->
+
 
 ▪ Group B ▪
 
@@ -347,18 +337,8 @@ Guarani        2-0  Vitória
 Desportiva     3-1  Flamengo-PI
   (Botelho (2), Dario;  Caíco)
 
-Table
- 1-Atlético-MG     9  7  1  1  22- 7  15  Qualified
- 2-Fluminense      9  4  4  1  18-10  12  Qualified
- 3-Palmeiras       9  4  3  2  16- 7  11  Qualified
- 4-Ceará           9  3  3  3  13-11   9  Qualified
- 5-Guarani         9  3  3  3   9- 7   9  Qualified
- 6-Vitória         9  3  3  3  16-17   9  Qualified
- 7-Desportiva      9  3  2  4  10-14   8  Qualified
-----------------------------------------
- 8-América-RN      9  1  5  3   6-18   7
- 9-Vila Nova       9  2  2  5   5-15   6
-10-Flamengo-PI     9  1  2  6   9-18   4
+<!-- $table2$ -->
+
 
 ▪ Group C ▪
 
@@ -492,18 +472,8 @@ Itabaiana      0-5  Náutico
 Flamengo-RJ    2-2  Ponte Preta
   [Nunes, Zico;  Serginho, Odirlei]
 
-Table
- 1-Santos           9  7  1  1  17- 5  15  Qualified
- 2-Flamengo-RJ      9  5  3  1  16- 7  13  Qualified
- 3-Botafogo-PB      9  5  1  3  14-16  11  Qualified
- 4-Internacional    9  5  0  4  13-10  10  Qualified
- 5-Ponte Preta      9  4  2  3  20-11  10  Qualified
- 6-Ferroviário      9  2  4  3   9-10   8  Qualified
- 7-Náutico          9  2  3  4  12-14   7  Qualified
------------------------------------------
- 8-Itabaiana        9  3  0  6  10-22   6
- 9-Mixto            9  2  1  6  11-18   5
-10-São Paulo-RS     9  1  3  5   6-15   5
+<!-- $table3$ -->
+
 
 ▪ Group D ▪
 
@@ -626,18 +596,8 @@ Nacional       0-3  Grêmio
 Vasco da Gama  5-1  Gama
   (Wilsinho (2), Dudu (2), João Luís; Roldão)
 
-Table
- 1-Coritiba        9  5  2  2  16-11  12  Qualified
- 2-Grêmio          9  4  4  1  18- 8  12  Qualified
- 3-São Paulo-SP    9  4  4  1  17-10  12  Qualified
- 4-Vasco da Gama   9  5  1  3  12- 7  11  Qualified
- 5-Santa Cruz      9  4  3  2  12-10  11  Qualified
- 6-Atlético-GO     9  3  5  1  11- 7  11  Qualified
- 7-América-RJ      9  2  2  5   9-11   6  Qualified
-----------------------------------------
- 8-Gama            9  1  4  4   9-18   6
- 9-Nacional        9  1  3  5   4-15   5
-10-Maranhão        9  0  4  5   3-14   4
+<!-- $table4$ -->
+
 
 ▪ Second Phase ▪
 
@@ -695,12 +655,8 @@ Vitória        0-5  Vasco da Gama
 Corinthians    3-0  Náutico
   [Wilsinho, Toninho, Eli]
 
-Table
- 1-Vasco da Gama   6  4  2  0  16- 5  10  Qualified
- 2-Corinthians     6  4  1  1  19- 9   9  Qualified
-----------------------------------------
- 3-Náutico         6  1  1  4   5- 9   3
- 4-Vitória         6  1  0  5   3-20   2
+<!-- $table5$ -->
+
 
 ▪ Group F ▪
 
@@ -746,12 +702,8 @@ Botafogo-RJ    3-1  Ceará
   [Zuza, Renato Sá, Cláudio Adão; Jorginho]
 
 ▪ Group F ▪
-Table
- 1-São Paulo-SP    6  3  3  0  15- 8   9  Qualified
- 2-Botafogo-RJ     6  3  1  2  11- 9   7  Qualified
-----------------------------------------
- 3-Ceará           6  1  2  3   7-11   4
- 4-Americano       6  1  2  3   2- 7   4
+<!-- $table6$ -->
+
 
 ▪ Group G ▪
 
@@ -800,12 +752,8 @@ Internacional  4-0  Atlético-GO
 Atlético-MG    5-1  Bahia
   (Fernando Roberto (2), Pedrinho (2), Éder;  Gilcimar)
 
-Table
- 1-Internacional   6  5  0  1  19- 6  10  Qualified
- 2-Atlético-MG     6  5  0  1  15- 5  10  Qualified
-----------------------------------------
- 3-Atlético-GO     6  1  0  5   5-16   2
- 4-Bahia           6  1  0  5   5-17   2
+<!-- $table7$ -->
+
 
 ▪ Group H ▪
 
@@ -853,12 +801,8 @@ Cruzeiro       2-0  Sport
 Fluminense     4-0  Botafogo-PB
   [Zezé Gomes, Tulica, Robertinho, Cristóvão]
 
-Table
- 1-Cruzeiro        6  4  2  0  10- 2  10  Qualified
- 2-Fluminense      6  2  3  1   9- 6   7  Qualified
-----------------------------------------
- 3-Sport           6  1  2  3   5- 8   4
- 4-Botafogo-PB     6  0  3  3   4-12   3
+<!-- $table8$ -->
+
 
 ▪ Group I ▪
 
@@ -908,12 +852,8 @@ Tiebreaking mathch for second place in Group I
 Guarani        3-2 América-RJ
   [Careca, Zé Dilson-Amér. (Own Goal), Uchoa-Amér.(Own Goal);  Porto Real, Nedo]
 
-Table
- 1-Santos          6  3  1  2   9- 5   7  Qualifed
- 2-Guarani         6  2  2  2   5- 6   6  Qualified (tie-breaker)
-----------------------------------------
- 3-América-RJ      6  2  2  2   5- 6   6
- 4-Joinville       6  1  3  2   5- 7   5
+<!-- $table9$ -->
+
 
 ▪ Round 1 ▪
 _ Apr 6 _
@@ -957,12 +897,8 @@ Santa Cruz     2-2  Palmeiras
 Bangu          0-3  Flamengo-RJ
   (Tita (3))
 
-Table
- 1-Flamengo-RJ     6  4  2  0  15- 6  10  Qualified
- 2-Palmeiras       6  2  2  2  10-13   6  Qualified
-----------------------------------------
- 3-Santa Cruz      6  1  3  2   8- 7   5
- 4-Bangu           6  1  1  4   6-13   3
+<!-- $table10$ -->
+
 
 ▪ Group K ▪
 
@@ -1009,12 +945,8 @@ Coritiba       7-1  Desportiva
 Remo           2-1  Ferroviário
   [Bebeto, Jasson;  Celso]
 
-Table
- 1-Coritiba        6  4  2  0  17- 3  10  Qualified
- 2-Desportiva      6  3  1  2   8-14   7  Qualified
-----------------------------------------
- 3-Remo            6  2  1  3   8- 6   5
- 4-Ferroviário     6  0  2  4   4-14   2
+<!-- $table11$ -->
+
 
 ▪ Group L ▪
 
@@ -1061,12 +993,8 @@ _ May 4 _
 Grêmio         5-0  América-SP
   (Baltazar (2), Paulo Isidoro (2), Tarciso)
 
-Table
- 1-Grêmio          6  5  0  1  13- 5  10  Qualified
- 2-Ponte Preta     6  4  0  2   8- 6   8  Qualified
-----------------------------------------
- 3-Colorado        6  2  0  4   9- 7   4
- 4-América-SP      6  1  0  5   6-18   2
+<!-- $table12$ -->
+
 
 Third Phase
 
@@ -1092,12 +1020,8 @@ São Paulo-SP   3-2  Fluminense
   (Getúlio (2), Zé Sérgio;  Edinho (2))
 Atlético-MG    0-0  Vasco da Gama
 
-Table
- 1-Atlético-MG     3  1  2  0   2- 0   4  Qualified
-----------------------------------------
- 2-Vasco da Gama   3  1  2  0   3- 2   4
- 3-São Paulo-SP    3  1  1  1   4- 4   3
- 4-Fluminense      3  0  1  2   3- 6   1
+<!-- $table13$ -->
+
 
 ▪ Group N ▪
 
@@ -1121,12 +1045,8 @@ Palmeiras      0-0  Guarani
 Internacional  1-0  Cruzeiro
   [Cláudio Mineiro]
 
-Table
- 1-Internacional   3  3  0  0   5- 2   6  Qualified
-----------------------------------------
- 2-Guarani         3  1  1  1   3- 2   3
- 3-Palmeiras       3  0  2  1   1- 2   2
- 4-Cruzeiro        3  0  1  2   0- 3   1
+<!-- $table14$ -->
+
 
 ▪ Group O ▪
 
@@ -1151,12 +1071,8 @@ Flamengo-RJ    2-0  Santos
 Desportiva     2-1  Ponte Preta
   [Luís Cláudio, Botelho;  Parraga]
 
-Table
- 1-Flamengo-RJ     3  2  1  0   6- 1   5  Qualified
-----------------------------------------
- 2-Santos          3  1  1  1   3- 2   3
- 3-Desportiva      3  1  1  1   2- 4   3
- 4-Ponte Preta     3  0  1  2   2- 6   1
+<!-- $table15$ -->
+
 
 ▪ Group P ▪
 
@@ -1181,12 +1097,8 @@ Botafogo-RJ    1-1  Corinthians
 Grêmio         1-0  Coritiba
   [Ancheta]
 
-Table
- 1-Coritiba        3  2  0  1   2- 1   4  Qualified
-----------------------------------------
- 2-Grêmio          3  2  0  1   2- 5   4
- 3-Corinthians     3  1  1  1   6- 2   4
- 4-Botafogo-RJ     3  0  1  2   1- 3   1
+<!-- $table16$ -->
+
 
 ▪ Semifinals ▪
 
@@ -1208,7 +1120,7 @@ Atlético-MG    1-0   2-3  Flamengo-RJ
 Flamengo wins due to better semifinal record.
 CR Flamengo are the 1980 Brazilian champions
 
-<!-- $table1$ -->
+<!-- $table17$ -->
 
 
 N.B. The table doesn't include the extra match between Guarani and América-RJ.
@@ -1350,17 +1262,8 @@ _ Mar 23 _
 Sampaio Corrêa    1-1  Moto Clube
 Paysandu          1-0  River
 
-Table
- 1-Paysandu              7  4  3  0  12- 4  11  Promotion playoff
-----------------------------------------------
- 2-Sampaio Corrêa        7  3  3  1  14-10   9  Qualified
- 3-Tuna Luso             7  3  2  2  13- 9   8  Qualified
-- - - - - - - - - - - - - - - - - - - - - - --
- 4-River                 7  2  4  1   6- 3   8
- 5-Moto Clube            7  1  5  1  10-10   7
- 6-Rio Negro             7  2  1  4   8-16   5
- 7-Piauí                 7  2  0  5   8-13   4
- 8-Fast                  7  0  4  3   6-12   4
+<!-- $table18$ -->
+
 
 ▪ Group B ▪
 
@@ -1420,17 +1323,8 @@ Americano         1-1  Itabuna
 Confiança         1-1  Sergipe
 Bonsucesso        1-0  Botafogo-BA
 
-Table
- 1-Americano             7  5  1  1  20- 7  11  Promotion playoff
-----------------------------------------------
- 2-CSA                   7  5  0  2  13- 7  10  Qualified
- 3-Bonsucesso            7  4  2  1  10- 6  10  Qualified
-- - - - - - - - - - - - - - - - - - - - - - --
- 4-ASA                   7  3  2  2   6- 6   8
- 5-Itabuna               7  3  1  3   9- 9   7
- 6-Confiança             7  1  2  4   4- 9   4
- 7-Sergipe               7  1  1  5   8-15   3
- 8-Botafogo-BA           7  1  1  5   6-17   3
+<!-- $table19$ -->
+
 
 ▪ Group C ▪
 
@@ -1490,17 +1384,8 @@ ABC               2-0  Treze
 Campinense        0-0  Leônico
 Central           1-2  Fortaleza
 
-Table
- 1-Sport                 7  5  2  0   9- 1  12  Promotion playoff
-----------------------------------------------
- 2-Fortaleza             7  4  1  2  12- 7   9  Qualified
- 3-ABC                   7  3  1  3   7- 5   7  Qualified
-- - - - - - - - - - - - - - - - - - - - - - --
- 4-Campinense            7  1  5  1   4- 4   7
- 5-Central               7  1  4  2   3- 3   6
- 6-Leônico               7  1  4  2   3- 6   6
- 7-Baraúnas              7  2  1  4   6-13   5
- 8-Treze                 7  0  4  3   5-10   4
+<!-- $table20$ -->
+
 
 ▪ Group D ▪
 
@@ -1559,17 +1444,8 @@ Anapolina         2-1  Itumbiara
 Uberaba           0-0  Villa Nova
 Operário-MT       2-1  Guará
 
-Table
- 1-Anapolina             7  4  2  1  11- 5  10  Promotion playoff
-----------------------------------------------
- 2-Itumbiara             7  5  0  2  11- 6  10  Qualified
- 3-Uberaba               7  4  2  1  10- 7  10  Qualified
-- - - - - - - - - - - - - - - - - - - - - - --
- 4-Brasília              7  4  0  3  12- 8   8
- 5-Operário-MT           7  2  3  2   6- 6   7
- 6-Villa Nova            7  1  3  3   4- 5   5
- 7-União                 7  2  1  4   6-12   5
- 8-Guará                 7  0  1  6   3-14   1
+<!-- $table21$ -->
+
 
 ▪ Group E ▪
 
@@ -1632,17 +1508,8 @@ América-MG        0-1  Vitória-ES
 Rio Branco        1-1  Goiânia
 Uberlândia        1-1  Goiás
 
-Table
- 1-Uberlândia            7  4  1  2   8- 5   9  Promotion playoff
-----------------------------------------------
- 2-Comercial-MS          7  3  2  2   8- 6   8  Qualified
- 3-América-MG            7  3  2  2   7- 6   8  Qualified
-- - - - - - - - - - - - - - - - - - - - - - --
- 4-Goiânia               7  2  4  1   4- 3   8
- 5-Caldense              7  3  1  3   8- 4   7
- 6-Vitória-ES            7  2  2  3   6- 8   6
- 7-Goiás                 7  1  4  2   5- 6   6
- 8-Rio Branco            7  1  2  4   5-13   4
+<!-- $table22$ -->
+
 
 ▪ Group F ▪
 
@@ -1698,17 +1565,8 @@ Noroeste          2-1  Campo Grande
 Internacional-SP  0-1  Bangu
 Serrano           0-2  Ferroviária
 
-Table
- 1-Bangu                 7  5  1  1  13- 5  11  Promotion playoff
-----------------------------------------------
- 2-Ferroviária           7  4  1  2  11- 7   9  Qualified
- 3-Botafogo-SP           7  3  1  3  11- 7   7  Qualified
-- - - - - - - - - - - - - - - - - - - - - - --
- 4-Internacional-SP      7  3  1  3   8- 6   7
- 5-Noroeste              7  3  1  3   5- 8   7
- 6-Goytacaz              7  2  2  3   4- 9   6
- 7-Campo Grande          7  2  1  4  10-11   5
- 8-Serrano               7  1  2  4   4-13   4
+<!-- $table23$ -->
+
 
 ▪ Group G ▪
 
@@ -1763,17 +1621,8 @@ XV de Novembro    3-3  Avaí
 Figueirense       2-1  Grêmio Maringá
 Novo Hamburgo     1-0  Operário-PR
 
-Table
- 1-América-SP            7  6  1  0  23- 9  13  Promotion playoff
-----------------------------------------------
- 2-Caxias                7  3  4  0   8- 5  10  Qualified
- 3-Grêmio Maringá        7  3  2  2  12- 7   8  Qualified
-- - - - - - - - - - - - - - - - - - - - - - --
- 4-Figueirense           7  3  1  3  13-12   7
- 5-XV/Novembro (Pirac.)  7  2  2  3  11-11   6
- 6-Novo Hamburgo         7  2  1  4   5-13   5
- 7-Operário-PR           7  2  0  5   6-14   4
- 8-Avaí                  7  1  1  5   7-14   3
+<!-- $table24$ -->
+
 
 ▪ Group H ▪
 
@@ -1830,17 +1679,8 @@ Juventude         0-0  Brasil
 Juventus          2-1  Criciúma
 Chapecoense       1-3  Londrina
 
-Table
- 1-Juventus              7  5  1  1  12- 6  11  Promotion playoff
-----------------------------------------------
- 2-Comercial-SP          7  4  3  0  10- 2  11  Qualified
- 3-Londrina              7  4  1  2  10- 8   9  Qualified
-- - - - - - - - - - - - - - - - - - - - - - --
- 4-Atlético-PR           7  2  5  0   5- 3   9
- 5-Juventude             7  2  2  3   8- 9   6
- 6-Brasil                7  0  5  2   7- 9   5
- 7-Criciúma              7  1  2  4   6-10   4
- 8-Chapecoense           7  0  1  6   2-13   1
+<!-- $table25$ -->
+
 
 Second Phase - Promotion playoff
 Knockout
@@ -1887,13 +1727,8 @@ _ Apr 27 _
 Paysandu          0-0  Fortaleza
 Itumbiara         2-5  Botafogo-SP
 
-Table
- 1-Botafogo-SP           4  3  1  0  18- 5   7  Qualified
-----------------------------------------------
- 2-Fortaleza             4  1  3  0   6- 3   5
- 3-Goiânia               4  1  1  2   3- 7   3
- 4-Paysandu              4  1  1  2   3- 9   3
- 5-Itumbiara             4  1  0  3   5-11   2
+<!-- $table26$ -->
+
 
 ▪ Group J ▪
 
@@ -1922,13 +1757,8 @@ _ Apr 27 _
 Anapolina         1-1  Sampaio Corrêa
 Bonsucesso        0-1  Londrina
 
-Table
- 1-Londrina              4  4  0  0   8- 2   8  Qualified
-----------------------------------------------
- 2-Grêmio Maringá        4  3  0  1  10- 4   6
- 3-Sampaio Corrêa        4  1  1  2   6- 8   3
- 4-Anapolina             4  0  2  2   4- 9   2
- 5-Bonsucesso            4  0  1  3   4- 9   1
+<!-- $table27$ -->
+
 
 ▪ Group K ▪
 
@@ -1959,13 +1789,8 @@ _ Apr 27 _
 Uberlândia        1-0  Caxias
 Comercial-SP      3-0  Tuna Luso
 
-Table
- 1-CSA                   4  2  2  0   5- 3   6  Qualified
-----------------------------------------------
- 2-Caxias                4  2  1  1   4- 3   5
- 3-Comercial-SP          4  2  0  2   7- 5   4
- 4-Tuna Luso             4  1  1  2   2- 4   3
- 5-Uberlândia            4  1  0  3   3- 6   2
+<!-- $table28$ -->
+
 
 ▪ Group L ▪
 
@@ -1995,13 +1820,8 @@ _ Apr 27 _
 Juventus          1-1  América-MG
 Ferroviária       3-0  ABC
 
-Table
- 1-Ferroviária           4  3  1  0  7  1  7  Qualified
---------------------------------------------
- 2-Uberaba               4  2  1  1  6  3  5
- 3-ABC                   4  2  1  1  9 10  5
- 4-Juventus              4  0  2  2  4  6  2
- 5-América-MG            4  0  1  3  4 10  1
+<!-- $table29$ -->
+
 
 ▪ Semifinals ▪
 

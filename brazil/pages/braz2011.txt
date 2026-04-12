@@ -29,28 +29,8 @@ Coritiba FC (Curitiba-PR)       CR Vasco da Gama (Rio de Janeiro-RJ)
 [1] Manda seus jogos em Sete Lagoas-MG.
 
 
-Table:
- 1.Corinthians     38 21  8  9  53-36  71  Champions
- 2.Vasco da Gama   38 19 12  7  57-40  69
- 3.Fluminense     38 20  3 15  60-51  63
- 4.Flamengo     38 15 16  7  59-47  61
- 5.Internacional   38 16 12 10  57-43  60
- 6.São Paulo     38 16 11 11  57-46  59
- 7.Figueirense     38 15 13 10  46-45  58  (+)
- 8.Coritiba     38 16  9 13  57-41  57  (+)
- 9.Botafogo     38 16  8 14  52-49  56
-10.Santos     38 15  8 15  55-55  53
-11.Palmeiras     38 11 17 10  43-39  50
-12.Grêmio     38 13  9 16  49-57  48
-13.Atlético-GO     38 12 12 14  50-45  48
-14.Bahia     38 11 13 14  43-49  46  (+)
-15.Atlético-MG     38 13  6 19  50-60  45
-16.Cruzeiro     38 11 10 17  48-51  43
-- - - - - - - - - - - - - - - - - - - - -
-17.Atlético-PR     38 10 11 17  38-55  41  Relegated
-18.Ceará     38 10  9 19  47-64  39  Relegated
-19.América     38  8 13 17  51-69  37  Relegated (+)
-20.Avaí        38  7 10 21  45-75  31  Relegated
+<!-- $table1$ -->
+
 
 ▪ Round 1 ▪
 _ May 21 _
@@ -943,28 +923,8 @@ Vasco da Gama   1-1  Flamengo
  (Diego Souza 30'; Renato 54')
 Corinthians   0-0  Palmeiras
 
-Table:
- 1.Corinthians     38 21  8  9  53-36  71  Champions
- 2.Vasco da Gama   38 19 12  7  57-40  69
- 3.Fluminense     38 20  3 15  60-51  63
- 4.Flamengo     38 15 16  7  59-47  61
- 5.Internacional   38 16 12 10  57-43  60
- 6.São Paulo     38 16 11 11  57-46  59
- 7.Figueirense     38 15 13 10  46-45  58  (+)
- 8.Coritiba     38 16  9 13  57-41  57  (+)
- 9.Botafogo     38 16  8 14  52-49  56
-10.Santos     38 15  8 15  55-55  53
-11.Palmeiras     38 11 17 10  43-39  50
-12.Grêmio     38 13  9 16  49-57  48
-13.Atlético-GO     38 12 12 14  50-45  48
-14.Bahia     38 11 13 14  43-49  46  (+)
-15.Atlético-MG     38 13  6 19  50-60  45
-16.Cruzeiro     38 11 10 17  48-51  43
-- - - - - - - - - - - - - - - - - - - - -
-17.Atlético-PR     38 10 11 17  38-55  41  Relegated
-18.Ceará     38 10  9 19  47-64  39  Relegated
-19.América     38  8 13 17  51-69  37  Relegated (+)
-20.Avaí        38  7 10 21  45-75  31  Relegated
+<!-- $table2$ -->
+
 
 Topscorer: Borges (Santos), 23 goals.
      Fred (Fluminense), 22 goals.
@@ -1348,29 +1308,8 @@ Guarani FC (Campinas-SP)    EC Vitória (Salvador-BA)
 [5] Plays home matches in/Manda seus jogos em Paulista-PE.
 
 
-Table:
- 1.Portuguesa     38 23 12  3  82-38  81  Champions; promoted
- 2.Náutico     38 17 13  8  51-41  64  Promoted
- 3.Ponte Preta     38 17 12  9  63-45  63  Promoted
- 4.Sport     38 17 10 11  62-44  61  Promoted
------------------------------------------
- 5.Vitória      38 17  9 12  61-48  60  (-)
- 6.Bragantino     38 16 10 12  65-53  58
- 7.Boa Esporte     38 16  9 13  44-40  57  (+)
- 8.Americana     38 15 11 12  40-45  56
- 9.Grêmio Barueri  38 15  8 15  48-53  53  (-)
-10.ABC       38 13 14 11  52-53  53  (+)
-11.Goiás     38 16  4 18  51-57  52  (-)
-12.Guarani     38 15  7 16  51-48  52  (-)
-13.Paraná     38 14 10 14  48-44  52
-14.Criciúma     38 13 12 13  43-43  51  (+)
-15.São Caetano     38 12 15 11  57-51  51
-16.ASA       38 13  9 16  44-54  48
-- - - - - - - - - - - - - - - - - - - - -
-17.Icasa     38 11 14 13  52-55  47  Relegated
-18.Vila Nova     38  7 11 20  34-53  32  Relegated
-19.Salgueiro     38  8  5 25  32-63  26  Relegated (+) [6]
-20.Duque de Caxias 38  2 11 25  32-84  17  Relegated
+<!-- $table3$ -->
+
 
 [6] Lost 3 points for fielding an unauthorized player against Portuguesa, on Oct 7th.
 [6] Perdeu 3 pontos por escalar jogador irregular na partida contra a Portuguesa no dia 07/10.
@@ -1906,29 +1845,8 @@ Guarani   2-0  Goiás
 Náutico   2-2  Ponte Preta
 ASA     1-2  Vitória
 
-Table:
- 1.Portuguesa     38 23 12  3  82-38  81  Champions; promoted
- 2.Náutico     38 17 13  8  51-41  64  Promoted
- 3.Ponte Preta     38 17 12  9  63-45  63  Promoted
- 4.Sport     38 17 10 11  62-44  61  Promoted
------------------------------------------
- 5.Vitória      38 17  9 12  61-48  60  (-)
- 6.Bragantino     38 16 10 12  65-53  58
- 7.Boa Esporte     38 16  9 13  44-40  57  (+)
- 8.Americana     38 15 11 12  40-45  56
- 9.Grêmio Barueri  38 15  8 15  48-53  53  (-)
-10.ABC       38 13 14 11  52-53  53  (+)
-11.Goiás     38 16  4 18  51-57  52  (-)
-12.Guarani     38 15  7 16  51-48  52  (-)
-13.Paraná     38 14 10 14  48-44  52
-14.Criciúma     38 13 12 13  43-43  51  (+)
-15.São Caetano     38 12 15 11  57-51  51
-16.ASA       38 13  9 16  44-54  48
-- - - - - - - - - - - - - - - - - - - - -
-17.Icasa     38 11 14 13  52-55  47  Relegated
-18.Vila Nova     38  7 11 20  34-53  32  Relegated
-19.Salgueiro     38  8  5 25  32-63  26  Relegated (+) [6]
-20.Duque de Caxias 38  2 11 25  32-84  17  Relegated
+<!-- $table4$ -->
+
 
 [6] Lost 3 points for fielding an unauthorized player against Portuguesa, on Oct 7th.
 [6] Perdeu 3 pontos por escalar jogador irregular na partida contra a Portuguesa no dia 07/10.
@@ -1980,20 +1898,14 @@ Esporte Clube SANTO ANDRÉ (Santo André-SP)
 
 
 
-FIRST STAGE:
+▪ FIRST STAGE ▪
 (Top 2 from each group qualify, bottom club from each group is relegated)
 (Os 2 primeiros de cada grupo se classificam, o lanterna de cada grupo é rebaixado)
 
 ▪ Group A ▪
 
-Table:
-1.Rio Branco    8  5  1  2  12-10  16  Qualified, later withdrew  [3]
-2.Paysandu    8  4  2  2  13- 7  14  Qualified
----------------------------------------
-3.Luverdense    8  4  1  3  11- 6  13  Qualified  [3]
-4.Águia de Marabá 8  4  1  3  11- 8  13
-- - - - - - - - - - - - - - - - - - - -
-5.Araguaína    8  0  1  7   3-19   1  Relegated
+<!-- $table5$ -->
+
 
 ▪ Round 1 ▪
 _ Jul 16 _
@@ -2043,14 +1955,8 @@ Araguaína    0-2  Luverdense
 Luverdense   1-0  Águia de Marabá
 Paysandu    5-0  Araguaína
 
-Table:
-1.Rio Branco    8  5  1  2  12-10  16  Qualified, later withdrew  [3]
-2.Paysandu    8  4  2  2  13- 7  14  Qualified
----------------------------------------
-3.Luverdense    8  4  1  3  11- 6  13  Qualified  [3]
-4.Águia de Marabá 8  4  1  3  11- 8  13
-- - - - - - - - - - - - - - - - - - - -
-5.Araguaína    8  0  1  7   3-19   1  Relegated
+<!-- $table6$ -->
+
 
  [3] O Rio Branco foi eliminado da competição pelo STJD após recorrer à Justiça Comum para realizar jogos
 na Arena da Floresta. A vaga na Segunda fase foi repassada ao Luverdense. Segundo a decisão do STJD, o RBFC perderia
@@ -2061,14 +1967,8 @@ na Segunda Fase e garantiu a permanência na Série C.
 
 ▪ Group B ▪
 
-Table:
-1.América    8  5  1  2  16- 8  16  Qualified
-2.CRB      8  3  2  3   7-13  11  Qualified
----------------------------------------
-3.Guarany    8  2  3  3   9- 9   9
-4.Fortaleza    8  2  3  3  11-12   9
-- - - - - - - - - - - - - - - - - - - -
-5.Campinense    8  2  3  3   7- 8   9  Relegated
+<!-- $table7$ -->
+
 
 ▪ Round 1 ▪  Jul 16
 Guarany    2-0  Campinense
@@ -2116,26 +2016,14 @@ América    4-0  Fortaleza
 Campinense    1-0  Guarany
 Fortaleza    4-0  CRB
 
-Table:
-1.América    8  5  1  2  16- 8  16  Qualified
-2.CRB      8  3  2  3   7-13  11  Qualified
----------------------------------------
-3.Guarany    8  2  3  3   9- 9   9
-4.Fortaleza    8  2  3  3  11-12   9
-- - - - - - - - - - - - - - - - - - - -
-5.Campinense    8  2  3  3   7- 8   9  Relegated
+<!-- $table8$ -->
+
 
 
 ▪ Group C ▪
 
-Table:
-1.Ipatinga    8  6  0  2  15- 8  18  Qualified
-2.Brasiliense    8  4  1  3   8- 5  13  Qualified
----------------------------------------
-3.Madureira    8  3  1  4   7- 8  10
-4.Macaé      8  2  2  4  14-17   8
-- - - - - - - - - - - - - - - - - - - -
-5.Marília    8  2  2  4  11-17   8  Relegated
+<!-- $table9$ -->
+
 
 ▪ Round 1 ▪  Jul 16
 Macaé       2-2  Marília
@@ -2177,13 +2065,8 @@ Ipatinga    2-0  Madureira
 Madureira    2-0  Brasiliense
 Marília    4-6  Macaé
 
-Table:
-1.Ipatinga    8  6  0  2  15- 8  18  Qualified
-2.Brasiliense    8  4  1  3   8- 5  13  Qualified
-3.Madureira    8  3  1  4   7- 8  10
-4.Macaé      8  2  2  4  14-17   8
-- - - - - - - - - - - - - - - - - - - -
-5.Marília    8  2  2  4  11-17   8  Relegated
+<!-- $table10$ -->
+
 
 
 ▪ Group D ▪
@@ -2236,21 +2119,15 @@ Joinville    5-2  Brasil
 Chapecoense   1-0  Caxias
 Brasil     1-1  Santo André
 
-Table:
-1.Chapecoense    8  5  1  2  13- 6  16  Qualified
-2.Joinville    8  4  3  1  16-11  15  Qualified
----------------------------------------
-3.Caxias    8  2  2  4  11-14   8
-4.Santo André    8  2  2  4   8-13   8
-- - - - - - - - - - - - - - - - - - - -
-5.Brasil    8  2  2  4  11-15   2  Relegated [4]
+<!-- $table11$ -->
+
 
 [4] Brasil had 6 points deducted for fielding an ineligible player against Santo André, on Round 1.
     O Brasil perdeu 6 pontos devido à escalação de um jogador sem condições legais de jogo na partida
     contra o Santo André, na 1ª rodada.
 
 
-SECOND STAGE:
+▪ SECOND STAGE ▪
 (Top 2 from each group are promoted, group winners are finalists)
 (Os 2 primeiros de cada grupo sobem, o vencedor de cada grupo é finalista)
 
@@ -2290,13 +2167,8 @@ Paysandu    2-1  Luverdense
 América     2-1  Paysandu
 Luverdense    1-1  CRB
 
-Table:
-1.CRB      6  3  3  0   7- 2  12 Qualified; promoted
----------------------------------------
-2.América    6  2  3  1   6- 4   9 Promoted
-- - - - - - - - - - - - - - - - - - - -
-3.Paysandu    6  2  1  3   5- 8   7
-4.Luverdense    6  0  3  3   4- 8   3
+<!-- $table12$ -->
+
 
 
 Originally the following matches were scheduled and actually played for the 2nd phase, but were annulled after Rio Branco
@@ -2348,17 +2220,12 @@ Brasiliense   4-1 Ipatinga
 Chapecoense   3-0 Brasiliense
 Ipatinga   0-1 Joinville
 
-Table:
-1.Joinville    6  5  1  0  14- 5  16 Qualified; promoted
----------------------------------------
-2.Ipatinga    6  3  0  3   9-11   9 Promoted
-- - - - - - - - - - - - - - - - - - - -
-3.Chapecoense    6  1  2  3  12-12   5
-4.Brasiliense    6  1  1  4   9-16   4
+<!-- $table13$ -->
 
 
 
-FINALS:
+
+▪ FINALS ▪
 
 _ Nov 26 _
 CRB            1-3 Joinville
@@ -2477,7 +2344,7 @@ Tocantinópolis EC - Tocantins 2010 - replacing Gurupi EC.
 
 
 
-FIRST STAGE:
+▪ FIRST STAGE ▪
 (Top 2 from each group qualify)
 (Os 2 primeiros de cada grupo se classificam)
 
@@ -2545,13 +2412,8 @@ P. de Castro    9-1  Vila Aurora
 Cuiabá          4-0  Penarol
 Vila Aurora     1-3  Nacional
 
-Table:
-1.Cuiabá            8  5  1  2  19-11  16  Qualified
-2.Penarol       8  4  2  2   9- 8  14  Qualified
----------------------------------------------
-3.Plácido de Castro     8  3  3  2  16- 9  12
-4.Nacional       8  2  1  5   9-14   7
-5.Vila Aurora     8  1  3  4   7-18   6
+<!-- $table14$ -->
+
 
 
 
@@ -2622,13 +2484,8 @@ Independente    1-0  Trem
 [4] Disputado em Bacabal-MA.
 
 
-Table:
-1.Independente     8  4  2  2  12-10  14  Qualified
-2.Sampaio Corrêa   8  4  1  3  17- 8  13  Qualified
----------------------------------------------
-3.Trem       8  3  2  3   8-11  11
-4.São Raimundo     8  2  4  2   9- 8  10
-5.Comercial       8  2  1  5   6-15   7
+<!-- $table15$ -->
+
 
 
 
@@ -2690,13 +2547,8 @@ Santa Cruz-PE   2-1  Alecrim
 [7] Played in João Pessoa-PB.
 [7] Disputados em João Pessoa-PB.
 
-Table:
-1.Santa Cruz-RN    8  5  1  2   9- 6  16  Qualified
-2.Santa Cruz-PE    8  4  3  1  10- 6  15  Qualified
----------------------------------------------
-3.Guarani      8  3  2  3   7- 4  11
-4.Alecrim      8  3  0  5   7-12   9
-5.Porto      8  1  2  5   6-11   5
+<!-- $table16$ -->
+
 
 
 
@@ -2759,13 +2611,8 @@ Bahia de Feira  1-2  Vitória da Conquista
 V. da Conquista 2-0  Treze
 River Plate    1-2  Bahia de Feira
 
-Table:
-1.Coruripe      8  5  1  2  13-11  16  Qualified
-2.Treze      8  5  0  3  14-11  15  Qualified
----------------------------------------------
-3.Bahia de Feira    8  4  0  4  12- 9  12
-4.River Plate      8  2  2  3  10-12   8
-5.V. da Conquista    8  2  1  5   6-12   7
+<!-- $table17$ -->
+
 
 
 
@@ -2844,13 +2691,8 @@ Anapolina       6-1   Tocantinópolis
   (André Luis 32'', Valdânis 27', Juliano 31', Alexandre Potita 33', Cleiton (2) 58' e 76'; Têti 71')
 
 
-Table:
-1.Tupi      8  4  2  2  10- 8  14  Qualified
-2.Anapolina      8  4  1  3  15-11  13  Qualified
----------------------------------------------
-3.Itumbiara      8  4  1  3  13-10  13
-4.Gama      8  2  3  3   8- 9   9
-5.Tocantinópolis    8  2  1  5  10-18   7
+<!-- $table18$ -->
+
 
 
 
@@ -2919,13 +2761,8 @@ Bosque Formosa  0-4  Audax Rio
    (Giovanni, Castro (3))
 Volta Redonda   4-1  São Mateus
 
-Table:
-1.Villa Nova      8  5  1  2  11- 6  16  Qualified
-2.Volta Redonda    8  4  3  1  11- 3  15  Qualified
----------------------------------------------
-3.Audax Rio      8  3  2  3  13- 7  11
-4.Bosque Formosa    8  2  3  3   5-12   9
-5.São Mateus      8  0  3  5   7-19   3
+<!-- $table19$ -->
+
 
 
 
@@ -2992,13 +2829,8 @@ Oeste      3-1  CENE
 
 
 
-Table:
-1.Oeste      8  4  2  2  12- 8  14  Qualified
-2.Mirassol      8  4  2  2   6- 7  14  Qualified
----------------------------------------------
-3.CENE      8  4  1  3  15-13  13
-4.Operário Ferroviário  8  3  1  4   7- 9  10
-5.Cerâmica      8  1  2  5   6- 9   8
+<!-- $table20$ -->
+
 
 
 
@@ -3058,16 +2890,11 @@ Cianorte        0-1  Brusque
 Cruzeiro         2-2  Cianorte
 Brusque          0-1  Juventude
 
-Table:
-1.Juventude      8  6  1  1  19- 7  19  Qualified
-2.Cianorte      8  4  2  2   9- 9  14  Qualified
----------------------------------------------
-3.Brusque      8  3  1  4   6-11  10
-4.Metropolitano    8  3  0  5  14-16   9
-5.Cruzeiro      8  1  2  5   6-11   5
+<!-- $table21$ -->
 
 
-SECOND STAGE:
+
+▪ SECOND STAGE ▪
 
 
 
@@ -3141,7 +2968,7 @@ Tupi            3-1  Oeste
 [10] Played in Rondonópolis-MT.
 [10] Disputado em Rondonópolis-MT.
 
-FINALS:
+▪ FINALS ▪
 
 _ Nov 13 _
 Tupi            1-0  Santa Cruz
@@ -3153,13 +2980,8 @@ Santa Cruz      0-2  Tupi
 *** TUPI-MG are Brazil 2011 4th level (Série D) champions ***
 
 
-Final Standings
+<!-- $table22$ -->
 
- 1.Tupi       16 10  3  3  29-15  33  Champions; promoted
- 2.Santa Cruz-PE   16  7  6  3  17-13  27  Promoted
------------------------------------------
- 3.Cuiabá       14  8  1  5  30-18  25  Semifinalists; promoted
- 4.Oeste       14  6  2  6  18-19  20  Promoted
 
 Topscorer: Marcinho (Oeste), Fernando (Cuiabá), 11 goals.
 

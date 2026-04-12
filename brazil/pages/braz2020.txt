@@ -775,35 +775,35 @@ _ Feb 18 _
 Vitória/ES                0-1  Figueirense/SC
   (Diego Gonçalves 90+2)
 _ Feb 19 _
-Náutico/PE                1-1  Botafogo/RJ               [Pen 3-4]
+Náutico/PE                1-1  Botafogo/RJ               (Pen 3-4)
   (Jean Carlos 42; Bruno Nazário 68c)
-Paysandu/PA               1-1  CRB/AL                    [Pen 3-5]
+Paysandu/PA               1-1  CRB/AL                    (Pen 3-5)
   (Caíque Oliveira 45+2; Léo Gamalho 45p)
-Oeste/SP                  1-1  Ceará/CE                  [Pen 2-4]
+Oeste/SP                  1-1  Ceará/CE                  (Pen 2-4)
   (De Paula 43; Leandro Carvalho 07)
 _ Feb 20 _
 Brusque/SC                5-1  Remo/PA
   (Thiago Alagoano 38, 90+2, Airton 58f, Neguete 76 (og), Edu 77; Giovane Gomez 70)
 _ Feb 26 _
-River/PI                  1-1  América/RN                [Pen 3-4]
+River/PI                  1-1  América/RN                (Pen 3-4)
   (Valdo Bacabal 65; Dione 10)
 Ferroviária/SP            6-2  Águia Negra/MS
   (Henan 07, Tony 33p, Claudinho 45+1, 45+2, Max 59, Caio Rangel 90+3; Salomão 18f, Pedro 83)
-Afogados da Ingazeira/PE  2-2  Atlético/MG               [Pen 7-6]
+Afogados da Ingazeira/PE  2-2  Atlético/MG               (Pen 7-6)
   (Candinho 61, Philip 72; Gabriel 65, Ricardo Oliveira 78)
-XV de Piracicaba/SP       1-1  Juventude/RS              [Pen 7-8]
+XV de Piracicaba/SP       1-1  Juventude/RS              (Pen 7-8)
   (Daniel Costa 47; Eltinho 71)
 Paraná/PR                 3-2  Bahia de Feira/BA
   (Thales 90+1c, Fabrício 90+2, Renan Bressan 90+8f; Léo Porto 58, Alex Cazumba 68f)
 _ Feb 27 _
-Ponte Preta/SP            0-0  Vila Nova/GO              [Pen 5-3]
-São José/RS               0-0  Chapecoense/SC            [Pen 5-4]
+Ponte Preta/SP            0-0  Vila Nova/GO              (Pen 5-3)
+São José/RS               0-0  Chapecoense/SC            (Pen 5-4)
 _ Mar 4 _
 Brasil/RS                 1-0  Manaus/AM
   (Lázaro 26)
-Boa Esporte/MG            1-1  Cruzeiro/MG               [Pen 4-5]
+Boa Esporte/MG            1-1  Cruzeiro/MG               (Pen 4-5)
   (Claudeci 58; João Lucas 36)
-Atlético/GO               1-1  Santa Cruz/PE             [Pen 4-3]
+Atlético/GO               1-1  Santa Cruz/PE             (Pen 4-3)
   (Renato Kayser 13; Patrick Nonato 38c)
 Fluminense/RJ             2-0  Botafogo/PB
   (Marcos Paulo 51, Nenê 71p)
@@ -845,10 +845,10 @@ Afogados da Ingazeira/PE  0-2  Ponte Preta/SP
 Fluminense/RJ             3-0  Figueirense/SC
 América/MG                1-0  Ferroviária/SP
 _ Aug 26 _
-América/RN                1-1  Juventude/RS              [Pen 3-5]
+América/RN                1-1  Juventude/RS              (Pen 3-5)
 CRB/AL                    1-1  Cruzeiro/MG
 Paraná/PR                 1-2  Botafogo/RJ
-Goiás/GO                  1-2  Vasco da Gama/RJ          [Pen 2-3]
+Goiás/GO                  1-2  Vasco da Gama/RJ          (Pen 2-3)
 Vitória/BA                3-4  Ceará/CE
 _ Aug 27 _
 Brusque/SC                1-0  Brasil/RS
@@ -898,7 +898,7 @@ Red Bull Bragantino/SP    1-3  Palmeiras/SP
 
 2nd Leg
 _ Oct 25 _
-São Paulo/SP              2-2  Fortaleza/CE              [Pen 10-9]
+São Paulo/SP              2-2  Fortaleza/CE              (Pen 10-9)
 _ Nov 3 _
 Cuiabá/MG                 0-0  Botafogo/RJ
 Internacional/RS          2-1  Atlético/GO
@@ -922,7 +922,7 @@ Internacional/RS          0-1  América/MG
 Ceará/CE                  2-2  Palmeiras/SP
 Grêmio/RS                 2-0  Cuiabá/MG
 São Paulo/SP              3-0  Flamengo/RJ
-América/MG                0-1  Internacional/RS          [Pen 6-5]
+América/MG                0-1  Internacional/RS          (Pen 6-5)
 
 ▪ Semifinals ▪
 
@@ -971,7 +971,7 @@ Promoted: Vila Nova, Remo, Brusque, Londrina
 
 ==== Série C  ‹§sc›
 
-First Stage
+▪ First Stage ▪
 
 Final Tables:
 
@@ -1003,7 +1003,7 @@ Final Tables:
  9.São Bento             18   3  8  7  13-19  17  [R]  Relegated
 10.Boa Esporte           18   2  9  7  17-23  15       Relegated
 
-Second Stage
+▪ Second Stage ▪
 
 Final Tables:
 
