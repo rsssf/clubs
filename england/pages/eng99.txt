@@ -9,32 +9,8 @@
 
 Premiership
 
-Table:
+<!-- $table1$ -->
 
- 1.Manchester United   38  22 13  3  80-37  79  Champions
- - - - - - - - - - - - - - - - - - - - - - - -
- 2.Arsenal             38  22 12  4  59-17  78  Champions' League
- - - - - - - - - - - - - - - - - - - - - - - -
- 3.Chelsea             38  20 15  3  57-30  75  Champions' League Qualifiers
- - - - - - - - - - - - - - - - - - - - - - - -
- 4.Leeds United        38  18 13  7  62-34  67  UEFA Cup
- 5.West Ham United     38  16  9 13  46-53  57
- 6.Aston Villa         38  15 10 13  51-46  55
- 7.Liverpool           38  15  9 14  68-49  54
- 8.Derby County        38  13 13 12  40-45  52
- 9.Middlesbrough       38  12 15 11  48-54  51
-10.Leicester City      38  12 13 13  40-46  49
-11.Tottenham Hotspur   38  11 14 13  47-50  47  UEFA Cup (League Cup Winners)
-12.Sheffield Wednesday 38  13  7 18  41-42  46
-13.Newcastle United    38  11 13 14  48-54  46  UEFA Cup (Cup Finalists)
-14.Everton             38  11 10 17  42-47  43
-15.Coventry City       38  11  9 18  39-51  42
-16.Wimbledon           38  10 12 16  40-63  42
-17.Southampton         38  11  8 19  37-64  41
-----------------------------------------------
-18.Charlton Athletic   38   8 12 18  41-56  36  Relegated
-19.Blackburn Rovers    38   7 14 17  38-52  35  Relegated
-20.Nottingham Forest   38   7  9 22  35-69  30  Relegated
 
 ▪ Round 1 ▪
 _ Aug 15 _
@@ -598,32 +574,8 @@ Nottingham F   1-0 Leicester C
 Southampton    2-0 Everton
 West Ham Utd   4-0 Middlesbrough
 
-Table:
+<!-- $table2$ -->
 
- 1.Manchester United   38  22 13  3  80-37  79  Champions
- - - - - - - - - - - - - - - - - - - - - - - -
- 2.Arsenal             38  22 12  4  59-17  78  Champions' League
- - - - - - - - - - - - - - - - - - - - - - - -
- 3.Chelsea             38  20 15  3  57-30  75  Champions' League Qualifiers
- - - - - - - - - - - - - - - - - - - - - - - -
- 4.Leeds United        38  18 13  7  62-34  67  UEFA Cup
- 5.West Ham United     38  16  9 13  46-53  57
- 6.Aston Villa         38  15 10 13  51-46  55
- 7.Liverpool           38  15  9 14  68-49  54
- 8.Derby County        38  13 13 12  40-45  52
- 9.Middlesbrough       38  12 15 11  48-54  51
-10.Leicester City      38  12 13 13  40-46  49
-11.Tottenham Hotspur   38  11 14 13  47-50  47  UEFA Cup (League Cup Winners)
-12.Sheffield Wednesday 38  13  7 18  41-42  46
-13.Newcastle United    38  11 13 14  48-54  46  UEFA Cup (Cup Finalists)
-14.Everton             38  11 10 17  42-47  43
-15.Coventry City       38  11  9 18  39-51  42
-16.Wimbledon           38  10 12 16  40-63  42
-17.Southampton         38  11  8 19  37-64  41
-----------------------------------------------
-18.Charlton Athletic   38   8 12 18  41-56  36  Relegated
-19.Blackburn Rovers    38   7 14 17  38-52  35  Relegated
-20.Nottingham Forest   38   7  9 22  35-69  30  Relegated
 
 <!-- $topscorers1$ -->
 
@@ -832,7 +784,7 @@ Tottenham: Walker, Carr, Campbell, Vega, Freund, Anderton, Edinburgh
 
 First Division (second level)
 
-<!-- $table1$ -->
+<!-- $table3$ -->
 
 
 Promotion Playoffs
@@ -856,7 +808,7 @@ Bolton Wanderers 0-2 Watford
 
 Second Division (third level)
 
-<!-- $table2$ -->
+<!-- $table4$ -->
 
 
 Promotion Playoffs
@@ -872,7 +824,7 @@ Manchester City   1-0 Wigan Athletic
 Gillingham        1-0 Preston North End
 
 ▪ Final ▪  May 30
-Gillingham        2-2 Manchester City       [1-3 pen]
+Gillingham        2-2 Manchester City       (1-3 pen)
   (81 Carl Asaba, 86 Robert Taylor; 89 Kevin Horlock, 90 Paul Dickov)
 
 Manchester City promoted.
@@ -880,7 +832,7 @@ Manchester City promoted.
 
 Third Division (fourth level)
 
-<!-- $table3$ -->
+<!-- $table5$ -->
 
 
 Promotion Playoffs
@@ -903,7 +855,7 @@ Scunthorpe United promoted.
 
 Conference (fifth level)
 
-<!-- $table4$ -->
+<!-- $table6$ -->
 
 
 [NB: Barrow may be demoted for financial reasons, in which case Welling United
@@ -915,17 +867,17 @@ Sixth Level (Conference Feeders)
 
 Ryman League Premier Division
 
-<!-- $table5$ -->
+<!-- $table7$ -->
 
 
 Dr Martens League Premier Division
 
-<!-- $table6$ -->
+<!-- $table8$ -->
 
 
 UniBond League Premier Division
 
-<!-- $table7$ -->
+<!-- $table9$ -->
 
 
 ‹1997/98, see page eng98›.

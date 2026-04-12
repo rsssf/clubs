@@ -811,15 +811,15 @@ League Cup  ‹§leaguecup›
 
 ▪ First Round ▪
 _ Aug 14 _
-Nottingham Forest       1-1 Bury                    [10-9 pen]
+Nottingham Forest       1-1 Bury                    (10-9 pen)
 Rotherham United        3-1 Wigan Athletic
 Tranmere Rovers         1-3 Walsall
-Crewe Alexandra         1-1 Fleetwood Town          [3-4 pen]
+Crewe Alexandra         1-1 Fleetwood Town          (3-4 pen)
 Scunthorpe United       1-2 Doncaster Rovers
-Macclesfield Town       1-1 Bradford City           [4-2 pen]
+Macclesfield Town       1-1 Bradford City           (4-2 pen)
 Grimsby Town            0-2 Rochdale
-Sheffield United        1-1 Hull City               [4-5 pen]
-Middlesbrough           3-3 Notts County            [4-3 pen]
+Sheffield United        1-1 Hull City               (4-5 pen)
+Middlesbrough           3-3 Notts County            (4-3 pen)
 Leeds United            2-1 Bolton Wanderers
 Carlisle United         1-5 Blackburn Rovers
 Mansfield Town          6-1 Accrington Stanley
@@ -828,15 +828,15 @@ Preston North End       3-1 Morecambe
 Oldham Athletic         0-2 Derby County
 Shrewsbury Town         1-2 Burton Albion
 Blackpool               3-1 Barnsley
-Millwall                0-0 Gillingham              [3-1 pen]
+Millwall                0-0 Gillingham              (3-1 pen)
 Portsmouth              1-2 AFC Wimbledon
-Cheltenham Town         2-2 Colchester United       [6-5 pen]
+Cheltenham Town         2-2 Colchester United       (6-5 pen)
 Yeovil Town             0-1 Aston Villa
 Southend United         2-4 Brentford
-Wycombe Wanderers       1-1 Northampton Town        [7-6 pen]
+Wycombe Wanderers       1-1 Northampton Town        (7-6 pen)
 Swindon Town            0-1 Forest Green Rovers
 Norwich City            3-1 Stevenage
-Exeter City             1-1 Ipswich Town            [4-2 pen]
+Exeter City             1-1 Ipswich Town            (4-2 pen)
 Milton Keynes Dons      3-0 Charlton Athletic
 Bristol Rovers          2-1 Crawley Town
 Bristol City            0-1 Plymouth Argyle
@@ -867,8 +867,8 @@ Middlesbrough           2-1 Rochdale
 Newport County          0-3 Oxford United
 Queens Park Rangers     3-1 Bristol Rovers
 Sheffield Wednesday     0-2 Wolverhampton Wanderers
-Walsall                 3-3 Macclesfield Town       [1-3 pen]
-Wycombe Wanderers       2-2 Forest Green Rovers     [4-3 pen]
+Walsall                 3-3 Macclesfield Town       (1-3 pen)
+Wycombe Wanderers       2-2 Forest Green Rovers     (4-3 pen)
 Stoke City              2-0 Huddersfield Town
 West Bromwich Albion    2-1 Mansfield Town
 _ Aug 29 _
@@ -884,19 +884,19 @@ Wycombe Wanderers       3-4 Norwich City
 Oxford United           0-3 Manchester City
 Millwall                1-3 Fulham
 Bournemouth             3-2 Blackburn Rovers
-Preston North End       2-2 Middlesbrough           [3-4 pen]
-Wolverhampton Wanderers 0-0 Leicester City          [1-3 pen]
+Preston North End       2-2 Middlesbrough           (3-4 pen)
+Wolverhampton Wanderers 0-0 Leicester City          (1-3 pen)
 Blackpool               2-0 Queens Park Rangers
 West Bromwich Albion    0-3 Crystal Palace
-Manchester United       2-2 Derby County            [7-8 pen]
+Manchester United       2-2 Derby County            (7-8 pen)
 _ Sep 26 _
 Arsenal                 3-1 Brentford
 West Ham United         8-0 Macclesfield Town
 Liverpool               1-2 Chelsea
 Nottingham Forest       3-2 Stoke City
-Tottenham Hotspur       2-2 Watford                 [4-2 pen]
+Tottenham Hotspur       2-2 Watford                 (4-2 pen)
 _ Oct 2 _
-Everton                 1-1 Southampton             [3-4 pen]
+Everton                 1-1 Southampton             (3-4 pen)
 
 ▪ Fourth Round ▪
 _ Oct 30 _
@@ -910,12 +910,12 @@ Middlesbrough           1-0 Crystal Palace
 _ Nov 1 _
 Manchester City         2-0 Fulham
 _ Nov 27 _
-Leicester City          0-0 Southampton             [6-5 pen]
+Leicester City          0-0 Southampton             (6-5 pen)
 
 ▪ Quarterfinals ▪
 _ Dec 18 _
 Middlesbrough           0-1 Burton Albion
-Leicester City          1-1 Manchester City         [1-3 pen]
+Leicester City          1-1 Manchester City         (1-3 pen)
 _ Dec 19 _
 Arsenal                 0-2 Tottenham Hotspur
 Chelsea                 1-0 Bournemouth
@@ -932,7 +932,7 @@ Manchester City         9-0 Burton Albion
 _ Jan 23 _
 Burton Albion           0-1 Manchester City
 _ Jan 24 _
-Chelsea                 2-1 Tottenham Hotspur       [4-2 pen]
+Chelsea                 2-1 Tottenham Hotspur       (4-2 pen)
 
 ▪ Final ▪  Feb 24, London
 Manchester City         0-0 Chelsea                 (aet, 4-3 pen)

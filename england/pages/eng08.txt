@@ -748,7 +748,7 @@ Newcastle United        4-1 Stoke City
   (Owen 8, Cacapa 31, Milner 68, Duff 76; Lawrence 89)
 _ Jan 22 _
 Barnet                  1-1 Swindon            (aet, 2-0 pen)
-  (Paynter [og] 53; Paynter 42)
+  (Paynter (og) 53; Paynter 42)
 Bristol Rovers          0-0 Fulham             (aet, 5-3 pen)
 Sheffield Wed           1-1 Derby              (aet, 2-4 pen)
   (Watson 18; Miller 47)
@@ -827,7 +827,7 @@ Middlesbrough           0-2 Cardiff City
   (Whittingham 9, Johnson 23)
 
 ▪ Semifinals ▪
-(Apr 5, Wembley Stadium, London)
+[Apr 5, Wembley Stadium, London]
 West Bromwich Albion    0-1 Portsmouth
   (Kanu 54)
 (Apr 6, Wembley Stadium, London)
@@ -840,7 +840,7 @@ Portsmouth              1-0 Cardiff City
 
 
 Community Shield 2008 [Aug 10, Wembley Stadium, London; att: 84,808]
-Manchester United       0-0 Portsmouth         [3-1 pen]
+Manchester United       0-0 Portsmouth         (3-1 pen)
 
 Man Utd: Van der Sar, Neville (Brown 66), Ferdinand, Vidic, Evra,
          Fletcher, O'Shea (Carrick 66), Scholes, Giggs, Nani
@@ -875,7 +875,7 @@ Brentford               0-3 Bristol City
 Bristol Rovers          1-1 Crystal Palace     (aet, 4-1 pen)
   (Disley 64; Freedman 31)
 Bury                    0-1 Carlisle
-  ([Graham 12)
+  [[Graham 12]
 Cardiff City            1-0 Brighton HA        (aet)
   (Johnson 110)
 Chester City            0-0 Nottingham Forest  (aet, 2-4 pen)
@@ -1092,7 +1092,7 @@ Northern Section
 _ Sep 4 _
 Accrington Stanley      2-3 Oldham Athletic
   (D Sane 8, Proctor 29pen; Liddell 55, Davies 56, Wollenden 73)
-Chester City            1-1 Crewe Alexandra      [4-3 pen]
+Chester City            1-1 Crewe Alexandra      (4-3 pen)
   (Partridge 61; Lowe 37)
 Chesterfield            1-3 Hartlepool
   (Allison 72; Foley 34, Brown 51, 59)
@@ -1115,11 +1115,11 @@ Lincoln City            2-5 Hartlepool
   (Stallard 4pen, 77; Porter 28, 50, 75, Mackay 69, Moore 71)
 Macclesfield            0-1 Stockport
   (Tierney 59)
-Morecambe               2-2 Port Vale            [4-2 pen]
+Morecambe               2-2 Port Vale            (4-2 pen)
   (Hunter 48, Newby 61; Miller 5, Rodgers 30)
 Rochdale                1-3 Bury
   (Prendergast 45; Hurst 57, 84, Rouse 82)
-Rotherham               1-1 Grimsby              [2-4 pen]
+Rotherham               1-1 Grimsby              (2-4 pen)
   (O'Grady 18; Till 50)
 _ Oct 23 _
 Doncaster Rovers        3-0 Oldham Athletic
@@ -1128,9 +1128,9 @@ Doncaster Rovers        3-0 Oldham Athletic
 ▪ Quarterfinals ▪  Nov 13
 Carlisle United         0-3 Stockport
   (Proudlock 49, McNeil 68, Elding 74)
-Grimsby                 2-2 Doncaster Rovers     [5-4 pen]
+Grimsby                 2-2 Doncaster Rovers     (5-4 pen)
   (Boshell 13, Mills 44og; Guy 25, Heffernan 79pen)
-Hartlepool              1-1 Morecambe            [2-4 pen]
+Hartlepool              1-1 Morecambe            (2-4 pen)
   (Barker 13; Newby 48pen)
 Leeds United            1-2 Bury
   (Constantine 8; Futcher 24, Bishop 29)
@@ -1163,7 +1163,7 @@ Luton Town              2-0 Northampton Town
   (Hutchison 12, Peschisolido 48)
 Nottingham Forest       2-3 Peterborough
   (Chambers 33, 49; Lee 48, Chambers 51og, Boyd 72)
-Southend United         2-2 Dagenham and Red     [6-7 pen]
+Southend United         2-2 Dagenham and Red     (6-7 pen)
   (Foran 20, McCormack 60; Saunders 48, Moore 85)
 Swansea City            3-2 Millwall
   (Anderson 16, Scotland 64, Whitbread 78og; May 20, Simpson 53)
@@ -1180,7 +1180,7 @@ Bristol Rovers          0-1 Bournemouth
   (Kuffour 49)
 Gillingham              4-3 Luton Town
   (Dickson 17, 74, 80, Bentley 88; Furlong 26, 43, Spring 45pen)
-Hereford United         0-0 Yeovil               [2-4 pen]
+Hereford United         0-0 Yeovil               (2-4 pen)
 Leyton Orient           0-1 Dagenham and Red
   (Strevens 74)
 Milton Keynes Dons      3-1 Peterborough
@@ -1203,7 +1203,7 @@ Brighton                4-1 Cheltenham
   (Martol 13, Forster 37, 87, Savage 90; Connor 45)
 
 ▪ Semifinals ▪  Jan 8
-Gillingham              1-1 Milton Keynes Dons   [4-5 pen]
+Gillingham              1-1 Milton Keynes Dons   (4-5 pen)
   (Stone 84; Johnson 85)
 Swansea City            1-0 Brighton
   (Duffy 9)
@@ -1215,7 +1215,7 @@ Swansea City            0-1 Milton Keynes Dons
   (Johnson 69)
 
 ▪ Second Leg ▪  Feb 25
-Milton Keynes Dons      0-1 Swansea City         [5-4 pen]
+Milton Keynes Dons      0-1 Swansea City         (5-4 pen)
   (Scotland 20pen)
 
 
@@ -4371,7 +4371,7 @@ Southport               1-0 Stalybridge Celtic
 
 ▪ Second Legs ▪  May 4
 AFC Telford United      0-2 Barrow
-Stalybridge Celtic      2-1 Southport             [5-3 pen]
+Stalybridge Celtic      2-1 Southport             (5-3 pen)
 
 ▪ Final ▪  May 9, Pirelli Stadium, Burton
 Stalybridge Celtic      0-1 Barrow
@@ -4404,7 +4404,7 @@ Fisher Athletic         1-1 Hampton & Richmond Borough
 
 ▪ Second Legs ▪  May 3
 Eastbourne Borough      3-0 Braintree Town
-Hampton & Richmond B.   0-0 Fisher Athletic       [4-2 pen]
+Hampton & Richmond B.   0-0 Fisher Athletic       (4-2 pen)
 
 ▪ Final ▪  May 8, Broadhall Way, Stevenage
 Eastbourne Borough      2-0 Hampton & Richmond Borough

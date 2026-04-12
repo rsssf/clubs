@@ -1003,10 +1003,10 @@ P - Premier   1 - Division 1   2 - Division 2   3 - Division 3   FC - Football C
 
 1st Round - 24 teams from Division 2, 24 from Division 3 + 32 qualifiers
 
-(Fri Nov 16)
+_ Fri Nov 16 _
 Hayes(FC)              3-4 Wycombe Wanderers(2)
  (K Warner 36,Clark 41p, D Warner 85; Rammell 24,73,Currie 45,82 - 3,475)
-(Sat Nov 17)
+_ Sat Nov 17 _
 Brentford(2)           1-0 Morecambe(FC) [Gibbs 77 - 4,026]
 Bournemouth(2)         3-0 Worksop Town(NP) [Hughes 14, Hayter 26, S Fletcher 77 - 4,414]
 Brighton & HA(2)       1-0 Shrewsbury Town(3) [Zamora 31 - 5,450]
@@ -1047,7 +1047,7 @@ Tiverton T(DP)         1-3 Cardiff C(2) [Nancekivell 82; Brayson 34,Hamilton 55,
 Exeter C(3)            3-0 Cambridge C(DP) [Curran 44,Tomlinson 62,Roscoe 90 - 2,849]
 Bristol C(2)           0-1 Leyton Orient(3) [Watts 31 - 6,343]
 Lincoln C(3)           1-1 Bury(2) [Holmes 90; Seddon 48 - 2,925]
-(Sun Nov 18)
+_ Sun Nov 18 _
 Hereford Utd(FC)       1-0 Wrexham(2) [Wright 9 - 4,107]
 Lewes(R2)              0-2 Stoke City(2) [Handyside 18,Gunnarsson 57 - 7,081]
 (tie switched to Stoke for financial reasons)
@@ -1070,7 +1070,7 @@ Forest Green           1-1 Macclesfield [aet 10-11 pens: Cooper 29; Keen 33 - 1,
 Newport Co             1-4 Blackpool [aet: Rose 24; Ormerod 65,115,Murphy 91, Benton og 114 - 3,721]
 
 ▪ 2nd Round ▪
-(Sat Dec 8)
+_ Sat Dec 8 _
 Leyton Orient          2-1 Lincoln [Ibehre 58,Watts 66; Hamilton 26 - 4,195]
 Scunthorpe             3-2 Brentford [Carruthers 14,73,Calvo-Garcia 34; Dobson 39,Burgess 52 - 3,457]
 Plymouth               1-1 Bristol R [Wotton 27; Walters 60 - 6,141]
@@ -1090,16 +1090,16 @@ Blackpool              2-0 Rochdale [Murphy 22,Simpson 39 - 5,191]
 Macclesfield           4-1 Swansea [Byrne 60,68,Glover 61,66; Cusack 86 - 2,025]
 Brighton               2-1 Rushden & Diamonds [Zamora 6,Cullip 51; Hanlon 60p - 5,647]
 Halifax                1-1 Stoke [Harsley 85; Cooke 27 - 3,335]
-(Sun Dec 9)
+_ Sun Dec 9 _
 Canvey Island          1-0 Northampton [Gregory 48 - 3,000]
 
 ▪ 2nd Round Replays ▪
-(Wed Dec 12)
+_ Wed Dec 12 _
 Stoke                  3-0 Halifax [Gudjonsson 22,Iwelumo 27,Gunnarsson 47 - 4,356]
-(Tue Dec 18)
+_ Tue Dec 18 _
 Bristol R              3-2 Plymouth [Ommel 56,Hogg 71,Ellington 87; Friio 76,86 - 5,763]
 Southend               2-0 Chesterfield [Whelan 2,Belgrave 85 - 5,518]
-(Wed Dec 19)
+_ Wed Dec 19 _
 Dag. & Redbridge       3-0 Exeter [Janney 6,McDougald 22,Charlery 43 - 2,660]
 
 3rd Round - 20 Premier and 24 Division 1 teams join
@@ -2179,40 +2179,13 @@ Birmingham City promoted.
 
 Nationwide Football League Division 2
 
-Table:
+<!-- $table5$ -->
 
- 1.Brighton and Hove Albion 46  25  15   6  66-42  90  Promoted
- 2.Reading                  46  23  15   8  70-43  84  Promoted
------------------------------------------------------
- 3.Brentford                46  24  11  11  77-43  83  [London] PO
- 4.Cardiff City             46  23  14   9  75-50  83  PO
- 5.Stoke City               46  23  11  12  67-40  80  PO
- 6.Huddersfield Town        46  21  15  10  65-47  78  PO
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 7.Bristol City             46  21  10  15  68-53  73
- 8.Queens Park Rangers      46  19  14  13  60-49  71  [London]
- 9.Oldham Athletic          46  18  16  12  77-65  70
-10.Wigan Athletic           46  16  16  14  66-51  64
-11.Wycombe Wanderers        46  17  13  16  58-64  64
-12.Tranmere Rovers          46  16  15  15  63-60  63  [Birkenhead]
-13.Swindon Town             46  15  14  17  46-56  59
-14.Port Vale                46  16  10  20  51-62  58  [Burslem]
-15.Colchester United        46  15  12  19  65-76  57
-16.Blackpool                46  14  14  18  66-69  56
-17.Peterborough United      46  15  10  21  64-59  55
-18.Chesterfield             46  13  13  20  53-65  52
-19.Notts County             46  13  11  22  59-71  50  [Nottingham]
-20.Northampton Town         46  14   7  25  54-79  49
------------------------------------------------------
-21.Bournemouth              46  10  14  22  56-71  44  Relegated
-22.Bury                     46  11  11  24  43-75  44  Relegated
-23.Wrexham                  46  11  10  25  56-89  43  Relegated
-24.Cambridge United         46   7  13  26  47-93  34  Relegated
 
 Top 2 Promoted to Division 1; 3-6 into Play-Offs (Winner also Promoted)
 Bottom 4 Relegated to Division 3
 
-(Sat Aug 11)
+_ Sat Aug 11 _
 Blackpool        0-2 Reading [Parkinson 33, Forster 75 - 5,613]
 Cambridge        0-0 Brighton [4,509]
 Cardiff          1-0 Wycombe [Gabbidon 17 - 17,403]
@@ -2229,7 +2202,7 @@ Wigan            1-1 Brentford [McCulloch 66; Ingimarsson 45 - 5,952]
 Wrexham          3-3 Oldham [Lawrence 51, Edwards 59, Faulconbridge 63; Allott 38,
                                Eyres 73, Corazzin 90 - 4,881]
 
-(Sat Aug 18)
+_ Sat Aug 18 _
 Bournemouth      0-1  Blackpool [Hills 8 - 3,709]
 Brentford        2-0  Port Vale [Evans 53, Burgess 84 - 4,561]
 Brighton         2-1  Wigan [Zamora 39 pen, Steele 79; McCulloch - 6,518]
@@ -2244,7 +2217,7 @@ Stoke            2-0  Northampton [Cooke 52, Thorne 54 - 12,845]
 Wycombe          5-2  Wrexham [Bulman 15, Simpson 17, Emblen 24, McCarthy 30, Brown 61;
                                Faulconbridge 64, Chalk 90 - 5,425]
 
-(Sat Aug 25)
+_ Sat Aug 25 _
 Blackpool       2-2  Wycombe [Ormerod 3, Thompson 14; Brown 41p, Currie 82 - 5,010]
 Cambridge       0-2  Stoke [Thorne 48, Cooke 51 - 3,336]
 Cardiff         2-2  Bournemouth [Fortune-West 39, Earnshaw 49; Feeney 62p, Tindall 65 - 13,383]
@@ -2270,7 +2243,7 @@ Wycombe          1-0 QPR [McCarthy 90 - 9,217]
 _ Tue 28 Aug _
 Oldham           4-2 Northampton [Balmers 6, Rickers 35, Duxbury 63, Tipton 78; Hope 53, 90 - 4,941]
 
-(Thur 30 Aug)
+_ Thur 30 Aug _
 QPR            0-0  Bristol City [11,655]
 _ Fri 31 Aug _
 Northampton    2-0  Brighton [Gabbiadini 74, Asamoah 90 - 5,408]
@@ -2376,7 +2349,7 @@ Wycombe        3-1 Port Vale [Walker 8, 14, Rammell 12; Killen 53 - 5,714]
 _ Tue 2 Oct _
 Bury           1-1 Wycombe [Reid 19p; Brown 6 - 2,459]
 
-(Thur 4 Oct)
+_ Thur 4 Oct _
 Tranmere       4-0 Blackpool [Yates 2, Flynn 21, 68, Parkinson 35 - 10,354]
 _ Fri 5 Oct _
 Bournemouth    3-2 Oldham [Hayter 57, Holmes 60, Elliott 65; Tipton 1, Tindall og 66 - 3,312]
@@ -2951,35 +2924,8 @@ Swindon        1-1 Wycombe [Heywood 56; Devine 45 - 7,492]
 Tranmere       0-1 Cardiff [Croft 72 - 8,375]
 Wrexham        2-1 Bournemouth [Morrell 72,Edwards 89; Fletcher 7 - 4,289]
 
-Table:
+<!-- $table6$ -->
 
- 1.Brighton and Hove Albion 46  25  15   6  66-42  90  Promoted
- 2.Reading                  46  23  15   8  70-43  84  Promoted
------------------------------------------------------
- 3.Brentford                46  24  11  11  77-43  83  [London] PO
- 4.Cardiff City             46  23  14   9  75-50  83  PO
- 5.Stoke City               46  23  11  12  67-40  80  PO
- 6.Huddersfield Town        46  21  15  10  65-47  78  PO
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 7.Bristol City             46  21  10  15  68-53  73
- 8.Queens Park Rangers      46  19  14  13  60-49  71  [London]
- 9.Oldham Athletic          46  18  16  12  77-65  70
-10.Wigan Athletic           46  16  16  14  66-51  64
-11.Wycombe Wanderers        46  17  13  16  58-64  64
-12.Tranmere Rovers          46  16  15  15  63-60  63  [Birkenhead]
-13.Swindon Town             46  15  14  17  46-56  59
-14.Port Vale                46  16  10  20  51-62  58  [Burslem]
-15.Colchester United        46  15  12  19  65-76  57
-16.Blackpool                46  14  14  18  66-69  56
-17.Peterborough United      46  15  10  21  64-59  55
-18.Chesterfield             46  13  13  20  53-65  52
-19.Notts County             46  13  11  22  59-71  50  [Nottingham]
-20.Northampton Town         46  14   7  25  54-79  49
------------------------------------------------------
-21.Bournemouth              46  10  14  22  56-71  44  Relegated
-22.Bury                     46  11  11  24  43-75  44  Relegated
-23.Wrexham                  46  11  10  25  56-89  43  Relegated
-24.Cambridge United         46   7  13  26  47-93  34  Relegated
 
 Top 2 Promoted to Division 1; 3-6 into Play-Offs (Winner also Promoted)
 Bottom 4 Relegated to Division 3
@@ -3004,7 +2950,7 @@ Stoke City promoted
 
 Third Division
 
-<!-- $table5$ -->
+<!-- $table7$ -->
 
 
 
@@ -3028,7 +2974,7 @@ Fifth Level
 
 Football Conference
 
-<!-- $table6$ -->
+<!-- $table8$ -->
 
 
 Hayes relegated to Ryman League
@@ -3039,7 +2985,7 @@ Sixth Level
 
 Dr. Martens League
 
-<!-- $table7$ -->
+<!-- $table9$ -->
 
 
 Promoted to Conference: Kettering Town
@@ -3050,7 +2996,7 @@ Promoted from Eastern Division: Hastings United and Grantham Town
 
 UniBond League
 
-<!-- $table8$ -->
+<!-- $table10$ -->
 
 
 Promoted to Conference: Burton Albion
@@ -3060,7 +3006,7 @@ Emley renamed to Wakefield & Emley
 
 Ryman League
 
-<!-- $table9$ -->
+<!-- $table11$ -->
 
 
 Promoted to Conference: Gravesend & Northfleet

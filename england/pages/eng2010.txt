@@ -981,7 +981,7 @@ Tottenham Hotspur          3-1 Fulham
   (Bentley 47, Pavlyuchenko 60, Gudjohnsen 66; Zamora 17)
 
 ▪ Semifinals ▪
-(Apr 10, Wembley)
+[Apr 10, Wembley]
 Aston Villa                0-3 Chelsea
   (Drogba 68, Malouda 89, Lampard 95)
 (Apr 11, Wembley)
@@ -1177,7 +1177,7 @@ Crewe         1-4 Stockport
   (Zola 90; Baker 8, 33, 90 Bignall 41)
 Darlington    1-0 Lincoln
   (Thorpe 27)
-Morecambe     2-2 Carlisle      [2-4 pen]
+Morecambe     2-2 Carlisle      (2-4 pen)
   (Hunter 3, Curtis 56; Kavanagh 48, 90)
 Oldham        1-2 Accrington
   (Whitaker 10; Gregan 60og, Edwards 67)
@@ -1185,14 +1185,14 @@ Rochdale      1-2 Bradford
   (Dawson 59; Flynn 74, Nelson 79)
 Rotherham     1-2 Huddersfield
   (Le Fondre 35; P.Clarke 2, Simpson 7)
-Walsall       0-0 Bury          [4-5 pen]
+Walsall       0-0 Bury          (4-5 pen)
 
 ▪ Second Round ▪
 _ Oct 6 _
-Bradford      2-2 Notts C       [3-2 pen]
+Bradford      2-2 Notts C       (3-2 pen)
 Bury          2-1 Tranmere
 Carlisle      4-2 Macclesfield
-Chesterfield  3-3 Huddersfield  [4-2 pen]
+Chesterfield  3-3 Huddersfield  (4-2 pen)
 Hartlepool    0-2 Grimsby
 Leeds         2-1 Darlington
 Port Vale     3-1 Stockport
@@ -1202,7 +1202,7 @@ Accrington    2-0 Shrewsbury
 ▪ Quarterfinals ▪  Nov 10
 Accrington    3-2 Bury
   (Symes 2, 40 Grant 82; Racchi 41, Jones 48)
-Bradford      2-2 Port Vale     [5-4 pen]
+Bradford      2-2 Port Vale     (5-4 pen)
   (Flynn 49, Hanson 70; McCombe 27, Taylor 75)
 Chesterfield  1-3 Carlisle
   (Currie 45pen; Robson 62, Murphy 69, Clayton 78)
@@ -1222,7 +1222,7 @@ Leeds         1-2 Carlisle
   (Crowe 56; Kavanagh 21, Anyinsah 84)
 
 ▪ Second Leg ▪  Feb 9
-Carlisle      2-3 Leeds         [6-5 pen]
+Carlisle      2-3 Leeds         (6-5 pen)
 
 Southern Section
 
@@ -1233,33 +1233,33 @@ Bournemouth   2-1 Yeovil
   (Pitman 45, Connell 66; Obika 87)
 Cheltenham    1-3 Torquay
   (Low 55; Stevens 6, 45 Benyon 31)
-Gillingham    1-1 Colchester    [4-3 pen]
+Gillingham    1-1 Colchester    (4-3 pen)
   (Jackson 77pen; Platt 84)
-Hereford      0-0 Bristol R     [4-2 pen]
+Hereford      0-0 Bristol R     (4-2 pen)
 Milton Keynes 3-1 Dagenham & R
   (Lewington 55, Easter 58, 67; Scott 90)
 Norwich       1-0 Brentford
   (Martin 30)
-Wycombe       2-2 Northampton   [0-3 pen]
+Wycombe       2-2 Northampton   (0-3 pen)
   (Pittman 62pen, 90; Gilligan 40pen, Guinan 86)
 
 ▪ Second Round ▪  Oct 6
 Charlton      4-1 Barnet
-Exeter        1-1 Swindon       [3-4 pen]
+Exeter        1-1 Swindon       (3-4 pen)
 Gillingham    0-1 Norwich
-Hereford      2-2 Aldershot     [4-3 pen]
+Hereford      2-2 Aldershot     (4-3 pen)
 Leyton        1-0 Brighton
 Milton Keynes 2-0 Southend
 Northampton   2-1 Bournemouth
-Southampton   2-2 Torquay       [5-3 pen]
+Southampton   2-2 Torquay       (5-3 pen)
 
 ▪ Quarterfinals ▪
 _ Nov 10 _
-Leyton        1-1 Hereford      [2-3 pen]
+Leyton        1-1 Hereford      (2-3 pen)
   (Demetriou 93; Constantine 25)
 Milton Keynes 3-1 Northampton
   (Wilbraham 6, Baldock 16, 27pen; Guinan 51)
-Swindon       0-0 Norwich       [3-5 pen]
+Swindon       0-0 Norwich       (3-5 pen)
 _ Nov 11 _
 Southampton   2-1 Charlton
   (Thomas 34, Lambert 63; McKenzie 92)
@@ -1267,7 +1267,7 @@ Southampton   2-1 Charlton
 ▪ Semifinals ▪  Dec 15
 Hereford      1-4 Milton Keynes
   (Constantine 63; Baldock 6, Puncheon 69, Wilbraham 78, Easter 83)
-Southampton   2-2 Norwich       [6-5 pen]
+Southampton   2-2 Norwich       (6-5 pen)
   (Papa Waigo 14, 93; Doherty 33, Martin 55)
 
 Southern Final
@@ -2060,7 +2060,7 @@ Leicester     0-1 Cardiff
 _ May 11 _
 Nottingham    3-4 Blackpool
 _ May 12 _
-Cardiff       2-3 Leicester     [4-3 pen]
+Cardiff       2-3 Leicester     (4-3 pen)
 
 ▪ Final ▪  May 22
 Blackpool     3-2 Cardiff
@@ -2834,7 +2834,7 @@ Huddersfield  0-0 Millwall
 
 ▪ Second Legs ▪
 _ May 17 _
-Charlton      2-1 Swindon       [4-5 pen]
+Charlton      2-1 Swindon       (4-5 pen)
 _ May 18 _
 Millwall      2-0 Huddersfield
 

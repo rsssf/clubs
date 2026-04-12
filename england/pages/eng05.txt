@@ -988,11 +988,11 @@ Key to Leagues:
 9M - Midland Alliance
 
 1st Round - 24 teams from League 1, 24 from League 2 + 32 qualifiers from 4th Qualifying Rnd
-(Fri Nov 12)
+_ Fri Nov 12 _
 Bristol City(3)        1-1 Brentford(3) [Lita 89; Salako 7 - 10,000]
 Port Vale(3)           3-1 Kidderminster Harriers(4) [Paynter 53,65,Reid 59; Hatswell 4 - 4,141]
 Southend United(4)     0-3 Luton Town(3) [Howard 12,15,Brkovic 33 - 6,683]
-(Sat Nov 13)
+_ Sat Nov 13 _
 Tiverton Town(7S)      1-3 Doncaster Rovers(3) [Winter 90p; McIndoe 18,Fenton 26,Blundell 84 - 1,618]
 Wycombe Wanderers(4)   1-0 Coalville Town(9M) [Johnson 71 - 2,816]
 Hull City(3)           3-2 Morecambe(5) [Green 30,Keane 66,Walters 86; Bentley 12,Twiss 60 - 10,129]
@@ -1030,26 +1030,26 @@ Hartlepool United(3)   3-0 Lincoln City(4) [Williams 23,Robson 27,Porter 43 - 4,
 Rochdale(4)            2-1 Oxford United(4) [Holt 36,90; Bradbury 20 - 2,333]
 Stockport County(3)    3-1 Huddersfield Town(3) [Williams 8,Feeney 19,45; Abbott 90 - 3,479]
 Halifax Town(5)        3-1 Cambridge United(4) [Foster 6,Midgley 69,Ross 84; Tudor 35 - 2,368]
-(Sun Nov 14)
+_ Sun Nov 14 _
 Cheltenham Town(4)     1-3 Swansea City(4) [Spencer 71; O'Leary 19,Trundle 46,Connor 90 - 4,551]
 Thurrock(6S)           0-1 Oldham Athletic(3) [Killen 48p - 1,156]
 
 ▪ 1st Round Replays ▪
-(Tue Nov 23)
+_ Tue Nov 23 _
 Colchester             4-1 Mansfield [Garcia 10,Curtis og 14,Fagan 67p,Williams 90p; Neil 87 - 2,492]
 Yeovil                 1-0 Darlington [Way 56 - 5,365]
 Macclesfield           2-0 Alfreton [Parkin 54,Sheron 78 - 1,783]
 Carlisle               1-0 Bristol R [aet: Vieria 109 - 4,813]
-(Wed Nov 24)
+_ Wed Nov 24 _
 Bournemouth            3-1 Forest Green [Connell 10,Spicer 70,Rodrigues 90; Lyttle 88 - 5,489]
-(Thur Nov 25)
+_ Thur Nov 25 _
 Brentford              1-1 Bristol C [aet 4-3 pens: Frampton 44; Heffernan 77 - 3,706]
 
 ▪ 2nd Round ▪
-(Fri Dec 3)
+_ Fri Dec 3 _
 Cambridge City         0-1 Milton Keynes Dons [Smart 6 - 2,000]
 Scunthorpe United      2-0 Wrexham [Ridley 14,Sparrow 54 - 5,698]
-(Sat Dec 4)
+_ Sat Dec 4 _
 Northampton            1-0 Bury [McGleish 23 - 4,415]
 Halifax Town           1-3 Chester City [Ross 66; Branch 41,50p,Rapley 74 - 4,497]
 Stockport County       0-0 Swansea City [2,680]
@@ -1067,18 +1067,18 @@ Oldham Athletic        4-0 Leyton Orient [Killen 26p,39,65,Croft 85 - 4,657]
 Hereford United        2-3 Boston United [Mkandawire 9,Stanley 89; Lee 30,Kirk 71,78 - 3,601]
 Peterborough United    2-0 Bath City [Willock 36,41 - 4,187]
 Exeter City            2-1 Doncaster Rovers [Flack 25,Moxey 49; Blundell 86 - 4,797]
-(Sun Dec 5)
+_ Sun Dec 5 _
 Hinckley United        0-0 Brentford [2,661]
 
 ▪ 2nd Round Replays ▪
-(Tue Dec 14)
+_ Tue Dec 14 _
 Brentford              2-1 Hinckley [Rhodes 52p,Talbot 59; Lavery 57 - 4,002]
 Swansea                2-1 Stockport [Connor 47,Goodfellow 88; Griffin 72 - 5,572]
-(Wed Dec 15)
+_ Wed Dec 15 _
 Notts Co               2-0 Swindon [Gordon 31,47 - 3,770]
 
 ▪ 3rd Round ▪
-(Sat Jan 8)
+_ Sat Jan 8 _
 Notts Co               1-2 Middlesbrough(1) [Scully 2; Doriva 54,Job 76 - 13,671]
 Manchester Utd(1)      0-0 Exeter [67,551]
 Plymouth Argyle(2)     1-3 Everton(1) [Gudjonsson 34; Osman 16,McFadden 18,Chadwick 84 - 20,112]
@@ -1108,25 +1108,25 @@ Portsmouth(1)          1-0 Gillingham(2) [Yakubu 49 - 14,252]
 Northampton T          1-3 Southampton(1) [Williamson 30; Phillips 29,Crouch 41,Redknapp 53 - 7,183]
 QPR(2)                 0-3 Nottm Forest(2) [Reid 24,Commons 25,Folly 82 - 11,140]
 Luton T                0-2 Brentford [Hargreaves 71,Tabb 89 - 6,861]
-(Sun Jan 9)
+_ Sun Jan 9 _
 Arsenal(1)             2-1 Stoke C(2) [Reyes 50,van Persie 70; Thomas 45 - 36,579]
 Yeading                0-2 Newcastle Utd(1) [Bowyer 51,Ameobi 61 - 10,824, tie switched to QPR's ground]
-(Tue Jan 18)
+_ Tue Jan 18 _
 Burnley                1-0 Liverpool [Traore og 51 - 19,033]
 
 ▪ 3rd Round Replays ▪
-(Mon Jan 17)
+_ Mon Jan 17 _
 Swansea                0-1 Reading [aet: Forster 95 - 7,354]
-(Tue Jan 18)
+_ Tue Jan 18 _
 Blackpool              0-1 Leicester [Gudjonsson 16 - 6,938]
-(Wed Jan 19)
+_ Wed Jan 19 _
 Blackburn              3-2 Cardiff [Thompson 9,32,Pedersen 47; McAnuff 24,Collins 54 - 9,140]
 Boston                 0-1 Hartlepool [Boyd 72 - 3,653]
 Exeter                 0-2 Man Utd [C Ronaldo 9,Rooney 87 - 9,033]
 Fulham                 2-0 Watford [Volz 13,Radzinski 65 - 11,306]
 
 ▪ 4th Round ▪
-(Sat Jan 29)
+_ Sat Jan 29 _
 Derby                  1-1 Fulham [Tudgay 56; John 71 - 22,040]
 Man Utd                3-0 Middlesbrough [O'Shea 10,Rooney 67,82 - 67,251]
 Blackburn              3-0 Colchester [Watson og 21,Johnson 27,Matteo 51 - 10,634]
@@ -1141,17 +1141,17 @@ Southampton            2-1 Portsmouth [Oakley 54,Crouch 90p; Yakubu 57p - 29,453
 West Brom              1-1 Tottenham [Earnshaw 17; Defoe 31p - 22,441]
 Newcastle              3-1 Coventry [Shearer 37,Ameobi 42,Babayaro 52; Adebola 45 - 44,044]
 Charlton               3-2 Yeovil [Hughes 37,Jeffers 51,Bartlett 57; Terry 44,Davies 66 - 22,873]
-(Sun Jan 30)
+_ Sun Jan 30 _
 Oldham                 0-1 Bolton [Vaz Te 9 - 12,029]
 Chelsea                2-0 Birmingham [Huth 6,Terry 80 - 40,379]
 
 ▪ 4th Round Replays ▪
-(Sat Feb 12)
+_ Sat Feb 12 _
 Fulham                 4-2 Derby
  (aet: Diop 45p,Boa Morte 50,John 94,Jensen 105; Rasiak 4,Peschisolido 86 - 15,528)
 Hartlepool             0-1 Brentford [Rankin 48 - 7,580]
 Tottenham              3-1 West Brom [Keane 45p,Defoe 50,55; Kanu 12 - 27,860]
-(Sun Feb 13)
+_ Sun Feb 13 _
 Sheff Utd              1-1 West Ham [aet 3-1 pens: Liddell 8; Sheringham 63p - 15,067]
 
 ▪ 5th Round ▪
@@ -1175,17 +1175,17 @@ _ Wed 2 Mar _
 Nottm Forest           0-3 Tottenham [Pamarot 60,Keane 72,Mido 90 - 28,062]
 
 ▪ Quarter Finals ▪
-(Sat Mar 12)
+_ Sat Mar 12 _
 Bolton                 0-1 Arsenal [Ljungberg 3 - 23,523]
 Southampton            0-4 Man Utd [Keane 2,Ronaldo 45,Scholes 48,87 - 30,971]
-(Sun Mar 13)
+_ Sun Mar 13 _
 Blackburn              1-0 Leicester [Dickov 83p - 22,113]
 Newcastle              1-0 Tottenham [Kluivert 5 - 51,307]
 
 Semi Finals [both at Millennium Stadium, Cardiff]
-(Sat Apr 16)
+_ Sat Apr 16 _
 Arsenal                3-0 Blackburn [Pires 42,van Persie 86,90 - 52,077]
-(Sun Apr 17)
+_ Sun Apr 17 _
 Newcastle              1-4 Man Utd [Ameobi 59; van Nistelrooy 19,58,Scholes 45,Ronaldo 76 - 69,280]
 
 
@@ -1457,7 +1457,7 @@ Coca-Cola Football League Championship
 Top 2 Promoted to Premier Lge; 3-6 into Play-Offs (Winner also Promoted)
 Bottom 3 Relegated to League 1 (3rd level)
 
-(Sat Aug 7)
+_ Sat Aug 7 _
 Burnley        1-1 Sheff Utd [Hyde 16; Gray 52 - 16,956]
 Coventry       2-0 Sunderland [Suffo 84p,Johnson 90 - 16,640]
 Crewe          2-2 Cardiff [Ashton 5p,Higdon 85; Robinson 44,Lee 59 - 7,339]
@@ -1469,12 +1469,12 @@ Preston        2-1 Watford [Cresswell 34,Healy 77p; Devlin 47 - 12,208]
 QPR            1-1 Rotherham [Ainsworth 5; Shaw 15 - 14,547]
 Reading        3-2 Brighton [Kitson 2,Harper 41,Forster 59; Molango 1,Robinson 63 - 15,641]
 Wigan          1-1 Notts Forest [McCulloch 38; Taylor 55 - 12,035]
-(Sun Aug 8)
+_ Sun Aug 8 _
 Stoke          2-1 Wolves [Russell 55,Clarke 70p; Miller 88p - 17,066]
 
-(Mon Aug 9)
+_ Mon Aug 9 _
 Watford        3-0 QPR [Webber 12,59,Dyer 45 - 14,737]
-(Tue Aug 10)
+_ Tue Aug 10 _
 Brighton       0-2 Plymouth [Cullip og 11,Wotton 45p - 6,387]
 Cardiff        2-1 Coventry [Earnshaw 54,Bullock 61; Barrett 29 - 14,031]
 Gillingham     2-1 Leeds [Byfield 4,Roberts 45; Pugh 80 - 10,739]
@@ -1483,14 +1483,14 @@ Rotherham      0-0 Burnley [6,243]
 Sheff Utd      0-0 Stoke [19,723]
 Sunderland     3-1 Crewe [Robinson 12,Stewart 67, Elliott 90; Rivers 43 - 22,341]
 West Ham       1-0 Reading [Sheringham 81 - 26,242]
-(Wed Aug 11)
+_ Wed Aug 11 _
 Derby          1-2 Leicester [Tudgay 69; Nalis 41,Benjamin 76 - 26,650]
 Notts Forest   1-1 Ipswich [Evans 28; Bent 53 - 21,125]
 Wolves         2-2 Preston [Clarke 75,Miller 79; Lucketti 4,Healy 15 - 26,115]
 
-(Fri Aug 13)
+_ Fri Aug 13 _
 Cardiff        0-1 Plymouth [Bullock og 24 - 12,697]
-(Sat Aug 14)
+_ Sat Aug 14 _
 Brighton       1-1 Coventry [Virgo 89; Hughes 69 - 6,368]
 Derby          3-2 Ipswich [Reich 36,65,Idiakez 58; Miller 41p,Bowditch 43 - 22,234]
 Gillingham     2-1 Preston [Byfield 16,Roberts 78; Fuller 34 - 7,073]
@@ -1501,12 +1501,12 @@ Sheff Utd      0-1 Reading [Harper 41 - 22,429]
 Sunderland     2-2 QPR [Stewart 33,Caldwell 90; Furlong 12,Rowlands 71 - 26,063]
 Watford        0-1 Burnley [Moore 64 - 12,048]
 Wolves         0-0 Leeds [28,397]
-(Sun Aug 15)
+_ Sun Aug 15 _
 West Ham       1-3 Wigan [Ellington 5,58,Roberts 45; Zamora 69 - 22,643]
 
-(Fri Aug 20)
+_ Fri Aug 20 _
 Preston        0-1 Sheff Utd [Gray 4 - 12,084]
-(Sat Aug 21)
+_ Sat Aug 21 _
 Burnley        1-1 Wolves [Blake 24; Newton 15 - 13,869]
 Coventry       0-1 Millwall [Dichio 80 - 13,910]
 Crewe          2-3 West Ham [Ashton 31,82; Sheringham 16,22,Brevett 30 - 7,857]
@@ -1519,9 +1519,9 @@ Reading        1-0 Rotherham [Kitson 45p - 11,404]
 Stoke          2-0 Gillingham [Noel-Williams 42,Akinbiyi 72 - 13,234]
 Wigan          3-0 Brighton [Ellington 45,49,Frandsen 77 - 8,681]
 
-(Fri Aug 27)
+_ Fri Aug 27 _
 Gillingham     0-1 QPR [Bean 29 - 7,391]
-(Sat Aug 28)
+_ Sat Aug 28 _
 Brighton       1-0 Preston [Broomes og 30 - 5,996]
 Cardiff        0-1 Stoke [Noel-Williams 37 - 12,929]
 Derby          2-4 Crewe [Tudgay 16,Idiakez 46; Jones 5,83,Vaughan 12,Ashton 74 - 24,436]
@@ -1532,10 +1532,10 @@ Sunderland     1-1 Wigan [Elliott 82; Roberts 18 - 26,330]
 Watford        3-1 Plymouth [Ardley 33,Webber 46,58; Evans 18 - 13,104]
 West Ham       1-0 Burnley [Nowland 62 - 22,119]
 Wolves         1-1 Leicester [Miller 52; Scowcroft 4 - 27,550]
-(Sun Aug 29)
+_ Sun Aug 29 _
 Sheff Utd      2-0 Leeds [Ward 50,Harley 64 - 22,959]
 
-(Mon Aug 30)
+_ Mon Aug 30 _
 Burnley        1-2 Gillingham [Moore 87; Roberts 5,Byfield 69 - 11,574]
 Coventry       2-1 West Ham [Doyle 45,Morrell 76; Sheringham 42 - 17,404]
 Ipswich        2-1 Wolves [Bent 28,Miller 50p; Olofinyana 54 - 24,590]
@@ -1544,12 +1544,12 @@ Plymouth       3-2 Notts Forest [Norris 26,Coughlan 40,Wotton 90p; Jess 44,80 - 
 Preston        2-0 Rotherham [Etuhu 15,45 - 11,439]
 Stoke          1-0 Derby [Hall 90 - 18,673]
 Wigan          2-1 Cardiff [Ellington 16p,Roberts 36; Lee 66p - 9,004]
-(Tue Aug 31)
+_ Tue Aug 31 _
 Reading        1-0 Sunderland [Forster 2 - 15,792]
 QPR            0-1 Sheff Utd [Gray 17 - 13,804]
 (other games postponed due to international call ups)
 
-(Sat Sep 11)
+_ Sat Sep 11 _
 Burnley        3-0 Crewe [McGreal 12,Blake 42,Chaplow 49 - 11,274]
 Derby          2-1 Reading [Smith 70,Tudgay 83; Shorey 88 - 22,096]
 Gillingham     0-4 Sunderland [Stewart 4,20,68,Elliott 17 - 8,775]
@@ -1561,10 +1561,10 @@ Rotherham      0-2 Leicester [Nalis 44,Dublin 59 - 6,272]
 Sheff Utd      1-2 West Ham [Quinn 65; Harewood 9,Sheringham 85 - 21,058]
 Watford        1-1 Brighton [Webber 53; Virgo 85 - 14,148]
 Wolves         3-3 Wigan [Miller 15,65,Cameron 90; Jackson 23,Ellington 28,Roberts 75p - 26,790]
-(Sun Sep 12)
+_ Sun Sep 12 _
 Ipswich        2-0 Millwall [Bent 83,Counago 90 - 21,246]
 
-(Tue Sep 14)
+_ Tue Sep 14 _
 Brighton       0-1 Wolves [Miller 22 - 6,804]
 Cardiff        0-3 Watford [Webber 11,86,Ardley 45 - 10,606]
 Crewe          0-2 QPR [Furlong 22,Santos 68 - 5,682]
@@ -1575,7 +1575,7 @@ Stoke          3-2 Ipswich [Thomas 45,75,Akinbiyi 85; de Vos 41,Westlake 62 - 23
 Sunderland     2-0 Notts Forest [Arca 4,Wright 11 - 23,540]
 West Ham       1-0 Rotherham [Etherington 69 - 26,233]
 Wigan          0-0 Burnley [9,746]
-(Wed Sep 15)
+_ Wed Sep 15 _
 Coventry       2-2 Gillingham [Morrell 31,John 49p; Agyemang 65,76 - 11,966]
 
 _ Sat 18 Sep _
@@ -2262,7 +2262,7 @@ Bradford City           2-2 Peterborough United
 Brentford               4-3 Doncaster
   (Rankin 35, Hargreaves 52, Burton 54, Tabb 63; McIndoe 4, 45pen,
    Green 84)
-  (red card: Sommer (B) 88)
+  [red card: Sommer (B) 88]
 Colchester United       3-2 Stockport County
   (Watson 19, Andrews 30, Fagen 41; Cartwright 66, Beckett 79)
 Huddersfield Town       0-0 Chesterfield
@@ -2340,7 +2340,7 @@ _ Aug 27 _
 Tranmere Rovers         4-2 Sheffield Wednesday
   (Zola 12, Jackson 18, Taylor 30pen, Hume 64; MacLean 27,
    Ndumbu-Nsungu 45)
-  (red card: Branston (S) 76)
+  [red card: Branston (S) 76]
 _ Aug 28 _
 Barnsley                1-2 Hull
   (Conlon 12; Elliott 58, Keane 88)
@@ -3048,7 +3048,7 @@ _ Jan 29 _
 Luton Town              1-1 Tranmere Rovers
   (Nicholls 54pen; Dadi 5)
 MK Dons                 2-2 Sheffield Wednesday
-  (Platt 58, McLeod 85; Quinn 11, Chorleyog] 62)
+  [Platt 58, McLeod 85; Quinn 11, Chorleyog] 62]
 Swindon Town            3-0 Stockport County
   (Heywood 61, O'Hanlon 63, Smith 64)
 Walsall                 4-3 Huddersfield Town

@@ -1078,7 +1078,7 @@ Tottenham Hotspur          1-2 Chelsea
   (Keane 79pen; Shevchenko 55, Wright-Phillips 61)
 
 ▪ Semifinals ▪
-(Apr 14, Villa Park)
+[Apr 14, Villa Park]
 Watford                    1-4 Manchester United
 (Apr 15, Old Trafford)
 Blackburn Rovers           1-2 Chelsea           (aet)
@@ -1090,7 +1090,7 @@ Manchester United          0-1 Chelsea           (aet)
 
 
 Community Shield 2007 [Aug 5, Wembley]
-Chelsea                    1-1 Manchester United [0-3 pen]
+Chelsea                    1-1 Manchester United (0-3 pen)
   (Malouda 45; Giggs 35)
   (Ref: Mark Halsey; att: 80,731)
 Chelsea: Cech, Johnson (Sidwell 78), Carvalho, Ben Haim, Ashley Cole (Diarra 67), Wright-Phillips,
