@@ -392,7 +392,7 @@ Borussia D     2-1 Leverkusen
 ▪ Round 28 ▪
 _ Apr 11 _
 Nürnberg       abd Wolfsburg       [abandoned at 1-0 at half-time due to
-(Apr 12]                            waterlogged pitch)
+[Apr 12]                            waterlogged pitch]
 Hamburg        0-1 Duisburg
 Werder         5-1 Schalke
 Hannover       2-1 Eintracht F
@@ -1319,12 +1319,8 @@ MTV Gifhorn       0-2 VfB Oldenburg
 SC Victoria       0-2 VfL Oldenburg
 Bye: FC Oberneuland
 
-Table:
- 1.FC Oberneuland      4  3  1  0 21: 7 10 Promoted
- 2.VfL Oldenburg     4  1  2  1  7: 6  5
- 3.VfB Oldenburg     4  1  2  1  5: 7  5
- 4.SC Victoria       4  1  1  2  6:11  4
- 5.MTV Gifhorn       4  1  0  3  6:14  3
+<!-- $table7$ -->
+
 
 VERBANDESLIGA/LANDESLIGA (Fifth Level)
 

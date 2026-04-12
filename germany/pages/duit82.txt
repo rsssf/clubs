@@ -33,7 +33,7 @@ MSV 1-2 1-0 2-3 3-1 0-1 1-2 0-1 4-2 1-2 1-0 5-2 1-3 3-2 1-1 2-1 2-1 0-2 xxx
 ▪ Round 1 ▪  Aug 8
 Bayern     6-2 Leverkusen (Breitner 35, 43, Rummenigge 14, Dremmler 19,
                           D.Hoeneß 40, Niedermayer 60 - Ökland 45, Szech 72)
-                          (72 Breitner (Bayern) m/pen)
+                          [72 Breitner (Bayern) m/pen]
 Bielefeld  1-1 Darmstadt  (Krobbach 23 - Cestonaro 72)
 M'gladbach 2-4 Werder     (Matthäus 9, Hannes 15 p - Möhlmann 13 p, 64,
                           Siegmann 31, Meier 44) [67 Hannes (M'gladbach)

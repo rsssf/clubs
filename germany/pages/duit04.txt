@@ -1840,16 +1840,8 @@ Bielefeld    -       Duisburg      1-3
 
 
 
-Top Scorers:  1.MINTAL Marek      (Nürnberg)  18
-      COPADO Francisco    (Unterhaching)  18
-    3.RUMAN Petr      (Fürth)    16
-    4.BOAKYE Isaac      (Bielefeld)  14
-      CASEY Connor      (Karlsruhe)  14
-      AHANFOUF Abdelaziz    (Duisburg)  14
-      ZANDI Ferydoon    (Lübeck)  14
-    8.THURK Michael      (Mainz)    13
-      FEINBIER Marcus    (Fürth)    13
-      BAUMGART Steffen    (Berlin)  13
+<!-- $topscorers3$ -->
+
 
 
 
@@ -2706,7 +2698,7 @@ Schalke Amateure  -  Paderborn      2-4
 <!-- $table5$ -->
 
 
-<!-- $topscorers3$ -->
+<!-- $topscorers4$ -->
 
 
 
@@ -3394,7 +3386,7 @@ Saarbrücken    -  Elversberg      3-1
 Mainz Amateure    -  Stuttgart Amateure    1-0
   1:0 Kühne 69.
 
-Round 27:
+▪ Round 27 ▪
 16.04.04
 Pfullendorf    -  Erfurt        2-1
   1:0 Schnetzler 6, 2:0 Blessin 19, 2.1 Müller 55.
@@ -3601,7 +3593,7 @@ only three clubs relegated because only one club from the 2. Bundesliga
 Siegen remained in the Regionalliga.
 
 
-<!-- $topscorers4$ -->
+<!-- $topscorers5$ -->
 
 
 

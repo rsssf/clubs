@@ -512,7 +512,7 @@ Nürnberg    1-1 Dortmund    (Wagner 53 p - Breitzke 44)
                             (sent off: Zorc (Dortmund, 68))
 Uerdingen   7-3 Hannover    (Kuntz 3, 9, Funkel 30, Witeczek 33, Nijskens
                             75, 85, Herget 88 - Groth 35, Kohn 62, 70)
-                            (75 Funkel (Uerdingen) m/pen)
+                            [75 Funkel (Uerdingen) m/pen]
 1. FC Köln  1-3 Bayern      (T.Allofs 33 - Wohlfahrt 25, 85, 89)
 St. Pauli   1-0 St. Kickers (Zander 26) [34 Flad (St. Pauli) m/pen]
                             (sent off: Schlotterbeck (Kickers, 51))

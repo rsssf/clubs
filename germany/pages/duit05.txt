@@ -180,7 +180,6 @@ München         0-1     Schalke
 Bochum          0-1     Rostock
   (Rade Prica 74)
 Hamburg         0-2     Bielefeld
-
   (Patrick Owomoyela 57, Delron Buckley 65)
 Berlin          3-1     Leverkusen
   (Gilberto 39, Thorben Marx 51, Marcelinho 78; Bernd Schneider 54)
@@ -876,13 +875,13 @@ FC Carl-Zeiss Jena (OL)     1-2  SpVgg Greuther Fürth (2.BL)       (aet)
   (0:1 Westermann 86, 1:1 Zimmermann 89, 1:2 Feinbier 107)
 _ Aug 22 _
 VfR Aalen (RL)       2-5  1.FSV'1905 Mainz (BL)
-  (0:1 Casey 23, 0:2 D]Weiland 26, 0:3 N.Weiland 40, 1:3 Rogosic 45,
-   1:4 Gerber 60, 2:4 Coulibaly 71, 2:5 Casey 72)
+  [0:1 Casey 23, 0:2 D]Weiland 26, 0:3 N.Weiland 40, 1:3 Rogosic 45,
+   1:4 Gerber 60, 2:4 Coulibaly 71, 2:5 Casey 72]
 VfR Neumünster (OL)     0-3  Hannover'1896 SC (BL)
   (0:1 Tarnat 23, 0:2 Cherundolo 53, 0:3 Stendel 86)
 1.FC Köln Amateure (RL)     awd  VfL Wolfsburg (BL)                [awarded 2-0;
-  (1:0 Klimowicz 31, 2:0, 3:0 Brdaric 42, 50]      originally 0-3 but Wolfsburg fielded
-                                            Hristow who was suspended for 2 cup matches)
+  [1:0 Klimowicz 31, 2:0, 3:0 Brdaric 42, 50]      originally 0-3 but Wolfsburg fielded
+                                            Hristow who was suspended for 2 cup matches]
 SV Germania'1990 Schöneiche (VL) 1-2  TSV'1860 München (2.BL)
   (1:0 Huppert (pen) 21, 1:1 Kioyo 35, 1:2 Agostino 84)
 VfC Plauen (OL)       1-2  DSC Arminia Bielefeld (BL)
@@ -3260,7 +3259,7 @@ ASV Neumarkt  1-4 FC Kempten
 SpVgg Ansbach 2-1 FC Bayern Hof
 
 ▪ Final ▪  Jun 15
-FC Kempten    2-2 SpVgg Ansbach   [4-3 pen]
+FC Kempten    2-2 SpVgg Ansbach   (4-3 pen)
 Kempten promoted, Ansbach relegated
 
 Nord

@@ -790,7 +790,7 @@ SC Paderborn           1-2 1.FC Nürnberg           (aet)
 SC Pfullendorf         0-2 Kickers Offenbach
   (Regis Dorn 41, Thomas Wörle 55)
 Stuttgarter Kickers    0-2 Hertha BSC              [abandoned at 0-2 in 86' when
-  (Solomon Okoronkwo 58, Yildiray Bastürk 74pen]    linesman was hit; result stood)
+  [Solomon Okoronkwo 58, Yildiray Bastürk 74pen]    linesman was hit; result stood]
 VfL Osnabrück          2-1 Borussia Mönchengladbach
   (Addy-Waku Menga 17, 58; Wesley Sonck 20)
 
@@ -2324,7 +2324,7 @@ THÜRINGEN
 
 WESTFALEN
 
-Group 1
+▪ Group 1 ▪
  1.SV Schermbeck 1912     28 19  6  3 52:22 63 Promoted
  2.SC Wiedenbrück 2000     28 16  7  5 49:23 55 Promoted
  3.SV Davaria Davensberg   28 16  4  8 60:40 52
@@ -2341,7 +2341,7 @@ Group 1
 14.Lüner SV       28  8  2 18 39:79 26 Relegated
 15.SC Preußen Münster II   28  1  2 25 13:80  5 Relegated
 
-Group 2
+▪ Group 2 ▪
  1.TSG Sprockhövel     30 19  8  3 64:17 65 Promoted
  2.DJK Germania Gladbeck   30 20  5  5 67:27 65 Promoted
  3.SV Vorwärts Kornharpen   30 19  6  5 72:37 63
@@ -2502,7 +2502,7 @@ Gießen / Marburg
 
 Kassel
 
-Group 1
+▪ Group 1 ▪
  1.TSV Wabern       30 22  5  3 94: 30 71 Promoted
  2.GSV Eintracht Baunatal   30 20  4  6 85: 35 64 Promoted
  3.1. FC Schwalmstadt II   30 18  7  5 69: 26 61
@@ -2520,7 +2520,7 @@ Group 1
 15.SV Ehlen       30  4  4 22 38:111 16 Relegated
 16.VFB Schrecksbach     30  2  4 24 32:104 10 Relegated
 
-Group 2
+▪ Group 2 ▪
  1.KSV Hessen Ks. II     32 28  0  4 146:35 84 Promoted
  2.Spvgg. Eschwege     32 22  4  6 93: 39 70 Promoted
  3.SG Schauenburg     32 20  5  7 67: 32 65
