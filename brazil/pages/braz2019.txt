@@ -678,10 +678,10 @@ Ypiranga/RS - Ypiranga Futebol Clube (Erechim/RS)
 ▪ First Phase ▪
 
 Single Leg
-_ Feb 05 _
+_ Feb 5 _
 River/PI              0-5  Fluminense/RJ
   (Luciano 14p, 55, Everaldo 18, Bruno Silva 44, Marlon 90)
-_ Feb 06 _
+_ Feb 6 _
 Santa Cruz/RN         1-0  Tupi/MG
   (Dênis 24c)
 Sobradinho/DF         0-0  América/RN
@@ -704,7 +704,7 @@ Votuporanguense/SP    0-1  Ypiranga/RS
   (Pedro Pires 57)
 Altos/PI              1-7  Santos/SP
   (Luizão 05; Luis Felipe 11c, Derlis González 24, Alison 25, Carlos Sánchez 28, 40, Soteldo 73, Diego Pituca 82)
-_ Feb 07 _
+_ Feb 7 _
 Ferroviário/CE        2-2  Corinthians/SP
   (Edson Cariús 14, 54; Gustavo 19, 55)
 Americano/RJ          1-2  Londrina/PR
@@ -758,7 +758,7 @@ Sinop/MT              1-2  Santa Cruz/PE
 URT/MG                3-2  Coritiba/PR
   (Cascata 11, Reis 43, Gladstone 66; Rodrigão 12, Iago 58)
 Atlético Tubarão/SC   0-0  Brasil/RS
-_ Apr 03 _
+_ Apr 3 _
 Aparecidense/GO       2-0  Ponte Preta/SP
   (Alex Henrique 52, Washington 72)
 
@@ -796,14 +796,14 @@ Juventude/RS          2-1  América/MG
   (Genílson 45+4p, Breno 46; Jonatas Belusso 88p)
 Tombense/MG           2-2  Botafogo/PB (Pen 6-7)
   (Juan 26p, Edson 68c; Clayton 28, 64)
-_ Mar 06 _
+_ Mar 6 _
 Mixto/MT              1-2  Chapecoense/SC
   (William Amendoim 75c; Perotti 89c, Everaldo 90+1)
 Fluminense/RJ         3-0  Ypiranga/RS
   (Everaldo 04, Luciano 36, Ganso 45)
 Santa Cruz/RN         0-1  Bahia/BA
   (Gilberto 28)
-_ Mar 07 _
+_ Mar 7 _
 ABC/RN                2-2  Moto Club/MA (Pen 5-3)
   (Maurício 60, Rodrigo Rodrigues 87c; Márcio Diogo 38, 57)
 Santos/SP             4-0  América/RN
@@ -828,14 +828,14 @@ Vasco da Gama/RJ      3-2  Avaí/SC
 _ Mar 27 _
 Chapecoense/SC        3-2  Criciúma/SC
   (Elicarlos 26, Gustavo Campanharo 38, Lourency 89; Sandro 65c, Bruno Cosendey 68c)
-_ Apr 02 _
+_ Apr 2 _
 CRB/AL                1-1  Bahia/BA
   (Zé Carlos 21p; Arthur Caíke 76)
-_ Apr 03 _
+_ Apr 3 _
 ABC/RN                1-0  Santa Cruz/PE
   (Rodrigo Rodrigues 80)
 Luverdense/MT         0-0  Fluminense/RJ
-_ Apr 04 _
+_ Apr 4 _
 Botafogo/RJ           1-1  Juventude/RS
   (Erik 50p; Paulo Sérgio 19)
 Atlético/GO           1-0  Santos/SP
@@ -845,12 +845,12 @@ Vila Nova/GO          2-0  Bragantino/PA
   (Danilo 07p, Rafael Silva 70p)
 
 2nd Leg
-_ Apr 03 _
+_ Apr 3 _
 Londrina/PR           3-3  Botafogo/PB
   (Augusto 25, 53, Luquinha 79; Nando 40, 86, 86, Clayton 69)
 Corinthians/SP        0-1  Ceará/CE
   (Roger 88c)
-_ Apr 09 _
+_ Apr 9 _
 Bahia/BA              1-0  CRB/AL
   (Elton 90+8)
 _ Apr 10 _
@@ -898,7 +898,7 @@ Santa Cruz/PE         2-0  Fluminense/RJ (Pen 2-3)
   (Jô 72, Pipico 74)
 Londrina/PR           2-1  Bahia/BA
   (Anderson Oliveira 00'42, Dagoberto 35p; Fernandão 21)
-_ May 07 _
+_ May 7 _
 Vila Nova/GO          0-0  Juventude/RS (Pen 3-4)
 
 
@@ -934,15 +934,15 @@ Paysandu/PA           0-1  Internacional/RS
 _ May 30 _
 Palmeiras/SP          2-0  Sampaio Corrêa/MA
   (Mayke 39, Zé Rafael 48c)
-_ Jun 04 _
+_ Jun 4 _
 Flamengo/RJ           1-0  Corinthians/SP
   (Rodrigo Caio 86)
-_ Jun 05 _
+_ Jun 5 _
 Cruzeiro/MG           2-2  Fluminense/RJ (Pen 3-1)
   (Thiago Neves 58, 80p; Ganso 15p, João Pedro 90+6b)
 Athletico/PR          1-0  Fortaleza/CE
   (Marco Rúben 87)
-_ Jun 06 _
+_ Jun 6 _
 Santos/SP             1-2  Atlético/MG
   (Gustavo Henrique 05c; Chará 36, 84)
 
@@ -974,7 +974,7 @@ Atlético/MG           2-0  Cruzeiro/MG
 ▪ Semifinal ▪
 
 1st Leg
-_ Aug 07 _
+_ Aug 7 _
 Cruzeiro/MG           0-1  Internacional/RS
   (Edenilson 75)
 _ Aug 14 _
@@ -982,7 +982,7 @@ Grêmio/RS             2-0  Athletico/PR
   (André Felipe 23c, Jean Pyerre 72f)
 
 2nd Leg
-_ Sep 04 _
+_ Sep 4 _
 Internacional/RS      3-0  Cruzeiro/MG
   (Paolo Guerrero 39c, 69, Edenilson 89)
 Athletico/PR          2-0  Grêmio/RS (Pen 5-4)
@@ -1009,7 +1009,7 @@ Internacional/RS      1-2  Athletico/PR
 
 NB: between 2019 champions and cup winners
 
-[Feb 16, 2020, Brasília]
+_ Feb 16 2020 _, Brasília
 Flamengo/RJ           3-0  Athletico/PR
 
 

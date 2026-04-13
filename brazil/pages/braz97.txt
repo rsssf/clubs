@@ -52,7 +52,7 @@ VITÓRIA (Salvador)              - Bahia                 - -
 
 [*] 5 points deducted
 
-▪ Round 1 ▪  Jul 5,6
+▪ Round 1 ▪  Jul 5 & 6
 Gremio         0-0 Sao Paulo
 Palmeiras      4-1 Fluminense
 Parana         2-1 Sport
@@ -67,7 +67,7 @@ America        1-1 Criciuma
 Vasco          2-0 Atletico/MG    [Nov 4]
 Vitoria        3-2 Botafogo       [Oct 7]
 
-▪ Round 2 ▪  Jul 9,10
+▪ Round 2 ▪  Jul 9 & 10
 Bahia          1-0 Flamengo
 Criciuma       1-1 Corinthians
 Fluminense     1-1 Cruzeiro
@@ -81,7 +81,7 @@ Atletico/MG    0-1 Palmeiras
 Sao Paulo      1-1 Bragantino
 Botafogo       0-2 Juventude      [Jul 23]
 
-▪ Round 3 ▪  Jul 12,13
+▪ Round 3 ▪  Jul 12 & 13
 Goias          0-0 Botafogo
 Parana         2-0 Santos
 Coritiba       2-0 Sport
@@ -96,7 +96,7 @@ Cruzeiro       0-0 Internacional
 America        1-1 Bahia
 Vasco          2-1 Sao Paulo      [Jul 23]
 
-▪ Round 4 ▪  Jul 16,17
+▪ Round 4 ▪  Jul 16 & 17
 Fluminense     0-0 Vitoria
 Juventude      2-1 Palmeiras
 Portuguesa     3-0 Gremio
@@ -111,7 +111,7 @@ Cruzeiro       0-5 Sao Paulo
 Botafogo       2-0 Atletico/MG
 Internacional  2-0 Santos
 
-▪ Round 5 ▪  Jul 19,20
+▪ Round 5 ▪  Jul 19 & 20
 Portuguesa     3-0 Flamengo
 Guarani        2-2 Corinthians
 Atletico/PR    4-3 Bahia
@@ -129,7 +129,7 @@ Vitoria        3-1 Sport
 Moved Match [Jul 23]
 Santos         3-0 Gremio
 
-▪ Round 6 ▪  Jul 26,27
+▪ Round 6 ▪  Jul 26 & 27
 America        0-0 Botafogo
 Sport          1-1 Santos
 Fluminense     1-1 Coritiba
@@ -148,7 +148,7 @@ Vasco          2-0 Goias
 Sport          1-0 Flamengo
 Corinthians    0-0 Atletico/MG
 
-▪ Round 7 ▪  Aug 2, 3,4
+▪ Round 7 ▪  Aug 2,3,4
 Palmeiras      3-1 Botafogo
 Uniao Sao Joao 1-0 Juventude
 Bragantino     0-1 Goias
@@ -163,7 +163,7 @@ Moved Matches [Aug 6]
 Vitoria        1-2 Palmeiras
 Portuguesa     3-2 Bahia
 
-▪ Round 8 ▪  Aug 9,10
+▪ Round 8 ▪  Aug 9 & 10
 Internacional  3-1 Vitoria
 Botafogo       3-1 Atletico/PR
 Parana         1-1 Palmeiras
@@ -182,7 +182,7 @@ Moved Matches [Aug 13]
 Internacional  2-1 Palmeiras
 Criciuma       1-0 Botafogo
 
-▪ Round 9 ▪  Aug 16,17
+▪ Round 9 ▪  Aug 16 & 17
 Atletico/PR    2-1 Goias
 Coritiba       2-0 Corinthians
 Uniao Sao Joao 1-1 Sport
@@ -194,7 +194,7 @@ Portuguesa     3-0 America
 Guarani        1-2 Parana
 Atletico/MG    2-1 Juventude
 
-▪ Round 10 ▪  Aug 19,20
+▪ Round 10 ▪  Aug 19 & 20
 Corinthians    1-2 Atletico/PR
 America        0-0 Vasco
 Juventude      1-1 Santos
@@ -207,7 +207,7 @@ Sport          2-0 Bahia
 Goias          1-0 Parana
 Cruzeiro       4-3 Criciuma
 
-▪ Round 11 ▪  Aug 23,24
+▪ Round 11 ▪  Aug 23 & 24
 Bahia          3-3 Fluminense
 Atletico/PR    1-1 Sao Paulo
 Coritiba       4-2 Bragantino
@@ -221,7 +221,7 @@ Moved Matches [Aug 27]
 Botafogo       1-1 Guarani
 Parana         0-0 Fluminense
 
-▪ Round 12 ▪  Aug 30,31
+▪ Round 12 ▪  Aug 30 & 31
 Palmeiras      0-1 Criciuma
 Sport          2-3 Vasco
 Fluminense     1-0 Santos
@@ -240,7 +240,7 @@ Moved Matches [Sep 4]
 Atletico/PR    0-0 Fluminense
 Uniao Sao Joao 0-0 Palmeiras
 
-▪ Round 13 ▪  Sep 6,7
+▪ Round 13 ▪  Sep 6 & 7
 Botafogo       0-2 Internacional
 Gremio         3-1 Vasco
 Atletico/MG    2-1 Bragantino
@@ -254,7 +254,7 @@ Santos         2-0 Criciuma
 Sao Paulo      0-2 Palmeiras
 Sport          1-0 Goias
 
-▪ Round 14 ▪  Sep 11,12
+▪ Round 14 ▪  Sep 11 & 12
 Fluminense     1-2 Flamengo
 Vasco          6-0 Uniao Sao Joao
 Portuguesa     2-1 Sao Paulo
@@ -268,7 +268,7 @@ Corinthians    3-1 Vitoria
 Atletico/MG    2-1 Santos
 Bragantino     1-3 Botafogo     [Oct 15]
 
-▪ Round 15 ▪  Sep 13,14
+▪ Round 15 ▪  Sep 13 & 14
 Sao Paulo      2-2 Botafogo
 Bragantino     2-1 Palmeiras
 Gremio         2-2 Bahia
@@ -282,7 +282,7 @@ Santos         2-1 Coritiba
 Goias          3-2 Criciuma
 Sport          2-0 Internacional
 
-▪ Round 16 ▪  Sep 17,18
+▪ Round 16 ▪  Sep 17 & 18
 Guarani        1-1 Flamengo
 Santos         2-1 Sao Paulo
 Vasco          2-1 Internacional
@@ -296,7 +296,7 @@ Goias          1-0 Coritiba
 Palmeiras      1-1 Bahia
 Atletico/MG    1-0 Fluminense
 
-▪ Round 17 ▪  Sep 20,21
+▪ Round 17 ▪  Sep 20 & 21
 Vasco          4-1 Parana
 Gremio         2-0 Corinthians
 Juventude      0-0 Cruzeiro
@@ -315,7 +315,7 @@ Coritiba       0-0 Cruzeiro
 Uniao Sao Joao 1-1 Fluminense
 Botafogo       1-0 Corinthians
 
-▪ Round 18 ▪  Sep 27,28
+▪ Round 18 ▪  Sep 27 & 28
 Coritiba       3-1 Guarani
 Santos         1-2 Botafogo
 Sao Paulo      0-0 Juventude
@@ -330,7 +330,7 @@ Sport          4-1 Cruzeiro
 Bahia          4-2 Uniao Sao Joao
 Goias          1-2 Vitoria
 
-▪ Round 19 ▪  Oct 1,2
+▪ Round 19 ▪  Oct 1 & 2
 Vasco          2-1 Palmeiras
 Juventude      0-1 Flamengo
 Botafogo       1-0 Sport
@@ -344,7 +344,7 @@ Corinthians    2-0 Bragantino
 Santos         3-1 Uniao Sao Joao
 Atletico/MG    3-1 Coritiba
 
-▪ Round 20 ▪  Oct 4,5
+▪ Round 20 ▪  Oct 4 & 5
 Cruzeiro       4-0 Goias
 Parana         1-2 Flamengo
 America        1-1 Corinthians
@@ -363,7 +363,7 @@ Flamengo       3-2 Gremio
 Coritiba       1-1 Palmeiras
 Cruzeiro       0-0 Vasco
 
-▪ Round 21 ▪  Oct 11,12
+▪ Round 21 ▪  Oct 11 & 12
 Flamengo       1-0 Sao Paulo
 Coritiba       1-3 Vasco
 Corinthians    0-1 Parana
@@ -381,7 +381,7 @@ Criciuma       2-0 Bahia
 Moved Matches [Oct 14]
 Santos         1-0 Corinthians
 
-▪ Round 22 ▪  Oct 18,19
+▪ Round 22 ▪  Oct 18 & 19
 Cruzeiro       1-0 Corinthians
 Goias          2-2 Fluminense
 Flamengo       0-0 Palmeiras
@@ -401,7 +401,7 @@ Fluminense     1-0 Corinthians
 Palmeiras      3-1 Atletico/PR
 Bahia          1-4 Internacional
 
-▪ Round 23 ▪  Oct 25,26
+▪ Round 23 ▪  Oct 25 & 26
 Internacional  4-0 Flamengo
 Santos         3-1 Bahia
 Portuguesa     1-2 Goias
@@ -418,7 +418,7 @@ Atletico/MG    3-2 America
 Moved Match [Oct 30]
 Flamengo       1-0 Vitoria
 
-▪ Round 24 ▪  Nov 1,2
+▪ Round 24 ▪  Nov 1 & 2
 Atletico/PR    2-1 Internacional
 Corinthians    0-1 Sport
 Cruzeiro       2-3 Botafogo
@@ -438,7 +438,7 @@ Uniao Sao Joao 0-1 Guarani
 Corinthians    1-0 Flamengo
 Santos         2-0 America
 
-▪ Round 25 ▪  Nov 8,9
+▪ Round 25 ▪  Nov 8 & 9
 Guarani        3-2 Vasco
 Botafogo       3-3 Portuguesa
 Fluminense     0-2 Gremio
@@ -472,7 +472,7 @@ Sao Paulo      4-4 Parana
 <!-- $table4$ -->
 
 
-▪ Round 1 ▪  Nov 15,16
+▪ Round 1 ▪  Nov 15 & 16
 Juventude      0-3 Vasco
 Atletico/MG    2-0 Santos
 Flamengo       1-0 Portuguesa
@@ -490,7 +490,7 @@ Atletico/MG    0-1 Palmeiras
 Vasco          2-1 Portuguesa
 Santos         4-0 Internacional
 
-▪ Round 4 ▪  Nov 29,30
+▪ Round 4 ▪  Nov 29 & 30
 Portuguesa     1-3 Vasco
 Internacional  4-1 Santos
 Flamengo       2-0 Juventude
@@ -502,7 +502,7 @@ Juventude      2-1 Portuguesa
 Palmeiras      1-0 Santos
 Atletico/MG    3-2 Internacional
 
-▪ Round 6 ▪  Dec 6,7
+▪ Round 6 ▪  Dec 6 & 7
 Portuguesa     0-0 Flamengo
 Vasco          1-1 Juventude
 Santos         1-0 Atletico/MG
@@ -519,7 +519,7 @@ Internacional  0-1 Palmeiras
 
 
 
-▪ Final ▪  Dec 14,20
+▪ Final ▪  Dec 14 & 20
 Palmeiras      0-0 Vasco
 Vasco          0-0 Palmeiras
 
@@ -582,11 +582,11 @@ Ceara          2-5  0-5 Palmeiras
 Corinthians    1-2  6-2 Atletico-PR
 Gremio         2-0  3-3 Vitoria
 
-▪ Semifinals ▪  May 6, 8; May 13,15
+Semifinals [May 6,8; May 13,15]
 Flamengo       2-0  1-0 Palmeiras
 Corinthians    1-2  1-1 Gremio
 
-▪ Final ▪  May 20,22
+▪ Final ▪  May 20 & 22
 Gremio         0-0  2-2 Flamengo
 
 Grêmio won on away goals.
@@ -930,19 +930,19 @@ Náutico       2-1 Gama
 Vila Nova     1-0 Joinville
 Tuna Luso     0-3 América
 
-▪ Round 2 ▪  Oct 24,25
+▪ Round 2 ▪  Oct 24 & 25
 Ponte Preta   3-1 Náutico
 Gama          0-1 CRB
 América       2-0 Vila Nova
 Joinville     1-1 Tuna Luso
 
-▪ Round 3 ▪  Oct 26,27
+▪ Round 3 ▪  Oct 26 & 27
 CRB           2-0 Náutico
 Gama          0-0 Ponte Preta
 Vila Nova     2-1 Tuna Luso
 América       1-0 Joinville
 
-▪ Round 4 ▪  Nov 1,2
+▪ Round 4 ▪  Nov 1 & 2
 Ponte Preta   4-1 Gama
 Náutico       4-0 CRB
 Tuna Luso     2-0 Vila Nova
@@ -954,7 +954,7 @@ Náutico       3-1 Ponte Preta
 Vila Nova     2-0 América
 Tuna Luso     2-3 Joinville
 
-▪ Round 6 ▪  Nov 8,9
+▪ Round 6 ▪  Nov 8 & 9
 Ponte Preta   4-2 CRB
 Gama          2-2 Náutico
 Joinville     1-2 Vila Nova
@@ -979,11 +979,11 @@ FINAL STAGE
 <!-- $table7$ -->
 
 
-▪ Round 1 ▪  Nov 14,16
+▪ Round 1 ▪  Nov 14 & 16
 Náutico       3-0 Ponte Preta
 Vila Nova     0-2 América
 
-▪ Round 2 ▪  Nov 18,20
+▪ Round 2 ▪  Nov 18 & 20
 América       2-0 Náutico
 Ponte Preta   1-0 Vila Nova
 
@@ -995,7 +995,7 @@ Náutico       4-0 Vila Nova
 Ponte Preta   1-0 América
 Vila Nova     1-1 Náutico
 
-▪ Round 5 ▪  Dec 2,4
+▪ Round 5 ▪  Dec 2 & 4
 Vila Nova     2-3 Ponte Preta
 Náutico       0-2 América        [abandoned in 90']
 
@@ -1587,7 +1587,7 @@ Juventus(SP)           2-1 Francana(SP)
 Francana(SP)           1-2 Tupi(MG)
 Sampaio Corrêa(MA)     1-1 Juventus(SP)
 
-▪ Round 4 ▪  Nov 22,23
+▪ Round 4 ▪  Nov 22 & 23
 Juventus(SP)           2-2 Sampaio Corrêa(MA)
 Tupi(MG)               0-1 Francana(SP)
 

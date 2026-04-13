@@ -891,14 +891,14 @@ Treze           0-1  Ceará
 
 [02 Novembro]
 Ceará           1-3  Náutico
-   (N: Nivaldo(2) e Leo)
+   [N: Nivaldo(2) e Leo]
 Catuense        3-0  Central
 Fluminense      1-1  Treze              (pen 3-2)
 
 [05 Novembro]
 Central         2-1  Treze
 Náutico         3-1  Catuense
-   (N: Nivaldo(2) e Marcão)
+   [N: Nivaldo(2) e Marcão]
 Ceará           1-2  Fluminense
 
 [09 Novembro]
@@ -1241,7 +1241,7 @@ Internacional   3-1  Náutico
 [01 Dezembro]
 Operário        0-3  Internacional
 Valeriodoce     2-4  Náutico
-   (Na: Newton(2), Erasmo e Haroldo)
+   [Na: Newton(2), Erasmo e Haroldo]
 
 [03 Dezembro]
 Valeriodoce     0-2  Internacional
@@ -1773,7 +1773,7 @@ União São João  3-1  Tiradentes
 
 ▪ Final ▪
 
-_ Dec 16 and 18 _
+_ Dec 16 & 18 _
 Esportivo-MG    1-1   2-2  União São João
 União São João won due to better season record
 

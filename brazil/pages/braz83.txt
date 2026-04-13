@@ -1291,11 +1291,11 @@ Guarani        1-2  Goiás
 
 ▪ Quarterfinals ▪
 
-_ May 4 and 7 _
+_ May 4 & 7 _
 Atlético-PR    2-1   0-1  São Paulo
   [Déti, Washington; Renato]
   [Assis]
-_ May 5 and 8 _
+_ May 5 & 8 _
 Vasco da Gama  1-2   1-1  Flamengo
   [Mozer (Own Goal); Adílio, Júlio César]
   [Zico; Elói]
@@ -1308,7 +1308,7 @@ Santos qualified due to better third phase record
 
 ▪ Semifinals ▪
 
-_ May 12 and 15 _
+_ May 12 & 15 _
 Santos         2-1   0-0  Atlético-MG
   (Serginho (2); Éder)
 Flamengo       3-0   0-2  Atlético-PR
@@ -1317,7 +1317,7 @@ Flamengo       3-0   0-2  Atlético-PR
 
 ▪ Final ▪
 
-_ May 18 and 29 _
+_ May 18 & 29 _
 Santos         2-1   0-3 Flamengo
   [Pita, Serginho; Baltazar]
   [Zico, Leandro, Adílio]
@@ -1611,7 +1611,7 @@ Central         3-0  Maranhão
 _ Mar 2 _
 Guarani         0-0  Central
 
-[Mar  5]
+_ Mar 5 _
 Maranhão        1-5  Guarani
 
 <!-- $table27$ -->
@@ -1663,7 +1663,7 @@ Brasília, CSA, Ferroviário, Fortaleza, Galícia, Joinville, Juventus, Mixto, M
 
 Third Phase
 
-_ Mar 13 and 20 _
+_ Mar 13 & 20 _
 Ferroviário     1-0   1-3  Londrina
 Moto Clube      0-3   2-4  Joinville
 CSA             4-1   0-0  Guarany
@@ -1675,16 +1675,16 @@ Rio Branco      1-1   1-2  Mixto
 
 Fourth Phase
 
-_ Mar 27 and Apr 2 _
+_ Mar 27 & Apr 2 _
 Galícia         2-3   1-2  Juventus
-_ Mar 27 and Apr 3 _
+_ Mar 27 & Apr 3 _
 Londrina        0-1   0-1  Joinville
 Mixto           1-3   1-4  CSA
 Brasília        1-0   1-1  Central
 
 ▪ Semifinals ▪
 
-_ Apr 10 and 17 _
+_ Apr 10 & 17 _
 Brasília        0-0   1-1  CSA
 Joinville       0-0   1-2  Juventus
 
@@ -1692,7 +1692,7 @@ CSA qualified due to better 4th phase record
 
 ▪ Final ▪
 
-_ Apr 24 and May 1 _
+_ Apr 24 & May 1 _
 CSA             3-1   0-3  Juventus
 
 Tie-breaking match
