@@ -1151,119 +1151,119 @@ Third Level (Regionalligen)
 REGIONALLIGA OST
 
 ▪ Round 1 ▪
-_ 10/08 _
+_ 10/8 _
 Eisenstadt         4-0  Stadlau
 Kottingbrunn       2-0  Austria Amat.
 Krems              1-1  Schwechat
 Rohrbach           2-3  Klingenbach
 Waidhofen/Y.       3-1  Baumgarten
 Zwettl             0-2  Hundsheim
-_ 11/08 _
+_ 11/8 _
 Neuberg            4-0  Vienna
 Wiener Sportclub   0-1  FAC
 
 ▪ Round 2 ▪
-_ 15/08 _
+_ 15/8 _
 Kottingbrunn       1-1  Neuberg
-_ 17/08 _
+_ 17/8 _
 Baumgarten         6-1  Wiener Sportclub
 FAC                5-2  Rohrbach
 Schwechat          1-0  Waidhofen/Y.
 Vienna             1-1  Eisenstadt
 Zwettl             0-3  Austria Amat.
-_ 18/08 _
+_ 18/8 _
 Klingenbach        0-3  Hundsheim
 Stadlau            2-0  Krems
 
 ▪ Round 3 ▪
-_ 24/08 _
+_ 24/8 _
 Eisenstadt         3-0  Kottingbrunn
 Krems              3-2  Vienna
 Rohrbach           0-0  Baumgarten
 Waidhofen/Y.       0-0  Stadlau
-_ 25/08 _
+_ 25/8 _
 Hundsheim          3-0  Austria Amat.
 Neuberg            3-3  Zwettl
-_ 26/08 _
+_ 26/8 _
 Klingenbach        1-1  FAC
 Wiener Sportclub   3-1  Schwechat
 
 ▪ Round 4 ▪
-_ 31/08 _
+_ 31/8 _
 Baumgarten         0-4  Klingenbach
 FAC                2-0  Hundsheim
 Krems              2-1  Kottingbrunn
 Schwechat          3-0  Rohrbach
 Vienna             4-0  Waidhofen/Y.
 Zwettl             1-2  Eisenstadt
-_ 01/09 _
+_ 1/9 _
 Stadlau            3-3  Wiener Sportclub
-_ 02/09 _
+_ 2/9 _
 Austria Amat.      0-0  Neuberg
 
 ▪ Round 5 ▪
-_ 07/09 _
+_ 7/9 _
 Eisenstadt         2-0  Austria Amat.
 Krems              1-2  Zwettl
 Rohrbach           1-1  Stadlau
 Waidhofen/Y.       2-0  Kottingbrunn
-_ 08/09 _
+_ 8/9 _
 Hundsheim          0-0  Neuberg
-_ 09/09 _
+_ 9/9 _
 FAC                2-0  Baumgarten
 Klingenbach        4-2  Schwechat
 Wiener Sportclub   3-1  Vienna
 
 ▪ Round 6 ▪
-_ 14/09 _
+_ 14/9 _
 Kottingbrunn       1-1  Wiener Sportclub
 Schwechat          0-1  FAC
 Vienna             3-2  Rohrbach
-_ 15/09 _
+_ 15/9 _
 Neuberg            0-3  Eisenstadt
 Stadlau            3-2  Klingenbach
 Zwettl             3-1  Waidhofen/Y.
-_ 16/09 _
+_ 16/9 _
 Austria Amat.      0-0  Krems
-_ 02/10 _
+_ 2/10 _
 Baumgarten         1-3  Hundsheim
 
 ▪ Round 7 ▪
-_ 21/09 _
+_ 21/9 _
 Baumgarten         1-1  Schwechat
 FAC                3-2  Stadlau
 Krems              3-3  Neuberg
 Rohrbach           2-1  Kottingbrunn
 Waidhofen/Y.       4-0  Austria Amat.
-_ 22/09 _
+_ 22/9 _
 Hundsheim          1-0  Eisenstadt
-_ 23/09 _
+_ 23/9 _
 Klingenbach        0-2  Vienna
 Wiener Sportclub   3-2  Zwettl
 
 ▪ Round 8 ▪
-_ 28/09 _
+_ 28/9 _
 Eisenstadt         1-4  Krems
 Kottingbrunn       0-2  Klingenbach
 Schwechat          3-2  Hundsheim
 Vienna             2-0  FAC
-_ 29/09 _
+_ 29/9 _
 Neuberg            4-1  Waidhofen/Y.
 Stadlau            4-2  Baumgarten
 Zwettl             1-0  Rohrbach
-_ 30/09 _
+_ 30/9 _
 Austria Amat.      1-2  Wiener Sportclub
 
 
 ▪ Round 9 ▪
-_ 05/10 _
+_ 5/10 _
 Baumgarten         3-2  Vienna
 Rohrbach           5-0  Austria Amat.
 Schwechat          2-0  Stadlau
 Waidhofen/Y.       1-0  Eisenstadt
-_ 06/10 _
+_ 6/10 _
 Hundsheim          0-0  Krems
-_ 07/10 _
+_ 7/10 _
 FAC                0-0  Kottingbrunn
 Klingenbach        2-1  Zwettl
 Wiener Sportclub   2-0  Neuberg
@@ -1308,21 +1308,21 @@ _ 28/10 _
 Austria Amat.      0-0  Baumgarten
 
 ▪ Round 13 ▪
-_ 01/11 _
+_ 1/11 _
 FAC                0-1  Eisenstadt
-_ 02/11 _
+_ 2/11 _
 Baumgarten         1-2  Neuberg
 Rohrbach           5-3  Waidhofen/Y.
 Schwechat          2-2  Austria Amat.
 Vienna             0-2  Kottingbrunn
-_ 03/11 _
+_ 3/11 _
 Hundsheim          0-0  Wiener Sportclub
 Stadlau            4-1  Zwettl
-_ 04/11 _
+_ 4/11 _
 Klingenbach        1-1  Krems
 
 ▪ Round 14 ▪
-_ 09/11 _
+_ 9/11 _
 Eisenstadt         0-1  Baumgarten
 Krems              0-0  FAC
 Waidhofen/Y.       1-1  Klingenbach
@@ -1348,201 +1348,201 @@ _ 18/11 _
 Kottingbrunn       4-0  Zwettl
 
 ▪ Round 16 ▪
-_ 22/02 _
+_ 22/2 _
 Baumgarten         1-1  Waidhofen/Y.
 Schwechat          1-0  Krems
 Vienna             0-1  Neuberg
-_ 23/02 _
+_ 23/2 _
 Hundsheim          4-1  Zwettl
 Stadlau            1-1  Eisenstadt
-_ 24/02 _
+_ 24/2 _
 Austria Amat.      0-2  Kottingbrunn
 FAC                1-1  Wiener Sportclub
 Klingenbach        0-0  Rohrbach
 
 ▪ Round 17 ▪
-_ 01/03 _
+_ 1/3 _
 Eisenstadt         0-1  Vienna
 Rohrbach           0-2  FAC
-_ 02/03 _
+_ 2/3 _
 Hundsheim          0-1  Klingenbach
 Krems              2-2  Stadlau
 Neuberg            2-2  Kottingbrunn
 Waidhofen/Y.       1-0  Schwechat
-_ 03/03 _
+_ 3/3 _
 Austria Amat.      1-0  Zwettl
 Wiener Sportclub   2-0  Baumgarten
 
 ▪ Round 18 ▪
-_ 07/03 _
+_ 7/3 _
 Vienna             2-0  Krems
-_ 08/03 _
+_ 8/3 _
 FAC                1-3  Klingenbach
 Schwechat          0-2  Wiener Sportclub
-_ 09/03 _
+_ 9/3 _
 Austria Amat.      0-0  Hundsheim
 Baumgarten         0-3  Rohrbach
 Stadlau            1-3  Waidhofen/Y.
 Zwettl             1-0  Neuberg
-_ 10/03 _
+_ 10/3 _
 Kottingbrunn       1-1  Eisenstadt
 
 ▪ Round 19 ▪
-_ 15/03 _
+_ 15/3 _
 Eisenstadt         4-1  Zwettl
 Kottingbrunn       1-0  Krems
 Rohrbach           2-1  Schwechat
-_ 16/03 _
+_ 16/3 _
 Hundsheim          3-1  FAC
 Neuberg            1-0  Austria Amat.
 Waidhofen/Y.       1-0  Vienna
-_ 17/03 _
+_ 17/3 _
 Klingenbach        2-2  Baumgarten
 Wiener Sportclub   1-1  Stadlau
 
 ▪ Round 20 ▪
-_ 23/03 _
+_ 23/3 _
 Neuberg            0-1  Hundsheim
-_ 24/03 _
+_ 24/3 _
 Austria Amat.      0-0  Eisenstadt
-_ 26/03 _
+_ 26/3 _
 Schwechat          6-2  Klingenbach
-_ 01/04 _
+_ 1/4 _
 Zwettl             2-0  Krems
-_ 02/04 _
+_ 2/4 _
 Baumgarten         1-1  FAC
-_ 30/04 _
+_ 30/4 _
 Vienna             0-2  Wiener Sportclub
 Kottingbrunn       0-3  Waidhofen/Y.
-_ 01/05 _
+_ 1/5 _
 Stadlau            0-3  Rohrbach
 
 ▪ Round 21 ▪
-_ 29/03 _
+_ 29/3 _
 Eisenstadt         1-0  Neuberg
 FAC                2-2  Schwechat
 Krems              1-1  Austria Amat.
 Rohrbach           2-0  Vienna
 Waidhofen/Y.       1-2  Zwettl
-_ 30/03 _
+_ 30/3 _
 Hundsheim          1-1  Baumgarten
-_ 31/03 _
+_ 31/3 _
 Wiener Sportclub   1-0  Kottingbrunn
 Klingenbach        5-1  Stadlau
 
 ▪ Round 22 ▪
-_ 05/04 _
+_ 5/4 _
 Eisenstadt         2-0  Hundsheim
 Kottingbrunn       2-0  Rohrbach
 Schwechat          2-0  Baumgarten
 Vienna             1-1  Klingenbach
-_ 06/04 _
+_ 6/4 _
 Neuberg            3-0  Krems
 Stadlau            0-0  FAC
 Zwettl             1-3  Wiener Sportclub
-_ 07/04 _
+_ 7/4 _
 Austria Amat.      2-1  Waidhofen/Y.
 
 ▪ Round 23 ▪
-_ 12/04 _
+_ 12/4 _
 Krems              0-0  Eisenstadt
 Rohrbach           1-0  Zwettl
 Waidhofen/Y.       1-1  Neuberg
-_ 13/04 _
+_ 13/4 _
 Hundsheim          0-0  Schwechat
-_ 14/04 _
+_ 14/4 _
 FAC                5-1  Vienna
 Klingenbach        3-1  Kottingbrunn
-_ 07/05 _
+_ 7/5 _
 Baumgarten         0-1  Stadlau
-_ 09/05 _
+_ 9/5 _
 Wiener Sportclub   0-0  Austria Amat.
 
 ▪ Round 24 ▪
-_ 19/04 _
+_ 19/4 _
 Vienna             2-0  Baumgarten
 Eisenstadt         0-2  Waidhofen/Y.
 Krems              1-1  Hundsheim
 Zwettl             1-1  Klingenbach
-_ 20/04 _
+_ 20/4 _
 Stadlau            3-0  Schwechat
 Neuberg            0-1  Wiener Sportclub
-_ 21/04 _
+_ 21/4 _
 Austria Amat.      2-0  Rohrbach
 Kottingbrunn       0-0  FAC
 
 ▪ Round 25 ▪
-_ 26/04 _
+_ 26/4 _
 Baumgarten         1-2  Kottingbrunn
 FAC                3-0  Zwettl
 Schwechat          1-0  Vienna
 Waidhofen/Y.       2-1  Krems
-_ 27/04 _
+_ 27/4 _
 Hundsheim          2-0  Stadlau
 Klingenbach        2-1  Austria Amat.
 Rohrbach           2-2  Neuberg
 Wiener Sportclub   2-0  Eisenstadt
 
 ▪ Round 26 ▪
-_ 03/05 _
+_ 3/5 _
 Eisenstadt         1-1  Rohrbach
 Kottingbrunn       2-0  Schwechat
 Krems              0-3  Wiener Sportclub
 Vienna             0-2  Stadlau
 Waidhofen/Y.       1-0  Hundsheim
 Zwettl             2-1  Baumgarten
-_ 04/05 _
+_ 4/5 _
 Neuberg            1-3  Klingenbach
-_ 05/05 _
+_ 5/5 _
 Austria Amat.      3-2  FAC
 
 ▪ Round 27 ▪
-_ 10/05 _
+_ 10/5 _
 FAC                2-1  Neuberg
 Rohrbach           2-1  Krems
 Schwechat          3-0  Zwettl
-_ 11/05 _
+_ 11/5 _
 Hundsheim          3-1  Vienna
 Stadlau            0-4  Kottingbrunn
-_ 12/05 _
+_ 12/5 _
 Baumgarten         0-0  Austria Amat.
 Klingenbach        1-2  Eisenstadt
 Wiener Sportclub   2-1  Waidhofen/Y.
 
 ▪ Round 28 ▪
-_ 17/05 _
+_ 17/5 _
 Austria Amat.      0-1  Schwechat
 Eisenstadt         0-1  FAC
 Kottingbrunn       3-0  Vienna
 Krems              3-1  Klingenbach
 Waidhofen/Y.       3-1  Rohrbach
 Zwettl             2-1  Stadlau
-_ 18/05 _
+_ 18/5 _
 Neuberg            0-1  Baumgarten
 Wiener Sportclub   2-1  Hundsheim
 
 ▪ Round 29 ▪
-_ 24/05 _
+_ 24/5 _
 Baumgarten         0-5  Eisenstadt
 FAC                2-1  Krems
 Rohrbach           1-2  Wiener Sportclub
 Schwechat          3-0  Neuberg
-_ 25/05 _
+_ 25/5 _
 Hundsheim          0-2  Kottingbrunn
 Stadlau            0-0  Austria Amat.
 Vienna             2-0  Zwettl
-_ 26/05 _
+_ 26/5 _
 Klingenbach        0-0  Waidhofen/Y.
 
 ▪ Round 30 ▪
-_ 29/05 _
+_ 29/5 _
 Waidhofen/Y.       1-2  FAC
-_ 30/05 _
+_ 30/5 _
 Neuberg            1-0  Stadlau
-_ 31/05 _
+_ 31/5 _
 Eisenstadt         2-3  Schwechat
 Rohrbach           2-1  Hundsheim
-_ 01/06 _
+_ 1/6 _
 Austria Amat.      1-0  Vienna
 Krems              5-1  Baumgarten
 Wiener Sportclub   2-1  Klingenbach
@@ -1558,45 +1558,45 @@ Promoted: SKN St.Pölten, 1.Simmeringer SC, SV Oberwart
 REGIONALLIGA MITTE
 
 ▪ Round 1 ▪
-_ 03/08 _
+_ 3/8 _
 Kapfenberg         6-1  St.Veit
 St.Florian         1-0  Gratkorn
 Spittal            3-1  Hartberg
 Voitsberg          2-3  Blau-Weiß Linz
 Zeltweg            1-1  Bleiburg
-_ 04/08 _
+_ 4/8 _
 Donau Linz         1-1  Köflach
 ASK Klagenfurt     0-1  Wolfsberg
 Schwanenstadt      2-0  Eintracht Wels
 
 ▪ Round 2 ▪
-_ 10/08 _
+_ 10/8 _
 Gratkorn           3-1  Donau Linz
 Hartberg           0-1  St.Florian
 Blau-Weiß Linz     2-0  Schwanenstadt
 Köflach            4-1  Voitsberg
 Eintracht Wels     0-0  Kapfenberg
 Wolfsberg          0-2  Bleiburg
-_ 11/08 _
+_ 11/8 _
 St.Veit            0-1  Zeltweg
-_ 12/08 _
+_ 12/8 _
 ASK Klagenfurt     2-2  Spittal
 
 ▪ Round 3 ▪
-_ 17/08 _
+_ 17/8 _
 Donau Linz         0-2  Hartberg
 Kapfenberg         2-1  Blau-Weiß Linz
 St.Florian         1-1  ASK Klagenfurt
 Spittal            3-1  Wolfsberg
 Voitsberg          1-1  Gratkorn
 Zeltweg            3-1  Eintracht Wels
-_ 18/08 _
+_ 18/8 _
 Bleiburg           1-1  St.Veit
-_ 19/08 _
+_ 19/8 _
 Schwanenstadt      4-1  Köflach
 
 ▪ Round 4 ▪
-_ 24/08 _
+_ 24/8 _
 Gratkorn           0-0  Schwanenstadt
 Hartberg           2-0  Voitsberg
 Köflach            1-0  Kapfenberg
@@ -1604,23 +1604,23 @@ Blau-Weiß Linz     5-2  Zeltweg
 Spittal            4-0  St.Florian
 Eintracht Wels     0-0  Bleiburg
 Wolfsberg          0-3  St.Veit
-_ 26/08 _
+_ 26/8 _
 ASK Klagenfurt     5-2  Donau Linz
 
 ▪ Round 5 ▪
-_ 31/08 _
+_ 31/8 _
 Kapfenberg         2-1  Gratkorn
 Donau Linz         1-3  Spittal
 St.Florian         6-0  Wolfsberg
 Schwanenstadt      0-0  Hartberg
 Voitsberg          1-1  ASK Klagenfurt
-_ 01/09 _
+_ 1/9 _
 Bleiburg           0-1  Blau-Weiß Linz
 St.Veit            1-1  Eintracht Wels
 Zeltweg            2-0  Köflach
 
 ▪ Round 6 ▪
-_ 07/09 _
+_ 7/9 _
 Gratkorn           7-1  Zeltweg
 Hartberg           1-1  Kapfenberg
 ASK Klagenfurt     0-0  Schwanenstadt
@@ -1631,53 +1631,53 @@ Spittal            2-1  Voitsberg
 Wolfsberg          1-2  Eintracht Wels
 
 ▪ Round 7 ▪
-_ 14/09 _
+_ 14/9 _
 Kapfenberg         0-1  ASK Klagenfurt
 Schwanenstadt      0-0  Spittal
 Voitsberg          4-2  St.Florian
 Eintracht Wels     0-2  Blau-Weiß Linz
-_ 15/09 _
+_ 15/9 _
 Bleiburg           0-0  Gratkorn
 Donau Linz         1-1  Wolfsberg
 St.Veit            0-1  Köflach
 Zeltweg            2-4  Hartberg
 
 ▪ Round 8 ▪
-_ 21/09 _
+_ 21/9 _
 Gratkorn           1-1  St.Veit
 Köflach            0-0  Eintracht Wels
 St.Florian         2-6  Schwanenstadt
 Spittal            3-2  Kapfenberg
 Wolfsberg          0-0  Blau-Weiß Linz
-_ 22/09 _
+_ 22/9 _
 Hartberg           2-0  Bleiburg
 Donau Linz         0-1  Voitsberg
-_ 23/09 _
+_ 23/9 _
 ASK Klagenfurt     1-1  Zeltweg
 
 ▪ Round 9 ▪
-_ 28/09 _
+_ 28/9 _
 Blau-Weiß Linz     2-2  Köflach
 Kapfenberg         3-0  St.Florian
 Schwanenstadt      2-2  Donau Linz
 Voitsberg          3-2  Wolfsberg
 Eintracht Wels     1-1  Gratkorn
-_ 29/09 _
+_ 29/9 _
 Bleiburg           0-3  ASK Klagenfurt
 St.Veit            2-4  Hartberg
 Zeltweg            0-2  Spittal
 
 ▪ Round 10 ▪
-_ 05/10 _
+_ 5/10 _
 Gratkorn           2-0  Blau-Weiß Linz
 Hartberg           0-1  Eintracht Wels
 Spittal            0-0  Bleiburg
-_ 06/10 _
+_ 6/10 _
 Donau Linz         1-3  Kapfenberg
 St.Florian         0-0  Zeltweg
 Voitsberg          2-2  Schwanenstadt
 Wolfsberg          0-1  Köflach
-_ 07/10 _
+_ 7/10 _
 ASK Klagenfurt     1-0  St.Veit
 
 ▪ Round 11 ▪
@@ -1722,19 +1722,19 @@ St.Veit            2-0  Donau Linz
 ▪ Round 14 ▪
 _ 31/10 _
 Kapfenberg         3-0  Zeltweg
-_ 02/11 _
+_ 2/11 _
 Voitsberg          1-0  St.Veit
-_ 03/11 _
+_ 3/11 _
 Donau Linz         2-2  Eintracht Wels
 St.Florian         1-2  Blau-Weiß Linz
 Schwanenstadt      0-1  Bleiburg
 Spittal            1-1  Köflach
 Wolfsberg          0-1  Hartberg
-_ 04/11 _
+_ 4/11 _
 ASK Klagenfurt     1-4  Gratkorn
 
 ▪ Round 15 ▪
-_ 09/11 _
+_ 9/11 _
 Gratkorn           3-1  Spittal
 _ 10/11 _
 Bleiburg           0-1  Kapfenberg
@@ -1747,20 +1747,20 @@ _ 11/11 _
 Köflach            0-2  St.Florian
 
 ▪ Round 16 ▪
-_ 08/03 _
+_ 8/3 _
 Gratkorn           2-0  St.Florian
 Köflach            0-0  Donau Linz
-_ 09/03 _
+_ 9/3 _
 Wolfsberg          3-0  ASK Klagenfurt
 St.Veit            2-3  Kapfenberg
 Blau-Weiß Linz     0-2  Voitsberg
 Hartberg           2-0  Spittal
 Eintracht Wels     1-1  Schwanenstadt
-_ 10/03 _
+_ 10/3 _
 Bleiburg           0-1  Zeltweg
 
 ▪ Round 17 ▪
-_ 17/03 _
+_ 17/3 _
 Bleiberg           0-0  Wolfsberg
 Donau Linz         0-2  Gratkorn
 Kapfenberg         5-0  Eintracht Wels
@@ -1771,7 +1771,7 @@ Voitsberg          2-2  Köflach
 Zeltweg            1-0  St.Veit
 
 ▪ Round 18 ▪
-_ 24/03 _
+_ 24/3 _
 Gratkorn           2-1  Voitsberg
 Hartberg           2-1  Donau Linz
 Blau-Weiß Linz     3-3  Kapfenberg
@@ -1782,73 +1782,73 @@ Eintracht Wels     1-1  Zeltweg
 Wolfsberg          0-1  Spittal
 
 ▪ Round 19 ▪
-_ 28/03 _
+_ 28/3 _
 Kapfenberg         5-1  Köflach
 Donau Linz         2-0  ASK Klagenfurt
 St.Veit            0-0  Wolfsberg
-_ 30/03 _
+_ 30/3 _
 St.Florian         1-1  Spittal
 Schwanenstadt      3-1  Gratkorn
-_ 31/03 _
+_ 31/3 _
 Bleiburg           3-0  Eintracht Wels
 Voitsberg          2-2  Hartberg
-_ 01/04 _
+_ 1/4 _
 Zeltweg            2-0  Blau-Weiß Linz
 
 ▪ Round 20 ▪
-_ 05/04 _
+_ 5/4 _
 Gratkorn           0-2  Kapfenberg
 Hartberg           4-0  Schwanenstadt
 Köflach            3-1  Zeltweg
 Blau-Weiß Linz     1-0  Bleiburg
 Spittal            3-0  Donau Linz
 Eintracht Wels     1-1  St.Veit
-_ 06/04 _
+_ 6/4 _
 Wolfsberg          3-2  St.Florian
-_ 07/04 _
+_ 7/4 _
 ASK Klagenfurt     3-1  Voitsberg
 
 ▪ Round 21 ▪
-_ 12/04 _
+_ 12/4 _
 Kapfenberg         1-0  Hartberg
 Donau Linz         1-3  St.Florian
 Schwanenstadt      1-0  ASK Klagenfurt
 Voitsberg          1-1  Spittal
 Eintracht Wels     2-0  Wolfsberg
-_ 13/04 _
+_ 13/4 _
 Zeltweg            1-1  Gratkorn
-_ 14/04 _
+_ 14/4 _
 Bleiburg           1-1  Köflach
 St.Veit            0-2  Blau-Weiß Linz
 
 ▪ Round 22 ▪
-_ 19/04 _
+_ 19/4 _
 Hartberg           3-0  Zeltweg
 Köflach            1-0  St.Veit
 Blau-Weiß Linz     4-2  Eintracht Wels
 Spittal            2-1  Schwanenstadt
-_ 20/04 _
+_ 20/4 _
 St.Florian         4-2  Voitsberg
-_ 21/04 _
+_ 21/4 _
 ASK Klagenfurt     1-2  Kapfenberg
-_ 23/04 _
+_ 23/4 _
 Gratkorn           3-1  Bleiburg
 Wolfsberg          2-0  Donau Linz
 
 ▪ Round 23 ▪
-_ 26/04 _
+_ 26/4 _
 Kapfenberg         1-0  Spittal
 Blau-Weiß Linz     2-0  Wolfsberg
 St.Veit            1-2  Gratkorn
 Schwanenstadt      2-2  St.Florian
 Voitsberg          5-1  Donau Linz
 Eintracht Wels     1-1  Köflach
-_ 27/04 _
+_ 27/4 _
 Bleiburg           0-0  Hartberg
 Zeltweg            3-2  ASK Klagenfurt
 
 ▪ Round 24 ▪
-_ 30/04 _
+_ 30/4 _
 Gratkorn           1-0  Eintracht Wels
 Hartberg           2-0  St.Veit
 ASK Klagenfurt     3-3  Bleiburg
@@ -1859,20 +1859,20 @@ Spittal            1-1  Zeltweg
 Wolfsberg          1-1  Voitsberg
 
 ▪ Round 25 ▪
-_ 03/05 _
+_ 3/5 _
 Kapfenberg         6-1  Donau Linz
 Köflach            2-0  Wolfsberg
 St.Veit            0-3  ASK Klagenfurt
 Schwanenstadt      2-1  Voitsberg
 Eintracht Wels     2-2  Hartberg
-_ 04/05 _
+_ 4/5 _
 Blau-Weiß Linz     0-0  Gratkorn
 Zeltweg            2-2  St.Florian
-_ 05/05 _
+_ 5/5 _
 Bleiburg           1-0  Spittal
 
 ▪ Round 26 ▪
-_ 08/05 _
+_ 8/5 _
 Gratkorn           2-0  Köflach
 Hartberg           1-2  Blau-Weiß Linz
 ASK Klagenfurt     1-0  Eintracht Wels
@@ -1883,9 +1883,9 @@ Voitsberg          1-0  Kapfenberg
 Wolfsberg          1-2  Schwanenstadt
 
 ▪ Round 27 ▪
-_ 10/05 _
+_ 10/5 _
 St.Veit            1-2  St.Florian
-_ 11/05 _
+_ 11/5 _
 Bleiburg           2-1  Donau Linz
 Gratkorn           2-1  Wolfsberg
 Kapfenberg         3-0  Schwanenstadt
@@ -1895,20 +1895,20 @@ Eintracht Wels     1-1  Spittal
 Zeltweg            1-0  Voitsberg
 
 ▪ Round 28 ▪
-_ 17/05 _
+_ 17/5 _
 Hartberg           2-1  Gratkorn
 St.Florian         0-2  Eintracht Wels
 Schwanenstadt      1-1  Zeltweg
 Spittal            3-1  Blau-Weiß Linz
 Voitsberg          1-0  Bleiburg
-_ 18/05 _
+_ 18/5 _
 ASK Klagenfurt     3-1  Köflach
 Donau Linz         1-3  St.Veit
-_ 20/05 _
+_ 20/5 _
 Wolfsberg          1-2  Kapfenberg
 
 ▪ Round 29 ▪
-_ 24/05 _
+_ 24/5 _
 Bleiburg           2-1  Schwanenstadt
 Gratkorn           1-1  ASK Klagenfurt
 Hartberg           3-1  Wolfsberg
@@ -1919,7 +1919,7 @@ Eintracht Wels     4-1  Donau Linz
 Zeltweg            2-4  Kapfenberg
 
 ▪ Round 30 ▪
-_ 31/05 _
+_ 31/5 _
 Kapfenberg         6-0  Bleiburg
 ASK Klagenfurt     0-4  Hartberg
 Donau Linz         1-4  Blau-Weiß Linz
@@ -1939,50 +1939,50 @@ Promoted: Union Perg, Sturm Graz Amat., SAK Klagenfurt
 REGIONALLIGA WEST
 
 ▪ Round 1 ▪
-_ 27/07 _
+_ 27/7 _
 Hall               2-1  Puch
 Hohenems           2-1  Altach
 Kundl              4-0  Reichenau
 PSV SW Salzburg    2-3  Wattens
-_ 28/07 _
+_ 28/7 _
 Viktoria Bregenz   1-3  Kufstein
 Nenzing            1-0  SAK
 Salzburg Amat.     4-5  Hard
 Schwarzach         1-2  Feldkirch
 
 ▪ Round 2 ▪
-_ 03/08 _
+_ 3/8 _
 Kufstein           1-0  Hall
-_ 04/08 _
+_ 4/8 _
 Feldkirch          1-0  Viktoria Bregenz
 Hard               5-2  Altach
 Hohenems           4-0  Kundl
 Puch               0-5  Salzburg Amat.
-_ 05/08 _
+_ 5/8 _
 Reichenau          2-0  Nenzing
 PSV SW Salzburg    4-1  Schwarzach
 Wattens            1-0  SAK
 
 ▪ Round 3 ▪
-_ 10/08 _
+_ 10/8 _
 Schwarzach         ppd  Wattens
-_ 11/08 _
+_ 11/8 _
 Altach             2-1  Puch
 Viktoria Bregenz   1-3  PSV SW Salzburg
 Hall               2-0  Feldkirch
 Kundl              0-2  Hard
 SAK                3-0  Reichenau
 Salzburg Amat.     1-1  Kufstein
-_ 12/08 _
+_ 12/8 _
 Nenzing            3-0  Hohenems
-_ 28/08 _
+_ 28/8 _
 Schwarzach         1-4  Wattens
 
 ▪ Round 4 ▪
-_ 14/08 _
+_ 14/8 _
 Puch               4-1  Kundl
 Feldkirch          3-2  Salzburg Amat.
-_ 15/08 _
+_ 15/8 _
 Hard               1-0  Nenzing
 Hohenems           1-1  SAK
 Kufstein           2-1  Altach
@@ -1991,104 +1991,104 @@ Schwarzach         0-2  Viktoria Bregenz
 Wattens            2-1  Reichenau
 
 ▪ Round 5 ▪
-_ 17/08 _
+_ 17/8 _
 Kundl              0-2  Kufstein
-_ 18/08 _
+_ 18/8 _
 Viktoria Bregenz   2-1  Wattens
 Hall               2-0  Schwarzach
 Nenzing            1-3  Puch
 SAK                2-3  Hard
 Salzburg Amat.     4-2  PSV SW Salzburg
-_ 19/08 _
+_ 19/8 _
 Altach             1-0  Feldkirch
 Reichenau          0-2  Hohenems
 
 ▪ Round 6 ▪
-_ 24/08 _
+_ 24/8 _
 Feldkirch          1-1  Kundl
 Kufstein           0-0  Nenzing
 Puch               3-2  SAK
 PSV SW Salzburg    1-4  Altach
 Schwarzach         1-5  Salzburg Amat.
 Wattens            4-0  Hohenems
-_ 25/08 _
+_ 25/8 _
 Viktoria Bregenz   0-0  Hall
 Hard               2-0  Reichenau
 
 ▪ Round 7 ▪
-_ 31/08 _
+_ 31/8 _
 Hall               1-4  Wattens
 Hohenems           1-2  Hard
 Kundl              5-1  PSV SW Salzburg
-_ 01/09 _
+_ 1/9 _
 Altach             2-0  Schwarzach
 SAK                1-4  Kufstein
 Salzburg Amat.     9-1  Viktoria Bregenz
-_ 02/09 _
+_ 2/9 _
 Nenzing            1-1  Feldkirch
 Reichenau          2-4  Puch
 
 ▪ Round 8 ▪
-_ 07/09 _
+_ 7/9 _
 Hall               2-1  Salzburg Amat.
 Kufstein           4-1  Reichenau
 Wattens            1-2  Hard
-_ 08/09 _
+_ 8/9 _
 Feldkirch          1-0  SAK
 Puch               ppd  Hohenems
 PSV SW Salzburg    5-1  Nenzing
 Schwarzach         4-2  Kundl
-_ 09/09 _
+_ 9/9 _
 Viktoria Bregenz   0-3  Altach
-_ 12/09 _
+_ 12/9 _
 Puch               2-0  Hohenems
 
 ▪ Round 9 ▪
-_ 14/09 _
+_ 14/9 _
 SAK                ppd  PSV SW Salzburg
-_ 15/09 _
+_ 15/9 _
 Altach             1-0  Hall
 Hard               4-0  Puch
 Hohenems           4-1  Kufstein
 Kundl              2-2  Viktoria Bregenz
 Nenzing            0-0  Schwarzach
 Salzburg Amat.     1-2  Wattens
-_ 16/09 _
+_ 16/9 _
 Reichenau          1-0  Feldkirch
-_ 18/09 _
+_ 18/9 _
 SAK                2-2  PSV SW Salzburg
 
 ▪ Round 10 ▪
-_ 21/09 _
+_ 21/9 _
 Hall               4-2  Kundl
 Schwarzach         0-0  SAK
 Wattens            1-1  Puch
-_ 22/09 _
+_ 22/9 _
 Kufstein           2-1  Hard
 Salzburg Amat.     1-1  Altach
-_ 23/09 _
+_ 23/9 _
 Viktoria Bregenz   2-2  Nenzing
 Feldkirch          1-1  Hohenems
 PSV SW Salzburg    2-3  Reichenau
 
 ▪ Round 11 ▪
-_ 28/09 _
+_ 28/9 _
 Kundl              1-4  Salzburg Amat.
 Puch               2-2  Kufstein
-_ 29/09 _
+_ 29/9 _
 Altach             2-1  Wattens
 Hard               1-0  Feldkirch
 Hohenems           3-2  PSV SW Salzburg
 SAK                2-2  Viktoria Bregenz
-_ 30/09 _
+_ 30/9 _
 Nenzing            1-3  Hall
 Reichenau          4-1  Schwarzach
 
 ▪ Round 12 ▪
-_ 05/10 _
+_ 5/10 _
 Hall               4-2  SAK
 Wattens            2-0  Kufstein
-_ 06/10 _
+_ 6/10 _
 Altach             1-3  Kundl
 Feldkirch          2-0  Puch
 PSV SW Salzburg    0-0  Hard
@@ -2136,20 +2136,20 @@ Nenzing            0-2  Wattens
 Reichenau          1-3  Altach
 
 ▪ Round 16 ▪
-_ 02/11 _
+_ 2/11 _
 Wattens            4-0  PSV SW Salzburg
-_ 03/11 _
+_ 3/11 _
 Altach             1-1  Hohenems
 Feldkirch          1-1  Schwarzach
 Hard               3-0  Salzburg Amat.
 Kufstein           2-1  Viktoria Bregenz
 Puch               2-2  Hall
 SAK                1-1  Nenzing
-_ 04/11 _
+_ 4/11 _
 Reichenau          2-0  Kundl
 
 ▪ Round 17 ▪
-_ 09/11 _
+_ 9/11 _
 Hall               1-1  Kufstein
 _ 10/11 _
 Altach             2-2  Hard
@@ -2159,21 +2159,21 @@ SAK                0-0  Wattens
 _ 11/11 _
 Viktoria Bregenz   1-1  Feldkirch
 Nenzing            1-0  Reichenau
-_ 17/04 _
+_ 17/4 _
 Schwarzach         1-0  PSV SW Salzburg
 
 ▪ Round 18 ▪
-_ 23/03 _
+_ 23/3 _
 Feldkirch          2-1  Hall
 Kufstein           ppd  Salzburg Amat.
 Puch               ppd  Altach
 PSV SW Salzburg    ppd  Viktoria Bregenz
 Wattens            ppd  Schwarzach
-_ 24/03 _
+_ 24/3 _
 Hard               0-0  Kundl
 Hohenems           2-2  Nenzing
 Reichenau          ppd  SAK
-_ 01/04 _
+_ 1/4 _
 Kufstein           1-1  Salzburg Amat.
 Puch               2-1  Altach
 Reichenau          1-3  SAK
@@ -2181,9 +2181,9 @@ PSV SW Salzburg    4-1  Viktoria Bregenz
 Wattens            6-0  Schwarzach
 
 ▪ Round 19 ▪
-_ 27/03 _
+_ 27/3 _
 Hall               3-0  PSV SW Salzburg
-_ 30/03 _
+_ 30/3 _
 Altach             1-0  Kufstein
 Viktoria Bregenz   0-2  Schwarzach
 Kundl              1-4  Puch
@@ -2193,61 +2193,61 @@ Salzburg Amat.     2-3  Feldkirch
 SAK                0-1  Hohenems
 
 ▪ Round 20 ▪
-_ 06/04 _
+_ 6/4 _
 Feldkirch          0-0  Altach
 Hard               1-1  SAK
 Hohenems           2-1  Reichenau
 Kufstein           0-1  Kundl
 Puch               0-0  Nenzing
 Schwarzach         1-0  Hall
-_ 07/04 _
+_ 7/4 _
 PSV SW Salzburg    2-1  Salzburg Amat.
 Wattens            1-1  Viktoria Bregenz
 
 ▪ Round 21 ▪
-_ 12/04 _
+_ 12/4 _
 Hohenems           1-1  Wattens
-_ 13/04 _
+_ 13/4 _
 Altach             1-1  PSV SW Salzburg
 Hall               3-3  Viktoria Bregenz
 Kundl              2-0  Feldkirch
 Reichenau          1-2  Hard
 Salzburg Amat.     2-0  Schwarzach
 Wattens            1-1  Viktoria Bregenz
-_ 14/04 _
+_ 14/4 _
 Nenzing            0-2  Kufstein
 SAK                2-0  Puch
 
 ▪ Round 22 ▪
-_ 19/04 _
+_ 19/4 _
 Puch               3-2  Reichenau
 Wattens            1-2  Hall
-_ 20/04 _
+_ 20/4 _
 Viktoria Bregenz   0-2  Salzburg Amat.
 Feldkirch          2-2  Nenzing
 Hard               3-1  Hohenems
 Kufstein           2-1  SAK
 Schwarzach         0-5  Altach
-_ 21/04 _
+_ 21/4 _
 PSV SW Salzburg    1-2  Kundl
 
 ▪ Round 23 ▪
-_ 27/04 _
+_ 27/4 _
 Altach             4-0  Viktoria Bregenz
 Hohenems           0-0  Puch
 Kundl              2-2  Schwarzach
 Nenzing            0-0  PSV SW Salzburg
 Salzburg Amat.     7-0  Hall
 SAK                1-2  Feldkirch
-_ 28/04 _
+_ 28/4 _
 Hard               2-4  Wattens
 Reichenau          1-3  Kufstein
 
 ▪ Round 24 ▪
-_ 30/04 _
+_ 30/4 _
 Hall               0-4  Altach
 Kufstein           4-1  Hohenems
-_ 01/05 _
+_ 1/5 _
 Viktoria Bregenz   1-1  Kundl
 Feldkirch          7-1  Reichenau
 Puch               6-1  Hard
@@ -2256,23 +2256,23 @@ Schwarzach         3-1  Nenzing
 Wattens            2-0  Salzburg Amat.
 
 ▪ Round 25 ▪
-_ 04/05 _
+_ 4/5 _
 Altach             1-3  Salzburg Amat.
 Hard               1-1  Kufstein
 Kundl              0-0  Hall
 Puch               6-2  Wattens
 Reichenau          1-5  PSV SW Salzburg
-_ 05/05 _
+_ 5/5 _
 Hohenems           1-2  Feldkirch
 Nenzing            2-5  Viktoria Bregenz
 SAK                6-1  Schwarzach
 
 ▪ Round 26 ▪
-_ 08/05 _
+_ 8/5 _
 Hall               3-1  Nenzing
 Kufstein           0-0  Puch
 Wattens            2-0  Altach
-_ 09/05 _
+_ 9/5 _
 Viktoria Bregenz   1-3  SAK
 Feldkirch          0-3  Hard
 PSV SW Salzburg    0-2  Hohenems
@@ -2280,32 +2280,32 @@ Salzburg Amat.     3-3  Kundl
 Schwarzach         3-1  Reichenau
 
 ▪ Round 27 ▪
-_ 11/05 _
+_ 11/5 _
 Hard               3-1  PSV SW Salzburg
 Hohenems           5-2  Schwarzach
 Kufstein           0-1  Wattens
 Nenzing            0-6  Salzburg Amat.
 Puch               5-2  Feldkirch
-_ 12/05 _
+_ 12/5 _
 Kundl              1-3  Altach
 Reichenau          5-2  Viktoria Bregenz
 SAK                2-1  Hall
 
 ▪ Round 28 ▪
-_ 16/05 _
+_ 16/5 _
 Salzburg Amat.     1-2  SAK
-_ 17/05 _
+_ 17/5 _
 Altach             4-1  Nenzing
 Viktoria Bregenz   1-1  Hohenems
 Hall               1-5  Reichenau
 PSV SW Salzburg    1-3  Puch
 Wattens            5-0  Kundl
-_ 18/05 _
+_ 18/5 _
 Feldkirch          0-1  Kufstein
 Schwarzach         1-5  Hard
 
 ▪ Round 29 ▪
-_ 25/05 _
+_ 25/5 _
 Feldkirch          0-2  Wattens
 Hard               5-1  Viktoria Bregenz
 Hohenems           1-1  Hall
@@ -2316,7 +2316,7 @@ Reichenau          4-2  Salzburg Amat.
 SAK                1-1  Altach
 
 ▪ Round 30 ▪
-_ 01/06 _
+_ 1/6 _
 Altach             1-1  Reichenau
 Viktoria Bregenz   0-2  Puch
 Hall               0-2  Hard
@@ -2338,12 +2338,12 @@ Name changes: WSG Wattens changes to SPG Wattens/Wacker Tirol
 PROMOTION/RELEGATION-PLAYOFF
 
 ▪ First Leg ▪
-_ 05/06 _
+_ 5/6 _
 Hard               2-0  Kapfenberg
 Wiener Sportclub   0-0  FC Lustenau
 
 ▪ Second Leg ▪
-_ 08/06 _
+_ 8/6 _
 Kapfenberg         5-1  Hard
 FC Lustenau        4-0  Wiener Sportclub
 
@@ -2358,52 +2358,52 @@ NB: only Tirol.
 TIROLER LIGA 2001/02  ‹§tirol›
 
 ▪ Round 1 ▪
-_ 27/07 _
+_ 27/7 _
 Schwaz             0-0  Kitzbühel
-_ 28/07 _
+_ 28/7 _
 Axams              2-1  Fügen/Uderns
 SV Innsbruck       2-0  Tirol/ISK Amat.
 Neustift           0-2  Götzens
 St.Johann          2-4  Rum
 Stams              1-1  Jenbach/Achensee
-_ 29/07 _
+_ 29/7 _
 Steinach           1-1  Telfs
 Wörgl Amateure     7-1  Kirchbichl
 
 ▪ Round 2 ▪
-_ 03/08 _
+_ 3/8 _
 Kitzbühel          3-1  Tirol/ISK Amat.
 SV Innsbruck       1-0  Wörgl Amateure
 Rum                2-0  Axams
 Telfs              1-3  Jenbach/Achensee
-_ 04/08 _
+_ 4/8 _
 Fügen/Uderns       0-1  Stams
 Götzens            1-2  Schwaz
 Kirchbichl         0-1  St.Johann
-_ 05/08 _
+_ 5/8 _
 Steinach           3-3  Neustift
 
 ▪ Round 3 ▪
-_ 10/08 _
+_ 10/8 _
 Axams              ppd  Kirchbichl
 Jenbach/Achensee   1-3  Fügen/Uderns
 Tirol/ISK Amat.    ppd  Götzens
-_ 11/08 _
+_ 11/8 _
 Neustift           4-1  Telfs
 St.Johann          2-2  SV Innsbruck
 Stams              2-6  Rum
 Wörgl Amateure     1-5  Kitzbühel
-_ 12/08 _
+_ 12/8 _
 Schwaz             2-2  Steinach
 Tirol/ISK Amat.    4-1  Götzens
-_ 04/09 _
+_ 4/9 _
 Axams              2-2  Kirchbichl
 
 ▪ Round 4 ▪
-_ 14/08 _
+_ 14/8 _
 Kitzbühel          1-2  St.Johann
 Rum                5-1  Jenbach/Achensee
-_ 15/08 _
+_ 15/8 _
 Götzens            0-1  Wörgl Amateure
 SV Innsbruck       2-3  Axams
 Kirchbichl         3-3  Stams
@@ -2412,51 +2412,51 @@ Steinach           1-4  Tirol/ISK Amat.
 Telfs              1-0  Fügen/Uderns
 
 ▪ Round 5 ▪
-_ 18/08 _
+_ 18/8 _
 Axams              4-0  Kitzbühel
 Fügen/Uderns       0-2  Rum
 Jenbach/Achensee   5-3  Kirchbichl
 St.Johann          2-0  Götzens
 Wörgl Amateure     2-3  Steinach
-_ 19/08 _
+_ 19/8 _
 Schwaz             1-1  Telfs
 Stams              2-0  SV Innsbruck
 Tirol/ISK Amat.   10-0  Neustift
 
 ▪ Round 6 ▪
-_ 24/08 _
+_ 24/8 _
 SV Innsbruck       2-2  Jenbach/Achensee
 Kirchbichl         1-2  Fügen/Uderns
 Telfs              1-5  Rum
-_ 25/08 _
+_ 25/8 _
 Götzens            1-2  Axams
 Kitzbühel          1-1  Stams
 Neustift           1-2  Wörgl Amateure
 Steinach           2-6  St.Johann
-_ 26/08 _
+_ 26/8 _
 Schwaz             2-0  Tirol/ISK Amat.
 
 
 ▪ Round 7 ▪
-_ 29/08 _
+_ 29/8 _
 Fügen/Uderns       3-2  SV Innsbruck
-_ 31/08 _
+_ 31/8 _
 Jenbach/Achensee   1-1  Kitzbühel
 Rum                3-2  Kirchbichl
 Wörgl Amateure     3-0  Schwaz
-_ 01/09 _
+_ 1/9 _
 Axams              8-0  Steinach
-_ 02/09 _
+_ 2/9 _
 Stams              3-0  Götzens
 St.Johann          4-0  Neustift
 Tirol/ISK Amat.    2-2  Telfs
 
 ▪ Round 8 ▪
-_ 07/09 _
+_ 7/9 _
 SV Innsbruck       0-4  Rum
 Telfs              2-1  Kirchbichl
 Tirol/ISK Amat.    3-1  Wörgl Amateure
-_ 08/09 _
+_ 8/9 _
 Götzens            2-3  Jenbach/Achensee
 Kitzbühel          2-0  Fügen/Uderns
 Neustift           0-5  Axams
@@ -2464,61 +2464,61 @@ Schwaz             1-3  St.Johann
 Steinach           2-0  Stams
 
 ▪ Round 9 ▪
-_ 14/09 _
+_ 14/9 _
 Fügen/Uderns       ppd  Götzens
 Rum                ppd  Kitzbühel
-_ 15/09 _
+_ 15/9 _
 Kirchbichl         5-0  SV Innsbruck
 St.Johann          2-2  Tirol/ISK Amat.
 Stams              1-0  Neustift
-_ 16/09 _
+_ 16/9 _
 Axams              ppd  Schwaz
 Jenbach/Achensee   1-1  Steinach
 Wörgl Amateure     2-3  Telfs
-_ 19/09 _
+_ 19/9 _
 Fügen/Uderns       2-1  Götzens
-_ 26/09 _
+_ 26/9 _
 Axams              ppd  Schwaz
-_ 02/10 _
+_ 2/10 _
 Rum                4-0  Kitzbühel
-_ 03/10 _
+_ 3/10 _
 Axams              2-2  Schwaz
 
 ▪ Round 10 ▪
-_ 21/09 _
+_ 21/9 _
 Tirol/ISK Amat.    1-0  Axams
-_ 22/09 _
+_ 22/9 _
 Götzens            2-5  Rum
 Kitzbühel          5-0  Kirchbichl
 Neustift           3-1  Jenbach/Achensee
-_ 23/09 _
+_ 23/9 _
 Schwaz             1-5  Stams
 Steinach           0-3  Fügen/Uderns
 Telfs              1-1  SV Innsbruck
 Wörgl Amateure     5-0  St.Johann
 
 Runde 11
-_ 28/09 _
+_ 28/9 _
 Fügen/Uderns       3-1  Neustift
 SV Innsbruck       2-1  Kitzbühel
 Rum                4-2  Steinach
-_ 29/09 _
+_ 29/9 _
 Kirchbichl         6-1  Götzens
 St.Johann          5-2  Telfs
-_ 30/09 _
+_ 30/9 _
 Axams              1-3  Wörgl Amat.
 Jenbach/Achensee   1-1  Schwaz
 Stams              2-2  Tirol/ISK Amat.
 
 ▪ Round 12 ▪
-_ 05/10 _
+_ 5/10 _
 Wörgl Amat.        1-0  Stams
-_ 06/10 _
+_ 6/10 _
 Götzens            2-2  SV Innsbruck
 Kirchbichl         5-1  Steinach
 Neustift           1-4  Rum
 St.Johann          0-3  Axams
-_ 07/10 _
+_ 7/10 _
 Schwaz             1-1  Fügen/Uderns
 Telfs              2-1  Kitzbühel
 Tirol/ISK Amat.    0-0  Jenbach/Achensee
@@ -2561,7 +2561,7 @@ _ 28/10 _
 Stams              1-4  Telfs
 
 ▪ Round 16 ▪
-_ 03/11 _
+_ 3/11 _
 Fügen/Uderns       3-3  Axams
 Götzens            2-0  Neustift
 Tirol/ISK Amat.    4-2  SV Innsbruck
@@ -2569,11 +2569,11 @@ Jenbach/Achensee   3-2  Stams
 Kirchbichl         0-6  Wörgl Amat.
 Kitzbühel          2-0  Schwaz
 Rum                0-0  St.Johann
-_ 04/11 _
+_ 4/11 _
 Telfs              7-2 Steinach
 
 ▪ Round 17 ▪
-_ 09/11 _
+_ 9/11 _
 Jenbach/Achensee   1-1  Telfs
 St.Johann          3-2  Kirchbichl
 Schwaz             0-0  Götzens
@@ -2583,13 +2583,13 @@ Neustift           ppd  Steinach
 Stams              ppd  Fügen/Uderns
 Tirol/ISK Amat.    2-0  Kitzbühel
 Wörgl Amat.        5-0  SV Innsbruck
-_ 01/04 _
+_ 1/4 _
 Stams              1-0  Fügen/Uderns
-_ 16/04 _
+_ 16/4 _
 Neustift           0-2  Steinach
 
 ▪ Round 18 ▪
-_ 30/03 _
+_ 30/3 _
 Fügen/Uderns       3-0  Jenbach/Achensee
 Götzens            0-4  Tirol/ISK Amat.
 SV Innsbruck       0-0  St.Johann
@@ -2597,127 +2597,127 @@ Kirchbichl         1-0  Axams
 Kitzbühel          0-3  Wörgl Amat.
 Rum                1-1  Stams
 Telfs              1-1  Neustift
-_ 01/05 _
+_ 1/5 _
 Steinach           3-1  Schwaz
 
 ▪ Round 19 ▪
-_ 05/04 _
+_ 5/4 _
 Jenbach/Achensee   1-2  Rum
-_ 06/04 _
+_ 6/4 _
 Axams              3-2  SV Innsbruck
 Fügen/Uderns       0-0  Telfs
 St.Johann          1-1  Kitzbühel
 Tirol/ISK Amat.    0-0  Steinach
-_ 07/04 _
+_ 7/4 _
 Schwaz             1-3  Neustift
 Stams              1-1  Kirchbichl
 Wörgl Amat.        5-0  Götzens
 
 ▪ Round 20 ▪
-_ 12/04 _
+_ 12/4 _
 Rum                4-2  Fügen/Uderns
 SV Innsbruck       1-3  Stams
-_ 13/04 _
+_ 13/4 _
 Götzens            0-1  St.Johann
 Kirchbichl         2-0  Jenbach/Achensee
 Kitzbühel          1-2  Axams
 Neustift           2-5  Tirol/ISK Amat.
-_ 14/04 _
+_ 14/4 _
 Steinach           0-0  Wörgl Amat.
 Telfs              2-2  Schwaz
 
 ▪ Round 21 ▪
-_ 19/04 _
+_ 19/4 _
 Fügen/Uderns       1-0  Kirchbichl
 Jenbach/Achensee   2-4  SV Innsbruck
 Rum                4-2  Telfs
-_ 20/04 _
+_ 20/4 _
 Axams              6-2  Götzens
 St.Johann          3-0  Steinach
 Tirol/ISK Amat.    4-0  Schwaz
 Wörgl Amat.        5-1  Neustift
-_ 21/04 _
+_ 21/4 _
 Stams              1-2  Kitzbühel
 
 ▪ Round 22 ▪
-_ 26/04 _
+_ 26/4 _
 SV Innsbruck       3-0  Fügen/Uderns
-_ 27/04 _
+_ 27/4 _
 Götzens            0-5  Stams
 Kirchbichl         0-0  Rum
 Kitzbühel          1-1  Jenbach/Achensee
 Neustift           2-5  St.Johann
-_ 28/04 _
+_ 28/4 _
 Schwaz             0-1  Wörgl Amat.
 Steinach           0-5  Axams
 Telfs              1-7  Tirol/ISK Amat.
 
 ▪ Round 23 ▪
-_ 03/05 _
+_ 3/5 _
 Jenbach/Achensee   1-3  Götzens
 Rum                4-1  SV Innsbruck
-_ 04/05 _
+_ 4/5 _
 Fügen/Uderns       4-1  Kitzbühel
 Kirchbichl         2-1  Telfs
 St.Johann          2-2  Schwaz
 Stams              4-0  Steinach
-_ 05/05 _
+_ 5/5 _
 Axams              2-1  Neustift
 Wörgl Amat.        2-0  Tirol/ISK Amat.
 
 ▪ Round 24 ▪
-_ 08/05 _
+_ 8/5 _
 Götzens            0-2  Fügen/Uderns
 SV Innsbruck       2-1  Kirchbichl
 Telfs              5-2  Wörgl Amat.
 Tirol/ISK Amat.    4-2  St.Johann
-_ 09/05 _
+_ 9/5 _
 Kitzbühel          0-2  Rum
 Neustift           2-0  Stams
 Schwaz             1-2  Axams
 Steinach           0-1  Jenbach/Achensee
 
 ▪ Round 25 ▪
-_ 10/05 _
+_ 10/5 _
 Jenbach/Achensee   7-2  Neustift
-_ 11/05 _
+_ 11/5 _
 Fügen/Uderns       6-0  Steinach
 SV Innsbruck       3-1  Telfs
 Kirchbichl         0-3  Kitzbühel
 Rum               11-0  Götzens
 St.Johann          1-1  Wörgl Amat.
-_ 12/05 _
+_ 12/5 _
 Axams              2-1  Tirol/ISK Amat.
 Stams              0-3  Schwaz
 
 ▪ Round 26 ▪
-_ 25/05 _
+_ 25/5 _
 Götzens            1-0  Kirchbichl
 Kitzbühel          3-2  SV Innsbruck
 Neustift           2-4  Fügen/Uderns
 Tirol/ISK Amat.    5-4  Stams
 Steinach           1-1  Rum
-_ 26/05 _
+_ 26/5 _
 Schwaz             1-1  Jenbach/Achensee
 Telfs              2-3  St.Johann
 Wörgl Amat.        2-1  Axams
 
 ▪ Round 27 ▪
-_ 30/05 _
+_ 30/5 _
 Stams              1-1  Wörgl Amat.
-_ 31/05 _
+_ 31/5 _
 Fügen/Uderns       0-2  Schwaz
 Jenbach/Achensee   3-5  Tirol/ISK Amat.
 Rum                3-0  Neustift
-_ 01/06 _
+_ 1/6 _
 Kitzbühel          0-5  Telfs
 Steinach           2-1  Kirchbichl
-_ 02/06 _
+_ 2/6 _
 Axams              4-2  St.Johann
 SV Innsbruck       2-1  Götzens
 
 ▪ Round 28 ▪
-_ 04/06 _
+_ 4/6 _
 Axams              0-1  Jenbach/Achensee
 Neustift           1-5  Kitzbühel
 St.Johann          3-0  Fügen/Uderns
@@ -2728,20 +2728,20 @@ Tirol/ISK Amat.    3-3  Kirchbichl
 Wörgl Amat.        2-3  Rum
 
 ▪ Round 29 ▪
-_ 07/06 _
+_ 7/6 _
 Schwaz             3-2  Rum
-_ 08/06 _
+_ 8/6 _
 Götzens            1-5  Kitzbühel
 Neustift           2-3  Kirchbichl
 St.Johann          2-1  Stams
 Tirol/ISK Amat.    2-1  Fügen/Uderns
-_ 09/06 _
+_ 9/6 _
 Steinach           3-1  SV Innsbruck
 Telfs              2-3  Axams
 Wörgl Amat.        7-0  Jenbach/Achensee
 
 ▪ Round 30 ▪
-_ 14/06 _
+_ 14/6 _
 Fügen/Uderns       5-0  Wörgl Amat.
 Götzens            0-6  Telfs
 SV Innsbruck       2-1  Neustift
@@ -2773,7 +2773,7 @@ NB: A tied score in regular time is followed immediately by penalty shoot-out; n
 
 ▪ Second Round ▪
 
-_ 21/08 _
+_ 21/8 _
 Aldrans              0-1  IAC
 Aschau im Zillertal  2-1  Schwaz
 Breitenbach          2-1  Ebbs
@@ -2802,27 +2802,27 @@ Völs                 0-2  Neustift
 Walchsee             1-2  Thiersee
 Weerberg             1-6  Zell am Ziller
 Wildschönau          1-7  Kirchbichl
-_ 28/08 _
+_ 28/8 _
 Angerberg            1-10 Kundl I
 Hatting              1-1  Hall                  (pen 3-0)
 Inzing               0-7  Axams
-_ 04/09 _
+_ 4/9 _
 Mayrhofen            1-6  Wattens I
 
 ▪ Third Round ▪
-_ 11/09 _
+_ 11/9 _
 Seefeld              1-1  Axams                 (pen 5-4)
 Stams                0-2  Wattens
-_ 12/09 _
+_ 12/9 _
 Hatting              2-5  Reichenau
-_ 25/09 _
+_ 25/9 _
 Imst                 0-3  Kufstein
 Jenbach/Achensee     2-1  Kitzbühel
 Kirchbichl           1-4  Kundl
 Oberhofen            3-4  Haiming
 Ried/Kaltenbach      1-11 IAC
 Zell am Ziller       0-7  Tirol/ISK Amat.
-_ 26/09 _
+_ 26/9 _
 Breitenbach          0-1  St.Johann
 _ 28/10 _
 Absam                2-5  Wörgl Amat.
@@ -2833,32 +2833,32 @@ Union Innsbruck-West 2-3  SV Landeck
 Thiersee             3-1  SV Innsbruck
 
 ▪ Fourth Round ▪
-_ 01/04 _
+_ 1/4 _
 SV Landeck - SK Seefeld .................... 8-0
 SC Kundl - SV Volders ...................... 6-0
 SV Thiersee - SK St.Johann ................. 0-1
 SPG Jenbach/Achensee - SV Wörgl Amateure ... 0-3
 SV Haiming - FC Tirol/ISK Amateure ......... 1-6
 SV Neustift - Innsbruck AC ................. 4-2
-_ 09/04 _
+_ 9/4 _
 WSG Wattens - SV Umhausen .................. 1-0
-_ 10/04 _
+_ 10/4 _
 SV Reichenau - FC Kufstein ................. 1-1 (pen 3-1)
 
 ▪ Quarter Finals ▪
-_ 23/04 _
+_ 23/4 _
 SV Neustift - SV Landeck ................... 0-2
 SV Wörgl Amateure - WSG Wattens ............ 0-2
 SC Kundl - FC Tirol/ISK Amateure ........... 1-3
 SV Reichenau - SK St.Johann ................ 9-0
 
 ▪ Semi Finals ▪
-_ 20/05 _
+_ 20/5 _
 SV Reichenau - SV Landeck .................. 5-3
 FC Tirol/ISK Amateure - WSG Wattens ........ 0-6
 
 ▪ FINAL ▪
-_ 30/05 _, Thaur
+_ 30/5 _, Thaur
 SV Reichenau - WSG Wattens ................. 2-1
 
 

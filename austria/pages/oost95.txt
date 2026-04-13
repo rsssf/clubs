@@ -336,10 +336,10 @@ Vorwärts    1-2 Sturm
 
 Relegation:
 
-Jun 21
+_ Jun 21 _
 Linz 0-2 Ried
 
-Jun 24
+_ Jun 24 _
 Ried 1-0 Linz
 
 Ried promoted, Linz relegated
@@ -483,7 +483,7 @@ SV Austria Salzburg     3-2     FC Tirol Innsbruck
 ▪ Round 4 ▪
 _ Apr 14 _
 TSV Hartberg            0-0     SK Vorwärts Steyr       (aet, pen 5-4)
-[Apr 15]]
+_ Apr 15 _
 Favoritner AC           1-0     SV Ried
 VSE Sankt Pölten        0-2     SV Austria Salzburg
 SV Stockerau            0-1     DSV Leoben

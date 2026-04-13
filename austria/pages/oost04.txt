@@ -674,9 +674,9 @@ Sturm Graz        1-1 Austria Wien             (aet, 4-5 pen)
 ▪ Final ▪  May 23, Stadion Wals-Siezenheim, Salzburg; att: 7,900
 Grazer AK         3-3 Austria Wien             (aet, 5-4 pen)
   (Bazina 45, Kollmann 86, Aufhauser 106; Gilewicz 28, 99, Dundee 64)
-  (penalties: Muratovic 1-0, Verlaat 1-1; Standfest 2-1, Flögel 2-2;
+  [penalties: Muratovic 1-0, Verlaat 1-1; Standfest 2-1, Flögel 2-2;
               Pogatetz 3-2, Gilewicz 3-3; Kollmann 4-3, Janocko 4-4;
-              Milinkovic 5-4, Dundee (held) 5-4)
+              Milinkovic 5-4, Dundee (held) 5-4]
   [GAK: Almer, Standfest, Tokic, Pogatetz, Majstorovic (Naumoski 73),
         Sionko (Milinkovic 117), Muratovic, Aufhauser, Amerhauser,
         Bazina (Ramusch 90), Kollmann;
@@ -963,7 +963,7 @@ BSV Juniors      2-2 Austria L
 LASK             2-3 Wörgl
   (Schwellensattl 48, Schiener 68; Schwarz 46, Rissbacher 84, Höck 88)
 Kapfenberg       0-0 Ried
-_ nov 22 _
+_ Nov 22 _
 FC Lustenau      2-0 DSV
   (Vonbrül 6, Jank 90)
 Wacker           4-0 Untersiebenbrunn
@@ -1897,7 +1897,7 @@ SV Zams                   1-1  SV Kolsass/Weer           (pen 2-4)
 SPG Brixlegg/Rattenberg   2-4  SPG Axams/Götzens
 FC Kufstein               4-0  SV Kolsass/Weer
 
-▪ Final ▪  June 10, 2004, Imst
+▪ Final ▪  Jun 10 2004, Imst
 SPG Axams/Götzens         3-3  FC Kufstein               (pen 3-0)
 
 

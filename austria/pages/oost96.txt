@@ -334,10 +334,10 @@ Promoted from the 2. Bundesliga: FC Linz.
 
 Promotion/Relegation Matches:
 
-June 8
+_ Jun 8 _
 Admira/Wacker    3-4 Gerasdorf
 
-June 12
+_ Jun 12 _
 Gerasdorf        0-6 Admira/Wacker
 
 Admira/Wacker remains in first division.
@@ -821,10 +821,10 @@ Vorwärts Steyr is relegated from the 1. Bundesliga.
 
 Promotion/Relegation Matches:
 
-June 8
+_ Jun 8 _
 Admira/Wacker    3-4 Gerasdorf
 
-June 12
+_ Jun 12 _
 Gerasdorf        0-6 Admira/Wacker
 
 Gerasdorf remains in second division.
@@ -896,8 +896,8 @@ Wolfsberger AC  1-0 1-3 0-2 0-0 3-1 2-2 2-3 xxx
  (all Steiermark), Austria Klagenfurt (Kärnten), Union SV Esternberg,
  Union Rohrbach/Berg, and Union Sankt Florian (all Oberösterreich).]
 
-(Note: LUV Graz have withdrawn from the Regionalliga Mitte for 1996/97;
- their place will be taken by SVG Bleiburg (2nd in the LL Kärnten).)
+[Note: LUV Graz have withdrawn from the Regionalliga Mitte for 1996/97;
+ their place will be taken by SVG Bleiburg (2nd in the LL Kärnten).]
 
 
 Regionalliga West
