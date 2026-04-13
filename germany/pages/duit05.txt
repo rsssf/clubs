@@ -180,7 +180,8 @@ München         0-1     Schalke
 Bochum          0-1     Rostock
   (Rade Prica 74)
 Hamburg         0-2     Bielefeld
-  (Patrick Owomoyela 57, Delron Buckley 65)
+
+  [Patrick Owomoyela 57, Delron Buckley 65]
 Berlin          3-1     Leverkusen
   (Gilberto 39, Thorben Marx 51, Marcelinho 78; Bernd Schneider 54)
 Mainz           2-1     Bremen
