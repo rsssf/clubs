@@ -10,8 +10,7 @@
 1.Division
 ----------
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Table -->
 
 [The top two levels are reformed into two groups of 12 which after
  the first part of the season are redistributed in 3 groups of 8
@@ -384,8 +383,7 @@ Sportclub    0-3 LASK
 _ Jun 8 _
 Eisenstadt    2-3 Donawitz
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Table -->
 
 [The top two levels are reformed into two groups of 12 which after
  the first part of the season are redistributed in 3 groups of 8
@@ -396,26 +394,7 @@ Eisenstadt    2-3 Donawitz
 <!-- $topscorers1$ -->
 
 
-2.Division
-
- 1.Salzburger AK             30  17  9  4  57-18   43
------------------------------------------------------
- 2.Flavia Solva Wagna        30  18  6  6  66-23   42
- 3.Kremser SC                30  18  5  7  52-31   41
- 4.SV Sankt Veit             30  10 13  7  42-35   33
- 5.Vorwärts Steyr            30  13  7 10  37-32   33
------------------------------------------------------
- 6.SV Thörl                  30  11  9 10  37-36   31  [*]
- 7.SK Kufstein               30  12  7 11  34-33   31
- 8.Bregenz/Dornbirn          30  12  7 11  33-39   31
- 9.ASK Voitsberg             30  12  6 12  53-40   30
-10.WSG Wattens               30  11  8 11  37-41   30
-11.USV Salzburg              30  11  8 11  40-48   30
-12.SV Oberwart               30  11  4 15  45-54   26
-13.1. Simmeringer SC         30   8 10 12  29-44   26  [*]
-14.Kapfenberger SV           30   9  6 15  33-45   24
-15.Badener AC                30   5  7 18  30-58   17
-16.Wolfsberger AC            30   1 10 19  27-75   12
+<!-- $table3$ - 2.Division -->
 
 [*] the match 1. Simmeringer SC - SV Thörl (last round) was not played;
     Simmering's players went on strike due to not having been paid; the

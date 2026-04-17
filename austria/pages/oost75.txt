@@ -8,8 +8,7 @@
 
 Bundesliga
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Aug 9 _
@@ -308,31 +307,13 @@ Rapid      3-3 Eisenstadt
 VÖEST      2-1 Admira/Wacker
 Innsbruck    3-2 LASK
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 <!-- $topscorers1$ -->
 
 
 
-Nationalliga
-
- 1.Grazer AK                 26  16  6  4  47-20   38
------------------------------------------------------
- 2.Wiener Sport-Club         26  14  7  5  52-26   35
- 3.First Vienna FC           26  11 10  5  49-32   32
- 4.1. Simmeringer SC         26  10  9  7  30-25   29
- 5.FC Dornbirn               26  12  4 10  42-33   28
- 6.Radenthein/Villacher SV   26  10  8  8  27-18   28
- 7.Kapfenberger SV           26  10  7  9  39-27   27
- 8.1. Wiener Neustädter SC   26  10  6 10  31-26   26
- 9.Donawitzer SV Alpine      26  10  5 11  34-39   25
-10.FC Vorarlberg             26   9  6 11  32-39   24
-11.Rapid Lienz               26   8  8 10  24-44   24
-12.Wolfsberger AC            26   7  7 12  27-42   21
-13.ASV Stockerau             26   5  7 14  21-34   17
------------------------------------------------------
-14.SK Bischofshofen          26   4  2 20  21-61   10
+<!-- $table3$ - Nationalliga -->
 
 FC Vorarlberg, a Spielgemeinschaft of Rätia Bludenz and Vorwerk
 Bregenz (a temporary name for Schwarz-Weiß Bregenz) is dissolved

@@ -12,8 +12,7 @@
 
 ==== Bundesliga  ‹§bund›
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 NB: Admira Wacker 5 points deducted for license infringements (after an earlier
     deduction of 8 points was reduced on appeal)
@@ -345,8 +344,7 @@ Wolfsberg        2-0 Salzburg
 _ May 12 _
 Wiener Neustadt  5-2 Admira Wacker
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 NB: Admira Wacker 5 points deducted for license infringements (after an earlier
     deduction of 8 points was reduced on appeal)
@@ -443,7 +441,7 @@ Wolfsberger AC              0-6 FC Red Bull Salzburg
 SV Horn                     0-7 FC Red Bull Salzburg
 SKN St. Pölten              1-0 SK Sturm Graz               (aet)
 
-▪ Final ▪  May 18, Klagenfurt
+▪ Final ▪  May 18 @ Klagenfurt
 FC Red Bull Salzburg        4-2 SKN St. Pölten
   (Klein 35, Kampl 41, Soriano 63, 67; Jano 39, Noel 70)
 
@@ -453,8 +451,7 @@ FC Red Bull Salzburg        4-2 SKN St. Pölten
 
 ==== 1. Liga (Second Level)  ‹§1liga›
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 NB: Kapfenberg and Vienna were refused a license for 2014/15;
     Kapfenberg successfully appealed
@@ -488,22 +485,19 @@ NB: Parndorf relegated, LASK and FAC promoted
 
 Regionalliga West  ‹§regwest›
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Final Table -->
 
 Promoted: FC Pinzgau Saalfelden (Salzburg), FC Kitzbühel (Tirol), FC Bizau (Vorarlberg)
 
 Regionalliga Mitte  ‹§regmitte›
 
-<!-- $table5$ -->
-
+<!-- $table5$ - Final Table -->
 
 Promoted: ATSV Wolfsberg (Kärnten), Union Gurten (Oberösterreich), SC Weiz (Steiermark)
 
 Regionalliga Ost  ‹§regost›
 
-<!-- $table6$ -->
-
+<!-- $table6$ - Final Table -->
 
 Promoted: SC Neusiedl/See (Burgenland), SKN St. Pölten Juniors (Niederösterreich), Donaufeld (Wien)
 

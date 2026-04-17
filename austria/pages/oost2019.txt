@@ -16,8 +16,7 @@
 
 ▪ Regular Stage ▪
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Jul 27 _
@@ -237,8 +236,7 @@ Wolfsberg        2-2 Admira Wacker
 Sankt Pölten     0-1 Mattersburg
 Sturm            1-0 Austria
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 ▪ Playoff Stage ▪
 
@@ -246,8 +244,7 @@ Sturm            1-0 Austria
 
 ▪ Championship Playoff ▪
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 NB: teams carry over half their points from the regular stage (listed between square brackets),
     rounded downwards (marked by * where applicable)
@@ -302,8 +299,7 @@ LASK             5-2 Austria
 Salzburg         7-0 Sankt Pölten
 Wolfsberg        2-1 Sturm
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Final Table -->
 
 NB: teams carry over half their points from the regular stage (listed between square brackets),
     rounded downwards (marked by * where applicable)
@@ -325,8 +321,7 @@ NB: Sturm qualified on away goals rule
 
 ▪ Relegation Playoff ▪
 
-<!-- $table5$ -->
-
+<!-- $table5$ - Final Table -->
 
 NB: teams carry over half their points from the regular stage (listed between square brackets),
     rounded downwards (marked by * where applicable)
@@ -381,8 +376,7 @@ Innsbruck        4-0 Mattersburg
 Rapid            1-2 Altach
 Hartberg         3-1 Admira Wacker
 
-<!-- $table6$ -->
-
+<!-- $table6$ - Final Table -->
 
 NB: teams carry over half their points from the regular stage (listed between square brackets),
     rounded downwards (marked by * where applicable)
@@ -479,7 +473,7 @@ SK Rapid Wien                   5-2 TSV Hartberg
 GAK 1902 Graz                   0-6 FC Red Bull Salzburg
 LASK Linz                       1-1 SK Rapid Wien                   (aet, 3-4 pen)
 
-▪ Final ▪  May 1, Wörtherseestadion, Klagenfurt
+▪ Final ▪  May 1 @ Wörtherseestadion, Klagenfurt
 FC Red Bull Salzburg            2-0 SK Rapid Wien
   (Patrick Farkas 37, Munas Dabbur 39)
 
@@ -490,8 +484,7 @@ FC Red Bull Salzburg            2-0 SK Rapid Wien
 
 ==== 2. Liga (Second Level)  ‹§1liga›
 
-<!-- $table7$ -->
-
+<!-- $table7$ - Final Table -->
 
 [*] FC Wacker Innsbruck II, Young Violets (formerly FK Austria Wien II),
     FC Liefering (farm team RB Salzburg) and FC Juniors Oberösterreich
@@ -515,8 +508,7 @@ Promoted: GAK, FC Dornbirn
 
 Regionalliga West  ‹§regwest›
 
-<!-- $table8$ -->
-
+<!-- $table8$ - Final Table -->
 
 NB: next season, the Regionalliga West is split in three: Eliteliga Salzburg,
     Eliteliga Tirol and Eliteliga Vorarlberg, each with 10 clubs; the top-2
@@ -524,13 +516,11 @@ NB: next season, the Regionalliga West is split in three: Eliteliga Salzburg,
 
 Regionalliga Mitte  ‹§regmitte›
 
-<!-- $table9$ -->
-
+<!-- $table9$ - Final Table -->
 
 Regionalliga Ost  ‹§regost›
 
-<!-- $table10$ -->
-
+<!-- $table10$ - Final Table -->
 
 [*] full name: FC Marchfeld Donauauen Mannsdorf
 

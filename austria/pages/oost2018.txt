@@ -12,8 +12,7 @@
 
 ==== Bundesliga  ‹§bund›
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Jul 22 _
@@ -177,8 +176,7 @@ Mattersburg      1-0 LASK
 _ Dec 3 _
 Austria          1-1 Salzburg
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Halfway Table -->
 
 ▪ Round 19 ▪
 _ Dec 9 _
@@ -340,8 +338,7 @@ Admira Wacker    0-2 Sankt Pölten
 Wolfsberg        0-0 Rapid
 Mattersburg      2-1 LASK
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 NB: top level extended to 12 clubs for 2018/19
 
@@ -446,7 +443,7 @@ SK Sturm Graz               3-0 SV Wimpassing
 SV Mattersburg              0-0 FC Red Bull Salzburg        (aet, 0-3 pen)
 SK Sturm Graz               3-2 SK Rapid Wien               (aet)
 
-▪ Final ▪  May 9, Klagenfurt
+▪ Final ▪  May 9 @ Klagenfurt
 SK Sturm Graz               1-0 FC Red Bull Salzburg        (aet)
   (Hierländer 112)
 
@@ -457,8 +454,7 @@ SK Sturm Graz               1-0 FC Red Bull Salzburg        (aet)
 
 ==== 1. Liga (Second Level)  ‹§1liga›
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Final Table -->
 
 [*] FC Liefering (farm team RB Salzburg) are not eligible for promotion
 
@@ -475,16 +471,14 @@ NB: no relegation as second level is extended to 16 clubs for 2018/19.
 
 Regionalliga West  ‹§regwest›
 
-<!-- $table5$ -->
-
+<!-- $table5$ - Final Table -->
 
 NB: Wacker II is the only team from the league to have expressed an interest in promotion
     and obtained a license for the second level
 
 Regionalliga Mitte  ‹§regmitte›
 
-<!-- $table6$ -->
-
+<!-- $table6$ - Final Table -->
 
 [*] formerly known as SPG Pasching/LASK Juniors
 
@@ -494,8 +488,7 @@ NB: Lafnitz, Vorwärts Steyr, Juniors and Austria Klagenfurt are the four best p
 
 Regionalliga Ost  ‹§regost›
 
-<!-- $table7$ -->
-
+<!-- $table7$ - Final Table -->
 
 [*] SC Mannsdorf apparently renamed FC Marchfeld Mannsdorf
 [!] FK Austria Wien II will play as Young Violets Austria Wien next season

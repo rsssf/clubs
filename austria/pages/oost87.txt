@@ -7,14 +7,12 @@
 == Austria 1986/87
 
 
-Fall season
-===========
+==== Fall season ====
 
 1.Bundesliga
 ------------
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Table -->
 
 ▪ Round 1 ▪  Jul 22
 Klagenfurt       0-1 LASK
@@ -231,17 +229,14 @@ LASK             2-1 Vienna
 Eisenstadt       2-0 Klagenfurt
 Sportclub        0-1 VOEST
 
-<!-- $table2$ -->
+<!-- $table2$ - Table -->
 
-
-Spring season
-=============
+==== Spring season ====
 
 Meisterplayoff
 --------------
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Table -->
 
 ▪ Round 23 ▪
 _ Mar 14 _
@@ -351,60 +346,29 @@ Rapid            2-1 Sportclub
 Sturm            2-2 Austria
 VOEST            1-1 Admira/Wacker
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Table -->
 
 <!-- $topscorers1$ -->
 
 
-Fall season
-===========
+==== Fall season ====
 
 2.Bundesliga
 ------------
 
- 1.SV Austria Salzburg       22  14  3  5  41-20   31
- 2.VfB Mödling               22  13  4  5  34-20   30
- 3.Donawitzer SV Alpine      22  13  3  6  45-29   29
- 4.Vorwärts Steyr            22  10  8  4  35-20   28
------------------------------------------------------
- 5.Kremser SC                22   8  7  7  31-25   23
- 6.SV Spittal/Drau           22   8  6  8  33-28   22
- 7.Flavia Solva Wagna        22   9  4  9  25-25   22
- 8.SK Kufstein               22   9  3 10  29-33   21
- 9.Bregenz/Dornbirn          22   6  6 10  21-37   18
-10.SV Sankt Veit             22   5  6 11  20-38   16
-11.Salzburger AK             22   5  4 13  24-36   14
-12.Union Vöcklamarkt         22   4  2 16  19-46   10
+<!-- $table5$ -->
 
-Spring season:
-==============
+==== Spring season: ====
 
 Mittlere Playoff
 ----------------
 
- 1.VfB Mödling               14   6  6  2  19- 9   18
- 2.First Vienna FC           14   6  5  3  29-18   17
- 3.Grazer AK                 14   7  3  4  16-12   17
- 4.Austria Klagenfurt        14   6  4  4  12-17   16
- ----------------------------------------------------
- 5.Vorwärts Steyr            14   4  6  4  16-15   14
- 6.SV Austria Salzburg       14   4  4  6  11-19   12
- 7.SC Eisenstadt             14   3  4  7  14-22   10
- 8.Donawitzer SV Alpine      14   2  4  8  11-16    8
+<!-- $table6$ -->
 
 Untere Playoff
 --------------
 
- 1.Kremser SC                36  16 11  9  67-39   43
- 2.SV Spittal/Drau           36  15  9 12  57-42   39
- 3.Flavia Solva Wagna        36  15  7 14  39-39   37
- 4.SK Kufstein               36  13 10 13  45-48   36
- 5.Salzburger AK             36  11 11 14  55-49   33
- ----------------------------------------------------
- 6.Bregenz/Dornbirn          36  11 11 14  46-55   33
- 7.Union Vöcklamarkt         36   7  5 24  32-82   19
- 8.SV Sankt Veit             36   5  8 23  28-81   18
+<!-- $table7$ -->
 
 Promoted to the 2.Bundesliga:
 Kapfenberger SV (Mitte)

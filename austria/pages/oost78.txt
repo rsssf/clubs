@@ -8,8 +8,7 @@
 
 1.Division
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 VÖEST change name to VOEST at end of season.
 
@@ -336,34 +335,14 @@ Sportclub    3-1 GAK
 _ May 6 _
 Rapid      0-0 Austria Wien
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 VÖEST change name to VOEST at end of season.
 
 <!-- $topscorers1$ -->
 
 
-2.Division
-
- 1.SV Austria Salzburg       30  20  7  3  59-15   47
------------------------------------------------------
- 2.Donawitzer SV Alpine      30  16  5  9  60-36   37
- 3.SV Sankt Veit             30  13 11  6  39-22   37
- 4.1. Simmeringer SC         30  16  4 10  50-38   36
- 5.Austria Klagenfurt        30  14  7  9  50-33   35
- 6.Villacher SV              30  13  8  9  31-31   34
- 7.Kapfenberger SV           30  12  9  9  39-29   33
- 8.FC Dornbirn               30  11  8 11  33-27   30
- 9.1. Wiener Neustädter SC   30  10  9 11  40-43   29
-10.SC Eisenstadt             30  11  6 13  35-39   28
-11.Schwarz-Weiß Bregenz      30   9 10 11  34-40   28
-12.ASV Kittsee               30   9 10 11  36-46   28
-13.SCA Sankt Veit            30  11  4 15  41-48   26
------------------------------------------------------
-14.SC Tulln                  30   5  9 16  22-45   19
-15.ASK Salzburg              30   7  3 20  40-86   17
-16.ASV Stockerau             30   5  6 19  21-52   16
+<!-- $table3$ - 2.Division -->
 
 Promoted to the 2.Division:
 Wolfsberger AC (Mitte)

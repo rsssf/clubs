@@ -8,8 +8,7 @@
 
 1.Division
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 Spielgemeinschaft between FK Austria and WAC dissolved at end of te season
 
@@ -327,34 +326,14 @@ LASK      2-0 Vienna
 Rapid     11-1 GAK
 Sturm      0-1 Innsbruck
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 Spielgemeinschaft between FK Austria and WAC dissolved at end of te season
 
 <!-- $topscorers1$ -->
 
 
-2.Division
-
- 1.Wiener Sport-Club/Post    30  18  9  3  53-23   45
------------------------------------------------------
- 2.Donawitzer SV Alpine      30  20  4  6  68-31   44
- 3.1. Wiener Neustädter SC   30  14 11  5  49-30   39
- 4.Austria Klagenfurt        30  13 10  7  51-41   36
- 5.FC Dornbirn               30  11 13  6  35-36   35
- 6.1. Simmeringer SC         30  11 10  9  51-33   32
- 7.SC Eisenstadt             30  10 10 10  40-43   30
- 8.SV Sankt Veit             30   9 10 11  41-48   28
- 9.Schwarz-Weiß Bregenz      30  11  6 13  32-43   28
-10.SCA Sankt Veit            30   9  9 12  31-38   27
-11.ASV Stockerau             30   9  8 13  38-41   26
-12.Villacher SV              30   6 13 11  34-44   25
-13.SC Tulln                  30   7 11 12  34-49   25
------------------------------------------------------
-14.Wolfsberger AC            30   9  6 15  40-51   24
-15.Kremser SC                30   6  7 17  30-45   19
-16.Salzburger AK             30   6  5 19  25-56   17
+<!-- $table3$ - 2.Division -->
 
 Promoted to the 2.Division:
 Kapfenberger SV (Mitte)

@@ -12,8 +12,7 @@
 
 ==== Bundesliga  ‹§bund›
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 NB: promoted side Wolfsberger AC/SK St. Andrä were renamed Wolfsberger AC
 
@@ -341,8 +340,7 @@ Sturm            0-3 Wiener Neustadt
 Mattersburg      0-1 Admira Wacker
 Wolfsberg        2-3 Innsbruck
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 NB: promoted side Wolfsberger AC/SK St. Andrä were renamed Wolfsberger AC
 
@@ -436,7 +434,7 @@ FC Red Bull Salzburg     1-2 FC Pasching
 _ May 8 _
 SV Ried                  1-3 FK Austria Wien
 
-▪ Final ▪  May 30, Ernst Happel Stadion, Wien
+▪ Final ▪  May 30 @ Ernst Happel Stadion, Wien
 FC Pasching              1-0 FK Austria Wien
   (Sobkova 47)
 
@@ -450,8 +448,7 @@ NB: FC Pasching play in the Regionalliga Mitte and are the first ‹third level 
 
 ==== 1. Liga (Second Level)  ‹§1liga›
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 NB: FC Lustenau relegated due to break of license conditions
 
@@ -729,8 +726,7 @@ St. Pölten       1-0 Hartberg
 Grödig           5-0 BW Linz
 Horn             4-0 FC Lustenau
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Final Table -->
 
 NB: FC Lustenau relegated due to break of license conditions
 

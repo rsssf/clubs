@@ -6,25 +6,12 @@
 
 == Austria 1992/93
 
-Fall season
-===========
+==== Fall season ====
 
 1.Bundesliga
 ------------
 
- 1.SV Austria Salzburg       22  11  7  4  45-27   29
- 2.FC Wacker Innsbruck       22  10  8  4  45-22   28
- 3.FK Austria Wien           22  12  4  6  47-25   28
- 4.Wiener Sport-Club         22  11  5  6  31-33   27
- 5.SK Rapid Wien             22   9  8  5  34-26   26
- 6.FC Admira/Wacker          22  11  3  8  47-33   25
- 7.VSE St. Pölten            22   6 10  6  34-37   22
- 8.Vorwärts Steyr            22   8  6  8  30-34   22
- ----------------------------------------------------
- 9.VfB Mödling               22   8  3 11  39-41   19
-10.Linzer ASK                22   4  6 12  21-46   14
-11.FC Stahl Linz             22   3  6 13  20-43   12
-12.SK Sturm Graz             22   3  6 13  23-49   12
+<!-- $table1$ -->
 
 ▪ Round 1 ▪
 _ Jul 24 _
@@ -243,16 +230,13 @@ Sportclub    4-2 St. Pölten
 1.Bundesliga
 ------------
 
-<!-- $table1$ -->
+<!-- $table2$ - Table -->
 
-
-Spring season
-=============
+==== Spring season ====
 Meisterplayoff
 --------------
 
-<!-- $table2$ -->
-
+<!-- $table3$ - Table -->
 
 [Note: points between brackets are points retained from fall (halved and
        rounded) and obtained in spring respectively.]
@@ -364,8 +348,7 @@ Sportclub    1-1 Vorwärts
 
 
 
-<!-- $table3$ -->
-
+<!-- $table4$ - Table -->
 
 [Note: points between brackets are points retained from fall (halved and
        rounded) and obtained in spring respectively.]
@@ -373,54 +356,24 @@ Sportclub    1-1 Vorwärts
 <!-- $topscorers1$ -->
 
 
-Fall season
-===========
+==== Fall season ====
 
 2.Bundesliga
 ------------
 
- 1.Grazer AK                 22  11  7  4  33-14   29
- 2.SV Ried im Innkreis       22  10  7  5  37-23   27
- 3.DSV Leoben                22  10  6  6  32-22   26
- 4.Favoritner AC             22   9  6  7  32-25   24
- ----------------------------------------------------
- 5.SV Spittal/Drau           22  10  4  8  36-36   24
- 6.FC Puch                   22   8  5  9  31-40   21
- 7.First Vienna FC           22   7  6  9  25-22   20
- 8.Kremser SC                22   7  6  9  28-35   20
- 9.Oberwart SV               22   6  7  9  25-26   19
-10.LUV Graz                  22   7  5 10  24-32   19
-11.WSG Wattens               22   7  4 11  23-31   18
-12.SV Stockerau              22   6  5 11  31-51   17
+<!-- $table5$ -->
 
-Spring season
-=============
+==== Spring season ====
 
 Mittlere Playoff
 ----------------
 
- 1.VfB Mödling               14  11  2  1  26- 6   24 Zehnerliga
- 2.SK Sturm Graz             14   8  2  4  26-12   18 Zehnerliga
- ----------------------------------------------------
- 3.Linzer ASK                14   5  6  3  11- 8   16
- 4.Grazer AK                 14   4  7  3  20-13   15
- 5.DSV Leoben                14   3  5  6  14-18   11
- 6.FC Stahl Linz             14   3  4  7  12-16   10
- 7.SV Ried im Innkreis       14   4  1  9  14-26    9
- 8.Favoritner AC             14   3  3  8  10-34    9
+<!-- $table6$ -->
 
 Untere Playoff
 --------------
 
- 1.First Vienna FC           36  14 11 11  48-34   29  (10-19)
- 2.SV Spittal/Drau           36  13 11 12  59-58   25  (12-13)
- 3.FC Puch                   36  12 11 13  45-55   25  (11-14)
- 4.SV Stockerau              36  12  9 15  48-67   25  ( 9-16)
- 5.Kremser SC                36  13  8 15  47-60   24  (10-14)
- 6.Oberwart SV               36   7 17 12  41-46   22  (10-12)
- 7.WSG Wattens               36  10 11 15  47-53   22  ( 9-13)
- -------------------------------------------------------------
- 8.LUV Graz                  36  11  8 17  39-51   21  (10-11) Relegated
+<!-- $table7$ -->
 
 Promoted to the 2.Bundesliga:
 SC Wiener Neustadt
@@ -493,43 +446,14 @@ WEST
 
 Third Level 1992/93
 
-Regionalliga Ost
-
- 1.SC Wiener Neustadt           30 77-31 47 Promoted to 2.Bundesliga
--------------------------------------------
- 2.SR Donaufeld                 30 56-42 37
- 3.SC Eisenstadt                30 48-34 36
- 4.SV Schwechat                 30 45-40 34
- 5.EPSV Gmünd                   30 63-52 33
- 6.Zwettl                       30 50-41 32
- 7.ASK Bruck                    30 39-34 31
- 8.Floridsdorfer AC             30 33-38 31
- 9.Horn                         30 46-42 28
-10.SV Sigless                   30 49-48 28
-11.ÖMV Stadlau                  30 47-54 26
-12.Ybbs                         30 37-44 26
-13.Casino Baden                 30 27-41 25
-14.Hohenau                      30 37-61 24
--------------------------------------------
-15.Wienerfeld                   30 37-59 22 Relegated (Wiener Liga)
-16.Baumgarten                   30 37-67 20 Relegated (Burgenland)
+<!-- $table8$ - Regionalliga Ost -->
 
 Promoted to the Regionalliga Ost (see below for these Landesliga's):
 Burgenland: Klingenbach
 Niederösterreich: Waidhofen/Ybbs
 Wien: Slovan HAC
 
-Regionalliga West
-
- 1.FC Kufstein                  14 40- 8 22 Promoted to 2.Bundesliga
--------------------------------------------
- 2.SC Rheindorf Altach          14 25-15 18
- 3.SC Kundl                     14 25-15 18
- 4.Schwarz-Weiß Bregenz         14 31-22 16
- 5.FC Dornbirn                  14 27-22 15
- 6.ESV Saalfelden               14 22-36 10
- 7.SV Hall                      14 14-34  7
- 8.FC Salzburg                  14 18-50  6
+<!-- $table9$ - Regionalliga West -->
 
 Teams 2-8 will be distributed over the Landesliga's of Salzburg, Tirol
 and Vorarlberg in fall 1993, which will play a full round (18 matches)
@@ -554,84 +478,26 @@ There being no "Regionalliga Mitte", the champions of the Landesliga's
 of Steiermark, Kärnten, and Oberösterreich yearly play for one place
 in the 2. Bundesliga.
 
-Promotion Playoff:
+▪ Promotion Playoff ▪
 Flavia Solva 0-1 Braunau
 Braunau 0-0 SAK
 SAK 1-2 Flavia Solva
 Braunau 0-0 Flavia Solva
 SAK 1-2 Braunau
-Flavia Solva 1-2 SAK
-
- 1.SV Braunau             4  2  2  0  3-1  6 Promoted
---------------------------------------------
- 2.SAK Klagenfurt         4  1  1  2  4-5  3
- 3.Flavia Solva           4  1  1  2  3-4  3
+<!-- $table10$ - Flavia Solva 1-2 SAK -->
 
 Final tables of the "Central Landesliga's":
 
-Landesliga Steiermark
-
- 1.SV Flavia Solva              30 78-24 48
- 2.TSV Hartberg                 30 73-30 43
- 3.SV Feldbach                  30 64-40 39
- 4.SV Kindberg                  30 45-35 37
- 5.SV Leibnitz                  30 46-37 36
- 6.SV Kapfenberg                30 61-45 33
- 7.Deutschlandsberg             30 55-49 32
- 8.SV Eibiswald                 30 55-56 30
- 9.ASK Voitsberg                30 40-43 29
-10.SV Gratkorn                  30 38-55 28
-11.SC Fürstenfeld               30 36-50 24
-12.RW Knittelfeld               30 35-53 24
-13.SC Bruck/Mur                 30 31-55 22
--------------------------------------------
-14.AE-RS Knittelfeld            30 45-72 20 Relegated
-15.FC Veitsch                   30 41-65 19 Relegated
-16.WSV Zeltweg                  30 27-61 17 Relegated
+<!-- $table11$ - Landesliga Steiermark -->
 
 LUV Graz is relegated from 2.Bundesliga to Styrian Landesliga.
 Promoted to the Landesliga are: Rottenmann, Köflach.
 
-Landesliga Kärnten
-
- 1.SAK Klagenfurt               30 63-22 48
- 2.Villacher SV                 30 50-38 38
- 3.Wietersdorf                  30 41-35 36
- 4.ATSV Wolfsberg               30 46-32 34
- 5.Wolfsberger AC               30 44-28 33
- 6.Friesach                     30 40-35 33
- 7.Bleiburg                     30 34-31 32
- 8.Treibach                     30 31-23 31
- 9.Matrei                       30 43-43 30
-10.Rapid Lienz                  30 35-32 29
-11.Feldkirchen                  30 43-32 28
-12.Völkermarkt                  30 38-57 27
-13.Wernberg                     30 42-54 25
-14.Austria Klagenfurt           30 26-35 24
--------------------------------------------
-15.Mölltal                      30 25-65 17 Relegated
-16.Sankt Veit                   30 20-59 15 Relegated
+<!-- $table12$ - Landesliga Kärnten -->
 
 Teams promoted to the Landesliga: Lendorf, Ferlach.
 
-Landesliga Oberösterreich
-
- 1.SV Braunau                   26 40-24 36 Promoted to 2.Bundesliga
--------------------------------------------
- 2.Marchtrenk                   26 62-32 35
- 3.Traun                        26 51-29 35
- 4.Altheim                      26 45-30 34
- 5.Sankt Florian                26 46-39 31
- 6.Esternberg                   26 37-27 29
- 7.Grieskirchen                 26 50-43 28
- 8.Donau Linz                   26 38-45 26
- 9.Sankt Magdalena              26 45-45 25
-10.Lenzing                      26 38-40 22
-11.Austria Tabak                26 29-43 21
-12.Amateure Steyr               26 26-51 16
-13.Steyrermühl                  26 26-52 14
--------------------------------------------
-14.Micheldorf                   26 32-65 12 Relegated
+<!-- $table13$ - Landesliga Oberösterreich -->
 
 Steyrermühl is saved by the promotion of Braunau.
 Promoted to the Landesliga are Eintracht Wels and Weisskirchen.
@@ -641,72 +507,17 @@ Fourth Level 1992/93
 
 Feeder leagues of the Regionalliga Ost:
 
-Landesliga Niederösterreich
-
- 1.Waidhofen/Ybbs               26 58-38 33 Promoted to Regionalliga Ost
--------------------------------------------
- 2.Hochwolkersdorf              26 52-33 32
- 3.Untersiebenbrunn             26 59-38 30
- 4.Marienthal                   26 51-33 30
- 5.Sankt Peter/Au               26 43-30 30
- 6.Wiener Neudorf               26 48-39 30
- 7.Oed/Zeillern                 26 35-38 26
- 8.Himberg                      26 36-51 24
- 9.Amaliendorf                  26 36-56 24
-10.Tulln                        26 41-36 23
-11.Brunn/Gebirge                26 31-40 23
-12.Leobendorf                   26 36-46 23
-13.Hausmening                   26 27-48 18
--------------------------------------------
-14.Waidhofen/Thaya              26 31-58 18
+<!-- $table14$ - Landesliga Niederösterreich -->
 
 Promoted to the Landesliga Niederösterreich: Gottsdorf, Bad Vöslau.
 
 
-Landesliga Burgenland
-
- 1.Klingenbach                  30 47-19 41 Promoted to Regionalliga Ost
--------------------------------------------
- 2.Rohrbach                     30 60-32 39
- 3.Mattersburg                  30 48-24 37
- 4.Hirm                         30 44-29 37
- 5.Deutschkreutz                30 63-37 36
- 6.UFC Tadten                   30 55-39 34
- 7.Purbach                      30 52-51 32
- 8.Rudersdorf                   30 46-51 27
- 9.Neuberg                      30 41-58 27
-10.USV Halbturn                 30 46-49 26
-11.Sankt Margarethen            30 28-31 26
-12.Güssing                      30 42-46 26
-13.SV Gols                      30 32-39 26
--------------------------------------------
-14.Eltendorf                    30 32-51 24 Relegated
-15.Jennersdorf                  30 36-70 23 Relegated
-16.Neufeld                      30 26-72 19 Relegated
+<!-- $table15$ - Landesliga Burgenland -->
 
 Promoted to the Landesliga Burgenland: Parndorf, Mannersdorf, Kohfidisch.
 
 
-Wiener Liga
-
- 1.Slovan/HAC                30  25  4  1  82-20   54 Promoted to Regionalliga Ost
------------------------------------------------------
- 2.Wacker Wien               30  19  8  3  80-30   46
- 3.SV Gerasdorf              30  17  8  5  67-21   42
- 4.Admira Landhaus           30  12 12  6  52-32   36
- 5.1.Simmeringer SC          30  14  5 11  58-43   33
- 6.FS Elektra                30  10  9 11  66-57   29
- 7.SC Red Star               30  12  4 14  56-57   28
- 8.LAC                       30  11  6 13  46-63   28
- 9.Essling                   30  12  4 14  42-61   28
-10 Gaswerk                   30  10  7 13  59-56   27
-11.Post SV                   30   9  6 15  47-72   24
-12.Prater SV                 30   8  8 14  38-64   24
-13.Austria XIII              30   7  9 14  39-51   23
-14.Breitensee                30   7  9 14  40-63   23
------------------------------------------------------
-15.WAFKL Wimmer              30   7  7 16  44-66   21 Relegated
-16.Interc. Strassl           30   4  6 20  42-102  14 Relegated
+<!-- $table16$ - Wiener Liga -->
 
 Promoted to the Wiener Liga: Wienerberg/Inzersdorf, Feuerwehr/BSC.
 

@@ -16,8 +16,7 @@
 
 ▪ Regular Stage ▪
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Aug 1 _
@@ -238,8 +237,7 @@ Ried             0-2 Austria W
 Hartberg         1-1 BW Linz
 Wattens          2-0 GAK
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 ▪ Playoff Stage ▪
 
@@ -247,8 +245,7 @@ Wattens          2-0 GAK
 
 ▪ Championship Playoff ▪
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Table -->
 
 NB: teams carry over half their points from the regular stage (listed between
     square brackets), rounded downwards (marked by * where applicable)
@@ -267,16 +264,14 @@ _ Mar 22 _
 Hartberg         0-1 Austria W
 Rapid            4-2 LASK
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Table -->
 
 NB: teams carry over half their points from the regular stage (listed between
     square brackets), rounded downwards (marked by * where applicable)
 
 ▪ Relegation Playoff ▪
 
-<!-- $table5$ -->
-
+<!-- $table5$ - Table -->
 
 NB: teams carry over half their points from the regular stage (listed between
     square brackets), rounded downwards (marked by * where applicable)
@@ -291,8 +286,7 @@ BW Linz          3-2 Ried
 Wolfsberg        1-1 Altach
 Wattens          1-5 GAK
 
-<!-- $table6$ -->
-
+<!-- $table6$ - Table -->
 
 NB: teams carry over half their points from the regular stage (listed between
     square brackets), rounded downwards (marked by * where applicable)
@@ -391,7 +385,7 @@ FC Red Bull Salzburg                0-1 SCR Altach
 _ Mar 18 _
 SV Ried                             1-2 LASK                                (aet)
 
-▪ Final ▪  May 1, Klagenfurt
+▪ Final ▪  May 1 @ Klagenfurt
 SCR Altach                           -  LASK
 
 

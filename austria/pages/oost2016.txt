@@ -12,8 +12,7 @@
 
 ==== Bundesliga  ‹§bund›
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 NB: after the end of the season, Grödig announced they will not play at the second
     level next season but withdraw to their regional league (Regionalliga West)
@@ -338,8 +337,7 @@ Salzburg         1-0 Wolfsberg
 Altach           0-0 Ried
 Mattersburg      2-3 Grödig
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 NB: after the end of the season, Grödig announced they will not play at the second
     level next season but withdraw to their regional league (Regionalliga West)
@@ -434,7 +432,7 @@ FC Admira/Wacker Mödling    2-1 SKN St. Pölten
 _ Apr 20 _
 FC Red Bull Salzburg        5-2 FK Austria Wien
 
-▪ Final ▪  May 19, Klagenfurt
+▪ Final ▪  May 19 @ Klagenfurt
 FC Red Bull Salzburg        5-0 FC Admira/Wacker Mödling
   (Soriano 7, 65, 86pen , Keita 28, Laimer 73)
 
@@ -444,12 +442,11 @@ FC Red Bull Salzburg        5-0 FC Admira/Wacker Mödling
 
 ==== 1. Liga (Second Level)  ‹§1liga›
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 [*] FC Liefering (farm team RB Salzburg) are not eligible for promotion
 
-Promotion Playoff  ‹§2prorel›
+▪ Promotion Playoff ▪
 
 NB: both SV Austria Salzburg (who opened insolvency proceedings during the season) and
     SK Austria Klagenfurt (who were denied a second level license for next season in
@@ -470,8 +467,7 @@ NB: both SV Austria Salzburg (who opened insolvency proceedings during the seaso
 
 Regionalliga West  ‹§regwest›
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Final Table -->
 
 Promoted: SAK 1914 (Salzburg) [FC Bergheim declined promotion]
           SV Wörgl (Tirol)
@@ -479,8 +475,7 @@ Promoted: SAK 1914 (Salzburg) [FC Bergheim declined promotion]
 
 Regionalliga Mitte  ‹§regmitte›
 
-<!-- $table5$ -->
-
+<!-- $table5$ - Final Table -->
 
 Promoted: ATSV Wolfsberg (Kärnten) [ATUS Ferlach declined promotion]
           SV Grieskirchen (Oberösterreich)
@@ -488,8 +483,7 @@ Promoted: ATSV Wolfsberg (Kärnten) [ATUS Ferlach declined promotion]
 
 Regionalliga Ost  ‹§regost›
 
-<!-- $table6$ -->
-
+<!-- $table6$ - Final Table -->
 
 [*] Sollenau sold their place for 2016/17 to Traiskirchen (formally,
     1.SC Sollenau merged with FCM Traiskirchen into SG Traiskirchen).

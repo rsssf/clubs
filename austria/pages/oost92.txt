@@ -6,14 +6,12 @@
 
 == Austria 1991/92
 
-Fall Season
-===========
+==== Fall Season ====
 
 1.Bundesliga
 ------------
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Table -->
 
 ▪ Round 1 ▪  Jul 24
 Admira/Wacker    3-0 St. Pölten
@@ -227,18 +225,15 @@ Vorwärts    1-3 Linz
 1.Bundesliga
 ------------
 
-<!-- $table2$ -->
+<!-- $table2$ - Table -->
 
 
-
-Spring Season
-=============
+==== Spring Season ====
 
 Meisterplayoff
 --------------
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Table -->
 
 [Note: points between brackets are points retained from fall (halved and
        rounded) and obtained in spring respectively.]
@@ -348,8 +343,7 @@ Austria Wien     2-1 Austria Salzburg
 Tirol            1-0 Rapid
 Linz             2-2 Admira/Wacker
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Table -->
 
 [Note: points between brackets are points retained from fall (halved and
        rounded) and obtained in spring respectively.]
@@ -358,54 +352,24 @@ Linz             2-2 Admira/Wacker
 
 
 
-Fall season
-===========
+==== Fall season ====
 
 2.Bundesliga
 ------------
 
- 1.Linzer ASK                22  12  5  5  38-20   29
- 2.Grazer AK                 22  13  3  6  41-27   29
- 3.VFB Mödling               22  10  7  5  35-30   27
- 4.Wiener Sport-Club         22   8 10  4  37-27   26
- ----------------------------------------------------
- 5.WSG Wattens               22  10  4  8  28-25   24
- 6.Favoritner AC             22   8  7  7  23-24   23
- 7.SV Stockerau              22   7  7  8  31-30   21
- 8.SK Austria Klagenfurt     22   8  3 11  29-34   19
- 9.SV Spittal/Drau           22   4  9  9  31-38   17
-10.SR Donaufeld              22   4  9  9  27-39   17
-11.SV Ried im Innkreis       22   6  5 11  20-37   17
-12.SC Rheindorf Altach       22   4  7 11  22-31   15
+<!-- $table5$ -->
 
 
-Spring season
-=============
+==== Spring season ====
 
 Mittlere Playoff
 ----------------
 
- 1.SK Sturm Graz             14   4  9  1  18-11   17  Remain in 1.BL
- 2.VfB Mödling               14   5  6  3  16-15   16  Promoted
- 3.Linzer ASK                14   5  5  4  19-17   15  Promoted
- 4.Wiener Sport-Club         14   5  4  5  23-18   14  Promoted
- ----------------------------------------------------
- 5.First Vienna FC           14   5  4  5  15-13   14  Relegated
- 6.DSV Alpine                14   6  2  6  17-20   14  Relegated
- 7.Kremser SC                14   3  6  5  22-25   12  Relegated
- 8.Grazer AK                 14   3  4  7  12-23   10  Remain in 2.BL
+<!-- $table6$ -->
 
 Untere Playoff
 --------------
- 1.Favoritner AC             36  14 14  8  52-38   31  (12-19)
- 2.WSG Wattens               36  16  8 12  42-39   28  (12-16)
- 3.SV Stockerau              36  12 12 12  51-46   26  (11-15)
- 4.SV Spittal/Drau           36   9 12 15  48-58   22  ( 9-13)
- 5.SV Ried im Innkreis       36  11  8 17  43-54   22  ( 9-13)
- -------------------------------------------------------------
- 6.SK Austria Klagenfurt     36  11  8 17  47-54   21  (10-11) Relegated
- 7.SC Rheindorf Altach       36  10  8 18  40-58   21  ( 8-13) Relegated
- 8.SR Donaufeld              36   8 13 15  38-61   21  ( 9-12) Relegated
+<!-- $table7$ -->
 
 
 Promoted to the 2.Bundesliga:

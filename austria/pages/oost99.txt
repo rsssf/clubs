@@ -8,8 +8,7 @@
 
 Bundesliga
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 [*] Vorwärts 3 points deducted because of failure to meet license
     criteria in time
@@ -505,8 +504,7 @@ Austria S        0-0 Rapid
 Sturm            3-0 Tirol
   (11' and 74' Haas, 48' Martens)
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 [*] Vorwärts 3 points deducted because of failure to meet license
     criteria in time
@@ -641,7 +639,7 @@ Sturm Graz       5-0 Ried
 Rapid            0-2 LASK Linz
   (5' Panis, 79' Stumpf)
 
-▪ Final ▪  May 18, Happel-Stadion, Wien
+▪ Final ▪  May 18 @ Happel-Stadion, Wien
 Sturm Graz       1-1 LASK Linz             (aet, 4-2 pen)
   [60' Haas; 36' (og) Vastic] [att 8,500]
 penalty shootout:
@@ -658,15 +656,14 @@ LASK: Pavlovic - Muhr - Milinovic, Ba (56' Mehlem) - Pichorner, Rohseano,
       Dadi (93' Stumpf).  Trainer: Koljanin.
 
 
-▪ Super Cup Final ▪  Jun 25, Arnold Schwarzenegger Stadion, Graz
+▪ Super Cup Final ▪  Jun 25 @ Arnold Schwarzenegger Stadion, Graz
 Sturm Graz       1-1 LASK Linz             (aet, 5-4 pen)
   [Vastic 60' Udovic 25'] [att 4,500]
 
 
 1.Division (Second Level)
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Table -->
 
 ▪ Round 1 ▪
 _ Jul 24 _
@@ -955,12 +952,11 @@ Austria K/VSV    2-0 Braunau
 DSV              1-0 Spittal
 Wörgl            2-0 Stockerau
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Table -->
 
 NB: after the season, Austria Klagenfurt/VSV changed name to FC Kärnten.
 
-Promotion/Relegation Playoffs
+▪ Promotion/Relegation Playoffs ▪
 
 ▪ First Legs ▪  Jun 15
 Spittal          1-1 Untersiebenbrunn
@@ -975,8 +971,7 @@ Untersiebenbrunn and Wattens promoted, Spittal relegated.
 
 Third Level (Regionalliga's)
 
-Regionalliga Ost
-================
+==== Regionalliga Ost ====
 
               Bau Deu Don Eis FAC Him Hor Kli Kot Mat Neu Pra Sch Unt Wai Wue
 Baumgarten    xxx 4-0 2-1 0-2 1-1 0-0 2-1 0-0 1-1 0-3 2-0 1-1 1-0 2-3 1-1 1-1
@@ -997,14 +992,12 @@ Waidhofen     4-1 4-0 1-1 2-1 1-0 1-1 3-0 0-0 2-1 0-0 4-2 2-2 1-0 0-0 xxx 1-1
 Wuermla       2-2 1-1 3-2 2-0 1-2 0-0 0-1 1-1 4-0 1-0 2-1 0-0 2-2 1-0 3-0 xxx
 Prater-Neuberg awarded 0-3 (originally 2-0)
 
-<!-- $table5$ -->
-
+<!-- $table5$ - Table -->
 
 Promoted to RL Ost: Zwettl (Niederösterreich), Rohrbach (Burgenland),
                     1.Simmeringer SC (Wien)
 
-Regionalliga Mitte
-==================
+==== Regionalliga Mitte ====
               Ble Ein Gra Gri Har Lei LUV Pas Rap SAK StF StV Voi WAC
 Bleiburg      xxx 0-0 0-0 3-2 0-2 2-0 4-0 1-1 1-5 2-2 2-0 1-1 0-3 0-2
 Eintracht     2-0 xxx 0-3 0-0 2-1 3-0 4-0 0-0 2-0 3-0 2-2 2-3 0-2 1-1
@@ -1021,14 +1014,12 @@ St.Veit       0-0 0-0 1-1 1-4 0-0 1-1 1-0 3-2 1-1 0-0 3-1 xxx 0-1 2-2
 Voitsberg     2-3 0-2 1-1 1-3 0-1 1-1 1-3 2-1 1-0 1-0 2-2 1-2 xxx 2-1
 Wolfsberg     4-2 0-2 1-2 4-1 1-1 0-0 4-0 0-3 0-1 3-2 3-1 1-1 0-0 xxx
 
-<!-- $table6$ -->
-
+<!-- $table6$ - Table -->
 
 Promoted to RL Mitte: Bleiberg (Kärnten), Donau Linz (Oberösterreich)
                       and Zeltweg (Steiermark)
 
-Regionalliga West
-=================
+==== Regionalliga West ====
             Alt Ani Aus Hal Har Kuf Kun Lau Lus Nen Puc Rei Rum SAK Tir Wat
 Altach      xxx 6-0 1-0 2-0 1-1 3-0 1-1 3-1 3-1 4-0 0-0 6-0 4-0 2-0 3-0 1-3
 Anif        1-1 xxx 0-2 0-1 1-2 1-2 1-2 1-1 1-2 0-1 2-3 1-3 0-2 1-1 4-1 0-1
@@ -1047,8 +1038,7 @@ SAK         3-2 2-1 0-1 4-0 1-0 0-2 0-5 2-0 0-0 3-0 4-2 2-0 1-1 xxx 1-1 1-3
 Tirol Amat. 0-2 5-0 2-2 2-1 3-1 2-2 3-0 3-0 2-1 6-0 0-2 1-2 3-1 2-1 xxx 2-2
 Wattens     2-3 8-0 5-1 2-2 2-1 5-1 8-0 2-1 2-1 4-0 3-0 6-2 6-0 4-0 4-0 xxx
 
-<!-- $table7$ -->
-
+<!-- $table7$ - Table -->
 
 Promoted to RL West: Seekirchen (Salzburg), SPG Jenbach/Achensee (Tirol),
                      Blau-Weiß Feldkirch (Vorarlberg)
@@ -1062,390 +1052,67 @@ Thanks to Wolfgang Lorber for Kärnten and Steiermark.
 
 Thanks to Andreas Exenberger for Tirol and Vorarlberg.
 
-Kärnten
-=======
+==== Kärnten ====
 
-Fourth Level
-============
+==== Fourth Level ====
 
-Landesliga
+<!-- $table8$ - Landesliga -->
 
- 1. Bleiberg      26 17  9  0 54 :17 60
----------------------------------------
- 2. St. Michael   26 17  5  4 59 :18 56
- 3. Lendorf       26 13 10  3 43 :19 49
- 4. Friesach      26 12  5  9 52 :42 41
- 5. ASK           26 12  5  9 32 :25 41
- 6. Maria Gail    26 10  7  9 33 :29 37
- 7. St. Andrä     26 10  5 11 44 :41 35
- 8. Rothenthurn   26  7 12  7 37 :36 33
- 9. Nußdorf       26  7 10  9 30 :38 31
-10. Treibach      26  7  9 10 31 :38 30
-11. Wietersdorf   26  9  3 14 35 :49 30
-12. Matrei        26  5 10 11 21 :48 25
-13. A. Wolfsberg  26  5  2 19 22 :57 17
----------------------------------------
-14. Mölltal       26  3  4 19 16 :52 13
+==== Fifth Level ====
 
-Fifth Level
-===========
+<!-- $table9$ - Unterliga Ost -->
 
-Unterliga Ost:
-
- 1. Brückl       26 15  9  2 53 :24 54
---------------------------------------
- 2. Liebenfels   26 11 10  5 41 :23 43
- 3. Völkermarkt  26 12  6  8 41 :30 42
- 4. Welzenegg    26  9 11  6 38 :31 38
- 5. St. Paul     26  9  9  8 31 :38 36
- 6. Poggersdorf  26 10  5 11 38 :42 35
- 7. Viktring     26  9  6 11 31 :34 33
- 8. ASV          26  8  9  9 34 :39 33
- 9. Ludmannsd.   26  7 12  7 31 :43 33
-10. A. Ferlach   26  8  7 11 40 :38 31
-11. Ebental      26  8  7 11 25 :29 31
-12. Gurnitz      26  7 10  9 33 :38 31
-13. DSG Ferlach  26  7  7 12 29 :39 28
---------------------------------------
-14. Globasnitz   26  6  4 16 30 :47 22
-
-Unterliga West:
-
- 1. Landskron    26 19 6  1 53 :14 63
--------------------------------------
- 2. Faak         26 17 7  2 52 :15 58
- 3. Feldkirchen  26 15 6  5 62 :27 51
- 4. Irschen      26 14 6  6 54 :28 48
- 5. Hermagor     26 11 7  8 44 :29 40
- 6. Oberdraubg.  26 11 5 10 42 :36 38
- 7. Moosburg     26 11 3 12 39 :43 36
- 8. Möllbrücke   26  9 6 11 38 :42 33
- 9. Radenthein   26  8 7 11 29 :34 31
-10. Wernberg     26  7 7 12 31 :50 28
-11. Paternion    26  7 5 14 40 :49 26
-12. Weißenstein  26  5 5 16 18 :56 20
--------------------------------------
-13. Fürnitz      26  6 2 18 30 :74 20
-14. Baldramsdf.  26  4 4 18 21 :56 16
+<!-- $table10$ - Unterliga West -->
 
 Unterliga Relegation:
 DSG Ferlach 10:0 Fürnitz (4:0, 6:0)
 
-Sixth Level
-===========
+==== Sixth Level ====
 
-1. Klasse A:
+<!-- $table11$ - 1. Klasse A -->
 
- 1. Sachsenburg   24  14  6  4 55:26 48
----------------------------------------
- 2. Winklern      24  13  7  4 51:27 46
- 3. Tristach      24  12  8  4 36:19 44
- 4. ASV Lienz     24  10  7  7 33:20 37
- 5. Huben         24   9 10  5 34:26 37
- 6. Stall         24   9  7  8 40:42 34
- 7. Steinfeld     24   9  6  9 46:40 33
- 8. Thal/Assling  24   8  8  8 34:38 32
- 9. Prägraten     24   8  3 13 33:47 27
-10. Nikolsdorf    24   5  9 10 27:37 24
-11. Oberlienz     24   5  9 10 34:47 24
-12. Malta         24   4  9 11 38:47 21
----------------------------------------
-13. Kötschach     24   3  5 16 15:60 14
+<!-- $table12$ - 1. Klasse B -->
 
-1. Klasse B:
+<!-- $table13$ - 1. Klasse C -->
 
- 1. Admira Villach  26  17  5  4 44:19 56
------------------------------------------
- 2. Magdalen        26  14  7  5 60:30 49
- 3. Arnoldstein     26  15  4  7 55:31 49
- 4. Feffernitz      26  13  8  5 54:24 47
- 5. St. Egyden      26  13  6  7 43:21 45
- 6. Reichenau       26  10  7  9 56:52 37
- 7. Fellach         26  10  6 10 38:47 36
- 8. Köstenberg      26  10  5 11 37:38 35
- 9. Afritz          26   8  7 11 33:42 31
-10. Velden          26   8  7 11 36:49 31
-11. Bodensdorf      26   7  5 14 29:59 26
-12. Kleinkirchheim  26   6  7 13 37:58 25
-13. Seeboden        26   6  5 15 36:57 23
------------------------------------------
-14. Ferndorf        26   2  7 17 21:52 13
+<!-- $table14$ - 1. Klasse D -->
 
-1. Klasse C:
+==== Seventh Level ====
 
- 1. St. Margareten  24  17  6  1 65:15 57
------------------------------------------
- 2. Metnitztal      24  16  7  1 58:19 55
- 3. Micheldorf      24  13  8  3 45:24 47
- 4. Maria Saal      24  12  5  7 41:31 41
- 5. KAC             24  10  4 10 43:38 34
- 6. Glanegg         24   8  7  9 40:39 31
- 7. Wölfnitz        24   7  9  8 31:34 30
- 8. Launsdorf       24   8  4 12 34:34 28
- 9. Ochsendorf      24   7  6 11 33:39 27
-10. Sirnitz         24   7  4 13 44:52 25
-11. Sörg            24   7  4 13 28:47 25
-12. Köttmannsdorf   24   6  6 12 32:39 24
------------------------------------------
-13. Feistritz/R.    24   1  4 19 24:107 7
+<!-- $table15$ - 2. Klasse A -->
 
-1. Klasse D:
+<!-- $table16$ - 2. Klasse B -->
 
- 1. Ruden           26  16  8  2 47:12 56
- 2. Mittlern        26  14  8  4 47:28 50
- 3. Klopein         26  14  7  5 64:36 49
- 4. Sittersdorf     26  14  3  9 53:37 45
- 5. St. Leonhard    26  10 12  4 32:24 42
- 6. St. Stefan/L.   26   9  9  8 46:43 36
- 7. Griffen         26   6 12  8 31:41 30
- 8. Eitweg          26   6 11  9 30:42 29
- 9. Rückersdorf     26   7  7 12 40:48 28
-10. Haimburg        26   6  9 11 29:39 27
-11. Eisenkappel     26   6  9 11 27:42 27
-12. St. Michael/B.  26   6  8 12 34:39 26
-13. Lavamünd        26   7  5 14 26:45 26
------------------------------------------
-14. Maria Rojach    26   2 10 14 29:59 16
+<!-- $table17$ - 2. Klasse C -->
 
-Seventh Level
-=============
+<!-- $table18$ - 2. Klasse D -->
 
-2. Klasse A:
-
- 1. Gmünd           22  18  4  0 76:18 58
------------------------------------------
- 2. Rennweg         22  15  4  3 49:21 49
- 3. St. Jakob/Def.  22  12  4  6 70:45 40
- 4. Penk            22  11  7  4 41:28 40
- 5. Silian          22   8  2 12 46:51 26
- 6. Berg            22   7  4 11 34:42 25
- 7. Lind            22   7  4 11 29:58 25
- 8. Dölsach         22   6  6 10 26:31 24
- 9. UKAJ Lienz      22   7  2 13 30:49 23
-10. Greifenburg     22   5  7 10 32:50 22
-11. Mühldorf        22   6  3 13 24:44 21
-12. Dellach/Dr.     22   5  3 14 24:44 18
-
-2. Klasse B:
-
- 1. Stockenboi      26  21  4  1 75:20 67
------------------------------------------
- 2. Seebach         26  20  3  3 78:27 63
- 3. Gitschtal       26  17  5  4 59:21 56
- 4. Feistritz/Dr.   26  17  3  6 69:40 54
- 5. Nötsch          26  11  5 10 50:40 38
- 6. Kirchbach       26  11  4 11 40:40 37
- 7. Dellach/G.      26   8 10  8 40:36 34
- 8. St. Martin      26  10  4 12 35:37 34
- 9. Töplitsch       26   9  6 11 54:59 33
-10. Arriach         26   8  5 13 41:50 29
-11. Fresach         26   6  4 16 22:52 22
-12. Grafendorf      26   6  3 17 31:69 21
-13. Egg             26   4  2 20 31:85 14
-14. Weißensee       26   3  4 19 28:77 13
-
-2. Klasse C:
-
- 1. St. Jakob/Ros.  26  19  5  2 70:22 62
------------------------------------------
- 2. Rosegg          26  16  6  4 57:26 54
- 3. Techelsberg     26  16  2  8 54:27 50
- 4. Treffen         26  13  9  4 57:23 48
- 5. Zell Pfarre     26  11 10  5 48:25 43
- 6. Ledenitzen      26  10  8  8 41:35 38
- 7. Donau           26   8  8 10 43:51 32
- 8. Keutschach      26   8  6 12 30:39 30
- 9. HSV Klagenfurt  26   8  6 12 38:51 30
-10. Krumpendorf     26   7  9 10 33:47 30
-11. Schiefling      26   7  7 12 37:43 28
-12. SAK II          26   7  6 12 35:51 27
-13. Ossiach         26   4  3 19 25:83 15
-14. Pörtschach      26   1  7 17 15:60 10
-
-2. Klasse D:
-
- 1. Guttaring/H.    22  19  1  2 85:21  58
-------------------------------------------
- 2. Eberstein       22  16  3  3 78:18  51
- 3. Kraig           22  14  3  5 51:23  45
- 4. Oberglan        22  13  4  5 69:23  43
- 5. Gurk            22  13  2  7 79:30  41
- 6. Ulrichsberg     22  12  1  9 56:37  37
- 7. Steuerberg      22   8  4 10 36:50  28
- 8. Straßburg       22   5  6 11 32:43  21
- 9. Kappel          22   6  2 14 37:57  20
-10. St. Urban       22   6  2 14 31:63  20
-11. Weitensfeld/Z.  22   3  1 18 16:109 10
-12. Himmelberg      22   1  3 18 12:108  6
-
-2. Klasse E:
-
- 1. St. Margarethen  26  18  4  4 67:30 58
-------------------------------------------
- 2. Tainach          26  16  5  5 74:36 53
- 3. Frantschach      26  16  5  5 43:24 53
- 4. Kühnsdorf        26  15  5  6 59:23 50
- 5. Reichenfels      26  15  4  7 55:29 49
- 6. Schwabegg        26  10  5 11 47:49 35
- 7. St. Peter        26  11  2 13 38:48 35
- 8. Eberndorf        26   8  9  9 38:38 33
- 9. Gallizien        26   8  7 11 40:40 31
-10. Diex             26   6  7 13 39:68 25
-11. Bleiburg II      26   6  6 14 22:51 24
-12. Waisenberg       26   6  4 16 23:51 22
-13. Mauterndorf      26   6  3 17 27:67 21
-14. Preitenegg       26   4  8 14 28:46 20
+<!-- $table19$ - 2. Klasse E -->
 
 
-Oberösterreich
-==============
+==== Oberösterreich ====
 
-Fourth Level
-============
+==== Fourth Level ====
 
-Landesliga
+<!-- $table20$ - Landesliga -->
 
- 1.Donau (Linz)                 30 23  5  2 70-16  74  Promoted
------------------------------------------------------
- 2.Gmunden                      30 17  8  5 62-34  59
- 3.Vöcklamarkt                  30 17  5  8 52-32  56
- 4.Blau-Weiß FC Linz            30 17  4  9 71-38  55
- 5.Union Perg                   30 15  6  9 63-36  51
- 6.LASK Linz Amateure           30 13  8  9 55-43  47
- 7.SV Ried Amateure             30 13  7 10 41-37  46
- 8.Welser SC Hertha             30 10 12  8 45-44  42
- 9.Bad Schallerbach             30 12  6 12 50-51  42
-10.Rohrbach/Berg                30 10  6 14 51-59  36
-11.Sankt Magdalena              30  9  9 12 41-54  36
-12.Micheldorf                   30 10  5 15 56-61  35
-13.Sattledt                     30  6  8 16 32-62  26
------------------------------------------------------
-14.SK Schärding                 30  7  3 20 34-83  24  Relegated
-15.SC Marchtrenk                30  6  4 20 29-58  22  Relegated
-16.Esternberg                   30  5  4 21 31-75  19  Relegated
+==== Fifth Level ====
 
-Fifth Level
-===========
+<!-- $table21$ - 2. Landesliga Ost -->
 
-2. Landesliga Ost
+<!-- $table22$ - 2. Landesliga West -->
 
- 1.Schwertberg                  30 21  6  3 53-25  69  Promoted
------------------------------------------------------
- 2.Amateure Steyr               30 16  8  6 36-18  56
- 3.Sierning                     30 15 10  5 29-13  55
- 4.Weyer                        30 15  6  9 42-25  51
- 5.Gallneukirchen               30 14  7  9 58-46  49
- 6.Enns                         30 14  6 10 53-38  48
- 7.Pichling                     30 13  8  9 44-36  47
- 8.Königswiesen                 30 12  7 11 56-43  43
- 9.Hörsching                    30 10  6 14 38-52  36
-10.ESV Westbahn (Linz)          30  9  8 13 37-38  35
-11.Naarn                        30  8  9 13 36-44  33
-12.Freistadt                    30  7 12 11 40-50  33
-13.Garsten                      30  6 12 12 26-37  30
------------------------------------------------------
-14.Traun                        30  7  8 15 37-49  29  Relegated
-15.ASK Sankt Valentin           30  5  7 18 38-69  22  Relegated
-16.Steyregg                     30  4  8 18 29-69  20  Relegated
+==== Sixth Level ====
 
-2. Landesliga West
+<!-- $table23$ - Bezirksliga Nord -->
 
- 1.Ranshofen                    30 19  7  4 66-28  64  Promoted
------------------------------------------------------
- 2.Pettenbach                   30 17  8  5 81-47  59
- 3.Altheim                      30 17  6  7 68-36  57
- 4.Ostermiething                30 16  7  7 63-49  55
- 5.Weißkirchen                  30 13 11  6 65-32  50
- 6.Riedau                       30 13  4 13 63-55  43
- 7.Schwanenstadt                30 11  6 13 49-40  39
- 8.Andorf                       30 10  9 11 40-44  39
- 9.Mattighofen                  30 11  6 13 45-52  39
-10.Friedburg                    30 11  6 13 62-77  39
-11.A. Stadl-Paura               30 12  3 15 44-68  39
-12.SV Ebensee                   30 10  5 15 50-55  35
-13.Gurten                       30 10  5 15 49-66  35
------------------------------------------------------
-14.Neumarkt/H.                  30  9  3 18 44-81  30  Relegated
-15.Vorchdorf                    30  7  4 19 42-68  25  Relegated
-16.Lenzing                      30  5  8 17 25-58  23  Relegated
+<!-- $table24$ - Bezirksliga Ost -->
 
-Sixth Level
-===========
+<!-- $table25$ - Bezirksliga Süd -->
 
-Bezirksliga Nord
+<!-- $table26$ - Bezirksliga West -->
 
- 1.Wallern                      26 22  4  0 75-18  70  Promoted
------------------------------------------------------
- 2.Vorderweißenbach             26 17  5  4 64-31  56
- 3.Rainbach/M.                  26 16  4  6 52-26  52
- 4.Ottensheim                   26 13  6  7 59-35  45
- 5.A. Leonding                  26 11  7  8 44-35  40
- 6.U. Eferding                  26 10  2 14 38-63  32
- 7.Peilstein                    26  8  7 11 48-48  31
- 8.Sankt Oswald/Fr.             26  8  6 12 34-48  30
- 9.Gutau                        26  8  5 13 27-42  29
-10.Urfahr                       26  8  4 14 38-53  28
-11.A. Pregarten                 26  8  4 14 39-58  28
-12.Schweinbach                  26  6  8 12 38-52  26
-13.Neustift                     26  6  7 13 32-51  25
-14.Alberndorf                   26  5  3 18 28-56  18
-
-Bezirksliga Ost
-
- 1.Nettingsdorf                 26 14  8  4 56-29  50  Promoted
------------------------------------------------------
- 2.Sankt Ulrich                 26 12  7  7 46-32  43
- 3.Oedt                         26 12  6  8 50-37  42
- 4.Ernsthofen                   26 11  7  8 59-51  40
- 5.Wolfern                      26 12  4 10 47-39  40
- 6.Sankt Pantaleon/E.           26 11  6  9 46-51  39
- 7.Asten                        26 10  8  8 46-34  38
- 8.Doppl                        26 11  5 10 46-38  38
- 9.Kronstorf                    26  9  7 10 38-38  34
-10.V. Marchtrenk                26  9  7 10 36-39  34
-11.SC Sankt Valentin            26  7  9 10 36-39  30
-12.Ansfelden                    26  7  7 12 37-49  28
-13.Bad Hall                     26  8  4 12 41-57  28
-14.SK Vorwärts Steyr Amateure   26  5  3 18 40-90  18
-
-Bezirksliga Süd
-
- 1.Pichl                        26 15 10  1 58-24  55  Promoted
------------------------------------------------------
- 2.Bad Ischl                    26 16  6  4 81-37  54
- 3.Blaue Elf Wels               26 15  5  6 81-37  50
- 4.SV Vöcklabruck               26 13 11  2 55-38  50
- 5.Regau                        26 11  5 10 35-39  38
- 6.A. Vöcklabruck               26 10  5 11 52-43  35
- 7.Frankenburg                  26  8 11  7 43-38  35
- 8.Bad Goisern                  26  9  8  9 41-42  35
- 9.Krenglbach                   26  9  5 12 42-50  32
-10.Mondsee                      26  8  8 10 29-49  32
-11.Gschwandt                    26  6  5 15 31-56  23
-12.Frankenmarkt                 26  5  7 14 28-50  22
-13.ATSV Timelkam                26  5  5 16 36-77  20
-14.TSV Timelkam                 26  4  5 17 34-55  17
-
-Bezirksliga West
-
- 1.Geretsberg                   26 15  8  3 56-24  53  Promoted
------------------------------------------------------
- 2.Sankt Martin/I.              26 14  1 11 50-42  43
- 3.Antiesenhofen                26 11  7  8 47-38  40
- 4.Kopfing                      26 12  4 10 53-45  40
- 5.A. Schärding                 26 11  7  8 41-33  40
- 6.Natternbach                  26 11  5 10 45-39  38
- 7.Waizenkirchen                26 10  7  9 43-43  37
- 8.Riegerting                   26 11  4 11 35-36  37
- 9.Neuhofen/I.                  26 10  4 12 41-52  34
-10.Münzkirchen                  26  9  6 11 39-50  33
-11.Gilgenberg                   26  9  5 12 36-55  32
-12.Sankt Willibald              26  9  4 13 54-48  31
-13.Lochen                       26  8  4 14 43-53  28
-14.Neukirchen/W.                26  7  4 15 32-57  25
-
-Seventh Level
-=============
+==== Seventh Level ====
 
 Champions:
 
@@ -1458,8 +1125,7 @@ Champions:
 1. Klasse Süd:        Ohlsdorf
 1. Klasse Südwest:    Sankt Pantaleon
 
-Eighth Level
-=============
+==== Eighth Level ====
 
 Champions:
 
@@ -1478,665 +1144,107 @@ Champions:
 2. Klasse West:       Utzenaich
 
 
-Salzburg
-========
+==== Salzburg ====
 
-Fourth Level
-============
+==== Fourth Level ====
 
-Landesliga
+<!-- $table27$ - Landesliga -->
 
- 1.SV Seekirchen                26 19  2  5 61-31  59  Promoted
------------------------------------------------------
- 2.Hallwang                     26 16  6  4 71-40  54
- 3.Schwarzach                   26 14  6  6 66-37  48
- 4.SV Bürmoos                   26 13  4  9 51-39  43
- 5.FC Zell am See               26 12  4 10 60-53  40
- 6.SV Grünau                    26 11  6  9 47-39  39
- 7.ÖTSU Henndorf                26 10  7  9 55-48  37
- 8.SK Hallein                   26 10  6 10 43-44  36
- 9.Sankt Michael                26  7  8 11 27-43  29
-10.Kuchl                        26  7  7 12 53-59  28
-11.ESV Saalfelden               26  6  9 11 32-47  27
-12.1.Oberndorfer SK             26  5  9 12 20-40  24
------------------------------------------------------
-13.SC Mittersill                26  5  6 15 33-71  21  Relegated
-14.Dorfgastein                  26  4  6 16 34-52  18  Relegated
+==== Fifth Level ====
 
-Fifth Level
-===========
+<!-- $table28$ - 2. Landesliga Nord -->
 
-2. Landesliga Nord
+<!-- $table29$ - 2. Landesliga Süd -->
 
- 1.Golling                      26 19  5  2 72-14  62  Promoted
------------------------------------------------------
- 2.ASK (Salzburg)               26 19  3  4 58-27  60
- 3.Strobl                       26 12  8  6 58-38  44
- 4.Hof                          26 12  3 11 56-45  39
- 5.Sankt Georgen                26 10  8  8 52-38  38
- 6.PSV/Schwarz-Weiß (Salzburg)  26 10  7  9 62-55  37
- 7.Anthering                    26 10  6 10 39-33  36
- 8.Abtenau                      26 10  4 12 48-52  34
- 9.ATSV Trimmelkam              26  9  7 10 33-39  34
-10.ASV (Salzburg)               26  9  6 11 46-56  33
-11.Thalgau                      26  9  3 14 30-47  30
-12.Elixhausen                   26  8  5 13 53-64  29
------------------------------------------------------
-13.Grödig                       26  6  7 13 42-47  25  Relegated
-14.Großgmain/Unken              26  2  2 22 19-113  8  Relegated
+==== Sixth Level ====
 
-2. Landesliga Süd
+<!-- $table30$ - 1. Klasse Nord -->
 
- 1.SK Saalfelden                26 17  4  5 53-27  55  Promoted
------------------------------------------------------
- 2.Mühlbach/Pinzgau             26 14  6  6 57-41  48
- 3.Bramberg                     26 13  6  7 61-41  45
- 4.Uttendorf                    26 13  3 10 57-40  42
- 5.Rauris                       26 13  2 11 47-37  41
- 6.Stuhlfelden                  26 10  9  7 62-54  39
- 7.Hüttschlag                   26  9  9  8 40-38  36
- 8.Maria Alm                    26 10  5 11 61-53  35
- 9.Bischofshofen                26 10  5 11 49-42  35
-10.Hollersbach                  26 10  4 12 39-44  34
-11.Maishofen                    26 11  1 14 42-50  34
-12.Kaprun                       26  9  5 12 39-39  32
------------------------------------------------------
-13.Tamsweg                      26  9  5 12 42-49  32  Relegated
-14.Mühlbach/Hkg.                26  1  2 23 17-111  5  Relegated
+<!-- $table31$ - 1. Klasse Süd -->
 
-Sixth Level
-===========
+==== Seventh Level ====
 
-1. Klasse Nord
+<!-- $table32$ - 2. Klasse Nord A -->
 
- 1.Straßwalchen                 26 19  3  5 70-33  57  Promoted
- 2.Köstendorf                   26 16  8  2 63-29  56  Promoted
------------------------------------------------------
- 3.UFC                          26 18  0  8 91-38  54
- 4.Eugendorf                    26 13  7  6 44-29  46
- 5.Obertrum                     26 11  4 11 66-50  37
- 6.Nußdorf                      26 10  7  9 59-70  37
- 7.Taxham                       26 11  3 12 63-63  36
- 8.Neumarkt                     26 10  5 11 47-51  35
- 9.Oberalm                      26  8  7 11 54-56  31
-10.Lamprechtshausen             26  8  6 12 53-59  30
-11.SSK                          26  8  5 13 39-55  29
-12.Sankt Koloman                26  6  8 12 40-64  26
------------------------------------------------------
-13.Lieferinger SV               26  7  1 18 41-90  22  Relegated
-14.Ebenau                       26  5  2 19 33-76  17  Relegated
+<!-- $table33$ - 2. Klasse Nord B -->
 
-1. Klasse Süd
+<!-- $table34$ - 2. Klasse Süd -->
 
- 1.Bad Hofgastein               22 15  5  2 59-23  50  Promoted
- 2.Piesendorf                   22 14  7  1 65-20  49  Promoted?
------------------------------------------------------
- 3.Zederhaus                    22 12  6  4 57-41  42
- 4.Leogang                      22 13  1  8 55-37  40
- 5.Wagrain                      22  8  4 10 41-33  28
- 6.Sankt Martin/L.              22  7  6  9 48-50  27
- 7.Pfarrwerfen                  22  6  6 10 39-51  24
- 8.Eben                         22  7  3 12 42-61  24
- 9.Niedernsill                  22  7  3 12 27-52  24
------------------------------------------------------
-10.Dienten                      22  5  8  9 36-41  23  Relegated
-11.Wald/Königsl.                22  4  6 12 34-66  18  Relegated
-12.Bad Gastein                  22  4  5 13 33-61  17  relegated
+<!-- $table35$ - 2. Klasse Südwest -->
 
-Seventh Level
-=============
+==== Steiermark ====
 
- 2. Klasse Nord A
+==== Fourth Level ====
 
- 1.HSV (Heeressportverein)      24 18  3  3 82-26  57  Promoted
------------------------------------------------------
- 2.ASVÖ Liefering               24 15  7  2 76-23  52
- 3.Bergheim                     24 16  3  5 78-38  51
- 4.Oberhofen                    24 13  3  8 65-65  42
- 5.Mattsee                      24 11  5  8 51-44  38
- 6.Seeham                       24 10  6  8 46-35  36
- 7.Perwang                      24 10  3 11 61-67  33
- 8.Berndorf                     24  8  7  9 31-53  31
- 9.SAK 1b                       24  8  2 14 54-52  26
-10.Michaelbeuern                24  6  4 14 40-55  22
-11.Schleedorf                   24  5  6 13 50-77  21
-12.Siezenheim                   24  4  6 14 34-68  18
-13.Blau-Weiß                    24  2  5 17 26-92  11
-
- 2. Klasse Nord B
-
- 1.Plainfeld                    24 18  2  4 75-38  56  Promoted
------------------------------------------------------
- 2.Union Hallein                24 13  8  3 43-26  47
- 3.Gneis                        24 12 10  2 49-22  46
- 4.Leopoldskron                 24 13  5  6 61-35  44
- 5.Anif 1b                      24 10  5  9 50-44  35
- 6.Fuschl                       24  8  9  7 55-38  33
- 7.Abersee                      24  9  6  9 48-42  33
- 8.Gaißau                       24  7  9  8 41-55  30
- 9.Adnet                        24  6  7 11 45-55  25
-10.Olympia Hallein              24  7  3 14 34-65  24
-11.Koppl                        24  6  5 13 35-50  23
-12.Elsbethen                    24  3  9 12 28-52  18
-13.Faistenau                    24  2  6 16 31-73  12
-
- 2. Klasse Süd
-
- 1.Annaberg                     20 16  0  4 62-26  48  Promoted
------------------------------------------------------
- 2.Radstadt                     20 14  2  4 94-30  44
- 3.Flachau                      20 12  1  7 36-30  37
- 4.Rußbach                      20 10  4  6 45-33  34
- 5.Forstau                      20  9  6  5 50-40  33
- 6.Sankt Martin/T.              20  7  5  8 39-45  26
- 7.Mariapfarr                   20  7  3 10 37-45  24
- 8.Konkordiahütte               20  6  3 11 39-49  21
- 9.Altenmarkt                   20  5  4 11 35-55  19
-10.Filzmoos                     20  3  4 13 41-75  13
-
- 2. Klasse Südwest
-
- 1.Sankt Johann                 18 16  1  1 126-9  49  Promoted
------------------------------------------------------
- 2.Sankt Veit                   18 12  3  3 47-29  39
- 3.Neukirchen                   18 11  2  5 72-27  35
- 4.Lenzing                      18  9  4  5 64-33  31
- 5.Bruck                        18 10  0  8 39-36  30
- 6.Saalbach                     18  7  3  8 37-48  24
- 7.Kleinarl                     18  6  2 10 34-73  20
- 8.Taxenbach                    18  3  3 12 27-85  12
- 9.Großarl                      18  3  1 14 31-94  10
-10.Lend                         18  2  3 13 23-66   9
-
-Steiermark
-==========
-
-Fourth Level
-============
-
-Landesliga
-
- 1. Zeltweg         34  22  4  8 66:30 70  Promoted
------------------------------------------
- 2. Rottenmann      34  21  7  6 59:27 70
- 3. Kindberg        34  21  6  7 68:26 69
- 4. Kapfenberger SV 33  20  4  9 70:34 64
- 5. Anger           34  16 11  7 65:30 59
- 6. Pöllau          33  15  9  9 51:40 54
- 7. Hartberg/Umg.   33  14  9 10 50:44 51
- 8. ESK/GAK Amat.   34  14  8 12 40:36 50
- 9. Köflach         33  14  7 12 48:31 49
-10. Bruck/Mur       33   9 15  9 44:35 42
-11. Lebring         34  10 12 12 43:57 42
-12. Großklein       33   9 14 10 38:31 41
------------------------------------------
-13. Flavia Solva    34  10 11 13 37:54 41 (Oberliga Mitte/West)
-14. Feldbach        33   9  7 17 28:50 34 (Oberliga Süd-Ost)
-15. Weiz            33   5 11 17 40:63 26 (Oberliga Süd-Ost)
-16. Fürstenfeld     34   5  7 22 30:97 21 (Oberliga Süd-Ost)
-17. Thörl           33   4  8 21 30:75 20 (Oberliga Nord)
-18. Breitenfeld     33   4  8 21 31:78 20 (returns to 8th level, 1. Klasse Süd A)
+<!-- $table36$ - Landesliga -->
 
 Flavia Solva merge with SV Leibnitz and will play as SV Leibnitz/Flavia Solva
 in the Landesliga 1999/2000.
 
-Fifth Level
-===========
+==== Fifth Level ====
 
-Oberliga Süd/Ost
+<!-- $table37$ - Oberliga Süd/Ost -->
 
- 1. Gnas            26  18  5  3 64 :24 59
-------------------------------------------
- 2. Ilz             26  15  5  6 55 :31 50
- 3. SC Gleisdorf    26  13  6  7 40 :32 45
- 4 .Unterlamm       26  12  5  9 52 :40 41
- 5. Hartmannsdorf   26  12  4 10 61 :44 40
- 6. ‹Siebing›         26   9 11  6 48 :30 38
- 7. Passail         26  11  5 10 43 :45 38
- 8. Radkersburg     26   9  8  9 44 :49 35
- 9. Pischelsdorf    26   9  8  9 29 :39 35
-10. Fehring         26   8  8 10 40 :39 32
-------------------------------------------
-11. Pircha          26   7  8 11 42 :48 29
-12. Greinbach       26   7  7 12 37 :51 28
-13. Kirchbach       26   4  5 17 26 :65 17
-14. Gutenberg       26   2  7 17 25 :69 13
+<!-- $table38$ - Oberliga Mitte/West -->
 
-Oberliga Mitte/West
+<!-- $table39$ - Oberliga Nord -->
 
- 1. St. Peter/S.   26 18 1  7 68 :37 55
----------------------------------------
- 2. Kalsdorf       26 16 5  5 48 :20 53
- 3. Wildon         26 16 4  6 61 :24 52
- 4. Arnfels        26 15 7  4 49 :19 52
- 5. Bärnbach       26 10 8  8 46 :33 38
- 6. Straß          26 10 5 11 38 :47 35
- 7. Gössendorf     26  9 7 10 34 :43 34
- 8. Piberstein     26  9 5 12 34 :47 32
- 9. Seiersberg     26  8 7 11 43 :47 31
-10. Eibiswald      26  7 9 10 47 :49 30
-11. Deutschlandsb. 26  8 5 13 37 :53 29
-12. Frohnleiten    26  7 4 15 29 :45 25
-13. Grambach       26  7 4 15 37 :65 25
----------------------------------------
-14. Gleinstätten   26  3 7 16 28 :70 16
+==== Sixth Level ====
 
-Oberliga Nord
+<!-- $table40$ -->
 
- 1. Trofaiach       26 19  4  3 76 :21 61
------------------------------------------
- 2. Bad Aussee      26 19  2  5 65 :29 59
- 3. Liezen          26 15 10  1 58 :28 55
- 4. Irdning         26 14  5  7 58 :37 47
- 5. Mürzzuschlag    26 14  4  8 45 :32 46
- 6. RW Knittelfeld  26 13  1 12 46 :53 40
- 7. St. Lambrecht   26  8  7 11 33 :33 31
- 8. St. Peter/Kbg.  26  8  7 11 30 :40 31
- 9. Fohnsdorf       26  7  9 10 24 :37 30
-10. Veitsch         26  8  5 13 31 :37 29
-11. Schladming      26  8  3 15 48 :58 27
------------------------------------------
-12. RS Knittelfeld  26  6  4 16 31 :68 22
-13. Pöls            26  5  6 15 25 :55 21
-14. Mürzhofen       26  2  5 19 24 :66 11
+<!-- $table41$ - Unterliga Ost -->
 
-Sixth Level
-===========
+<!-- $table42$ - Unterliga Mitte -->
 
- 1. ‹Mühldorf›        22 14 6  2 51 :21 48
-----------------------------------------
- 2. Straden         22 11 7  4 46 :37 40
- 3. ‹Eichkögl›        22  9 9  4 57 :33 36
- 4. Riegersburg     22  8 8  6 29 :24 32
- 5. Loipersdorf     22  9 5  8 40 :39 32
- 6. Paldau          22  9 3 10 49 :35 30
- 7. St. Marein/Gr.  22  8 6  8 36 :41 30
- 8. Deutsch Goritz  22  8 6  8 29 :36 30
- 9. Laafeld         22  6 6 10 38 :47 24
-10. St. Stefan/R.   22  6 6 10 44 :58 24
-11. Ottendorf       22  5 7 10 37 :42 22
-----------------------------------------
-12. St. Peter/O.    22  2 5 15 34 :77 11
+<!-- $table43$ - Unterliga West -->
 
-Unterliga Ost
+==== Seventh Level ====
 
- 1. Kaindorf/H.      22 14 6  2 52 :21 48
------------------------------------------
- 2. Eggendorf        22 12 6  4 48 :31 42
- 3. Lafnitz          22 11 6  5 50 :38 39
- 4. St. Johann/H.    22 11 5  6 45 :33 38
- 5. Birkfeld         22 10 4  8 46 :33 34
- 6. Pinggau/Fr.      22  8 7  7 42 :29 31
- 7. Ilztalunion      22  9 4  9 38 :50 31
- 8. Vorau            22  8 6  8 38 :40 30
- 9. Buch/St. M.      22  6 4 12 34 :51 22
------------------------------------------
-10. Bad Waltersdorf  22  4 6 12 33 :48 18
-11. Festenburg       22  5 2 15 34 :60 17
-12. Puch/W.          22  4 4 14 25 :51 16
+<!-- $table44$ - Gebietsliga Süd -->
 
-Unterliga Mitte
+<!-- $table45$ - Gebietsliga Ost -->
 
- 1. Grazer SC    22 15 4  3 57 :21 49
--------------------------------------
- 2. Peggau       22 14 4  4 45 :32 46
- 3. Feldkirchen  22 12 6  4 62 :29 42
- 4. Pachern      22 11 6  5 51 :30 39
- 5. Übelbach     22 11 4  7 50 :38 37
- 6. Eggersdorf   22 10 4  8 44 :36 34
- 7. Laßnitzhöhe  22  9 5  8 46 :43 32
- 8. Stattegg     22  9 2 11 34 :37 29
- 9. Kumberg      22  6 9  7 39 :35 27
-10. Thal         22  7 3 12 44 :45 24
-11. Gratwein     22  4 1 17 18 :57 13
--------------------------------------
-12. ASV Puch     22  0 0 22 11 :98  0
+<!-- $table46$ - Gebietsliga Mitte -->
 
-Unterliga West
+<!-- $table47$ - Gebietsliga West -->
 
- 1. Allerheiligen   22 13 5  4 51 :21 44
-----------------------------------------
- 2. Gamlitz         22 13 5  4 36 :23 44
- 3. Wies            22 11 7  4 44 :21 40
- 4. St. Johann/S.   22 11 5  6 57 :42 38
- 5. Frauental       22 11 4  7 47 :35 37
- 6. Lannach         22 10 3  9 33 :34 33
- 7. Hengsberg       22  6 9  7 38 :33 27
- 8. Heiligenkreuz   22  7 5 10 32 :44 26
- 9. Mooskirchen     22  7 4 11 25 :35 25
-10. Kainach         22  4 8 10 22 :38 20
-11. Ligist          22  4 6 12 22 :45 18
-----------------------------------------
-12. Unterpremstätt. 22  2 5 15 23 :59 11
+<!-- $table48$ - Gebietsliga Mur -->
 
-Seventh Level
-=============
+<!-- $table49$ - Gebietsliga Mürz -->
 
-Gebietsliga Süd
+<!-- $table50$ - Gebietsliga Enns -->
 
- 1. Klöch            22 16 3  3 75 :28 51
------------------------------------------
- 2. Halbenrain       22 12 4  6 55 :49 40
- 3. Nestelbach       22 10 5  7 55 :42 35
- 4. Kirchberg        22 10 3  9 38 :37 33
- 5. St. Magarethen   22  9 6  7 37 :43 33
- 6. Frannach         22 10 2 10 61 :48 32
- 7. Blumau           22  8 6  8 51 :47 30
- 8. Hof              22  8 5  9 48 :46 29
- 9. Mureck           22  8 2 12 61 :75 26
-10. Sinabelkirchen   22  7 3 12 50 :79 24
------------------------------------------
-11. Söchau           22  6 4 12 37 :58 22
-12. Großwilfersdorf  22  6 1 15 38 :54 19
+==== Eighth Level ====
 
-Gebietsliga Ost
+<!-- $table51$ - 1. Klasse Süd A -->
 
- 1. Krottendorf     22 14 4  4 51 :27 46
-----------------------------------------
- 2. Pöllauberg      22 13 4  5 43 :35 43
- 3. Waldbach        22 12 5  5 58 :31 41
- 4. Sonnhofen       22 12 5  5 48 :27 41
- 5. Stubenberg      22  9 7  6 46 :25 34
- 6. Ratten          22 10 4  8 44 :51 34
- 7. Rohrbach        22  7 7  8 33 :46 28
- 8. Dechantskirch.  22  6 9  7 32 :31 27
- 9. St. Jakob       22  5 8  9 30 :35 23
-10. Schäffern       22  6 3 13 34 :57 21
-----------------------------------------
-11. Groß Steinbach  22  4 5 13 35 :53 17
-12. Mitterdorf/R.   22  3 1 18 32 :68 10
+<!-- $table52$ - 1. Klasse Süd B -->
 
-Gebietsliga Mitte
+<!-- $table53$ - 1. Klasse Ost A -->
 
- 1. Andritz         22 17 5  0 54 : 8 56
-----------------------------------------
- 2. Gratkorn II     22 12 5  5 54 :31 41
- 3. Vasoldsberg     21 10 7  4 59 :39 37
- 4. Judendorf       22 10 6  6 47 :32 36
- 5. Kainbach/Hö.    21 10 5  6 48 :36 35
- 6. Liebenau        22 10 4  8 44 :48 34
- 7. Weinitzen       22  9 3 10 38 :33 30
- 8. Austria Graz    22  7 5 10 38 :48 26
- 9. Werndorf        22  6 7  9 33 :34 25
-10. Hausmannstätt.  22  4 8 10 34 :61 20
-----------------------------------------
-11. Rein            22  2 6 14 24 :47 12
-12. GSV Wacker      22  2 3 17 23 :79  9
+<!-- $table54$ - 1. Klasse Ost B -->
 
-Gebietsliga West
+<!-- $table55$ - 1. Klasse Mitte A -->
 
- 1. Retznei/Ehr.      22 14 3  5 55 :28 45
-------------------------------------------
- 2. Söding            22 13 4  5 35 :28 43
- 3. Dobl              22 11 8  3 56 :29 41
- 4. Gabersdorf        22 11 4  7 45 :33 37
- 5. Schwanberg        22 11 3  8 39 :39 36
- 6. Bad Gams          22  9 3 10 45 :45 30
- 7. Ragnitz           22  8 4 10 44 :53 28
- 8. Stainz            22  8 3 11 41 :45 27
- 9. Steyeregg         22  7 4 11 41 :49 25
-10. St. Stefan/St.    22  7 4 11 28 :38 25
-------------------------------------------
-11. St. Josef         22  6 5 11 37 :46 23
-12. Groß St. Florian  22  2 5 15 27 :60 11
+<!-- $table56$ - 1. Klasse Mitte B -->
 
-Gebietsliga Mur
+<!-- $table57$ - 1. Klasse West A -->
 
- 1. Spielberg        22 17 2  3 58 :27 53
------------------------------------------
- 2. Neumarkt         22 14 2  6 47 :34 44
- 3. Oberwölz         22 13 4  5 55 :24 43
- 4. ESV Knittelfeld  22 10 6  6 34 :18 36
- 5. Lobmingtal       22 10 6  6 44 :33 36
- 6. Kobenz           22 10 4  8 35 :36 34
- 7. Judenburg        22 10 3  9 52 :43 33
- 8. Weißkirchen      22  8 5  9 35 :36 29
- 9. St. Peter/J.     22  8 2 12 36 :39 26
-10. Scheifling       22  6 3 13 36 :45 21
-11. Dietersdorf      22  6 3 13 41 :52 21
------------------------------------------
-12. St. Lorenzen/K.  22  0 0 22 11 :97  0
+<!-- $table58$ - 1. Klasse West B -->
 
-Gebietsliga Mürz
+<!-- $table59$ - 1. Klasse Mur -->
 
- 1. Kraubath       24 18 4  2 60 :16 58
----------------------------------------
- 2. Breitenau      24 16 6  2 65 :19 54
- 3. Hinterberg     24 13 7  4 45 :27 46
- 4. Niklasdorf     24 12 7  5 55 :28 43
- 5. Stanz          24 13 4  7 55 :37 43
- 6. St. Peter/Fr.  24 10 8  6 44 :28 38
- 7. Pernegg        24  9 7  8 42 :43 34
- 8. Kammern        24  7 6 11 38 :43 27
- 9. Mitterdorf/M.  24  6 8 10 38 :54 26
-10. DSV Leoben II  24  5 7 12 26 :43 22
-11. St. Stefan/L.  24  4 7 13 19 :32 19
----------------------------------------
-12. Langenwang     24  4 2 18 24 :74 14
-13. St. Michael    24  1 3 20 15 :82  6
+<!-- $table60$ - 1. Klasse Mürz A -->
 
-Gebietsliga Enns
+<!-- $table61$ - 1. Klasse Mürz B -->
 
- 1. Stainach        22 14 4  4 50 :24 46
-----------------------------------------
- 2. Bad Aussee II   22 14 2  6 61 :35 44
- 3. Trieben         22 11 4  7 45 :21 37
- 4. Hieflau         22 11 3  8 46 :32 36
- 5. Bad. Mitternd.  22 10 4  8 42 :34 34
- 6. Wörschach       22  8 8  6 36 :24 32
- 7. St. Gallen      22  6 9  7 33 :38 27
- 8. Selzthal        22  6 9  7 30 :38 27
- 9. Lassing         22  5 7 10 30 :46 22
-10. WSV Eisenerz    22  6 4 12 22 :41 22
-11. Admont          22  6 4 12 23 :53 22
-----------------------------------------
-12. Stein/E.        22  5 2 15 29 :61 17
+<!-- $table62$ - 1. Klasse Enns -->
 
-Eighth Level
-============
-
-1. Klasse Süd A
-
- 1. Atus Gleisdorf   18 15 3  0 61 :18 48
------------------------------------------
- 2. Nitscha          18  9 5  4 37 :24 32
- 3. Auersbach        18  6 7  5 34 :37 25
- 4. St. Ruprecht/R.  18  7 3  8 38 :31 24
- 5. Hatzendorf       18  7 3  8 37 :46 24
- 6. Hartmannsd. II   18  7 3  8 34 :44 24
- 7. Edelsbach        18  6 4  8 42 :44 22
- 8. Albersdorf       18  5 5  8 42 :47 20
- 9. Reichendorf      18  5 3 10 36 :55 18
-10. Rollsdorf        18  4 2 12 21 :36 14
-
-1. Klasse Süd B
-
- 1. Wolfsberg       22 15  5  2 62 :27 50
------------------------------------------
- 2. Gossendorf      22 14  2  6 56 :33 44
- 3. St. Anna/A.     22 13  3  6 72 :44 42
- 4. Tieschen        22 11  5  6 49 :45 38
- 5. Jagerberg       22 10  5  7 51 :46 35
- 6. Bair. Kölldorf  22 10  3  9 40 :42 33
- 7. Pertlstein      21  7 10  4 44 :34 31
- 8. Mettersdorf     22  9  3 10 43 :40 30
- 9. Gleichenberg    21  8  5  8 39 :48 29
-10. Kapfenstein     22  4  3 15 36 :66 15
-11. Gnas II         22  3  2 17 31 :65 11
-12. Weinburg        22  2  4 16 29 :62 10
-
-1. Klasse Ost A
-
- 1. St. Lorenzen/W. 22 20 1  1 73 :24 61
-----------------------------------------
- 2. Grafendorf      22 18 3  1 79 :14 57
- 3. Burgau          22 14 3  5 60 :37 45
- 4. Schönegg        22 11 5  6 78 :51 38
- 5. Hirnsdorf       22  9 2 11 49 :49 29
- 6. Neudau          22  8 3 11 43 :45 27
- 7. Ehrenschachen   22  8 3 11 30 :32 27
- 8. Unterrohr       22  6 7  9 32 :37 25
- 9. Saifenboden     22  8 1 13 37 :51 25
-10. Eichberg        22  7 3 12 34 :63 24
-11. Dienersdorf     22  5 2 15 24 :63 17
-12. Hofkirchen      22  1 1 20 21 :94  4
-
-1. Klasse Ost B
-
- 1. St. Kathrein     20 16 3  1 61 :21 51
------------------------------------------
- 2. Naintsch         20 14 5  1 68 :23 47
- 3. Weiz II          20 10 3  7 47 :47 33
- 4. Rabenwald        19  9 4  6 55 :44 31
- 5. Vornholz         20  8 5  7 42 :32 29
- 6. Koglhof          20  8 5  7 36 :31 29
- 7. Floing           20  8 5  7 36 :40 29
- 8. Miesenbach       20  5 4 11 32 :53 19
- 9. Wenigzell        20  4 3 13 37 :66 15
-10. Vorau/Riegersb.  20  2 6 12 28 :53 12
-11. Strallegg        19  2 3 14 30 :62  9
-
-1. Klasse Mitte A
-
- 1. Semriach      18 15 2  1 63 :19 47
---------------------------------------
- 2. St. Radegund  18 11 3  4 53 :29 36
- 3. Straßgang     18 11 2  5 42 :28 35
- 4. Justiz        18 10 3  5 60 :52 33
- 5. Post SV       18  8 1  9 31 :33 25
- 6. Arzberg       18  7 2  9 34 :41 23
- 7. Hertha        18  6 4  8 32 :45 22
- 8. Gösting       18  4 4 10 33 :47 16
- 9. Fladnitz      18  3 3 12 29 :40 12
-10. FC Graz       18  3 0 15 25 :68  9
-
-1. Klasse Mitte B
-
- 1. Stiwoll          20 18 1  1 82 :16 55
------------------------------------------
- 2. LUV II           20 14 3  3 70 :20 45
- 3. Hitzendorf I     20 13 2  5 60 :35 41
- 4. Mellach          20  9 8  3 59 :38 35
- 5. ASKö Murfeld     20  9 4  7 53 :39 31
- 6. Pirka            20  8 4  8 52 :46 28
- 7. Petersdorf       20  6 6  8 43 :42 24
- 8. Stallhofen       20  5 4 11 41 :44 19
- 9. Fernitz          20  5 3 12 35 :59 18
-10. Edelstauden      20  2 2 16 14 :78  8
-11. Unterpremst. II  20  1 3 16 19 :111 6
-
-1. Klasse West A
-
- 1. Voitsberg II    21 17 4  0 100 :12 55
------------------------------------------
- 2. Lieboch         22 17 2  3  74 :28 53
- 3. Tobelbad        21 13 3  5  56 :37 42
- 4. St. Georgen/S.  21 13 1  7  61 :34 40
- 5. Preding         21 12 4  5  59 :37 40
- 6. Stainztal       21  8 4  9  52 :65 28
- 7. Edelschrott     21  8 3 10  49 :41 27
- 8. Mooskirchen II  21  8 2 11  36 :42 26
- 9. Wettmannstätt.  21  5 3 13  44 :61 18
-10. St. Nikolai     21  3 5 13  29 :51 14
-11. DSC II          21  2 1 18  21 :117 7
-12. St. Andrä       12  0 0 12  16 :72  0
-
-1. Klasse West B
-
- 1. Gralla         20 15 4  1 71 :19 49
----------------------------------------
- 2. Kaindorf/S.    20 16 1  3 72 :26 49
- 3. Pölfing Brunn  20 13 1  6 58 :45 40
- 4. Heimschuh      20 12 2  6 58 :36 38
- 5. Leibnitzer AC  20 10 2  8 50 :49 32
- 6. Leutschach     20  9 3  8 40 :40 30
- 7. Tillmitsch     20  7 3 10 36 :43 24
- 8. Oberhaag       20  6 3 11 26 :52 21
- 9. Spielfeld      20  4 3 13 35 :61 15
-10. Grenzland      20  3 3 14 31 :72 12
-11. Pitschgau      20  1 3 16 28 :62  6
-
-1. Klasse Mur
-
- 1. Stadl           22 17 3  2 123 :22 54
------------------------------------------
- 2. Aichdorf        22 17 2  3  99 :23 53
- 3. St. Georgen/J.  22 15 2  5  74 :30 47
- 4. Krakaudorf      22 14 5  3  80 :44 47
- 5. Obdach          22 15 2  5  55 :29 47
- 6. Mühlen          22 10 6  6  48 :32 36
- 7. Schöder         22  6 4 12  33 :64 22
- 8. Oberzeiring     22  6 3 13  43 :57 21
- 9. St. Peter/K. II 21  5 2 14  35 :72 17
-10. Murau           21  4 4 13  34 :71 16
-11. Unzmarkt        22  3 2 17  31 :67 11
-12. Pöls II         22  1 1 20  16 :160 4
-
-1. Klasse Mürz A
-
- 1. Traboch         22 17 0  5 75 :18 51
-----------------------------------------
- 2. Aust. Kapfenb.  22 16 3  3 74 :24 51
- 3. Tragöß          22 14 2  6 63 :37 44
- 4. Amat. Kapfenb.  22 13 4  5 75 :35 43
- 5. Proleb          22 12 2  8 52 :37 38
- 6. Seckau          22 11 3  8 49 :44 36
- 7. Bruck/Mur II    22 10 4  8 51 :39 34
- 8. Zeltweg II      22  8 3 11 38 :57 27
- 9. Oberaich        22  5 4 13 36 :53 19
-10. Laming/St. K.   21  4 3 14 34 :78 15
-11. Gaal            22  4 2 16 42 :88 14
-12. Fohnsdorf II    21  1 2 18 18 :97  5
-
-1. Klasse Mürz B
-
- 1. Krieglach        22 19 1  2  83 :18 58
-------------------------------------------
- 2. Wartberg         22 16 6  0 107 :27 54
- 3. Gußwerk          22 14 5  3  69 :21 47
- 4. Turnau           22 10 5  7  57 :32 35
- 5. St. Marein/Lor.  22  8 7  7  48 :35 31
- 6. Mariazell        22  8 5  9  57 :45 29
- 7. Ph. Mürzzusch.   22  7 8  7  38 :31 29
- 8. SV Kapfenb. II   22  8 3 11  54 :73 27
- 9. Parschlug        22  6 7  9  57 :50 25
-10. ESV Mürzzu. II   22  4 5 13  33 :71 17
-11. Thörl II         22  4 3 15  30 :70 15
-12. Veitsch II       22  0 1 21  17 :177 1
-
-1. Klasse Enns
-
- 1. St. Martin/Gr.  22 19 1  2 84 :30 58
-----------------------------------------
- 2. Haus            22 13 5  4 63 :37 44
- 3. Pruggern        22 12 5  5 53 :44 41
- 4. Öblarn          22 11 4  7 70 :49 37
- 5. Tauplitz        22 11 4  7 59 :47 37
- 6. Aigen/E.        22 10 2 10 62 :57 32
- 7. TUS Ardning     22  7 4 11 59 :66 25
- 8. Hall            22  6 5 11 44 :62 23
- 9. Grimming        22  7 1 14 37 :58 22
-10. WSV Liezen      22  6 3 13 34 :51 21
-11. Ramsau          22  5 5 12 38 :70 20
-12. Gröbming        22  4 3 15 44 :76 15
-
-1. Klasse Palten/Liesing
-
- 1. Mautern        18 14 4  0 57 :14 46
----------------------------------------
- 2. Wald           18 11 4  3 45 :18 37
- 3. Gaishorn       18 11 3  4 53 :28 36
- 4. Kalwang        18 10 4  4 46 :25 34
- 5. Gams/H.        18  8 2  8 40 :41 26
- 6. Vordernberg    18  8 1  9 40 :45 25
- 7. Rottenmann II  18  7 3  8 36 :40 24
- 8. Radmer         18  5 2 11 26 :51 17
- 9. Palfau         18  4 1 13 24 :50 13
-10. ESV Eisenerz   18  0 0 18  2 :57  0
+<!-- $table63$ - 1. Klasse Palten/Liesing -->
 
 
-Tirol
-=====
+==== Tirol ====
 
 **************************
      ‹§tircup›FOHRENBURGER CUP
@@ -2238,13 +1346,11 @@ quarter-final on neutral ground.
 
 
 
-Fourth Level
-============
+==== Fourth Level ====
 
 Tiroler Liga  ‹§tirol›
 
-<!-- $table8$ -->
-
+<!-- $table64$ - Final Table -->
 
 Changes:
 - Champion SVg Jenbach mixes with FC Achensee to form SPG Jenbach/Achensee
@@ -2272,81 +1378,67 @@ Thiersee   5-1 2-0 0-1 4-1 1-2 0-1 2-1 0-1 6-2 1-2 4-1 4-1 1-0 *** 1-0 4-2
 Vils       0-2 1-0 1-5 0-3 2-1 1-1 2-2 0-0 2-0 1-1 2-0 0-2 1-0 3-0 *** 7-0
 Vomp       1-0 3-5 1-1 2-0 0-6 0-6 1-3 1-1 3-3 0-0 3-6 1-2 2-7 2-2 0-1 ***
 
-Fifth Level
-===========
+==== Fifth Level ====
 
 Landesliga Ost
 
-<!-- $table9$ -->
-
+<!-- $table65$ - Final Standings -->
 
 Landesliga West
 
-<!-- $table10$ -->
-
+<!-- $table66$ - Final Standings -->
 
 Changes:
 - Relegated from Tiroler Liga: FC Vomp (Ost), SC Imst (West)
 - Promoted from Gebietsliga: SV Breitenbach (Ost), SV Längenfeld (West)
 
-Sixth Level
-===========
+==== Sixth Level ====
 
 Gebietsliga Ost
 
-<!-- $table11$ -->
-
+<!-- $table67$ - Final Standings -->
 
 Gebietsliga West
 
-<!-- $table12$ -->
-
+<!-- $table68$ - Final Standings -->
 
 Changes:
 - Relegated from Landesliga: SC Mils, SK Zirl (West)
 - Promoted from 1.Klasse: FC Kramsach (Ost), SV Lohbach/Kranebitten, SK Seefeld(West)
 - WSG Wattens Amateure moves from Group West to Group Ost
 
-Seventh Level
-=============
+==== Seventh Level ====
 
 1.Klasse Ost
 
-<!-- $table13$ -->
-
+<!-- $table69$ - Final Standings -->
 
 1.Klasse Mitte
 
-<!-- $table14$ -->
-
+<!-- $table70$ - Final Standings -->
 
 1.Klasse West
 
-<!-- $table15$ -->
-
+<!-- $table71$ - Final Standings -->
 
 Changes:
 - Relegated from Gebietsliga: SVg Stumm (Ost), FC Prutz, SK Schönwies (West)
 - Promoted from 2.Klasse: SC Going (Ost), SV Tulfes (Mitte), FC Pettneu (West)
 - FC Flaurling/Polling moves from Group West to Group Mitte
 
-Eighth Level
-============
+==== Eighth Level ====
 
 2.Klasse Ost
 
-<!-- $table16$ -->
-
+<!-- $table72$ - Final Standings -->
 
 2.Klasse Mitte
 
-<!-- $table17$ -->
-
+<!-- $table73$ - Final Standings -->
 
 2.Klasse West
 
-<!-- $table18$ -->
-
+<!-- $table74$ - Final Standings -->
 
 Changes:
 - Relegated from 1.Klasse: SK Waidring (Ost), FC Gries am Brenner (Mitte),
@@ -2358,230 +1450,75 @@ Changes:
 - SV Hall II is dissolved
 
 
-Vorarlberg
-==========
+==== Vorarlberg ====
 
-Fourth Level
-============
+==== Fourth Level ====
 
 Vorarlberg-Liga
 
-<!-- $table19$ -->
-
+<!-- $table75$ - Final Table -->
 
 No relegation from Regionalliga
 
-Fifth Level
-===========
+==== Fifth Level ====
 
 Landesliga
 
-<!-- $table20$ -->
+<!-- $table76$ - Final Standings -->
 
-
-Sixth Level
-===========
+==== Sixth Level ====
 
 1.Landesklasse
 
-<!-- $table21$ -->
+<!-- $table77$ - Final Standings -->
 
-
-Seventh Level
-=============
+==== Seventh Level ====
 
 2.Landesklasse
 
-<!-- $table22$ -->
+<!-- $table78$ - Final Standings -->
 
-
-Eighth Level
-============
+==== Eighth Level ====
 
 3.Landesklasse
 
-<!-- $table23$ -->
-
+<!-- $table79$ - Final Standings -->
 
 No relegation, lowest class
 
 
-Wien
-====
+==== Wien ====
 
-Fourth Level
-============
+==== Fourth Level ====
 
-Stadtliga
-
- 1.1.Simmeringer SC             30 19  9  2 90-34  66  Promoted  [*]
------------------------------------------------------
- 2.Polizei/Feuerwehr            30 17  8  5 75-39  59
- 3.Slovan/HAC                   30 18  5  7 76-45  59
- 4.Landhaus                     30 15  9  6 63-34  54
- 5.Fortuna 05                   30 16  6  8 54-41  54
- 6.Rapid Amateure Red Star      30 14  9  7 56-35  51
- 7.ÖMV Stadlau                  30 11  9 10 61-54  42
- 8.Ankerbrot/St. Anton/Laaerbg. 30 12  6 12 56-62  42
- 9.Wiener Sport-Club            30 11  6 13 46-58  39
-10.LAC                          30  9  5 16 53-82  32
-11.SV Wienerberger              30  8  7 15 35-51  31
-12.Eßling                       30  7  9 14 40-62  30
-13.Post SV                      30  6 11 13 48-64  29
-14.SPC Helfort                  30  7  4 19 48-75  25
------------------------------------------------------
-15.Hellas Kagran                30  5 10 15 29-63  25  Relegated
-16.Weidling                     30  5  7 18 45-76  22  Relegated
+<!-- $table80$ - Stadtliga -->
 
 [*] the SG FavAC/Simmering was dissolved before the season.
 
-Fifth Level
-===========
+==== Fifth Level ====
 
-Unterliga A
-
- 1.Ostbahn XI                   30 25  2  3 102-30 77 Promoted
------------------------------------------------------
- 2.Strebersdorf                 30 24  1  5 95-32  73  [+]
- 3.ASV 13                       30 21  3  6 88-47  66
- 4.Kaiser-Ebersdorf             30 19  5  6 85-47  62
- 5.Wienerfeld                   30 17  7  6 79-40  58
- 6.Mannswörth                   30 15  4 11 74-55  49
- 7.Wiener Viktoria              30 12  8 10 52-50  44
- 8.Antonshof/Kledering          30 13  3 14 47-54  42
- 9.Rennweg                      30 12  4 14 44-58  40
-10.Gaswerk/Straßenbahn          30 12  3 15 60-62  39
-11.Favoritner AC                30  8  4 18 42-74  28  [*]
-12.Austria XIII                 30  6  7 17 47-72  25
-13.Rapid Oberlaa                30  6  7 17 27-60  25
-14.1980 Wien                    30  5  7 18 43-75  22
-15.Mautner Markhof              30  5  3 22 32-101 18
------------------------------------------------------
-16.Margaretner AC               30  5  2 23 32-92  17  Relegated
+<!-- $table81$ - Unterliga A -->
 
 [+] Strebersdorf changed name to IC Favoriten during the season.
 [*] the SG FavAC/Simmering was dissolved before the season.
 
-Unterliga B
+<!-- $table82$ - Unterliga B -->
 
- 1.Gersthofer SV                30 21  5  4 92-37  68  Promoted
------------------------------------------------------
- 2.O.F.R.-Feibra                30 19  5  6 78-43  62
- 3.Donau                        30 19  4  7 89-35  61
- 4.Langenzersdorf               30 18  5  7 68-33  59
- 5.Breitensee/WAT 16            30 18  4  8 92-58  58
- 6.BSV                          30 16  2 12 86-74  50
- 7.Columbia                     30 15  3 12 68-49  48
- 8.SC Großfeld                  30 12  4 14 57-61  40
- 9.WB Kagran                    30 13  1 16 44-79  40
-10.Süßenbrunn                   30 11  5 14 53-62  38
-11.NAC                          30  9  7 14 54-81  34
-12.Elektra                      30  9  5 16 69-71  32
-13.Klosterneuburg               30  7  9 14 46-72  30
-14.WAF                          30  8  4 18 61-90  28
-15.ESV/KSV                      30  8  3 19 38-84  27
------------------------------------------------------
-16.SEC Brigittenau              30  2  4 24 23-89  10  Relegated
+==== Sixth Level ====
 
-Sixth Level
-===========
+<!-- $table83$ - 1. Klasse A -->
 
-1. Klasse A
+<!-- $table84$ - 1. Klasse B -->
 
- 1.Austria 11                   26 23  3  0 82-19  72  Promoted
------------------------------------------------------
- 2.Liesinger ASK                26 17  2  7 89-35  53
- 3.Triester                     26 14  5  7 68-39  47
- 4.FC Wien                      26 12  5  9 64-59  41
- 5.Florio-Ehlers                26 11  5 10 71-65  38
- 6.Red Star/Penzing             26 11  5 10 47-46  38
- 7.1. SC Kalksburg              26 11  3 12 52-47  36
- 8.Rud./Fünfhaus                26 10  4 12 58-57  34
- 9.White Star                   26  9  7 10 50-64  34
-10.Union Mauer                  26  9  4 13 43-61  31
-11.MSV 81                       26  9  3 14 52-65  30
-12.Gradisce                     26  8  5 13 64-75  29
-13.ESV-Südost                   26  5  7 14 45-86  22
------------------------------------------------------
-14.RSW Yellow Star              26  3  2 21 30-97  11  Relegated
+==== Seventh Level ====
 
-1. Klasse B
+<!-- $table85$ - 2. Klasse A -->
 
- 1.Aspern                       26 20  2  4 82-37  62  Promoted
------------------------------------------------------
- 2.Siemens                      26 14  5  7 86-43  47
- 3.FC Breitenlee                26 13  6  7 73-43  45
- 4.UFK Schulbrüder              26 13  4  9 51-38  43
- 5.Akademiker SC Janecka        26 11  4 11 67-73  37
- 6.Erdberg Staw                 26 11  4 11 62-71  37
- 7.Groß-Enzersdorf              26 11  3 12 53-54  36
- 8.Elite                        26 10  6 10 47-51  36
- 9.Schwemm                      26  9  7 10 50-55  34
-10.Vorwärts XI                  26 10  4 12 72-85  34
-11.SG Ajax                      26 10  1 15 60-75  31
-12.SVG Stammersdorf             26  8  6 12 57-60  30
-13.FC Sparta 71                 26  5  9 12 57-69  24
------------------------------------------------------
-14.WAC                          26  5  3 18 43-106 18  Relegated
+<!-- $table86$ - 2. Klasse B -->
 
-Seventh Level
-=============
+==== Eighth Level ====
 
-2. Klasse A
-
- 1.Wolfersberg                  26 20  4  2 93-27  64  Promoted
------------------------------------------------------
- 2.Neubau                       26 20  3  3 134-38 63
- 3.Ober Sankt Veit              26 15  6  5 76-44  51
- 4.Union 12                     26 15  3  8 86-46  48
- 5.HSV/Liesing                  25 15  2  8 71-57  47
- 6.FC Inkognito                 26 14  2 10 72-61  44
- 7.FK Slavia                    26 14  1 11 67-54  43
- 8.Dangl Kickers 94             26 11  5 10 51-49  38
- 9.FC Stolzenberger             26 11  3 12 53-73  36
-10.RW Wien                      26  8  2 16 61-76  26
-11.Cafe Caktus                  26  7  1 18 67-123 22
-12.SGP/Sturm                    26  6  1 19 48-99  19
-13.Mesopotamien                 25  4  5 16 44-88  17
-14.Vorwärts 06                  26  1  2 23 22-110  5
-
-2. Klasse B
-
- 1.Kapellerfeld                 24 18  2  4 91-28  56  Promoted
------------------------------------------------------
- 2.Fenerbahçe Wien              24 17  4  3 86-25  55
- 3.Donaustadt                   24 14  1  9 75-57  43
- 4.Jofa Leopoldau               24 12  5  7 60-56  41
- 5.SKV Suryoyo                  24 12  3  9 58-57  39
- 6.Währing/Döbling              24 12  2 10 72-43  38
- 7.FC Sagmeister                24 11  2 11 60-58  35
- 8.Juwelen Janecka              24 10  1 13 63-84  31
- 9.Inter 94                     24  8  4 12 48-52  28
-10.WBC IX                       24  7  5 12 49-63  26
-11.Sakarya Türkgücü             24  5  4 15 46-91  19
-12.Inter Leopoldstadt           24  5  4 15 33-80  19
-13.FC Stadlau                   24  5  3 16 37-84  18
-
-Eighth Level
-=============
-
-3. Klasse
-
- 1.Maccabi                      26 18  3  5 92-44  57  Promoted
------------------------------------------------------
- 2.Aytac SV                     26 17  4  5 94-48  55
- 3.SBG Rennbahn                 26 16  4  6 112-45 52
- 4.FC Sonderbar                 26 13  5  8 86-60  44
- 5.SK 15                        26 11 10  5 79-52  43
- 6.Hoka-Westbahn                26 13  4  9 81-63  43
- 7.Neulerchenfeld               26 13  3 10 65-51  42
- 8.FC Cairo                     26 12  3 11 65-76  39
- 9.Dynamo Veloce                26 10  4 12 65-78  34
-10.Partizan Wien                26  8  7 11 86-94  31
-11.RSC Vienna                   26  8  2 16 73-89  26
-12.Young Boys Vienna            26  7  3 16 46-81  24
-13.D&K Team 93                  26  4  5 17 39-93  17
-14.Young Guns                   26  2  3 21 40-149  9
+<!-- $table87$ - 3. Klasse -->
 
 
 

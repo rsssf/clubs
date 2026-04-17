@@ -8,8 +8,7 @@
 
 First Level (Bundesliga)
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Jul 9 _
@@ -360,8 +359,7 @@ Austria W        4-1 Austria K
 Salzburg         1-4 Altach
 Ried             3-2 Sturm
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 
 
@@ -490,7 +488,7 @@ FK Austria Wien Amateure  1-3 FC Admira
 _ Apr 22 _
 FC Wiener Neustadt        0-1 FK Austria Wien
 
-▪ Final ▪  May 24, Mattersburg
+▪ Final ▪  May 24 @ Mattersburg
 FK Austria Wien           3-1 FC Admira                (aet)
 
 
@@ -498,8 +496,7 @@ FK Austria Wien           3-1 FC Admira                (aet)
 
 Second Level (1. Liga)
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 [*] SC Schwanenstadt sold their license to FC Magna for 2008/09
 
@@ -822,8 +819,7 @@ Grödig           0-3 Austria Am.
 Vöcklabruck      2-3 Salzburg Am.
 FC Lustenau      0-2 Magna
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Final Table -->
 
 [*] SC Schwanenstadt sold their license to FC Magna for 2008/09
 
@@ -832,8 +828,7 @@ Third Level 2008/09
 
 Regionalliga West
 
-<!-- $table5$ -->
-
+<!-- $table5$ - Final Table -->
 
 Promoted from Landesliga:
   TSV Neumarkt am Wallersee (SFV)
@@ -842,8 +837,7 @@ Promoted from Landesliga:
 
 Regionalliga Mitte
 
-<!-- $table6$ -->
-
+<!-- $table6$ - Final Table -->
 
 [*1] FC Kärnten were dissolved during winter break due to bankruptcy;
      all spring matches awarded 0-3
@@ -857,8 +851,7 @@ Promoted from Landesliga:
 
 Regionalliga Ost
 
-<!-- $table7$ -->
-
+<!-- $table7$ - Final Table -->
 
 Promoted from Landesliga:
   ASK Baumgarten (BFV)

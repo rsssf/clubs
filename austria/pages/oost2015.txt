@@ -12,8 +12,7 @@
 
 ==== Bundesliga  ‹§bund›
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Jul 19 _
@@ -343,8 +342,7 @@ Sturm            0-0 Ried
 Grödig           0-1 Admira Wacker
 Wolfsberg        0-5 Rapid
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 
 
@@ -438,7 +436,7 @@ SV Grödig                   0-2 FC Red Bull Salzburg
 _ Apr 29 _
 Wolfsberger AC              0-3 FK Austria Wien
 
-▪ Final ▪  Jun 3, Klagenfurt
+▪ Final ▪  Jun 3 @ Klagenfurt
 FC Red Bull Salzburg        2-0 FK Austria Wien             (aet)
   (Soriano 95, Pires 108)
 
@@ -449,12 +447,11 @@ FC Red Bull Salzburg        2-0 FK Austria Wien             (aet)
 
 ==== 1. Liga (Second Level)  ‹§1liga›
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 [*] FC Liefering (farm team RB Salzburg) are not eligible for promotion
 
-Promotion Playoff  ‹§2prorel›
+▪ Promotion Playoff ▪
 
 Promoted: SV Austria Salzburg (winners Regionalliga West) (directly);
           winners playoff between SK Austria Klagenfurt (winners Regionalliga Mitte)
@@ -480,8 +477,7 @@ NB: SK Austria Klagenfurt promoted
 
 Regionalliga West  ‹§regwest›
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Final Table -->
 
 Promoted: USK Anif (Salzburg)
           SVG Reichenau (Tirol)
@@ -489,8 +485,7 @@ Promoted: USK Anif (Salzburg)
 
 Regionalliga Mitte  ‹§regmitte›
 
-<!-- $table5$ -->
-
+<!-- $table5$ - Final Table -->
 
 Promoted: Annabichler SV (Kärnten)
           ATSV Stadl-Paura (Oberösterreich)
@@ -498,8 +493,7 @@ Promoted: Annabichler SV (Kärnten)
 
 Regionalliga Ost  ‹§regost›
 
-<!-- $table6$ -->
-
+<!-- $table6$ - Final Table -->
 
 Promoted: SV Oberwart (Burgenland)
           ASK Ebreichsdorf (Niederösterreich)

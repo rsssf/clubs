@@ -12,8 +12,7 @@
 
 ==== Bundesliga  ‹§bund›
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Jul 23 _
@@ -177,8 +176,7 @@ Ried             2-1 Mattersburg
 _ Dec 4 _
 Wolfsberg        0-4 Sturm
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Halfway Table -->
 
 ▪ Round 19 ▪
 _ Dec 10 _
@@ -338,8 +336,7 @@ Salzburg         1-0 Altach
 Ried             2-3 Mattersburg
 Wolfsberg        1-0 Sturm
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 
 
@@ -436,7 +433,7 @@ FC Admira/Wacker Mödling    0-5 FC Red Bull Salzburg
 SK Rapid Wien               2-1 LASK Linz
   (Murg 76, Joelinton 90+3; Gartler 90+1)
 
-▪ Final ▪  Jun 1, Klagenfurt
+▪ Final ▪  Jun 1 @ Klagenfurt
 FC Red Bull Salzburg        2-1 SK Rapid Wien
   (Hwang 51, Lazaro 84; Joelinton 56)
 
@@ -447,8 +444,7 @@ FC Red Bull Salzburg        2-1 SK Rapid Wien
 
 ==== 1. Liga (Second Level)  ‹§1liga›
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Final Table -->
 
 [*] FC Liefering (farm team RB Salzburg) are not eligible for promotion
 
@@ -466,22 +462,19 @@ NB: no promotion/relegation matches as only one third level club (TSV Hartberg) 
 
 Regionalliga West  ‹§regwest›
 
-<!-- $table5$ -->
-
+<!-- $table5$ - Final Table -->
 
 Promoted: FC Kitzbühel, FC Alberschwende, SV Wals-Grünau.
 
 Regionalliga Mitte  ‹§regmitte›
 
-<!-- $table6$ -->
-
+<!-- $table6$ - Final Table -->
 
 Promoted: Union Vöcklamarkt, Wolfsberger AC Amateure, TuS Bad Gleichenberg
 
 Regionalliga Ost  ‹§regost›
 
-<!-- $table7$ -->
-
+<!-- $table7$ - Final Table -->
 
 [*] 1.SC Sollenau merged with FCM Traiskirchen into SG Traiskirchen
 

@@ -12,8 +12,7 @@
 
 ==== Bundesliga  ‹§bund›
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 Cross-Table:
 
@@ -187,8 +186,7 @@ SV Ried                     2-0 Austria Lustenau
 
 ==== 1. Liga (Second Level)  ‹§1liga›
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 [*] SKS Admira were renamed FC Admira Wacker Mödling
 

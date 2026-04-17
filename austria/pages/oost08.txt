@@ -8,8 +8,7 @@
 
 First Level (Bundesliga)
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 [*1] Wacker Tirol changed name to Wacker Innsbruck on July 1, 2007
 [*2] Pasching moved to Klagenfurt and changed name to Austria Kärnten
@@ -352,8 +351,7 @@ Austria W        2-1 Wacker
 Altach           1-1 Salzburg
 Sturm            3-1 Austria K
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 [*1] Wacker Tirol changed name to Wacker Innsbruck on July 1, 2007
 [*2] Pasching moved to Klagenfurt and changed name to Austria Kärnten
@@ -362,8 +360,7 @@ Sturm            3-1 Austria K
 
 Second Level (1. Liga)
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 [*1] ASK Schwadorf were renamed SK Schwadorf Admira during the
      winter break, and played their matches in Admira's Südstadt
@@ -687,8 +684,7 @@ Schwanenstadt    0-2 Austria Am.
 Kärnten          2-0 Parndorf
 DSV              1-1 FC Lustenau
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Final Table -->
 
 [*1] ASK Schwadorf were renamed SK Schwadorf Admira during the
      winter break, and played their matches in Admira's Südstadt
@@ -706,16 +702,14 @@ Third Level (Regionalliga)
 
 Regionalliga Ost
 
-<!-- $table5$ -->
-
+<!-- $table5$ - Final Table -->
 
 Relegated from 2nd level: SC/ESV Parndorf
 Promoted from 4th level: SV Stegersbach, SKU Amstetten, SC Ostbahn XI
 
 Regionalliga Mitte
 
-<!-- $table6$ -->
-
+<!-- $table6$ - Final Table -->
 
 [*1] future uncertain, may be dissolved
 [*2] relegated due to relegation FC Kärnten from 2nd level
@@ -725,8 +719,7 @@ Promoted from 4th level: FC Blau-Weiß Linz, ASK Voitsberg, FC St.Veit
 
 Regionalliga West
 
-<!-- $table7$ -->
-
+<!-- $table7$ - Final Table -->
 
 Relegated from 2nd level: none
 Promoted from 4th level: VfB Hohenems, SC Schwaz, TSV St.Johann im Pongau

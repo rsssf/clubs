@@ -16,8 +16,7 @@
 
 ▪ Regular Stage ▪
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Jul 23 _
@@ -243,8 +242,7 @@ Wolfsberg        1-0 LASK
 Ried             2-2 Sturm
 Hartberg         0-1 Wattens
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 ▪ Playoff Stage ▪
 
@@ -252,8 +250,7 @@ Hartberg         0-1 Wattens
 
 ▪ Championship Playoff ▪
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 NB: teams carry over half their points from the regular stage (listed between
     square brackets), rounded downwards (marked by * where applicable)
@@ -308,8 +305,7 @@ Austria W        4-2 Sturm
 Salzburg         1-1 Austria K
 Wolfsberg        2-1 Rapid
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Final Table -->
 
 NB: teams carry over half their points from the regular stage (listed between
     square brackets), rounded downwards (marked by * where applicable)
@@ -332,8 +328,7 @@ Rapid            2-0 Wattens
 
 ▪ Relegation Playoff ▪
 
-<!-- $table5$ -->
-
+<!-- $table5$ - Final Table -->
 
 NB: teams carry over half their points from the regular stage (listed between
     square brackets), rounded downwards (marked by * where applicable)
@@ -392,8 +387,7 @@ Altach           2-1 Wattens
 LASK             3-1 Admira Wacker
 Hartberg         1-1 Ried
 
-<!-- $table6$ -->
-
+<!-- $table6$ - Final Table -->
 
 NB: teams carry over half their points from the regular stage (listed between
     square brackets), rounded downwards (marked by * where applicable)
@@ -495,7 +489,7 @@ SV Ried                             2-1 TSV Hartberg
 _ Mar 16 _
 Wolfsberger AC                      1-1 FC Red Bull Salzburg                (aet, 4-5 pen)
 
-▪ Final ▪  May 1, Wörthersee-Stadion, Klagenfurt; att: 7,800
+▪ Final ▪  May 1 @ Wörthersee-Stadion, Klagenfurt; att: 7,800
 SV Ried                             0-3 FC Red Bull Salzburg
   (Sucic 27, Wöber 52, Sesko 88)
 
@@ -505,8 +499,7 @@ SV Ried                             0-3 FC Red Bull Salzburg
 
 ==== 2. Liga (Second Level)  ‹§1liga›
 
-<!-- $table7$ -->
-
+<!-- $table7$ - Final Table -->
 
 [*] ineligible for promotion (farm team)
 
@@ -710,8 +703,7 @@ Dornbirn         1-0 Innsbruck
 _ Nov 21 _
 Lafnitz          1-4 GAK
 
-<!-- $table8$ -->
-
+<!-- $table8$ - Halfway Table -->
 
 [*] ineligible for promotion (farm team)
 
@@ -900,8 +892,7 @@ GAK              4-1 Lafnitz
 Kapfenberg       0-0 BW Linz
 Rapid II         5-2 Amstetten
 
-<!-- $table9$ -->
-
+<!-- $table9$ - Final Table -->
 
 [*] ineligible for promotion (farm team)
 
@@ -920,18 +911,15 @@ NB: FC Juniors Oberösterreich withdrew from the league after the season;
 
 Regionalliga West  ‹§regwest›
 
-<!-- $table10$ -->
-
+<!-- $table10$ - Final Table -->
 
 Regionalliga Mitte  ‹§regmitte›
 
-<!-- $table11$ -->
-
+<!-- $table11$ - Final Table -->
 
 Regionalliga Ost  ‹§regost›
 
-<!-- $table12$ -->
-
+<!-- $table12$ - Final Table -->
 
 NB: as the league was extended to 16 clubs, 1.MAV Wiener-Neustadt (renamed
     1.Wiener Neustädter SC) and ASV Draßburg were reprieved from relegation

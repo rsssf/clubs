@@ -16,8 +16,7 @@
 
 ▪ Regular Stage ▪
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 NB: Austria Wien 3 points deducted
 
@@ -241,8 +240,7 @@ Ried             0-0 Wolfsberg
 Hartberg         2-2 LASK
 Wattens          0-2 Sturm
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 NB: Austria Wien 3 points deducted
 
@@ -252,8 +250,7 @@ NB: Austria Wien 3 points deducted
 
 ▪ Championship Playoff ▪
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 NB: teams carry over half their points from the regular stage (listed between
     square brackets), rounded downwards (marked by * where applicable)
@@ -310,8 +307,7 @@ Austria W        1-1 Salzburg
 Austria K        2-1 Rapid
 Sturm            2-0 LASK
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Final Table -->
 
 NB: teams carry over half their points from the regular stage (listed between
     square brackets), rounded downwards (marked by * where applicable)
@@ -334,8 +330,7 @@ Austria W        5-0 Austria L
 
 ▪ Relegation Playoff ▪
 
-<!-- $table5$ -->
-
+<!-- $table5$ - Final Table -->
 
 NB: teams carry over half their points from the regular stage (listed between
     square brackets), rounded downwards (marked by * where applicable)
@@ -406,8 +401,7 @@ Austria L        5-1 Hartberg
 Ried             1-2 Wolfsberg
 Wattens          1-1 Altach
 
-<!-- $table6$ -->
-
+<!-- $table6$ - Final Table -->
 
 NB: teams carry over half their points from the regular stage (listed between
     square brackets), rounded downwards (marked by * where applicable)
@@ -513,7 +507,7 @@ SK Rapid Wien                       2-1 SV Ried
 _ Apr 6 _
 SK Sturm Graz                       1-0 LASK
 
-▪ Final ▪  Apr 30, 28 Black Arena, Klagenfurt; att: 30,000
+▪ Final ▪  Apr 30 @ 28 Black Arena, Klagenfurt; att: 30,000
 SK Rapid Wien                       0-2 SK Sturm Graz
   (Sarkaria 65, 84)
 
@@ -523,8 +517,7 @@ SK Rapid Wien                       0-2 SK Sturm Graz
 
 ==== 2. Liga (Second Level)  ‹§1liga›
 
-<!-- $table7$ -->
-
+<!-- $table7$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Jul 22 _
@@ -721,8 +714,7 @@ Vorwärts         1-3 Sturm II
 _ Nov 6 _
 Horn             2-1 Amstetten
 
-<!-- $table8$ -->
-
+<!-- $table8$ - Halfway Table -->
 
 ▪ Round 16 ▪
 _ Nov 11 _
@@ -914,8 +906,7 @@ Sankt Pölten     1-0 Rapid II
 Admira Wacker    3-0 Vorwärts
 Vienna           1-2 Lafnitz
 
-<!-- $table9$ -->
-
+<!-- $table9$ - Final Table -->
 
 
 
@@ -928,20 +919,17 @@ Vienna           1-2 Lafnitz
 
 Regionalliga West  ‹§regwest›
 
-<!-- $table10$ -->
-
+<!-- $table10$ - Final Table -->
 
 Regionalliga Mitte  ‹§regmitte›
 
-<!-- $table11$ -->
-
+<!-- $table11$ - Final Table -->
 
 [*] FC Juniors Oberösterreich were renamed LASK Amateure OÖ
 
 Regionalliga Ost  ‹§regost›
 
-<!-- $table12$ -->
-
+<!-- $table12$ - Final Table -->
 
 [*] FC Marchfeld/Mannsdorf-Großenzersdorf were renamed FC Marchfeld Donauauen
 

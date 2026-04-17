@@ -8,8 +8,7 @@
 
 1.Division
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Aug 14 _
@@ -309,32 +308,12 @@ Austria Wien    6-1 GAK
 Sturm      1-4 Rapid
 Austria Salzburg 2-0 Eisenstadt
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 <!-- $topscorers1$ -->
 
 
-2.Division
-
- 1.Wacker Innsbruck          30  22  6  2  69-18   50
------------------------------------------------------
- 2.Austria Klagenfurt        30  17  9  4  48-21   43
- 3.First Vienna FC           30  14  9  7  49-33   37
- 4.SPG Innsbruck             30  13 10  7  40-25   36
- 5.Union Wels                30  13 10  7  39-29   36
- 6.SV Sankt Veit             30  14  6 10  51-43   34
- 7.Donawitzer SV Alpine      30   9 12  9  31-30   30
- 8.Villacher SV              30   8 12 10  30-34   28
- 9.Wolfsberger AC            30   9 10 11  37-49   28
-10.1. Simmeringer SC         30   8 10 12  32-42   26
-11.Salzburger AK             30   8  9 13  33-39   25
-12.Kapfenberger SV           30   8  9 13  29-48   25
-13.SC Neusiedl               30   6 11 13  31-38   23
------------------------------------------------------
-14.Bregenz/Dornbirn          30   9  5 16  24-40   23
-15.1. Wiener Neustädter SC   30   5  9 16  26-47   19
-16.SCA Sankt Veit            30   7  3 20  28-61   17
+<!-- $table3$ - 2.Division -->
 
 Promoted to the 2.Division:
 Flavia Solva Wagna (Mitte)

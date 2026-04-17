@@ -8,8 +8,7 @@
 
 First Level (Bundesliga)
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 NB: Sturm 3 points deducted for irregularities in license application
       prior to the season, and 10 more points on Mar 26 for going into
@@ -514,8 +513,7 @@ Mattersburg      6-1 Wacker
 Pasching         1-1 Sturm
   (Ketelaer 11; Filipovic 29)
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 NB: Sturm 3 points deducted for irregularities in license application
       prior to the season, and 10 more points on Mar 26 for going into
@@ -651,7 +649,7 @@ RB Salzburg         2-3 SV Mattersburg        (aet)
 _ Apr 4 _
 Salzburg Amateure   1-1 FK Austria Wien       (aet, 1-3 pen)
 
-▪ Final ▪  May 1, Hanappi-Stadion, Wien; att: 15,000
+▪ Final ▪  May 1 @ Hanappi-Stadion, Wien; att: 15,000
 FK Austria Wien     2-1 SV Mattersburg
   (Lafata 54, Lasnik 56; Schmidt 23)
 
@@ -660,8 +658,7 @@ FK Austria Wien     2-1 SV Mattersburg
 
 Second Level (1. Liga)
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 NB: Admira were refused a license (for the 2nd level) for 2007/08;
     as GAK (relegated from top level) were refused a professional
@@ -935,8 +932,7 @@ Austria Am.      3-1 Schwanenstadt
 Gratkorn         1-2 Kapfenberg
 Austria L        4-2 Parndorf
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Final Table -->
 
 NB: Admira were refused a license (for the 2nd level) for 2007/08;
     as GAK (relegated from top level) were refused a professional
@@ -957,22 +953,19 @@ Third Level (Regionalliga)
 
 Regionalliga Ost
 
-<!-- $table5$ -->
-
+<!-- $table5$ - Final Table -->
 
 Promoted from 4th level: SV Horn, SV Wienerberger, SV Mattersburg Am.
 
 Regionalliga Mitte
 
-<!-- $table6$ -->
-
+<!-- $table6$ - Final Table -->
 
 Promoted from 4th level: SC Weiz, SV Gmunden, SVG Bleiburg
 
 Regionalliga West
 
-<!-- $table7$ -->
-
+<!-- $table7$ - Final Table -->
 
 Promoted from 4th level: USK Anif, SC Bregenz, SC Kundl
 

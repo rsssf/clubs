@@ -8,8 +8,7 @@
 
 First Level (Bundesliga)
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Jul 4 _
@@ -525,8 +524,7 @@ Austria S        1-2 GAK
 Austria W        0-2 Tirol
   (Gilewicz 18, 45)
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 <!-- $topscorers1$ -->
 
@@ -675,7 +673,7 @@ _ May 9 _
 Rapid             0-1 Tirol
   (Barisic 45)
 
-▪ Final ▪  May 27, Happel-Stadion, Wien; att: 7000
+▪ Final ▪  May 27 @ Happel-Stadion, Wien; att: 7000
 Kärnten           2-1 Tirol                 (aet)
   (Roland Kollmann 35, Mario Steiner 113; Edi Glieder 70)
   [Kärnten: R.Unger - Vorderegger, Brnas, Vukovic, Pogatetz - Sablatnig
@@ -687,7 +685,7 @@ Kärnten           2-1 Tirol                 (aet)
    red cards: Scharrer 115, Marasek 118 (both Tirol)]
 
 
-▪ Super Cup Final ▪  Jul 7 2001, Innsbruck; att: 6700
+▪ Super Cup Final ▪  Jul 7 2001 @ Innsbruck; att: 6700
 Tirol             0-0 Kärnten               (aet, 9-10 pen)
   [Tirol: Ziegler - Streiter (12 Baur (46 Prudlo)) - W.Kogler, Zwyssig -
      Ibertsberger, Kirchler, Alf.Hörtnagl, Brzeczek, Panis - Gilewicz (50 Mair),
@@ -699,8 +697,7 @@ Tirol             0-0 Kärnten               (aet, 9-10 pen)
 
 Austria 2000/01 Second Level (1. Division)
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 ▪ Round 1 ▪  Jul 4
 Mattersburg      1-0 Untersiebenbrunn
@@ -1002,10 +999,9 @@ _ May 25 _
 Untersiebenbrunn 2-3 Bad Bleiberg
 Austria L        0-1 Wattens
 
-<!-- $table4$ -->
+<!-- $table4$ - Final Table -->
 
-
-Promotion/Relegation Playoffs
+▪ Promotion/Relegation Playoffs ▪
 
 ▪ First Legs ▪  Jun 5
 FC Lustenau      3-0 First Vienna FC
@@ -1364,8 +1360,7 @@ Schwechat  1-1  Austria Amateure
 Eisenstadt  0-1  Würmla
 Simmering  1-0  Stockerau
 
-<!-- $table5$ -->
-
+<!-- $table5$ - Final Table -->
 
 Relegated from 2nd level: First Vienna FC
 
@@ -1706,8 +1701,7 @@ Zeltweg   1-0  Blau-Weiss Linz
 Donau Linz  0-0  Hartberg
 St. Florian  3-2  St. Veit
 
-<!-- $table6$ -->
-
+<!-- $table6$ - Final Table -->
 
 Promoted from 4th level: ASK Klagenfurt (Kärnten),
                          SC Schwanenstadt (Oberösterreich),
@@ -2060,8 +2054,7 @@ Altach    9-1  Jenbach
 Kufstein  0-1  FC Lustenau
 Hohenems  2-2  Kundl
 
-<!-- $table7$ -->
-
+<!-- $table7$ - Final Table -->
 
 Relegated from 2nd level: WSG Wattens.
 
@@ -2070,7 +2063,7 @@ Promoted from 4th level: PSV/Schwarz-Weiß Salzburg (Salzburg),
                          Viktoria Bregenz (Vorarlberg)
 
 
-Promotion/Relegation Playoffs
+▪ Promotion/Relegation Playoffs ▪
 
 ▪ First Legs ▪  Jun 5
 FC Lustenau      3-0 First Vienna FC
@@ -2418,8 +2411,7 @@ Neudörfl  2-1  Andau
 Hirm          1-2  Tadten
 Oberwart  5-0  Horitschon
 
-<!-- $table8$ -->
-
+<!-- $table8$ - Final Table -->
 
 NB: total GD +1
 
@@ -2668,8 +2660,7 @@ Feldkirchen  0-0  ASK Klagenfurt
 Treibach  1-3  Maria Gail
 St. Andrä  1-3  Nußdorf
 
-<!-- $table9$ -->
-
+<!-- $table9$ - Final Table -->
 
 Relegated from RL Mitte: SV Lendorf, SAK Klagenfurt
 
@@ -3013,8 +3004,7 @@ St. Peter/Au  1-2  EPSV Gmünd
 Leobendorf  6-0  Wiener Neudorf
 Tulln       2-0  Amstetten
 
-<!-- $table10$ -->
-
+<!-- $table10$ - Final Table -->
 
 Relegated from Ostliga: SV Würmla, SV Stockerau
 Promoted from 2. Landesliga: Admira/Wacker Mödling Amateure (Ost),
@@ -3092,7 +3082,7 @@ WSC Hertha Wels  2-2  ASKÖ Schwertberg
 St. Magdalena  2-1  Rohrbach-Berg
 SV Ried Amat.  0-2  Sattledt
 Vöcklamarkt  1-1  SV Gmunden
-Moved match:
+▪ Moved match ▪
 Union Perg  1-2  Ranshofen
 
 ▪ Round 8 ▪
@@ -3123,7 +3113,7 @@ SV Gmunden  1-0  Ried Amat.
 Grieskirchen  0-2  Schwanenstadt
 Weisskirchen  2-0  Union Perg
 St. Magdalena  5-0  Vöcklamarkt
-Moved Match
+▪ Moved Match ▪
 Ranshofen  4-3  WSC Hertha Wels
 
 ▪ Round 11 ▪
@@ -3226,7 +3216,7 @@ Ranshofen  0-4  St. Magdalena
 Rohrbach-Berg  1-0  Grieskirchen
 Sattledt  1-0  Schwanenstadt
 Schwertberg  0-1  Vöcklamarkt
-Moved match:
+▪ Moved match ▪
 Schwanenstadt   1-4  Ried Amat.
 
 ▪ Round 21 ▪
@@ -3331,8 +3321,7 @@ Vöcklamarkt  6-0  WSC Hertha Wels
 Weisskirchen  0-2  Bad Schallerbach
 Ranshofen       2-0     Schwertberg
 
-<!-- $table11$ -->
-
+<!-- $table11$ - Final Table -->
 
 [*] LASK Amateure ineligible for promotion due to relegation LASK from 1st level;
     SC Schwanenstadt are the highest-ranked club otherwise willing to be promoted
@@ -3610,8 +3599,7 @@ Seekirchen  3-2  Kuchl
 ESV Saalfelden  2-1  Grünau
 Anif       4-2  Henndorf
 
-<!-- $table12$ -->
-
+<!-- $table12$ - Final Table -->
 
 Promoted from 2. Landesliga: ASK Hattrick Salzburg and SV Bramberg.
 
@@ -3951,8 +3939,7 @@ Sturm Amateure  2-0  Kindberg
 Bruck         3-1  St. Peter/S.
 ESK/GAK Amat.  0-2  Anger
 
-<!-- $table13$ -->
-
+<!-- $table13$ - Final Table -->
 
 Promoted from Oberliga: Allerheiligen (Mitte West), RW Knittelfeld (Nord),
                         Gnas (Süd).
@@ -3961,20 +3948,20 @@ Promoted from Oberliga: Allerheiligen (Mitte West), RW Knittelfeld (Nord),
 Tiroler Liga  ‹§tirol›
 
 ▪ Round 1 ▪
-_ 11/8 _
+_ Aug 11 _
 Fügen/Uderns  1-1  Telfs
 Hall          3-0  Axams
 Thiersee      1-2  SV Innsbruck
 Vils          0-0  Zams
-_ 12/8 _
+_ Aug 12 _
 Götzens       2-2  Wörgl Amat.
 Neustift      4-3  Rum
 Schwaz        2-0  Breitenbach
-_ 13/8 _
+_ Aug 13 _
 Steinach      0-3  Kitzbühel      [awd,4-1] *
 
 ▪ Round 2 ▪
-_ 15/8 _
+_ Aug 15 _
 Axams         2-2  Fügen/Uderns
 Breitenbach   1-1  Hall
 Neustift      2-1  Telfs
@@ -3987,33 +3974,33 @@ Wörgl Amat.   3-3  Zams
 * awarded due to an ineligible player
 
 ▪ Round 3 ▪
-_ 18/8 _
+_ Aug 18 _
 Hall          4-0  Vils
 SV Innsbruck  1-0  Rum
-_ 19/8 _
+_ Aug 19 _
 Fügen/Uderns  5-1  Steinach
 Kitzbühel     0-0  Götzens
-_ 20/8 _
+_ Aug 20 _
 Axams         2-1  Breitenbach
 Schwaz        2-0  Wörgl Amat.
 Telfs         2-3  Thiersee
 Zams          2-3  Neustift
 
 ▪ Round 4 ▪
-_ 25/8 _
+_ Aug 25 _
 Rum           1-1  Schwaz
 Vils          1-3  Fügen/Uderns
 Zams          3-2  Kitzbühel
-_ 26/8 _
+_ Aug 26 _
 Neustift      3-1  Breitenbach
 Steinach      0-1  Telfs
 Thiersee      3-0  Axams
-_ 27/8 _
+_ Aug 27 _
 Götzens       2-0  SV Innsbruck
 Wörgl Amat.   0-2  Hall
 
 ▪ Round 5 ▪
-_ 29/8 _
+_ Aug 29 _
 Fügen/Uderns  3-0  Breitenbach
 Götzens       0-4  Neustift
 Hall          3-0  Thiersee
@@ -4031,65 +4018,65 @@ and ended 6-1 (!); but Schwaz used an ineligi-
 ble player and Steinach finally got 3 points.
 
 ▪ Round 6 ▪
-_ 1/9 _
+_ Sep 1 _
 Hall          5-0  Rum
 SV Innsbruck  1-1  Zams
-_ 2/9 _
+_ Sep 2 _
 Breitenbach   0-0  Thiersee
 Fügen/Uderns  0-0  Wörgl Amat.
 Kitzbühel     0-1  Neustift
-_ 3/9 _
+_ Sep 3 _
 Axams         2-2  Steinach
 Schwaz        2-0  Götzens
 Telfs         4-1  Vils
 
 ▪ Round 7 ▪
-_ 8/9 _
+_ Sep 8 _
 Rum           3-2  Fügen/Uderns
 Zams          1-0  Schwaz
-_ 9/9 _
+_ Sep 9 _
 Kitzbühel     1-1  SV Innsbruck
 Neustift      5-0  Thiersee
-_ 10/9 _
+_ Sep 10 _
 Götzens       1-6  Hall
 Steinach      4-0  Breitenbach
 Vils          4-2  Axams
 Wörgl Amat.   1-0  Telfs
 
 ▪ Round 8 ▪
-_ 12/9 _
+_ Sep 12 _
 Götzens       2-1  Zams
 Neustift      0-3  Axams
 Rum           0-1  Kitzbühel
 Steinach      2-3  Hall
 Wörgl Amat.   0-1  SV Innsbruck
-_ 13/9 _
+_ Sep 13 _
 Breitenbach   1-1  Telfs
 Vils          3-1  Schwaz
 
 ▪ Round 9 ▪
-_ 15/9 _
+_ Sep 15 _
 Hall          7-0  Zams
 SV Innsbruck  0-1  Neustift
-_ 16/9 _
+_ Sep 16 _
 Axams         2-3  Wörgl Amat.
 Fügen/Uderns  3-4  Götzens
-_ 17/9 _
+_ Sep 17 _
 Breitenbach   3-4  Vils
 Schwaz        4-0  Kitzbühel
 Telfs         3-1  Rum
 
 Postponed Match, Round 8
-_ 19/9 _
+_ Sep 19 _
 Fügen/Uderns  5-2  Thiersee
 
 ▪ Round 10 ▪
-_ 22/9 _
+_ Sep 22 _
 Rum           2-0  Axams
-_ 23/9 _
+_ Sep 23 _
 Kitzbühel     0-4  Hall
 Neustift      2-3  Steinach
-_ 24/9 _
+_ Sep 24 _
 Götzens       1-0  Telfs
 SV Innsbruck  0-3  Schwaz
 Vils          1-2  Thiersee
@@ -4097,35 +4084,35 @@ Wörgl Amat.   3-0  Breitenbach
 Zams          0-0  Fügen/Uderns
 
 ▪ Round 11 ▪
-_ 29/9 _
+_ Sep 29 _
 Breitenbach   1-1  Rum
 Fügen/Uderns  5-1  Kitzbühel
 Hall          0-2  SV Innsbruck
-_ 30/9 _
+_ Sep 30 _
 Thiersee      3-5  Wörgl Amat.
-_ 1/10 _
+_ Oct 1 _
 Axams         1-0  Götzens
 Schwaz        0-1  Neustift
 Steinach      2-2  Vils
 Telfs         3-0  Zams
 
 ▪ Round 12 ▪
-_ 6/10 _
+_ Oct 6 _
 Rum           2-2  Thiersee
-_ 7/10 _
+_ Oct 7 _
 Kitzbühel     6-1  Telfs
-_ 8/10 _
+_ Oct 8 _
 Schwaz        0-3  Hall
 Zams          4-5  Axams
-_ 10/10 _
+_ Oct 10 _
 Wörgl Amat.   1-0  Steinach
 
 ▪ Round 13 ▪
-_ 14/10 _
+_ Oct 14 _
 Breitenbach   0-1  Zams
 Fügen/Uderns  1-1  Schwaz
 Hall          3-2  Neustift
-_ 15/10 _
+_ Oct 15 _
 Axams         0-0  Kitzbühel
 Steinach      6-1  Rum
 Telfs         2-2  SV Innsbruck
@@ -4133,36 +4120,36 @@ Thiersee      1-0  Götzens
 Vils          1-2  Wörgl Amat.
 
 Postponed Match, Round 12
-_ 18/10 _
+_ Oct 18 _
 SV Innsbruck  0-2  Fügen/Uderns
 
 ▪ Round 14 ▪
-_ 20/10 _
+_ Oct 20 _
 Rum           3-0  Vils
-_ 21/10 _
+_ Oct 21 _
 Hall          1-4  Fügen/Uderns
 SV Innsbruck  3-0  Axams
 Kitzbühel     2-1  Breitenbach
 Neustift      1-1  Wörgl Amat.
-_ 22/10 _
+_ Oct 22 _
 Götzens       5-2  Steinach
 Schwaz        3-1  Telfs
 Zams          1-0  Thiersee
 
 Postponed Match, Round 9
-_ 26/10 _
+_ Oct 26 _
 Thiersee      0-2  Steinach
 
 Postponed Matches, Round 12
-_ 26/10 _
+_ Oct 26 _
 Götzens       4-4  Breitenbach
 Neustift      3-0  Vils
 
 ▪ Round 15 ▪
-_ 28/10 _
+_ Oct 28 _
 Fügen/Uderns  2-0  Neustift
 Wörgl Amat.   3-0  Rum
-_ 29/10 _
+_ Oct 29 _
 Axams         2-1  Schwaz
 Breitenbach   0-1  SV Innsbruck
 Steinach      1-2  Zams
@@ -4171,69 +4158,69 @@ Thiersee      1-2  Kitzbühel
 Vils          2-1  Götzens
 
 ▪ Round 16 ▪
-_ 3/11 _
+_ Nov 3 _
 Rum           5-1  Wörgl Amat.
-_ 4/11 _
+_ Nov 4 _
 Hall          2-0  Telfs
 SV Innsbruck  2-1  Breitenbach
 Kitzbühel     2-1  Thiersee
-_ 5/11 _
+_ Nov 5 _
 Schwaz        3-1  Axams
 Zams          2-0  Steinach
-_ 11/11 _
+_ Nov 11 _
 Neustift      1-1  Fügen/Uderns
-_ 12/11 _
+_ Nov 12 _
 Götzens       1-2  Vils
 
 ▪ Round 17 ▪
-_ 6/4 _
+_ Apr 6 _
 SV Innsbruck  1-0  Thiersee
 Rum           5-2  Neustift
-_ 7/4 _
+_ Apr 7 _
 Kitzbühel     0-0  Steinach
-_ 8/4 _
+_ Apr 8 _
 Axams         2-1  Hall
 Breitenbach   0-4  Schwaz
 Telfs         0-1  Fügen/Uderns
 Zams          0-1  Vils
 
 ▪ Round 18 ▪
-_ 11/4 _
+_ Apr 11 _
 Fügen/Uderns  1-1  Axams
-_ 13/4 _
+_ Apr 13 _
 Hall          1-0  Breitenbach
 SV Innsbruck  4-1  Steinach
 Zams          0-0  Wörgl Amat.
-_ 14/4 _
+_ Apr 14 _
 Schwaz        2-0  Thiersee
 Telfs         5-1  Neustift
-_ 15/4 _
+_ Apr 15 _
 Götzens       2-3  Rum
-_ 18/4 _
+_ Apr 18 _
 Kitzbühel     1-1  Vils
 
 Postponed Match, Round 17
-_ 18/4 _
+_ Apr 18 _
 Wörgl Amat.   1-1  Götzens
 
 Round 19 [20/21/22-04]
 complete Round postponed due to bad weather
-_ 9/5 _
+_ May 9 _
 Steinach      0-2  Fügen/Uderns
-_ 15/5 _
+_ May 15 _
 Wörgl Amat.   1-1  Schwaz
-_ 16/5 _
+_ May 16 _
 Rum           3-1  SV Innsbruck
 Thiersee      3-5  Telfs
-_ 22/5 _
+_ May 22 _
 Breitenbach   1-3  Axams
 Götzens       2-2  Kitzbühel
-_ 29/5 _
+_ May 29 _
 Neustift      5-0  Zams
 Vils          1-0  Hall
 
 ▪ Round 20 ▪
-_ 24/4 _
+_ Apr 24 _
 Axams         6-1  Telfs
 Breitenbach   1-4  Fügen/Uderns
 Neustift      2-0  Götzens
@@ -4243,21 +4230,21 @@ Thiersee      2-2  Hall
 Vils          2-0  SV Innsbruck
 Wörgl Amat.   0-2  Kitzbühel
 ▪ Round 21 ▪
-_ 26/4 _
+_ Apr 26 _
 SV Innsbruck  1-1  Götzens
-_ 27/4 _
+_ Apr 27 _
 Fügen/Uderns  3-0  Vils
 Hall          4-0  Wörgl Amat.
-_ 28/4 _
+_ Apr 28 _
 Breitenbach   2-0  Neustift
 Kitzbühel     3-3  Zams
 Schwaz        3-0  Rum
-_ 29/4 _
+_ Apr 29 _
 Axams         2-2  Thiersee
 Telfs         4-2  Steinach
 
 ▪ Round 22 ▪
-_ 1/5 _
+_ May 1 _
 Götzens       3-2  Schwaz
 Neustift      1-7  Kitzbühel
 Rum           1-2  Hall
@@ -4268,12 +4255,12 @@ Wörgl Amat.   1-0  Fügen/Uderns
 Zams          1-1  SV Innsbruck
 
 ▪ Round 23 ▪
-_ 4/5 _
+_ May 4 _
 Hall          2-1  Götzens
 SV Innsbruck  0-0  Kitzbühel
-_ 5/5 _
+_ May 5 _
 Fügen/Uderns  2-1  Rum
-_ 6/5 _
+_ May 6 _
 Axams         9-0  Vils
 Breitenbach   0-3  Steinach
 Schwaz        0-0  Zams
@@ -4281,47 +4268,47 @@ Telfs         1-1  Wörgl Amat.
 Thiersee      1-0  Neustift
 
 ▪ Round 24 ▪
-_ 11/5 _
+_ May 11 _
 Rum           1-1  Telfs
-_ 12/5 _
+_ May 12 _
 Kitzbühel     3-2  Schwaz
 Neustift      2-1  SV Innsbruck
 Steinach      2-0  Thiersee
 Wörgl Amat.   1-0  Axams
 Vils          3-3  Breitenbach
-_ 13/5 _
+_ May 13 _
 Götzens       1-0  Fügen/Uderns
 Zams          1-6  Hall
 
 ▪ Round 25 ▪
-_ 18/5 _
+_ May 18 _
 Axams         8-1  Rum
 Fügen/Uderns  1-1  Zams
 Hall          4-2  Kitzbühel
-_ 19/5 _
+_ May 19 _
 Breitenbach   1-2  Wörgl Amat.
-_ 20/5 _
+_ May 20 _
 Schwaz        8-0  SV Innsbruck
 Steinach      3-1  Neustift
 Telfs         3-1  Götzens
 Thiersee      4-0  Vils
 
 ▪ Round 26 ▪
-_ 23/5 _
+_ May 23 _
 SV Innsbruck  1-7  Hall
 Zams          3-2  Telfs
-_ 25/5 _
+_ May 25 _
 Rum           9-1  Breitenbach
-_ 26/5 _
+_ May 26 _
 Götzens       0-6  Axams
 Kitzbühel     3-1  Fügen/Uderns
 Neustift      3-2  Schwaz
 Wörgl Amat.   2-0  Thiersee
-_ 27/5 _
+_ May 27 _
 Vils          5-1  Steinach
 
 ▪ Round 27 ▪
-_ 1/6 _
+_ Jun 1 _
 Axams         4-0  Zams
 Breitenbach   2-1  Götzens
 Fügen/Uderns  5-1  SV Innsbruck
@@ -4329,11 +4316,11 @@ Hall          3-0  Schwaz
 Telfs         4-0  Kitzbühel
 Thiersee      3-4  Rum
 Vils          1-0  Neustift
-_ 3/6 _
+_ Jun 3 _
 Steinach      4-1  Wörgl Amat.
 
 ▪ Round 28 ▪
-_ 6/6 _
+_ Jun 6 _
 Axams         5-0  Neustift
 Hall          1-3  Steinach
 SV Innsbruck  4-3  Wörgl Amat.
@@ -4344,20 +4331,20 @@ Thiersee      0-1  Fügen/Uderns
 Zams          1-1  Götzens
 
 ▪ Round 29 ▪
-_ 9/6 _
+_ Jun 9 _
 Kitzbühel     4-2  Axams
 Neustift      3-5  Hall
 Schwaz        3-0  Fügen/Uderns
 Wörgl Amat.   2-1  Vils
-_ 10/6 _
+_ Jun 10 _
 Götzens       3-2  Thiersee
 SV Innsbruck  0-5  Telfs
 Rum           2-0  Steinach
 
 ▪ Round 30 ▪
-_ 12/6 _
+_ Jun 12 _
 Wörgl Amat.   2-0  Neustift
-_ 13/6 _
+_ Jun 13 _
 Axams         2-1  SV Innsbruck
 Breitenbach   3-2  Kitzbühel
 Fügen/Uderns  0-4  Hall
@@ -4367,12 +4354,11 @@ Thiersee      2-2  Zams
 Vils          1-3  Rum
 
 Postponed Match, Round 29
-_ 16/6 _
+_ Jun 16 _
 Zams          2-3  Breitenbach
 
 
-<!-- $table14$ -->
-
+<!-- $table14$ - Final Table -->
 
 - SV Hall is promoted to Regionalliga West
 - Promoted from Landesliga: SK St.Johann, TS Stams
@@ -4618,7 +4604,7 @@ SW Bregenz Am.  2-4  Rätia Bludenz
 Koblach   1-0  Röthis
 Fußach      0-0  Wolfurt
 
-Moved Match [May 15]
+▪ Moved Match ▪  May 15
 Dornbirner SV  0-3  SW Bregenz Amat.
 
 ▪ Round 22 ▪
@@ -4671,8 +4657,7 @@ Wolfurt   2-0  Dornbirner SV
 FC Dornbirn  2-1  Lauterach
 Rätia Bludenz  3-2  FC Höchst
 
-<!-- $table15$ -->
-
+<!-- $table15$ - Final Table -->
 
 Promoted from Landesliga: RW Rankweil, Austria Lustenau Amateure.
 
@@ -5011,8 +4996,7 @@ IC Favoriten  5-2  Ostbahn XI
 Post SV   1-1  ISS Landhaus
 Donaufeld  0-0  Sportclub
 
-<!-- $table16$ -->
-
+<!-- $table16$ - Final Table -->
 
 Relegated from Ostliga: SC Simmering
 Promoted from Oberliga: Mannswörth (Oberliga A), Donau (Oberliga B)
@@ -5027,268 +5011,42 @@ relegated from 1.Landesliga: WSC Hertha
 
 FIFTH LEVEL
 
-2.Landesliga Ost
+<!-- $table17$ - 2.Landesliga Ost -->
 
- 1. Pettenbach            30  19  5  6  85-44  62  promoted
--------------------------------------------------
- 2. Micheldorf            30  18  7  5  74-38  61
- 3. Sierning              30  16  8  6  60-40  56
- 4. Freistadt             30  15  9  6  74-46  54
- 5. Amateure Steyr        30  16  2 12  61-53  50
- 6. SV Traun              30  14  5 11  65-64  47
- 7. Königswiesen          30  13  4 13  62-69  43
- 8. Ennser SK             30  10 10 10  44-56  40
- 9. Naarn                 30  10  8 12  49-54  38
-10. SC Marchtrenk         30  10  8 12  51-59  38
-11. Pichling              30  10  6 14  47-58  36
-12. Westbahn Linz         30   9  7 14  40-52  34
-13. Nettingsdorf          30   6 10 14  31-49  28
-14. Garsten               30   8  4 18  50-71  28
--------------------------------------------------
-15. Gallneukirchen        30   8  3 19  48-72  27  relegated
-16. Hörsching             30   6  8 16  36-52  26  relegated
-
-2.Landesliga West
-
- 1. FC Vöcklabruck        30  19  5  6  88-43  62  promoted
--------------------------------------------------
- 2. Friedburg             30  17  9  4  55-31  60
- 3. UFC Eferding          30  17  7  6  62-29  58
- 4. Wallern               30  15  5 10  61-40  50
- 5. Riedau                30  12  9  9  62-47  45
- 6. Andorf                30  13  6 11  41-52  45
- 7. Pichl                 30  12  8 10  48-55  44
- 8. Geretsberg            30  11  8 11  39-46  41
- 9. Ostermiething         30   9  9 12  40-56  36
-10. Esternberg            30  10  6 14  50-67  36
-11. FC Stadl-Paura        30  10  5 15  46-45  35
-12. Gurten                30   9  8 13  45-49  35
-13. Altheim               30   8  9 13  48-56  33
-14. Natternbach           30   7  8 15  28-58  29
-15. SV Ebensee            30   7  7 16  47-65  28
--------------------------------------------------
-16. SV Braunau Amat.      30   6  7 17  39-60  25  relegated
+<!-- $table18$ - 2.Landesliga West -->
 
 
 SIXTH LEVEL
 
-Bezirksliga Nord
+<!-- $table19$ - Bezirksliga Nord -->
 
- 1. ASKÖ Pregarten        26  20  5  1  89-29  65  promoted
--------------------------------------------------
- 2. Vorderweißbach        26  15  1 10  63-45  46
- 3. St.Oswald/Fr.         26  14  4  8  45-32  46
- 4. Mauthausen            26  13  3 10  52-56  42
- 5. Wartberg/A.           26  12  3 11  50-47  39
- 6. Putzleinsdorf         26  11  6  9  36-42  39
- 7. Steyregg              26  11  4 11  47-46  37
- 8. Rainbach/M.           26  10  5 11  50-47  35
- 9. Peilstein             26  10  4 12  63-53  34
-10. Stroheim              26   9  4 13  54-61  31
-11. Ottensheim            26   9  4 13  40-54  31
-12. Sarleinsbach          26   8  6 12  31-42  30
--------------------------------------------------
-13. Urfahr                26   9  2 15  49-69  29  relegated
-14. Gutau                 26   4  3 19  32-78  15  relegated
-
-Bezirksliga Ost
-
- 1. Wolfern               26  16  6  4  65-32  54  promoted
--------------------------------------------------
- 2. St.Ulrich             26  16  5  5  68-35  53
- 3. Ansfelden             26  13  6  7  65-33  45
- 4. Asten                 26  12  6  8  56-46  42
- 5. SC St.Pantaleon       26  12  3 11  63-69  39
- 6. Eferding/Frah.        26  10  7  9  47-57  37
- 7. SC St.Valentin        26   9  8  9  48-40  35
- 8. Doppl/Hart            26   9  7 10  39-42  34
- 9. ASK St.Valentin       26   9  6 11  57-57  33
-10. Viktoria Marchtrenk   26   8  8 10  42-46  32
-11. Alkhoven              26   8  8 10  51-61  32
-12. SV Molln              26   8  4 14  50-61  28
--------------------------------------------------
-13. Ernsthofen            26   7  7 12  36-53  28  relegated
-14. Oedt                  26   2  5 19  21-76  11  relegated
+<!-- $table20$ - Bezirksliga Ost -->
 
 Due to the aditional promotion of ASKÖ Pasching Amateure the
 Bezirkliga Ost is played with 15 teams in 2001/02.
 
-Bezirksliga Süd
+<!-- $table21$ - Bezirksliga Süd -->
 
- 1. Mondsee               26  17  7  2  55-21  58  promoted
--------------------------------------------------
- 2. Regau                 26  18  3  5  58-24  57
- 3. Bad Ischl             26  15  8  3  52-16  53
- 4. Blaue Elf Wels        26  11  4 11  41-44  37
- 5. Ried/Tr.              26  10  6 10  36-37  36
- 6. Bad Goisern           26  11  3 12  43-49  36
- 7. Zipf                  26   9  7 10  43-39  34
- 8. Gschwandt             26   8  8 10  31-31  32
- 9. Frankenmarkt          26   8  7 11  42-42  31
-10. Ohlsdorf              26   8  6 12  39-44  30
-11. Krenglbach            26   9  3 14  39-63  30
-12. ASKÖ Vorchdorf        26   7  4 15  36-46  25
--------------------------------------------------
-13. Frankenburg           26   6  6 14  33-58  24  relegated
-14. Union Gunskirchen     26   5  8 13  35-69  23  relegated
-
-Bezirksliga West
-
- 1. SK Schärding          26  18  4  4  56-19  58  promoted
--------------------------------------------------
- 2. St.Willibald          26  13  7  6  61-31  46
- 3. Gilgenberg            26  13  6  7  49-30  45
- 4. Neuhofen/I.           26  13  5  8  59-38  44
- 5. Kopfing               26  12  6  8  63-50  42
- 6. Waizenkirchen         26  13  2 11  60-52  41
- 7. Münzkirchen           26   9  9  8  48-47  36
- 8. ATSV Schärding        26  10  6 10  46-45  36
- 9. Neukirchen/E.         26  10  5 11  45-47  35
-10. Mattighofen           26   8  6 12  43-61  30
-11. Antiesenhofen         26   8  6 12  31-50  30
-12. SV St.Pantaleon       26   9  2 15  46-64  29
--------------------------------------------------
-13. St.Martin/I.          26   5  5 16  26-62  20  relegated
-14. Riegerting            26   5  3 18  32-69  18  relegated
+<!-- $table22$ - Bezirksliga West -->
 
 
 SEVENTH LEVEL
 
-1.Klasse Mitte
+<!-- $table23$ - 1.Klasse Mitte -->
 
- 1. Neuhofen/Kr.          22  17  3  2  66-22  54  promoted
--------------------------------------------------
- 2. Blaue Elf Linz        22  12  6  4  51-22  42
- 3. Pasching 1b           22  14  0  8  59-36  42  aditionally promoted
- 4. Edelweiß Linz         22  12  3  7  52-33  39
- 5. Walding               22  10  4  8  45-46  34
- 6. ASKÖ Leonding         22   9  4  9  34-31  31
- 7. Babenberg             22   9  3 10  51-49  30
- 8. Admira Linz           22   9  3 10  42-49  30
- 9. Haid                  22   7  8  7  56-49  29
-10. Union Leonding        22   6  7  9  41-43  25
--------------------------------------------------
-11. Bad Schallerbach 1b   22   4  1 17  25-85  13  relegated
-12. Rottenegg             22   1  2 19  21-78   5  relegated
+<!-- $table24$ - 1.Klasse Nord -->
 
-1.Klasse Nord
+<!-- $table25$ - 1.Klasse Ost -->
 
- 1. St.Oswald/H.          22  15  5  2  61-20  50  promoted
--------------------------------------------------
- 2. Altenfelden           22  14  4  4  57-30  46
- 3. Neustift              22  12  4  6  54-27  40
- 4. Reichenthal           22  11  5  6  48-37  38
- 5. Hartkirchen           22   9  7  6  51-45  34
- 6. Herzogsdorf           22   8  6  8  31-34  30
- 7. Schenkenfelden        22   8  4 10  39-46  28
- 8. Hofkirchen/M.         22   7  4 11  39-48  25
- 9. Ulrichsberg           22   7  4 11  38-56  25
-10. Arnreit               22   6  5 11  26-46  23
--------------------------------------------------
-11. Feldkirchen           22   5  3 14  30-53  18  relegated
-12. Klaffer               22   2  5 15  21-53  11  relegated
+<!-- $table26$ - 1.Klasse Süd -->
 
-1.Klasse Ost
+<!-- $table27$ - 1.Klasse Mitte-West -->
 
- 1. Bad Hall              22  15  6  1  57-19  51  promoted
--------------------------------------------------
- 2. Ternberg              22  12  5  5  50-31  41
- 3. Spital/P.             22   9  6  7  43-36  33
- 4. Kronsdorf             22  10  3  9  34-38  33
- 5. ATSV Steyr            22   9  4  9  34-38  31
- 6. Kematen/P.            22   8  6  8  33-39  30
- 7. Dietach               22   8  4 10  45-44  28
- 8. Losenstein            22   6  9  7  27-28  27
- 9. Windischgarsten       22   7  6  9  37-44  27
-10. Schlierbach           22   6  7  9  32-43  25
-11. Neuzeug               22   6  6 10  30-28  24
--------------------------------------------------
-12. Niederneukirchen      22   3  4 15  33-67  13  relegated
+<!-- $table28$ - 1.Klasse Nordost -->
 
-1.Klasse Süd
+<!-- $table29$ - 1.Klasse Nordwest -->
 
- 1. Altmünster            22  15  3  4  52-22  48  promoted
--------------------------------------------------
- 2. Traunkirchen          22  15  3  4  51-22  48
- 3. St.Wolfgang           22  10  6  6  44-32  36
- 4. Oberwang              22  11  3  8  42-41  36
- 5. Eberstalzell          22  10  4  8  49-32  34
- 6. Steinerkirchen        22   8  8  6  38-32  32
- 7. Pinsdorf              22   9  4  9  42-48  31
- 8. Attergau              22   8  5  9  37-39  29
- 9. ASKÖ Ebensee          22   7  4 11  29-42  25
-10. Rüstorf               22   6  6 10  31-46  24
--------------------------------------------------
-11. Kammer                22   4  5 13  33-49  17  relegated
-12. ATSV Lenzing          22   2  3 17  26-69   9  relegated
-
-1.Klasse Mitte-West
-
- 1. Rottenbach            22  16  2  4  56-22  50  promoted
--------------------------------------------------
- 2. Offenhausen           22  16  1  5  54-29  49
- 3. TSV Timelkam          22  14  3  5  65-28  45
- 4. Pattigham/Pr.         22  12  3  7  48-31  39
- 5. ATSV Timelkam         22  12  2  8  52-38  38
- 6. BW Stadl-Paura        22   9  5  8  46-39  32
- 7. Hohenzell             22   9  3 10  42-41  30
- 8. Grieskirchen 1b       22   8  2 12  36-42  26
- 9. Schildorn             22   6  4 12  35-52  22
-10. Gaspoltshofen         22   5  4 13  23-55  19
--------------------------------------------------
-11. Gallspach             22   4  3 15  30-57  15  relegated
-12. Holzleithen           22   4  2 16  26-79  14  relegated
-
-1.Klasse Nordost
-
- 1. Union Katsdorf        22  13  4  5  36-21  43  promoted
--------------------------------------------------
- 2. ASKÖ Perg             22  13  3  6  57-39  42
- 3. Schweinbach           22  13  2  7  57-31  41
- 4. Ried/R.               22  12  3  7  35-31  39
- 5. Weitersfelden/Kalt.   22  11  2  9  42-38  35
- 6. Baumgartenberg        22  10  4  8  38-44  34
- 7. Alberndorf            22   8  6  8  37-35  30
- 8. Unterweißenbach       22   8  5  9  49-47  29
- 9. Trangwein/K.          22   7  3 12  42-46  24
-10. Union Pregarten       22   7  3 12  31-43  24
--------------------------------------------------
-11. Münzbach              22   7  1 14  31-49  22  relegated
-12. Bad Zell              22   3  4 15  32-63  13  relegated
-
-1.Klasse Nordwest
-
- 1. Peuerbach             22  13  5  4  52-34  44  promoted
--------------------------------------------------
- 2. Rainbach/I.           22  12  4  6  43-30  40
- 3. Taufkirchen/P.        22  12  3  7  53-36  39
- 4. Neumarkt/K.           22  10  5  7  43-35  35
- 5. St.Marienkirchen/S.   22   9  5  8  42-40  32
- 6. Neukirchen/W.         22  10  2 10  39-37  32
- 7. Wesenufer             22   9  2 11  47-46  29
- 8. Freinberg             22   7  7  8  29-33  28
- 9. Suben                 22   8  2 12  48-61  26
-10. Taiskirchen           22   6  5 11  40-55  23
--------------------------------------------------
-11. Kallham               22   6  4 12  29-46  22  relegated
-12. Diersbach             22   4  8 10  32-44  20  relegated
-
-1.Klasse Südwest
-
- 1. Utzenaich             22  16  3  3  65-23  51  promoted
--------------------------------------------------
- 2. Munderfing            22  13  5  4  56-30  44
- 3. Hochburg              22  12  0 10  49-39  36
- 4. Palting               22  10  2 10  48-42  32
- 5. Uttendorf             22   8  6  8  44-41  30
- 6. Ort/I.                22   8  6  8  38-43  30
- 7. Aspach/W.             22   8  5  9  43-41  29
- 8. Eggelsberg            22   9  2 11  31-45  29
- 9. Mettmach              22   8  3 11  43-50  27
-10. Tarsdorf              22   7  5 10  25-42  26
-11. Waldzell              22   8  1 13  39-58  25
--------------------------------------------------
-12. Lochen                22   3  6 13  26-53  15  relegated
+<!-- $table30$ - 1.Klasse Südwest -->
 
 EIGHTH LEVEL
 
@@ -5321,24 +5079,24 @@ TFV CUP 2000/2001  ‹§tircup›
 ▪ THIRD ROUND ▪
 
 Games with teams from Regionalliga:
-_ 10/10 _
+_ Oct 10 _
  Ellbögen/Patsch - Jenbach/Achensee 0-5
  Umhausen - Tirol/ISK Amateure      4-0
-_ 26/10 _
+_ Oct 26 _
  Union Innsbruck-West - Kirchbichl  3-1
  Rinn - Reichenau                   1-4
  Schlitters - Kundl                 1-11
  Stans - Kufstein                   0-2
 
 Other Games:
-_ 10/10 _
+_ Oct 10 _
  Kundl II - Kitzbühel               1-4
  Matrei/Br. - Fügen/Uderns          1-2
  Mayrhofen - Axams                  1-1 (pen 4-5)
  Roppen - Hall                      1-5
  Söll - Schwaz                      4-1
  St.Johann - Thiersee               1-1 (pen 5-4)
-_ 26/10 _
+_ Oct 26 _
  Elbigenalp - Zams                  2-6
  Hatting - Wörgl Amateure           2-0
  FC Landeck - Telfs                 0-12
@@ -5358,14 +5116,14 @@ from Gebietsliga: ESV Hatting, Union Innsbruck-West, FC Söll
 ▪ FOURTH ROUND ▪
 
 Games with teams from Regionalliga:
-_ 16/4 _
+_ Apr 16 _
  Fügen/Uderns - KUNDL               1-2
  Hatting - REICHENAU                0-1
  KUFSTEIN - St.Johann               3-3 (pen 6-5)
  Telfs - JENBACH/ACHENSEE           1-1 (pen 4-5)
 
 Other Games:
-_ 16/4 _
+_ Apr 16 _
  AXAMS - Union Innsbruck-West       6-1
  KITZBÜHEL - Zams                   6-0
  UMHAUSEN - Hall                    6-2
@@ -5373,13 +5131,13 @@ _ 16/4 _
 
 ▪ QUARTER FINALS ▪
 
-_ 8/5 _
+_ May 8 _
  SV AXAMS - FC Kitzbühel ................. 1-1 (pen 4-3)
  Goals: Töpfer 8'; Oberwallner 15'
  SV Umhausen - SC KUNDL (holder) ......... 2-5
  Goals: I. Falkner, Ribis; W. Spanring (2), Oberhuber (2),
     Zenz
-_ 9/5 _
+_ May 9 _
  SV Längenfeld - FC KUFSTEIN ............. 0-2
  Goals: Schneeberger 25', Rothstein 30'
  SV REICHENAU - SPG Jenbach/Achensee ..... 4-1
@@ -5388,16 +5146,16 @@ _ 9/5 _
 
 ▪ SEMIFINALS ▪
 
-_ 16/5 _
+_ May 16 _
  SV Reichenau - FC Kufstein .............. 0-1
  Goal: Thrainer 75'
  SC Kundl - SV Axams ..................... 2-4
  Goals: Rappold 26', Edenstrasser 69'; Oberhöller 40',
     Kuba 58'(p) 84'(p), Auer 90'
 
-FINAL [in Kundl]
+▪ FINAL ▪  @ Kundl
 
-_ 4/6 _
+_ Jun 4 _
  SV AXAMS - FC KUFSTEIN .................. 3-0
  Goals: Auer (10'), Kirchebner (24', 76')
  Attendence: 1.000
@@ -5415,12 +5173,10 @@ _ 4/6 _
 FIFTH LEVEL
 
 Landesliga Ost 2000/01
-<!-- $table17$ -->
-
+<!-- $table31$ - Final Standings -->
 
 Landesliga West 2000/01
-<!-- $table18$ -->
-
+<!-- $table32$ - Final Standings -->
 
 Changes:
 - Relegated from Tiroler Liga:  SV Thiersee, SV Breitenbach (Ost),
@@ -5431,12 +5187,10 @@ Changes:
 SIXTH LEVEL
 
 Gebietsliga Ost 2000/01
-<!-- $table19$ -->
-
+<!-- $table33$ - Final Standings -->
 
 Gebietsliga West 2000/01
-<!-- $table20$ -->
-
+<!-- $table34$ - Final Standings -->
 
 Changes:
 - Relegated from Landesliga:  SPG  Hopfgarten/Itter,  SV Angerberg
@@ -5447,16 +5201,13 @@ Changes:
 SEVENTH LEVEL
 
 1.Klasse Ost 2000/01
-<!-- $table21$ -->
-
+<!-- $table35$ - Final Standings -->
 
 1.Klasse Mitte 2000/01
-<!-- $table22$ -->
-
+<!-- $table36$ - Final Standings -->
 
 1.Klasse West 2000/01
-<!-- $table23$ -->
-
+<!-- $table37$ - Final Standings -->
 
 Changes:
 - Relegated from Gebietsliga: SR Oberlangkampfen, SV Brixen (Ost),
@@ -5467,16 +5218,13 @@ Changes:
 EIGHTH LEVEL
 
 2.Klasse Ost 2000/01
-<!-- $table24$ -->
-
+<!-- $table38$ - Final Standings -->
 
 2.Klasse Mitte 2000/01
-<!-- $table25$ -->
-
+<!-- $table39$ - Final Standings -->
 
 2.Klasse West 2000/01
-<!-- $table26$ -->
-
+<!-- $table40$ - Final Standings -->
 
 Changes:
 - Relegated from 1.Klasse:  SV Radfeld,  SC Münster, FC Veldidena
@@ -5502,39 +5250,25 @@ VORARLBERG
 FIFTH LEVEL
 
 Landesliga
-<!-- $table27$ -->
-
+<!-- $table41$ - Final Standings -->
 
 Relegated from Vorarlbergliga: SV Göfis
 
 SIXTH LEVEL
 
 1.Landesklasse
-<!-- $table28$ -->
-
+<!-- $table42$ - Final Standings -->
 
 SEVENTH LEVEL
 
 2.Landesklasse
-<!-- $table29$ -->
-
+<!-- $table43$ - Final Standings -->
 
 EIGHTH LEVEL
 
 3.Landesklasse
 
-Championship Play off
-
- 1. SC Rheindorf Altach 1b    16  12  1  3  64-23  37  promoted
- 2. FC Doren                  16   9  3  4  38-28  30  promoted
------------------------------------------------------
- 3. FC Raggal                 16   8  4  4  39-24  28
- 4. SV Buch                   16   8  3  5  27-24  27
- 5. VfB Hohenems 1b           16   6  4  6  28-28  22
- 6. FC Krumbach               16   6  3  7  34-34  21
- 7. VfB Bezau                 16   5  3  8  20-25  18
- 8. Eintracht Bremenmahd      16   5  1 10  30-50  16
- 9. FC Au                     16   2  0 14  13-57   6
+<!-- $table44$ - Championship Play off -->
 
 New Teams in 2001/02:  BW Feldkirch 1b,  FC Nenzing 1b, Viktoria
    Bregenz 1b, FC Höchst 1b

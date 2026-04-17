@@ -8,8 +8,7 @@
 
 First Level (Bundesliga)
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 [*] the reported name change of VfB Admira/Wacker Mödling refers
     only to the visual appearance of their logo, from which Wacker
@@ -498,8 +497,7 @@ Austria S        2-0 Rapid
 Sturm            4-1 Schwarz-Weiß
   (Filipovic 27, Brunmayr 29, Haas 40, 43; Hauser 31)
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 [*] the reported name change of VfB Admira/Wacker Mödling refers
     only to the visual appearance of their logo, from which Wacker
@@ -671,7 +669,7 @@ _ May 5 _
 Sturm Graz        1-1 Austria Wien             (aet, 4-5 pen)
   (Salmutter 90; Vastic 14)
 
-▪ Final ▪  May 23, Stadion Wals-Siezenheim, Salzburg; att: 7,900
+▪ Final ▪  May 23 @ Stadion Wals-Siezenheim, Salzburg; att: 7,900
 Grazer AK         3-3 Austria Wien             (aet, 5-4 pen)
   (Bazina 45, Kollmann 86, Aufhauser 106; Gilewicz 28, 99, Dundee 64)
   [penalties: Muratovic 1-0, Verlaat 1-1; Standfest 2-1, Flögel 2-2;
@@ -697,8 +695,7 @@ Grazer AK         1-1 Austria Wien             (2-4 pen)
 
 Second Level (1. Liga)
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 NB: team names stripped from sponsors
 
@@ -1179,8 +1176,7 @@ DSV              1-3 Austria L
 Wörgl            0-2 Ried
   (Sidibe 50, Drechsel 76)
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Final Table -->
 
 NB: team names stripped from sponsors
 
@@ -1188,7 +1184,7 @@ NB: SPG WSG Wattens/Wacker Tirol were dissolved into FC Wacker Tirol
     (at 2nd level) and WSG Wattens (at 4th level) during the summer;
     BSV Bad Bleiberg were renamed BSV Juniors (playing in Villach)
 
-Promotion/Relegation Playoffs
+▪ Promotion/Relegation Playoffs ▪
 
 ▪ First Legs ▪  Jun 8
 SCR Altach       3-2 FC Lustenau
@@ -1210,26 +1206,7 @@ FC Gratkorn and SC Rheindorf Altach promoted, FC Lustenau relegated
 Third Level 2003/04
 
 Regionalliga West
-(Teams from Vorarlberg, Tirol and Salzburg)
-
-  1. SC Rheindorf Altach           30  21  7  2   86-20   69 [*]
- -----------------------------------------------------------
-  2. SV Hall                       30  19  3  8   59-38   60
-  3. FC Hard                       30  17  8  5   64-40   59
-  4. SV Salzburg Amateure          30  14  7  9   63-41   49
-  5. Blau-Weiß Feldkirch           30  14  5 11   56-43   47
-  6. FC Kufstein                   30  15  2 13   55-44   47
-  7. VfB Hohenems                  30  12  7 11   41-43   43
-  8. SPG Reichenau/Aldrans         30  12  4 14   46-56   40
-  9. Rot-Weiß Rankweil             30  12  4 14   47-65   40
- 10. SPG Axams/Götzens             30  11  4 15   43-50   37
- 11. FC Puch                       30  11  4 15   53-70   37
- 12. FC Seekirchen                 30   9  9 12   54-62   36
- 13. Viktoria Bregenz              30   9  8 13   47-59   35
- -----------------------------------------------------------
- 14. USK Anif                      30   8  6 16   44-56   30
- 15. PSV/SW Salzburg               30   6  8 16   41-64   25 [*]
- 16. Salzburger AK 1914            30   4  6 20   31-79   18
+<!-- $table5$ - (Teams from Vorarlberg, Tirol and Salzburg) -->
 
 [*] final match (PSV Salzburg - Altach) cancelled and therefore awarded 0-0 without points
 
@@ -1238,52 +1215,14 @@ Relegated to Regionalliga: FC Lustenau
 
 
 Regionalliga Mitte
-(Teams from Oberösterreich, Steiermark and Kärnten)
-
-  1. FC Gratkorn                   30  19  6  5   67-28   63
- -----------------------------------------------------------
-  2. TSV Hartberg                  30  18  6  6   62-30   60
-  3. TuS FC Arnfels                30  14  7  9   50-39   49
-  4. ASK Köflach                   30  14  6 10   53-49   48
-  5. FC Blau-Weiß Linz             30  13  8  9   40-33   47
-  6. SC Schwanenstadt              30  11 11  8   41-35   44
-  7. 1.SVG Bleiburg                30  13  3 14   34-32   42
-  8. SK Sturm Graz Amateure        30  11  8 11   33-35   41
-  9. SK St.Andrä im Lavanttal      30  11  7 12   44-47   40
- 10. FCK Amateure/Welzenegg        30  10  9 11   31-28   39
- 11. ASK Voitsberg                 30  10  9 11   45-49   39
- 12. Union St.Florian              30  10  8 12   35-41   38
- 13. DSG Union Perg                30  11  2 17   35-58   35
- 14. SV Spittal an der Drau        30   8 10 12   27-38   34
- -----------------------------------------------------------
- 15. FC Wels                       30   7  5 18   25-49   26
- 16. FC LASK Linz Amateure         30   4  7 19   23-54   19
+<!-- $table6$ - (Teams from Oberösterreich, Steiermark and Kärnten) -->
 
 Promoted to Regionalliga: SC St.Magdalena/Pasching Amateure, SC Kalsdorf, SV Feldkirchen
 Relegated to Regionalliga: BSV Juniors Villach (will not participate in 2004/05 due to dissolution).
 
 
 Regionalliga Ost
-(Teams from Niederösterreich, Wien and Burgenland)
-
-  1. SC/ESV Parndorf               30  16  9  5   49-27   57
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-  2. FC Waidhofen an der Ybbs      30  15  5 10   50-37   50
-  3. First Vienna FC               30  13  9  8   42-34   48
-  4. SKN St.Pölten                 30  14  5 11   60-36   47
-  5. FK Austria Wien Amateure      30  12 11  7   50-34   47
-  6. ASK Kottingbrunn              30  11 13  6   41-28   46
-  7. SC Eisenstadt                 30  13  5 12   43-40   44
-  8. SV Rohrbach bei Mattersburg   30  13  5 12   46-47   44
-  9. SVS Schwechat                 30  11  8 11   43-41   41
- 10. Kremser SC                    30  10 11  9   42-51   41
- 11. Admira/W. Mödling Amateure    30   9 11 10   49-40   38
- 12. Wiener Sportklub              30   8 10 12   39-43   34
- 13. DSV Fortuna 05                30   8  8 14   36-60   32
- -----------------------------------------------------------
- 14. SV Neuberg                    30   8  6 16   40-66   30
- 15. Floridsdorfer AC              30   8  5 17   38-64   29
- 16. SV Oberwart                   30   6  9 15   37-57   27
+<!-- $table7$ - (Teams from Niederösterreich, Wien and Burgenland) -->
 
 Promoted to Regionalliga: PSV Team für Wien, SV Würmla, SC Ritzing
 No relegation to Regionalliga (Ost)
@@ -1294,49 +1233,13 @@ Fourth Level 2003/04
 Feeders of Regionalliga West
 
 
-Vorarlberg-Liga
-
-  1. FC Dornbirn                   26  20  6  0   71-17   66
- -----------------------------------------------------------
-  2. FC Koblach                    26  15  3  8   66-43   48
-  3. SC Austria Lustenau Amateure  26  13  6  7   50-35   45
-  4. FC Sulzberg                   26  13  3 10   48-35   42
-  5. FC Wolfurt                    26  11  6  9   46-35   39
-  6. Admira Dornbirn               26  10  9  7   37-36   39
-  7. FC Götzis                     26  12  3 11   43-52   39
-  8. FC Höchst                     26  11  4 11   71-56   37
-  9. VfB Bizau                     26  11  2 13   60-70   35
- 10. FC Nenzing                    26   9  7 10   40-48   34
- 11. Dornbirner SV                 26   8  9  9   28-34   33
- 12. SC Lauterach                  26   8  6 12   34-51   30
- 13. SW Bregenz Amateure           26   4  2 20   41-86   14
- -----------------------------------------------------------
- 14. SK Rätia Bludenz              26   3  2 21   42-79   11
+<!-- $table8$ - Vorarlberg-Liga -->
 
 No relegation from Regionalliga (West)
 Promoted to Vorarlberg-Liga: FC Egg, SV Lochau
 
 
-Tiroler Liga  ‹§tirol›
-
-  1. SV Wörgl Amateure             30  19  8  3   77-31   65 [*]
-  2. Innsbrucker SK                30  20  4  6   91-53   64
- -----------------------------------------------------------
-  3. SV Telfs                      30  15  7  8   56-49   52
-  4. WSG Wattens                   30  14  9  7   71-47   51
-  5. SC Kundl                      30  13  7 10   55-54   46
-  6. SV Oberperfuss                30  13  3 14   55-55   42
-  7. SK St.Johann                  30  12  6 12   58-60   42
-  8. SPG Kitzbühel/Reith           30  11  7 12   50-46   40
-  9. SK Zirl                       30  11  6 13   55-59   39
- 10. SPG Rum/IAC                   30  11  5 14   76-65   38
- 11. SC Schwaz                     30  11  5 14   44-50   38
- 12. SPG Fügen/Uderns              30  11  4 15   54-56   37
- 13. SVG Mayrhofen                 30  10  7 13   38-51   37
- -----------------------------------------------------------
- 14. SK Hippach                    30   6 10 14   47-69   28
- 15. TS Stams                      30   8  4 18   41-87   28
- 16. Union Innsbruck               30   4 10 16   42-78   22
+<!-- $table9$ - Tiroler Liga  ‹§tirol› -->
 
 [*] SV Wörgl Amateure refused to be promoted, therefore ISK is promoted to Regionalliga
 
@@ -1344,24 +1247,7 @@ No relegation from Regionalliga (West)
 Promoted to Tiroler Liga: SV Absam, SV Kolsass/Weer, SV Innsbruck, SV Landeck
 
 
-1.Landesliga Salzburg
-
-  1. FC Zell am See                26  21  2  3   87-20   65
- -----------------------------------------------------------
-  2. FC Straßwalchen               26  18  2  6   70-32   56
-  3. SC St.Johann im Pongau        26  17  5  4   58-30   56
-  4. FC Hallwang                   26  14  6  6   52-34   48
-  5. ASK Salzburg                  26  13  6  7   65-32   45
-  6. FC Eugendorf                  26  11  4 11   57-41   37
-  7. FC Schwarzach                 26   9  7 10   36-39   34
-  8. SV Kuchl                      26   8  6 12   41-55   30
-  9. ÖTSU Henndorf                 26   8  4 14   50-61   28
- 10. SC Bramberg                   26   8  4 14   40-82   28
- -----------------------------------------------------------
- 11. Halleiner SK                  26   7  6 13   32-56   27
- 12. SC Golling                    26   8  2 16   42-66   26
- 13. SV Grünau                     26   4  7 15   32-65   19
- 14. ESV Saalfelden                26   2  7 17   24-73   13
+<!-- $table10$ - 1.Landesliga Salzburg -->
 
 Relegated from Regionalliga (West): USK Anif, PSV/SW Salzburg, SAK 1914
 Promoted to 1.Landesliga: SK Mittersill, FC Oberndorf
@@ -1370,74 +1256,19 @@ Promoted to 1.Landesliga: SK Mittersill, FC Oberndorf
 Feeders of Regionalliga Mitte
 
 
-Oberösterreich-Liga
-
-  1. St.Magdalena/Pasching Amat.   26  18  3  5   58-22   57
- -----------------------------------------------------------
-  2. ASKÖ Donau Linz               26  15  5  6   60-35   50
-  3. ATSV Sattledt                 26  13  7  6   39-32   46
-  4. SV Wallern                    26  12  6  8   47-41   42
-  5. SV Grün-Weiß Micheldorf       26  12  5  9   49-39   41
-  6. WSV-ATSV Ranshofen            26  11  7  8   43-37   40
-  7. SV Grieskirchen               26   9  9  8   45-43   36
-  8. SV Bad Schallerbach           26   9  4 13   45-50   31
-  9. Union Vöcklamarkt             26   8  6 12   42-51   30
- 10. SK Altheim                    26   8  4 14   28-43   28
- 11. Union Rohrbach/Berg           26   8  4 14   36-57   28
- -----------------------------------------------------------
- 12. SV Gmunden                    26   6  9 11   30-47   27
- 13. Union Pettenbach              26   7  4 15   33-48   25
- 14. SV Siering                    26   5  9 12   33-43   24
+<!-- $table11$ - Oberösterreich-Liga -->
 
 Relegated from Regionalliga (Mitte): FC Wels, LASK Linz Amateure
 Promoted to Oberösterreich-Liga: SV Gallneukirchen, 1.FC Vöcklabruck
 
 
-Landesliga Steiermark
-
-  1. SC Kalsdorf                   30  19  6  5   70-35   63
- -----------------------------------------------------------
-  2. SV Rottenmann                 30  17  6  7   49-28   57
-  3. GAK Amateure                  30  17  4  9   60-39   55
-  4. SV Kindberg                   30  15  9  6   52-35   54
-  5. SC Weiz                       30  15  8  7   47-27   53
-  6. SV Bad Aussee                 30  13  6 11   45-39   45
-  7. SV Gleinstätten               30  13  6 11   52-51   45
-  8. FC Großklein                  30  12  8 10   41-45   44
-  9. SV Leibnitz/Flavia Solva      30  13  3 14   45-42   42
- 10. SV Gnas                       30  11  9 10   37-37   42
- 11. UFC Fehring                   30  10  6 14   41-48   36
- 12. SV Allerheiligen              30   9  5 16   39-61   32
- 13. FC Zeltweg                    30   8  7 15   33-46   31
- 14. SV Lebring                    30   6  7 17   29-48   25
- -----------------------------------------------------------
- 15. FC Judenburg                  30   7  4 19   31-65   25
- 16. SV Anger                      30   6  4 20   40-65   22
+<!-- $table12$ - Landesliga Steiermark -->
 
 No relegation from Regionalliga (Mitte)
 Promoted to Landesliga: SV Feldkirchen, FSC Eggendorf/Hartberg II, WSV St.Lambrecht
 
 
-Kärntner Liga
-
-  1. SV Feldkirchen                30  22  6  2   55-19   72
- -----------------------------------------------------------
-  2. SAK Klagenfurt                30  22  3  5   66-27   69
-  3. FC Oberes Metnitztal          30  17  6  7   59-34   57
-  4. SK Treibach                   30  16  7  7   61-31   55
-  5. SC Landskron                  30  13  8  9   60-55   47
-  6. WSG Wietersdorf               30  13  6 11   42-50   45
-  7. Magdalener SC                 30  12  8 10   49-39   44
-  8. SV Lendorf                    30  10 14  6   44-36   44
-  9. FC St.Michael im Lavanttal    30  12  7 11   42-36   43
- 10. BW Sachsenburg                30   9  3 18   34-51   30
- 11. ASV Klagenfurt                30   6 12 12   32-49   30
- 12. SV Griffen                    30   7  7 16   40-63   28
- 13. FC St.Veit                    30   6  9 15   31-47   27
- 14. SV Fellach/VSV                30   6  8 16   29-52   26
- -----------------------------------------------------------
- 15. FC Nussdorf-Debant            30   6  6 18   28-58   24
- 16. Wolfsberger AC                30   3 10 17   17-42   19
+<!-- $table13$ - Kärntner Liga -->
 
 No relegation from Regionalliga (Mitte)
 Promoted to Landesliga: ATUS Ferlach, FC Möllbrücke, WSG Brückl
@@ -1446,77 +1277,19 @@ Promoted to Landesliga: ATUS Ferlach, FC Möllbrücke, WSG Brückl
 Feeders of Regionalliga Ost
 
 
-1.Landesliga Niederösterreich
-
-  1. SV Würmla                     30  20  3  7   56-31   63
- -----------------------------------------------------------
-  2. SV Haitzendorf                30  18  6  6   65-41   60
-  3. SC Zwettl                     30  17  5  8   58-42   56
-  4. SV Langenrohr                 30  14  8  8   52-32   50
-  5. SV Horn                       30  15  2 13   54-39   47
-  6. SV Stockerau                  30  14  5 11   55-42   47
-  7. SKU Amstetten                 30  13  8  9   39-36   47
-  8. SC Retz                       30  12  6 12   43-51   42
-  9. SCU Ardagger                  30  12  4 14   36-41   40
- 10. SV Leobendorf                 30  10  8 12   50-41   38
- 11. SV St.Peter/Au                30  11  5 14   41-47   38
- 12. SC Himberg                    30  10  6 14   47-60   36
- 13. FC Mistelbach                 30   8  9 13   33-47   33
- 14. FC Tulln                      30   8  6 16   31-54   30
- 15. SC Ortmann                    30   7  7 16   35-59   28
- -----------------------------------------------------------
- 16. 1.Wr.Neustäder SC             30   4  6 20   25-57   18
+<!-- $table14$ - 1.Landesliga Niederösterreich -->
 
 No relegation from Regionalliga (Ost)
 Promoted to 1.Landesliga: SC Amaliendorf, ASK Schwadorf
 
 
-Wiener Stadtliga
-
-  1. PSV Team für Wien             30  20  5  5   65-30   65
- -----------------------------------------------------------
-  2. SK Rapid Wien Amateure        30  18  8  4   76-36   62
-  3. Gersthofer SV                 30  17  5  8   79-34   56
-  4. ISS Landhaus                  30  16  6  8   64-47   54
-  5. KSV Ankerbrot                 30  13  7 10   42-33   46
-  6. FC Stadlau                    30  13  6 11   51-50   45
-  7. SV Donau                      30  11  9 10   51-45   42
-  8. SR Donaufeld                  30  10 12  8   33-31   42
-  9. IC Favoriten                  30  11  9 10   41-47   42
- 10. Favoritener AC                30  11  7 12   60-56   40
- 11. 1.Simmeringer SC              30   9 12  9   50-45   39
- 12. SC Ostbahn XI                 30   9  8 13   48-56   35
- 13. SC Mannswörth                 30  10  3 17   40-62   33
- 14. FC Hellas Kagran              30   8  5 17   43-76   29
- -----------------------------------------------------------
- 15. FK Old Formation RAG Feibra   30   6  4 20   27-68   22
- 16. Post SV                       30   2  6 22   31-85   12
+<!-- $table15$ - Wiener Stadtliga -->
 
 Relegated from Regionalliga (Ost): FAC
 Promoted to Stadtliga: Wienerberg, SV Essling
 
 
-Burgenland-Liga
-
-  1. SC Ritzing                    32  23  5  4   70-21   74
- -----------------------------------------------------------
-  2. ASK Baumgarten                32  17  7  8   73-41   58
-  3. ASK Horitschon                32  15  9  8   58-42   54
-  4. SV Güssing                    32  16  6 10   57-42   54
-  5. ASK Kohfidisch                32  13 12  7   47-40   51
-  6. SC Wiesen                     32  14  7 11   52-51   49
-  7. UFC Tadten                    32  12 11  9   45-43   47
-  8. FC Illmitz                    32  11 11 10   43-43   44
-  9. ASV Zurndorf                  32  13  4 15   50-64   43
- 10. ASK Klingenbach               32  10 12 10   48-44   42
- 11. SV Eberau                     32  12  6 14   46-59   42
- 12. SV St.Margarethen             32  10  8 14   51-54   38
- 13. SV Mattersburg Amateure       32  11  5 16   52-63   38
- 14. SC Neudörfl                   32   9  8 15   47-52   35
- -----------------------------------------------------------
- 15. FC Deutschkreutz              32   8  9 15   34-50   33
- 16. SV Antau                      32   7  5 20   34-69   26
- 17. FC Winden                     32   5  7 20   45-74   22
+<!-- $table16$ - Burgenland-Liga -->
 
 Relegated from Regionalliga (Ost): SV Neuberg, SV Oberwart
 Promoted to Burgenland-Liga: SK Neusiedl/S., SV Forchtenstein, SV Stegersbach
@@ -1527,142 +1300,29 @@ Fifth and Lower Levls (only Tirol)
 
 Fifth Level
 
-Landesliga Ost
+<!-- $table17$ - Landesliga Ost -->
 
-  1. SV Absam                      26  20  4  2   76-31   64
-  2. SV Kolsass/Weer               26  19  2  5   75-36   59
- -----------------------------------------------------------
-  3. SVG Jenbach                   26  17  5  4   66-33   56
-  4. SK Ebbs                       26  16  2  8   62-39   50
-  5. SV Thiersee                   26  11  6  9   46-46   39
-  6. FC Kramsach/Brandenberg       26  10  8  8   63-44   38
-  7. FC Bruckhäusl                 26   9  7 10   51-48   34
-  8. SV Kirchbichl                 26   8  8 10   47-52   32
-  9. FC Söll                       26  10  2 14   50-59   32
- 10. FC Kufstein II                26   8  4 14   52-75   28
- 11. SV Westendorf                 26   6  6 14   38-65   24
- 12. SV Breitenbach                26   5  5 16   42-62   20
- -----------------------------------------------------------
- 13. SV Langkampfen                26   5  4 17   42-73   19
- 14. SK Fieberbrunn                26   3  7 16   39-86   16
-
-Landesliga West
-
-  1. SV Innsbruck                  26  18  0  8   68-41   54
-  2. SV Landeck                    26  16  6  4   58-33   54
- -----------------------------------------------------------
-  3. SV Rinn                       26  15  6  5   75-38   51
-  4. SV Thaur                      26  14  1 11   66-48   43
-  5. SV Längenfeld                 26  13  4  9   46-36   43
-  6. SV Zams                       26  12  5  9   56-40   41
-  7. SPG Reichenau/Aldrans II      26  11  7  8   53-51   40
-  8. SV Matrei am Brenner          26  10  6 10   45-42   36
-  9. SV Neustift                   26   8  5 13   42-48   29
- 10. SC Steinach                   26   8  4 14   35-43   28
- 11. SV Umhausen                   26   7  5 14   38-68   26
- 12. SC Imst                       26   7  4 15   36-56   25
- 13. FC Oberhofen                  26   6  5 15   36-71   23
- -----------------------------------------------------------
- 14. SV Haiming                    26   6  4 16   39-78   22
+<!-- $table18$ - Landesliga West -->
 
 SV Rinn regrouped in 2004/05 from Landesliga West to Ost.
 
 
 Sixth Level
 
-Gebietsliga Ost
+<!-- $table19$ - Gebietsliga Ost -->
 
-  1. SK Kirchberg                  26  16  6  4   63-24   54
-  2. SV Kirchdorf                  26  15  4  7   66-38   49
- -----------------------------------------------------------
-  3. SV Niederndorf                26  12  4 10   59-54   40
-  4. SPG Brixlegg/Rattenberg       26  11  6  9   69-61   39
-  5. SK Zell am Ziller             26  11  6  9   59-64   39
-  6. FC Kössen                     26  11  3 12   53-57   36
-  7. FC Buch                       26  11  3 12   45-55   36
-  8. FC Aschau im Zillertal        26  10  5 11   47-53   35
-  9. SV Volders                    26  10  4 12   48-55   34
- 10. SR Oberlangkampfen            26   8  9  9   46-50   33
- 11. SPG SK Rum/IAC II             26  10  2 14   50-50   32
- 12. SV Walchsee                   26   8  7 11   58-60   31
- -----------------------------------------------------------
- 13. SV Fritzens                   26   8  6 12   45-59   30
- 14. FC Vomp                       26   7  3 16   37-65   24
-
-Gebietsliga West
-
-  1. SV Völs                       26  20  4  2   99-34   64
-  2. SK Rietz                      26  15  6  5   55-36   51
- -----------------------------------------------------------
-  3. SPG Silz/Mötz                 26  15  2  9   77-56   47
-  4. SPG Axams/Götzens II          26  14  3  9   54-50   45
-  5. SV Kematen                    26  12  7  7   57-42   43
-  6. TSV Fulpmes                   26  11  3 12   60-54   36
-  7. TSV Inzing                    26  11  3 12   46-54   36
-  8. FC Fliess                     26   9  7 10   49-50   34
-  9. TUS Tarrenz                   26  10  3 13   69-54   33
- 10. SV Lohbach/Kranebitten        26   8  9  9   60-60   33
- 11. SPG Pitztal                   26   8  6 12   48-54   30
- -----------------------------------------------------------
- 12. SV Elbigenalp                 26   8  3 15   57-82   27 [*]
- 13. SPG Ellbögen/Patsch           26   7  2 17   48-97   23
- 14. FC Schönberg                  26   4  2 20   40-96   14
+<!-- $table20$ - Gebietsliga West -->
 
 [*] unites with FC Stanzach to form SPG Lechtal in 1.Klasse West 2004/05
 
 
 Seventh Level
 
-1.Klasse Ost
+<!-- $table21$ - 1.Klasse Ost -->
 
-  1. SPG Hopfgarten/Itter          22  19  2  1  110-25   59
-  2. SV Radfeld                    22  14  2  6   68-42   44
- -----------------------------------------------------------
-  3. FC Finkenberg                 22  12  3  7   55-35   39
-  4. FC St.Ulrich                  22  11  4  7   53-29   37
-  5. SV Brixen im Thale            22  10  4  8   58-66   34
-  6. SVG Stumm                     22  11  1 10   46-58   34
-  7. FC Wacker Alpbach             22   8  6  8   54-47   30
-  8. SV Angerberg                  22   8  4 10   46-56   28
-  9. FC Wildschönau                22   8  1 13   47-65   25
- 10. SV Ried/Kaltenbach            22   6  4 12   41-74   22
- 11. SC Kundl II                   22   6  3 13   44-61   21
- -----------------------------------------------------------
- 12. SK Waidring                   22   0  4 18   24-88    4
+<!-- $table22$ - 1.Klasse Mitte -->
 
-1.Klasse Mitte
-
-  1. FC Sellraintal                22  18  0  4   75-29   54
-  2. FC Veldidena                  22  15  3  4   67-28   48
- -----------------------------------------------------------
-  3. ESV Hatting                   22  12  6  4   40-25   42
-  4. FC Flaurling                  22  11  4  7   53-36   37
-  5. SV Stans                      22  11  2  9   38-39   35
-  6. SK Wilten                     22   9  6  7   39-35   33
-  7. SK Seefeld                    22   8  5  9   41-47   29
-  8. SV Natters                    22   8  4 10   52-50   28
-  9. SV Schlitters                 22   6  3 13   36-53   21
- 10. SC Mils                       22   6  3 13   34-63   21
- -----------------------------------------------------------
- 11. SV Tulfes                     22   4  6 12   42-55   18
- 12. FC Navis                      22   3  0 19   31-88    9
-
-1.Klasse West
-
-  1. USV Oetz                      22  18  4  0   62-11   58
-  2. FC Vils                       22  13  7  2   56-20   46
- -----------------------------------------------------------
-  3. SV Reutte                     22  12  5  5   45-24   41
-  4. FG Schönwies/Mils             22  11  4  7   34-30   37
-  5. SPG Prutz/Serfaus             22  10  6  6   31-24   36
-  6. FC Landeck                    22   9  2 11   37-44   29 [*]
-  7. TUS Roppen                    22   8  2 12   27-31   26
-  8. SPG Sölden                    22   6  4 12   37-42   22
-  9. SV Ried im Oberinntal         22   7  1 14   29-38   22
- 10. FC St.Leonhard                22   6  4 12   28-58   22
- 11. SPG Obsteig/Mieming           22   5  5 12   25-54   20
- -----------------------------------------------------------
- 12. FC Pettneu                    22   3  4 15   31-66   13
+<!-- $table23$ - 1.Klasse West -->
 
 [*] FC Landeck has been dissolved after the season
 
@@ -1671,63 +1331,16 @@ SV Schlitters regrouped in 2004/05 from 1.Klasse Mitte to Ost.
 
 Eigth Level
 
-2.Klasse Ost
+<!-- $table24$ - 2.Klasse Ost -->
 
-  1. SVG Erl                       20  15  4  1   76-17   49
-  2. SV Schwoich                   20  14  3  3   81-26   45
- -----------------------------------------------------------
-  3. FC Oberndorf in Tirol         20  12  2  6   54-39   38
-  4. SV Bad Häring                 20   9  6  5   69-37   33
-  5. SPG Kitzbühel/Reith II        20   8  8  4   38-26   32
-  6. SC Going                      20   8  6  6   60-46   30
-  7. FC Tux                        20   8  6  6   40-37   30
-  8. SPG Fügen/Uderns II           20   3  5 12   26-58   14
-  9. FC Hochfilzen                 20   4  2 14   35-81   14
- 10. SC Ellmau                     20   3  3 14   23-57   12
- 11. SC Münster                    20   2  3 15   28-106   9
-
-2.Klasse Mitte
-
-  1. SC Schwaz II                  22  17  2  3  102-26   53
-  2. SV Weerberg                   22  16  2  4   78-29   50
- -----------------------------------------------------------
-  3. FC Grinzens                   22  14  2  6   80-41   44
-  4. SV Sistrans                   22  13  3  6   81-33   42
-  5. FC Achensee                   22  12  2  8   53-47   38
-  6. SV Telfs II                   22   9  4  9   54-65   31
-  7. WSG Wattens II                22   9  1 12   56-50   28
-  8. SV Scharnitz                  22   9  1 12   50-63   28
-  9. FC Gries am Brenner           22   8  4 10   44-60   28
- 10. FC Schmirn                    22   8  2 12   51-68   26
- 11. SV Achenkirch                 22   3  2 17   25-86   11
- 12. SV Mieders                    22   0  3 19   20-126   3
+<!-- $table25$ - 2.Klasse Mitte -->
 
 new team in 2004/05: SV Hall II
 transfered to 2.Klasse West in 2004/05: FC Grinzens, SV Telfs II, SV Scharnitz
 
 2.Klasse West
 
-Promotion Play off
-  1. TS Nassereith                  6   5  0  1   22-8    15
-  2. SV Pfunds                      6   2  2  2   15-14    8
- -----------------------------------------------------------
-  3. FC See                         6   1  2  3   10-20    5
-  4. FC Lechaschau                  6   0  4  2   10-15    4
-Lower Play off
-  5. SV Karres                      6   3  1  2   18-12   10
-  6. FC Tiroler Zugspitze           6   3  1  2   16-11   10
-  7. FC Stanzach                    6   3  1  2   11-14   10 [*]
-  8. FC St.Anton                    6   0  3  3    6-14    3
-▪ Preliminary Round ▪
-  1. TS Nassereith                 14  12  0  2   39-19   36
-  2. FC Lechaschau                 14   9  1  4   35-23   28
-  3. SV Pfunds                     14   9  0  5   45-21   27
-  4. FC See                        14   8  1  5   32-21   25
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-  5. FC Tiroler Zugspitze          14   6  1  7   42-37   19
-  6. SV Karres                     14   4  1  9   26-37   13
-  7. FC St.Anton                   14   3  0 11   13-42    9
-  8. FC Stanzach                   14   3  0 11   17-49    9
+<!-- $table26$ - Promotion Play off -->
 
 [*] unites with SV Elbigenalp to form SPG Lechtal in 1.Klasse West 2004/05
 
@@ -1739,22 +1352,22 @@ Tiroler Cup (Anton-Nöhrer Cup) 2003/04  ‹§tircup›
 
 ▪ Preliminary Round ▪
 FC Achensee               1-3  FC Vomp
-SV Angerberg              2-2  SR Oberlangkampfen        (pen 5-3)
+SV Angerberg              2-2  SR Oberlangkampfen        (5-3 pen)
 SPG Fügen/Uderns II       0-3  SK Zell am Ziller
 ESV Hatting               3-1  TSV Inzing
 SPG Hopfgarten/Itter      1-4  SK Kirchberg
 FC Landeck                1-4  SPG Pitztal
 SV Mieders                1-8  FC Schönberg
 FC Navis                  2-9  TSV Fulpmes
-FC Oberndorf in Tirol     1-1  SV Kirchdorf              (pen 2-3)
-SPG Obsteig/Mieming       4-4  TUS Tarrenz               (pen 4-2)
+FC Oberndorf in Tirol     1-1  SV Kirchdorf              (2-3 pen)
+SPG Obsteig/Mieming       4-4  TUS Tarrenz               (4-2 pen)
 FC Pettneu                1-0  SPG Silz/Mötz
-FC St.Leonhard            1-1  SK Rietz                  (pen 7-6)
-FG Schönwies/Mils         1-1  FC Fliess                 (pen 3-5)
+FC St.Leonhard            1-1  SK Rietz                  (7-6 pen)
+FG Schönwies/Mils         1-1  FC Fliess                 (3-5 pen)
 SC Schwaz II              1-5  SPG Brixlegg/Rattenberg
 FC Sellraintal            4-1  SV Lohbach/Kranebitten
-SV Stans                  0-0  FC Buch                   (pen 0-1)
-SV Telfs II               2-2  SV Kematen                (pen 4-2)
+SV Stans                  0-0  FC Buch                   (0-1 pen)
+SV Telfs II               2-2  SV Kematen                (4-2 pen)
 SV Tulfes                 2-5  SV Völs
 FC Tux                    0-4  FC Aschau im Zillertal
 WSG Wattens II            4-0  SPG Ellbögen/Patsch
@@ -1779,11 +1392,11 @@ FC Flaurling              5-0  Union Innsbruck
 TSV Fulpmes               0-6  SC Steinach
 SC Going                  2-1  SV Langkampfen
 FC Gries am Brenner       1-5  SV Rinn
-FC Grinzens               0-0  SK Zirl                   (pen 2-3)
+FC Grinzens               0-0  SK Zirl                   (2-3 pen)
 ESV Hatting               0-2  FC Oberhofen
 FC Hochfilzen             0-9  SK St.Johann
 SV Karres                 1-7  TS Stams
-SK Kirchberg              2-2  SV Thiersee               (pen 2-4)
+SK Kirchberg              2-2  SV Thiersee               (2-4 pen)
 SV Kirchdorf              2-6  FC Bruckhäusl
 SPG Kitzbühel/Reith II    0-2  SV Westendorf
 SC Kundl II               1-4  SV Wörgl Amateure
@@ -1794,14 +1407,14 @@ TS Nassereith             0-3  SV Telfs I
 SV Natters                6-2  SV Innsbruck
 USV Oetz                  1-2  SV Längenfeld
 SV Pfunds                 2-3  SV Landeck
-SPG Prutz/Serfaus         4-4  SV Haiming                (pen 2-4)
+SPG Prutz/Serfaus         4-4  SV Haiming                (2-4 pen)
 SV Radfeld                2-4  SK Ebbs
 SV Reutte                 3-1  FC St.Leonhard
 SV Ried im Oberinntal     2-9  SV Zams
 SV Ried/Kaltenbach        0-8  SPG Fügen/Uderns I
 TUS Roppen                1-3  SV Telfs II
 FC St.Anton               1-4  FC Pettneu
-FC St.Ulrich              1-1  FC Kössen                 (pen 4-5)
+FC St.Ulrich              1-1  FC Kössen                 (4-5 pen)
 SV Scharnitz              1-15 Innsbrucker SK
 SV Schlitters             2-0  SPG SK Rum/IAC II
 FC Schmirn                1-3  SPG Reichenau/Aldrans II
@@ -1813,15 +1426,15 @@ SK Seefeld                3-6  SV Absam
 FC Sellraintal            2-4  SV Neustift
 SV Sistrans               4-1  SPG Axams/Götzens II
 SPG Sölden                1-3  SV Umhausen
-FC Stanzach               2-2  SV Elbigenalp             (pen 4-5)
+FC Stanzach               2-2  SV Elbigenalp             (4-5 pen)
 FC Tiroler Zugspitze      2-4  SPG Obsteig/Mieming
 FC Veldidena              3-1  WSG Wattens I
-FC Vils                   3-3  SC Imst                   (pen 4-5)
+FC Vils                   3-3  SC Imst                   (4-5 pen)
 SV Völs                   2-1  SV Oberperfuss
 SK Waidring               3-4  FC Söll
 WSG Wattens II            0-6  SPG SK Rum/IAC I
 SV Weerberg               3-5  SV Fritzens
-FC Wildschönau            1-1  SV Kirchbichl             (pen 5-6)
+FC Wildschönau            1-1  SV Kirchbichl             (5-6 pen)
 SK Wilten                 0-5  SV Kolsass/Weer
 SK Zell am Ziller         5-1  SV Breitenbach
 
@@ -1829,30 +1442,30 @@ SK Zell am Ziller         5-1  SV Breitenbach
 SV Absam                  1-6  SPG Axams/Götzens
 SV Bad Häring             2-1  FC Kufstein II
 SPG Brixlegg/Rattenberg   4-3  FC Vomp
-FC Bruckhäusl             1-1  SK Ebbs                   (pen 1-3)
+FC Bruckhäusl             1-1  SK Ebbs                   (1-3 pen)
 SVG Erl                   2-1  SV Brixen im Thale
 FC Flaurling              4-1  FC Veldidena
 FC Fliess                 1-3  SV Umhausen
-SC Going                  3-3  SV Wörgl Amateure         (pen 6-7)
-SV Haiming                3-3  TS Stams                  (pen 3-5)
-Innsbrucker SK            1-1  SPG Reichenau/Aldrans I   (pen 3-5)
+SC Going                  3-3  SV Wörgl Amateure         (6-7 pen)
+SV Haiming                3-3  TS Stams                  (3-5 pen)
+Innsbrucker SK            1-1  SPG Reichenau/Aldrans I   (3-5 pen)
 SVG Jenbach               1-0  SC Kundl
 SV Kirchbichl             0-13 FC Kufstein I
 FC Kössen                 2-1  SPG Kitzbühel/Reith I
-SV Landeck                3-3  SV Telfs I                (pen 4-2)
+SV Landeck                3-3  SV Telfs I                (4-2 pen)
 SVG Mayrhofen             3-0  SK Hippach
 SV Natters                2-4  SK Zirl
 SV Neustift               3-2  SV Rinn
 SPG Obsteig/Mieming       2-4  SV Elbigenalp
-FC Pettneu                1-1  SV Längenfeld             (pen 2-4)
-SV Reutte                 2-2  SPG Pitztal               (pen 7-8)
+FC Pettneu                1-1  SV Längenfeld             (2-4 pen)
+SV Reutte                 2-2  SPG Pitztal               (7-8 pen)
 SV Schlitters             1-3  SV Kolsass/Weer
 SC Schwaz I               1-2  SV Fügen/Uderns I
 SV Sistrans               0-3  SV Matrei am Brenner
 FC Söll                   3-1  SK St.Johann
 SC Steinach               1-3  SPG SK Rum/IAC I
 SV Telfs II               0-6  SC Imst
-SV Thaur                  2-2  SPG Reichenau/Aldrans II  (pen 6-7)
+SV Thaur                  2-2  SPG Reichenau/Aldrans II  (6-7 pen)
 SV Thiersee               7-1  SV Westendorf
 SV Volders                4-1  SV Fritzens
 SV Völs                   1-5  SV Hall
@@ -1864,18 +1477,18 @@ FC Aschau im Zillertal    5-3  SK Ebbs
 SV Bad Häring             1-3  SVG Jenbach
 SPG Brixlegg/Rattenberg   4-2  SV Thiersee
 SV Elbigenalp             2-5  SV Landeck
-SVG Erl                   1-1  SV Volders                (pen 4-1)
+SVG Erl                   1-1  SV Volders                (4-1 pen)
 FC Flaurling              4-2  SK Zirl
 SC Imst                   0-6  SPG SK Rum/IAC
-SV Kolsass/Weer           2-2  SV Wörgl Amateure         (pen 6-5)
+SV Kolsass/Weer           2-2  SV Wörgl Amateure         (6-5 pen)
 FC Kössen                 0-4  SV Hall
 SV Matrei am Brenner      0-1  SV Längenfeld
 SVG Mayrhofen             2-3  FC Kufstein I
-SPG Pitztal               3-3  SV Neustift               (pen 2-4)
+SPG Pitztal               3-3  SV Neustift               (2-4 pen)
 SPG Reichenau/Aldrans II  2-3  TS Stams
-FC Söll                   2-2  SPG Fügen/Uderns I        (pen 6-7)
+FC Söll                   2-2  SPG Fügen/Uderns I        (6-7 pen)
 SV Umhausen               2-4  SPG Axams/Götzens I
-SV Zams                   2-2  SPG Reichenau/Aldrans I   (pen 6-5)
+SV Zams                   2-2  SPG Reichenau/Aldrans I   (6-5 pen)
 
 ▪ Fourth Round ▪
 FC Aschau im Zillertal    1-3  SPG Brixlegg/Rattenberg
@@ -1884,21 +1497,21 @@ FC Flaurling              1-0  SPG Fügen/Uderns I
 SVG Jenbach               1-0  SV Hall
 FC Kufstein I            10-0  SV Längenfeld
 SV Neustift               0-1  SPG Axams/Götzens I
-SPG Rum/IAC I             1-1  TS Stams                  (pen 4-3)
+SPG Rum/IAC I             1-1  TS Stams                  (4-3 pen)
 SV Zams                   3-1  SV Landeck
 
 ▪ Quarter Finals ▪
 SPG Axams/Götzens I       6-1  FC Flaurling
 SPG Brixlegg/Rattenberg   1-0  SVG Jenbach
 FC Kufstein I             3-1  SPG Rum/IAC
-SV Zams                   1-1  SV Kolsass/Weer           (pen 2-4)
+SV Zams                   1-1  SV Kolsass/Weer           (2-4 pen)
 
 ▪ Semi Finals ▪
 SPG Brixlegg/Rattenberg   2-4  SPG Axams/Götzens
 FC Kufstein               4-0  SV Kolsass/Weer
 
-▪ Final ▪  Jun 10 2004, Imst
-SPG Axams/Götzens         3-3  FC Kufstein               (pen 3-0)
+▪ Final ▪  Jun 10 2004 @ Imst
+SPG Axams/Götzens         3-3  FC Kufstein               (3-0 pen)
 
 
 

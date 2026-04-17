@@ -6,14 +6,12 @@
 
 == Austria 1987/88
 
-Fall season
-===========
+==== Fall season ====
 
 1.Bundesliga
 ------------
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Table -->
 
 ▪ Round 1 ▪  Jul 21
 Admira/Wacker    0-1 Sturm
@@ -233,17 +231,14 @@ _ Nov 29 _
 Admira/Wacker    6-2 Sportclub
 Mödling          1-6 VOEST
 
-<!-- $table2$ -->
+<!-- $table2$ - Table -->
 
-
-Spring season
-=============
+==== Spring season ====
 
 Meisterplayoff
 --------------
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Table -->
 
 ▪ Round 23 ▪
 _ Mar 12 _
@@ -354,60 +349,29 @@ Rapid      6-1 GAK
 Sturm      0-2 Austria
 Vienna      2-1 Admira/Wacker
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Table -->
 
 <!-- $topscorers1$ -->
 
 
-Fall season
-===========
+==== Fall season ====
 
 2.Bundesliga:
 -------------
 
- 1.Kremser SC         22  14  5  3  46-19   33
- 2.SV Austria Salzburg       22  11  6  5  41-22   28
- 3.Vorwärts Steyr       22   7 11  4  19-18   25
- 4.VSE Sankt Pölten       22   9  6  7  40-33   24
------------------------------------------------------
- 5.SV Spittal/Drau       22   6 12  4  28-24   24
- 6.SK Kufstein         22   7  8  7  30-25   22
- 7.USV Salzburg         22   6 10  6  29-31   22
- 8.Donawitzer SV Alpine       22   6  8  8  31-35   20
- 9.Flavia Solva Wagna       22   6  6 10  29-35   18
-10.Kapfenberger SV       22   2 13  7  19-30   17
-11.SC Eisenstadt       22   6  5 11  18-40   17
-12.Salzburger AK       22   4  6 12  22-40   14
+<!-- $table5$ -->
 
-Spring season:
-==============
+==== Spring season: ====
 
 Mittlere Playoff
 ----------------
 
- 1.Linzer ASK                14   4 10  0  16- 7   18 Remain in 1.B
- 2.Austria Klagenfurt        14   6  6  2  18-12   18 Remain in 1.B
- 3.VSE Sankt Pölten          14   6  5  3  30-17   17 Promoted
- 4.Vorwärts Steyr            14   5  7  2  14- 8   17 Promoted
- ----------------------------------------------------
- 5.VOEST Linz                14   5  5  4  17-18   15 Relegated
- 6.Kremser SC                14   4  4  6  14-16   12 Remain in 2.B
- 7.SV Austria Salzburg       14   4  1  9  10-20    9 Remain in 2.B
- 8.VfB Mödling               14   2  2 10  14-35    6 Relegated
+<!-- $table6$ -->
 
 Untere Playoff
 --------------
 
- 1.SV Spittal/Drau           36  12 17  7  50-39   41
- 2.Flavia Solva Wagna        36  15 10 11  62-50   40
- 3.Donawitzer SV Alpine      36  11 14 11  55-56   36
- 4.USV Salzburg              36  11 13 12  50-62   35
- 5.SK Kufstein               36  11 12 13  43-41   34
- ----------------------------------------------------
- 6.SC Eisenstadt             36  11  8 17  35-61   30
- 7.Kapfenberger SV           36   5 17 14  45-58   27
- 8.Salzburger AK             36   6 11 19  38-65   23
+<!-- $table7$ -->
 
 Promoted to the 2.Bundesliga:
 Wolfsberger AC (Mitte)

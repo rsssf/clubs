@@ -12,8 +12,7 @@
 
 ==== Bundesliga  ‹§bund›
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 [*] FC Magna were renamed SC Wiener Neustadt
 
@@ -355,8 +354,7 @@ Kapfenberg      2-0 LASK
 Mattersburg     1-3 Rapid
 Sturm           0-2 Salzburg
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 [*] FC Magna were renamed SC Wiener Neustadt
 
@@ -451,7 +449,7 @@ Austria K       0-4 Wiener Neustadt
 _ Apr 21 _
 Ried            0-1 Sturm
 
-▪ Final ▪  May 16, Klagenfurt
+▪ Final ▪  May 16 @ Klagenfurt
 Wiener Neustadt 0-1 Sturm
 
 
@@ -460,8 +458,7 @@ Wiener Neustadt 0-1 Sturm
 
 ==== 1. Liga (Second Level)  ‹§1liga›
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 [*] both RB Salzburg Amateure and FK Austria Wien Amateure will
     be demoted to the third level at the end of the season as
@@ -784,8 +781,7 @@ Hartberg        0-4 Admira
 Salzburg Am.    0-2 Wacker
 Dornbirn        0-0 Sankt Pölten
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Final Table -->
 
 [*] both RB Salzburg Amateure and FK Austria Wien Amateure will
     be demoted to the third level at the end of the season as
@@ -821,20 +817,17 @@ NB: as Austria Kärnten did not obtain a license, the playoff between
 
 Regionalliga West  ‹§regwest›
 
-<!-- $table5$ -->
-
+<!-- $table5$ - Final Table -->
 
 Regionalliga Mitte  ‹§regmitte›
 
-<!-- $table6$ -->
-
+<!-- $table6$ - Final Table -->
 
 [*] Pasching did not register for promotion playoff
 
 Regionalliga Ost  ‹§regost›
 
-<!-- $table7$ -->
-
+<!-- $table7$ - Final Table -->
 
 [*] FC Waidhofen/Ybbs did not request a 2nd level license and
     FC Admira (A) are not eligible for promotion

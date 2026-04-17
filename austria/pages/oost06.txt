@@ -8,8 +8,7 @@
 
 First Level (Bundesliga)
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 [*] SV Austria Salzburg were renamed Red Bull Salzburg in the summer of 2005
 
@@ -498,8 +497,7 @@ Sturm            0-1 Mattersburg
 Rapid            6-0 Ried
   (Kavlak 25, 35, M.Berger 41og, Akagündüz 43, Kincl 67, Dober 90)
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 [*] SV Austria Salzburg were renamed Red Bull Salzburg in the summer of 2005
 
@@ -637,7 +635,7 @@ _ Apr 19 _
 FK Austria Wien     4-0 SV Ried
   (Sebo 29, Toryanski 57, Dheedene 69, Papac 91)
 
-▪ Final ▪  May 9, Ernst-Happel-Stadion, Wien; att: 20100; ref: Hofmann
+▪ Final ▪  May 9 @ Ernst-Happel-Stadion, Wien; att: 20100; ref: Hofmann
 FK Austria Wien     3-0 SV Mattersburg
   (Sebo 27, Rushfeldt 45, Troyansky 82)
   [Austria: Safar - Troyansky, Tokic, Papac, Dheedene - Sionko,
@@ -651,8 +649,7 @@ FK Austria Wien     3-0 SV Mattersburg
 Second Level 2005/06
 
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 ▪ Round 1 ▪  Jul 8
 LASK             3-0 Kapfenberg
@@ -1090,8 +1087,7 @@ DSV              4-0 Austria Am.
 Kärnten          2-4 Kapfenberg
   (Bubalo 17, Sand 30; Petrovic 15, 58pen, Six 49, Sencar 80)
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Final Table -->
 
 <!-- $topscorers2$ -->
 
@@ -1103,8 +1099,7 @@ Regionalliga West
 
 (Teams from Vorarlberg, Tirol and Salzburg)
 
-<!-- $table5$ -->
-
+<!-- $table5$ - Final Table -->
 
 Relegated from Erste Liga: FC Kufstein
 Promoted: FC Höchst, Innsbrucker AC, SV Grödig
@@ -1113,8 +1108,7 @@ Regionalliga Mitte
 
 (Teams from Oberösterreich, Steiermark and Kärnten)
 
-<!-- $table6$ -->
-
+<!-- $table6$ - Final Table -->
 
 No relegation from Erste Liga
 Promoted: SV Grieskirchen, SV Allerheiligen, FC Kärnten/Welzenegg Amateure
@@ -1123,8 +1117,7 @@ Regionalliga Ost
 
 (Teams from Niederösterreich, Wien and Burgenland)
 
-<!-- $table7$ -->
-
+<!-- $table7$ - Final Table -->
 
 No relegation from Erste Liga
 
@@ -1152,9 +1145,7 @@ FC Hallein 04                 bye
 1. Oberndorfer SK             bt  TSV Neumarkt
 FC Hallein 04                 2-2 SV Grödig                     (9-8 pen)
 
-▪ Final ▪
-FC Hallein 04                 7-2 1. Oberndorfer SK
-
+<!-- $table8$ - Final -->
 
 
 

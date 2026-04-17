@@ -8,8 +8,7 @@
 
 1.Division
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Aug 8 _
@@ -322,33 +321,13 @@ GAK      4-0 Rapid
 VÖEST      3-0 Admira/Wacker
 Innsbruck    1-2 Austria Salzburg
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 <!-- $topscorers1$ -->
 
 
 
-2.Division
-
- 1.First Vienna FC           30  19  8  3  59-33   46
------------------------------------------------------
- 2.1. Wiener Neustädter SC   30  16  7  7  52-23   39
- 3.Wiener Sport-Club/Post    30  13 12  5  53-31   38
- 4.SC Eisenstadt             30  15  7  8  40-28   37
- 5.1. Simmeringer SC         30  13  9  8  48-31   35  [*]
- 6.SV Sankt Veit             30  10 11  9  44-43   31
- 7.FC Dornbirn               30  10  9 11  33-43   29
- 8.ASV Stockerau             30  10  8 12  54-51   28  [*]
- 9.Donawitzer SV Alpine      30  11  5 14  43-55   27
-10.Salzburger AK             30  10  6 14  43-49   26
-11.Villacher SV              30   8  9 13  32-42   25
-12.Wolfsberger AC            30   9  7 14  28-42   25
-13.SC Tulln                  30   8  8 14  49-57   24
------------------------------------------------------
-14.Rapid Lienz               30   7 10 13  31-43   24
-15.Rätia Bludenz             30   7  8 15  38-53   22
-16.Kapfenberger SV           30   8  6 16  25-48   22
+<!-- $table3$ - 2.Division -->
 
 [*] the match Stockerau vs Simmering was not completed, and declared
     a 0-0 loss to both teams

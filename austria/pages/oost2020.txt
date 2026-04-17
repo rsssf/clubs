@@ -16,8 +16,7 @@
 
 ▪ Regular Stage ▪
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 [*] WSG Wattens were renamed WSG Tirol and play home matches in Innsbruck
 
@@ -243,8 +242,7 @@ _ Mar 8 _
 Salzburg         2-0 Sturm
 Mattersburg      0-1 LASK
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 [*] WSG Wattens were renamed WSG Tirol and play home matches in Innsbruck
 
@@ -254,8 +252,7 @@ Mattersburg      0-1 LASK
 
 ▪ Championship Playoff ▪
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 NB: LASK were deducted 4 points for training as a group at a time this
     was forbidden because of restrictions due to the Covid-19 pandemic
@@ -316,8 +313,7 @@ LASK             0-3 Salzburg
 Wolfsberg        3-1 Rapid
 Sturm            1-4 Hartberg
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Final Table -->
 
 NB: LASK were deducted 4 points for training as a group at a time this
     was forbidden because of restrictions due to the Covid-19 pandemic
@@ -341,8 +337,7 @@ Hartberg         0-0 Austria
 
 ▪ Relegation Playoff ▪
 
-<!-- $table5$ -->
-
+<!-- $table5$ - Final Table -->
 
 NB: teams carry over half their points from the regular stage (listed between
     square brackets), rounded downwards (marked by * where applicable)
@@ -404,8 +399,7 @@ Austria          1-0 Mattersburg
 Sankt Pölten     2-0 Altach
 Wattens          0-0 Admira Wacker
 
-<!-- $table6$ -->
-
+<!-- $table6$ - Final Table -->
 
 NB: teams carry over half their points from the regular stage (listed between
     square brackets), rounded downwards (marked by * where applicable)
@@ -507,7 +501,7 @@ SC Austria Lustenau             1-0 Wacker Innsbruck
 _ Mar 5 _
 FC Red Bull Salzburg            1-0 LASK Linz
 
-▪ Final ▪  May 29, Wörtherseestadion, Klagenfurt
+▪ Final ▪  May 29 @ Wörtherseestadion, Klagenfurt
 FC Red Bull Salzburg            5-0 SC Austria Lustenau
   (Szoboszlai 10, Stumberger 21og, Okafor 30, Ashimeru 65, Koita 79)
 
@@ -518,8 +512,7 @@ FC Red Bull Salzburg            5-0 SC Austria Lustenau
 
 ==== 2. Liga (Second Level)  ‹§1liga›
 
-<!-- $table7$ -->
-
+<!-- $table7$ - Final Table -->
 
 NB: no relegation to third level or promotion from third level; the 16th
     place freed by the withdrawal of Mattersburg will be filled by Rapid II

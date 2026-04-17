@@ -16,8 +16,7 @@
 
 ▪ Regular Stage ▪
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Aug 2 _
@@ -241,8 +240,7 @@ Salzburg         1-0 Wolfsberg
 Austria K        2-2 Altach
 Sturm            4-2 LASK
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 ▪ Playoff Stage ▪
 
@@ -250,8 +248,7 @@ Sturm            4-2 LASK
 
 ▪ Championship Playoff ▪
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 NB: teams carry over half their points from the regular stage (listed between
     square brackets), rounded downwards (marked by * where applicable)
@@ -312,8 +309,7 @@ Austria W        2-2 BW Linz
 Salzburg         4-2 Rapid
 Sturm            1-1 Wolfsberg
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Final Table -->
 
 NB: teams carry over half their points from the regular stage (listed between
     square brackets), rounded downwards (marked by * where applicable)
@@ -336,8 +332,7 @@ Rapid            3-0 LASK
 
 ▪ Relegation Playoff ▪
 
-<!-- $table5$ -->
-
+<!-- $table5$ - Final Table -->
 
 NB: teams carry over half their points from the regular stage (listed between
     square brackets), rounded downwards (marked by * where applicable)
@@ -401,8 +396,7 @@ Austria K        0-1 Hartberg
 LASK             0-0 Altach
 Wattens          1-1 GAK
 
-<!-- $table6$ -->
-
+<!-- $table6$ - Final Table -->
 
 NB: teams carry over half their points from the regular stage (listed between
     square brackets), rounded downwards (marked by * where applicable)
@@ -498,7 +492,7 @@ LASK                                2-1 FC Red Bull Salzburg                (aet
 LASK                                1-1 Wolfsberger AC                      (aet, 2-4 pen)
 FK Austria Wien                     0-1 TSV Hartberg
 
-▪ Final ▪  May 1, Wörthersee Stadion, Klagenfurt; att: 20,500
+▪ Final ▪  May 1 @ Wörthersee Stadion, Klagenfurt; att: 20,500
 Wolfsberger AC                      1-0 TSV Hartberg
   (Gattermayer 77)
 
@@ -508,8 +502,7 @@ Wolfsberger AC                      1-0 TSV Hartberg
 
 ==== 2. Liga (Second Level)  ‹§1liga›
 
-<!-- $table7$ -->
-
+<!-- $table7$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Aug 2 _
@@ -708,8 +701,7 @@ Sturm II         0-0 FAC
 _ Dec 1 _
 SW Bregenz       4-0 Kapfenberg
 
-<!-- $table8$ -->
-
+<!-- $table8$ - Halfway Table -->
 
 ▪ Round 16 ▪
 _ Dec 6 _
@@ -897,8 +889,7 @@ Admira Wacker    1-3 Horn
 Austria L        3-0 Voitsberg
 Ried             1-1 Vienna
 
-<!-- $table9$ -->
-
+<!-- $table9$ - Final Table -->
 
 
 
@@ -911,23 +902,20 @@ Ried             1-1 Vienna
 
 Regionalliga West  ‹§regwest›
 
-<!-- $table10$ -->
-
+<!-- $table10$ - Final Table -->
 
 NB: FC Dornbirn have appealed the decision to rank them last and forcibly
     demote them because of financial reasons
 
 Regionalliga Mitte  ‹§regmitte›
 
-<!-- $table11$ -->
-
+<!-- $table11$ - Final Table -->
 
 [*] SPG Wels were renamed FC Hertha Wels
 
 Regionalliga Ost  ‹§regost›
 
-<!-- $table12$ -->
-
+<!-- $table12$ - Final Table -->
 
 [*] Kremser SC formed Spielgemeinschaft with SV Rehberg; KM presumably denotes Kampfmannschaft
 [!] Donaufeld did not apply for license second level
@@ -1094,7 +1082,7 @@ SV Schwarzach                 0-1 FC Pinzgau Saalfelden
 FC Pinzgau Saalfelden         bt  SV Austria Salzburg
 Bischofshofen SK 1933         2-1 UFC Siezenheim
 
-▪ Final ▪  May 14, St. Johann/Pg.
+▪ Final ▪  May 14 @ St. Johann/Pg.
 Bischofshofen SK 1933         0-1 FC Pinzgau Saalfelden
 
 Steirer-Cup 2024/25  ‹§steicup›

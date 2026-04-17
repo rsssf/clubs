@@ -9,8 +9,7 @@
 1.Division
 ----------
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Table -->
 
 ▪ Round 1 ▪
 _ Aug 20 _
@@ -381,32 +380,12 @@ Wels      3-1 LASK
 VOEST      3-0 Austria Salzburg
 Sportclub    2-2 Sturm
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Table -->
 
 <!-- $topscorers1$ -->
 
 
-2.Division
-
- 1.SV Sankt Veit             30  16  8  6  49-35   40
- 2.Favoritner AC             30  18  4  8  38-26   40
------------------------------------------------------
- 3.Badener AC                30  16  6  8  51-31   38
- 4.Bregenz/Dornbirn          30  14  9  7  41-24   37
- 5.Flavia Solva Wagna        30  13  8  9  34-27   34
- 6.Vorwärts Steyr            30  11 11  8  39-28   33
- 7.SV Spittal/Drau           30  10 11  9  38-37   31
- 8.Salzburger AK             30  10 11  9  33-33   31
- 9.Donawitzer SV Alpine      30  12  6 12  40-31   30
-10.Kapfenberger SV           30  10  9 11  33-37   29
-11.Wolfsberger AC            30  10  7 13  38-39   27
-12.ASK Salzburg              30   8  9 13  30-36   25
-13.Wattens                   30   6 13 11  31-38   25
------------------------------------------------------
-14.Villacher SV              30   8  8 14  40-46   24
-15.SK Zell/See               30   6 11 13  27-52   23
-16.UFC Purbach               30   3  7 20  31-73   13
+<!-- $table3$ - 2.Division -->
 
 Promoted to the 2.Division:
 ASK Voitsberg (Mitte)
