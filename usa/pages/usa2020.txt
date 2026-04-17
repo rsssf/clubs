@@ -20,49 +20,13 @@ NB: Inter Miami CF and Nashville SC were admitted
 
 Final Tables (based on points/match):
 
-Eastern Conference
- 1.Philadelphia Union         23  14  5  4  44-20  47            ‹Championship Playoff, see §play›
- 2.Toronto FC                 23  13  5  5  33-26  44            ‹Championship Playoff, see §play›
- 3.Columbus Crew              23  12  5  6  36-21  41            ‹Championship Playoff, see §play›
- 4.Orlando City SC            23  11  8  4  40-25  41            ‹Championship Playoff, see §play›
- 5.New York City FC           23  12  3  8  37-25  39            ‹Championship Playoff, see §play›
- 6.New York Red Bulls         23   9  5  9  29-31  32            ‹Championship Playoff, see §play›
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 7.Nashville SC               23   8  8  7  24-22  32  [N]  [*]  ‹Preliminary Round, see §inplay›
- 8.New England Revolution     23   8  8  7  26-25  32            ‹Preliminary Round, see §inplay›
- 9.Montreal Impact            23   8  2 13  33-43  26            ‹Preliminary Round, see §inplay›
-10.Inter Miami CF             23   7  3 13  25-35  24  [N]       ‹Preliminary Round, see §inplay›
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
-11.Chicago Fire               23   5  8 10  33-39  23
-12.Atlanta United FC          23   6  4 13  23-30  22
-13.DC United                  23   5  6 12  25-41  21
-14.FC Cincinnati              23   4  4 15  12-36  16
-[*] on Jun 10, Nashville SC were moved from the Western to the Eastern Conference
+<!-- $table1$ - Eastern Conference -->
 
-Western Conference
- 1.Sporting Kansas City       21  12  3  6  38-25  39            ‹Championship Playoff, see §play›
- 2.Seattle Sounders           22  11  6  5  44-23  39  [C]       ‹Championship Playoff, see §play›
- 3.Portland Timbers           23  11  6  6  46-35  39            ‹Championship Playoff, see §play›
- 4.Minnesota United FC        21   9  7  5  36-26  34            ‹Championship Playoff, see §play›
- 5.Colorado Rapids            18   8  4  6  32-28  28            ‹Championship Playoff, see §play›
- 6.FC Dallas                  22   9  7  6  28-24  34            ‹Championship Playoff, see §play›
- 7.Los Angeles FC             22   9  5  8  47-39  32            ‹Championship Playoff, see §play›
- 8.San Jose Earthquakes       23   8  6  9  35-51  30            ‹Championship Playoff, see §play›
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 9.Vancouver Whitecaps        23   9  0 14  27-44  27
-10.Los Angeles Galaxy         22   6  4 12  27-46  22
-11.Real Salt Lake             22   5  7 10  25-35  22
-12.Houston Dynamo             23   4  9 10  30-40  21
+<!-- $table2$ - Western Conference -->
 
 NB: first tie-breaker: number of wins per match played
 
-Canadian Head-to-Head Records
- 1.Toronto FC                  6   4  0  2   9- 5  12  ‹Qualified, see page ../tablesc/can2020.html#amway›
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.Montreal Impact             6   3  0  3   9- 8   9
- 3.Vancouver Whitecaps         6   2  0  4   8-13   6
-NB: the Canadian MLS clubs play each other three times; the club with the best
-    record in the head-to-head matches qualifies for the ‹Canadian Championship, see page ../tablesc/can2020.html#amway›
+<!-- $table3$ - Canadian Head-to-Head Records -->
 
 ▪ Round 1 ▪
 _ Feb 29 _
@@ -100,39 +64,9 @@ Los Angeles FC         3-3 Philadelphia Union
 
 Tables at suspension:
 
-Eastern Conference
- 1.Atlanta United FC           2   2  0  0   4- 2   6
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.Montreal Impact             2   1  1  0   4- 3   4
- 3.New York Red Bulls          2   1  1  0   4- 3   4
- 4.Toronto FC                  2   1  1  0   3- 2   4
- 5.Columbus Crew               2   1  1  0   2- 1   4
- 6.DC United                   2   1  0  1   3- 3   3
- 7.Chicago Fire                2   0  1  1   2- 3   1
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 8.New England Revolution      2   0  1  1   2- 3   1
- 9.Orlando City SC             2   0  1  1   1- 2   1
-10.Philadelphia Union          2   0  1  1   3- 5   1
-11.FC Cincinnati               2   0  0  2   3- 5   0
-12.Inter Miami CF              2   0  0  2   1- 3   0  [N]
-13.New York City FC            2   0  0  2   0- 2   0
+<!-- $table4$ - Eastern Conference -->
 
-Western Conference
- 1.Sporting Kansas City        2   2  0  0   7- 1   6
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.Minnesota United FC         2   2  0  0   8- 3   6
- 3.Colorado Rapids             2   2  0  0   4- 2   6
- 4.FC Dallas                   2   1  1  0   4- 2   4
- 5.Los Angeles FC              2   1  1  0   4- 3   4
- 6.Seattle Sounders            2   1  1  0   3- 2   4  [C]
- 7.Portland Timbers            2   1  0  1   2- 3   3
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 8.Vancouver Whitecaps         2   1  0  1   2- 3   3
- 9.Real Salt Lake              2   0  2  0   1- 1   2
-10.Los Angeles Galaxy          2   0  1  1   1- 2   1
-11.San Jose Earthquakes        2   0  1  1   4- 7   1
-12.Houston Dynamo              2   0  1  1   1- 5   1
-13.Nashville SC                2   0  0  2   1- 3   0  [N]
+<!-- $table5$ - Western Conference -->
 
 NB: league suspended due to Covid-19 pandemic; it was resumed with a
     one-off ‹MLS is Back tournament, see §back› played in Florida;
@@ -508,49 +442,13 @@ Colorado Rapids         -  Real Salt Lake
 
 Final Tables (based on points/match):
 
-Eastern Conference
- 1.Philadelphia Union         23  14  5  4  44-20  47            ‹Championship Playoff, see §play›
- 2.Toronto FC                 23  13  5  5  33-26  44            ‹Championship Playoff, see §play›
- 3.Columbus Crew              23  12  5  6  36-21  41            ‹Championship Playoff, see §play›
- 4.Orlando City SC            23  11  8  4  40-25  41            ‹Championship Playoff, see §play›
- 5.New York City FC           23  12  3  8  37-25  39            ‹Championship Playoff, see §play›
- 6.New York Red Bulls         23   9  5  9  29-31  32            ‹Championship Playoff, see §play›
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 7.Nashville SC               23   8  8  7  24-22  32  [N]  [*]  ‹Preliminary Round, see §inplay›
- 8.New England Revolution     23   8  8  7  26-25  32            ‹Preliminary Round, see §inplay›
- 9.Montreal Impact            23   8  2 13  33-43  26            ‹Preliminary Round, see §inplay›
-10.Inter Miami CF             23   7  3 13  25-35  24  [N]       ‹Preliminary Round, see §inplay›
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
-11.Chicago Fire               23   5  8 10  33-39  23
-12.Atlanta United FC          23   6  4 13  23-30  22
-13.DC United                  23   5  6 12  25-41  21
-14.FC Cincinnati              23   4  4 15  12-36  16
-[*] on Jun 10, Nashville SC were moved from the Western to the Eastern Conference
+<!-- $table6$ - Eastern Conference -->
 
-Western Conference
- 1.Sporting Kansas City       21  12  3  6  38-25  39            ‹Championship Playoff, see §play›
- 2.Seattle Sounders           22  11  6  5  44-23  39  [C]       ‹Championship Playoff, see §play›
- 3.Portland Timbers           23  11  6  6  46-35  39            ‹Championship Playoff, see §play›
- 4.Minnesota United FC        21   9  7  5  36-26  34            ‹Championship Playoff, see §play›
- 5.Colorado Rapids            18   8  4  6  32-28  28            ‹Championship Playoff, see §play›
- 6.FC Dallas                  22   9  7  6  28-24  34            ‹Championship Playoff, see §play›
- 7.Los Angeles FC             22   9  5  8  47-39  32            ‹Championship Playoff, see §play›
- 8.San Jose Earthquakes       23   8  6  9  35-51  30            ‹Championship Playoff, see §play›
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 9.Vancouver Whitecaps        23   9  0 14  27-44  27
-10.Los Angeles Galaxy         22   6  4 12  27-46  22
-11.Real Salt Lake             22   5  7 10  25-35  22
-12.Houston Dynamo             23   4  9 10  30-40  21
+<!-- $table7$ - Western Conference -->
 
 NB: first tie-breaker: number of wins per match played
 
-Canadian Head-to-Head Records
- 1.Toronto FC                  6   4  0  2   9- 5  12  ‹Qualified, see page ../tablesc/can2020.html#amway›
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.Montreal Impact             6   3  0  3   9- 8   9
- 3.Vancouver Whitecaps         6   2  0  4   8-13   6
-NB: the Canadian MLS clubs play each other three times; the club with the best
-    record in the head-to-head matches qualifies for the ‹Canadian Championship, see page ../tablesc/can2020.html#amway›
+<!-- $table8$ - Canadian Head-to-Head Records -->
 
 
 ▪ Championship Playoff ▪
@@ -623,8 +521,7 @@ Philadelphia Union     2-1 Inter Miami CF
 Inter Miami CF         0-1 New York City FC
 Philadelphia Union     1-1 Orlando City SC
 
-<!-- $table1$ -->
-
+<!-- $table9$ - Final Table -->
 
 Group B
 
@@ -644,8 +541,7 @@ Vancouver Whitecaps    3-4 San Jose Earthquakes
 Chicago Fire           0-2 San Jose Earthquakes
 Seattle Sounders       3-0 Vancouver Whitecaps
 
-<!-- $table2$ -->
-
+<!-- $table10$ - Final Table -->
 
 Group C
 
@@ -665,8 +561,7 @@ DC United              1-1 New England Revolution
 Toronto FC             0-0 New England Revolution
 Montreal Impact        1-0 DC United
 
-<!-- $table3$ -->
-
+<!-- $table11$ - Final Table -->
 
 Group D
 
@@ -682,8 +577,7 @@ Real Salt Lake         0-0 Minnesota United FC
 Real Salt Lake         0-2 Sporting Kansas City
 Colorado Rapids        2-2 Minnesota United FC
 
-<!-- $table4$ -->
-
+<!-- $table12$ - Final Table -->
 
 Group E
 
@@ -701,8 +595,7 @@ Atlanta United FC      0-1 Columbus Crew
 _ Jul 22 _
 FC Cincinnati          2-0 New York Red Bulls
 
-<!-- $table5$ -->
-
+<!-- $table13$ - Final Table -->
 
 Group F
 
@@ -718,8 +611,7 @@ Los Angeles FC         6-2 Los Angeles Galaxy
 Los Angeles Galaxy     1-1 Houston Dynamo
 Los Angeles FC         2-2 Portland Timbers
 
-<!-- $table6$ -->
-
+<!-- $table14$ - Final Table -->
 
 ▪ Knock-Out Stage ▪
 

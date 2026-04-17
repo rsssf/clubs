@@ -21,29 +21,11 @@ NB: for 2004/05 the league is reduced to 18 clubs; Gallos Blancos
 
 Final Tables:
 
-Group 1
- 1.Atlante          17   7  3  7  27-33  24  Qualified
- 2.Pumas            17   7  2  8  25-31  23  Qualified
- 3.Morelia          17   6  4  7  29-30  22
- 4.América          17   5  5  7  17-23  20
- 5.Dorados          17   4  4  9  25-32  16
- 6.Tecos            17   4  4  9  17-29  16
+<!-- $table1$ - Group 1 -->
 
-Group 2
- 1.Toluca           17  10  2  5  27-15  32  Qualified
- 2.Atlas            17   9  4  4  34-24  31  Qualified
- 3.Guadalajara      17   8  5  4  34-22  29  Qualified
- 4.Tigres           17   6  5  6  37-27  23
- 5.Puebla           17   5  6  6  17-23  21
- 6.Cruz Azul        17   4  4  9  30-37  16
+<!-- $table2$ - Group 2 -->
 
-Group 3
- 1.Veracruz         17  11  2  4  27-25  35  Qualified
- 2.Pachuca          17   9  5  3  30-19  32  Qualified
- 3.Monterrey        17   8  3  6  36-34  27  Qualified
- 4.Necaxa           17   6  3  8  27-26  21
- 5.Santos Laguna    17   5  3  9  22-22  18
- 6.Jaguares         17   4  6  7  20-29  18
+<!-- $table3$ - Group 3 -->
 
 ▪ Round 1 ▪
 _ Aug 14 _
@@ -462,29 +444,11 @@ Veracruz     awd Jaguares        [awarded 0-2, Veracruz dns]
 
 Final Tables:
 
-Group 1
- 1.Atlante          17   7  3  7  27-33  24  Qualified
- 2.Pumas            17   7  2  8  25-31  23  Qualified
- 3.Morelia          17   6  4  7  29-30  22
- 4.América          17   5  5  7  17-23  20
- 5.Dorados          17   4  4  9  25-32  16
- 6.Tecos            17   4  4  9  17-29  16
+<!-- $table4$ - Group 1 -->
 
-Group 2
- 1.Toluca           17  10  2  5  27-15  32  Qualified
- 2.Atlas            17   9  4  4  34-24  31  Qualified
- 3.Guadalajara      17   8  5  4  34-22  29  Qualified
- 4.Tigres           17   6  5  6  37-27  23
- 5.Puebla           17   5  6  6  17-23  21
- 6.Cruz Azul        17   4  4  9  30-37  16
+<!-- $table5$ - Group 2 -->
 
-Group 3
- 1.Veracruz         17  11  2  4  27-25  35  Qualified
- 2.Pachuca          17   9  5  3  30-19  32  Qualified
- 3.Monterrey        17   8  3  6  36-34  27  Qualified
- 4.Necaxa           17   6  3  8  27-26  21
- 5.Santos Laguna    17   5  3  9  22-22  18
- 6.Jaguares         17   4  6  7  20-29  18
+<!-- $table6$ - Group 3 -->
 
 ▪ Quarterfinals ▪
 
@@ -594,8 +558,7 @@ Atlante      4-4 Santos
   (Patricio Galaz 7, 35, Carlos Alberto Ramírez 10, Diego Garay 80;
    Jorge Alberto Campos 7, 90+, Gerardo Espinosa 68, Rogelio López 90+)
 
-<!-- $table1$ -->
-
+<!-- $table7$ - Table -->
 
 Group B
 [Jan 2] Carson, USA
@@ -614,8 +577,7 @@ America      2-2 Necaxa
 Jaguares     2-1 Toluca
   (Salvador Cabañas 24, Sebastiao Pereira 27; José Manuel Abundis 7)
 
-<!-- $table2$ -->
-
+<!-- $table8$ - Table -->
 
 Semifinals [Jan 12] Houston, USA
 Tigres       2-0 Toluca
@@ -632,29 +594,11 @@ Clausura 2005
 
 Final Tables:
 
-Group 1
- 1.Morelia          17  11  2  4  27-16  35  Qualified
- 2.América          17   7  9  1  38-27  30  Qualified
- 3.Tecos            17   8  5  4  31-21  29  Qualified
- 4.Dorados          17   7  5  5  23-19  26
- 5.Atlante          17   5  5  7  24-21  20
- 6.Pumas            17   4  2 11  19-28  14
+<!-- $table9$ - Group 1 -->
 
-Group 2
- 1.Cruz Azul        17   9  4  4  36-19  31  Qualified
- 2.Tigres           17   6  6  5  25-19  24  Qualified
- 3.Guadalajara      17   6  5  6  29-31  23
- 4.Toluca           17   6  5  6  17-22  23
- 5.Puebla           17   4  4  9  19-29  16
- 6.Atlas            17   2  5 10  21-35  11
+<!-- $table10$ - Group 2 -->
 
-Group 3
- 1.Necaxa           17   9  1  7  28-20  28  Qualified
- 2.Santos Laguna    17   9  1  7  31-31  28  Qualified
- 3.Monterrey        17   8  3  6  24-25  27  Qualified
- 4.Jaguares         17   6  4  7  19-23  22
- 5.Pachuca          17   5  5  7  20-27  20
- 6.Veracruz         17   3  5  9  15-33  14
+<!-- $table11$ - Group 3 -->
 
 ▪ Round 1 ▪
 _ Jan 15 _
@@ -1055,29 +999,11 @@ Morelia     2-1 Atlante
 
 Final Tables:
 
-Group 1
- 1.Morelia          17  11  2  4  27-16  35  Qualified
- 2.América          17   7  9  1  38-27  30  Qualified
- 3.Tecos            17   8  5  4  31-21  29  Qualified
- 4.Dorados          17   7  5  5  23-19  26
- 5.Atlante          17   5  5  7  24-21  20
- 6.Pumas            17   4  2 11  19-28  14
+<!-- $table12$ - Group 1 -->
 
-Group 2
- 1.Cruz Azul        17   9  4  4  36-19  31  Qualified
- 2.Tigres           17   6  6  5  25-19  24  Qualified
- 3.Guadalajara      17   6  5  6  29-31  23
- 4.Toluca           17   6  5  6  17-22  23
- 5.Puebla           17   4  4  9  19-29  16
- 6.Atlas            17   2  5 10  21-35  11
+<!-- $table13$ - Group 2 -->
 
-Group 3
- 1.Necaxa           17   9  1  7  28-20  28  Qualified
- 2.Santos Laguna    17   9  1  7  31-31  28  Qualified
- 3.Monterrey        17   8  3  6  24-25  27  Qualified
- 4.Jaguares         17   6  4  7  19-23  22
- 5.Pachuca          17   5  5  7  20-27  20
- 6.Veracruz         17   3  5  9  15-33  14
+<!-- $table14$ - Group 3 -->
 
 ▪ Quarterfinals ▪
 
@@ -1217,33 +1143,13 @@ Apertura 2004
 
 Tables:
 
-Group 1
- 1.San Luis            19 10  4  5 46-25 34  [San Luis Potosí]
- 2.Atlético Mexiquense 19  9  5  5 28-19 32  [Toluca]
- 3.Broncos             19  8  6  5 25-20 30  [Los Mochis]
- 4.Colima              19  6  6  7 21-25 24  [Colima]
- 5.Chivas              19  4  5 10 28-41 17  [La Piedad]
+<!-- $table15$ - Group 1 -->
 
-Group 2
- 1.Mérida              19  5 11  3 34-30 26  [Mérida]
- 2.Pioneros            19  7  5  7 24-24 26  [Ciudad Obregón]
- 3.Durango             19  5  9  5 27-25 24  [Durango]
- 4.Lagartos            19  5  7  7 25-39 22  [Villahermosa (Tabasco)]
- 5.Coatzacoalcos       19  5  4 10 24-32 19  [Coatzacoalcos]
+<!-- $table16$ - Group 2 -->
 
-Group 3
- 1.León                19  9  5  5 26-18 32  [León]
- 2.Cruz Azul           19  7  5  7 29-28 26  [Oaxaca]
- 3.Celaya              19  6  8  5 23-24 26  [Celaya]
- 4.Pachuca Jr          19  5  6  8 26-25 21  [Pachuca]
- 5.Potros Neza         19  5  4 10 21-30 19  [Nezahualcoyotl]
+<!-- $table17$ - Group 3 -->
 
-Group 4
- 1.Querétaro           19  9  5  5 37-32 32  [Querétaro]
- 2.Cobras              19  9  3  7 22-17 30  [Ciudad Juárez]
- 3.Correcaminos        19  8  6  5 24-24 30  [Ciudad Victoria]
- 4.BUAP (Lobos)        19  7  6  6 27-26 27  [Puebla]
- 5.Estudiantes         19  3  6 10 19-32 14  [Altamira]
+<!-- $table18$ - Group 4 -->
 
 ▪ Round 1 ▪
 _ Aug 7 _
@@ -1494,33 +1400,13 @@ Mexiquense       3-0 Correcaminos
 
 Tables:
 
-Group 1
- 1.San Luis            19 10  4  5 46-25 34  [San Luis Potosí]
- 2.Atlético Mexiquense 19  9  5  5 28-19 32  [Toluca]
- 3.Broncos             19  8  6  5 25-20 30  [Los Mochis]
- 4.Colima              19  6  6  7 21-25 24  [Colima]
- 5.Chivas              19  4  5 10 28-41 17  [La Piedad]
+<!-- $table19$ - Group 1 -->
 
-Group 2
- 1.Mérida              19  5 11  3 34-30 26  [Mérida]
- 2.Pioneros            19  7  5  7 24-24 26  [Ciudad Obregón]
- 3.Durango             19  5  9  5 27-25 24  [Durango]
- 4.Lagartos            19  5  7  7 25-39 22  [Villahermosa (Tabasco)]
- 5.Coatzacoalcos       19  5  4 10 24-32 19  [Coatzacoalcos]
+<!-- $table20$ - Group 2 -->
 
-Group 3
- 1.León                19  9  5  5 26-18 32  [León]
- 2.Cruz Azul           19  7  5  7 29-28 26  [Oaxaca]
- 3.Celaya              19  6  8  5 23-24 26  [Celaya]
- 4.Pachuca Jr          19  5  6  8 26-25 21  [Pachuca]
- 5.Potros Neza         19  5  4 10 21-30 19  [Nezahualcoyotl]
+<!-- $table21$ - Group 3 -->
 
-Group 4
- 1.Querétaro           19  9  5  5 37-32 32  [Querétaro]
- 2.Cobras              19  9  3  7 22-17 30  [Ciudad Juárez]
- 3.Correcaminos        19  8  6  5 24-24 30  [Ciudad Victoria]
- 4.BUAP (Lobos)        19  7  6  6 27-26 27  [Puebla]
- 5.Estudiantes         19  3  6 10 19-32 14  [Altamira]
+<!-- $table22$ - Group 4 -->
 
 <!-- $topscorers3$ -->
 
@@ -1583,33 +1469,13 @@ Clausura
 
 Tables:
 
-Group 1
- 1.Colima              19 10  4  5 34-21 34  [Colima]
- 2.San Luis            19  9  6  4 33-21 33  [San Luis Potosí]
- 3.Broncos             19  9  2  8 36-40 29  [Los Mochis]
- 4.Atlético Mexiquense 19  5  4 10 24-33 19  [Toluca]
- 5.Chivas              19  3  8  8 14-32 17  [La Piedad]
+<!-- $table23$ - Group 1 -->
 
-Group 2
- 1.Coatzacoalcos       19  8  5  6 29-23 29  [Coatzacoalcos]
- 2.Durango             19  8  4  7 22-22 28  [Durango]
- 3.Pioneros            19  6  6  7 25-28 24  [Ciudad Obregón]
- 4.Mérida              19  6  5  8 32-32 23  [Mérida]
- 5.Lagartos            19  3  8  8 27-34 17  [Villahermosa (Tabasco)]
+<!-- $table24$ - Group 2 -->
 
-Group 3
- 1.Cruz Azul           19 10  5  4 42-29 35  [Oaxaca]
- 2.Pachuca Jr          19 10  3  6 25-23 33  [Pachuca]
- 3.León                19 10  2  7 34-25 32  [León]
- 4.Celaya              19  9  5  5 26-23 32  [Celaya]
- 5.Potros Neza         19  8  4  7 29-27 28  [Nezahualcoyotl]
+<!-- $table25$ - Group 3 -->
 
-Group 4
- 1.Querétaro           19  7  5  7 28-25 26  [Querétaro]
- 2.Cobras              19  5  9  5 26-25 24  [Ciudad Juárez]
- 3.BUAP (Lobos)        19  5  6  8 24-27 21  [Puebla]
- 4.Correcaminos        19  5  3 11 29-43 18  [Ciudad Victoria]
- 5.Estudiantes         19  3  8  8 20-26 17  [Altamira]
+<!-- $table26$ - Group 4 -->
 
 ▪ Round 1 ▪
 Pachuca Jr       2-1 Correcaminos
@@ -1872,33 +1738,13 @@ Mérida           2-2 Pachuca Jr
 
 Tables:
 
-Group 1
- 1.Colima              19 10  4  5 34-21 34  [Colima]
- 2.San Luis            19  9  6  4 33-21 33  [San Luis Potosí]
- 3.Broncos             19  9  2  8 36-40 29  [Los Mochis]
- 4.Atlético Mexiquense 19  5  4 10 24-33 19  [Toluca]
- 5.Chivas              19  3  8  8 14-32 17  [La Piedad]
+<!-- $table27$ - Group 1 -->
 
-Group 2
- 1.Coatzacoalcos       19  8  5  6 29-23 29  [Coatzacoalcos]
- 2.Durango             19  8  4  7 22-22 28  [Durango]
- 3.Pioneros            19  6  6  7 25-28 24  [Ciudad Obregón]
- 4.Mérida              19  6  5  8 32-32 23  [Mérida]
- 5.Lagartos            19  3  8  8 27-34 17  [Villahermosa (Tabasco)]
+<!-- $table28$ - Group 2 -->
 
-Group 3
- 1.Cruz Azul           19 10  5  4 42-29 35  [Oaxaca]
- 2.Pachuca Jr          19 10  3  6 25-23 33  [Pachuca]
- 3.León                19 10  2  7 34-25 32  [León]
- 4.Celaya              19  9  5  5 26-23 32  [Celaya]
- 5.Potros Neza         19  8  4  7 29-27 28  [Nezahualcoyotl]
+<!-- $table29$ - Group 3 -->
 
-Group 4
- 1.Querétaro           19  7  5  7 28-25 26  [Querétaro]
- 2.Cobras              19  5  9  5 26-25 24  [Ciudad Juárez]
- 3.BUAP (Lobos)        19  5  6  8 24-27 21  [Puebla]
- 4.Correcaminos        19  5  3 11 29-43 18  [Ciudad Victoria]
- 5.Estudiantes         19  3  8  8 20-26 17  [Altamira]
+<!-- $table30$ - Group 4 -->
 
 Repechaje
 
@@ -1993,92 +1839,24 @@ Segunda División Profesional
 
 Torneo Apertura 2004
 
-Zona Sur (South)
- 1 CA Delfines de Coatzacoalcos "B"  13 8 4 1 30- 8  32 (4)
- 2 AC Inter Playa del Carmen         13 8 3 2 30-12  28 (1)
- 3 Real Coatzacoalcos                13 7 4 2 29-15  28 (3)
- 4 Jaguares de Tapachula             13 7 4 2 22-16  27 (2)
- 5 Universidad Autonoma de Hidalgo   13 6 4 3 18- 9  25 (3)
- 6 Delfines de la UNACAR             13 7 1 5 26-20  22 (0)
- 7 Universidad del Golfo de Mexico   13 5 3 5 22-19  21 (3)
- 8 Tigrillos de Chetumal FC          13 4 6 3 16-19  21 (3)
- 9 Sporting Canamy                   13 4 3 6 15-26  16 (1)
-10 CF Tiburones Blancos de Xalapa    13 4 3 6 14-21  15 (0)
-11 CD Albinegros de Orizaba          13 3 3 7 15-23  14 (2)
-12 Jaguares de Tabasco               13 2 4 7 11-27  11 (1)
-13 Ocelotes de la UNACH              13 2 2 9  7-20   8 (0)
-14 Petroleros de Minatitlán          13 0 4 9  8-28   5 (1)
+<!-- $table31$ - Zona Sur (South) -->
 
 UNACH: Universidad Autónoma de Chiapas
 UNACAR: Universidad Autónoma del Carmen
 
-Zona Centro (Central)
- 1 Potros de la UAEM                 14 10 4 0 31-13 35 (1)
- 2 Pumas Naucalpan                   14 9 3 2 38-17  31 (1)
- 3 Cañeros de Zacatepec              14 9 3 2 31-19  31 (1)
- 4 Pachuca CF "B"                  * 14 9 2 3 37-15  30 (1)
- 5 America Coapa                     14 8 2 4 39-22  27 (1)
- 6 Pumas Prepa                     * 14 6 4 4 21-18  26 (4)
- 7 Tecamachalco                      14 7 2 5 29-23  24 (1)
- 8 CD Cruz Azul Hidalgo              14 6 3 5 35-20  23 (2)
- 9 Real Huejutla FC                  14 4 3 7 25-32  15 (0)
-10 CD Cuautla                        14 4 2 8 30-36  14 (0)
-11 Astros de Cuernavaca              14 2 4 8 12-37  13 (3)
-12 Atlante Naucalpan FC              14 2 4 8 19-31  12 (2)
-13 Puebla FC "B"                   * 14 2 4 8 16-31  12 (2)
-14 CF Cuautitlan                     14 4 0 10 24-43 12 (0)
-15 Atletico Tapatio FC               14 2 2 10 14-44 10 (2)
+<!-- $table32$ - Zona Centro (Central) -->
 
 UAEM: Universidad Autónoma del Estado de Mexico
 
-Zona Bajío
- 1 Petroleros de Salamanca FC        11 7 3 1 22-11  24 (0)
- 2 CD Alacranes Rojos de Apatzingán  11 4 6 1 12- 7  24 (6)
- 3 Teca-Naucalpan                    11 7 1 3 25-16  22 (0)
- 4 CD Necaxa "B"                     11 5 4 2 16- 8  20 (1)
- 5 Celaya FC "B"                     11 5 3 3 21-16  20 (2)
- 6 Atlético San Francisco            11 5 3 3 18-10  19 (1)
- 7 CD Irapuato                       11 5 1 5 17-13  17 (1)
- 8 Cachorros de León                 11 4 2 5 19-21  15 (1)
- 9 Atlético San Luis                 11 4 2 5 19-24  14 (0)
-10 Unión de Curtidores               11 3 2 6 13-17  12 (1)
-11 Misioneros de Jalpan              11 1 2 8  8-25   6 (1)
-12 Atlético San Julian               11 1 1 9 10-32   4 (0)
+<!-- $table33$ - Zona Bajío -->
 
-Zona Occidente (Western)
- 1 Deportivo Autlán                  13 8 5 0 18- 6  33 (4)
- 2 UAG Tecoman                       13 8 4 1 21-11  31 (3)
- 3 Academicos                        13 9 2 2 39-15  30 (1)
- 4 CD Guadalajara "B"              * 13 8 3 2 26-20  28 (1)
- 5 CFS Manzanillo                  + 13 6 2 5 28-20  20 (0)
- 6 Deportivo Tepic                   13 5 3 5 17-16  20 (2)
- 7 Delfines Jalisco FC               13 5 3 5 22-23  20 (2)
- 8 CD Jersy-Nay Ixcuintla            13 4 5 4 21-27  19 (2)
- 9 Pelicanos de Puerto Vallarta      13 3 5 5 17-25  18 (4)
-10 CF La Piedad                      13 5 1 7 27-26  16 (0)
-11 Monarcas Morelia "B"            * 13 2 4 7 13-24  12 (2)
-12 Cachorros UG                      13 2 3 8 20-27  10 (1)
-13 Toluca Ciudad Guzman              13 1 4 8 12-25   9 (2)
-14 Atlas FC                        * 13 0 6 7  9-25   7 (1)
+<!-- $table34$ - Zona Occidente (Western) -->
 
 UAG: Universidad Autónoma de Guadalajara
 UG: Universidad de Guadalajara
 + Formerly Atlético Tecomán
 
-Zona Norte (North)
- 1 Tampico Madero                    12 7 3 2 27-11  26 (2)
- 2 Santos Laguna "B"               * 12 8 1 3 30-15  26 (1)
- 3 FC Atletico Lagunero              12 7 2 3 24-17  23 (0)
- 4 Excelsior FC                      12 6 2 4 19-22  21 (1)
- 5 Astros de Ciudad Juarez           12 4 4 4 23-20  19 (3)
- 6 Altamira FC "B"                   12 5 3 4 13-14  19 (1)
- 7 Bravos del CF Nuevo Laredo        12 4 3 5 21-14  18 (3)
- 8 CF Durango "B"                    12 4 3 5 17-19  18 (3)
- 9 Abejas Reales del CD Tantoyuca    12 4 3 5 17-19  16 (1)
-10 Correcaminos UAT "B"              12 5 1 6 15-20  16 (0)
-11 Cachorros de la UANL            * 12 4 3 5 21-24  15 (0)
-12 CF Vaqueros de Apodaca            12 4 1 7 15-23  13 (0)
-13 Guadalupe Rayados                 12 1 1 10 17-41  4 (0)
+<!-- $table35$ - Zona Norte (North) -->
 
 UANL: Universidad Autónoma de Nuevo León
 UAT: Universidad Autónoma de Tamaulipas
@@ -2139,83 +1917,15 @@ CD Guadalajara "B" champion Apertura 2004
 
 Torneo Clausura 2005
 
-Zona Sur (South)
- 1 Jaguares de Tabasco               13 6 4 3 22-12  25 (3)
- 2 CA Delfines de Coatzacoalcos "B"  13 5 6 2 17-12  25 (4)
- 3 AC Inter Playa del Carmen         13 5 6 2 25-13  24 (3)
- 4 CD Albinegros de Orizaba          13 5 5 3 17-12  24 (4)
- 5 CF Tiburones Blancos de Xalapa    13 4 7 2 15-11  23 (4)
- 6 Universidad Autonoma de Hidalgo   13 5 5 3 18-14  22 (2)
- 7 Delfines de la UNACAR             13 4 5 4 19-22  20 (3)
- 8 Jaguares de Tapachula             13 4 6 3 16-12  19 (1)
- 9 Tigrillos de Chetumal FC          13 4 4 5 21-19  18 (2)
-10 Universidad del Golfo de Mexico   13 4 4 5 27-30  17 (1)
-11 Real Coatzacoalcos                13 3 5 5 12-18  17 (3)
-12 Petroleros de Minatitlán          13 5 2 6 11-19  17 (0)
-13 Ocelotes de la UNACH              13 3 3 7 15-26  12 (0)
-14 Sporting Canamy                   13 1 4 8 14-29  10 (3)
+<!-- $table36$ - Zona Sur (South) -->
 
-Zona Centro (Central)
- 1 CD Cruz Azul Hidalgo              14 9 3 2 34-13  32 (2)
- 2 CD Cuautla                        14 9 2 3 28-20  30 (1)
- 3 America Coapa                     14 9 0 5 36-21  27 (0)
- 4 Potros de la UAEM                 14 8 1 5 27-14  25 (0)
- 5 CF Cuautitlan                     14 6 4 4 25-22  24 (2)
- 6 Tecamachalco                      14 5 5 4 28-22  23 (3)
- 7 Pumas Naucalpan                   14 6 4 4 25-20  23 (1)
- 8 Astros de Cuernavaca              14 4 6 4 20-19  23 (5)
- 9 Cañeros de Zacatepec              14 7 1 6 29-26  22 (0)
-10 Pachuca CF "B"                  * 14 6 3 5 22-19  22 (1)
-11 Pumas Prepa                     * 14 6 3 5 10-13  22 (1)
-12 Atlante Naucalpan FC              14 4 1 9 23-28  13 (0)
-13 Puebla FC "B"                   * 14 3 2 9 17-32  12 (1)
-14 Real Huejutla FC                  14 2 2 10 11-47  9 (1)
-15 Atletico Tapatio FC               14 1 3 10 10-29  8 (2)
+<!-- $table37$ - Zona Centro (Central) -->
 
-Zona Bajío
- 1 CD Necaxa "B"                     11 9 0 2 24- 9  27 (0)
- 2 Cachorros de León                 11 6 3 2 18-11  23 (2)
- 3 Alacranes Rojos de Apatzingán     11 7 0 4 24-11  21 (0)
- 4 Atlético San Francisco            11 7 0 4 18-13  21 (0)
- 5 Petroleros de Salamanca FC        11 6 2 3 17-13  21 (1)
- 6 Teca-Naucalpan                    11 5 2 4 21-13  17 (0)
- 7 Celaya FC "B"                     11 4 2 5 15-15  16 (2)
- 8 Unión de Curtidores               11 4 3 4 16-19  16 (1)
- 9 CD Irapuato                       11 2 5 4 14-17  15 (4)
-10 Atlético San Luis                 11 3 1 7 10-23  11 (1)
-11 Misioneros de Jalpan              11 1 3 7  8-19   6 (0)
-12 Atlético San Julian               11 1 1 9 15-37   4 (0)
+<!-- $table38$ - Zona Bajío -->
 
-Zona Occidente (Western)
- 1 Academicos                        13 8 3 2 30-16  29 (2)
- 2 Cachorros UG                      13 7 5 1 27-18  29 (3)
- 3 CFS Manzanillo                    13 8 3 2 27-18  28 (1)
- 4 UAG Tecoman                       13 8 2 3 34-21  27 (1)
- 5 Deportivo Autlán                  13 6 4 3 20-10  25 (3)
- 6 CD Jersy-Nay Ixcuintla            13 5 6 2 23-16  25 (4)
- 7 Delfines Jalisco FC               13 5 3 5 17-16  20 (2)
- 8 CD Guadalajara "B"              * 13 4 5 4 20-17  18 (1)
- 9 Atlas FC                        * 13 3 4 6 16-27  16 (3)
-10 Deportivo Tepic                   13 4 3 6 19-23  15 (0)
-11 CF La Piedad                      13 3 4 6 13-29  15 (2)
-12 Pelicanos de Puerto Vallarta      13 2 4 7 14-26  12 (2)
-13 Monarcas Morelia "B"            * 13 1 5 7 14-22  10 (2)
-14 Toluca Ciudad Guzman              13 0 3 10 9-24   4 (1)
+<!-- $table39$ - Zona Occidente (Western) -->
 
-Zona Norte (North)
- 1 Guadalupe Rayados                 12 7 4 1 27-12  27 (2)
- 2 Santos Laguna "B"               * 12 7 3 2 32-17  26 (2)
- 3 Correcaminos UAT "B"              12 7 3 2 19-13  24 (0)
- 4 Tampico Madero                    12 7 1 4 28-15  23 (1)
- 5 CF Durango "B"                    12 7 0 5 15-10  21 (0)
- 6 FC Atletico Lagunero              12 5 3 4 22-25  21 (3)
- 7 CF Vaqueros de Apodaca            12 4 4 4 17-19  18 (2)
- 8 Bravos del CF Nuevo Laredo        12 4 4 4 16-17  16 (0)
- 9 Cachorros de la UANL            * 12 3 4 5 17-19  16 (3)
-10 Excelsior FC                      12 3 3 6 17-18  13 (1)
-11 Abejas Reales del CD Tantoyuca    12 1 6 5  3-14  12 (3)
-12 Altamira FC "B"                   12 2 4 6 12-28  12 (2)
-13 Astros de Ciudad Juarez           12 0 3 9  9-27   5 (2)
+<!-- $table40$ - Zona Norte (North) -->
 
 Notes
 Bonus Points between brackets - if a match was drawn, the winners on

@@ -14,29 +14,11 @@ Apertura 2008
 
 Final Tables:
 
-Grupo 1
- 1.Atlante          17   7  6  4  22-16  27  Qualified
- 2.Santos Laguna    17   5  7  5  22-20  22  Qualified
- 3.Pachuca          17   5  6  6  25-25  21
- 4.Indios           17   5  4  8  18-26  19
- 5.Monterrey        17   5  4  8  18-26  19
- 6.Puebla           17   2  9  6  12-21  15
+<!-- $table1$ - Grupo 1 -->
 
-Grupo 2
- 1.Pumas UNAM       17   7  5  5  22-13  26  Qualified
- 2.Cruz Azul        17   7  5  5  29-23  26  Qualified
- 3.Tecos UAG        17   7  4  6  30-28  25  Qualified
- 4.Guadalajara      17   6  7  4  23-23  25
- 5.Morelia          17   6  6  5  27-20  24
- 6.América          17   5  6  6  22-23  21
+<!-- $table2$ - Grupo 2 -->
 
-Grupo 3
- 1.San Luis         17   8  5  4  24-20  29  Qualified
- 2.Toluca           17   7  6  4  25-16  27  Qualified
- 3.Tigres UANL      17   7  5  5  22-16  26  Qualified
- 4.Atlas            17   6  4  7  23-27  22
- 5.Jaguares         17   5  3  9  20-34  18
- 6.Necaxa           17   3  8  6  17-24  17
+<!-- $table3$ - Grupo 3 -->
 
 ▪ Round 1 ▪
 _ Jul 26 _
@@ -454,29 +436,11 @@ Santos       0-0 Atlante
 
 Final Tables:
 
-Grupo 1
- 1.Atlante          17   7  6  4  22-16  27  Qualified
- 2.Santos Laguna    17   5  7  5  22-20  22  Qualified
- 3.Pachuca          17   5  6  6  25-25  21
- 4.Indios           17   5  4  8  18-26  19
- 5.Monterrey        17   5  4  8  18-26  19
- 6.Puebla           17   2  9  6  12-21  15
+<!-- $table4$ - Grupo 1 -->
 
-Grupo 2
- 1.Pumas UNAM       17   7  5  5  22-13  26  Qualified
- 2.Cruz Azul        17   7  5  5  29-23  26  Qualified
- 3.Tecos UAG        17   7  4  6  30-28  25  Qualified
- 4.Guadalajara      17   6  7  4  23-23  25
- 5.Morelia          17   6  6  5  27-20  24
- 6.América          17   5  6  6  22-23  21
+<!-- $table5$ - Grupo 2 -->
 
-Grupo 3
- 1.San Luis         17   8  5  4  24-20  29  Qualified
- 2.Toluca           17   7  6  4  25-16  27  Qualified
- 3.Tigres UANL      17   7  5  5  22-16  26  Qualified
- 4.Atlas            17   6  4  7  23-27  22
- 5.Jaguares         17   5  3  9  20-34  18
- 6.Necaxa           17   3  8  6  17-24  17
+<!-- $table6$ - Grupo 3 -->
 
 ▪ Quarterfinals ▪
 
@@ -584,17 +548,9 @@ Tigres       2-4 Guadalajara
 
 Tables:
 
-Grupo 1
- 1.Pachuca           3   2  0  1   5- 3   6  Qualified
- 2.Morelia           3   1  1  1   4- 2   4  Qualified
- 3.Toluca            3   1  1  1   3- 2   4
- 4.Tecos             3   1  0  2   1- 6   3
+<!-- $table7$ - Grupo 1 -->
 
-Grupo 2
- 1.Guadalajara       3   2  1  0   8- 4   7  Qualified
- 2.Atlas             3   1  1  1   5- 4   4  Qualified
- 3.América           3   1  1  1   5- 6   4
- 4.Tigres            3   0  1  2   3- 7   1
+<!-- $table8$ - Grupo 2 -->
 
 ▪ Semifinals ▪  Jan 11 @ in Carson
 Pachuca      3-3 Atlas        (10-9 pen)
@@ -613,29 +569,11 @@ Clausura 2009
 
 Final Tables:
 
-Grupo 1
- 1.Pachuca          17  11  3  3  42-23  36  Qualified
- 2.Monterrey        17   7  5  5  28-22  26  Qualified
- 3.Puebla           17   7  5  5  21-24  26  Qualified
- 4.Indios           17   5  8  4  21-22  23
- 5.Santos Laguna    17   5  7  5  25-20  22
- 6.Atlante          17   3  8  6  18-21  17
+<!-- $table9$ - Grupo 1 -->
 
-Grupo 2
- 1.Pumas UNAM       17   8  4  5  23-17  28  Qualified
- 2.Tecos UAG        17   6  7  4  21-17  25  Qualified
- 3.América          17   6  5  6  25-27  23  Qualified
- 4.Morelia          17   5  7  5  19-20  22
- 5.Guadalajara      17   5  6  6  21-20  21
- 6.Cruz Azul        17   2  7  8  26-33  13
+<!-- $table10$ - Grupo 2 -->
 
-Grupo 3
- 1.Toluca           17  10  6  1  34-19  36  Qualified
- 2.Jaguares         17   5  6  6  22-24  21  Qualified
- 3.Atlas            17   5  6  6  22-29  21
- 4.San Luis         17   4  5  8  21-27  17
- 5.Tigres UANL      17   2  8  7  15-26  14
- 6.Necaxa           17   3  5  9  17-30  14
+<!-- $table11$ - Grupo 3 -->
 
 ▪ Round 1 ▪
 _ Jan 16 _
@@ -1063,29 +1001,11 @@ Indios       3-1 Guadalajara
 
 Final Tables:
 
-Grupo 1
- 1.Pachuca          17  11  3  3  42-23  36  Qualified
- 2.Monterrey        17   7  5  5  28-22  26  Qualified
- 3.Puebla           17   7  5  5  21-24  26  Qualified
- 4.Indios           17   5  8  4  21-22  23  Qualified
- 5.Santos Laguna    17   5  7  5  25-20  22
- 6.Atlante          17   3  8  6  18-21  17
+<!-- $table12$ - Grupo 1 -->
 
-Grupo 2
- 1.Pumas UNAM       17   8  4  5  23-17  28  Qualified
- 2.Tecos UAG        17   6  7  4  21-17  25  Qualified
- 3.América          17   6  5  6  25-27  23
- 4.Morelia          17   5  7  5  19-20  22
- 5.Guadalajara      17   5  6  6  21-20  21
- 6.Cruz Azul        17   2  7  8  26-33  13
+<!-- $table13$ - Grupo 2 -->
 
-Grupo 3
- 1.Toluca           17  10  6  1  34-19  36  Qualified
- 2.Jaguares         17   5  6  6  22-24  21  Qualified
- 3.Atlas            17   5  6  6  22-29  21
- 4.San Luis         17   4  5  8  21-27  17
- 5.Tigres UANL      17   2  8  7  15-26  14
- 6.Necaxa           17   3  5  9  17-30  14
+<!-- $table14$ - Grupo 3 -->
 
 ▪ Quarterfinals ▪
 
@@ -1216,39 +1136,11 @@ Top-2 of each group and Top-2 of Regular Phase qualify to Playoff.
 
 Final Tables:
 
-Grupo 1
- 1.León                      16  10  5  1  21-12  35  *
- 2.Club Tijuana              16   9  5  2  20- 8  32  *  [1]
- 3.Irapuato                  16   8  6  2  20- 6  30  *
- 4.Tapatío                   16   5  4  7  12-16  19     (Guadalajara) (Guadalajara Filial)
- 5.Tecos UAG                 16   4  5  7  17-16  17     (Zapopán) (Tecos UAG Filial)
- 6.Académicos                16   3  7  6  12-14  16     [Guadalajara] (Atlas Filial)
- 7.Real Colima               16   3  6  7  10-18  15
- 8.Dorados de Sinaloa        16   4  3  9  11-21  15  *  [Culiacán] (Necaxa Filial)
- 9.Petroleros de Salamanca   16   2  7  7  10-22  13     (San Luis Filial)
-[1] full name Club Tijuana Xoloitzcuintles de Caliente
+<!-- $table15$ - Grupo 1 -->
 
-Group 2
- 1.Querétaro                 16  10  3  3  36-20  33  *
- 2.Correcaminos UAT          16   9  4  3  21-12  31  *  [Ciudad Victoria]
- 3.Tigres B                  16   9  2  5  19-12  29     [San Nicolas de Los Garza] (Tigres UANL Filial)
- 4.Indios de Chihuahua       16   6  3  7  25-28  21     (Indios Filial)
- 5.Alacranes de Durango      16   4  8  4  15-16  20  *
- 6.Socio Águila              16   5  4  7  13-16  19     [Distr.Federal] (America Filial)
- 7.Tampico Madero            16   4  5  7  25-30  17     [Tampico]
- 8.Santos Laguna             16   4  3  9  18-27  15  *  [Torreón] (Santos Laguna Filial)
- 9.Rayados de Monterrey 1ªA  16   2  6  8  19-30  12     (Monterrey Filial)
+<!-- $table16$ - Group 2 -->
 
-Group 3
- 1.Pumas Morelos             16  11  2  3  27-12  35     [Cuernavaca] (Pumas UNAM Filial)
- 2.Mérida FC                 16  10  2  4  22-13  32     (Monarcas Morelia Filial)
- 3.Veracruz                  16   8  4  4  25-16  28  *
- 4.Cruz Azul Hidalgo         16   7  3  6  25-15  24  *  [Cd. Cooperativa] (Cruz Azul Filial)
- 5.Lobos BUAP                16   6  3  7  22-30  21  *  [Puebla] (Puebla FC Filial)
- 6.Atlético Mexiquense       16   5  4  7  19-19  19  *  [Toluca] (Toluca Filial)
- 7.Tiburones Rojos           16   4  7  5  14-16  19     (Coatzacoalcos) (Pachuca Filial)
- 8.Potros Chetumal           16   1  8  7  15-28  11     (Atlante Filial)
- 9.Jaguares de Chiapas       16   1  5 10  12-32   8     (Tuxtla Gutiérrez) (Jaguares de Chiapas Filial)
+<!-- $table17$ - Group 3 -->
 
 ▪ Round 1 ▪
 _ Jul 18 _
@@ -1585,39 +1477,11 @@ Tapatío, Correcaminos, Jaguares de Chiapas bye
 
 Final Tables:
 
-Grupo 1
- 1.León                      16  10  5  1  21-12  35  *
- 2.Club Tijuana              16   9  5  2  20- 8  32  *  [1]
- 3.Irapuato                  16   8  6  2  20- 6  30  *
- 4.Tapatío                   16   5  4  7  12-16  19     (Guadalajara) (Guadalajara Filial)
- 5.Tecos UAG                 16   4  5  7  17-16  17     (Zapopán) (Tecos UAG Filial)
- 6.Académicos                16   3  7  6  12-14  16     [Guadalajara] (Atlas Filial)
- 7.Real Colima               16   3  6  7  10-18  15
- 8.Dorados de Sinaloa        16   4  3  9  11-21  15  *  [Culiacán] (Necaxa Filial)
- 9.Petroleros de Salamanca   16   2  7  7  10-22  13     (San Luis Filial)
-[1] full name Club Tijuana Xoloitzcuintles de Caliente
+<!-- $table18$ - Grupo 1 -->
 
-Group 2
- 1.Querétaro                 16  10  3  3  36-20  33  *
- 2.Correcaminos UAT          16   9  4  3  21-12  31  *  [Ciudad Victoria]
- 3.Tigres B                  16   9  2  5  19-12  29     [San Nicolas de Los Garza] (Tigres UANL Filial)
- 4.Indios de Chihuahua       16   6  3  7  25-28  21     (Indios Filial)
- 5.Alacranes de Durango      16   4  8  4  15-16  20  *
- 6.Socio Águila              16   5  4  7  13-16  19     [Distr.Federal] (America Filial)
- 7.Tampico Madero            16   4  5  7  25-30  17     [Tampico]
- 8.Santos Laguna             16   4  3  9  18-27  15  *  [Torreón] (Santos Laguna Filial)
- 9.Rayados de Monterrey 1ªA  16   2  6  8  19-30  12     (Monterrey Filial)
+<!-- $table19$ - Group 2 -->
 
-Group 3
- 1.Pumas Morelos             16  11  2  3  27-12  35     [Cuernavaca] (Pumas UNAM Filial)
- 2.Mérida FC                 16  10  2  4  22-13  32     (Monarcas Morelia Filial)
- 3.Veracruz                  16   8  4  4  25-16  28  *
- 4.Cruz Azul Hidalgo         16   7  3  6  25-15  24  *  [Cd. Cooperativa] (Cruz Azul Filial)
- 5.Lobos BUAP                16   6  3  7  22-30  21  *  [Puebla] (Puebla FC Filial)
- 6.Atlético Mexiquense       16   5  4  7  19-19  19  *  [Toluca] (Toluca Filial)
- 7.Tiburones Rojos           16   4  7  5  14-16  19     (Coatzacoalcos) (Pachuca Filial)
- 8.Potros Chetumal           16   1  8  7  15-28  11     (Atlante Filial)
- 9.Jaguares de Chiapas       16   1  5 10  12-32   8     (Tuxtla Gutiérrez) (Jaguares de Chiapas Filial)
+<!-- $table20$ - Group 3 -->
 
 ▪ Quarterfinals ▪
 
@@ -1701,39 +1565,11 @@ Tiburones Rojos (Coatzacoalcos) changed name to Albinegros de Orizaba.
 
 Final Tables:
 
-Grupo 1
- 1.Mérida FC                 16   9  3  4  25-13  30     (Monarcas Morelia Filial)
- 2.Socio Águila              16   8  3  5  21-18  27     [Distr.Federal] (America Filial)
- 3.Petroleros de Salamanca   16   7  4  4  22-20  26     (San Luis Filial)
- 4.Potros Chetumal           16   5  6  5  23-20  21     (Atlante Filial)
- 5.Querétaro                 16   6  2  8  28-25  20  *
- 6.Irapuato                  16   5  5  6  17-23  20  *
- 7.Indios de Chihuahua       16   5  5  6  19-26  20     (Indios Filial)
- 8.Santos Laguna             16   5  3  8  17-20  18  *  [Torreón] (Santos Laguna Filial)
- 9.Real Colima               16   3  6  7  16-23  15
+<!-- $table21$ - Grupo 1 -->
 
-Group 2
- 1.Dorados de Sinaloa        16   8  7  1  30-15  31  *  [Culiacán] (Necaxa Filial)
- 2.Veracruz                  16   8  6  2  27-14  30  *
- 3.Pumas Morelos             16   6  6  4  26-15  24     [Cuernavaca] (Pumas UNAM Filial)
- 4.León                      16   6  5  5  21-19  23  *
- 5.Correcaminos UAT          16   4  8  4  17-18  20  *  [Ciudad Victoria]
- 6.Tigres B                  16   4  6  6  14-23  18     [San Nicolas de Los Garza] (Tigres UANL Filial)
- 7.Atlético Mexiquense       16   4  4  8  12-23  16  *  [Toluca] (Toluca Filial)
- 8.Tampico Madero            16   3  6  7  18-28  15     [Tampico]
- 9.Tapatío (Guadalajara)     16   2  6  8  16-26  12     (Guadalajara Filial)
+<!-- $table22$ - Group 2 -->
 
-Group 3
- 1.Club Tijuana              16   9  6  1  28-16  33  *  [1]
- 2.Cruz Azul Hidalgo         16   7  6  3  23-16  27  *  [Cd. Cooperativa] (Cruz Azul Filial)
- 3.Lobos BUAP                16   6  7  3  25-17  25  *  [Puebla] (Puebla FC Filial)
- 4.Alacranes de Durango      16   5 10  1  24-16  25  *
- 5.Albinegros de Orizaba     16   5  5  6  15-16  20     (Pachuca Filial)
- 6.Rayados de Monterrey 1ªA  16   5  5  6  16-18  20     (Monterrey Filial)
- 7.Jaguares de Chiapas       16   3  7  6  18-21  16     (Tuxtla Gutiérrez) (Jaguares de Chiapas Filial)
- 8.Académicos                16   1  8  7  15-27  11     [Guadalajara] (Atlas Filial)
- 9.Tecos UAG                 16   1  6  9   8-25   9     (Zapopán) (Tecos UAG Filial)
-[1] full name Club Tijuana Xoloitzcuintles de Caliente
+<!-- $table23$ - Group 3 -->
 
 ▪ Round 1 ▪
 _ Jan 10 _
@@ -2064,39 +1900,11 @@ Petroleros de Salamanca, Dorados, Lobos BUAP  bye
 
 Final Tables:
 
-Grupo 1
- 1.Mérida FC                 16   9  3  4  25-13  30     (Monarcas Morelia Filial)
- 2.Socio Águila              16   8  3  5  21-18  27     [Distr.Federal] (America Filial)
- 3.Petroleros de Salamanca   16   7  4  4  22-20  26     (San Luis Filial)
- 4.Potros Chetumal           16   5  6  5  23-20  21     (Atlante Filial)
- 5.Querétaro                 16   6  2  8  28-25  20  *
- 6.Irapuato                  16   5  5  6  17-23  20  *
- 7.Indios de Chihuahua       16   5  5  6  19-26  20     (Indios Filial)
- 8.Santos Laguna             16   5  3  8  17-20  18  *  [Torreón] (Santos Laguna Filial)
- 9.Real Colima               16   3  6  7  16-23  15
+<!-- $table24$ - Grupo 1 -->
 
-Group 2
- 1.Dorados de Sinaloa        16   8  7  1  30-15  31  *  [Culiacán] (Necaxa Filial)
- 2.Veracruz                  16   8  6  2  27-14  30  *
- 3.Pumas Morelos             16   6  6  4  26-15  24     [Cuernavaca] (Pumas UNAM Filial)
- 4.León                      16   6  5  5  21-19  23  *
- 5.Correcaminos UAT          16   4  8  4  17-18  20  *  [Ciudad Victoria]
- 6.Tigres B                  16   4  6  6  14-23  18     [San Nicolas de Los Garza] (Tigres UANL Filial)
- 7.Atlético Mexiquense       16   4  4  8  12-23  16  *  [Toluca] (Toluca Filial)
- 8.Tampico Madero            16   3  6  7  18-28  15     [Tampico]
- 9.Tapatío (Guadalajara)     16   2  6  8  16-26  12     (Guadalajara Filial)
+<!-- $table25$ - Group 2 -->
 
-Group 3
- 1.Club Tijuana              16   9  6  1  28-16  33  *  [1]
- 2.Cruz Azul Hidalgo         16   7  6  3  23-16  27  *  [Cd. Cooperativa] (Cruz Azul Filial)
- 3.Lobos BUAP                16   6  7  3  25-17  25  *  [Puebla] (Puebla FC Filial)
- 4.Alacranes de Durango      16   5 10  1  24-16  25  *
- 5.Albinegros de Orizaba     16   5  5  6  15-16  20     (Pachuca Filial)
- 6.Rayados de Monterrey 1ªA  16   5  5  6  16-18  20     (Monterrey Filial)
- 7.Jaguares de Chiapas       16   3  7  6  18-21  16     (Tuxtla Gutiérrez) (Jaguares de Chiapas Filial)
- 8.Académicos                16   1  8  7  15-27  11     [Guadalajara] (Atlas Filial)
- 9.Tecos UAG                 16   1  6  9   8-25   9     (Zapopán) (Tecos UAG Filial)
-[1] full name Club Tijuana Xoloitzcuintles de Caliente
+<!-- $table26$ - Group 3 -->
 
 
 ▪ Quarterfinals ▪
@@ -2257,56 +2065,14 @@ Before the start of the season, the following changes occurred:
 - CF Palmeros de Colima changed name to Loros de la Universidad de Colima
 
 
-South
- 1 Mérida FC (Mérida)                            17  9  4  4 20-16 35 (4)
- 2 Universidad del Fútbol (Pachuca)              17 10  3  4 39-15 34 (1)
- 3 Potros de la UAEM (Toluca)                    17  8  5  4 31-26 32 (3)
- 4 Tiburones Rojos de Córdoba (Córdoba)          17  8  5  4 36-26 31 (2)
- 5 CD Albinegros de Orizaba (Orizaba)            17  8  3  6 24-18 30 (3)
- 6 Pioneros de Cancún (Cancún)                   17  6  7  4 36-26 27 (2)
- 7 Pumas Naucalpan (Mexico DF)                   17  6  5  6 24-18 27 (4)
- 8 Cañeros de Zacatepec (Zacatepec)              17  6  7  4 23-24 27 (2)
- 9 Atletico Tapatio (Chalco)                     17  4  8  5 23-25 24 (4)
-10 AC Inter Playa del Carmen (Playa del Carmen)  17  3  8  6 18-21 21 (4)
-11 CA ECA-Norte (Oaxtepec)                       17  4  6  7 18-30 21 (3)
-12 Tecamachalco (Huixquilucan)                   17  4  5  8 28-40 18 (1)
-13 Cuautitlán (Cuautitlan de Romero Rubio)       17  4  5  8 23-33 17 (0)
-14 Ocelotes de la UNACH (Tuxtla Gutierrez)       17  4  4  9 25-41 17 (1)
+<!-- $table27$ - South -->
 
 UNACH: Universidad Autónoma de Chiapas
 UAEM: Universidad Autónoma del Estado de Mexico
 
-Central
- 1 Necaxa Rayos (Aguascalientes)                 17 11  3  3 41-23 38 (2)
- 2 CD Cruz Azul Jasso (Cooperativa Cruz Azul)    17 10  4  3 31-10 37 (3)
- 3 Bravos del CF Nuevo Laredo (Nuevo Laredo)     17  9  6  2 27-16 35 (2)
- 4 Celaya FC (Celaya)                            17  8  5  4 20-12 33 (4)
- 5 Querétaro FC (Queretaro)                      17  6  7  4 24-17 29 (4)
- 6 Reboceros de La Piedad (La Piedad)            17  7  3  7 30-27 25 (1)
- 7 Tampico Madero (Tampico)                      17  8  0  9 28-23 24 (0)
- 8 Irapuato (Irapuato)                           17  6  4  7 22-20 23 (1)
- 9 Altamira FC (Altamira)                        17  4  6  7 23-31 21 (3)
-10 Unión de Curtidores (León)                    17  5  4  8 26-38 20 (1)
-11 Petroleros de Salamanca FC (Salamanca)        17  4  3 10 30-49 17 (2)
-12 Angeles de Comsbmra FC (San Andrés Cholula)   17  4  3 10 19-27 16 (1)
-13 Cachorros León (León)                         17  3  3 11 17-34 12 (0)
-14 Excelsior FC (Salinas Victoria)               17  1  3 13 15-52  7 (1)
+<!-- $table28$ - Central -->
 
-North
- 1 Loros de la Universidad de Colima (Colima)    17 13  2  2 47-22 41 (0)
- 2 Cuervos Negros de Zapotlanejo (Zapotlanejo)   17 10  4  3 34-22 36 (2)
- 3 Dorados de Los Mochis (Los Mochis)            17  9  5  3 42-26 34 (2)
- 4 CFS Manzanillo (Manzanillo)                   17  7  6  4 37-26 30 (3)
- 5 Dorados Fuerza UACH (Chihuahua)               17  8  4  5 32-26 30 (2)
- 6 Xoloitzcuintles Vaqueros de Nayarit (Tepic)   17  8  4  5 27-22 29 (1)
- 7 Búhos de Hermosillo FC (Hermosillo)           17  8  3  6 30-25 28 (1)
- 8 Zorros de Reynosa (Reynosa)                   17  6  6  5 24-22 27 (3)
- 9 CD Toros de Zacatecas (Zacatecas)             17  6  3  8 30-37 23 (2)
-10 Cachorros UG (Guadalajara)                    17  6  4  7 30-46 23 (1)
-11 UAG Tecoman (Zapopán)                         17  5  4  8 24-28 22 (3)
-12 CD Vaqueros de Ixtlán (Ixtlán del Río)        17  4  5  8 22-31 21 (4)
-13 Delfines de Los Cabos FC (San José del Cabos) 17  3  4 10 28-36 16 (3)
-14 FC Atletico Lagunero (Gómez Palacio)          17  1  3 13 17-38  7 (1)
+<!-- $table29$ - North -->
 
 UAG: Universidad Autónoma de Guadalajara
 UG: Universidad de Guadalajara
@@ -2339,50 +2105,16 @@ Before the start of the season, the following changes occurred:
 
 - Deportivo Autlán changed name to Club Deportivo Oro
 
-Sureste
- 1 Universidad Autonoma de Hidalgo (Pachuca)               10 9 0 1 24- 5 27 (0) Qualified to Liguilla de Ascenso
- 2 Puebla FC (Puebla)                                    * 10 7 1 2 24-11 23 (1)
- 3 Lobos Prepa (Puebla)                                  * 10 4 4 2 12-11 19 (3) Qualified to Liguilla de Filiales
- 4 Halcones del Valle del Mezquital (Tezontepec de Aldama) 10 4 4 2 15-13 18 (2) Qualified to Liguilla de Ascenso
- 5 Titanes de Tulancingo (Tulancingo)                      10 3 4 3 16-12 16 (3) Qualified to Liguilla de Ascenso
- 6 Gallos Blancos de Izcalli FC (Cuautitlan Izcalli)       10 2 4 4 12-15 12 (2)
- 7 Inter de Tehuacán (Juventino Rosas)                     10 1 5 4  9-13 10 (2)
- 8 CF Alebrijes de Oaxaca (Oaxaca de Juárez)               10 2 3 5  8-14  9 (0)
- 9 Deportivo Contreras (Mexico DF)                         10 2 3 5 11-18  9 (0)
-10 Arroceros del CD Cuautla (Cuautla)                      10 1 5 4  4-13  8 (0)
-11 Atlante Tabasco (Comalcalco)                            10 0 7 3  3-13  7 (0)
+<!-- $table30$ - Sureste -->
 
 * Filial Team
 NB: Puebla FC was excluded from Liguilla de Filiales
 
-Bajío
-1 CD Guadalajara (Zapopán)                               * 10 8 2 0 27- 5 27 (1) Qualified to Liguilla de Filiales
-2 Atlas FC (Zapopán)                                     * 10 7 3 0 19- 6 27 (3) Qualified to Liguilla de Filiales
-3 Alto Rendimiento Tuzo (Pachuca)                          10 7 2 1 22-14 23 (0) Qualified to Liguilla de Ascenso
-4 Toluca FC (Metepec)                                    * 10 5 2 3 18-11 18 (1) Qualified to Liguilla de Filiales
-5 Pumas Prepa (México DF)                                * 10 4 4 2 11-11 18 (2) Qualified to Liguilla de Filiales
-6 America Coapa (Mexico DF)                                10 4 3 3 10- 9 16 (1) Qualified to Liguilla de Ascenso
-7 Chivas San Rafael (San Rafael)                         * 10 3 2 5 18-18 13 (2)
-8 Atlético Cihuatlán (Cihuatlán)                           10 2 3 5  8-11 10 (1)
-9 Monarcas Morelia (Morelia)                             * 10 2 0 8 11-23  6 (0)
-10 Cadereyta FC (Cadereyta de Montes)                      10 1 1 8 10-25  4 (0)
-11 Club Deportivo Oro (Zapopan)                            10 1 0 9  8-29  3 (0)
+<!-- $table31$ - Bajío -->
 
 * Filial Team
 
-Noroeste
-1 Cachorros de la UANL (Zuazua)                          * 11 8 1 2 21- 7 25 (0) Qualified to Liguilla de Filiales
-2 Correcaminos UAT (Ciudad Victoria)                       11 6 3 2 15- 8 24 (3) Qualified to Liguilla de Ascenso
-3 Rayados de Monterrey 2ª (Los Cristales)                * 11 7 1 3 26- 8 22 (0) Qualified to Liguilla de Filiales
-4 Santos Laguna (Gómez Palacio)                          * 11 6 2 3 16-13 20 (0) Qualified to Liguilla de Filiales
-5 Durango Vizcaya FC (Durango)                             11 6 1 4 22-18 19 (0) Qualified to Liguilla de Ascenso
-6 CF Indios (Ciudad Juárez)                                11 5 2 4 15-10 18 (1) Qualified to Liguilla de Ascenso
-7 CF Millonarios de La Joya (Apodaca)                      11 5 1 5 16-19 17 (1)
-8 Universidad Autónoma de Zacatecas (Fresnillo)            11 4 2 5 16-15 15 (1)
-9 Real Saltillo Soccer Club (Saltillo)                     11 2 4 5 13-15 13 (3)
-10 CF Durango (Durango)                                    11 2 4 5 15-17 12 (2)
-11 Deportivo Guamuchil FC (Guamuchil)                      11 2 3 6 17-29 10 (1)
-12 Huracanes de Matamoros (Matamoros)                      11 1 0 10 8-41  3 (0)
+<!-- $table32$ - Noroeste -->
 
 UANL: Universidad Autónoma de Nuevo León
 UAT: Universidad Autónoma de Tamaulipas
@@ -2431,56 +2163,14 @@ Clausura 2009
 
 Liga Premier de Ascenso
 
-South
- 1 Universidad del Fútbol (Pachuca)              17 13  1  3 46-17 41 (1)
- 2 CD Albinegros de Orizaba (Orizaba)            17 10  3  4 29-18 35 (2)
- 3 Pumas Naucalpan (Mexico DF)                   17  9  5  3 27-19 35 (3)
- 4 Cuautitlán (Cuautitlan de Romero Rubio)       16  6  5  5 22-22 27 (4)
- 5 Potros de la UAEM (Toluca)                    17  7  6  4 28-24 28 (1)
- 6 Tiburones Rojos de Córdoba (Córdoba)          17  6  6  5 22-17 27 (3)
- 7 Tecamachalco (Huixquilucan)                   16  5  7  4 27-31 25 (3)
- 8 Cañeros de Zacatepec (Zacatepec)              17  5  7  5 23-28 25 (3)
- 9 Mérida FC (Mérida)                            16  6  3  7 24-24 23 (2)
-10 AC Inter Playa del Carmen (Playa del Carmen)  16  7  1  8 18-19 23 (1)
-11 Atletico Tapatio (Chalco)                     16  4  6  6 18-25 20 (2)
-12 Pioneros de Cancún (Cancún)                   16  3  7  6 14-21 17 (1)
-13 CA ECA-Norte (Oaxtepec)                       17  2  5 10 23-32 15 (4)
-14 Ocelotes de la UNACH (Tuxtla Gutierrez)       17  3  3 11 25-41 13 (1)
+<!-- $table33$ - South -->
 
 UNACH: Universidad Autónoma de Chiapas
 UAEM: Universidad Autónoma del Estado de Mexico
 
-Central
- 1 Altamira FC (Altamira)                        17 10  4  3 30-16 35 (1)
- 2 Reboceros de La Piedad (La Piedad)            17  9  4  4 27-16 33 (2)
- 3 Petroleros de Salamanca FC (Salamanca)        17  7  6  4 24-11 33 (6)
- 4 Angeles de Comsbmra FC (San Andrés Cholula)   17  8  6  3 20-14 33 (3)
- 5 Celaya FC (Celaya)                            16  8  3  5 21-14 28 (1)
- 6 Unión de Curtidores (León)                    17  6  6  5 23-19 28 (4)
- 7 CD Cruz Azul Jasso (Cooperativa Cruz Azul)    17  5  6  6 20-20 24 (3)
- 8 Necaxa Rayos (Aguascalientes)                 16  6  2  8 22-21 21 (1)
- 9 Excelsior FC (Salinas Victoria)               17  4  7  6 18-23 22 (3)
-10 Querétaro FC (Queretaro)                      17  5  5  7 22-30 22 (2)
-11 Irapuato (Irapuato)                           16  5  5  6 17-17 20 (0)
-12 Tampico Madero (Tampico)                      17  4  5  8 11-30 20 (3)
-13 Cachorros León (León)                         17  3  5  9 13-24 16 (2)
-14 Bravos del CF Nuevo Laredo (Nuevo Laredo)     16  1  6  9  6-22 13 (4)
+<!-- $table34$ - Central -->
 
-North
- 1 CFS Manzanillo (Manzanillo)                   17 13  1  3 36-12 41 (1)
- 2 Dorados de Los Mochis (Los Mochis)            17 10  6  1 38-15 40 (4)
- 3 Loros de la Universidad de Colima (Colima)    17 11  4  2 32-17 40 (3)
- 4 Dorados Fuerza UACH (Chihuahua)               17  9  7  1 31-13 35 (1)
- 5 Xoloitzcuintles Vaqueros de Nayarit (Tepic)   17  6  6  5 24-25 26 (2)
- 6 Delfines de Los Cabos FC (San José del Cabos) 16  6  3  7 26-33 23 (2)
- 7 CD Vaqueros de Ixtlán (Ixtlán del Río)        17  5  5  7 17-25 24 (4)
- 8 Búhos de Hermosillo FC (Hermosillo)           17  6  3  7 26-21 22 (1)
- 9 Cuervos Negros de Zapotlanejo (Zapotlanejo)   16  4  5  6 22-23 20 (3)
-10 UAG Tecoman (Zapopán)                         16  5  5  6 20-24 20 (0)
-11 Zorros de Reynosa (Reynosa)                   16  5  2  9 17-29 19 (2)
-12 Cachorros UG (Guadalajara)                    16  2  6  8 19-28 15 (3)
-13 Toros de CD Zacatecas (Zacatecas)             17  2  4 11 11-29 12 (2)
-14 FC Atletico Lagunero (Gómez Palacio)          16  1  0 15  4-34  3 (0)
+<!-- $table35$ - North -->
 
 UAG: Universidad Autónoma de Guadalajara
 UG: Universidad de Guadalajara
@@ -2516,46 +2206,13 @@ Liga de Nuevos Talentos
 NB: At the beginning of the season Deportivo Unión de Piedras Negras
     change name to Real Saltillo Soccer Club
 
-Sureste
- 1 Arroceros del CD Cuautla (Cuautla)                       9 6 2 1 10- 7 21 (1) Qualified to Liguilla de Ascenso
- 2 Lobos Prepa (Puebla)                                   * 9 6 2 1 26-12 20 (0) Qualified to Liguilla de Filiales
- 3 CF Alebrijes de Oaxaca (Oaxaca de Juárez)                9 4 2 3 21-15 16 (2) Qualified to Liguilla de Ascenso
- 4 Puebla FC (Puebla)                                     * 9 3 4 2 20-16 16 (3) Qualified to Liguilla de Filiales
- 5 Titanes de Tulancingo (Tulancingo)                       9 4 3 2 12-10 16 (1) Qualified to Liguilla de Ascenso
- 6 Deportivo Contreras (Mexico DF)                          9 4 1 4 16-16 14 (1)
- 7 Universidad Autonoma de Hidalgo (Pachuca)                9 3 2 4  9- 9 13 (2)
- 8 Halcones del Valle del Mezquital (Tezontepec de Aldama)  9 3 2 4 18-17 11 (0)
- 9 Inter de Tehuacán (Juventino Rosas)                      9 1 2 6  7-20  5 (0)
-10 Gallos Blancos de Izcalli FC (Cuautitlan Izcalli)        9 0 2 7  7-24  3 (1)
+<!-- $table36$ - Sureste -->
 
 NB: Atlante Tabasco (Comalcalco) withdrew.
 
-Bajío
- 1 Atlas FC (Zapopán)                                    * 10 7 1 2 23- 9 22 (0) Qualified to Liguilla de Filiales
- 2 CD Guadalajara (Zapopán)                              * 10 6 2 2 23-12 20 (0) Qualified to Liguilla de Filiales
- 3 America Coapa (Mexico DF)                               10 6 1 3 20-11 20 (1) Qualified to Liguilla de Ascenso
- 4 Monarcas Morelia (Morelia)                            * 10 6 1 3 22-18 19 (0) Qualified to Liguilla de Filiales
- 5 Cadereyta FC (Cadereyta de Montes)                      10 6 1 3 20-20 19 (0) Qualified to Liguilla de Ascenso
- 6 Atlético Cihuatlán (Cihuatlán)                          10 3 3 4 17-15 14 (2)
- 7 Alto Rendimiento Tuzo (Pachuca)                         10 3 2 5 14-23 13 (2)
- 8 Pumas Prepa (México DF)                               * 10 3 2 5 13-14 12 (1)
- 9 Chivas San Rafael (San Rafael)                        * 10 3 0 7 10-16  9 (0)
-10 Club Deportivo Oro (Zapopan)                            10 2 2 6  4-21  9 (1)
-11 Toluca FC (Metepec)                                   * 10 2 1 7 13-20  8 (1)
+<!-- $table37$ - Bajío -->
 
-Noroeste
- 1 Santos Laguna (Gómez Palacio)                         * 11 6 4 1 26-13 24 (2) Qualified to Liguilla de Filiales
- 2 Correcaminos UAT (Ciudad Victoria)                      11 6 2 3 23-10 22 (2) Qualified to Liguilla de Ascenso
- 3 CF Durango (Durango)                                    11 7 1 3 24-17 22 (0) Qualified to Liguilla de Ascenso
- 4 Cachorros de la UANL (Zuazua)                         * 11 5 4 2 20-14 21 (2) Qualified to Liguilla de Filiales
- 5 Real Saltillo Soccer Club (Saltillo)                    11 4 5 2 14-11 21 (4) Qualified to Liguilla de Ascenso
- 6 Rayados de Monterrey 2ª (Los Cristales)               * 11 6 1 3 25-13 19 (0) Qualified to Liguilla de Filiales
- 7 Deportivo Guamuchil FC (Guamuchil)                      11 4 3 4 16-16 16 (1)
- 8 CF Indios (Ciudad Juárez)                               11 2 6 3 12-14 15 (3)
- 9 Durango Vizcaya FC (Durango)                            11 3 3 5 15-21 15 (3)
-10 Universidad Autónoma de Zacatecas (Fresnillo)           11 2 4 5 21-23 10 (0)
-11 CF Millonarios de La Joya (Apodaca)                     11 2 1 8 14-40  7 (0)
-12 Huracanes de Matamoros (Matamoros)                      11 0 2 8  4-22  3 (1)
+<!-- $table38$ - Noroeste -->
 
 UANL: Universidad Autónoma de Nuevo León
 UAT: Universidad Autónoma de Tamaulipas
@@ -2647,112 +2304,26 @@ Fourth Level 2008/09
 
 Tercera Division Profesional
 
-Group 1
- 1 Jaguares de Chiapas FC           * 30 17  9  4  69- 25 65 (5) Qualified to Liguilla de Filiales
- 2 Merida FC                          30 15 11  4  59- 25 62 (6) Qualified to Liguilla de Ascenso
- 3 Pioneros Junior                    30 16  6  8  49- 28 56 (2) Qualified to Liguilla de Ascenso
- 4 FC Itzaes                          30 15  7  8  47- 28 54 (2) Qualified to Liguilla de Ascenso
- 5 Deportivo Maya Caribe FC           30 14  8  8  38- 28 54 (4) Qualified to Liguilla de Ascenso
- 6 Huracanes de Cozumel               30 14  7  9  43- 32 53 (4)
- 7 Delfines de la UNACAR              30 11 11  8  40- 38 51 (7)
- 8 Tigres Minatitlan                  30 11 10  9  55- 47 49 (6)
- 9 CD Corsarios de Campeche           30 12  8 10  28- 33 48 (4)
-10 Chetumal FC                        30 11  9 10  43- 44 46 (4)
-11 Azules de la Sección 26            30 11  7 12  32- 42 42 (2)
-12 Ejidatarios de Bonfil              30  6 12 12  36- 55 38 (8)
-13 Jaguares de la 48                  30  9  6 15  52- 57 37 (4)
-14 Inter Playa AC                     30  6  6 18  30- 50 25 (1)
-15 Real Victoria Carmen               30  2 10 18  26- 77 21 (5)
-16 CF Jaguares de Ocozocoautla        30  4  5 21  23- 61 19 (2)
+<!-- $table39$ - Group 1 -->
 
 UNACAR: Universidad Autónoma del Carmen
 * Filial Teams
 
-Group 2
- 1 Tiburones Rojos de Boca del Rio  * 34 28  4  2 114- 27 91 (3) Qualified to Liguilla de Filiales
- 2 CD Cruz Azul Lagunas               34 25  5  4 120- 31 81 (1) Qualified to Liguilla de Ascenso
- 3 Santos Casino                      34 21  8  5 101- 51 76 (5) Qualified to Liguilla de Ascenso
- 4 CD Conejos de Tuxpam               34 19  6  9  58- 34 66 (3) Qualified to Liguilla de Ascenso
- 5 Poza Rica FC                       34 15 10  9  51- 52 61 (6) Qualified to Liguilla de Ascenso
- 6 Naranjeros de Alamo                34 16  9  9  51- 36 59 (2) Qualified to Liguilla de Ascenso
- 7 Azucareros del CD Tezonapa         34 14  7 13  51- 58 53 (4)
- 8 CF Caballeros de Cordoba           34 12  9 13  52- 53 50 (5)
- 9 Universidad Itsmo Americana        34 12  7 15  54- 53 48 (5)
-10 Lanceros de Cosoleacaque           34 12  8 14  48- 51 47 (3)
-11 CF Cañeros de Hueyapan             34  8 14 12  37- 54 45 (7)
-12 Atletico Boca del Rio              34 11  6 17  42- 47 43 (4)
-13 Atletico Huasteco                  34  9 10 15  45- 64 43 (6)
-14 CD Plateados de Cerro Azul         34 11  8 15  40- 65 43 (2)
-15 CD Heroes de Veracruz              34  8  9 17  35- 52 39 (6)
-16 Universidad del Golfo de Mexico    34  9  5 20  44- 91 34 (2)
-17 Guerreros Univ. de Sotavento FC    34  6  7 21  30- 61 26 (1) [!]
-18 Once Hermanos                      34  0  6 28  17-112 10 (4)
+<!-- $table40$ - Group 2 -->
 
 * Filial Teams
 [!] full name Guerreros de la Universidad de Sotavento FC
 
-Group 3
- 1 CF Galeana Morelos                 34 25  4  5  90- 50 80 (1) Qualified to Liguilla de Ascenso
- 2 Linces de Oaxaca                   34 24  3  7 103- 37 78 (3) Qualified to Liguilla de Ascenso
- 3 Atletico Cuernavaca                34 20  7  7  90- 46 72 (5) (*) Qualified to Liguilla de Ascenso
- 4 Cañeros de CD Zacatepetl           34 19  9  6  70- 39 71 (5) Qualified to Liguilla de Ascenso
- 5 Cuautla-Yeca Juvenil AC            34 20  6  8  89- 47 69 (3) Qualified to Liguilla de Ascenso
- 6 CD Real San Cosme FC               34 18  6 10  59- 40 63 (3)
- 7 Lobos BUAP                         34 15  8 11  51- 45 57 (4)
- 8 CF Ajax Jiutepec FC                34 15  6 13  56- 54 54 (3)
- 9 CF Tehuacan                        34 15  5 14  49- 57 53 (3)
-10 Avispones del CD Chilpancingo      34 13  6 15  58- 53 49 (4)
-11 Angeles de Comsbmra FC             34 12  6 16  41- 57 45 (3)
-12 CF Zapata                          34  9 10 15  39- 55 42 (5)
-13 Club Galgos AC                     34 11  5 18  35- 56 41 (3)
-14 CF Lobos de Tlaxcala               34  6 14 14  33- 54 40 (8)
-15 Teziutlan Soccer                   34  9  6 19  42- 69 35 (2)
-16 Chimbombos de Cintalapa            34  7  5 22  35- 73 27 (1)
-17 Chapulineros de Oaxaca             34  5  7 22  35- 76 24 (2)
-18 CD Ocotlan FC                      34  4  5 25  31- 98 18 (1)
+<!-- $table41$ - Group 3 -->
 
 (*) Also known as UNIVAC Zapata
 BUAP: Benemérita Universidad Autónoma de Puebla
 
-Group 4
- 1 CF America                       * 30 26  2  2 108- 20 82 (2) Qualified to Liguilla de Filiales
- 2 CD Venados                         30 21  6  3  62- 24 73 (4) Qualified to Liguilla de Ascenso
- 3 Sporting Canamy                    30 19  7  4  88- 27 68 (4) Qualified to Liguilla de Ascenso
- 4 Tecamachalco                       30 17  7  6  83- 36 63 (5) Qualified to Liguilla de Ascenso
- 5 CD Coyotes Neza                    30 15  6  9  56- 35 55 (4) Qualified to Liguilla de Ascenso
- 6 CF Texcoco                         30 16  5  9  75- 54 54 (1)
- 7 Lobos Union Neza                   30 14  8  8  54- 40 54 (4)
- 8 CA ECA-Norte                       30 14  5 11  65- 64 48 (1)
- 9 Alamos FC                          30 10 10 10  49- 38 44 (4)
-10 Cobijeros de Chiconcuac AC         30  8  7 15  37- 64 35 (4)
-11 CDSC Guerreros Ixtapalapa          30  9  5 16  48- 64 33 (1)
-12 Pelícanos de Cuautitlán            30  7  5 18  29- 78 29 (3)
-13 CF Pato Baeza FC                   30  6  7 17  38- 82 28 (3)
-14 Deportivo Neza                     30  4  8 18  26- 61 24 (4)
-15 CD Atletico Iztacalco              30  5  3 22  24- 67 20 (2)
-16 Novillos Neza                      30  2  3 25  15-103 10 (1)
+<!-- $table42$ - Group 4 -->
 
 * Filial Teams
 
-Group 5
- 1 Universidad del Fútbol             34 29  3  2  98- 12 91 (1) Qualified to Liguilla de Ascenso
- 2 CD Cruz Azul Dublán              * 34 26  3  5  78- 26 82 (1) Qualified to Liguilla de Filiales
- 3 Aguilas de Teotihuacán             34 23  6  5  83- 36 78 (3) Qualified to Liguilla de Ascenso
- 4 Pachuca Juniors                    34 21  7  6  73- 37 73 (3) Qualified to Liguilla de Ascenso
- 5 Deportivo Cielo Azul               34 18  7  9  42- 26 65 (4) Qualified to Liguilla de Ascenso
- 6 Santiago Tulantepec                34 14 11  9  41- 31 61 (8)
- 7 Valedores de Iztacalco             34 17  6 11  35- 31 60 (3)
- 8 Halcones Valle del Mezquital       34 16  4 14  58- 48 54 (2)
- 9 CF Morelos Ecatepec                34 13  8 13  53- 57 51 (4)
-10 Zacatlan FC                        34 11  9 14  38- 51 45 (3)
-11 Potros de Hierro FC                34 13  4 17  41- 33 44 (1)  Qualified to Liguilla de Ascenso
-12 Pachuca CF                       * 34 11  6 17  35- 60 44 (5)
-13 Xicotepec FC                       34 10  8 16  40- 46 42 (4)
-14 Union Acolman FC                   34  9  8 17  35- 45 39 (4)
-15 CF Atletico Huejutla               34  8  4 22  42- 77 30 (2)
-16 Real Halcones                      34  5  6 23  30- 70 25 (4)
-17 CD Atletico Hidalgo                34  6  3 25  33- 77 22 (1)
-18 Real Olmeca Sport                  34  2  5 27  18-110 12 (1)
+<!-- $table43$ - Group 5 -->
 
 NB: Potros de Hierro finished the regular season in 4th place, but a
     later point deduction disqualified the team from the Liguilla de
@@ -2760,188 +2331,43 @@ NB: Potros de Hierro finished the regular season in 4th place, but a
 
 * Filial Teams
 
-Group 6
- 1 CD Cruz Azul Xochimilco            32 29  2  1 105- 14 90 (1) Qualified to Liguilla de Ascenso
- 2 CF Cuauhtemoc Blanco               32 21  5  6  55- 26 71 (3) Qualified to Liguilla de Ascenso
- 3 Buhos Estudiantes de Xalap         32 20  6  6  66- 26 68 (2) Qualified to Liguilla de Ascenso
- 4 Albinegros de Orizaba              32 20  5  7  66- 21 67 (2) Qualified to Liguilla de Ascenso
- 5 Panteras de Lindavista FC          32 20  5  7  55- 39 67 (2) Qualified to Liguilla de Ascenso
- 6 Delfines de la UGM                 32 15  9  8  43- 29 58 (4)
- 7 CD Plateros                        32 15  6 11  56- 42 57 (6)
- 8 ABA Anahuac                        32 14 10  8  65- 32 56 (4)
- 9 Atletico UEFA                      32 10  8 14  45- 48 44 (6)
-10 Titan Soccer                       32 10  9 13  35- 39 44 (5)
-11 Aztecas AMF Soccer                 32  9  8 15  41- 53 40 (5)
-12 Teca-Huixquilucan                  32 11  4 17  35- 49 38 (1)
-13 Soccer Club Buendia                32  9  7 16  29- 51 35 (1)
-14 CD Tulyehualco                     32  6  6 20  36- 58 25 (1)
-15 Frailes de Homape                  32  6  4 22  30- 85 25 (3)
-16 CD Tultitlan                       32  5  3 24  17- 78 21 (3)
-17 Vikingos de Chalco                 32  3  1 28  23-112 10 (0)
+<!-- $table44$ - Group 6 -->
 
 UGM: Universidad del Golfo de Mexico
 
-Group 7
- 1 Toluca FC                        * 34 30  3  1 109- 15 96 (3) Qualified to Liguilla de Filiales
- 2 Potros de la UAEM                  34 23  7  4  86- 25 79 (3) Qualified to Liguilla de Ascenso
- 3 CF Estudiantes Atlacomulco         34 22  7  5  67- 27 76 (3) Qualified to Liguilla de Ascenso
- 4 Deportivo Metepec                  34 16  6 12  59- 48 57 (3) Qualified to Liguilla de Ascenso
- 5 Zitacuaro CF                       34 15  9 10  45- 40 57 (3) Qualified to Liguilla de Ascenso
- 6 CD Lerma                           34 14  8 12  65- 57 55 (5) Qualified to Liguilla de Ascenso
- 7 Temoaya                            34 12 10 12  43- 51 54 (8)
- 8 Estudiantes de Huehuetoca FC       34 13 10 11  30- 23 53 (4)
- 9 CD Mineros Real Hidalgo            34 15  4 15  58- 55 51 (2)
-10 Dragones IUVYC                     34 14  8 12  43- 49 51 (1)
-11 Real Cuautitlan CR                 34 13  4 17  44- 65 47 (4)
-12 Fijar Soccer                       34 11  7 16  53- 64 45 (5)
-13 Deportivo Tejupilco                34 12  3 19  50- 68 41 (2)
-14 Angeles de Tlahuac FC              34  8 11 15  49- 53 38 (3)
-15 San Mateo Atenco                   34  9  4 21  37- 66 33 (2)
-16 Tolcayuca                          34  7  8 19  36- 70 33 (4)
-17 CD Jilotepec                       34  7  6 21  41- 88 30 (3)
-18 CD APC Tepalcapa CR                34  5  5 24  38- 89 22 (2)
+<!-- $table45$ - Group 7 -->
 
 UAEM: Universidad Autónoma del Estado de Mexico
 * Filial Teams
 
-Group 8
- 1 Monarcas Morelia                 * 26 21  3  2  75- 23 67 (1) Qualified to Liguilla de Filiales
- 2 Monarcas Zacapu                    26 19  3  4  67- 19 62 (2) Qualified to Liguilla de Ascenso
- 3 Gallos Blancos de San Juan del Río 26 17  2  7  60- 28 54 (1) Qualified to Liguilla de Ascenso
- 4 Zarzeros de Tacambaro              26 14  5  7  65- 38 51 (4) Qualified to Liguilla de Ascenso
- 5 Jaral del Progreso FC              26 13  5  8  46- 35 46 (2) Qualified to Liguilla de Ascenso
- 6 CF Delfines de Acero               26 11  5 10  53- 49 41 (3)
- 7 Brujos del CD Juventino Rosas      26 12  2 12  46- 53 40 (2)
- 8 CD Oxitipa de Ciudad Valles        26  8  7 11  22- 30 36 (5)
- 9 Peces Blancos de Patzcuaro         26  9  3 14  53- 65 30 (0)
-10 Cachorros de San Luis FC           26  7  6 13  24- 42 28 (1)
-11 EFIFS Aztecas AC                   26  7  5 14  26- 40 27 (1)
-12 Deportivo Santa Rosa               26  6  4 16  22- 58 25 (3)
-13 Atletico San Miguel                26  5  4 17  23- 49 21 (2)
-14 San Juan del Rio FC                26  5  2 19  25- 78 18 (1)
+<!-- $table46$ - Group 8 -->
 
 * Filial Teams
 
-Group 9
- 1 Necaxa                           * 30 19  4  7  56- 28 64 (3) Qualified to Liguilla de Filiales
- 2 Deportivo El Milagro               30 16 10  4  58- 36 63 (5) Qualified to Liguilla de Ascenso
- 3 Atletico ECCA                      30 18  4  8  78- 41 60 (2) Qualified to Liguilla de Ascenso
- 4 Real Leonés                        30 17  5  8  55- 36 57 (1) Qualified to Liguilla de Ascenso
- 5 Cachorros de León                * 30 13 11  6  54- 35 55 (5)
- 6 Reboceritos de CF La Piedad        30 15  6  9  64- 39 53 (2) Qualified to Liguilla de Ascenso
- 7 Silao Cristo Rey FC                30 14  7  9  48- 32 53 (4)
- 8 Celaya FC                          30 15  6  9  51- 36 53 (2)
- 9 Real Cavadas AC                    30 10  9 11  44- 41 45 (6)
-10 Atletico Bajio                     30 10  8 12  26- 38 43 (5)
-11 CD Cabezas Rojas                   30  8  9 13  35- 41 37 (4)
-12 Libertadores de Pénjamo            30  9  7 14  31- 58 37 (3)
-13 Zapateros del CD Garra Leonesa     30  8  7 15  40- 56 34 (3)
-14 Universidad Autónoma de Zacatecas  30  6  7 17  30- 62 31 (6)
-15 Real Congregacion de Moroleon      30  5  6 19  30- 56 22 (1)
-16 Atletico San Francisco             30  2  4 24  31- 96 13 (3)
+<!-- $table47$ - Group 9 -->
 
 ECCA: Educación Continua y Compartida de Adultos
 * Filial Teams
 
-Group 10
- 1 Académicos                       * 34 24  5  5  99- 30 78 (1) Qualified to Liguilla de Filiales
- 2 Conejos de Tuxpan                  34 23  5  6  94- 43 76 (2) Qualified to Liguilla de Ascenso
- 3 CF Aves Blancas de Jalisco         34 21  8  5  72- 37 76 (5) Qualified to Liguilla de Ascenso
- 4 Tecos UAG                        * 34 19  9  6  80- 38 72 (6) Qualified to Liguilla de Filiales
- 5 Rojos de Jesús María               34 18  8  8  80- 47 66 (4) Qualified to Liguilla de Ascenso
- 6 Escuela de Fútbol Chivas         * 34 19  6  9  70- 44 66 (3) Qualified to Liguilla de Filiales
- 7 Charales de Chapala                34 18  7  9  81- 53 62 (1) Qualified to Liguilla de Ascenso
- 8 FC Zapotlanejo                     34 15  9 10  61- 57 59 (5) Qualified to Liguilla de Ascenso
- 9 Arandas FC                         34 15  5 14  76- 72 53 (3)
-10 Atotonilco FC                      34 13  7 14  54- 57 50 (4)
-11 Mulos del Oro                      34 11  9 14  54- 58 44 (2)
-12 CD Tepatitlan                      34 11  6 17  54- 63 44 (5)
-13 Tecos Sayula UAG                   34 13  4 17  49- 66 44 (1)
-14 CD Valle del Grullo                34  9  7 18  52- 66 39 (5)
-15 Atlético Cocula                    34  7  9 18  58- 86 34 (4)
-16 Jocotepec                          34  7  6 21  48- 90 31 (4)
-17 CD Atletico Tecoman                34  4  4 26  24-100 17 (1)
-18 CF Volcanes de Colima              34  1  2 31  28-127  7 (2)
+<!-- $table48$ - Group 10 -->
 
 UAG: Universidad Autónoma de Guadalajara
 * Filial Teams
 
-Group 11
- 1 CD Guadalajara                   * 32 23  5  4  93- 29 77 (3) Qualified to Liguilla de Filiales
- 2 FC Atlas                         * 32 21  4  7  78- 33 68 (1) Qualified to Liguilla de Filiales
- 3 CF Sahuayo                         32 20  5  7  52- 32 68 (3) Qualified to Liguilla de Ascenso
- 4 Estudiantes Tecos                * 32 18  5  9  72- 49 61 (2)
- 5 CD Vaqueros de Ixtlán              32 16  5 11  63- 39 58 (5) Qualified to Liguilla de Ascenso
- 6 CDS PVSC Unión San Miguel          32 15 10  7  62- 46 58 (3) Qualified to Liguilla de Ascenso
- 7 Cocula FC                          32 14  9  9  59- 36 56 (5) Qualified to Liguilla de Ascenso
- 8 CD Vaqueros de Nayarit             32 14  8 10  48- 32 55 (5) Qualified to Liguilla de Ascenso
- 9 Deportivo Nayarit                  32 14  6 12  61- 55 51 (3)
-10 Nacional de Guadalajara            32 12  7 13  52- 53 49 (6)
-11 Deportivo Tepic                    32 13  5 14  47- 55 45 (1)
-12 CD Sufacen Compostela              32 12  5 15  33- 42 43 (2)
-13 CD Ladrilleros de Tlajomulco       32  8  6 18  39- 63 33 (3)
-14 Cachorros Atotonilco               32  6  6 20  43- 67 28 (4)
-15 CD Sufacen Santiago                32  4  7 21  27- 70 23 (4)
-16 FC Gansos de Etzatlán              32  5  6 21  32- 86 23 (2)
-17 Cañeros de Xalisco                 32  4  7 21  25- 99 20 (1)
+<!-- $table49$ - Group 11 -->
 
 * Filial Teams
 
-Group 12
- 1 Universidad de Monterrey           34 25  6  3 102- 29 85 (4) Qualified to Liguilla de Ascenso
- 2 Orinegros del CF Ciudad Madero     34 25  5  4  78- 22 82 (2) Qualified to Liguilla de Ascenso
- 3 Tigres SD                        * 34 19 11  4  78- 37 73 (5) Qualified to Liguilla de Filiales
- 4 Panteras Negras de Guadalupe       34 17  5 12  61- 52 61 (5) Qualified to Liguilla de Ascenso
- 5 Gallos del CF 49 Cadereyta         34 17  7 10  56- 42 60 (2) Qualified to Liguilla de Ascenso
- 6 Industriales de Ramos Arizpe CF    34 14 12  8  65- 52 60 (6) Qualified to Liguilla de Ascenso
- 7 Correcaminos de UAT              * 34 14 10 10  64- 38 59 (7)
- 8 Alianza Unetefan AFC               34 17  3 14  57- 45 55 (1)
- 9 Rayados de Monterrey             * 34 11 14  9  56- 43 54 (7)
-10 Armadillos de Ebano FC             34 12 10 12  43- 39 51 (5)
-11 FC Excelsior                       34 12  9 13  56- 52 50 (5)
-12 Jaguares del Mante FC              34 12  8 14  52- 59 50 (6)
-13 Atletico Altamira                  34 13  8 13  61- 61 49 (2)
-14 Tuneros de Matehuala               34  9  7 18  54- 87 37 (3)
-15 FC El Naranjo                      34  8  6 20  34- 80 31 (1)
-16 Azucareros del CD Xicoténcatl      34  4  9 21  27- 75 26 (5)
-17 Halcones de Saltillo               34  5  5 24  27- 84 22 (2)
-18 Alazapas de Sabinas FC             34  3  3 28  24- 98 13 (1)
+<!-- $table50$ - Group 12 -->
 
 UAT: Universidad Autónoma de Tamaulipas
 * Filial Teams
 
-Group 13
- 1 Diablos Azules de Guasave          24 18  2  4  75- 26 56 (0) Qualified to Liguilla de Ascenso
- 2 Buhos de Hermosillo FC             24 14  6  4  45- 22 52 (4) Qualified to Liguilla de Ascenso
- 3 CD Dorados de Sinaloa            * 24 17  0  7  68- 27 51 (0) Qualified to Liguilla de Filiales
- 4 Heroes de Caborca                  24 13  6  5  53- 27 49 (4) Qualified to Liguilla de Ascenso
- 5 Xoloitzcuintles de Caliente      * 24 15  2  7  42- 19 48 (1) Qualified to Liguilla de Filiales
- 6 Generales de Navojoa               24 14  5  5  53- 33 48 (1) Qualified to Liguilla de Ascenso
- 7 Azucareros de Los Mochis           24  9  5 10  38- 39 34 (2)
- 8 Halcones de Tijuana                24 10  2 12  42- 37 33 (1)
- 9 CF Cachanillas de Mexicali         24  7  6 11  45- 53 29 (2)
-10 Misioneros de Ciudad Obregón AC    24  7  3 14  25- 38 27 (3)
-11 Deportivo Guamuchil FC             24  6  5 13  38- 62 26 (3)
-12 Delfines de Los Cabos FC           24  2  2 20  16- 89  9 (1)
-13 Atlante Santa Ana                  24  2  0 22  14- 82  6 (0)
+<!-- $table51$ - Group 13 -->
 
 * Filial Teams
 
-Group 14
- 1 Santos Laguna SC                 * 26 20  5  1  77- 18 68 (3) Qualified to Liguilla de Filiales
- 2 El Calor de la UVM                 26 16  6  4  70- 27 58 (4) Qualified to Liguilla de Ascenso
- 3 Dorados Inter                      26 15  5  6  56- 32 52 (2) Qualified to Liguilla de Ascenso
- 4 VdD-Dorados Fuerzas Básicas        26 16  3  7  37- 19 51 (0) (*) Qualified to Liguilla de Ascenso
- 5 Bachilleres de Chihuahua           26 15  3  8  51- 31 50 (2) Qualified to Liguilla de Ascenso
- 6 CD Coyotes de Parral FC            26 10  8  8  52- 43 43 (5)
- 7 CF Soles de Ciudad Juárez          26  9  7 10  33- 33 38 (4)
- 8 Real Magari FC                     26 10  5 11  37- 34 36 (1)
- 9 Futbol Premier                     26  6  8 12  33- 52 33 (7)
-10 Bachilleres de Ciudad Juarez       26  5 10 11  36- 59 29 (4)
-11 Chinarras de Aldama                26  8  1 17  33- 51 26 (1)
-12 Dep. Soccer Halcones de Jiménez    26  4  9 13  27- 47 25 (4) [!]
-13 Leones de Chihuahua FC             26  7  3 16  27- 76 25 (1)
-14 Arenales NE FC                     26  2  5 19  29- 76 12 (1)
+<!-- $table52$ - Group 14 -->
 
 UVM: Universidad del Valle de México
 [!] full name Deporticlub Soccer Halcones de Jiménez

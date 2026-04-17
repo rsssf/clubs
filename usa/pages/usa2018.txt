@@ -20,36 +20,9 @@ NB: Los Angeles FC were admitted
 
 Final Tables:
 
-Eastern Conference
- 1.New York Red Bulls         34  22  5  7  62-33  71       Conference Semifinals
- 2.Atlanta United FC          34  21  6  7  70-44  69       Conference Semifinals
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 3.New York City FC           34  16  8 10  59-45  56       Conference Quarterfinals
- 4.DC United                  34  14  9 11  60-50  51       Conference Quarterfinals
- 5.Columbus Crew              34  14  9 11  43-45  51       Conference Quarterfinals
- 6.Philadelphia Union         34  15  5 14  49-50  50       Conference Quarterfinals
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 7.Montreal Impact            34  14  4 16  47-53  46
- 8.New England Revolution     34  10 11 13  49-55  41
- 9.Toronto FC                 34  10  6 18  59-64  36  [C]
-10.Chicago Fire               34   8  8 18  48-61  32
-11.Orlando City SC            34   8  4 22  43-74  28
+<!-- $table1$ - Eastern Conference -->
 
-Western Conference
- 1.Sporting Kansas City       34  18  8  8  65-40  62       Conference Semifinals
- 2.Seattle Sounders           34  18  5 11  52-37  59       Conference Semifinals
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 3.Los Angeles FC             34  16  9  9  68-52  57  [N]  Conference Quarterfinals
- 4.FC Dallas                  34  16  9  9  52-44  57       Conference Quarterfinals
- 5.Portland Timbers           34  15  9 10  54-48  54       Conference Quarterfinals
- 6.Real Salt Lake             34  14  7 13  55-58  49       Conference Quarterfinals
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 7.Los Angeles Galaxy         34  13  9 12  66-64  48
- 8.Vancouver Whitecaps        34  13  8 13  54-67  47
- 9.Houston Dynamo             34  10  8 16  58-58  38
-10.Minnesota United FC        34  11  3 20  49-71  36
-11.Colorado Rapids            34   8  7 19  36-63  31
-12.San Jose Earthquakes       34   4  9 21  49-71  21
+<!-- $table2$ - Western Conference -->
 
 _ Mar 3 _
 Toronto FC             0-2 Columbus Crew
@@ -594,36 +567,9 @@ Vancouver Whitecaps    2-1 Portland Timbers
 
 Final Tables:
 
-Eastern Conference
- 1.New York Red Bulls         34  22  5  7  62-33  71       Conference Semifinals
- 2.Atlanta United FC          34  21  6  7  70-44  69       Conference Semifinals
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 3.New York City FC           34  16  8 10  59-45  56       Conference Quarterfinals
- 4.DC United                  34  14  9 11  60-50  51       Conference Quarterfinals
- 5.Columbus Crew              34  14  9 11  43-45  51       Conference Quarterfinals
- 6.Philadelphia Union         34  15  5 14  49-50  50       Conference Quarterfinals
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 7.Montreal Impact            34  14  4 16  47-53  46
- 8.New England Revolution     34  10 11 13  49-55  41
- 9.Toronto FC                 34  10  6 18  59-64  36  [C]
-10.Chicago Fire               34   8  8 18  48-61  32
-11.Orlando City SC            34   8  4 22  43-74  28
+<!-- $table3$ - Eastern Conference -->
 
-Western Conference
- 1.Sporting Kansas City       34  18  8  8  65-40  62       Conference Semifinals
- 2.Seattle Sounders           34  18  5 11  52-37  59       Conference Semifinals
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 3.Los Angeles FC             34  16  9  9  68-52  57  [N]  Conference Quarterfinals
- 4.FC Dallas                  34  16  9  9  52-44  57       Conference Quarterfinals
- 5.Portland Timbers           34  15  9 10  54-48  54       Conference Quarterfinals
- 6.Real Salt Lake             34  14  7 13  55-58  49       Conference Quarterfinals
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 7.Los Angeles Galaxy         34  13  9 12  66-64  48
- 8.Vancouver Whitecaps        34  13  8 13  54-67  47
- 9.Houston Dynamo             34  10  8 16  58-58  38
-10.Minnesota United FC        34  11  3 20  49-71  36
-11.Colorado Rapids            34   8  7 19  36-63  31
-12.San Jose Earthquakes       34   4  9 21  49-71  21
+<!-- $table4$ - Western Conference -->
 
 
 ▪ Championship Playoff ▪

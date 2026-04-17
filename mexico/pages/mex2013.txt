@@ -22,8 +22,7 @@ Apertura 2012  ‹§1aper›
 
 ▪ Regular Stage ▪
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Jul 20 _
@@ -418,8 +417,7 @@ Puebla             0-1 Querétaro
 Guadalajara        0-2 Tijuana
   (Alfredo David Moreno 1, Duvier Orlando Riascos 2)
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 <!-- $topscorers1$ -->
 
@@ -513,14 +511,7 @@ Copa Libertadores 2013 qualification
 
 NB: top-3 of Apertura 2012 Final Table qualify
 
- 1.Toluca                              17  10  4  3  28-17  34 [Copa Libertadores Group Phase]
- 2.Tijuana                             17   9  7  1  23-15  34 [Copa Libertadores Group Phase]
- 3.León                                17  10  3  4  34-17  33 [Copa Libertadores Prel. Round]
- 4.América                             17   8  7  2  28-15  31
- 5.Morelia                             17   6  9  2  25-16  27
- 6.Cruz Azul                           17   6  8  3  22-15  26
- 7.Monterrey                           17   5  8  4  23-23  23 [QF CONCACAF Ch. League]
- 8.Guadalajara                         17   6  5  6  17-17  23
+<!-- $table3$ -->
 
 NB: Toluca and Tijuana qualified to Group Phase,
     León qualified to Preliminary Round
@@ -533,8 +524,7 @@ Clausura 2012  ‹§1clau›
 
 ▪ Regular Stage ▪
 
-<!-- $table3$ -->
-
+<!-- $table4$ - Final Table -->
 
 NB: Querétaro are relegated and thus not eligible to enter the quarterfinals
 
@@ -930,8 +920,7 @@ Atlante            1-2 Pumas
   (Luis Gerardo Venegas 70; David Cabrera 20, Luis Javier García 55)
 
 
-<!-- $table4$ -->
-
+<!-- $table5$ - Final Table -->
 
 NB: Querétaro are relegated and thus not eligible to enter the quarterfinals
 
@@ -1075,62 +1064,20 @@ earn the extra point; if still tied no bonus point was awarded.
 
 Tables:
 
-Group 1
-
- 1.Dorados                              6   4  0  2  10-13   13 (qualified)
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.Morelia                              6   2  3  1  14- 6   11
- 3.León                                 6   2  3  1  11- 5   11
- 4. Estudiantes UAG                     6   0  2  4   2-13    2
+<!-- $table6$ - Group 1 -->
 
 
-Group 2
+<!-- $table7$ - Group 2 -->
 
- 1.Neza FC                              6   3  1  2   7- 8   11 (qualified)
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.Cruz Azul                            6   2  2  2   6- 4   10
- 3.Altamira                             6   2  2  2   6- 6    9
- 4.Atlas                                6   1  3  2   7- 8    7
+<!-- $table8$ - Group 3 -->
 
-Group 3
+<!-- $table9$ - Group 4 -->
 
- 1.Pachuca                              6   4  1  1   9- 2   16 (qualified)
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.La Piedad                            6   2  3  1   8- 6   10
- 3.Atlante                              6   1  3  2   3- 4    7
- 4.Leones Negros                        6   1  1  4   3-11    4
+<!-- $table10$ - Group 5 -->
 
-Group 4
+<!-- $table11$ - Group 6 -->
 
- 1.Necaxa                               6   3  2  1   9- 4   14 (qualified)
- 2.San Luis                             6   3  2  1   8- 5   13 (qualified)
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 3.Pumas Morelos                        6   1  2  3   6- 9    6
- 4.Jaguares                             6   1  2  3   4- 9    5
-
-Group 5
-
- 1.Correcaminos UAT                     6   3  2  1  12-13   13 (qualified)
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.América                              6   3  0  3  17- 9   12
- 3.Querétaro                            6   2  2  2  10-10    9
- 4.Veracruz                             6   1  2  3   6-13    5
-
-Group 6
-
- 1.Tijuana                              6   3  2  1   8- 6   13 (qualified)
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.Mérida                               6   3  1  2   8- 4   12
- 3.Pumas                                6   1  3  2   5- 7    6
- 4.Celaya                               6   1  2  3   4- 8    5
-
-Group 7
-
- 1.Toluca                               6   3  1  2  10- 7   12 (qualified)
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.Puebla                               6   3  0  3   7- 7   10
- 3.Irapuato                             6   3  0  3   8-12   10
- 4.Lobos BUAP                           6   2  1  3  10- 9    9
+<!-- $table12$ - Group 7 -->
 
 
 Group Phase
@@ -1337,62 +1284,20 @@ Tijuana           2-1 Pumas    [agg 4-3; Tijuana won a extra point]
 
 Tables:
 
-Group 1
-
- 1.Dorados                              6   4  0  2  10-13   13 (qualified)
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.Morelia                              6   2  3  1  14- 6   11
- 3.León                                 6   2  3  1  11- 5   11
- 4. Estudiantes UAG                     6   0  2  4   2-13    2
+<!-- $table13$ - Group 1 -->
 
 
-Group 2
+<!-- $table14$ - Group 2 -->
 
- 1.Neza FC                              6   3  1  2   7- 8   11 (qualified)
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.Cruz Azul                            6   2  2  2   6- 4   10
- 3.Altamira                             6   2  2  2   6- 6    9
- 4.Atlas                                6   1  3  2   7- 8    7
+<!-- $table15$ - Group 3 -->
 
-Group 3
+<!-- $table16$ - Group 4 -->
 
- 1.Pachuca                              6   4  1  1   9- 2   16 (qualified)
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.La Piedad                            6   2  3  1   8- 6   10
- 3.Atlante                              6   1  3  2   3- 4    7
- 4.Leones Negros                        6   1  1  4   3-11    4
+<!-- $table17$ - Group 5 -->
 
-Group 4
+<!-- $table18$ - Group 6 -->
 
- 1.Necaxa                               6   3  2  1   9- 4   14 (qualified)
- 2.San Luis                             6   3  2  1   8- 5   13 (qualified)
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 3.Pumas Morelos                        6   1  2  3   6- 9    6
- 4.Jaguares                             6   1  2  3   4- 9    5
-
-Group 5
-
- 1.Correcaminos UAT                     6   3  2  1  12-13   13 (qualified)
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.América                              6   3  0  3  17- 9   12
- 3.Querétaro                            6   2  2  2  10-10    9
- 4.Veracruz                             6   1  2  3   6-13    5
-
-Group 6
-
- 1.Tijuana                              6   3  2  1   8- 6   13 (qualified)
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.Mérida                               6   3  1  2   8- 4   12
- 3.Pumas                                6   1  3  2   5- 7    6
- 4.Celaya                               6   1  2  3   4- 8    5
-
-Group 7
-
- 1.Toluca                               6   3  1  2  10- 7   12 (qualified)
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.Puebla                               6   3  0  3   7- 7   10
- 3.Irapuato                             6   3  0  3   8-12   10
- 4.Lobos BUAP                           6   2  1  3  10- 9    9
+<!-- $table19$ - Group 7 -->
 
 
 
@@ -1486,58 +1391,22 @@ earn the extra point; if still tied no bonus point was awarded.
 
 Tables:
 
-Group 1
-
- 1.América                              6   5  0  1  17- 7   18 (qualified)
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.Necaxa                               6   4  0  2  10- 9   14
- 3.Neza FC                              6   2  1  3   8-10    8
- 4.Altamira                             6   0  1  5   4-13    1
+<!-- $table20$ - Group 1 -->
 
 
-Group 2
-
- 1.Estudiantes UAG                      6   3  2  1  10- 6   13 (qualified)
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.Querétaro                            6   2  4  0   6- 4   12
- 3.Veracruz                             6   1  2  3   5- 8    6
- 4.Morelia                              6   0  4  2   5- 8    5
+<!-- $table21$ - Group 2 -->
 
 
-Group 3
-
- 1.Cruz Azul                            6   4  1  1   8- 5   15 (qualified)
- 2.Atlas                                6   3  2  1  10- 5   14 (qualified)
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 3.Irapuato                             6   1  3  2   8- 7    7
- 4.Lobos BUAP                           6   0  2  4   1-10    2
+<!-- $table22$ - Group 3 -->
 
 
-Group 4
-
- 1.Puebla                               6   3  2  1  12- 6   13 (qualified)
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.Pumas UNAM                           6   2  3  1  12- 5   12
- 3.Mérida                               6   2  2  2   8-13    9
- 4.Celaya                               6   0  3  3   9-17    3
+<!-- $table23$ - Group 4 -->
 
 
-Group 5
-
- 1.Jaguares                             6   3  3  0   6- 3   15 (qualified)
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.San Luis                             6   3  1  2   9- 9   11
- 3.Cruz Azul Hidalgo                    6   1  2  3   8- 7    6
- 4.La Piedad                            6   1  2  3   4- 8    6
+<!-- $table24$ - Group 5 -->
 
 
-Group 6
-
- 1.Pachuca                              6   4  0  2  15-10   15 (qualified)
- 2.Atlante                              6   4  1  1  11- 6   15 (qualified)
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 3.Dorados                              6   1  2  3  10-13    5
- 4.Correcaminos UAT                     6   1  1  4   6-13    5
+<!-- $table25$ - Group 6 -->
 
 
 Group Phase
@@ -1725,58 +1594,22 @@ Cruz Azul Hidalgo 1-1 La Piedad         [agg 1-2; La Piedad won a extra point]
 
 Tables:
 
-Group 1
-
- 1.América                              6   5  0  1  17- 7   18 (qualified)
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.Necaxa                               6   4  0  2  10- 9   14
- 3.Neza FC                              6   2  1  3   8-10    8
- 4.Altamira                             6   0  1  5   4-13    1
+<!-- $table26$ - Group 1 -->
 
 
-Group 2
-
- 1.Estudiantes UAG                      6   3  2  1  10- 6   13 (qualified)
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.Querétaro                            6   2  4  0   6- 4   12
- 3.Veracruz                             6   1  2  3   5- 8    6
- 4.Morelia                              6   0  4  2   5- 8    5
+<!-- $table27$ - Group 2 -->
 
 
-Group 3
-
- 1.Cruz Azul                            6   4  1  1   8- 5   15 (qualified)
- 2.Atlas                                6   3  2  1  10- 5   14 (qualified)
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 3.Irapuato                             6   1  3  2   8- 7    7
- 4.Lobos BUAP                           6   0  2  4   1-10    2
+<!-- $table28$ - Group 3 -->
 
 
-Group 4
-
- 1.Puebla                               6   3  2  1  12- 6   13 (qualified)
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.Pumas UNAM                           6   2  3  1  12- 5   12
- 3.Mérida                               6   2  2  2   8-13    9
- 4.Celaya                               6   0  3  3   9-17    3
+<!-- $table29$ - Group 4 -->
 
 
-Group 5
-
- 1.Jaguares                             6   3  3  0   6- 3   15 (qualified)
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.San Luis                             6   3  1  2   9- 9   11
- 3.Cruz Azul Hidalgo                    6   1  2  3   8- 7    6
- 4.La Piedad                            6   1  2  3   4- 8    6
+<!-- $table30$ - Group 5 -->
 
 
-Group 6
-
- 1.Pachuca                              6   4  0  2  15-10   15 (qualified)
- 2.Atlante                              6   4  1  1  11- 6   15 (qualified)
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 3.Dorados                              6   1  2  3  10-13    5
- 4.Correcaminos UAT                     6   1  1  4   6-13    5
+<!-- $table31$ - Group 6 -->
 
 
 ▪ Playoff Stage ▪
@@ -1901,8 +1734,7 @@ NB: All clubs are "certified clubs";
     winners qualify to semifinals;
     clubs finishing 2nd to 7th qualify to quarterfinals.
 
-<!-- $table5$ -->
-
+<!-- $table32$ - Table -->
 
 
 NB: All clubs are "certified clubs";
@@ -2105,8 +1937,7 @@ La Piedad         5-0 Dorados
 Pumas Morelos     bye
 
 
-<!-- $table6$ -->
-
+<!-- $table33$ - Table -->
 
 
 ▪ Playoff Stage ▪
@@ -2187,8 +2018,7 @@ NB: All clubs are "certified clubs";
     winners qualify to semifinals;
     clubs finishing 2nd to 7th qualify to quarterfinals.
 
-<!-- $table7$ -->
-
+<!-- $table34$ - Table -->
 
 
 NB: All clubs are "certified clubs";
@@ -2390,8 +2220,7 @@ Neza              1-0 Lobos BUAP
 Pumas Morelos     bye
 
 
-<!-- $table8$ -->
-
+<!-- $table35$ - Table -->
 
 
 Relegation Table

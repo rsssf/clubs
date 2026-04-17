@@ -13,19 +13,9 @@
 Final Tables:
 
                            GP   W  WS  LS   L   GF  GA   Pts
-  Eastern Conference
-Tampa Bay Mutiny           32  19   1   3   9   66  51   58
-DC United                  32  15   1   3  13   62  56   46
-NY/NJ MetroStars           32  12   3   2  15   45  47   39
-Columbus Crew              32  11   4   5  12   59  60   37
-New England Revolution     32   9   6   2  15   43  56   33
+<!-- $table1$ - Eastern Conference -->
 
-  Western Conference
-Los Angeles Galaxy         32  15   4   4   9   59  49   49
-Dallas Burn                32  12   5   3  12   50  48   41
-Kansas City Wiz            32  12   5   2  13   61  63   41
-San Jose Clash             32  12   3   6  11   50  50   39
-Colorado Rapids            32   9   2   4  17   44  59   29
+<!-- $table2$ - Western Conference -->
 
 _ Apr 6 _
 DC United   0-1 San Jose    (31,683)
@@ -594,19 +584,9 @@ Dallas      1-2 Los Angeles (18,347)
 Final Tables:
 
                            GP   W  WS  LS   L   GF  GA   Pts
-  Eastern Conference
-Tampa Bay Mutiny           32  19   1   3   9   66  51   58
-DC United                  32  15   1   3  13   62  56   46
-NY/NJ MetroStars           32  12   3   2  15   45  47   39
-Columbus Crew              32  11   4   5  12   59  60   37
-New England Revolution     32   9   6   2  15   43  56   33
+<!-- $table3$ - Eastern Conference -->
 
-  Western Conference
-Los Angeles Galaxy         32  15   4   4   9   59  49   49
-Dallas Burn                32  12   5   3  12   50  48   41
-Kansas City Wiz            32  12   5   2  13   61  63   41
-San Jose Clash             32  12   3   6  11   50  50   39
-Colorado Rapids            32   9   2   4  17   44  59   29
+<!-- $table4$ - Western Conference -->
 
 ▪ Playoffs ▪
 
@@ -685,16 +665,7 @@ DC United   3-2 Los Angeles (aet) (34,643)
 
 
 
-                             A-LEAGUE (2nd Division)
-
-                           GP   W   L  SW   GF  GA  Pts
-Montreal Impact            27  17   6   4   40  18   55
-Colorado Foxes             27  14  11   2   55  33   44
-Seattle Sounders           27  12  11   4   35  25   40
-Rochester Rhinos           27  11  13   3   44  42   36
-Vancouver 86ers            27  10  14   3   38  38   33
-New York Fever             27   6  18   3   30  40   21
-Atlanta Ruckus             22   3  19   0   14  60    9
+<!-- $table5$ - A-LEAGUE (2nd Division) -->
 
 Semi-finals:    Rochester defeated Montreal, 3-2, 0-3, 2-1
                 Seattle defeated Colorado, 1-0, 0-2, 3-0
@@ -711,35 +682,14 @@ Monterey Bay became California.
 
                                GP   W  L SW  GF  GA  PTS
      EASTERN CONFERENCE
-     North Atlantic Division
-Long Island Rough Riders       18  11  7  0  39  31  33
-Richmond Kickers               18  10  8  0  34  24  28
-Connecticut Wolves             18  11  7  4  37  31  25
-Delaware Wizards               18   6 12  1  20  29  16
-Cape Cod Crusaders             18   5 13  1  13  24   9
-New York/New Jersey Stallions  18   2 16  0  19  52   6
+<!-- $table6$ - North Atlantic Division -->
 
-     South Atlantic Division
-Carolina Dynamo                18  15  3  1  37  15  43
-South Carolina Shamrocks       18  12  6  1  42  31  34
-Hampton Roads Mariners         18  13  5  4  32  15  31
-Tampa Bay Cyclones             18  10  8  1  40  32  28
-Raleigh Flyers                 18   7 11  0  25  26  21
+<!-- $table7$ - South Atlantic Division -->
 
      WESTERN CONFERENCE
-     Central Division
-Milwaukee Rampage              18  13  5  3  36  19  33
-Minnesota Thunder              18  10  8  0  31  16  30
-New Orleans Riverboat Gamblers 18   9  9  2  31  36  23
-Ohio Xoggz                     18   6 12  1  26  34  16
-Chicago Stingers               18   5 13  1  29  41  13
+<!-- $table8$ - Central Division -->
 
-     Pacific Division
-California Jaguars             18  12  6  1  30  21  34
-Sacramento Scorpions           18  11  7  2  23  22  29
-El Paso Patriots               18  10  8  1  30  23  28
-New Mexico Chiles              18   9  9  0  24  24  27
-Reno Rattlers                  18   6 12  5  13  33   8
+<!-- $table9$ - Pacific Division -->
 
 1st Round:    Delaware defeated Connecticut 3-2
               Hampton Roads defeated South Carolina 3-2 (SO)
@@ -765,40 +715,13 @@ CHAMPIONSHIP: California defeated Richmond 2-1 (SO)
                       USISL Pro League (3rd Division)
 
                                GP   W  L SW  GF  GA  PTS
-     NORTHEAST CONFERENCE
-Central Jersey Riptide         16  13  3  2  44  24  35
-North Jersey Imperials         16  11  5  0  42  26  33
-Rhode Island Stingrays         16  10  6  0  36  20  30
-Reading Rage                   16  10  6  1  39  31  28
-Philadelphia Freedom           16  10  6  2  40  25  26
-New Hampshire Phantoms         16   9  7  1  32  40  25
-Baltimore Bays                 16   5 11  0  19  34  15
-Albany Alleycats               16   4 12  0  33  44  12
-Worcester Wildfire             16   1 15  1  19  57   1
+<!-- $table10$ - NORTHEAST CONFERENCE -->
 
-     SOUTH ATLANTIC CONFERENCE
-Charlotte Eagles               16  12  4  0  49  25  36
-Charleston Battery             16  12  4  1  46  23  34
-Wilmington Hammerheads         16   7  9  1  20  30  19
-Washington Mustangs            16   6 10  0  25  37  18
-Mobile Revelers                16   5 11  2  15  33  11
-Chattanooga Express            16   1 15  0  18  55   3
+<!-- $table11$ - SOUTH ATLANTIC CONFERENCE -->
 
-     CENTRAL CONFERENCE
-Dallas/Ft. Worth Toros         16   9  7  0  33  31  27
-Rockford Raptors               16   9  7  1  34  28  25
-Tulsa Roughnecks               16   8  8  0  38  34  24
-San Antonio Pumas              16   6 10  0  25  37  18
-Houston Hurricanes             16   5 11  0  28  43  15
+<!-- $table12$ - CENTRAL CONFERENCE -->
 
-     WESTERN CONFERENCE
-Everett Bigfoot                16  10  6  3  27  20  24
-S. F. Valley Golden Eagles     16  10  6  3  20  22  24
-Yakima Reds                    16   8  8  0  29  20  24
-Chico Rooks                    16  10  6  1  23  16  28
-Hawaii Tsumani                 16  10  6  0  31  19  30
-Cascade Surge                  16   7  9  0  33  23  22
-Central Valley (CA) Hydra      16   3 13  0  16  48   9
+<!-- $table13$ - WESTERN CONFERENCE -->
 
 Conference Semifinals:   North Jersey defeated Rhode Island 3-1
                          Central Jersey defeated Reading 2-1
@@ -828,53 +751,19 @@ CHAMPIONSHIP:            Charleston defeated Charlotte 3-2 (SO)
 
                                GP   W  L SW  GF  GA  PTS
      EASTERN CONFERENCE
-     Northern Division
-Jackson Cougars                14   8  6  1  34  24  22
-Roanoke Riverdawgs             14  10  4  0  49  26  30
-Birmingham Grasshoppers        14   4 10  0  20  33  12
-Nashville Metros               14   7  7  2  34  26  17
+<!-- $table14$ - Northern Division -->
 
-     Southern Division
-Cocoa Expos                    14  10  4  1  45  22  28
-Orlando Lions                  14   9  5  1  25  28  25
-Florida Strikers               14   7  7  1  31  33  19
-West Florida Fury              14   5  9  0  29  36  15
-Miami Tango                    14   4 10  0  29  37  12
-South Florida Future           14   0 14  0  17  63   0
+<!-- $table15$ - Southern Division -->
 
      CENTRAL CONFERENCE
-     Northern Division
-Lexington Bluegrass Bandits    14  10  4  1  32  18  28
-Michigan Madness               14   9  5  1  22  26  25
-Mid-Michigan Bucks             14   8  6  1  24  18  22
-Detroit Dynamite               14   8  6  1  34  19  22
-Kalamazoo Kingdom              14   5  9  0  18  22  15
-Grand Rapids Explosion**        7   0  7  0   6  21   0
+<!-- $table16$ - Northern Division -->
 
-     Southern Division
-Austin Lone Stars              14  10  4  0  41  17  30
-Omaha Flames                   14   8  6  0  39  22  24
-Sioux City Breeze              13   9  4  2  26  23  23
-Oklahoma City Heat             14   7  7  0  22  26  21
-Des Moines Menace              14   7  7  0  22  21  21
-Wichita Blue                   13   5  8  0  18  33  15
+<!-- $table17$ - Southern Division -->
 
      WESTERN CONFERENCE
-     Northern Division
-Spokane Shadow                 14  12  2  1  34  17  34
-San Francisco Bay Seals        14  10  4  0  35  15  30
-Puget Sound Hammers            14   8  6  0  31  23  24
-Colorado Springs Stampede      14   9  5  1  20  12  25
-Willamette Valley Firebirds    14   5  9  0  21  31  15
-Bellingham Orcas               14   3 11  0  17  50   9
+<!-- $table18$ - Northern Division -->
 
-     Southern Division
-Central Coast Roadrunners      14  12  2  1  38  16  34
-San Diego Top Guns             14   9  5  1  28  22  25
-Arizona Phoenix                14   7  7  0  32  31  21
-Tucson Amigos                  14   7  7  0  24  29  21
-Fontana Falcons                14   5  9  0  31  32  15
-Southern California Gunners    14   3 11  0  19  28   9
+<!-- $table19$ - Southern Division -->
 
 **  Grand Rapids did not play any home games due to lack of a home field.
 
@@ -936,35 +825,11 @@ CHAMPIONSHIP:   Monterrey defeated Houston, 10-6, 6-5.
            UNITED STATES WOMEN'S INTERREGIONAL SOCCER LEAGUE
 
                                GP   W  L SW  GF  GA  PTS
-     East Region
-Maryland Pride                 10   9  1  0  34  11  27
-Long Island Lady Riders        10   7  3  0  18   9  21
-Connecticut Lady Wolves        10   6  4  0  20  14  18
-Rochester Ravens               10   5  5  2  20  11  17
-Hampton Roads Piranhas         10   5  5  0  16  12  15
-New Jersey Wildcats            10   5  5  1  19  26  13
-Boston Renegades                9   5  4  1  14  12  13
-Alabama Angels                  5   3  2  0  11   9   9
-Rhode Island Lady Rays         10   1  9  0  13  32   3
-Philadelphia Frenzy            10   4  6  0  16  18   2
-Lehigh Valley Cougars           3   0  3  0   ?   ?   0
+<!-- $table20$ - East Region -->
 
-     Central Region
-Dallas Lightening              10   9  1  0  41  10  27
-Chicago Cobras                 10   8  2  0  35  11  24
-Columbus Ziggx                 10   7  3  0  27  15  21
-Rockford Dactyls                9   4  5  0  21  23  12
-Cleveland Eclipse               5   3  2  0  17  10   9
-Madison Freeze                  6   2  4  0   9  16   6
-Buffalo Ffillies               10   0 10  0   6  41   0
+<!-- $table21$ - Central Region -->
 
-     West Region
-Denver Diamonds                10   8  2  0  23   8  24
-Nitemares of South. California 10   7  3  0  24  15  21
-Silicon Valley Red Devils      10   7  3  1  26  20  19
-Sacramento Storm               10   6  4  0  20  18  18
-San Francisco Night Hawks       9   4  5  0  11  15  12
-NorCal Shockwaves              10   1  9  1  11  23   1
+<!-- $table22$ - West Region -->
 
 1st Round:      Dallas defeated Rockford 4-0
                 Denver defeated Chicago 3-0.

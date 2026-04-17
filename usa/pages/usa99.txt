@@ -478,43 +478,13 @@ DC United     2-0 Los Angeles G
 Worcester moved to Boston.
 
                             GP   W   L  SW  SL   GF  GA  BP  Pts
-     Northeast Division
-Rochester Rhinos            28  22   6   2   1   47  20   7   92
-Staten Island Vipers        28  19   9   2   1   53  31   9   82
-Long Island Rough Riders    28  18  10   3   0   57  44   8   74
-Pittsburgh Riverdogs        28  16  12   1   1   63  43   9   72
-Lehigh Valley Steam         28  15  13   2   1   42  44   6   63
-Boston Bulldogs             28  12  16   0   6   49  36   8   61
-Toronto Lynx                28  12  16   0   5   49  36   8   51
-Connecticut Wolves          28   7  21   0   1   32  68   5   34
+<!-- $table1$ - Northeast Division -->
 
-     Atlantic Division
-Hershey Wildcats            28  17  11   2   1   54  33  10   75
-Richmond Kickers            28  17  11   3   1   51  44   6   69
-Charleston Battery          28  15  13   3   2   43  39   6   62
-Jacksonville Cyclones       28  13  15   1   1   51  61   9   59
-Atlanta Silverbacks         28  15  13   1   1   51  61   9   59
-Hampton Roads Mariners      28  15  13   5   2   45  41   5   57
-Raleigh Express             28  11  17   2   2   32  50   5   47
-Maryland Mania              28   3  25   1   1   16  85   2   13
+<!-- $table2$ - Atlantic Division -->
 
-     Central Division
-Minnesota Thunder           28  22   6   4   4   57  17   6   88
-US Project 40 Select        28  17  11   2   0   44  46   4   66
-New Orleans Storm           28  14  14   0   0   56  61  11   66
-Indiana Blast               28  13  15   2   2   43  51   5   55
-Milwaukee Rampage           28  13  15   2   1   44  49   5   54
-Tennessee Rhythym           28  11  17   2   3   44  52   6   49
-Cincinnati Riverhawks       28   7  21   2   3   45  71   7   34
+<!-- $table3$ - Central Division -->
 
-     Pacific Division
-San Diego Flash             28  20   8   2   3   65  30  11   90
-Vancouver 86ers             28  19   9   2   2   77  31  10   84
-Seattle Sounders            28  19   9   3   1   56  36  10   81
-Orange County Zodiac        28  17  11   4   3   59  49  10   73
-El Paso Patriots            28  12  16   0   2   49  59   6   55
-San Francisco Bay Blackhawks28   9  19   2   4   37  54   4   40
-Sacramento Geckos           28   0  28   0   1   16  91   0    1
+<!-- $table4$ - Pacific Division -->
 
 Round of 16:          Rochester defeated Lehigh Valley, 2-1.
                       San Diego defeated El Paso, 3-1
@@ -536,37 +506,11 @@ CHAMPIONSHIP:         Minnesota defeated Rochester 2-1.
 North Jersey returned from hiatus.
 
                             GP   W   L  SW  SL   GF  GA  BP  Pts
-     Northern Division
-Western Mass Pioneers       18  14   4   1   0   56  28  10   64
-South Jersey Barons         18  16   2   1   0   43  23   9   63
-New Hampshire Phantoms      18  13   5   0   0   48  27  10   62
-New Jersey Stallions        18  11   7   3   0   42  32   8   46
-Reading Rage                18  10   8   1   0   33  39   7   45
-Delaware Wizards            18   6  12   0   3   31  39   8   35
-Cape Cod Crusaders          18   7  11   0   2   33  29   5   35
-North Jersey Imperials      18   5  13   0   2   42  55   6   28
-Rhode Island Stingays       18   5  13   0   3   38  45   5   28
+<!-- $table5$ - Northern Division -->
 
-     Atlantic Division
-Charlotte Eagles            18  14   4   1   0   43  23   9   63
-Wilmington Hammerheads      18  14   4   1   0   44  17   5   59
-Carolina Dynamo             18  12   6   1   0   43  31   8   54
-Northern Virginia Royals    18  10   8   0   1   33  36   5   46
-South Carolina Shamrocks    18   9   9   0   1   42  28   7   44
-Roanoke Wrath               18  10   8   2   0   37  40   7   43
-Myrtle Beach Seadawgs       18   4  14   0   1   27  38   3   20
-Eastern Shore Sharks        18   2  16   1   0   18  81   2    8
+<!-- $table6$ - Atlantic Division -->
 
-     Western Division
-Chico Rooks                 18  15   3   0   1   53  20  10   71
-Texas Toros                 18  14   4   1   2   54  21   9   65
-Arizona Sahuaros            18  13   5   0   0   54  30  10   62
-California Jaguars          18  13   5   2   0   54  31  11   59
-Austin Lone Stars           18   8  10   1   1   42  37   8   39
-Tulsa Roughnecks            18   7  11   0   0   34  53   6   34
-Los Angeles Fireballs       18   5  13   1   0   32  80   5   23
-Houston Hurricanes          18   5  13   1   2   30  58   5   22
-Stanislaus County Cruisers  18   4  14   3   3   25  47   3   16
+<!-- $table7$ - Western Division -->
 
 First Round:            Northern Virginia defeated South Carolina, 2-1 (SO)
 Conference Semifinals:  Western Mass defeated Reading, 4-0
@@ -588,61 +532,19 @@ CHAMPIONSHIP:           Western Mass. Defeated South Jersey, 2-1.
 
                             GP   W   L  SW  SL   GF  GA  BP  Pts
      EASTERN CONFERENCE
-     Northeast Division
-New York Freedom            16  11   5   1   1   40  27   9   52
-Central Jersey Riptide      16   8   8   0   1   40  28   9   36
-Brooklyn Knights            16   7   9   2   0   29  42   5   29
-Westchester Flames          16   7   9   1   0   19  32   3   29
-Vermont Voltage             16   4  12   0   1   26  42   4   21
-NY Capital DistrictAlleycats16   2  14   0   0   18  65   1    9
+<!-- $table8$ - Northeast Division -->
 
-     Southeast Division
-Jackson Chargers            16  14   2   0   0   67  12  11   67
-Cocoa Expos                 16  12   4   2   0   58  24  10   54
-Central Florida Kraze       16  10   6   0   1   47  23   8   49
-Miami Breakers              16   9   7   1   0   29  32   6   40
-Bradenton Academics         16   8   8   0   1   28  32   5   38
-Clarksville Gunners         16   6  10   1   1   28  37   3   26
-Miami Tango                 16   5  11   1   0   25  61   5   23
-Lexington Bluegrass Bandits  6   3   3   0   0   17  14   4   16
-Orlando Nighthawks          16   1  15   0   1   13  63   0    5
+<!-- $table9$ - Southeast Division -->
 
      CENTRAL CONFERENCE
-     Great Lakes Division
-Mid Michigan Bucks          16  14   2   1   0   62  14  11   65
-Chicago Sockers             16  12   4   1   1   41  14   7   54
-Wisconsin Rebels            16  11   5   1   0   45  37   9   51
-Indiana Invaders            16   7   9   0   0   34  44   7   35
-Kalamazoo Kingdom           16   6  10   1   1   28  45   5   28
-Rockford Raptors            16   2  14   0   2   23  61   3   13
-West Michigan Explosion     16   2  14   0   0   17  49   2    5
+<!-- $table10$ - Great Lakes Division -->
 
-     Heartland Division
-Twin Cities Tornado         16  14   2   0   0   55  18   9   65
-Sioux City Breeze           16  13   3   0   0   52  25   9   61
-Colorado Comets             15   8   7   0   1   48  33   9   42
-Des Moines Menace           16   7   9   0   1   33  36   5   34
-Kansas City Brass           16   6  10   2   0   23  38   4   24
-Team St. Louis               6   5   1   0   0   28   8   4   24
-Wichita Blue                11   3   8   0   2   13  43   2   16
-Colorado Springs Stampede   15   3  12   2   0   21  52   2   10
+<!-- $table11$ - Heartland Division -->
 
      WESTERN CONFERENCE
-     Southwest Division
-San Fernando Valley Heroes  16  13   3   4   0   53  21   8   52
-Central Coast Roadrunners   16   8   8   1   1   32  24   7   38
-Nevada Zephyrs              16   7   9   0   0   26  31   4   32
-San Gabriel Val. Highlanders16   6  10   0   0   33  51   6   27
-Silicon Valley Ambassadors  16   5  11   0   2   23  44   2   24
-Tucson Amigos               16   3  13   0   2   23  41   1   15
+<!-- $table12$ - Southwest Division -->
 
-     Northwest Division
-Willamette Valley Firebirds 16  14   2   0   0   54  20  10   66
-Spokane Flyers              16  10   6   0   0   36  21   8   48
-Abbotsford 86ers            16   8   8   0   1   36  32   7   40
-Seattle Sounders Select     16   8   8   2   0   19  32   1   29
-Yakima Reds                 16   6  10   1   1   31  43   6   29
-Cascade Surge               16   2  14   0   1   19  47   3   12
+<!-- $table13$ - Northwest Division -->
 
 Conference Semifinals:   Jackson defeated Brooklyn, 9-1.
                          New York defeated Cocoa, 3-1.
@@ -664,27 +566,11 @@ W-LEAGUE
                       W-1 Division
 
                             GP   W   L  SW  SL   GF  GA  BP  Pts
-     North Division
-Maryland Pride              14  10   4   0   1   43  16   7   48
-Long Island Lady Riders     14  10   4   1   1   30  12   7   46
-Boston Renegades            14  11   3   2   1   35  12   4   45
-New Jersey Lady Stallions   14   9   5   1   2   39  21   4   40
-Laval Dynamites             14   5   9   0   1   19  28   3   24
-Delaware Genies             14   2  12   2   0   5   47   0    4
+<!-- $table14$ - North Division -->
 
-     Central Division
-Chicago Cobras              14  14   0   0   0   54   4  10   66
-Denver Diamonds             14  12   2   0   0   36  10  10   58
-Ft. Collins Force           14   6   8   0   1   18  28   1   26
-Toronto Inferno             14   3  11   0   0   24  40   3   15
-Rochester Ravens            14   2  12   0   1   10  38   1   10
+<!-- $table15$ - Central Division -->
 
-     South Division
-Raleigh Wings               14  13   1   1   0   51   5   8   58
-Atlanta Classics            14  10   4   0   0   52  21   8   48
-Tampa Bay Extreme           14   8   6   1   0   20  28   3   33
-Charlotte Speed             14   4  10   0   1   19  45   2   19
-Jackson Chargers            14   1  13   0   0   8   52   1    5
+<!-- $table16$ - South Division -->
 
 First Round:            Maryland defated Long Island, 4-1.
                         Atlanta defeated Tampa Bay, 1-0.
@@ -697,32 +583,14 @@ CHAMPIONSHIP:           Raleigh defeated Chicago, 2-2 (3-2 SO).
                            W-2 Division
 
                             GP   W   L  SW  SL   GF  GA  BP  Pts
-     North Division
-Springfield Sirens          12   9   3   0   0   27  10   5   41
-New York Magic              14   8   4   0   0   45  17   6   38
-Central Jersey Splash       12   8   4   0   0   30  15   5   37
-New Jersey Wildcats         12   4   8   0   1   29  37   3   17
-Rhode Island Rays           11   3   8   0   0   11  36   1   13
-New Hampshire Lady Phantoms 12   1  11   1   0   10  61   0    0
+<!-- $table17$ - North Division -->
 
-     South Division
-Piedmont Spark              12   9   3   0   1   33  22   6   43
-Hampton Roads Piranhas      12   8   4   0   0   32  23   7   39
-Jacksonville Jade           12   6   6   1   0   20  22   2   24
-Miami Gliders               11   4   7   1   0   16  19   3   11
-Northern Virginia Majestics 11   0  11   0   0   10  53   0    0
+<!-- $table18$ - South Division -->
 
      Central Division
-         Midwest
-Indiana Blaze               12   8   4   0   0   33  16   7   39
-Cleveland Eclipse           12   8   4   0   0   31  18   6   38
-Kalamazoo Quest             12   5   7   1   0   15  35   3   21
-Rockford Dactyls            12   1  11   0   1   11  35   2    7
+<!-- $table19$ - Midwest -->
 
-         Southwest
-North Texas Heat            10   8   2   0   1   46   8   7   40
-Austin Lady Lone Stars      10   6   4   1   0   23  16   3   25
-Houston Tornados            10   2   8   0   0   11  28   1    9
+<!-- $table20$ - Southwest -->
 
 First Round:           Hampton Roads defeated Piedmont, 1-0.
                        New York defeated Central Jersey, 4-3 (SO)
@@ -735,20 +603,9 @@ CHAMPIONSHIP:          North Texas defeated Springfield, 5-1.
 WOMEN'S PREMIER SOCCER LEAGUE
 
                           GP   W   T   L   GF  GA  Pt
-     First Division
-California Storm          12  10   1   1   51  13  31
-San Diego Auto Trader     12   8   1   3   30   9  25
-Ajax Southern Cal         12   7   4   1   30  12  25
-Silicon Valley Red Devils 12   5   3   4   50  23  18
-San Francisco Nighthawks  12   2   3   7   25  22   9
+<!-- $table21$ - First Division -->
 
-     Second Division
-NorCal Shockwaves         12   4   2   6   19  33  14
-Thunder (Sacramento)      12   1   2   9   10  46   5
-Reno Zephyrs FC            3   1   0   2    5  10   3
-San Francisco Skyhawks     9   1   0   8    6  44   3
-Las Vegas Shooters         3   0   0   3    4  22   0
-Utah Spiders               (folded before beginning of season)
+<!-- $table22$ - Second Division -->
 
 Note:  San Francisco folded during season, and their games against
 Division 1 opponents are not counted in Division 1 standings.

@@ -18,32 +18,9 @@
 
 Final Tables:
 
-Eastern Conference
- 1.DC United                  34  17  8  9  52-37  59  ‹Eastern Semifinals, see §esemi›
- 2.New England Revolution     34  17  4 13  51-46  55  ‹Eastern Semifinals, see §esemi›
- 3.Columbus Crew              34  14 10 10  52-42  52  ‹Eastern Semifinals, see §esemi›
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 4.New York Red Bulls         34  13 11 10  55-50  50  ‹Wild Card Games, see §wcard›
- 5.Sporting Kansas City       34  14  7 13  48-41  49  ‹Wild Card Games, see §wcard›
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 6.Philadelphia Union         34  10 12 12  51-51  42
- 7.Toronto FC                 34  11  8 15  44-54  41
- 8.Houston Dynamo             34  11  6 17  39-58  39
- 9.Chicago Fire               34   6 18 10  41-51  36
-10.Montreal Impact            34   6 10 18  38-58  28
+<!-- $table1$ - Eastern Conference -->
 
-Western Conference
- 1.Seattle Sounders           34  20  4 10  65-50  64  ‹Western Semifinals, see §wsemi›
- 2.Los Angeles Galaxy         34  17 10  7  69-37  61  ‹Western Semifinals, see §wsemi›
- 3.Real Salt Lake             34  15 11  8  54-39  56  ‹Western Semifinals, see §wsemi›
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 4.FC Dallas                  34  16  6 12  55-45  54  ‹Wild Card Games, see §wcard›
- 5.Vancouver Whitecaps        34  12 14  8  42-40  50  ‹Wild Card Games, see §wcard›
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 6.Portland Timbers           34  12 13  9  61-52  49
- 7.Chivas USA                 34   9  6 19  29-61  33
- 8.Colorado Rapids            34   8  8 18  43-62  32
- 9.San Jose Earthquakes       34   6 12 16  35-50  30
+<!-- $table2$ - Western Conference -->
 
 _ Mar 8 _
 Seattle Sounders       1-0 Sporting Kansas City
@@ -531,32 +508,9 @@ Sporting Kansas City   0-2 New York Red Bulls
 
 Final Tables:
 
-Eastern Conference
- 1.DC United                  34  17  8  9  52-37  59  ‹Eastern Semifinals, see §esemi›
- 2.New England Revolution     34  17  4 13  51-46  55  ‹Eastern Semifinals, see §esemi›
- 3.Columbus Crew              34  14 10 10  52-42  52  ‹Eastern Semifinals, see §esemi›
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 4.New York Red Bulls         34  13 11 10  55-50  50  ‹Wild Card Games, see §wcard›
- 5.Sporting Kansas City       34  14  7 13  48-41  49  ‹Wild Card Games, see §wcard›
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 6.Philadelphia Union         34  10 12 12  51-51  42
- 7.Toronto FC                 34  11  8 15  44-54  41
- 8.Houston Dynamo             34  11  6 17  39-58  39
- 9.Chicago Fire               34   6 18 10  41-51  36
-10.Montreal Impact            34   6 10 18  38-58  28
+<!-- $table3$ - Eastern Conference -->
 
-Western Conference
- 1.Seattle Sounders           34  20  4 10  65-50  64  ‹Western Semifinals, see §wsemi›
- 2.Los Angeles Galaxy         34  17 10  7  69-37  61  ‹Western Semifinals, see §wsemi›
- 3.Real Salt Lake             34  15 11  8  54-39  56  ‹Western Semifinals, see §wsemi›
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 4.FC Dallas                  34  16  6 12  55-45  54  ‹Wild Card Games, see §wcard›
- 5.Vancouver Whitecaps        34  12 14  8  42-40  50  ‹Wild Card Games, see §wcard›
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 6.Portland Timbers           34  12 13  9  61-52  49
- 7.Chivas USA                 34   9  6 19  29-61  33
- 8.Colorado Rapids            34   8  8 18  43-62  32
- 9.San Jose Earthquakes       34   6 12 16  35-50  30
+<!-- $table4$ - Western Conference -->
 
 
 ▪ Championship Playoff ▪

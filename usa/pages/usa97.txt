@@ -11,19 +11,9 @@
                          MAJOR LEAGUE SOCCER (1st Division)
 
                            GP   W  WS  LS   L   GF  GA   Pts
-  Eastern Conference
-DC United                  32  17   4   4   7   70  53   55
-Tampa Bay Mutiny           32  14   3   2  13   55  60   45
-Columbus Crew              32  12   3   4  13   42  41   39
-New England Revolution     32  11   4   4  13   40  53   37
-NY/NJ MetroStars           32  11   2   2  17   43  53   35
+<!-- $table1$ - Eastern Conference -->
 
-  Western Conference
-Kansas City Wizards        32  14   7   2   9   57  51   49
-Los Angeles Galaxy         32  14   2   4  12   55  44   44
-Dallas Burn                32  13   3   2  14   55  49   42
-Colorado Rapids            32  12   2   3  15   50  59   38
-San Jose Clash             32   9   3   6  14   55  59   30
+<!-- $table2$ - Western Conference -->
 
 Conference Semifinals:   D. C. United defeated New England, 4-1, 2-1(SO)
                          Columbus defeated Tampa Bay 2-1, 1-0
@@ -37,37 +27,13 @@ MLS CUP '97              D. C. United defeated Colorado, 2-1
                           A-LEAGUE (2nd Division)
 
                                GP   W  SW  SL   L   GF  GA  Pts
-     Northeast Division
-Montreal Impact                28  20   1   1   6   58  19   61
-Rochester Raging Rhinos        28  14   0   5   9   56  47   42
-Long Island Rough Riders       28  13   3   2  10   44  36   42
-Toronto Lynx                   28  12   2   0  14   44  43   38
-Connecticut Wolves             28   8   4   1  15   31  45   28
-Worcester Wildfire             28   6   1   2  19   26  61   19
+<!-- $table3$ - Northeast Division -->
 
-     Atlantic Division
-Hershey Wildcats               28  18   1   1   8   56  33   55
-Carolina Dynamo                28  16   2   2   8   63  33   50
-Richmond Kickers               28  15   0   2  11   41  35   45
-Charleston Battery             28  10   2   3  13   39  50   32
-Raleigh Flyers                 28   8   4   3  13   34  52   28
-Jacksonville Cyclones          28   4   1   1  23   28  73  131
+<!-- $table4$ - Atlantic Division -->
 
-     Central Division
-New Orleans Riverboat Gamblers 28  13   3   2  10   45  42   42
-Nashville Metros               28  10   7   2   9   42  34   37
-Orlando Sundogs                28  12   0   4  12   39  40   36
-Milwaukee Rampage              28  11   3   2  12   33  36   36
-Minnesota Thunder              28  11   2   5  10   22  30   35
-Atlanta Ruckus                 28   9   3   1  15   39  48   30
+<!-- $table5$ - Central Division -->
 
-     Pacific Division
-California Jaguars             28  17   1   0  10   48  34   52
-Seattle Sounders               28  16   2   3   7   42  19   50
-Vancouver 86ers                28  15   1   1  11   50  29   46
-Colorado Foxes                 28  15   1   2  10   55  49   46
-Orange County Zodiac           28  10   1   0  17   35  62   31
-El Paso Patriots               28   5   3   3  17   30  50   18
+<!-- $table6$ - Pacific Division -->
 
 Division Semi-finals: Long Island defeated Rochester 1-0 (SO), 2-1 (SO)
                       Montreal defeated Toronto 2-1, 4-0
@@ -89,58 +55,19 @@ CHAMPIONSHIP:         Milwaukee defeated Carolina 2-1(SO)
                      D3PRO LEAGUE (3rd Division)
 
                            GP   W   SW  SL  L   GF  GA  Pts
-   Northeast Division
-North Jersey Imperials     18  10   1   0   7   39  23   31
-Rhode Island Stingrays     18  10   1   1   6   32  25   31
-Phantoms of New Hampshire  18   9   2   2   5   36  27   29
-Central Jersey Riptide     18   8   2   3   5   26  24   26
-Vermont Wanderers          18   6   1   1  10   21  39   19
-N.Y.Capital Dist. Alleycats18   6   0   1  11   25  38   18
-Cape Cod Crusaders         18   4   1   0  13   19  32   13
+<!-- $table7$ - Northeast Division -->
 
-  Mid-Atlantic Division
-Reading Rage               18  13   1   0   4   46  22   40
-Philadelphia Freedom       18  10   1   0   7   29  32   31
-Baltimore Bays             18   8   0   2   8   30  34   24
-New Jersey Stallions       18   7   2   1   8   25  26   23
-Delaware Wizards           18   7   0   2   9   23  32   21
-South Jersey Barons        18   4   1   3  10   22  28   13
+<!-- $table8$ - Mid-Atlantic Division -->
 
-  South Atlantic Division
-Myrtle Beach Seadawgs      18  14   1   0   3   40  19   43
-South Carolina Shamrocks   18  11   2   0   5   37  27   35
-Charlotte Eagles           18  10   2   1   5   38  21   32
-Florida Strikers           18  10   0   0   8   51  34   30
-Wilmington Hammerheads     18   8   1   1   8   37  24   25
-Mobile Revelers            18   4   0   0  14   25  54   12
-Daytona Tigers             18   3   0   1  14   14  61    9
+<!-- $table9$ - South Atlantic Division -->
 
-  North Central Division
-Chicago Stingers           18  12   1   0   5   32  19   37
-Indiana Blast              18   7   1   1   9   28  31   22
-Cleveland Caps             18   6   3   0   9   28  32   21
-Rockford Raptors           18   6   2   2   8   32  33   20
+<!-- $table10$ - North Central Division -->
 
-  South Central Division
-Albuquerque Geckos*        18  13   2   1   2   51  15   41
-Austin Lone Stars          18  11   1   0   6   38  28   34
-Houston Hurricanes         18   9   0   2   7   35  30   27
-Tulsa Roughnecks           18   9   0   0   9   36  40   27
-San Antonio Pumas          18   5   0   2  11   23  45   15
-Dallas Toros               18   2   0   0  16   22  53    6
+<!-- $table11$ - South Central Division -->
 
 *Albuquerque gets a bye to the national semifinal as hosts.
 
-  West Division
-San Francisco Bay Seals    18  13   2   0   3   41  16   41
-Sacramento Scorpions       18  11   0   0   7   39  36   33
-Chico Rooks                18   9   3   3   3   38  28   30
-San Fern. Val. Gldn Eagles 18   9   2   0   7   30  31   29
-Stanislaus County Cruisers 18   8   0   3   7   31  27   24
-Arizona Sahuaros           18   6   1   1  10   39  40   19
-Hawaii Tsunamii            16   4   1   1  10   24  29   13
-Reno Rattlers              16   4   0   0  12   17  34   12
-Los Angeles Fireballs      18   3   0   2  13   22  40    9
+<!-- $table12$ - West Division -->
 
 Division Semi-finals:   Central Jersey defeated North Jersey 2-1 (SO)
                         New Hampshire defeated Rhode Island 2-1 (OT)
@@ -170,47 +97,17 @@ CHAMPIONSHIP:           Albuquerque defeated Charlotte, 4-1
              PREMIER DEVELOPMENT SOCCER LEAGUE ("4TH Division")
 
                             GP   W   SW  SL  L   GF  GA  Pts
-  Mid-South Division
-Cincinnati Riverhawks       15  10   0   0   5   48  28   30
-Jackson Chargers            16  10   1   0   6   50  25   28
-Lexington Bluegrass Bandits 16  10   2   3   6   45  22   26
-Alabama Saints              16   5   0   1  11   31  34   15
-Chattanooga Express         16   5   1   1  11   18  54   13
+<!-- $table13$ - Mid-South Division -->
 
-  Southeast Division
-Cocoa Expos                 16  12   1   2   4   46  23   34
-South Florida Future        16  11   1   0   5   42  22   31
-West Florida Fury           16  10   2   1   6   32  23   26
-Miami Breakers              16   8   0   1   8   41  24   24
-Southwest Florida Manatees  16   0   0   0  16    9  74    0
+<!-- $table14$ - Southeast Division -->
 
-  North Central Division
-Mid-Michigan Bucks          16  12   0   1   4   41  24   36
-Detroit Dynamite            16  10   1   2   6   41  20   28
-Kalamazoo Kingdom           16  10   2   1   6   32  25   26
-Grand Rapids Explosion      16   8   1   1   8   35  27   22
-Michigan Madness            16   1   1   0  15   11  66    1
+<!-- $table15$ - North Central Division -->
 
-  Central Division
-Lincoln Brigade             16  12   2   0   4   34  23   32
-Omaha Flames                16   9   0   1   7   39  28   27
-Sioux City Breeze           16   8   0   0   8   26  38   24
-Des Moines Menace           16   7   1   0   9   29  27   19
-Colorado Springs Stampede   16   6   0   1  10   23  33   18
-Twin Cities Tornado         16   5   2   1  11   29  39   11
+<!-- $table16$ - Central Division -->
 
-  Southwest Division
-San Gabriel Val. Highlanders16  12   0   0   4   43  20   36
-Central Coast Roadrunners*  16  11   1   2   5   34  17   31
-Tucson Amigos               16   6   1   0   9   18  41   16
-Southern California Chivas  16   4   1   0  16   16  32   10
+<!-- $table17$ - Southwest Division -->
 
-  Northwest Division
-Spokane Shadow              16  14   0   0   2   37  16   42
-Yakima Reds                 16   7   0   1   9   31  31   21
-Cascade Surge               16   8   2   1   8   28  23   20
-Bellingham Orcas            16   6   0   1  10   26  40   18
-Puget Sound BigFoot         16   5   1   0  11   27  39   13
+<!-- $table18$ - Northwest Division -->
 
 Division Semi-finals:   Cocoa defeated Miami 5-2
                         West Florida defeated South Florida 4-0
@@ -267,47 +164,15 @@ CHAMPIONSHIP:           Seattle defeated Houston, 6-5, 7-1
                         W-LEAGUE (Women)
 
                                  GP   W  SW SL L   GF  GA  Pts
-     Northeast Division
-Long Island Lady Riders          10   9  1  1  1   19   5   25
-Rochester Ravens                  9   7  0  0  2   20  10   21
-Boston Renegades                  9   6  0  0  3   21  13   18
-Connecticut Lady Wolves           9   4  0  0  5   26  17   12
-New York Magic                    9   3  0  1  6   13  15    9
-Buffalo Ffillies                 10   3  0  0  7   14  26    9
-Rhode Island Rays                10   1  0  0  9    7  33    3
+<!-- $table19$ - Northeast Division -->
 
-     Central Atlantic Division
-Maryland Pride                    9   8  1  0  1   24  12   22
-Hampton Roads Piranhas           10   7  0  0  3   20  14   21
-Delaware Genies                  10   6  0  0  4   19  15   18
-Central Jersey Splash             8   3  0  1  5   20  15    9
-Philadelphia Frenzy               9   3  0  0  6   12  21    9
-New Jersey Wildcats               9   1  0  0  8   12  29    5
+<!-- $table20$ - Central Atlantic Division -->
 
-     South Division
-Atlanta Classics                 10   7  0  2  3   30   8   21
-Carolina Speed                   10   7  1  0  3   20  10   19
-Dallas Lightning                  9   6  1  0  3   25  14   16
-Tampa Bay Extreme                10   5  0  0  5   17  15   15
-Jackson Calypso                  10   5  0  0  5   17  24   15
-Mississipi Gulf Coast Chaos       9   3  1  1  6    8  15    7
-Alabama Angels                   10   2  0  0  8   12  28    6
+<!-- $table21$ - South Division -->
 
-     Midwest Division
-Chicago Cobras                   10   9  0  0  1   24   8   27
-Columbus Ziggx                   10   6  1  0  4   26  22   16
-Indiana Blaze                    10   5  0  1  5   28  20   15
-Rockford Dactyls                 10   5  0  0  5   21  16   15
-Cleveland Eclipse                10   4  0  0  6   17  27   12
-Madison Freeze                   10   1  0  0  9   13  36    3
+<!-- $table22$ - Midwest Division -->
 
-     West Division
-California Storm                  9   9  0  0  0   27   9   27
-Denver Diamonds                   9   8  1  0  1   22   5   22
-Norcal Shockwaves                10   5  1  1  5   20  17   13
-Silicon Valley Red Devils        10   4  0  2  6   15  17   12
-San Francisco Nighthawks         10   2  0  0  8   14  23    6
-Fort Collins Force               10   1  1  0  9   10  37    1
+<!-- $table23$ - West Division -->
 
 Divisional playoffs:  Long Island defeated Boston 1-0 (SO)
                       Maryland defeated Hampton Roads, 7-0
@@ -325,16 +190,7 @@ Third-Place Game:     Maryland defeated California 4-3
 CHAMPIONSHIP:         Long Island defeated Chicago 2-1 (SO)
 
 
-                      EASTERN INDOOR SOCCER LEAGUE
-
-                           GP   W SOW SOL   L   GF   GA Pts
-Lafayette SwampCats        24  18   2   0   6  324  251  52
-Baton Rouge Bombers        24  16   0   1   8  354  305  49
-Tallahassee Scorpions      24  15   1   0   9  370  316  44
-Huntsville Fire            24  13   1   0  11  467  355  38
-Tupelo Hound Dogs          24  12   1   0  12  354  380  35
-Savannah Rug Ratz          24   7   1   2  17  292  386  22
-Columbus Comets            24   3   0   3  21  250  414  12
+<!-- $table24$ - EASTERN INDOOR SOCCER LEAGUE -->
 
 Huntsville began the season as the Daytona Beach SpeedKings.
 

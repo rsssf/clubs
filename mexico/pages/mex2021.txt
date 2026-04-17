@@ -20,8 +20,7 @@ Apertura 2020 (Torneo Guardianes)  ‹§1aper›
 
 ▪ Regular Stage ▪
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 [*] Mazatlán FC obtained the license of Morelia
 
@@ -444,8 +443,7 @@ Santos               4-0 Mazatlán
 Querétaro            2-2 Tijuana
   (Julián Velázquez 8, Hugo Silveira 50; Jordi Cortizo 54, Vladimir Loroña 57)
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 [*] Mazatlán FC obtained the license of Morelia
 
@@ -563,8 +561,7 @@ Clausura 2021 (Torneo Guard1anes)  ‹§1clau›
 
 ▪ Regular Stage ▪
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Jan 8 _
@@ -991,8 +988,7 @@ Santos               0-0 Puebla
 Pumas                0-1 América
   (Henry Josué Martín 82)
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Final Table -->
 
 <!-- $topscorers2$ -->
 
@@ -1208,8 +1204,7 @@ Tampico Madero [2]
 [1] Official name Universidad de Guadalajara.
 [2] Official name T.M. FC.
 
-<!-- $table5$ -->
-
+<!-- $table5$ - Final Table -->
 
 NB: winners qualify to semifinals;
     runners-up qualify to quarterfinals;
@@ -1428,8 +1423,7 @@ _ Nov 19 _
 Atlético Morelia     3-0 Tlaxcala
 Dorados              0-1 Tampico Madero
 
-<!-- $table6$ -->
-
+<!-- $table6$ - Final Table -->
 
 NB: winners qualify to semifinals;
     runners-up qualify to quarterfinals;
@@ -1525,8 +1519,7 @@ Tampico Madero [2]
 [2] Official name T.M. FC.
 
 
-<!-- $table7$ -->
-
+<!-- $table7$ - Final Table -->
 
 NB: winners qualify to semifinals;
     runners-up qualify to quarterfinals;
@@ -1745,8 +1738,7 @@ _ Apr 15 _
 Celaya               0-0 Tapatío
 Atlético Morelia     2-2 Tepatitlán
 
-<!-- $table8$ -->
-
+<!-- $table8$ - Final Table -->
 
 NB: winners qualify to semifinals;
     runners-up qualify to quarterfinals;

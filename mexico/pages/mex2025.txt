@@ -20,8 +20,7 @@ Apertura 2024  ‹§1aper›
 
 ▪ Regular Stage ▪
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Jul 5 _
@@ -412,8 +411,7 @@ Monterrey            2-1 León
 Tijuana              2-1 Puebla
   (Joe Benny Corona 60, Carlos Gabriel González 90+12; Emanuel Gularte 7)
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 <!-- $topscorers1$ -->
 
@@ -541,8 +539,7 @@ Clausura 2025  ‹§1clau›
 
 ▪ Regular Stage ▪
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Jan 10 _
@@ -962,8 +959,7 @@ León                 0-2 Monterrey
 FC Juárez            0-2 Querétaro
   (Pablo Barrera 65pen, Adonis Preciado 77)
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Final Table -->
 
 <!-- $topscorers2$ -->
 
@@ -1158,8 +1154,7 @@ CA La Paz
 [1] Official name Universidad de Guadalajara.
 [2] This team inherit the numbers and history of Tampico-Madero.
 
-<!-- $table5$ -->
-
+<!-- $table5$ - Final Table -->
 
 
 ▪ Round 1 ▪
@@ -1368,8 +1363,7 @@ _ Nov 4 _
 Atlante          4-0 Jaiba Brava      [La Cantera Cancha 1]
 Correcaminos UAT bye
 
-<!-- $table6$ -->
-
+<!-- $table6$ - Final Table -->
 
 <!-- $topscorers3$ -->
 
@@ -1451,8 +1445,7 @@ CA La Paz
 [1] Official name Universidad de Guadalajara.
 [2] This team inherit the numbers and history of Tampico-Madero.
 
-<!-- $table7$ -->
-
+<!-- $table7$ - Final Table -->
 
 ▪ Regular Stage ▪
 
@@ -1654,8 +1647,7 @@ Jaiba Brava      1-1 Atlante
 Cancún FC        4-1 La Paz
 Correcaminos UAT bye
 
-<!-- $table8$ -->
-
+<!-- $table8$ - Final Table -->
 
 <!-- $topscorers4$ -->
 
@@ -1753,8 +1745,15 @@ Leones Negros    1-2 Tapatío
 
 ▪ Group Stage ▪
 
-<!-- $table9$ -->
+Final Standings:
 
+Zona 1
+ 1.Leones Naranjas FC                                        19
+ 2.Club Atlético Canarios                                    19
+ 3.Tuzos Zagualpan                                           12
+ 4.Atlético Real Morelos 27                                   9
+ 5.Academia de Fútbol Xicotepec                               9
+ 6.Club Reales de Puebla                                      3
 
 Zona 2
  1.CD Lázaro Cardenas                                        19

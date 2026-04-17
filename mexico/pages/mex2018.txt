@@ -21,8 +21,7 @@ Apertura 2017  ‹§1aper›
 
 ▪ Regular Stage ▪
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Jul 21 _
@@ -418,8 +417,7 @@ Toluca             3-1 Tijuana
 Santos             0-1 América
   (Guido Rodríguez 81)
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 <!-- $topscorers1$ -->
 
@@ -525,8 +523,7 @@ Clausura 2018  ‹§1clau›
 
 ▪ Regular Stage ▪
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Jan 5 _
@@ -923,8 +920,7 @@ Pumas              1-1 Querétaro
 Veracruz           1-2 Cruz Azul
   (Osmar Mares 61; Julián Velázquez 30, Adrián Aldrete 85)
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Final Table -->
 
 <!-- $topscorers2$ -->
 
@@ -1064,68 +1060,23 @@ NB: the Cup Tournament is played by 17 teams from the Liga MX (first level) and
 
 Tables:
 
-Group 1
+<!-- $table5$ - Group 1 -->
 
- 1.Toluca                               4   4  0  0  11- 1   12 (qualified)
- 2.Leones Negros                        4   2  0  2   5- 6    6 (qualified)
----------------------------------------------------------------
- 3.Dorados                              4   0  0  4   1-10    0
+<!-- $table6$ - Group 2 -->
 
-Group 2
+<!-- $table7$ - Group 3 -->
 
- 1.Monterrey                            4   3  1  0   8- 2   10 (qualified)
----------------------------------------------------------------
- 2.Pumas UNAM                           4   1  2  1   4- 5    5
- 3.Celaya FC                            4   0  1  3   1- 6    1
+<!-- $table8$ - Group 4 -->
 
-Group 3
+<!-- $table9$ - Group 5 -->
 
- 1.América                              4   3  0  1   7- 4    9 (qualified)
- 2.Atlas                                4   3  0  1   5- 4    9 (qualified)
----------------------------------------------------------------
- 3.Potros UAEM                          4   0  0  4   5- 9    0
+<!-- $table10$ - Group 6 -->
 
-Group 4
+<!-- $table11$ - Group 7 -->
 
- 1.Tijuana                              4   1  3  0   3- 2    6 (qualified)
- 2.Atlante                              4   1  2  1   3- 2    5 (qualified)
----------------------------------------------------------------
- 3.Puebla                               4   1  1  2   2- 4    4
+<!-- $table12$ - Group 8 -->
 
-Group 5
-
- 1.Cruz Azul                            4   2  2  0   5- 3    8 (qualified)
- 2.Atlético Zacatepec                   4   2  1  1   6- 4    7 (qualified)
----------------------------------------------------------------
- 3.Tigres UANL                          4   0  1  3   4- 8    1
-
-Group 6
-
- 1.León                                 4   4  0  0   8- 3   12 (qualified)
----------------------------------------------------------------
- 2.Veracruz                             4   1  0  3   4- 6    3
- 3.Alebrijes                            4   1  0  3   4- 7    3
-
-Group 7
-
- 1.Santos Laguna                        4   3  0  1   7- 1    9 (qualified)
- 2.Guadalajara                          4   3  0  1   6- 4    9 (qualified)
----------------------------------------------------------------
- 3.FC Juárez                            4   0  0  4   2-10    0
-
-Group 8
-
- 1.Pachuca                              4   3  1  0   4- 1   10 (qualified)
- 2.Querétaro                            4   1  2  1   4- 3    5 (qualified)
----------------------------------------------------------------
- 3.Cimarrones                           4   0  1  3   3- 7    1
-
-Group 9
-
- 1.Morelia                              4   3  1  0   7- 4   10 (qualified)
- 2.Necaxa                               4   2  1  1   8- 4    7 (qualified)
----------------------------------------------------------------
- 3.Mineros                              4   0  0  4   3-10    0
+<!-- $table13$ - Group 9 -->
 
 
 Group Phase
@@ -1267,68 +1218,23 @@ FC Juárez          0-3 Santos
 
 Tables:
 
-Group 1
+<!-- $table14$ - Group 1 -->
 
- 1.Toluca                               4   4  0  0  11- 1   12 (qualified)
- 2.Leones Negros                        4   2  0  2   5- 6    6 (qualified)
----------------------------------------------------------------
- 3.Dorados                              4   0  0  4   1-10    0
+<!-- $table15$ - Group 2 -->
 
-Group 2
+<!-- $table16$ - Group 3 -->
 
- 1.Monterrey                            4   3  1  0   8- 2   10 (qualified)
----------------------------------------------------------------
- 2.Pumas UNAM                           4   1  2  1   4- 5    5
- 3.Celaya FC                            4   0  1  3   1- 6    1
+<!-- $table17$ - Group 4 -->
 
-Group 3
+<!-- $table18$ - Group 5 -->
 
- 1.América                              4   3  0  1   7- 4    9 (qualified)
- 2.Atlas                                4   3  0  1   5- 4    9 (qualified)
----------------------------------------------------------------
- 3.Potros UAEM                          4   0  0  4   5- 9    0
+<!-- $table19$ - Group 6 -->
 
-Group 4
+<!-- $table20$ - Group 7 -->
 
- 1.Tijuana                              4   1  3  0   3- 2    6 (qualified)
- 2.Atlante                              4   1  2  1   3- 2    5 (qualified)
----------------------------------------------------------------
- 3.Puebla                               4   1  1  2   2- 4    4
+<!-- $table21$ - Group 8 -->
 
-Group 5
-
- 1.Cruz Azul                            4   2  2  0   5- 3    8 (qualified)
- 2.Atlético Zacatepec                   4   2  1  1   6- 4    7 (qualified)
----------------------------------------------------------------
- 3.Tigres UANL                          4   0  1  3   4- 8    1
-
-Group 6
-
- 1.León                                 4   4  0  0   8- 3   12 (qualified)
----------------------------------------------------------------
- 2.Veracruz                             4   1  0  3   4- 6    3
- 3.Alebrijes                            4   1  0  3   4- 7    3
-
-Group 7
-
- 1.Santos Laguna                        4   3  0  1   7- 1    9 (qualified)
- 2.Guadalajara                          4   3  0  1   6- 4    9 (qualified)
----------------------------------------------------------------
- 3.FC Juárez                            4   0  0  4   2-10    0
-
-Group 8
-
- 1.Pachuca                              4   3  1  0   4- 1   10 (qualified)
- 2.Querétaro                            4   1  2  1   4- 3    5 (qualified)
----------------------------------------------------------------
- 3.Cimarrones                           4   0  1  3   3- 7    1
-
-Group 9
-
- 1.Morelia                              4   3  1  0   7- 4   10 (qualified)
- 2.Necaxa                               4   2  1  1   8- 4    7 (qualified)
----------------------------------------------------------------
- 3.Mineros                              4   0  0  4   3-10    0
+<!-- $table22$ - Group 9 -->
 
 
 ▪ Playoff Stage ▪
@@ -1444,70 +1350,25 @@ NB: the Cup Tournament is played by 14 teams from the Liga MX (first level) and
 
 Tables:
 
-Group 1
+<!-- $table23$ - Group 1 -->
 
- 1.Cafetaleros de Tapachula             4   3  0  1   8- 6    9 (qualified)
- 2.León                                 4   2  1  1   8- 5    7 (qualified)
----------------------------------------------------------------
- 3.Venados                              4   0  1  3   3- 8    1
+<!-- $table24$ - Group 2 -->
 
-Group 2
+<!-- $table25$ - Group 3 -->
 
- 1.Alebrijes                            4   1  3  0   2- 1    6 (qualified)
----------------------------------------------------------------
- 2.Puebla                               4   1  2  1   3- 3    5
- 3.Cruz Azul                            4   1  1  2   4- 5    4
+<!-- $table26$ - Group 4 -->
 
-Group 3
+<!-- $table27$ - Group 5 -->
 
- 1.Monterrey                            4   4  0  0  10- 5   12 (qualified)
----------------------------------------------------------------
- 2.Correcaminos UAT                     4   2  0  2   6- 7    6
- 3.Dorados                              4   0  0  4   3- 7    0
+<!-- $table28$ - Group 6 -->
 
-Group 4
+<!-- $table29$ - Group 7 -->
 
- 1.Toluca                               4   2  1  1   9- 7    7 (qualified)
- 2.Santos                               4   2  1  1   4- 4    7 (qualified)
----------------------------------------------------------------
- 3.Mineros                              4   0  2  2   5- 7    2
-
-Group 5
-
- 1.Pumas UNAM                           4   2  1  1   8- 4    7 (qualified)
- 2.Lobos BUAP                           4   2  0  2   7- 7    6 (qualified)
----------------------------------------------------------------
- 3.FC Juárez                            4   1  1  2   4- 8    4
-
-Group 6
-
- 1.CA Zacatepec                         4   3  0  1   6- 6    9 (qualified)
- 2.Necaxa                               4   2  1  1   7- 3    7 (qualified)
----------------------------------------------------------------
- 3.Murciélagos                          4   0  1  3   2- 6    1
-
-Group 7
-
- 1.Tampico Madero                       4   2  1  1   6- 4    7 (qualified)
- 2.Atlas                                4   2  0  2   4- 4    6 (qualified)
----------------------------------------------------------------
- 3.Veracruz                             4   1  1  2   2- 4    4
-
-Group 8
-
- 1.Celaya                               4   2  0  2   5- 5    6 (qualified)
- 2.Pachuca                              4   2  0  2   3- 3    6 (qualified)
----------------------------------------------------------------
- 3.Atlético de San Luis                 4   2  0  2   6- 6    6
+<!-- $table30$ - Group 8 -->
 
 NB: Pachuca qualified by more away goals than Atlético de San Luis
 
-Group 9
-
- 1.Morelia                              4   2  0  2   6- 6    6 (qualified)
- 2.Querétaro                            4   2  0  2   5- 5    6 (qualified)
----------------------------------------------------------------
- 3.Cimarrones                           4   2  0  2   4- 4    6
+<!-- $table31$ - Group 9 -->
 
 ▪ Round 1 ▪
 _ Jan 9 _
@@ -1646,70 +1507,25 @@ FC Juárez          1-1 Pumas
 
 Tables:
 
-Group 1
+<!-- $table32$ - Group 1 -->
 
- 1.Cafetaleros de Tapachula             4   3  0  1   8- 6    9 (qualified)
- 2.León                                 4   2  1  1   8- 5    7 (qualified)
----------------------------------------------------------------
- 3.Venados                              4   0  1  3   3- 8    1
+<!-- $table33$ - Group 2 -->
 
-Group 2
+<!-- $table34$ - Group 3 -->
 
- 1.Alebrijes                            4   1  3  0   2- 1    6 (qualified)
----------------------------------------------------------------
- 2.Puebla                               4   1  2  1   3- 3    5
- 3.Cruz Azul                            4   1  1  2   4- 5    4
+<!-- $table35$ - Group 4 -->
 
-Group 3
+<!-- $table36$ - Group 5 -->
 
- 1.Monterrey                            4   4  0  0  10- 5   12 (qualified)
----------------------------------------------------------------
- 2.Correcaminos UAT                     4   2  0  2   6- 7    6
- 3.Dorados                              4   0  0  4   3- 7    0
+<!-- $table37$ - Group 6 -->
 
-Group 4
+<!-- $table38$ - Group 7 -->
 
- 1.Toluca                               4   2  1  1   9- 7    7 (qualified)
- 2.Santos                               4   2  1  1   4- 4    7 (qualified)
----------------------------------------------------------------
- 3.Mineros                              4   0  2  2   5- 7    2
-
-Group 5
-
- 1.Pumas UNAM                           4   2  1  1   8- 4    7 (qualified)
- 2.Lobos BUAP                           4   2  0  2   7- 7    6 (qualified)
----------------------------------------------------------------
- 3.FC Juárez                            4   1  1  2   4- 8    4
-
-Group 6
-
- 1.CA Zacatepec                         4   3  0  1   6- 6    9 (qualified)
- 2.Necaxa                               4   2  1  1   7- 3    7 (qualified)
----------------------------------------------------------------
- 3.Murciélagos                          4   0  1  3   2- 6    1
-
-Group 7
-
- 1.Tampico Madero                       4   2  1  1   6- 4    7 (qualified)
- 2.Atlas                                4   2  0  2   4- 4    6 (qualified)
----------------------------------------------------------------
- 3.Veracruz                             4   1  1  2   2- 4    4
-
-Group 8
-
- 1.Celaya                               4   2  0  2   5- 5    6 (qualified)
- 2.Pachuca                              4   2  0  2   3- 3    6 (qualified)
----------------------------------------------------------------
- 3.Atlético de San Luis                 4   2  0  2   6- 6    6
+<!-- $table39$ - Group 8 -->
 
 NB: Pachuca qualified by more away goals than Atlético de San Luis
 
-Group 9
-
- 1.Morelia                              4   2  0  2   6- 6    6 (qualified)
- 2.Querétaro                            4   2  0  2   5- 5    6 (qualified)
----------------------------------------------------------------
- 3.Cimarrones                           4   2  0  2   4- 4    6
+<!-- $table40$ - Group 9 -->
 
 ▪ Playoff Stage ▪
 
@@ -1889,8 +1705,7 @@ NB: Only certified clubs" could be promoted to first level.
 
 [c] Certified club
 
-<!-- $table5$ -->
-
+<!-- $table41$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Jul 21 _
@@ -2076,8 +1891,7 @@ Atlético Zacatepec   1-1 FC Juárez
 Potros UAEM          2-1 Mineros
 Celaya               2-0 Alebrijes
 
-<!-- $table6$ -->
-
+<!-- $table42$ - Final Table -->
 
 <!-- $topscorers5$ -->
 
@@ -2162,8 +1976,7 @@ NB: Only certified clubs" could be promoted to first level.
 
 [c] Certified club
 
-<!-- $table7$ -->
-
+<!-- $table43$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Jan 5 _
@@ -2353,8 +2166,7 @@ Dorados              3-0 Correcaminos UAT
 _ Apr 1 _
 Leones Negros        2-0 Atlético de San Luis
 
-<!-- $table8$ -->
-
+<!-- $table44$ - Final Table -->
 
 <!-- $topscorers6$ -->
 

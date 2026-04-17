@@ -20,41 +20,9 @@ NB: Austin FC were admitted
 
 Final Tables:
 
-Eastern Conference
- 1.New England Revolution     34  22  7  5  65-41  73       ‹Conference Semifinals, see §csf›
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.Philadelphia Union         34  14 12  8  48-35  54       ‹Conference Quarterfinals, see §cqf›
- 3.Nashville SC               34  12 18  4  55-33  54       ‹Conference Quarterfinals, see §cqf›
- 4.New York City FC           34  14  9 11  56-36  51       ‹Conference Quarterfinals, see §cqf›
- 5.Atlanta United FC          34  13 12  9  45-37  51       ‹Conference Quarterfinals, see §cqf›
- 6.Orlando City SC            34  13 12  9  50-48  51       ‹Conference Quarterfinals, see §cqf›
- 7.New York Red Bulls         34  13  9 12  39-33  48       ‹Conference Quarterfinals, see §cqf›
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 8.DC United                  34  14  5 15  56-54  47
- 9.Columbus Crew              34  13  8 13  46-45  47  [C]
-10.Montréal CF                34  12 10 12  46-44  46  [*]
-11.Inter Miami CF             34  12  5 17  36-53  41
-12.Chicago Fire               34   9  7 18  36-54  34
-13.Toronto FC                 34   6 10 18  39-66  28
-14.FC Cincinnati              34   4  8 22  37-74  20
-[*] Montreal Impact were renamed Montréal CF
+<!-- $table1$ - Eastern Conference -->
 
-Western Conference
- 1.Colorado Rapids            34  17 10  7  51-35  61       ‹Conference Semifinals, see §csf›
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.Seattle Sounders           34  17  9  8  53-33  60       ‹Conference Quarterfinals, see §cqf›
- 3.Sporting Kansas City       34  17  7 10  58-40  58       ‹Conference Quarterfinals, see §cqf›
- 4.Portland Timbers           34  17  4 13  56-52  55       ‹Conference Quarterfinals, see §cqf›
- 5.Minnesota United FC        34  13 10 11  42-44  49       ‹Conference Quarterfinals, see §cqf›
- 6.Vancouver Whitecaps        34  12 13  9  45-45  49       ‹Conference Quarterfinals, see §cqf›
- 7.Real Salt Lake             34  14  6 14  55-54  48       ‹Conference Quarterfinals, see §cqf›
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 8.Los Angeles Galaxy         34  13  9 12  50-54  48
- 9.Los Angeles FC             34  12  9 13  53-51  45
-10.San Jose Earthquakes       34  10 11 13  46-54  41
-11.FC Dallas                  34   7 12 15  47-56  33
-12.Austin FC                  34   9  4 21  35-56  31  [N]
-13.Houston Dynamo             34   6 12 16  36-54  30
+<!-- $table2$ - Western Conference -->
 
 ▪ Round 1 ▪
 _ Apr 16 _
@@ -719,41 +687,9 @@ Houston Dynamo         bye
 
 Final Tables:
 
-Eastern Conference
- 1.New England Revolution     34  22  7  5  65-41  73       ‹Conference Semifinals, see §csf›
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.Philadelphia Union         34  14 12  8  48-35  54       ‹Conference Quarterfinals, see §cqf›
- 3.Nashville SC               34  12 18  4  55-33  54       ‹Conference Quarterfinals, see §cqf›
- 4.New York City FC           34  14  9 11  56-36  51       ‹Conference Quarterfinals, see §cqf›
- 5.Atlanta United FC          34  13 12  9  45-37  51       ‹Conference Quarterfinals, see §cqf›
- 6.Orlando City SC            34  13 12  9  50-48  51       ‹Conference Quarterfinals, see §cqf›
- 7.New York Red Bulls         34  13  9 12  39-33  48       ‹Conference Quarterfinals, see §cqf›
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 8.DC United                  34  14  5 15  56-54  47
- 9.Columbus Crew              34  13  8 13  46-45  47  [C]
-10.Montréal CF                34  12 10 12  46-44  46  [*]
-11.Inter Miami CF             34  12  5 17  36-53  41
-12.Chicago Fire               34   9  7 18  36-54  34
-13.Toronto FC                 34   6 10 18  39-66  28
-14.FC Cincinnati              34   4  8 22  37-74  20
-[*] Montreal Impact were renamed Montréal CF
+<!-- $table3$ - Eastern Conference -->
 
-Western Conference
- 1.Colorado Rapids            34  17 10  7  51-35  61       ‹Conference Semifinals, see §csf›
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.Seattle Sounders           34  17  9  8  53-33  60       ‹Conference Quarterfinals, see §cqf›
- 3.Sporting Kansas City       34  17  7 10  58-40  58       ‹Conference Quarterfinals, see §cqf›
- 4.Portland Timbers           34  17  4 13  56-52  55       ‹Conference Quarterfinals, see §cqf›
- 5.Minnesota United FC        34  13 10 11  42-44  49       ‹Conference Quarterfinals, see §cqf›
- 6.Vancouver Whitecaps        34  12 13  9  45-45  49       ‹Conference Quarterfinals, see §cqf›
- 7.Real Salt Lake             34  14  6 14  55-54  48       ‹Conference Quarterfinals, see §cqf›
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 8.Los Angeles Galaxy         34  13  9 12  50-54  48
- 9.Los Angeles FC             34  12  9 13  53-51  45
-10.San Jose Earthquakes       34  10 11 13  46-54  41
-11.FC Dallas                  34   7 12 15  47-56  33
-12.Austin FC                  34   9  4 21  35-56  31  [N]
-13.Houston Dynamo             34   6 12 16  36-54  30
+<!-- $table4$ - Western Conference -->
 
 ▪ Championship Playoff ▪
 

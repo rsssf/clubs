@@ -13,33 +13,13 @@ Apertura 2003
 
 Final Tables:
 
-Group 1
- 1.Pachuca             19 10  6  3 28-19 36  Qualified
- 2.Toluca              19  8  3  8 33-24 27  Playoff
- 3.Monterrey           19  5  7  7 29-29 22
- 4.Puebla              19  5  5  9 23-30 20
- 5.Atlas               19  5  4 10 29-32 19  [Guadalajara]
+<!-- $table1$ - Group 1 -->
 
-Group 2
- 1.Tigres              19 11  4  4 38-20 38  Qualified  [Monterrey]
- 2.Cruz Azul           19  7  6  6 30-30 27  Playoff  [Cd. de México]
- 3.Morelia             19  7  5  7 25-29 25
- 4.Jaguares Chiapas    19  5  6  8 21-34 21  [Tuxtla Gutiérrez]
- 5.San Luis            19  2  5 12 20-39 11
+<!-- $table2$ - Group 2 -->
 
-Group 3
- 1.Pumas               19 11  5  3 34-23 38  Qualified  [UNAM; Cd. de México]
- 2.Santos Laguna       19  8  7  4 41-29 31  Qualified  [Torreón]
- 3.Tecos UAG           19  9  4  6 31-29 31  Playoff  [Guadalajara]
- 4.América             19  8  4  7 34-26 28  [Cd. de México]
- 5.Gallos Blancos      19  1  4 14 16-44  7  [Querétaro]
+<!-- $table3$ - Group 3 -->
 
-Group 4
- 1.Atlante             19  8  7  4 32-21 32  Qualified  [Cd. Nezahualcoyotl]
- 2.Necaxa              19  7  9  3 23-18 30  Qualified  [Aguascalientes (*)]
- 3.Guadalajara         19  9  2  8 30-28 29  Playoff
- 4.Veracruz            19  8  3  8 34-38 27
- 5.Irapuato            19  6  4  9 23-32 22
+<!-- $table4$ - Group 4 -->
 
 [*] Necaxa moved from Cd. de México to Aguascalientes
 
@@ -543,33 +523,13 @@ América        4-1 Puebla
 
 Final Tables:
 
-Group 1
- 1.Pachuca             19 10  6  3 28-19 36  Qualified
- 2.Toluca              19  8  3  8 33-24 27  Playoff
- 3.Monterrey           19  5  7  7 29-29 22
- 4.Puebla              19  5  5  9 23-30 20
- 5.Atlas               19  5  4 10 29-32 19  [Guadalajara]
+<!-- $table5$ - Group 1 -->
 
-Group 2
- 1.Tigres              19 11  4  4 38-20 38  Qualified  [Monterrey]
- 2.Cruz Azul           19  7  6  6 30-30 27  Playoff  [Cd. de México]
- 3.Morelia             19  7  5  7 25-29 25
- 4.Jaguares Chiapas    19  5  6  8 21-34 21  [Tuxtla Gutiérrez]
- 5.San Luis            19  2  5 12 20-39 11
+<!-- $table6$ - Group 2 -->
 
-Group 3
- 1.Pumas               19 11  5  3 34-23 38  Qualified  [UNAM; Cd. de México]
- 2.Santos Laguna       19  8  7  4 41-29 31  Qualified  [Torreón]
- 3.Tecos UAG           19  9  4  6 31-29 31  Playoff  [Guadalajara]
- 4.América             19  8  4  7 34-26 28  [Cd. de México]
- 5.Gallos Blancos      19  1  4 14 16-44  7  [Querétaro]
+<!-- $table7$ - Group 3 -->
 
-Group 4
- 1.Atlante             19  8  7  4 32-21 32  Qualified  [Cd. Nezahualcoyotl]
- 2.Necaxa              19  7  9  3 23-18 30  Qualified  [Aguascalientes (*)]
- 3.Guadalajara         19  9  2  8 30-28 29  Playoff
- 4.Veracruz            19  8  3  8 34-38 27
- 5.Irapuato            19  6  4  9 23-32 22
+<!-- $table8$ - Group 4 -->
 
 [*] Necaxa moved from Cd. de México to Aguascalientes
 
@@ -715,17 +675,9 @@ Morelia        2-1 Guadalajara
 Toluca         1-2 Santos
   (Miguel Zepeda 6; Johan Rodríguez 57, Héctor López 64)
 
-Group A
- 1.Santos Laguna        3  2  0  1  6- 5  6  [Torreón]
- 2.Morelia              3  2  0  1  5- 4  6
- 3.Toluca               3  2  0  1  4- 3  6
- 4.Guadalajara          3  0  0  3  3- 6  0
+<!-- $table9$ - Group A -->
 
-Group B
- 1.Atlas                3  2  1  0  8- 3  7  [Guadalajara]
- 2.América              3  1  2  0  6- 5  5  [Cd. de México]
- 3.Tigres               3  1  1  1  4- 5  4  [Monterrey]
- 4.Atlante              3  0  0  3  5-10  0  [Cd. Nezahualcoyotl]
+<!-- $table10$ - Group B -->
 
 ▪ Final ▪  Jan 14
 Santos         2-2 Atlas            (4-3 pen)
@@ -760,33 +712,13 @@ Clausura 2004
 
 Final Tables:
 
-Group 1
- 1.Toluca              19  8  6  5 31-25 30  Qualified
- 2.Atlas               19  6  9  4 28-25 27  Qualified  [Guadalajara]
- 3.Pachuca             19  6  8  5 32-33 26  Playoff
- 4.Puebla              19  5  5  9 27-29 20
- 5.Monterrey           19  2 12  5 28-30 18
+<!-- $table11$ - Group 1 -->
 
-Group 2
- 1.Jaguares Chiapas    19 12  6  1 35-20 42  Qualified  [Tuxtla Gutiérrez]
- 2.Cruz Azul           19  6  5  8 36-34 23  Playoff  [Cd. de México]
- 3.Tigres              19  6  5  8 37-39 23  [Monterrey]
- 4.Morelia             19  6  4  9 25-35 22
- 5.San Luis            19  4  6  9 23-35 18
+<!-- $table12$ - Group 2 -->
 
-Group 3
- 1.Pumas               19 12  5  2 42-19 41  Qualified  [UNAM; Cd. de México]
- 2.América             19  9  5  5 34-27 32  Qualified  [Cd. de México]
- 3.Gallos Blancos      19  5  9  5 24-27 24  [Querétaro]
- 4.Santos Laguna       19  6  3 10 31-30 21  [Torreón]
- 5.Tecos UAG           19  5  3 11 32-40 18  [Guadalajara]
+<!-- $table13$ - Group 3 -->
 
-Group 4
- 1.Guadalajara         19 10  4  5 30-23 34  Qualified
- 2.Atlante             19  7  6  6 29-26 27  Qualified  [Cd. Nezahualcoyotl]
- 3.Irapuato            19  6  8  5 23-30 26
- 4.Necaxa              19  5  6  8 22-26 21  [Aguascalientes]
- 5.Veracruz            19  4  5 10 25-41 17
+<!-- $table14$ - Group 4 -->
 
 ▪ Round 1 ▪
 _ Jan 17 _
@@ -1285,33 +1217,13 @@ Necaxa         0-1 Atlas
 
 Final Tables:
 
-Group 1
- 1.Toluca              19  8  6  5 31-25 30  Qualified
- 2.Atlas               19  6  9  4 28-25 27  Qualified  [Guadalajara]
- 3.Pachuca             19  6  8  5 32-33 26  Playoff
- 4.Puebla              19  5  5  9 27-29 20
- 5.Monterrey           19  2 12  5 28-30 18
+<!-- $table15$ - Group 1 -->
 
-Group 2
- 1.Jaguares Chiapas    19 12  6  1 35-20 42  Qualified  [Tuxtla Gutiérrez]
- 2.Cruz Azul           19  6  5  8 36-34 23  Playoff  [Cd. de México]
- 3.Tigres              19  6  5  8 37-39 23  [Monterrey]
- 4.Morelia             19  6  4  9 25-35 22
- 5.San Luis            19  4  6  9 23-35 18
+<!-- $table16$ - Group 2 -->
 
-Group 3
- 1.Pumas               19 12  5  2 42-19 41  Qualified  [UNAM; Cd. de México]
- 2.América             19  9  5  5 34-27 32  Qualified  [Cd. de México]
- 3.Gallos Blancos      19  5  9  5 24-27 24  [Querétaro]
- 4.Santos Laguna       19  6  3 10 31-30 21  [Torreón]
- 5.Tecos UAG           19  5  3 11 32-40 18  [Guadalajara]
+<!-- $table17$ - Group 3 -->
 
-Group 4
- 1.Guadalajara         19 10  4  5 30-23 34  Qualified
- 2.Atlante             19  7  6  6 29-26 27  Qualified  [Cd. Nezahualcoyotl]
- 3.Irapuato            19  6  8  5 23-30 26
- 4.Necaxa              19  5  6  8 22-26 21  [Aguascalientes]
- 5.Veracruz            19  4  5 10 25-41 17
+<!-- $table18$ - Group 4 -->
 
 <!-- $topscorers2$ -->
 
@@ -1454,34 +1366,13 @@ Apertura 2003
 
 Tables:
 
-Group 1
- 1.Atlético Mexiquense 19  8  4  7 32-31 28  Qualified  [Toluca]
- 2.Mérida FC           19  6  6  7 29-32 24  Playoff
- 3.Altamira            19  6  3 10 25-29 21
- 4.Trotamundos         19  5  5  9 20-27 20  [Tijuana]
- 5.Tlaxcala            19  2  8  9 19-36 14
+<!-- $table19$ - Group 1 -->
 
-Group 2
- 1.Correcaminos        19  8  5  6 35-25 29  Qualified  [Ciudad Victoria]
- 2.Tigrillos Coapa     19  7  8  4 23-23 29  Playoff  [Ciudad de México]
- 3.Cruz Azul           19  8  2  9 36-32 26  [Oaxaca]
- 4.Durango             19  7  5  7 27-33 26
- 5.Tapatío             19  4  4 11 21-37 16  [Guadalajara]
+<!-- $table20$ - Group 2 -->
 
-Group 3
- 1.Zacatepec           19 12  4  3 38-21 40  Qualified
- 2.Cobras              19 12  0  7 36-25 36  Qualified  [Ciudad Juárez]
- 3.Coatzacoalcos       19  9  7  3 26-16 34  Playoff
- 4.León                19  6  4  9 36-37 20  [*]
- 5.Riviera Maya        19  2  6 11 19-41 12  [Cancún]
-[*] León obtained only 1 point for their awarded win in round 13
+<!-- $table21$ - Group 3 -->
 
-Group 4
- 1.Culiacán            19 10  6  3 43-28 36  Qualified
- 2.Celaya              19 11  3  5 38-24 36  Qualified
- 3.Lagartos Tabasco    19 10  6  3 35-25 36  Playoff  [Villahermosa]
- 4.Acapulco            19  7  5  7 26-24 23
- 5.Jaguares            19  3  3 13 21-39 12  [Tapachula]
+<!-- $table22$ - Group 4 -->
 
 ▪ Round 1 ▪
 _ Aug 8 _
@@ -1994,34 +1885,13 @@ Altamira       3-4 Cruz Azul Oaxaca
 
 Tables:
 
-Group 1
- 1.Atlético Mexiquense 19  8  4  7 32-31 28  Qualified  [Toluca]
- 2.Mérida FC           19  6  6  7 29-32 24  Playoff
- 3.Altamira            19  6  3 10 25-29 21
- 4.Trotamundos         19  5  5  9 20-27 20  [Tijuana]
- 5.Tlaxcala            19  2  8  9 19-36 14
+<!-- $table23$ - Group 1 -->
 
-Group 2
- 1.Correcaminos        19  8  5  6 35-25 29  Qualified  [Ciudad Victoria]
- 2.Tigrillos Coapa     19  7  8  4 23-23 29  Playoff  [Ciudad de México]
- 3.Cruz Azul           19  8  2  9 36-32 26  [Oaxaca]
- 4.Durango             19  7  5  7 27-33 26
- 5.Tapatío             19  4  4 11 21-37 16  [Guadalajara]
+<!-- $table24$ - Group 2 -->
 
-Group 3
- 1.Zacatepec           19 12  4  3 38-21 40  Qualified
- 2.Cobras              19 12  0  7 36-25 36  Qualified  [Ciudad Juárez]
- 3.Coatzacoalcos       19  9  7  3 26-16 34  Playoff
- 4.León                19  6  4  9 36-37 20  [*]
- 5.Riviera Maya        19  2  6 11 19-41 12  [Cancún]
-[*] León obtained only 1 point for their awarded win in round 13
+<!-- $table25$ - Group 3 -->
 
-Group 4
- 1.Culiacán            19 10  6  3 43-28 36  Qualified
- 2.Celaya              19 11  3  5 38-24 36  Qualified
- 3.Lagartos Tabasco    19 10  6  3 35-25 36  Playoff  [Villahermosa]
- 4.Acapulco            19  7  5  7 26-24 23
- 5.Jaguares            19  3  3 13 21-39 12  [Tapachula]
+<!-- $table26$ - Group 4 -->
 
 <!-- $topscorers3$ -->
 
@@ -2094,37 +1964,13 @@ Clausura 2004
 
 Final Tables:
 
-Group 1
- 1.Mérida FC           19  8  5  6 34-29 29  Qualified
- 2.Atlético Mexiquense 19  7  7  5 28-24 28  Qualified  [Toluca]
- 3.Altamira            19  7  5  7 24-21 26
- 4.Salamanca           19  5  6  8 30-37 21  [*]
- 5.Tlaxcala            19  6  2 11 29-34 20
-[*] Trotamundos Tijuana relocated and renamed to Salamanca
+<!-- $table27$ - Group 1 -->
 
-Group 2
- 1.Tigrillos Coapa     19  7  7  5 28-24 28  Qualified  [Ciudad de México]
- 2.Cruz Azul           19  7  7  5 21-25 28  Playoff  [Oaxaca]
- 3.Correcaminos        19  6  3 10 18-31 21  [Ciudad Victoria]
- 4.Tapatío             19  5  4 10 20-27 19  [Guadalajara]
- 5.Durango             19  3  7  9 21-31 16
+<!-- $table28$ - Group 2 -->
 
-Group 3
- 1.León                19 12  3  4 42-29 39  Qualified
- 2.Morelos             19  8  4  7 43-35 28  Qualified  [*]  [Cuernavaca]
- 3.Riviera Maya        19  8  3  8 23-30 27  [Cancún]
- 4.Cobras              19  7  4  8 25-24 25  [Ciudad Juárez]
- 5.Coatzacoalcos       19  6  5  8 32-37 23
-[*] Zacatepec moved to Cuernavaca, and renamed to Morelos, due to
-    problems between fans and players after they were eliminated
-    in the Apertura play offs.
+<!-- $table29$ - Group 3 -->
 
-Group 4
- 1.Culiacán            19 10  6  3 32-17 36  Qualified
- 2.Lagartos Tabasco    19  9  7  3 42-27 34  Qualified  [Villahermosa]
- 3.Celaya              19  9  6  4 36-27 33  Playoff
- 4.Jaguares            19  7  3  9 24-26 24  [Tapachula]
- 5.Acapulco            19  5  2 12 24-41 17
+<!-- $table30$ - Group 4 -->
 
 ▪ Round 1 ▪
 _ Jan 17 _
@@ -2560,37 +2406,13 @@ Tabasco        4-2 Tapatio
 
 Final Tables:
 
-Group 1
- 1.Mérida FC           19  8  5  6 34-29 29  Qualified
- 2.Atlético Mexiquense 19  7  7  5 28-24 28  Qualified  [Toluca]
- 3.Altamira            19  7  5  7 24-21 26
- 4.Salamanca           19  5  6  8 30-37 21  [*]
- 5.Tlaxcala            19  6  2 11 29-34 20
-[*] Trotamundos Tijuana relocated and renamed to Salamanca
+<!-- $table31$ - Group 1 -->
 
-Group 2
- 1.Tigrillos Coapa     19  7  7  5 28-24 28  Qualified  [Ciudad de México]
- 2.Cruz Azul           19  7  7  5 21-25 28  Playoff  [Oaxaca]
- 3.Correcaminos        19  6  3 10 18-31 21  [Ciudad Victoria]
- 4.Tapatío             19  5  4 10 20-27 19  [Guadalajara]
- 5.Durango             19  3  7  9 21-31 16
+<!-- $table32$ - Group 2 -->
 
-Group 3
- 1.León                19 12  3  4 42-29 39  Qualified
- 2.Morelos             19  8  4  7 43-35 28  Qualified  [*]  [Cuernavaca]
- 3.Riviera Maya        19  8  3  8 23-30 27  [Cancún]
- 4.Cobras              19  7  4  8 25-24 25  [Ciudad Juárez]
- 5.Coatzacoalcos       19  6  5  8 32-37 23
-[*] Zacatepec moved to Cuernavaca, and renamed to Morelos, due to
-    problems between fans and players after they were eliminated
-    in the Apertura play offs.
+<!-- $table33$ - Group 3 -->
 
-Group 4
- 1.Culiacán            19 10  6  3 32-17 36  Qualified
- 2.Lagartos Tabasco    19  9  7  3 42-27 34  Qualified  [Villahermosa]
- 3.Celaya              19  9  6  4 36-27 33  Playoff
- 4.Jaguares            19  7  3  9 24-26 24  [Tapachula]
- 5.Acapulco            19  5  2 12 24-41 17
+<!-- $table34$ - Group 4 -->
 
 Repechaje
 

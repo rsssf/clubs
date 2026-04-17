@@ -20,8 +20,7 @@ Apertura 2021  ‹§1aper›
 
 ▪ Regular Stage ▪
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Jul 22 _
@@ -413,8 +412,7 @@ Pumas                4-3 Cruz Azul
   (Arturo Ortiz 5, Favio Álvarez 45, Diogo de Oliveira 61, 83; Roberto Alvarado 11, 20, 43)
 Santos               0-0 Atlético de San Luis
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 <!-- $topscorers1$ -->
 
@@ -540,8 +538,7 @@ Clausura 2022  ‹§1clau›
 
 ▪ Regular Stage ▪
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Jan 6 _
@@ -978,8 +975,7 @@ León                 4-4 Toluca
   (Víctor Dávila 17, Ángel Mena 22, Jean Meneses 36, Jaine Barreiro 90;
    Ian González 13, Leonardo Fernández 25, Osvaldo Rodríguez 32og, Pedro Canelo 57)
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Final Table -->
 
 <!-- $topscorers2$ -->
 
@@ -1199,8 +1195,7 @@ Raya2 Expansión (Guadalupe)
 [2] Official name T.M. FC.
 
 
-<!-- $table5$ -->
-
+<!-- $table5$ - Final Table -->
 
 NB: Teams 1st to 4th qualify to quarterfinals;
     clubs finishing 5th to 12th qualify to Reclasificación.
@@ -1460,8 +1455,7 @@ _ Nov 21 _
 Atlante          0-1 Dorados
 Alebrijes        bye
 
-<!-- $table6$ -->
-
+<!-- $table6$ - Final Table -->
 
 NB: Teams 1st to 4th qualify to quarterfinals;
     clubs finishing 5th to 12th qualify to Reclasificación.
@@ -1553,8 +1547,7 @@ Raya2 Expansión (Guadalupe)
 [1] Official name Universidad de Guadalajara.
 [2] Official name T.M. FC.
 
-<!-- $table7$ -->
-
+<!-- $table7$ - Final Table -->
 
 NB: Teams 1st to 4th qualify to quarterfinals;
     clubs finishing 5th to 12th qualify to Reclasificación.
@@ -1811,8 +1804,7 @@ _ Apr 15 _
 Tapatío          1-2 Raya2
 Dorados          bye
 
-<!-- $table8$ -->
-
+<!-- $table8$ - Final Table -->
 
 NB: Teams 1st to 4th qualify to quarterfinals;
     clubs finishing 5th to 12th qualify to Reclasificación.

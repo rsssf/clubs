@@ -23,8 +23,7 @@ Apertura 2011  ‹§1aper›
 
 NB: For this season the groups are abolished
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Table -->
 
 ▪ Round 1 ▪
 _ Jul 22 _
@@ -434,8 +433,7 @@ Pumas             1-1 Tijuana
 Puebla            0-1 Tigres
   (Jesús Alberto Dueñas 26)
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Table -->
 
 
 <!-- $topscorers1$ -->
@@ -530,14 +528,7 @@ Copa Libertadores 2012 qualification
 
 NB: top-3 of Apertura 2011 Final Table qualify
 
- 1.Guadalajara                         17   8  6  3  24-18  30  [Copa Libertadores Group Phase]
- 2.Cruz Azul                           17   8  5  4  21-14  29  [Copa Libertadores Group Phase]
- 3.Tigres                              17   7  7  3  22-13  28  [Copa Libertadores Prel. Round]
- 4.Santos Laguna                       17   8  3  6  29-25  27  [QF CONCACAF Ch. League]
- 5.Jaguares                            17   7  5  5  28-23  26
- 6.Pachuca                             17   7  5  5  28-25  26
- 7.Morelia                             17   7  5  5  25-22  26  [QF CONCACAF Ch. League]
- 8.Querétaro                           17   8  2  7  24-21  26
+<!-- $table3$ -->
 
 NB: Guadalajara and Cruz Azul qualified to Group Phase,
     Tigres qualified to Preliminary Round
@@ -550,8 +541,7 @@ Clausura 2012  ‹§1clau›
 ▪ Regular Stage ▪
 
 
-<!-- $table3$ -->
-
+<!-- $table4$ - Table -->
 
 
 ▪ Round 1 ▪
@@ -946,8 +936,7 @@ América            2-2 Cruz Azul
   (Christian Benítez 8, 13; Jair Pereira 24, Emanuel Villa 73)
 
 
-<!-- $table4$ -->
-
+<!-- $table5$ - Table -->
 
 
 
@@ -1113,8 +1102,7 @@ NB: All clubs are "certified clubs";
     winners qualify to semifinals;
     clubs finishing 2nd to 7th qualify to quarterfinals.
 
-<!-- $table5$ -->
-
+<!-- $table6$ - Table -->
 
 
 NB: All clubs are "certified clubs";
@@ -1317,8 +1305,7 @@ Cruz Azul Hidalgo 1-2 Neza
 La Piedad         3-1 Pumas Morelos
 
 
-<!-- $table6$ -->
-
+<!-- $table7$ - Table -->
 
 
 NB: All clubs are "certified clubs";
@@ -1378,8 +1365,7 @@ Change before season:
 ▪ Regular Stage ▪
 
 
-<!-- $table7$ -->
-
+<!-- $table8$ - Table -->
 
 NB: winners qualify to semifinals;
     clubs finishing 2nd to 7th qualify to quarterfinals.
@@ -1582,8 +1568,7 @@ Neza              4-1 Cruz Azul Hidalgo
 Bye: Altamira
 
 
-<!-- $table8$ -->
-
+<!-- $table9$ - Table -->
 
 NB: winners qualify to semifinals;
     clubs finishing 2nd to 7th qualify to quarterfinals.

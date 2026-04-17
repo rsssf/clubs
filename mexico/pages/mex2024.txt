@@ -20,8 +20,7 @@ Apertura 2023  ‹§1aper›
 
 ▪ Regular Stage ▪
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Jun 30 _
@@ -443,8 +442,7 @@ Cruz Azul            1-2 Puebla
 León                 2-1 FC Juárez
   (Borja Sánchez 37, Federico Viñas 44; Aitor García 18)
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 <!-- $topscorers1$ -->
 
@@ -570,8 +568,7 @@ Clausura 2024  ‹§1clau›
 
 ▪ Regular Stage ▪
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Jan 12 _
@@ -979,8 +976,7 @@ Necaxa               2-5 Monterrey
 Santos               0-3 Atlético de San Luis
   (Yan Oliveira 16, Bi Boli 29, Sebastien Salles-lamonge 55)
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Final Table -->
 
 <!-- $topscorers2$ -->
 
@@ -1193,8 +1189,7 @@ CA La Paz
 
 [1] Official name Universidad de Guadalajara.
 
-<!-- $table5$ -->
-
+<!-- $table5$ - Final Table -->
 
 NB: Teams 1st to 6th qualify to quarterfinals;
     clubs finishing 7th to 10th qualify to Play-In.
@@ -1411,8 +1406,7 @@ Tapatío          0-1 Dorados
 Atlético Morelia 1-0 Tepatitlán
 La Paz           bye
 
-<!-- $table6$ -->
-
+<!-- $table6$ - Final Table -->
 
 NB: Teams 1st to 6th qualify to quarterfinals;
     clubs finishing 7th to 10th qualify to Play-In.
@@ -1510,8 +1504,7 @@ CA La Paz
 
 [1] Official name Universidad de Guadalajara.
 
-<!-- $table7$ -->
-
+<!-- $table7$ - Final Table -->
 
 NB: Teams 1st to 6th qualify to quarterfinals;
     clubs finishing 7th to 10th qualify to Play-In.
@@ -1728,8 +1721,7 @@ _ Apr 13 _
 Alebrijes        3-3 Atlético Morelia
 Cimarrones       bye
 
-<!-- $table8$ -->
-
+<!-- $table8$ - Final Table -->
 
 NB: Teams 1st to 6th qualify to quarterfinals;
     clubs finishing 7th to 10th qualify to Play-In.

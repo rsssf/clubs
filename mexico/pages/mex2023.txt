@@ -20,8 +20,7 @@ Apertura 2022  ‹§1aper›
 
 ▪ Regular Stage ▪
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Jul 1 _
@@ -451,8 +450,7 @@ León                 2-2 Tijuana
   (Lucas Di Yorio 50, José Alfonso Alvarado 90+4; Lucas Rodríguez 66,
    Renato Ibarra 90+1)
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 ▪ Playoffs (Liguilla) ▪
 
@@ -572,8 +570,7 @@ Clausura 2023  ‹§1clau›
 
 ▪ Regular Stage ▪
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 [*] Querétaro ineligible for playoff because of finishing last in aggregate
     standings over the last three seasons
@@ -1005,8 +1002,7 @@ Querétaro            0-1 Pachuca
 León                 3-0 Tigres
   (José Alfonso Alvarado 16, Brian Rubio 44, Héctor Uribe 66)
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Final Table -->
 
 [*] Querétaro ineligible for playoff because of finishing last in aggregate
     standings over the last three seasons
@@ -1215,8 +1211,7 @@ Raya2 Expansión (Guadalupe)
 
 [1] Official name Universidad de Guadalajara.
 
-<!-- $table5$ -->
-
+<!-- $table5$ - Final Table -->
 
 NB: Teams 1st to 4th qualify to quarterfinals;
     clubs finishing 5th to 12th qualify to Reclasificación.
@@ -1482,8 +1477,7 @@ Durango          4-1 Mineros
 _ Oct 16 _
 Celaya           0-3 Correcaminos UAT
 
-<!-- $table6$ -->
-
+<!-- $table6$ - Final Table -->
 
 NB: Teams 1st to 4th qualify to quarterfinals;
     clubs finishing 5th to 12th qualify to Reclasificación.
@@ -1576,8 +1570,7 @@ Durango
 
 [1] Official name Universidad de Guadalajara.
 
-<!-- $table7$ -->
-
+<!-- $table7$ - Final Table -->
 
 NB: Teams 1st to 4th qualify to quarterfinals;
     clubs finishing 5th to 12th qualify to Reclasificación.
@@ -1848,8 +1841,7 @@ Tlaxcala         0-0 Correcaminos UAT
 _ Apr 23 _
 Atlante          1-0 Durango
 
-<!-- $table8$ -->
-
+<!-- $table8$ - Final Table -->
 
 NB: Teams 1st to 4th qualify to quarterfinals;
     clubs finishing 5th to 12th qualify to Reclasificación.

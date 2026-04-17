@@ -20,32 +20,9 @@ NB: Montreal Impact were added for 2012
 
 Final Tables:
 
-Eastern Conference
- 1.Sporting Kansas City       34  18  9  7  42-27  63  ‹Eastern Semifinals, see §esemi›
- 2.DC United                  34  17  7 10  53-43  58  ‹Eastern Semifinals, see §esemi›
- 3.New York Red Bulls         34  16  9  9  57-46  57  ‹Eastern Semifinals, see §esemi›
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 4.Chicago Fire               34  17  6 11  46-41  57  ‹Wild Card Games, see §wcard›
- 5.Houston Dynamo             34  14 11  9  48-41  53  ‹Wild Card Games, see §wcard›
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 6.Columbus Crew              34  15  7 12  44-44  52
- 7.Montreal Impact            34  12  6 16  45-51  42
- 8.Philadelphia Union         34  10  6 18  37-45  36
- 9.New England Revolution     34   9  8 17  39-44  35
-10.Toronto FC                 34   5  8 21  36-62  23
+<!-- $table1$ - Eastern Conference -->
 
-Western Conference
- 1.San Jose Earthquakes       34  19  9  6  72-43  66  ‹Western Semifinals, see §wsemi›
- 2.Real Salt Lake             34  17  6 11  46-35  57  ‹Western Semifinals, see §wsemi›
- 3.Seattle Sounders           34  15 11  8  51-33  56  ‹Western Semifinals, see §wsemi›
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 4.Los Angeles Galaxy         34  16  6 12  59-47  54  ‹Wild Card Games, see §wcard›
- 5.Vancouver Whitecaps        34  11 10 13  35-41  43  ‹Wild Card Games, see §wcard›
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 6.FC Dallas                  34   9 12 13  42-47  39
- 7.Colorado Rapids            34  11  4 19  44-50  37
- 8.Portland Timbers           34   8 10 16  34-56  34
- 9.Chivas USA                 34   7  9 18  24-58  30
+<!-- $table2$ - Western Conference -->
 
 NB: top-3 of both conferences qualified for conference semifinals;
     teams finishing 4th and 5th qualify for wild card game

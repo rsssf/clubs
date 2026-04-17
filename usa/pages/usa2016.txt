@@ -18,33 +18,9 @@
 
 Final Tables:
 
-Eastern Conference
- 1.New York Red Bulls         34  16  9  9  61-44  57  Conference Semifinals
- 2.New York City FC           34  15  9 10  62-57  54  Conference Semifinals
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 3.Toronto FC                 34  14 11  9  51-39  53  Conference Quarterfinals
- 4.DC United                  34  11 13 10  53-47  46  Conference Quarterfinals
- 5.Montreal Impact            34  11 12 11  49-53  45  Conference Quarterfinals
- 6.Philadelphia Union         34  11  9 14  52-55  42  Conference Quarterfinals
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 7.New England Revolution     34  11  9 14  44-54  42
- 8.Orlando City SC            34   9 14 11  55-60  41
- 9.Columbus Crew              34   8 12 14  50-58  36
-10.Chicago Fire               34   7 10 17  42-58  31
+<!-- $table1$ - Eastern Conference -->
 
-Western Conference
- 1.FC Dallas                  34  17  9  8  50-40  60  Conference Semifinals
- 2.Colorado Rapids            34  15 13  6  39-32  58  Conference Semifinals
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 3.Los Angeles Galaxy         34  12 16  6  54-39  52  Conference Quarterfinals
- 4.Seattle Sounders           34  14  6 14  44-43  48  Conference Quarterfinals
- 5.Sporting Kansas City       34  13  8 13  42-41  47  Conference Quarterfinals
- 6.Real Salt Lake             34  12 10 12  44-46  46  Conference Quarterfinals
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 7.Portland Timbers           34  12  8 14  48-53  44  [C]
- 8.Vancouver Whitecaps        34  10  9 15  45-52  39
- 9.San Jose Earthquakes       34   8 14 12  32-40  38
-10.Houston Dynamo             34   7 13 14  39-45  34
+<!-- $table2$ - Western Conference -->
 
 _ Mar 6 _
 New York Red Bulls     0-2 Toronto FC
@@ -532,33 +508,9 @@ Vancouver Whitecaps    4-1 Portland Timbers
 
 Final Tables:
 
-Eastern Conference
- 1.New York Red Bulls         34  16  9  9  61-44  57  Conference Semifinals
- 2.New York City FC           34  15  9 10  62-57  54  Conference Semifinals
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 3.Toronto FC                 34  14 11  9  51-39  53  Conference Quarterfinals
- 4.DC United                  34  11 13 10  53-47  46  Conference Quarterfinals
- 5.Montreal Impact            34  11 12 11  49-53  45  Conference Quarterfinals
- 6.Philadelphia Union         34  11  9 14  52-55  42  Conference Quarterfinals
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 7.New England Revolution     34  11  9 14  44-54  42
- 8.Orlando City SC            34   9 14 11  55-60  41
- 9.Columbus Crew              34   8 12 14  50-58  36
-10.Chicago Fire               34   7 10 17  42-58  31
+<!-- $table3$ - Eastern Conference -->
 
-Western Conference
- 1.FC Dallas                  34  17  9  8  50-40  60  Conference Semifinals
- 2.Colorado Rapids            34  15 13  6  39-32  58  Conference Semifinals
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 3.Los Angeles Galaxy         34  12 16  6  54-39  52  Conference Quarterfinals
- 4.Seattle Sounders           34  14  6 14  44-43  48  Conference Quarterfinals
- 5.Sporting Kansas City       34  13  8 13  42-41  47  Conference Quarterfinals
- 6.Real Salt Lake             34  12 10 12  44-46  46  Conference Quarterfinals
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 7.Portland Timbers           34  12  8 14  48-53  44  [C]
- 8.Vancouver Whitecaps        34  10  9 15  45-52  39
- 9.San Jose Earthquakes       34   8 14 12  32-40  38
-10.Houston Dynamo             34   7 13 14  39-45  34
+<!-- $table4$ - Western Conference -->
 
 ▪ Championship Playoff ▪
 

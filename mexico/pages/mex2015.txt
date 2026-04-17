@@ -21,8 +21,7 @@ Apertura 2014  ‹§1aper›
 
 ▪ Regular Stage ▪
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Jul 18 _
@@ -420,8 +419,7 @@ Pumas              4-2 Monterrey
   (Dante López 5, David Cabrera 10, Eduardo Herrera 16, 64pen;
    Omar Arellano Riverón 13, Cándido Ramírez 44)
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 <!-- $topscorers1$ -->
 
@@ -513,9 +511,7 @@ Copa Libertadores 2015 qualification
 
 NB: top-2 of Apertura 2014 Final Table qualify and Supercopa MX 2013/14 winners: Morelia
 
- 1.América                             17   9  4  4  28-18  31 [CONCACAF Ch. League]
- 2.Tigres                              17   8  7  2  25-17  31 [Copa Libertadores Group Phase]
- 3.Atlas                               17   9  4  4  22-20  31 [Copa Libertadores Group Phase]
+<!-- $table3$ -->
 
 NB: Tigres and Atlas qualified to Group Phase,
     Morelia qualified to Preliminary Round
@@ -527,8 +523,7 @@ Clausura 2015  ‹§1clau›
 
 ▪ Regular Stage ▪
 
-<!-- $table3$ -->
-
+<!-- $table4$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Jan 9 _
@@ -924,8 +919,7 @@ Guadalajara        2-3 Morelia
   (Carlos Fierro 17, Marco Fabián de la Mora 46; Ignacio González 5, Jefferson Cuero 44,
    Armando Zamorano 89pen)
 
-<!-- $table4$ -->
-
+<!-- $table5$ - Final Table -->
 
 
 <!-- $topscorers2$ -->
@@ -1059,61 +1053,19 @@ an additional bonus point; if the series was tied after 2 matches, the team with
 
 Tables:
 
-Group 1
+<!-- $table6$ - Group 1 -->
 
- 1.Tigres                               6   4  0  2  10- 5   15 (qualified)
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.Altamira                             6   3  1  2   8- 9   11
- 3.Querétaro                            6   2  1  3   7- 7    9
- 4.Irapuato                             6   2  0  4   6-10    6
+<!-- $table7$ - Group 2 -->
 
-Group 2
+<!-- $table8$ - Group 3 -->
 
- 1.Santos                               6   4  1  1  12- 8   15 (qualified)
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.Atlético San Luis                    6   2  3  1  11- 6   10
- 3.Monterrey                            6   2  1  3  10- 8    9
- 4.Correcaminos UAT                     6   1  1  4   7-18    4
+<!-- $table9$ - Group 4 -->
 
-Group 3
+<!-- $table10$ - Group 5 -->
 
- 1.Guadalajara                          6   4  0  2  11- 6   14 (qualified)
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.Coras                                6   3  2  1   9- 5   13
- 3.Tijuana                              6   2  2  2   6- 7    9
- 4.Zacatepec S. XXI                     6   1  0  5   4-12    3
+<!-- $table11$ - Group 6 -->
 
-Group 4
-
- 1.Atlas                                6   4  1  1  11- 9   15 (qualified)
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.Leones Negros                        6   2  3  1   7- 4   11
- 3.Mineros                              6   1  2  3   4- 6    5
- 4.Dorados                              6   1  2  3   9-12    5
-
-Group 5
-
- 1.Puebla                               6   4  1  1   6- 4   15 (qualified)
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.Morelia                              6   2  3  1  11- 6   11
- 3.Necaxa                               6   2  3  1   6- 4   10
- 4.Celaya                               6   0  1  5   3-12    1
-
-Group 6
-
- 1.Mérida                               6   4  2  0   9- 5   17 (qualified)
- 2.Toluca                               6   3  2  1  12- 8   13 (qualified)
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 3.Pumas                                6   1  2  3   9-11    6
- 4.Atlante                              6   0  2  4   6-12    6
-
-Group 7
-
- 1.Lobos BUAP                           6   2  4  0   9- 6   12 (qualified)
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.Alebrijes                            6   2  2  2   9- 8    9
- 3.Veracruz                             6   1  3  2   8- 9    8
- 4.Jaguares                             6   1  3  2   6- 9    7
+<!-- $table12$ - Group 7 -->
 
 
 Group Phase
@@ -1316,61 +1268,19 @@ Tijuana           1-0 Guadalajara       [agg 1-3; Guadalajara won a extra point]
 
 Tables:
 
-Group 1
+<!-- $table13$ - Group 1 -->
 
- 1.Tigres                               6   4  0  2  10- 5   15 (qualified)
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.Altamira                             6   3  1  2   8- 9   11
- 3.Querétaro                            6   2  1  3   7- 7    9
- 4.Irapuato                             6   2  0  4   6-10    6
+<!-- $table14$ - Group 2 -->
 
-Group 2
+<!-- $table15$ - Group 3 -->
 
- 1.Santos                               6   4  1  1  12- 8   15 (qualified)
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.Atlético San Luis                    6   2  3  1  11- 6   10
- 3.Monterrey                            6   2  1  3  10- 8    9
- 4.Correcaminos UAT                     6   1  1  4   7-18    4
+<!-- $table16$ - Group 4 -->
 
-Group 3
+<!-- $table17$ - Group 5 -->
 
- 1.Guadalajara                          6   4  0  2  11- 6   14 (qualified)
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.Coras                                6   3  2  1   9- 5   13
- 3.Tijuana                              6   2  2  2   6- 7    9
- 4.Zacatepec S. XXI                     6   1  0  5   4-12    3
+<!-- $table18$ - Group 6 -->
 
-Group 4
-
- 1.Atlas                                6   4  1  1  11- 9   15 (qualified)
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.Leones Negros                        6   2  3  1   7- 4   11
- 3.Mineros                              6   1  2  3   4- 6    5
- 4.Dorados                              6   1  2  3   9-12    5
-
-Group 5
-
- 1.Puebla                               6   4  1  1   6- 4   15 (qualified)
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.Morelia                              6   2  3  1  11- 6   11
- 3.Necaxa                               6   2  3  1   6- 4   10
- 4.Celaya                               6   0  1  5   3-12    1
-
-Group 6
-
- 1.Mérida                               6   4  2  0   9- 5   17 (qualified)
- 2.Toluca                               6   3  2  1  12- 8   13 (qualified)
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 3.Pumas                                6   1  2  3   9-11    6
- 4.Atlante                              6   0  2  4   6-12    6
-
-Group 7
-
- 1.Lobos BUAP                           6   2  4  0   9- 6   12 (qualified)
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.Alebrijes                            6   2  2  2   9- 8    9
- 3.Veracruz                             6   1  3  2   8- 9    8
- 4.Jaguares                             6   1  3  2   6- 9    7
+<!-- $table19$ - Group 7 -->
 
 ▪ Playoff Stage ▪
 
@@ -1464,47 +1374,17 @@ awarded.
 
 Tables:
 
-Group 1
- 1.Querétaro                            6   4  1  1  13- 5   15 (qualified)
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.Santos                               6   2  3  1   9-10   11
- 3.Atlético San Luis                    6   2  1  3   7-11    8
- 4.Mineros                              6   1  1  4   8-11    5
+<!-- $table20$ - Group 1 -->
 
-Group 2
- 1.Monterrey                            6   4  1  1  14- 3   15 (qualified)
- 2.Correcaminos UAT                     6   3  3  0   9- 6   15 (qualified)
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 3.Veracruz                             6   1  2  3   5- 8    6
- 4.Altamira                             6   0  2  4   4-15    5
+<!-- $table21$ - Group 2 -->
 
-Group 3
- 1.Tijuana                              6   4  2  0  14- 6   17 (qualified)
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.Coras                                6   2  2  2  11- 7   10
- 3.Leones Negros                        6   1  3  2   4- 7    7
- 4.Necaxa                               6   1  1  4   4-13    4
+<!-- $table22$ - Group 3 -->
 
-Group 4
- 1.Guadalajara                          6   4  1  1   7- 3   15 (qualified)
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.Dorados                              6   3  2  1  11- 8   13
- 3.Lobos BUAP                           6   2  0  4   7- 9    7
- 4.Irapuato                             6   1  1  4   1- 6    4
+<!-- $table23$ - Group 4 -->
 
-Group 5
- 1.Puebla                               6   4  1  1  11- 6   16 (qualified)
- 2.Mérida                               6   4  0  2  13- 7   14 (qualified)
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 3.Toluca                               6   2  1  3   9-13    8
- 4.Atlante                              6   0  2  4   5-12    8
+<!-- $table24$ - Group 5 -->
 
-Group 6
- 1.Jaguares                             6   4  0  2  12- 8   13 (qualified)
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.Zacatepec S. XXI                     6   3  1  2   9- 7   12
- 3.Pumas                                6   2  1  3   6-10    9
- 4.Alebrijes                            6   2  0  4   8-10    7
+<!-- $table25$ - Group 6 -->
 
 
 Group Phase
@@ -1692,47 +1572,17 @@ Jaguares          3-1 Pumas              [agg 6-1; Jaguares won a extra point]
 
 Tables:
 
-Group 1
- 1.Querétaro                            6   4  1  1  13- 5   15 (qualified)
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.Santos                               6   2  3  1   9-10   11
- 3.Atlético San Luis                    6   2  1  3   7-11    8
- 4.Mineros                              6   1  1  4   8-11    5
+<!-- $table26$ - Group 1 -->
 
-Group 2
- 1.Monterrey                            6   4  1  1  14- 3   15 (qualified)
- 2.Correcaminos UAT                     6   3  3  0   9- 6   15 (qualified)
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 3.Veracruz                             6   1  2  3   5- 8    6
- 4.Altamira                             6   0  2  4   4-15    5
+<!-- $table27$ - Group 2 -->
 
-Group 3
- 1.Tijuana                              6   4  2  0  14- 6   17 (qualified)
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.Coras                                6   2  2  2  11- 7   10
- 3.Leones Negros                        6   1  3  2   4- 7    7
- 4.Necaxa                               6   1  1  4   4-13    4
+<!-- $table28$ - Group 3 -->
 
-Group 4
- 1.Guadalajara                          6   4  1  1   7- 3   15 (qualified)
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.Dorados                              6   3  2  1  11- 8   13
- 3.Lobos BUAP                           6   2  0  4   7- 9    7
- 4.Irapuato                             6   1  1  4   1- 6    4
+<!-- $table29$ - Group 4 -->
 
-Group 5
- 1.Puebla                               6   4  1  1  11- 6   16 (qualified)
- 2.Mérida                               6   4  0  2  13- 7   14 (qualified)
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 3.Toluca                               6   2  1  3   9-13    8
- 4.Atlante                              6   0  2  4   5-12    8
+<!-- $table30$ - Group 5 -->
 
-Group 6
- 1.Jaguares                             6   4  0  2  12- 8   13 (qualified)
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.Zacatepec S. XXI                     6   3  1  2   9- 7   12
- 3.Pumas                                6   2  1  3   6-10    9
- 4.Alebrijes                            6   2  0  4   8-10    7
+<!-- $table31$ - Group 6 -->
 
 ▪ Playoff Stage ▪
 
@@ -1897,8 +1747,7 @@ NB: All clubs are "certified clubs";
     winners qualify to semifinals;
     clubs finishing 2nd to 7th qualify to quarterfinals.
 
-<!-- $table5$ -->
-
+<!-- $table32$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Jul 18 _
@@ -2043,8 +1892,7 @@ Alebrijes         1-1 Coras
 Irapuato          0-1 Altamira
 Celaya            0-1 Correcaminos UAT
 
-<!-- $table6$ -->
-
+<!-- $table33$ - Final Table -->
 
 ▪ Playoff Stage ▪
 
@@ -2118,8 +1966,7 @@ NB: All clubs are "certified clubs";
     winners qualify to semifinals;
     clubs finishing 2nd to 7th qualify to quarterfinals.
 
-<!-- $table7$ -->
-
+<!-- $table34$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Jan 9 _
@@ -2270,8 +2117,7 @@ Altamira          1-1 Irapuato
 Zacatepec S. XXI  2-0 Mineros
 Dorados           2-1 Mérida
 
-<!-- $table8$ -->
-
+<!-- $table35$ - Final Table -->
 
 ▪ Playoff Stage ▪
 

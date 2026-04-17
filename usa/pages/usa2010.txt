@@ -18,28 +18,9 @@
 
 Final Tables:
 
-Eastern Conference
- 1.New York Red Bulls         30  15  6  9  38-29  51  ‹Qualified, see §play›
- 2.Columbus Crew              30  14  8  8  40-34  50  ‹Qualified, see §play›
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 3.Kansas City Wizards        30  11  6 13  36-35  39
- 4.Chicago Fire               30   9  9 12  37-38  36
- 5.Toronto FC                 30   9  8 13  33-41  35
- 6.New England Revolution     30   9  5 16  32-50  32
- 7.Philadelphia Union         30   8  7 15  35-49  31
- 8.D.C. United                30   6  4 20  21-47  22
+<!-- $table1$ - Eastern Conference -->
 
-Western Conference
- 1.Los Angeles Galaxy         30  18  5  7  44-26  59  ‹Qualified, see §play›
- 2.Real Salt Lake             30  15 11  4  45-20  56  ‹Qualified, see §play›
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 3.FC Dallas                  30  12 14  4  42-28  50  ‹Qualified, see §play›
- 4.Seattle Sounders           30  14  6 10  39-35  48  ‹Qualified, see §play›
- 5.Colorado Rapids            30  12 10  8  44-32  46  ‹Qualified, see §play›
- 6.San Jose Earthquakes       30  13  7 10  34-33  46  ‹Qualified, see §play›
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 7.Houston Dynamo             30   9  6 15  40-49  33
- 8.Chivas USA                 30   8  4 18  31-45  28
+<!-- $table2$ - Western Conference -->
 
 NB: Philadelphia Union were added for 2010
 
@@ -426,28 +407,9 @@ Los Angeles Galaxy     2-1 FC Dallas
 
 Final Tables:
 
-Eastern Conference
- 1.New York Red Bulls         30  15  6  9  38-29  51  ‹Qualified, see §play›
- 2.Columbus Crew              30  14  8  8  40-34  50  ‹Qualified, see §play›
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 3.Kansas City Wizards        30  11  6 13  36-35  39
- 4.Chicago Fire               30   9  9 12  37-38  36
- 5.Toronto FC                 30   9  8 13  33-41  35
- 6.New England Revolution     30   9  5 16  32-50  32
- 7.Philadelphia Union         30   8  7 15  35-49  31
- 8.D.C. United                30   6  4 20  21-47  22
+<!-- $table3$ - Eastern Conference -->
 
-Western Conference
- 1.Los Angeles Galaxy         30  18  5  7  44-26  59  ‹Qualified, see §play›
- 2.Real Salt Lake             30  15 11  4  45-20  56  ‹Qualified, see §play›
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 3.FC Dallas                  30  12 14  4  42-28  50  ‹Qualified, see §play›
- 4.Seattle Sounders           30  14  6 10  39-35  48  ‹Qualified, see §play›
- 5.Colorado Rapids            30  12 10  8  44-32  46  ‹Qualified, see §play›
- 6.San Jose Earthquakes       30  13  7 10  34-33  46  ‹Qualified, see §play›
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 7.Houston Dynamo             30   9  6 15  40-49  33
- 8.Chivas USA                 30   8  4 18  31-45  28
+<!-- $table4$ - Western Conference -->
 
 NB: Philadelphia Union were added for 2010
 
@@ -575,15 +537,7 @@ Seattle Sounders       2-1 Columbus Crew
 
 
 
-                           GP   W   L   D   GF  GA  Pts
-FC Gold Pride              24  16   3   5   46  19   53
-Boston Breakers            24  10   8   6   36  28   36
-Philadelphia Independence  24  10  10   4   37  36   34
-Washington Freedom         24   8   9   7   33  33   31
-Sky Blue F. C.             24   7  10   7   20  31   28
-Chicago Red Stars          24   7  11   6   21  27   27
-Atlanta Beat               24   5  13   6   20  40   21
-St. Louis Athletica         6   2   1   3    9   8    9
+<!-- $table5$ -  GP   W   L   D   GF  GA  Pts -->
 
 ▪ Playoffs ▪
 
@@ -608,25 +562,9 @@ FC Gold Pride             4-0 Philadelphia Independence
 
 Final Tables:
 
-NASL Conference
- 1.Carolina RailHawks         30  13  8  9  44-32  47  ‹Qualified, see §sfplay›
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.Vancouver Whitecaps        30  10 15  5  32-22  45  ‹Qualified, see §sfplay›
- 3.Montreal Impact            30  12  7 11  36-30  43  ‹Qualified, see §sfplay›
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 4.Miami FC                   30   7 12 11  37-49  33
- 5.AC Saint Louis             30   7  8 15  32-48  29
- 6.Crystal Palace Baltimore   30   6  6 18  24-55  24
+<!-- $table6$ - NASL Conference -->
 
-USL Conference
- 1.Rochester Rhinos           30  16  6  8  38-24  54  ‹Qualified, see §sfplay›
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.Austin Aztex               30  15  8  7  53-40  53  ‹Qualified, see §sfplay›
- 3.Portland Timbers           30  13 10  7  34-23  49  ‹Qualified, see §sfplay›
- 4.NSC Minnesota Stars        30  11  7 12  32-36  40  ‹Qualified, see §sfplay›
- 5.Puerto Rico Islanders      30   9 10 11  37-35  37  ‹Qualified, see §sfplay›
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 6.FC Tampa Bay               30   7 11 12  41-46  32
+<!-- $table7$ - USL Conference -->
 
 NB: conference winners and 6 next best teams in overall table
     qualify for championship playoff
@@ -680,8 +618,7 @@ Champions: Puerto Rico Islanders
 
 ▪ Regular Season ▪
 
-<!-- $table1$ -->
-
+<!-- $table8$ - Final Table -->
 
 ▪ Championship Playoff ▪
 
@@ -701,92 +638,24 @@ Champions: Charleston Battery
 
                             GP   W   L   D   GF  GA  Pts
      EASTERN CONFERENCE
-     Northeast Division
- 1.Ottawa Fury                 16  11   2   3   33  10   36
- 2.Portland Phoenix            16  10   2   4   37  14   34
- 3.Albany BWP Highlanders      16  10   4   2   32  21   32
- 4.Long Island Rough Riders    16   8   4   4   25  20   28
- 5.Vermont Voltage             16   5   7   4   22  31   19
- 6.Western Mass Pioneers       16   4   6   6   17  20   18
- 7.New Hampshire Phantoms      16   3   9   4   10  23   13
- 8.Brooklyn Knights            16   3  12   1   24  42   10
- 9.Westchester Flames          16   1   9   6   13  32    9
+<!-- $table9$ - Northeast Division -->
 
-     Mid-Atlantic Division
- 1.Reading United              16  10   2   4   40  14   34
- 2.Newark ironbound Express    16  10   3   3   29  12   33
- 3.Central Jersey Spartans     16   8   5   3   31  23   27
- 4.Carolina Dynamo             16   7   5   4   30  23   25
- 5.Northern Virginia Royals    16   6   6   4   24  28   22
- 6.Ocean City Nor'easters      16   5   6   5   23  25   20
- 7.West Virginia Chaos         16   6   9   1   21  26   19
- 8.Hampton Roads Piranhas      16   4   7   5   18  31   17
- 9.New Jersey Rangers          16   5  11   0   18  37   15
-10.Bermuda Hogges              16   4  11   1    9  25   13
+<!-- $table10$ - Mid-Atlantic Division -->
 
      SOUTHERN CONFERENCE
-     Southeast Division
- 1.Mississippi Brilla          14  11   0   3   41  14   36
- 2.Baton Rouge Capitals        14   9   2   3   30  15   30
- 3.Atlanta Blackhawks          14   6   4   4   27  31   22
- 4.Central Florida Kraze       14   6   5   3   22  17   21
- 5.New Orleans Jesters         14   6   6   2   30  22   20
- 6.Bradenton Academics         14   5   5   4   19  15   19
- 7.Nashville Metros            14   1  10   3    8  34    6
- 8.Ft. Lauderdale Schulz Acad. 14   0  12   2    5  34    2
+<!-- $table11$ - Southeast Division -->
 
-     Mid-South Division
- 1.Laredo Heat                 16   9   5   2   36  19   29
- 2.Houston Leones              16   7   5   4   24  20   25
- 3.DFW Tornadoes               16   7   5   4   23  19   25
- 4.West texas United Sockers   16   6   7   3   20  24   21
- 5.Chivas El Paso Patriots     16   6   6   4   18  21   19 [-3]
- 6.Rio Grande Valley Bravos    16   3  10   3   12  30    9 [-3]
-  * - deducted 3 pts for league violations.
+<!-- $table12$ - Mid-South Division -->
 
      CENTRAL CONFERENCE
-     Great Lakes Division
- 1.Michigan Bucks              16  11   3   2   43  14   35
- 2.Forest City London          16  10   1   5   42  14   35
- 3.Dayton Dutch Lions          16   8   3   5   20  12   29
- 4.Chicago Fire Premier        16   9   5   2   28  12   29
- 5.Indiana Invaders            16   8   7   1   23  25   25
- 6.Cincinnati Kings            16   6   6   4   31  28   22
- 7.Toronto Lynx                16   4  11   1   15  37   13
- 8.Kalamazoo Outrage           16   3  13   0   17  55    9
- 9.Cleveland Internationals    16   2  12   2   15  41    8
+<!-- $table13$ - Great Lakes Division -->
 
-     Heartland Division
- 1.Thunder Bay Chill           16  12   2   2   40  12   38
- 2.Rochester Thunder           16  10   3   3   22  10   33
- 3.Real Colorado Foxes         16   7   3   6   26  18   27
- 4.Des Moines Menace           16   6   3   7   30  23   25
- 5.St. Louis Lions             16   5   7   4   23  21   19
- 6.Springfield Demize          16   1  12   3   10  37    6
- 7.Kansas City Brass           16   1  12   3   14  44    6
+<!-- $table14$ - Heartland Division -->
 
      WESTERN CONFERENCE
-     Southwest Division
- 1.Ventura County Fusion       16  11   4   1   35  12   34
- 2.Hollywood United Hitmen     16  10   3   3   41  20   33
- 3.Orange County Blue Star     16   9   3   4   42  24   31
- 4.Fresno Fuego                16   8   4   4   42  33   28
- 5.Southern Calif. Seahorses   16   6   7   3   25  28   21
- 6.Los Angeles Azul Legends    16   5   8   3   27  33   18
- 7.Lancaster Rattlers          16   3   8   5   27  51   14
- 8.BYU Cougars                 16   4  10   2   17  27   14
- 9.Ogden Outlaws               16   2  11   3   22  50    9
+<!-- $table15$ - Southwest Division -->
 
-     Northwest Division
- 1.Portland Timbers U23's      16  16   0   0   53   6   48
- 2.Kitsap Pumas                16  12   2   2   38  14   38
- 3.Tacoma Tide                 16   9   4   3   33  20   30
- 4.Victoria Highlanders        16   7   6   3   27  24   24
- 5.Washington Crossfire        16   6   8   2   35  31   20
- 6.Vancouver Whitecaps Residcy.16   4   9   3   27  37   15
- 7.Abbotsford Mariners         16   4  11   1   25  44   13
- 8.Yakima Reds                 16   4  12   0   18  42   12
- 9.Spokane Spiders             16   2  12   2   26  64    8
+<!-- $table16$ - Northwest Division -->
 
 ▪ Championship Playoff ▪
 
@@ -825,46 +694,15 @@ Champions: Portland Timbers U23's
 ==== National Premier Soccer League ("Division 4")  ‹§npsl›
 
                             GP   W   L   D   GF  GA  Pts
-     Northeast Atlantic Conference
- 1.New York Red Bull NPSL      12  10   1   1   32   6   31
- 2.Brooklyn Italians           12  10   1   1   34  12   31
- 3.New Hampshire Mountaineers  12   5   5   2   21  15   17
- 4.Morris County Colonials     12   5   5   2   18  17   17
- 5.New York Athletic Club      12   4   5   3   14  20   15
- 6.Boston Tea Men              12   1   8   3   13  31    6
- 7.Long Island Academy         12   1  11   0    5  36    3
+<!-- $table17$ - Northeast Atlantic Conference -->
 
-     Northeast Keystone Conference
- 1.FC Sonic Lehigh Valley      12  10   1   1   30   9   31
- 2.Erie Admirals               12  10   2   0   31  10   30
- 3.FC Buffalo                  12   6   4   2   23  14   20
- 4.Reading Revolution          12   5   7   0   20  32   15
- 5.Pocono Snow                 12   2   5   5   15  21   11
- 6.TSC Maryland Red Devils     12   3   8   1   14  29   10
- 7.New Jersey Blaze            12   1  10   1   11  29    4
+<!-- $table18$ - Northeast Keystone Conference -->
 
-     Southeast Conference
- 1.Chattanooga FC               8   6   0   2   19   5   20
- 2.FC Tulsa                     8   4   2   2   16  12   14
- 3.Rocket City United           8   3   2   3   15  12   12
- 4.Pumas FC                     8   2   5   1   11  17    7
- 5.Atlanta FC                   8   0   6   2    7  22    2
+<!-- $table19$ - Southeast Conference -->
 
-     Midwest Conference
- 1.Madison 56ers               10   8   2   0   26   9   24
- 2.Chicago Fire NPSL            9   5   1   3   24   9   18
- 3.St. Paul Twin Stars         10   5   3   2   18  17   17
- 4.Milwaukee Bavarians         10   4   5   1   24  21   13
- 5.Minnesota Kings             10   3   6   1   21  25   10
- 6.Eau Claire Aris              9   0   8   1   13  45    1
+<!-- $table20$ - Midwest Conference -->
 
-     West Conference
- 1.Sacramento Gold             10   7   2   1   37  17   22
- 2.Real San Jose               10   5   3   2   25  21   17
- 3.Bay Area Ambassadors        10   4   3   3   23  19   15
- 4.San Diego Boca              10   4   3   3   16  17   15
- 5.Sonoma County Sol            9   2   2   5   16  12   11
- 6.Southern Oregon Fuego        9   0   9   0   14  45    0
+<!-- $table21$ - West Conference -->
 
 ▪ Championship Playoff ▪
 Divisional Playoffs
@@ -895,82 +733,27 @@ Champions: Sacramento Gold
 ==== Women's Premier Soccer League  ‹§wpsl›
 
                           GP   W   L   D   GF  GA  Pts
-     East-Northeast Division
-Boston Aztec              10   8   1   1   32   8   25
-Boston 23                 10   8   1   1   22   7   25
-New England Mutiny        10   3   4   3   17  11   12
-CDC Passion               10   3   5   2    7   9   11
-Seacoast United           10   2   7   1    9  22    7
-Maine Tide                10   2   8   0    5  35    6
+<!-- $table22$ - East-Northeast Division -->
 
 
-     East-Central Division
-Long Island Fury          10   7   2   1   13   5   22
-Millburn Magic            10   5   4   1   21  15   16
-New York Athletic Club    10   4   5   1   16  15   13
-South Jersey United FC    10   3   5   2    6  18   11
-BuxMont Torch FC          10   3   6   1    9  11   10
+<!-- $table23$ - East-Central Division -->
 
-     East-Mid-Atlantic Division
-Lancaster Inferno         10   6   1   3   20   8   21
-Philadelphia Independence 10   6   3   1   26  19   19
-ASA Chesapeake Charge     10   4   3   3   13   7   15
-TSC Maryland Pride        10   3   4   3   18  18   12
-Jersey Select             10   1   9   0    6  32    3
+<!-- $table24$ - East-Mid-Atlantic Division -->
 
-     Sunshine Division
-FSA Freedom                8   5   1   2   19   6   17
-Brandon FC                 8   4   3   1   11  10   13
-Miami Kickers FC           8   3   2   3   14   5   12
-Palm Beach United          8   3   2   3    6  11   12
-South Florida Strikers     8   0   7   1   3   21    1
+<!-- $table25$ - Sunshine Division -->
 
-     Midwest North Division
-FC Milwaukee Nationals     8   7   1   0   28   6   21
-Chicago Eclipse Select     8   5   2   1   12  15   16
-Iowa Rush                  8   5   3   0   20  12   15
-Madison 56ers              8   2   5   1   13  22    7
-KUFC Pursuit               8   0   8   0    6  58    0
+<!-- $table26$ - Midwest North Division -->
 
-     Midwest South Division
-Ohio Pemier Women's SC    10   7   1   2   27   9   23
-Fort Wayne F.C.           10   7   1   2   25  10   23
-Classics Hammer FC        10   5   3   2   24  21   17
-St. Louis Scott Gallagher 10   3   6   1   15  19   10
-Carmel United SC          10   3   6   1   13  22   10
-F.C. Metro Magic          10   0   8   2    9  33    2
+<!-- $table27$ - Midwest South Division -->
 
 
-     Big Sky South Division
-Oklahoma Alliance FC       8   7   1   0   26   4   21
-Fort Worth Panthers        8   4   3   1   13   8   13
-Dallas Premier             8   3   2   3   14   6   12
-Tulsa Spirit               8   1   5   2   4   30    5
-Houston South Select       8   0   4   4    4  13    0
+<!-- $table28$ - Big Sky South Division -->
 
-     Big Sky North Division
-Phoenix Del Sol            8   5   1   2   11   2   17
-Arizona Rush               8   4   0   4   14   1   16
-Utah Starzz                8   3   2   3    7   4   12
-Salt Lake City Sparta      8   2   3   3   11  14    9
-FC St. George              8   0   8   0    3  25    0
+<!-- $table29$ - Big Sky North Division -->
 
-     Pacific South Division
-Ajax America Women        10   6   3   1   29  10   19
-LAFC Chelsea              10   6   3   1   23  11   19
-San Diego SeaLions        10   6   3   1   19  11   19
-Claremont Stars           10   5   4   1   14  15   16
-SD United                 10   3   5   2   16  14    8
-PSSCV - The Rooks         10   1   9   0    5  45    0
+<!-- $table30$ - Pacific South Division -->
 
-     Pacific North Division
-California Storm          12  11   1   0   38   9   33
-North Bay FC Wave         12   9   3   0   28   9   27
-Spokane Black Widows      12   6   5   1   23  19   19
-BSC Portland Rain         12   6   6   0   25  16   18
-Clovis Sidekicks          12   6   6   0   37  32   18
-San Francisco Nighthawks  12   3   8   1   23  28   10
-FC Sacramento             12   0  12   0    5  60    0
+<!-- $table31$ - Pacific North Division -->
 
 Regional Play-in    : Milwaukee defeated Fort Wayne 3-1
                       Lancaster defeated Chesapeake 2-0
@@ -1001,46 +784,16 @@ CHAMPIONSHIP:         Boston defeated Ajax America 2-1
 
                             GP   W   L   D   GF  GA  Pts
      EASTERN CONFERENCE
-     Northeast Division
-Hudson Valley Quickstrike LB12  11   1   0   26   9   33
-Washington Freedom Futures  12  10   1   1   29   7   31
-New Jersey Wildcats         12   7   4   1   22  16   22
-Long Island Rough Riders    12   7   5   0   23  14   21
-New Jersey Rangers          12   4   8   0   16  30   12
-New York Magic              12   3   9   0   23  30    9
-North Jersey Valkyries      12   0  12   0    5  30    0
+<!-- $table32$ - Northeast Division -->
 
-     Atlantic Division
-Atlanta Silverbacks Women   10   7   2   1   22   7   22
-Charlotte Lady Eagles       10   5   3   2   15   4   17
-Tampa Bay Hellenic          10   5   4   1   12  13   16
-Hampton Roads Piranhas      10   2   6   2    7  21    8
-Northern Virginia Majestics 10   2   8   0    6  25    6
+<!-- $table33$ - Atlantic Division -->
 
      CENTRAL CONFERENCE
-     Great Lakes Division
-Ottawa Fury Women           12   8   1   3   25   5   27
-Toronto Lady Lynx           12   7   2   3   15   6   24
-Laval Comets                12   6   3   3   17  10   21
-Quebec City Arsenal         12   6   4   2   16  12   20
-Rochester Ravens            12   2   9   1    8  24    7
-Hamilton Avalanche          12   1  11   0    5  29    3
+<!-- $table34$ - Great Lakes Division -->
 
-     Midwest Division
-Buffalo Flash               12  10   0   2   48   5   32
-Chicago Red Eleven          12   8   2   2   32   8   26
-Kalamazoo Outrage           12   4   7   1   18  26   13
-Cleveland Internationals Wom12   3   8   1   16  39   10
-London Gryphons             12   1   9   2    6  25    5
+<!-- $table35$ - Midwest Division -->
 
-     WESTERN CONFERENCE
-Vancouver Whitecaps Women   10   6   0   4   20   9   22
-Pali Blues                  10   3   4   3   16  14   12
-Seattle Sounders Women      10   2   2   6   12  12   12
-Colorado Rush               10   2   2   6   10  12   12
-Santa Clarita Blue Heat     10   2   6   2    6  16    8
-Colorado Force              10   2   3   5   11  12    7*
-   * - deducted 4 points.
+<!-- $table36$ - WESTERN CONFERENCE -->
 
 Divisional Round:      Toronto defeated Laval 2-0
 Conference Semifinals: Buffalo defeated Toronto 3-0

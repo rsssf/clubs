@@ -16,25 +16,9 @@ Major League Soccer
 
 Final Tables:
 
-Eastern Conference
- 1.Columbus Crew              30  17  6  7  50-36  57  Qualified
- 2.Chicago Fire               30  13  7 10  44-33  46  Qualified
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 3.New England Revolution     30  12  7 11  40-43  43  Qualified
- 4.Kansas City Wizards        30  11  9 10  37-39  42  Qualified
- 5.New York Red Bulls         30  10  9 11  42-48  39  Qualified
- 6.D.C. United                30  11  4 15  43-51  37
- 7.Toronto FC                 30   9  8 13  34-43  35
+<!-- $table1$ - Eastern Conference -->
 
-Western Conference
- 1.Houston Dynamo             30  13 12  5  45-32  51  Qualified
- 2.Chivas USA                 30  12  7 11  40-41  43  Qualified
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 3.Real Salt Lake             30  10 10 10  40-39  40  Qualified
- 4.Colorado Rapids            30  11  5 14  44-45  38
- 5.FC Dallas                  30   8 12 10  45-41  36
- 6.San Jose Earthquakes       30   8  9 13  32-38  33
- 7.Los Angeles Galaxy         30   8  9 13  55-62  33
+<!-- $table2$ - Western Conference -->
 
 NB: San Jose Earthquakes were readmitted
 
@@ -425,25 +409,9 @@ Columbus Crew           1-0 DC United
 
 Final Tables:
 
-Eastern Conference
- 1.Columbus Crew              30  17  6  7  50-36  57  Qualified
- 2.Chicago Fire               30  13  7 10  44-33  46  Qualified
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 3.New England Revolution     30  12  7 11  40-43  43  Qualified
- 4.Kansas City Wizards        30  11  9 10  37-39  42  Qualified
- 5.New York Red Bulls         30  10  9 11  42-48  39  Qualified
- 6.D.C. United                30  11  4 15  43-51  37
- 7.Toronto FC                 30   9  8 13  34-43  35
+<!-- $table3$ - Eastern Conference -->
 
-Western Conference
- 1.Houston Dynamo             30  13 12  5  45-32  51  Qualified
- 2.Chivas USA                 30  12  7 11  40-41  43  Qualified
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 3.Real Salt Lake             30  10 10 10  40-39  40  Qualified
- 4.Colorado Rapids            30  11  5 14  44-45  38
- 5.FC Dallas                  30   8 12 10  45-41  36
- 6.San Jose Earthquakes       30   8  9 13  32-38  33
- 7.Los Angeles Galaxy         30   8  9 13  55-62  33
+<!-- $table4$ - Western Conference -->
 
 NB: San Jose Earthquakes were readmitted
 
@@ -485,8 +453,7 @@ Columbus Crew           3-1 New York Red Bulls
 
 USL - 1ST DIVISION (2nd Division)
 
-<!-- $table1$ -->
-
+<!-- $table5$ - Final Table -->
 
 ▪ Championship Playoffs ▪
 
@@ -518,8 +485,7 @@ Vancouver Whitecaps      2-1 Puerto Rico Islanders
 
 USL - 2ND DIVISION (3rd Division)
 
-<!-- $table2$ -->
-
+<!-- $table6$ - Final Table -->
 
 ▪ Championship Playoffs ▪
 
@@ -601,94 +567,28 @@ USL - PREMIER DEVELOPMENT LEAGUE
 
                             GP   W   L   D   GF  GA  Pts
      EASTERN CONFERENCE
-     New England Division
-Cape Cod Crusaders          16   9   3   4   33  16   31
-Ottawa Fury                 16   9   4   3   38  22   30
-Vermont Voltage             16   8   7   1   28  30   25
-New Hampshire Phantoms      16   3   9   4   14  28   13
-Rhode Island Stingrays      16   2   9   5   21  38   11
+<!-- $table7$ - New England Division -->
 
-     Northeast Division
-Brooklyn Knights            16  10   2   4   33  17   34
-Newark Ironbound Express    16   8   2   6   33  17   30
-Long Island Rough Riders    16   8   4   4   36  26   28
-Westchester Flames          16   7   7   2   30  30   23
-Ocean City Barons           16   6   5   5   29  35   23
-New Jersey Rangers          16   2  12   2   12  42    8
+<!-- $table8$ - Northeast Division -->
 
-     Mid-Atlantic Division
-Reading Rage                16  11   3   2   32  12   35
-Fredericksburg Gunners      16   8   8   0   27  23   24
-Hampton Roads Piranhas      16   6   7   3   22  23   21
-Virginia Legacy             16   4   8   4   16  31   16
-Northern Virginia Royals    16   3   8   5   20  34   14
-Richmond Kickers Future     16   2   8   6   17  27   12
+<!-- $table9$ - Mid-Atlantic Division -->
 
      CENTRAL CONFERENCE
-     Great Lakes Division
-Michigan Bucks              16  13   1   2   40  13   41
-Cleveland Internationals    16  10   3   3   41  19   33
-Toronto Lynx                16   8   6   2   28  21   26
-Cincinnati Kings            16   3  10   3   14  32   12
-West Virginia Chaos         16   1   8   7   17  32   10
+<!-- $table10$ - Great Lakes Division -->
 
-     Midwest Division
-Chicago Fire Premier        16   8   2   6   26  12   30
-Kalamazoo Outrage           16   8   6   2   27  24   26
-Indiana Invaders            16   6   6   4   20  21   22
-Fort Wayne Fever            16   2   9   5   16  33   11
-West Michigan Edge          16   2  10   4   18  40   10
+<!-- $table11$ - Midwest Division -->
 
-     Heartland Division
-Thunder Bay Chill           16  13   2   1   42  17   40
-Colorado Rapids U-23        16   8   5   3   34  25   27
-Des Moines Menace           16   7   4   5   29  18   26
-St. Louis Lions             16   7   5   4   29  27   25
-Kansas City Brass           16   6   9   1   23  30   19
-Springfield Demize          16   0  16   0    8  48    0
+<!-- $table12$ - Heartland Division -->
 
      SOUTHERN CONFERENCE
-     Mid-South Division
-Austin Aztex U23's          16  10   5   1   25  11   31
-Laredo Heat                 16   8   4   4   33  15   28
-El Paso Patriots            16   8   5   3   22  20   27
-Mississippi Brilla          16   7   6   3   26  23   24
-Baton Rouge Capitals        16   7   8   1   20  23   22
-DFW Tornados                16   6   7   3   17  20   21
-New Orleans Jesters         16   5   8   3   18  28   18
+<!-- $table13$ - Mid-South Division -->
 
-     Southeast Division
-Central Florida Kraze       16  11   3   2   38  18   35
-Bradenton Academics         16  10   2   4   37  13   34
-Cary Clarets                16   9   5   2   40  29   29
-Atlanta Silverbacks U23's   16   9   6   1   38  29   28
-Panama City Pirates         16   7   6   3   35  20   24
-Carolina Dynamo             16   7   7   2   35  31   23
-Nashville Metros            16   3  13   0   12  42    9
-Palm Beach Pumas (-4)       16   1  15   0    9  62   -1
+<!-- $table14$ - Southeast Division -->
 
      WESTERN CONFERENCE
-     Southwest Division
-San Fernando Valley Quakes  16   8   2   6   32  25   30
-Fresno Fuego                16   9   5   2   38  27   29
-Ventura County Fusion       16   8   5   3   24  14   27
-San Francisco Seals         16   8   5   3   21  17   27
-San Jose Frogs              16   7   6   3   26  20   24
-Los Angeles Legends         16   6   6   4   32  25   22
-Bakersfield Brigade         16   4   5   7   16  21   19
-Orange County Blue Star     16   5   8   3   24  31   18
-Southern Calif. Seahorses   16   3   8   5   15  27   14
-Lancaster Rattlers          16   2  10   4   18  39   10
+<!-- $table15$ - Southwest Division -->
 
-     Northwest Division
-Tacoma Tide                 16  11   4   1   46  23   34
-Vancouver Whitecp. Residency16  11   4   1   34  14   34
-Yakima Reds                 16   9   6   1   31  25   28
-BYU Cougars                 16   7   6   3   21  20   24
-Odgen Outlaws               16   6   8   2   18  21   20
-Abbottsford Mariners        16   5   8   3   26  32   18
-Cascade Surge               16   3   8   5   17  35   14
-Spokane Spiders             16   3  11   2   20  43   11
+<!-- $table16$ - Northwest Division -->
 
 Divisional Round:        Kalamazoo defeated Chicago 2-0
                          Thunder Bay defeated Colorado 3-1

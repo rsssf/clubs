@@ -10,23 +10,11 @@
 
 Tables:
 
-      Eastern Division
- 1.Miami Fusion               26 16  5  5 57-36  53  Qualified
- 2.NY/NJ MetroStars           26 13  3 10 38-35  42  Qualified
- 3.New England Revolution     27  7  6 14 35-52  27
- 4.DC United                  26  8  2 16 42-50  26
+<!-- $table1$ - Eastern Division -->
 
-      Central Division
- 1.Chicago Fire               27 16  5  6 50-30  53  Qualified
- 2.Columbus Crew              26 13  6  7 49-36  45  Qualified
- 3.Dallas Burn                26 10  5 11 48-47  35  Qualified
- 4.Tampa Bay Mutiny           27  4  2 21 32-68  14
+<!-- $table2$ - Central Division -->
 
-      Western Division
- 1.Los Angeles Galaxy         26 14  5  7 52-36  47  Qualified
- 2.San Jose Earthquakes       26 13  6  7 47-29  45  Qualified
- 3.Kansas City Wizards        27 11  3 13 33-53  36  Qualified
- 4.Colorado Rapids            26  5  8 13 36-47  21
+<!-- $table3$ - Western Division -->
 
 ▪ Round 1 ▪  Apr 7
 Columbus Crew        1-1 Chicago Fire
@@ -295,23 +283,11 @@ San Jose Earthquakes n/p Los Angeles Galaxy
 
 Tables:
 
-      Eastern Division
- 1.Miami Fusion               26 16  5  5 57-36  53  Qualified
- 2.NY/NJ MetroStars           26 13  3 10 38-35  42  Qualified
- 3.New England Revolution     27  7  6 14 35-52  27
- 4.DC United                  26  8  2 16 42-50  26
+<!-- $table4$ - Eastern Division -->
 
-      Central Division
- 1.Chicago Fire               27 16  5  6 50-30  53  Qualified
- 2.Columbus Crew              26 13  6  7 49-36  45  Qualified
- 3.Dallas Burn                26 10  5 11 48-47  35  Qualified
- 4.Tampa Bay Mutiny           27  4  2 21 32-68  14
+<!-- $table5$ - Central Division -->
 
-      Western Division
- 1.Los Angeles Galaxy         26 14  5  7 52-36  47  Qualified
- 2.San Jose Earthquakes       26 13  6  7 47-29  45  Qualified
- 3.Kansas City Wizards        27 11  3 13 33-53  36  Qualified
- 4.Colorado Rapids            26  5  8 13 36-47  21
+<!-- $table6$ - Western Division -->
 
 ▪ Championship Playoffs ▪
 
@@ -363,32 +339,11 @@ Los Angeles Galaxy   1-2 San Jose Earthquakes    (aet)
                                THE A-LEAGUE (2nd Division)
 
                             GP   W   D   L   GF  GA  BP Pts
-     Northern Conference
-Hershey Wildcats            26  16   3   7   45  20   8  75
-Rochester Raging Rhinos     26  16   4   6   43  27   6  74
-Pittsburgh Riverhounds      26  10   4  12   39  39   6  50
-Montreal Impact             26  10   2  14   29  37   3  45
-Connecticut Wolves          26   9   6  11   30  37   1  43
-Long Island Rough Riders    26   8   4  16   31  50   5  33
-Toronto Lynx                26   7   3  16   20  41   1  32
+<!-- $table7$ - Northern Conference -->
 
-     Central Conference
-Richmond Kickers            26  16   3   7   47  34   9  76
-Charleston Battery          26  16   1   9   51  34   8  73
-Charlotte Eagles            26  14   2  10   50  41   8  66
-Nashville Metros            26  14   2  10   47  48   5  63
-Atlanta Silverbacks         26  13   1  12   48  39   6  59
-Indiana Blast               26   8   0  18   38  55   3  35
-Cincinnati Riverhawks       26   6   0  20   39  80   3  27
+<!-- $table8$ - Central Conference -->
 
-     Western Conference
-Vancouver Whitecaps         26  16   2   8   44  33   8  74
-San Diego Flash F. C.       26  14   1  11   55  42  11  68
-Milwaukee Rampage           26  14   2  10   45  40   5  63
-Portland Timbers            26  13   3  10   41  38   7  62
-Seattle Sounders            26  13   1  12   40  39   4  57
-Minnesota Thunder           26   9   2  15   29  34   3  41
-El Paso Patriots            26   8   4  14   39  42   4  40
+<!-- $table9$ - Western Conference -->
 
 First Round:      Pittsburgh defeated Charleston 2-1, 3-1
                   San Diego defeated Atlanta 2-0, 2-2
@@ -406,28 +361,11 @@ CHAMPIONSHIP:     Rochester defeated Hershey 2-0
                       D-3 PRO LEAGUE (3rd Division)
 
                             GP   W   D   L   GF  GA  BP Pts
-     Northern Conference
-Boston Bulldogs             18  10   2   6   41  27   8  50
-New Hampshire Phantoms      18   8   2   8   35  31   7  41
-New Jersey Stallions        18   9   2   7   26  25   3  41
-Reading Rage                18   8   2   8   32  33   5  39
-Rhode Island Stingrays      18   8   1   9   34  39   5  38
-South Jersey Barons         18   6   1  11   35  42   5  30
-Western Mass. Pioneers      18   6   1  11   29  36   4  29
+<!-- $table10$ - Northern Conference -->
 
-     Southern Conference
-Wilmington Hammerheads      17  11   0   6   39  23   6  50
-Carolina Dynamo             18   9   3   6   29  20   5  44
-Greenville Lions            18   5   3  10   25  31   4  27
-Northern Virginia Royals    17   1   0  16    9  63   0   4
+<!-- $table11$ - Southern Conference -->
 
-     Western Conference
-Utah Blitzz                 18  14   1   3   59  22  11  68
-Chico Rooks                 18  11   1   6   43  25   7  52
-Stanislaus United Cruisers  18  10   1   7   32  31   4  45
-Arizona Sahuaros            18   5   2  11   25  39   4  26
-Tucson Fireballs            18   5   0  13   40  64   5  25
-Northern Nevada Aces        18   4   1  14   24  55   3  20
+<!-- $table12$ - Western Conference -->
 
 Conference Finals:  Boston defeated New Jersey 2-0
  (incomplete)       Wilmington defeated Greenville 3-3 (4-3 PK)
@@ -442,66 +380,23 @@ CHAMPIONSHIP:       Utah defeated Greenville 1-0
 
                             GP   W   D   L   GF  GA  BP Pts
      EASTERN CONFERENCE
-     Northeast Division
-Westchester Flames          20  13   3   4   48  25  10  65
-Brooklyn Knights            19  12   1   6   48  27   8  57
-Vermont Voltage             20  10   3   7   51  25   8  51
-North Jersey Imperials      20  10   3   7   42  40   7  50
-New York Freedoms           19  10   2   7   41  33   8  50
-Cape Cod Crusaders          20   9   3   8   39  36   5  44
-Chesapeake Dragons          18   4   2  12   30  45   4  22
+<!-- $table13$ - Northeast Division -->
 
-     Southeast Division
-Cocoa Expos                 20  14   1   5   55  37   9  66
-Miami Strike Force          20  13   0   7   46  38   8  60
-Bradenton Academics         19   9   1   9   40  34  6   43
-Central Florida Kraze       20   8   1  11   37  36   4  37
-Tampa Bay Hawks             20   6   2  12   39  41   6  32
-Palm Beach Pumas            19   6   1  12   30  58   4  29
+<!-- $table14$ - Southeast Division -->
 
      CENTRAL CONFERENCE
-     Heartland Division
-Sioux Falls Spitfire        20  17   1   2   54  19   9  78
-Chicago Fire Reserves       20  15   1   4   49  18  11  72
-Des Moines Menace           20  11   2   7   38  23   6  52
-Chicago Eagles Reserves     20   8   2  10   33  33   4  38
-Thunder Bay Chill           20   6   1  13   26  48   3  28
-Twin Cities Phoenix         20   3   0  17   34  61   3  15
+<!-- $table15$ - Heartland Division -->
 
-     Great Lakes Division
-West Michigan Edge          20  13   0   7   50  42  10  62
-Mid-Michigan Bucks          20  10   1   9   43  46   7  48
-Indiana Invaders            19   9   1   9   37  41   9  46
-Kalamazoo Kingdom           20   9   1  10   43  39   6  43
-Dayton Gemini               19   5   0  14   24  48   3  23
+<!-- $table16$ - Great Lakes Division -->
 
-    Mid-South Division
-Texas Spurs                 20  16   1   3   68  22  12  77
-Lafayette Lightning         20  13   2   5   50  49  11  65
-Louisiana Outlaws           20   7   1  12   40  56   7  36
-West Dallas Kings           20   6   0  14   33  49   4  28
+<!-- $table17$ - Mid-South Division -->
 
      WESTERN CONFERENCE
-     Rocky Mountain Division
-Denver Cougars              20  15   1   4   63  28  11  72
-Boulder Nova                19  11   0   8   46  35  10  54
-Wichita Jets                19   7   0  12   29  52   5  33
-Colorado Springs Ascent     19   4   1  14   32  63   6  23
-Kansas City Brass           20   2   0  15   27  53   4  12
+<!-- $table18$ - Rocky Mountain Division -->
 
-     Southwest Division
-Orange County Blue Star     20  14   0   6   51  34  10  66
-Southern Calif. Seahorses   20  13   1   6   56  30   9  62
-Central Coast Roadrunners   20  12   0   8   53  35   8  56
-San Fernando Valley Heroes  20   7   2  11   38  43   5  35
+<!-- $table19$ - Southwest Division -->
 
-     Northwest Division
-Calgary Storm               20  18   0   2   47   9   8  80
-Seattle Sounders Select     19  14   0   5   42  23   7  63
-Spokane Shadow              20  12   0   8   42  31   6  54
-Cascade Surge               20   7   0  13   27  42   3  31
-Yakima Reds                 19   5   1  13   20  44   1  22
-Okanagan Predators          20   2   1  17   18  47   1  10
+<!-- $table20$ - Northwest Division -->
 
 Semifinals:    Westchester defeated Sioux Falls 5-1
                Calgary defeated Des Moines 2-1
@@ -509,18 +404,7 @@ Third Place:   Sioux Falls defeated Des Moines 1-0
 CHAMPIONSHIP:  Westchester defeated Calgary 3-1
 
 
-WOMEN'S UNITED SOCCER ASSOCIATION
-
-                            GP   W   D   L   GF  GA  PTS
-
-Atlanta Beat                21  10   7   4   31  21   37
-Bay Area Cyberrays          21  11   4   6   27  23   37
-New York Power              21   9   5   7   30  25   32
-Philadelphia Charge         21   9   4   8   35  28   31
-San Diego Spirit            21   7   7   7   29  28   28
-Boston Breakers             21   8  10   3   29  35   27
-Washington Freedom          21   6  12   3   28  40   21
-Carolina Courage            21   6   3  12   28  40   21
+<!-- $table21$ - WOMEN'S UNITED SOCCER ASSOCIATION -->
 
 Semifinals:     Bay Area defeated New York, 3-2
                 Atlanta defeated Philadelphia, 3-2
@@ -532,32 +416,11 @@ W-LEAGUE
                       W-1 Division
 
                             GP   W   D   L   GF  GA  BP Pts
-     Northern Conference
-Long Island Lady Riders     14  11   1   2   36  11   6  51
-Toronto Inferno             15  10   2   3   42  19   9  51
-Boston Renegades            15  10   3   2   44  12   6  49
-Springfield Sirens          14   9   2   3   33  14   5  43
-Ottawa Fury                 14   5   3   6   21  17   2  25
-Laval Dynamites             14   3   1  10   22  32   5  18
-New York Magic              14   2   2  10   21  36   3  13
-Rochester Ravens            14   0   0  14    1  83   0   0
+<!-- $table22$ - Northern Conference -->
 
-     Eastern Conference
+<!-- $table23$ - Eastern Conference -->
 
-Maryland Pride              13  12   1   0   30  11   6  55
-Hampton Road Piranhas       14  10   2   2   38   9   7  49
-New Jersey Lady Stallions   14   5   0   9   19  26   3  23
-Jacksonville Jade           14   5   1   8   19  30   2  23
-Tampa Bay Extreme           13   4   2   7   19  21   2  20
-
-     Western Conference
-Vancouver Breakers          14  12   1   1   39   9   7  56
-Texas Odyssey               14   7   1   6   34  21   5  34
-Seattle Sounders Select Wmn 15   7   4   4   19  18   2  34
-Fort Collins Force          14   6   1   7   20  25   3  28
-Mile High Mustangs          14   5   3   6   23  22   4  27
-Arizona Heatwave            14   5   0   9   18  30   3  23
-Portland Rain                0   0   0   0    0   0   0   0
+<!-- $table24$ - Western Conference -->
 
 Semifinals:        Boston defeated Maryland 3-0
                    Vancouver defeated Hampton Roads 1-0
@@ -566,29 +429,11 @@ CHAMPIONSHIP:      Boston defeated Vancouver 5-1.
                            W-2 Division
 
                             GP   W   L   D   GF  GA  BP Pts
-     Eastern Conference
-Charlotte Lady Eagles       10   9   0   1   42   7   9  45
-South Jersey Banshees       12   7   1   4   23  15   5  34
-Northern Virginia Majestics  9   4   1   4   19  13   4  21
-New Hampshire Lady Phantoms  9   4   0   5   17  30   3  19
-Piedmont Spark               9   4   0   5   18  21   1  17
-New Jersey Wildcats         10   2   0   8   11  39   1   9
-Rhode Island Rays            8   1   0   7   11  28   2   6
+<!-- $table25$ - Eastern Conference -->
 
-     Central Conference
-Cincinnati Ladyhawks        12   8   1   3   35  20   6  39
-Chicago Cobras              10   8   0   2   27   6   6  38
-Kentucky Fillies            12   7   1   4   22  21   3  32
-Indiana Blaze               11   4   1   6   12  15   1  18
-Cleveland Eclipse           10   3   1   6   13  21   1  14
-Windy City Bluez            11   0   2   9   10  36   0   2
+<!-- $table26$ - Central Conference -->
 
-     Western Division
-Memphis Mercury             11  10   0   1   51  12   9  49
-Kansas City Mystics          9   5   1   3   19  21   3  24
-Denver Lady Cougars         10   5   0   5   28  18   2  22
-Oklahoma Outrage             9   4   1   4   29  20   3  20
-Houston Tornados            10   0   0  10    1  68   0   0
+<!-- $table27$ - Western Division -->
 
 Semifinals:   Charlotte defeated Oklahoma 3-1
               Memphis defeated Chicago 3-2
@@ -596,17 +441,7 @@ Third Place:  Chicago defeated Oklahoma 3-2
 CHAMPIONSHIP: Charlotte defeated Memphis 3-1
 
 
-WOMEN'S PREMIER SOCCER LEAGUE
-
-                          GP   W   L   T   GF  GA  Pt
-
-Southern Cal Ajax         12   9   2   1   33  12  28
-San Diego W.F.C.          12   8   2   2   28  10  26
-California Storm          12   6   4   2   27  15  20
-East Bay Power            12   5   5   2   24  20  17
-Utah Spiders              11   5   6   0   21  28  15
-San Francisco Nighthawks  12   4   8   0   12  26  12
-Las Vegas Shooters        12   0  10   1    6  36   1
+<!-- $table28$ - WOMEN'S PREMIER SOCCER LEAGUE -->
 
 Champion:  Southern Cal Ajax.
 
