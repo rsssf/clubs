@@ -1,6 +1,12 @@
-  <!--
-     source: https://rsssf.org/tableso/oost09.html
-    -->
+<!--
+  source: https://rsssf.org/tableso/oost09.html
+
+  outline: -/h2/-/-/-/-
+           -/1/-/-/-/-
+    (2) ==      Austria 2008/09
+
+  aname 2: ‹§salzcup›,‹§steicup›
+ -->
   
 
 

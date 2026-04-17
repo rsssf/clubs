@@ -1,6 +1,12 @@
-  <!--
-     source: https://rsssf.org/tableso/oost05.html
-    -->
+<!--
+  source: https://rsssf.org/tableso/oost05.html
+
+  outline: -/h2/-/-/-/-
+           -/1/-/-/-/-
+    (2) ==      Austria 2004/05
+
+  aname 2: ‹§salzcup›,‹§tircup›
+ -->
   
 
 

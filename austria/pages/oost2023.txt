@@ -1,6 +1,17 @@
-  <!--
-     source: https://rsssf.org/tableso/oost2023.html
-    -->
+<!--
+  source: https://rsssf.org/tableso/oost2023.html
+
+  outline: -/h2/-/h4/-/-
+           -/1/-/5/-/-
+    (2) ==      Austria 2022/23
+    (4) ====    Bundesliga  ‹§bund›
+    (4) ====    ÖFB Cup  ‹§cup›
+    (4) ====    2. Liga (Second Level)  ‹§1liga›
+    (4) ====    Regionalliga  ‹§regliga›
+    (4) ====    Cup Tournaments Bundesländer  ‹§bundcup›
+
+  aname 17: ‹§bund›,‹§cup›,‹§1liga›,‹§regliga›,‹§regwest›,‹§regmitte›,‹§regost›,‹§bundcup›,‹§burgcup›,‹§kaerncup›,‹§noecup›,‹§ooecup›,‹§salzcup›,‹§steicup›,‹§tircup›,‹§vorcup›,‹§wiencup›
+ -->
   
 
 

@@ -1,6 +1,12 @@
-  <!--
-     source: https://rsssf.org/tableso/oost99.html
-    -->
+<!--
+  source: https://rsssf.org/tableso/oost99.html
+
+  outline: -/h2/-/-/-/-
+           -/1/-/-/-/-
+    (2) ==      Austria 1998/99
+
+  aname 2: ‹§tircup›,‹§tirol›
+ -->
   
 
 
@@ -971,7 +977,8 @@ Untersiebenbrunn and Wattens promoted, Spittal relegated.
 
 Third Level (Regionalliga's)
 
-==== Regionalliga Ost ====
+Regionalliga Ost
+================
 
               Bau Deu Don Eis FAC Him Hor Kli Kot Mat Neu Pra Sch Unt Wai Wue
 Baumgarten    xxx 4-0 2-1 0-2 1-1 0-0 2-1 0-0 1-1 0-3 2-0 1-1 1-0 2-3 1-1 1-1
@@ -997,7 +1004,8 @@ Prater-Neuberg awarded 0-3 (originally 2-0)
 Promoted to RL Ost: Zwettl (Niederösterreich), Rohrbach (Burgenland),
                     1.Simmeringer SC (Wien)
 
-==== Regionalliga Mitte ====
+Regionalliga Mitte
+==================
               Ble Ein Gra Gri Har Lei LUV Pas Rap SAK StF StV Voi WAC
 Bleiburg      xxx 0-0 0-0 3-2 0-2 2-0 4-0 1-1 1-5 2-2 2-0 1-1 0-3 0-2
 Eintracht     2-0 xxx 0-3 0-0 2-1 3-0 4-0 0-0 2-0 3-0 2-2 2-3 0-2 1-1
@@ -1019,7 +1027,8 @@ Wolfsberg     4-2 0-2 1-2 4-1 1-1 0-0 4-0 0-3 0-1 3-2 3-1 1-1 0-0 xxx
 Promoted to RL Mitte: Bleiberg (Kärnten), Donau Linz (Oberösterreich)
                       and Zeltweg (Steiermark)
 
-==== Regionalliga West ====
+Regionalliga West
+=================
             Alt Ani Aus Hal Har Kuf Kun Lau Lus Nen Puc Rei Rum SAK Tir Wat
 Altach      xxx 6-0 1-0 2-0 1-1 3-0 1-1 3-1 3-1 4-0 0-0 6-0 4-0 2-0 3-0 1-3
 Anif        1-1 xxx 0-2 0-1 1-2 1-2 1-2 1-1 1-2 0-1 2-3 1-3 0-2 1-1 4-1 0-1
@@ -1052,13 +1061,16 @@ Thanks to Wolfgang Lorber for Kärnten and Steiermark.
 
 Thanks to Andreas Exenberger for Tirol and Vorarlberg.
 
-==== Kärnten ====
+Kärnten
+=======
 
-==== Fourth Level ====
+Fourth Level
+============
 
 <!-- $table8$ - Landesliga -->
 
-==== Fifth Level ====
+Fifth Level
+===========
 
 <!-- $table9$ - Unterliga Ost -->
 
@@ -1067,7 +1079,8 @@ Thanks to Andreas Exenberger for Tirol and Vorarlberg.
 Unterliga Relegation:
 DSG Ferlach 10:0 Fürnitz (4:0, 6:0)
 
-==== Sixth Level ====
+Sixth Level
+===========
 
 <!-- $table11$ - 1. Klasse A -->
 
@@ -1077,7 +1090,8 @@ DSG Ferlach 10:0 Fürnitz (4:0, 6:0)
 
 <!-- $table14$ - 1. Klasse D -->
 
-==== Seventh Level ====
+Seventh Level
+=============
 
 <!-- $table15$ - 2. Klasse A -->
 
@@ -1090,19 +1104,23 @@ DSG Ferlach 10:0 Fürnitz (4:0, 6:0)
 <!-- $table19$ - 2. Klasse E -->
 
 
-==== Oberösterreich ====
+Oberösterreich
+==============
 
-==== Fourth Level ====
+Fourth Level
+============
 
 <!-- $table20$ - Landesliga -->
 
-==== Fifth Level ====
+Fifth Level
+===========
 
 <!-- $table21$ - 2. Landesliga Ost -->
 
 <!-- $table22$ - 2. Landesliga West -->
 
-==== Sixth Level ====
+Sixth Level
+===========
 
 <!-- $table23$ - Bezirksliga Nord -->
 
@@ -1112,7 +1130,8 @@ DSG Ferlach 10:0 Fürnitz (4:0, 6:0)
 
 <!-- $table26$ - Bezirksliga West -->
 
-==== Seventh Level ====
+Seventh Level
+=============
 
 Champions:
 
@@ -1125,7 +1144,8 @@ Champions:
 1. Klasse Süd:        Ohlsdorf
 1. Klasse Südwest:    Sankt Pantaleon
 
-==== Eighth Level ====
+Eighth Level
+=============
 
 Champions:
 
@@ -1144,25 +1164,30 @@ Champions:
 2. Klasse West:       Utzenaich
 
 
-==== Salzburg ====
+Salzburg
+========
 
-==== Fourth Level ====
+Fourth Level
+============
 
 <!-- $table27$ - Landesliga -->
 
-==== Fifth Level ====
+Fifth Level
+===========
 
 <!-- $table28$ - 2. Landesliga Nord -->
 
 <!-- $table29$ - 2. Landesliga Süd -->
 
-==== Sixth Level ====
+Sixth Level
+===========
 
 <!-- $table30$ - 1. Klasse Nord -->
 
 <!-- $table31$ - 1. Klasse Süd -->
 
-==== Seventh Level ====
+Seventh Level
+=============
 
 <!-- $table32$ - 2. Klasse Nord A -->
 
@@ -1172,16 +1197,19 @@ Champions:
 
 <!-- $table35$ - 2. Klasse Südwest -->
 
-==== Steiermark ====
+Steiermark
+==========
 
-==== Fourth Level ====
+Fourth Level
+============
 
 <!-- $table36$ - Landesliga -->
 
 Flavia Solva merge with SV Leibnitz and will play as SV Leibnitz/Flavia Solva
 in the Landesliga 1999/2000.
 
-==== Fifth Level ====
+Fifth Level
+===========
 
 <!-- $table37$ - Oberliga Süd/Ost -->
 
@@ -1189,7 +1217,8 @@ in the Landesliga 1999/2000.
 
 <!-- $table39$ - Oberliga Nord -->
 
-==== Sixth Level ====
+Sixth Level
+===========
 
 <!-- $table40$ -->
 
@@ -1199,7 +1228,8 @@ in the Landesliga 1999/2000.
 
 <!-- $table43$ - Unterliga West -->
 
-==== Seventh Level ====
+Seventh Level
+=============
 
 <!-- $table44$ - Gebietsliga Süd -->
 
@@ -1215,7 +1245,8 @@ in the Landesliga 1999/2000.
 
 <!-- $table50$ - Gebietsliga Enns -->
 
-==== Eighth Level ====
+Eighth Level
+============
 
 <!-- $table51$ - 1. Klasse Süd A -->
 
@@ -1244,7 +1275,8 @@ in the Landesliga 1999/2000.
 <!-- $table63$ - 1. Klasse Palten/Liesing -->
 
 
-==== Tirol ====
+Tirol
+=====
 
 **************************
      ‹§tircup›FOHRENBURGER CUP
@@ -1346,7 +1378,8 @@ quarter-final on neutral ground.
 
 
 
-==== Fourth Level ====
+Fourth Level
+============
 
 Tiroler Liga  ‹§tirol›
 
@@ -1378,7 +1411,8 @@ Thiersee   5-1 2-0 0-1 4-1 1-2 0-1 2-1 0-1 6-2 1-2 4-1 4-1 1-0 *** 1-0 4-2
 Vils       0-2 1-0 1-5 0-3 2-1 1-1 2-2 0-0 2-0 1-1 2-0 0-2 1-0 3-0 *** 7-0
 Vomp       1-0 3-5 1-1 2-0 0-6 0-6 1-3 1-1 3-3 0-0 3-6 1-2 2-7 2-2 0-1 ***
 
-==== Fifth Level ====
+Fifth Level
+===========
 
 Landesliga Ost
 
@@ -1392,7 +1426,8 @@ Changes:
 - Relegated from Tiroler Liga: FC Vomp (Ost), SC Imst (West)
 - Promoted from Gebietsliga: SV Breitenbach (Ost), SV Längenfeld (West)
 
-==== Sixth Level ====
+Sixth Level
+===========
 
 Gebietsliga Ost
 
@@ -1407,7 +1442,8 @@ Changes:
 - Promoted from 1.Klasse: FC Kramsach (Ost), SV Lohbach/Kranebitten, SK Seefeld(West)
 - WSG Wattens Amateure moves from Group West to Group Ost
 
-==== Seventh Level ====
+Seventh Level
+=============
 
 1.Klasse Ost
 
@@ -1426,7 +1462,8 @@ Changes:
 - Promoted from 2.Klasse: SC Going (Ost), SV Tulfes (Mitte), FC Pettneu (West)
 - FC Flaurling/Polling moves from Group West to Group Mitte
 
-==== Eighth Level ====
+Eighth Level
+============
 
 2.Klasse Ost
 
@@ -1450,9 +1487,11 @@ Changes:
 - SV Hall II is dissolved
 
 
-==== Vorarlberg ====
+Vorarlberg
+==========
 
-==== Fourth Level ====
+Fourth Level
+============
 
 Vorarlberg-Liga
 
@@ -1460,25 +1499,29 @@ Vorarlberg-Liga
 
 No relegation from Regionalliga
 
-==== Fifth Level ====
+Fifth Level
+===========
 
 Landesliga
 
 <!-- $table76$ - Final Standings -->
 
-==== Sixth Level ====
+Sixth Level
+===========
 
 1.Landesklasse
 
 <!-- $table77$ - Final Standings -->
 
-==== Seventh Level ====
+Seventh Level
+=============
 
 2.Landesklasse
 
 <!-- $table78$ - Final Standings -->
 
-==== Eighth Level ====
+Eighth Level
+============
 
 3.Landesklasse
 
@@ -1487,15 +1530,18 @@ Landesliga
 No relegation, lowest class
 
 
-==== Wien ====
+Wien
+====
 
-==== Fourth Level ====
+Fourth Level
+============
 
 <!-- $table80$ - Stadtliga -->
 
 [*] the SG FavAC/Simmering was dissolved before the season.
 
-==== Fifth Level ====
+Fifth Level
+===========
 
 <!-- $table81$ - Unterliga A -->
 
@@ -1504,19 +1550,22 @@ No relegation, lowest class
 
 <!-- $table82$ - Unterliga B -->
 
-==== Sixth Level ====
+Sixth Level
+===========
 
 <!-- $table83$ - 1. Klasse A -->
 
 <!-- $table84$ - 1. Klasse B -->
 
-==== Seventh Level ====
+Seventh Level
+=============
 
 <!-- $table85$ - 2. Klasse A -->
 
 <!-- $table86$ - 2. Klasse B -->
 
-==== Eighth Level ====
+Eighth Level
+=============
 
 <!-- $table87$ - 3. Klasse -->
 

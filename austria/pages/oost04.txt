@@ -1,6 +1,12 @@
-  <!--
-     source: https://rsssf.org/tableso/oost04.html
-    -->
+<!--
+  source: https://rsssf.org/tableso/oost04.html
+
+  outline: -/h2/-/-/-/-
+           -/1/-/-/-/-
+    (2) ==      Austria 2003/04
+
+  aname 2: ‹§tirol›,‹§tircup›
+ -->
   
 
 

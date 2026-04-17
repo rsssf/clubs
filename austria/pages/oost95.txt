@@ -1,6 +1,12 @@
-  <!--
-     source: https://rsssf.org/tableso/oost95.html
-    -->
+<!--
+  source: https://rsssf.org/tableso/oost95.html
+
+  outline: -/h2/-/-/-/-
+           -/1/-/-/-/-
+    (2) ==      Austria 1994/95
+
+  aname 1: ‹§tirol›
+ -->
   
 
 

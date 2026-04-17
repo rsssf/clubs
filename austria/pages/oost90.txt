@@ -1,13 +1,18 @@
-  <!--
-     source: https://rsssf.org/tableso/oost90.html
-    -->
+<!--
+  source: https://rsssf.org/tableso/oost90.html
+
+  outline: -/h2/-/-/-/-
+           -/1/-/-/-/-
+    (2) ==      Austria 1989/90
+ -->
   
 
 
 == Austria 1989/90
 
 
-==== Fall Season ====
+Fall Season
+===========
 
 1.Bundesliga
 ------------
@@ -227,7 +232,8 @@ Sportclub    1-1 Vienna
 
 <!-- $table2$ - Table -->
 
-==== Spring season ====
+Spring season
+=============
 
 Meisterplayoff
 --------------
@@ -346,11 +352,13 @@ rounded) and obtained in spring respectively.]
 <!-- $topscorers1$ -->
 
 
-==== Fall season ====
+Fall season
+===========
 
 <!-- $table5$ - 2. Bundesliga -->
 
-==== Spring season ====
+Spring season
+=============
 
 Mittlere Playoff
 ----------------

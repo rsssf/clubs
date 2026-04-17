@@ -1,6 +1,10 @@
-  <!--
-     source: https://rsssf.org/tableso/oost94.html
-    -->
+<!--
+  source: https://rsssf.org/tableso/oost94.html
+
+  outline: -/h2/-/-/-/-
+           -/1/-/-/-/-
+    (2) ==      Austria 1993/94
+ -->
   
 
 
@@ -431,7 +435,8 @@ Promoted to Vorarlberger Liga: FC Wolfurt.
 
 
 
-==== ÖFB Snickers Cup 1993/94 ====
+ÖFB Snickers Cup 1993/94
+=========================
 
 ▪ Round 3 ▪
 -------

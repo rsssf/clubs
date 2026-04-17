@@ -1,6 +1,12 @@
-  <!--
-     source: https://rsssf.org/tableso/oost01.html
-    -->
+<!--
+  source: https://rsssf.org/tableso/oost01.html
+
+  outline: -/h2/-/-/-/-
+           -/1/-/-/-/-
+    (2) ==      Austria 2000/01
+
+  aname 2: ‹§tirol›,‹§tircup›
+ -->
   
 
 

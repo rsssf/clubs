@@ -1,13 +1,18 @@
-  <!--
-     source: https://rsssf.org/tableso/oost87.html
-    -->
+<!--
+  source: https://rsssf.org/tableso/oost87.html
+
+  outline: -/h2/-/-/-/-
+           -/1/-/-/-/-
+    (2) ==      Austria 1986/87
+ -->
   
 
 
 == Austria 1986/87
 
 
-==== Fall season ====
+Fall season
+===========
 
 1.Bundesliga
 ------------
@@ -231,7 +236,8 @@ Sportclub        0-1 VOEST
 
 <!-- $table2$ - Table -->
 
-==== Spring season ====
+Spring season
+=============
 
 Meisterplayoff
 --------------
@@ -351,14 +357,16 @@ VOEST            1-1 Admira/Wacker
 <!-- $topscorers1$ -->
 
 
-==== Fall season ====
+Fall season
+===========
 
 2.Bundesliga
 ------------
 
 <!-- $table5$ -->
 
-==== Spring season: ====
+Spring season:
+==============
 
 Mittlere Playoff
 ----------------

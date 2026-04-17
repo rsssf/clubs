@@ -1,12 +1,17 @@
-  <!--
-     source: https://rsssf.org/tableso/oost86.html
-    -->
+<!--
+  source: https://rsssf.org/tableso/oost86.html
+
+  outline: -/h2/-/-/-/-
+           -/1/-/-/-/-
+    (2) ==      Austria 1985/86
+ -->
   
 
 
 == Austria 1985/86
 
-==== Fall season ====
+Fall season
+===========
 
 1.Bundesliga
 ------------
@@ -223,7 +228,8 @@ Innsbruck        1-1 VOEST
 
 <!-- $table2$ - Table -->
 
-==== Spring season ====
+Spring season
+=============
 
 Meisterplayoff
 --------------
@@ -343,14 +349,16 @@ Rapid      3-3 Innsbruck
 <!-- $topscorers1$ -->
 
 
-==== Fall season ====
+Fall season
+===========
 
 2.Bundesliga
 ------------
 
 <!-- $table5$ -->
 
-==== Spring season: ====
+Spring season:
+==============
 
 Mittlere Playoff
 ----------------

@@ -1,12 +1,17 @@
-  <!--
-     source: https://rsssf.org/tableso/oost91.html
-    -->
+<!--
+  source: https://rsssf.org/tableso/oost91.html
+
+  outline: -/h2/-/-/-/-
+           -/1/-/-/-/-
+    (2) ==      Austria 1990/91
+ -->
   
 
 
 == Austria 1990/91
 
-==== Fall season ====
+Fall season
+===========
 
 1.Bundesliga
 ------------
@@ -233,7 +238,8 @@ St. Pölten    2-2 Sturm
 <!-- $table2$ - Table -->
 
 
-==== Spring season ====
+Spring season
+=============
 
 Meisterplayoff
 --------------
@@ -351,11 +357,13 @@ Austria Salzburg 1-2 Tirol
 
 
 
-==== Fall season ====
+Fall season
+===========
 
 <!-- $table5$ - 2. Bundesliga -->
 
-==== Spring season ====
+Spring season
+=============
 
 Mittlere Playoff
 ----------------

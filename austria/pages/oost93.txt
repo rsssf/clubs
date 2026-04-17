@@ -1,12 +1,17 @@
-  <!--
-     source: https://rsssf.org/tableso/oost93.html
-    -->
+<!--
+  source: https://rsssf.org/tableso/oost93.html
+
+  outline: -/h2/-/-/-/-
+           -/1/-/-/-/-
+    (2) ==      Austria 1992/93
+ -->
   
 
 
 == Austria 1992/93
 
-==== Fall season ====
+Fall season
+===========
 
 1.Bundesliga
 ------------
@@ -232,7 +237,8 @@ Sportclub    4-2 St. Pölten
 
 <!-- $table2$ - Table -->
 
-==== Spring season ====
+Spring season
+=============
 Meisterplayoff
 --------------
 
@@ -356,14 +362,16 @@ Sportclub    1-1 Vorwärts
 <!-- $topscorers1$ -->
 
 
-==== Fall season ====
+Fall season
+===========
 
 2.Bundesliga
 ------------
 
 <!-- $table5$ -->
 
-==== Spring season ====
+Spring season
+=============
 
 Mittlere Playoff
 ----------------

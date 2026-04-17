@@ -1,12 +1,17 @@
-  <!--
-     source: https://rsssf.org/tableso/oost92.html
-    -->
+<!--
+  source: https://rsssf.org/tableso/oost92.html
+
+  outline: -/h2/-/-/-/-
+           -/1/-/-/-/-
+    (2) ==      Austria 1991/92
+ -->
   
 
 
 == Austria 1991/92
 
-==== Fall Season ====
+Fall Season
+===========
 
 1.Bundesliga
 ------------
@@ -228,7 +233,8 @@ Vorwärts    1-3 Linz
 <!-- $table2$ - Table -->
 
 
-==== Spring Season ====
+Spring Season
+=============
 
 Meisterplayoff
 --------------
@@ -352,7 +358,8 @@ Linz             2-2 Admira/Wacker
 
 
 
-==== Fall season ====
+Fall season
+===========
 
 2.Bundesliga
 ------------
@@ -360,7 +367,8 @@ Linz             2-2 Admira/Wacker
 <!-- $table5$ -->
 
 
-==== Spring season ====
+Spring season
+=============
 
 Mittlere Playoff
 ----------------

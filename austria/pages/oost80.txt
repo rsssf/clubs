@@ -1,6 +1,10 @@
-  <!--
-     source: https://rsssf.org/tableso/oost80.html
-    -->
+<!--
+  source: https://rsssf.org/tableso/oost80.html
+
+  outline: -/h2/-/-/-/-
+           -/1/-/-/-/-
+    (2) ==      Austria 1979/80
+ -->
   
 
 

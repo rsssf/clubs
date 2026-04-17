@@ -1,12 +1,17 @@
-  <!--
-     source: https://rsssf.org/tableso/oost88.html
-    -->
+<!--
+  source: https://rsssf.org/tableso/oost88.html
+
+  outline: -/h2/-/-/-/-
+           -/1/-/-/-/-
+    (2) ==      Austria 1987/88
+ -->
   
 
 
 == Austria 1987/88
 
-==== Fall season ====
+Fall season
+===========
 
 1.Bundesliga
 ------------
@@ -233,7 +238,8 @@ Mödling          1-6 VOEST
 
 <!-- $table2$ - Table -->
 
-==== Spring season ====
+Spring season
+=============
 
 Meisterplayoff
 --------------
@@ -354,14 +360,16 @@ Vienna      2-1 Admira/Wacker
 <!-- $topscorers1$ -->
 
 
-==== Fall season ====
+Fall season
+===========
 
 2.Bundesliga:
 -------------
 
 <!-- $table5$ -->
 
-==== Spring season: ====
+Spring season:
+==============
 
 Mittlere Playoff
 ----------------

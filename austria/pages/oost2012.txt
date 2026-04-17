@@ -1,6 +1,18 @@
-  <!--
-     source: https://rsssf.org/tableso/oost2012.html
-    -->
+<!--
+  source: https://rsssf.org/tableso/oost2012.html
+
+  outline: -/h2/-/h4/-/-
+           -/1/-/6/-/-
+    (2) ==      Austria 2011/12
+    (4) ====    Bundesliga  ‹§bund›
+    (4) ====    ÖFB Cup  ‹§cup›
+    (4) ====    1. Liga (Second Level)  ‹§1liga›
+    (4) ====    Promotion/Relegation 2nd/3rd level  ‹§prorel›
+    (4) ====    SFV (Salzburg) Cup 2011/12  ‹§salzcup›
+    (4) ====    Woche Steirer Cup 2011/12  ‹§steicup›
+
+  aname 6: ‹§bund›,‹§cup›,‹§1liga›,‹§prorel›,‹§salzcup›,‹§steicup›
+ -->
   
 
 

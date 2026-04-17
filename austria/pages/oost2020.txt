@@ -1,6 +1,17 @@
-  <!--
-     source: https://rsssf.org/tableso/oost2020.html
-    -->
+<!--
+  source: https://rsssf.org/tableso/oost2020.html
+
+  outline: -/h2/-/h4/-/-
+           -/1/-/5/-/-
+    (2) ==      Austria 2019/20
+    (4) ====    Bundesliga  ‹§bund›
+    (4) ====    ÖFB Cup  ‹§cup›
+    (4) ====    2. Liga (Second Level)  ‹§1liga›
+    (4) ====    SFV (Salzburg) Cup 2019/20  ‹§salzcup›
+    (4) ====    Woche Cup 2019/20  ‹§steicup›
+
+  aname 5: ‹§bund›,‹§cup›,‹§1liga›,‹§salzcup›,‹§steicup›
+ -->
   
 
 

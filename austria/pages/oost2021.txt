@@ -1,6 +1,16 @@
-  <!--
-     source: https://rsssf.org/tableso/oost2021.html
-    -->
+<!--
+  source: https://rsssf.org/tableso/oost2021.html
+
+  outline: -/h2/-/h4/-/-
+           -/1/-/4/-/-
+    (2) ==      Austria 2020/21
+    (4) ====    Bundesliga  ‹§bund›
+    (4) ====    ÖFB Cup  ‹§cup›
+    (4) ====    2. Liga (Second Level)  ‹§1liga›
+    (4) ====    Woche Cup 2020/21  ‹§steicup›
+
+  aname 4: ‹§bund›,‹§cup›,‹§1liga›,‹§steicup›
+ -->
   
 
 

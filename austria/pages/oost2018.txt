@@ -1,6 +1,18 @@
-  <!--
-     source: https://rsssf.org/tableso/oost2018.html
-    -->
+<!--
+  source: https://rsssf.org/tableso/oost2018.html
+
+  outline: -/h2/-/h4/-/-
+           -/1/-/6/-/-
+    (2) ==      Austria 2017/18
+    (4) ====    Bundesliga  ‹§bund›
+    (4) ====    ÖFB Cup  ‹§cup›
+    (4) ====    1. Liga (Second Level)  ‹§1liga›
+    (4) ====    Regionalliga  ‹§regliga›
+    (4) ====    SFV (Salzburg) Cup 2017/18  ‹§salzcup›
+    (4) ====    Woche Cup 2017/18  ‹§steicup›
+
+  aname 9: ‹§bund›,‹§cup›,‹§1liga›,‹§regliga›,‹§regwest›,‹§regmitte›,‹§regost›,‹§salzcup›,‹§steicup›
+ -->
   
 
 

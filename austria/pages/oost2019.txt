@@ -1,6 +1,18 @@
-  <!--
-     source: https://rsssf.org/tableso/oost2019.html
-    -->
+<!--
+  source: https://rsssf.org/tableso/oost2019.html
+
+  outline: -/h2/-/h4/-/-
+           -/1/-/6/-/-
+    (2) ==      Austria 2018/19
+    (4) ====    Bundesliga  ‹§bund›
+    (4) ====    ÖFB Cup  ‹§cup›
+    (4) ====    2. Liga (Second Level)  ‹§1liga›
+    (4) ====    Regionalliga  ‹§regliga›
+    (4) ====    SFV (Salzburg) Cup 2018/19  ‹§salzcup›
+    (4) ====    Woche Cup 2018/19  ‹§steicup›
+
+  aname 9: ‹§bund›,‹§cup›,‹§1liga›,‹§regliga›,‹§regwest›,‹§regmitte›,‹§regost›,‹§salzcup›,‹§steicup›
+ -->
   
 
 

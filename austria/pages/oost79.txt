@@ -1,6 +1,10 @@
-  <!--
-     source: https://rsssf.org/tableso/oost79.html
-    -->
+<!--
+  source: https://rsssf.org/tableso/oost79.html
+
+  outline: -/h2/-/-/-/-
+           -/1/-/-/-/-
+    (2) ==      Austria 1978/79
+ -->
   
 
 

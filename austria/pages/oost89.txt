@@ -1,12 +1,17 @@
-  <!--
-     source: https://rsssf.org/tableso/oost89.html
-    -->
+<!--
+  source: https://rsssf.org/tableso/oost89.html
+
+  outline: -/h2/-/-/-/-
+           -/1/-/-/-/-
+    (2) ==      Austria 1988/89
+ -->
   
 
 
 == Austria 1988/89
 
-==== Fall season ====
+Fall season
+===========
 
 1.Bundesliga
 ------------
@@ -239,7 +244,8 @@ Sturm      0-2 Tirol
 
 <!-- $table2$ - Table -->
 
-==== Spring season ====
+Spring season
+=============
 
 Meisterplayoff
 --------------
@@ -366,13 +372,15 @@ Vienna      5-0 Sportclub
 <!-- $topscorers1$ -->
 
 
-==== Fall season ====
+Fall season
+============
 
 2.Bundesliga
 ------------
 <!-- $table5$ -->
 
-==== Spring season: ====
+Spring season:
+==============
 
 Mittlere Playoff
 ----------------

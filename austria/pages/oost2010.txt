@@ -1,6 +1,19 @@
-  <!--
-     source: https://rsssf.org/tableso/oost2010.html
-    -->
+<!--
+  source: https://rsssf.org/tableso/oost2010.html
+
+  outline: -/h2/-/h4/-/-
+           -/1/-/7/-/-
+    (2) ==      Austria 2009/10
+    (4) ====    Bundesliga  ‹§bund›
+    (4) ====    ÖFB Cup  ‹§cup›
+    (4) ====    1. Liga (Second Level)  ‹§1liga›
+    (4) ====    Promotion/Relegation 2nd/3rd level  ‹§prorel›
+    (4) ====    Regionalliga  ‹§regliga›
+    (4) ====    SFV (Salzburg) Cup 2009/10  ‹§salzcup›
+    (4) ====    Woche Steirer Cup 2009/10  ‹§steicup›
+
+  aname 10: ‹§bund›,‹§cup›,‹§1liga›,‹§prorel›,‹§regliga›,‹§regwest›,‹§regmitte›,‹§regost›,‹§salzcup›,‹§steicup›
+ -->
   
 
 

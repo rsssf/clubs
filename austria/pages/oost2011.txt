@@ -1,6 +1,18 @@
-  <!--
-     source: https://rsssf.org/tableso/oost2011.html
-    -->
+<!--
+  source: https://rsssf.org/tableso/oost2011.html
+
+  outline: -/h2/-/h4/-/-
+           -/1/-/6/-/-
+    (2) ==      Austria 2010/11
+    (4) ====    Bundesliga  ‹§bund›
+    (4) ====    ÖFB Cup  ‹§cup›
+    (4) ====    1. Liga (Second Level)  ‹§1liga›
+    (4) ====    Promotion/Relegation 2nd/3rd level  ‹§prorel›
+    (4) ====    SFV (Salzburg) Cup 2010/11  ‹§salzcup›
+    (4) ====    Woche Steirer Cup 2010/11  ‹§steicup›
+
+  aname 6: ‹§bund›,‹§cup›,‹§1liga›,‹§prorel›,‹§salzcup›,‹§steicup›
+ -->
   
 
 

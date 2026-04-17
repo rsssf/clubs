@@ -1,6 +1,12 @@
-  <!--
-     source: https://rsssf.org/tableso/oost07.html
-    -->
+<!--
+  source: https://rsssf.org/tableso/oost07.html
+
+  outline: -/h2/-/-/-/-
+           -/1/-/-/-/-
+    (2) ==      Austria 2006/07
+
+  aname 1: ‹§salzcup›
+ -->
   
 
 

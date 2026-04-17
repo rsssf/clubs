@@ -1,6 +1,10 @@
-  <!--
-     source: https://rsssf.org/tableso/oost82.html
-    -->
+<!--
+  source: https://rsssf.org/tableso/oost82.html
+
+  outline: -/h2/-/-/-/-
+           -/1/-/-/-/-
+    (2) ==      Austria 1981/82
+ -->
   
 
 

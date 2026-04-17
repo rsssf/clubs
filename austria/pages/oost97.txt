@@ -1,6 +1,12 @@
-  <!--
-     source: https://rsssf.org/tableso/oost97.html
-    -->
+<!--
+  source: https://rsssf.org/tableso/oost97.html
+
+  outline: -/h2/-/-/-/-
+           -/1/-/-/-/-
+    (2) ==      Austria 1996/97
+
+  aname 2: ‹§tirol›,‹§tircup›
+ -->
   
 
 
@@ -2212,7 +2218,8 @@ Fifth Level and Lower.
 
 All Länder except for Niederösterreich available.
 
-==== Burgenland ====
+Burgenland
+==========
 
 Thanks to Wolfgang Lorber for all data.
 
@@ -2246,7 +2253,8 @@ Thanks to Wolfgang Lorber for all data.
 <!-- $table27$ - 2. Klasse Süd B -->
 
 
-==== Kärnten ====
+Kärnten
+=======
 
 Thanks to Wolfgang Lorber for all data.
 
@@ -2299,7 +2307,8 @@ Oberglan  4:2 (1:1)  Maria Rojach  -  Gesamtscore 4:4 (AT), Hinspiel 0:2
 <!-- $table39$ - 2. Klasse F -->
 
 
-==== Oberösterreich ====
+Oberösterreich
+==============
 
 [Relegation places not all clear.]
 
@@ -2384,7 +2393,8 @@ Oberglan  4:2 (1:1)  Maria Rojach  -  Gesamtscore 4:4 (AT), Hinspiel 0:2
 <!-- $table66$ - 2. Klasse Südwest -->
 
 
-==== Salzburg ====
+Salzburg
+========
 
 <!-- $table67$ - 2. Landesliga Nord -->
 
@@ -2410,7 +2420,8 @@ Oberglan  4:2 (1:1)  Maria Rojach  -  Gesamtscore 4:4 (AT), Hinspiel 0:2
 <!-- $table74$ - 2. Klasse Südwest -->
 
 
-==== Steiermark ====
+Steiermark
+==========
 
 Thanks to Wolfgang Lorber for all data.
 
@@ -2492,7 +2503,8 @@ Thanks to Wolfgang Lorber for all data.
 <!-- $table100$ - 1. Klasse Palten -->
 
 
-==== Tirol ====
+Tirol
+=====
 
 Thanks to Andreas Exenberger for all data.
 
@@ -2528,7 +2540,8 @@ New clubs for 1997/98: SC Gnadenwald, SV Hall II.
 <!-- $table110$ - 2.Klasse West -->
 
 
-==== Vorarlberg ====
+Vorarlberg
+==========
 
 <!-- $table111$ - Landesliga -->
 
@@ -2545,7 +2558,8 @@ New clubs for 1997/98: SC Gnadenwald, SV Hall II.
 <!-- $table115$ - 1b Klasse (winners promoted to 2. Landesklasse) -->
 
 
-==== Wien ====
+Wien
+====
 
 <!-- $table116$ - Unterliga A -->
 

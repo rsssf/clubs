@@ -1,6 +1,12 @@
-  <!--
-     source: https://rsssf.org/tableso/oost98.html
-    -->
+<!--
+  source: https://rsssf.org/tableso/oost98.html
+
+  outline: -/h2/-/-/-/-
+           -/1/-/-/-/-
+    (2) ==      Austria 1997/98
+
+  aname 2: ‹§tirol›,‹§tircup›
+ -->
   
 
 
@@ -986,7 +992,8 @@ Austria K/VSV    2-0 Untersiebenbrunn
 
 Third Level (Regionalliga's)
 
-==== Regionalliga Ost ====
+Regionalliga Ost
+================
             Bau Don Eis FAC Fav Him Kli Mat Neu Obe Sch Unt Wai WNe WSC Wue
 Baumgarten  xxx 0-2 1-1 4-1 2-1 0-1 1-0 3-2 1-1 1-1 2-1 3-2 0-0 0-2 4-2 1-2
 Donaufeld   1-2 xxx 3-0 3-2 1-3 1-0 1-0 2-1 3-2 5-1 3-1 1-1 2-0 3-0 2-1 4-2
@@ -1011,7 +1018,8 @@ Wuermla     2-1 2-1 0-0 2-0 6-0 3-2 1-1 1-2 3-0 3-0 0-0 2-1 1-1 8-0 1-2 xxx
 [+] after the merger of SV Gerasdorf (2nd level) with VSE Sankt Pölten
     (relegated to Regionalliga Ost), Neuberg may retain its place.
 
-==== Regionalliga Mitte ====
+Regionalliga Mitte
+==================
             Aus Ble Fla Gra Gri Lei Poe Rap Roh SAK StF Voi WAC Zel
 Austria K   xxx 2-2 5-0 0-0 4-0 3-0 1-0 1-1 5-0 1-1 1-0 1-1 1-0 5-1
 Bleiburg    1-1 xxx 2-0 0-4 3-1 1-0 1-0 0-0 1-1 5-0 0-0 3-0 0-1 3-0
@@ -1031,7 +1039,8 @@ Fla-Lei 0-3 awarded (originally 2-2)
 
 <!-- $table6$ - Table -->
 
-==== Regionalliga West ====
+Regionalliga West
+=================
             Aus Dor Hal Har Kir Kun Lau Lus Puc Rum Saa SAK See Tir Woe Zel
 Austria Am. xxx 3-0 0-1 0-2 5-2 1-2 3-0 1-2 2-0 2-1 2-0 2-0 4-3 3-1 1-1 2-0
 Dornbirn    1-1 xxx 1-0 2-2 1-1 1-2 2-1 4-2 1-1 0-4 1-0 4-1 0-0 0-2 2-2 1-0
@@ -1072,7 +1081,8 @@ Fourth Level (Landesliga's)
 
 [Not for all provinces.]
 
-==== Oberösterreich ====
+Oberösterreich
+==============
 
             Alt Bad Bla Don Est Gmu LAS Len Mar Mic Pas Sat Sch StM Voe WSC
 Altheim     xxx 0-0 0-2 1-1 1-3 1-1 2-2 4-1 2-2 0-1 1-4 1-2 0-2 2-3 0-2 2-3
@@ -1096,7 +1106,8 @@ WSC/Hertha  0-0 0-2 3-4 2-1 1-3 0-3 2-0 4-1 5-2 2-1 0-3 1-3 1-2 1-4 4-0 xxx
 
 [*] Austria Tabak renamed to Blau-Weiß FC Linz.
 
-==== Salzburg ====
+Salzburg
+========
             Ani ASK  Bis Bue Dor Gru  Hal Hen  Kuc Mit Obe PSV Sch Tri
 Anif        xxx 4-0  4-0 1-0 3-2 1-1  1-1 1-1  3-0 0-1 4-4 3-2 2-2 5-2
 ASK         0-4 xxx  4-0 1-4 2-2 0-1  0-1 2-1  0-7 3-1 1-1 1-1 1-1 4-0
@@ -1117,7 +1128,8 @@ Trimmelkam  1-2 0-2 13-0 2-3 0-2 0-3  0-2 1-3  1-5 2-2 1-4 0-2 0-5 xxx
 
 Promoted to Landesliga: Hallwang, Sankt Michael
 
-==== Tirol ‹§tirol› ====
+Tirol  ‹§tirol›
+=====
 [Thanks to Andreas Exenberger.]
 
             Axa Fue Goe Ims ISK Jen Kem Kit Sch SVI SVR Tel Thi Vil Wac Zel
@@ -1146,11 +1158,13 @@ Relegated: FC Wacker Innsbruck (they start voluntarily again in the
 lowest class; therefore SVI stays in the league), SK Zell am Ziller
 Promoted to Tiroler Liga: FC Vomp, SC Steinach
 
-==== Vorarlberg ====
+Vorarlberg
+==========
 
 <!-- $table11$ - Final Table -->
 
-==== Wien ====
+Wien
+====
             Adm Bre Ess For Gas Hft HKa LAC OMV Pol Pos Pra Red Sim Slo Wie
 Admira/Lh.  xxx 3-1 1-4 0-0 1-1 3-2 2-0 2-1 3-3 1-1 2-1 3-1 1-4 6-0 4-2 0-0
 Breitensee  1-5 xxx 3-2 3-4 2-0 1-6 5-0 2-8 0-2 2-2 2-0 1-7 1-1 4-1 0-5 1-2
@@ -1178,7 +1192,8 @@ Fifth and Lower Levels
 
 [Only for some provinces.]
 
-==== Tirol ====
+Tirol
+=====
 
 Thanks to Andreas Exenberger.
 
@@ -1340,7 +1355,8 @@ SV Axams - SC Kundl                        0:0 (7:6)
 Final (held on June 11th in Jenbach)
 SPG Rum - SV Axams                         4:0
 
-==== Vorarlberg ====
+Vorarlberg
+==========
 
 Thanks to Andreas Exenberger.
 

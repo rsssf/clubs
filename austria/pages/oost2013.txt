@@ -1,6 +1,17 @@
-  <!--
-     source: https://rsssf.org/tableso/oost2013.html
-    -->
+<!--
+  source: https://rsssf.org/tableso/oost2013.html
+
+  outline: -/h2/-/h4/-/-
+           -/1/-/5/-/-
+    (2) ==      Austria 2012/13
+    (4) ====    Bundesliga  ‹§bund›
+    (4) ====    ÖFB Cup  ‹§cup›
+    (4) ====    1. Liga (Second Level)  ‹§1liga›
+    (4) ====    SFV (Salzburg) Cup 2012/13  ‹§salzcup›
+    (4) ====    Woche Murauer Cup  ‹§steicup›
+
+  aname 5: ‹§bund›,‹§cup›,‹§1liga›,‹§salzcup›,‹§steicup›
+ -->
   
 
 

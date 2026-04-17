@@ -1,6 +1,12 @@
-  <!--
-     source: https://rsssf.org/tableso/oost96.html
-    -->
+<!--
+  source: https://rsssf.org/tableso/oost96.html
+
+  outline: -/h2/-/-/-/-
+           -/1/-/-/-/-
+    (2) ==      Austria 1995/96
+
+  aname 1: ‹§tirol›
+ -->
   
 
 
@@ -1178,7 +1184,8 @@ Tirol, Vorarlberg, and Wien).
 With thanks to Wolfgang Lorber for Steiermark.
 
 
-==== Oberösterreich ====
+Oberösterreich
+==============
 
 5th Level
 
@@ -1198,7 +1205,8 @@ With thanks to Wolfgang Lorber for Steiermark.
 <!-- $table26$ - Bezirksliga Süd -->
 
 
-==== Steiermark ====
+Steiermark
+==========
 
 5th Level
 
@@ -1264,7 +1272,8 @@ With thanks to Wolfgang Lorber for Steiermark.
 <!-- $table52$ - 1. Klasse Mitte B -->
 
 
-==== Tirol ====
+Tirol
+=====
 
 Thanks to Andreas Exenberger.
 
@@ -1328,7 +1337,8 @@ Tulfes FC Achensee and SV Achenkirch merge to SPG Achensee Relegated:
 FC Tux (because of worst points in 1.Klasse)
 
 
-==== Vorarlberg ====
+Vorarlberg
+==========
 
 <!-- $table64$ - 5th Level (Vorarlbergliga) -->
 
@@ -1343,7 +1353,8 @@ promotion to the Vorarlbergliga as well.]
 <!-- $table65$ - 6th level (1.Landesklasse) -->
 
 
-==== Wien ====
+Wien
+====
 
 Fifth Level
 
