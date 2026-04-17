@@ -801,7 +801,9 @@ Sampdoria      3-0 Siena
 Siena          1-1 Lucchese
 Genoa          1-2 Sampdoria
 Siena          1-1 Genoa
-<!-- $table3$ - Lucchese -->
+Lucchese       1-1 Sampdoria
+
+<!-- $table3$ -->
 
 Group 2
 Albinoleffe    2-1 Venezia
@@ -809,7 +811,9 @@ Spezia         0-3 Vicenza
 Venezia        2-1 Spezia
 Vicenza        3-1 Albinoleffe
 Venezia        1-2 Vicenza
-<!-- $table4$ - Spezia -->
+Spezia         0-0 Albinoleffe
+
+<!-- $table4$ -->
 
 Group 3
 Triestina      2-0 Verona
@@ -817,7 +821,9 @@ Cittadella     3-1 Treviso
 Verona         1-0 Cittadella
 Treviso        1-2 Triestina
 Treviso        1-1 Verona
-<!-- $table5$ - Triestina -->
+Triestina      0-0 Cittadella
+
+<!-- $table5$ -->
 
 Group 4
 Livorno        2-1 Cagliari
@@ -825,7 +831,9 @@ Pistoiese      2-1 Empoli
 Empoli         2-1 Livorno
 Cagliari       1-0 Pistoiese
 Empoli         3-0 Cagliari
-<!-- $table6$ - Livorno -->
+Livorno        3-2 Pistoiese
+
+<!-- $table6$ -->
 
 Group 5
 Pescara        1-1 Lecce
@@ -833,7 +841,9 @@ Ancona         3-0 Ascoli
 Lecce          1-2 Ancona
 Ascoli         1-0 Pescara
 Ascoli         2-2 Lecce
-<!-- $table7$ - Pescara -->
+Pescara        0-1 Ancona
+
+<!-- $table7$ -->
 
 Group 6
 Lanciano       0-3 Napoli
@@ -841,7 +851,9 @@ Salernitana    2-2 Ternana
 Ternana        3-3 Lanciano
 Napoli         1-1 Salernitana
 Ternana        2-0 Napoli
-<!-- $table8$ - Lanciano -->
+Lanciano       2-1 Salernitana
+
+<!-- $table8$ -->
 
 Group 7
 Catania        0-0 Crotone
@@ -849,7 +861,9 @@ Cosenza        0-1 Bari
 Bari           4-0 Catania
 Crotone        0-0 Cosenza
 Catania        1-3 Cosenza
-<!-- $table9$ - Bari -->
+Bari           4-1 Crotone
+
+<!-- $table9$ -->
 
 Group 8
 Taranto        0-3 Reggina
@@ -857,7 +871,9 @@ Messina        1-1 Palermo
 Palermo        4-0 Taranto
 Reggina        0-0 Messina
 Palermo        0-1 Reggina
-<!-- $table10$ - Taranto -->
+Taranto        1-0 Messina
+
+<!-- $table10$ -->
 
 ▪ Second Round ▪
 

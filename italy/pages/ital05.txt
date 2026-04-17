@@ -996,7 +996,9 @@ Group A
                 (Milito 3, Cozza 16pen, Stellini 90; Mezzano 9, Pinga 18,
                  Marazzina 34)
 29-08-2004    Lumezzane     1-1    Empoli
-<!-- $table3$ -   -->
+                (Sinigaglia 4; Coda 35)
+
+<!-- $table3$ -->
 
 Group B
 
@@ -1012,7 +1014,9 @@ Group B
 29-08-2004    Pro Patria    2-2    Atalanta
                 (Perfetti 73, Temelin 80; Pazzini 57, 70)
 29-08-2004    Vicenza       0-1    Albinoleffe
-<!-- $table4$ -   -->
+                (Pistilli 1)
+
+<!-- $table4$ -->
 
 Group C
 
@@ -1027,8 +1031,10 @@ Group C
 29-08-2004    Venezia       1-3    Modena
                 (Ginestra 45; Campedelli 19, Vignaroli 27, 77)
 29-08-2004    Triestina     4-2    Treviso
-                [Tulli 13, Bau 45, Rigoni 53, Munari 59; Reginaldo 83,
-<!-- $table5$ -   -->
+                (Tulli 13, Bau 45, Rigoni 53, Munari 59; Reginaldo 83,
+                 Bellotto 90)
+
+<!-- $table5$ -->
 
 Group D
 
@@ -1043,7 +1049,9 @@ Group D
 29-08-2004    Arezzo        2-3    Livorno
                 (Spinesi 1pen, De Zerbi 7; Lucarelli 3pen, Vidigal 51, 74)
 29-08-2004    Cesena        1-1    Ascoli
-<!-- $table6$ -   -->
+                (Varnazzi 42; Capparella 44)
+
+<!-- $table6$ -->
 
 Group E
 
@@ -1057,7 +1065,9 @@ Group E
 01-09-2004    Fiorentina    3-0    Verona
                 (Rigano 5, 70, Portillo 61)
 01-09-2004    Como          0-3    Piacenza
-<!-- $table7$ -   -->
+                (Beghetto 39, Sardo 46, Lucenti 49)
+
+<!-- $table7$ -->
 
 Group F
 
@@ -1073,7 +1083,9 @@ Group F
                 (Dicara 11, Calaio 21pen, 44; Docente 13, Muslimovic 63,
                  Trotta 78pen)
 07-09-2004    Ternana       3-1    Pescara
-<!-- $table8$ -   -->
+                (Divicino 25, Vieri 75, Jimenez 88; Mussi 90pen)
+
+<!-- $table8$ -->
 
 Group G
 
@@ -1088,7 +1100,9 @@ Group G
 29-08-2004    Catania       3-1    Avellino
                 (Russo 36, Ferrante 41pen, Bruno 66; Ghirardello 55)
 29-08-2004    Salernitana   2-1    Catanzaro
-<!-- $table9$ -   -->
+                (Di Vicino 13, Palladino 42; Cammarata 33)
+
+<!-- $table9$ -->
 
 Group H
 
@@ -1103,7 +1117,9 @@ Group H
 29-08-2004    Crotone       0-1    Messina
                 (Rafael 75)
 05-09-2004    Crotone       4-0    Bari
-<!-- $table10$ -   -->
+                (Guzman 4, Alteri 35, Jurcic 61,  Berrettoni 81)
+
+<!-- $table10$ -->
 
 ▪ Second Round ▪  Sep 15 & 29
 Triestina   1-3 1-3 Cagliari

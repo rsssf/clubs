@@ -839,7 +839,9 @@ Como            awd Pro Patria        [awarded 0-3]
 Cagliari        awd Piacenza          [awarded 0-3 against both teams]
 _ Sep 5 _
 Como            awd Cagliari          [awarded 0-3 against both teams]
-<!-- $table3$ - Pro Patria -->
+Pro Patria      awd Piacenza          [awarded 3-0]
+
+<!-- $table3$ -->
 
 Group 2
 _ Aug 17 _
@@ -851,7 +853,9 @@ Livorno        awd Genoa             [awarded 0-3]
 _ Sep 3 _
 Cesena         1-1 Genoa
 _ Sep 5 _
-<!-- $table4$ - Torino -->
+Torino         awd Livorno           [awarded 0-3 against both teams]
+
+<!-- $table4$ -->
 
 Group 3
 _ Aug 17 _
@@ -862,7 +866,9 @@ AlbinoLeffe    awd Verona            [awarded 0-3 against both teams]
 Treviso        awd Palermo           [awarded 0-3 against both teams]
 _ Sep 5 _
 AlbinoLeffe    awd Treviso           [awarded 0-3 against both teams]
-<!-- $table5$ - Verona -->
+Verona         awd Palermo           [awarded 0-3 against both teams]
+
+<!-- $table5$ -->
 
 Group 4
 _ Aug 17 _
@@ -873,7 +879,9 @@ Vicenza        awd Venezia           [awarded 0-3 against both teams]
 Atalanta       awd Triestina         [awarded 0-3 against both teams]
 _ Sep 5 _
 Vicenza        awd Atalanta          [awarded 0-3 against both teams]
-<!-- $table6$ - Venezia -->
+Venezia        awd Triestina         [awarded 0-3 against both teams]
+
+<!-- $table6$ -->
 
 Group 5
 _ Aug 17 _
@@ -885,7 +893,9 @@ Pisa           awd Ternana           [awarded 0-3 against both teams]
 _ Sep 3 _
 Pisa           1-1 Sambenedettese
 _ Sep 5 _
-<!-- $table7$ - Ternana -->
+Ternana        awd Ancona            [awarded 0-3]
+
+<!-- $table7$ -->
 
 Group 6
 _ Aug 17 _
@@ -896,7 +906,9 @@ Bari           awd Ascoli            [awarded 0-3 against both teams]
 Teramo         awd Martina           [awarded 3-0]
 _ Sep 5 _
 Bari           awd Teramo            [awarded 0-3]
-<!-- $table8$ - Ascoli -->
+Ascoli         awd Martina           [awarded 0-3 against both teams]
+
+<!-- $table8$ -->
 
 Group 7
 _ Aug 17 _
@@ -907,7 +919,9 @@ Pescara        awd Salernitana       [awarded 0-3]
 Napoli         awd Messina           [awarded 0-3 against both teams]
 _ Sep 5 _
 Pescara        awd Napoli            [awarded 0-3]
-<!-- $table9$ - Salernitana -->
+Salernitana    awd Messina           [awarded 3-0]
+
+<!-- $table9$ -->
 
 Group 8
 _ Aug 17 _
@@ -918,7 +932,9 @@ Catania        awd Avellino          [awarded 3-0]
 Lecce          awd Brindisi          [awarded 0-3]
 _ Sep 5 _
 Catania        awd Lecce             [awarded 3-0]
-<!-- $table10$ - Avellino -->
+Avellino       awd Brindisi          [awarded 0-3]
+
+<!-- $table10$ -->
 
 ▪ Round 1 ▪
 

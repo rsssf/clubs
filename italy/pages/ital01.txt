@@ -802,7 +802,9 @@ Chievo         2-1 Monza
 Piacenza       3-0 Viterbese
 _ Aug 20 _
 Chievo         1-3 Piacenza
-<!-- $table3$ - Monza -->
+Monza          1-1 Viterbese
+
+<!-- $table3$ -->
 
 Group 2
 _ Aug 13 _
@@ -813,7 +815,9 @@ Sampdoria      2-1 Crotone
 Empoli         2-2 Fermana
 _ Aug 20 _
 Sampdoria      4-3 Empoli
-<!-- $table4$ - Crotone -->
+Crotone        0-1 Fermana
+
+<!-- $table4$ -->
 
 Group 3
 _ Aug 13 _
@@ -824,7 +828,9 @@ Atalanta       1-0 Ravenna
 Pistoiese      1-4 Avellino
 _ Aug 20 _
 Atalanta       1-1 Pistoiese
-<!-- $table5$ - Ravenna -->
+Ravenna        4-2 Avellino
+
+<!-- $table5$ -->
 
 Group 4
 _ Aug 13 _
@@ -835,7 +841,9 @@ Cittadella     0-1 Salernitana
 Cagliari       2-2 Ascoli
 _ Aug 20 _
 Cittadella     0-3 Cagliari
-<!-- $table6$ - Salernitana -->
+Salernitana    1-0 Ascoli
+
+<!-- $table6$ -->
 
 Group 5
 _ Aug 13 _
@@ -846,7 +854,9 @@ Torino         2-1 Cesena
 Ternana        1-0 Varese
 _ Aug 20 _
 Torino         3-3 Ternana
-<!-- $table7$ - Cesena -->
+Cesena         1-2 Varese
+
+<!-- $table7$ -->
 
 Group 6
 _ Aug 13 _
@@ -857,7 +867,9 @@ Venezia        2-1 Savoia
 Siena          2-2 Pescara
 _ Aug 20 _
 Venezia        1-0 Siena
-<!-- $table8$ - Savoia -->
+Savoia         3-4 Pescara
+
+<!-- $table8$ -->
 
 Group 7
 _ Aug 13 _
@@ -868,7 +880,9 @@ Ancona         2-1 Pisa
 Cosenza        2-0 Genoa
 _ Aug 20 _
 Ancona         0-1 Cosenza
-<!-- $table9$ - Pisa -->
+Pisa           2-2 Genoa
+
+<!-- $table9$ -->
 
 Group 8
 _ Aug 13 _
@@ -879,7 +893,9 @@ Brescello      0-1 Brescia
 Treviso        2-1 Alzano
 _ Aug 20 _
 Brescello      1-0 Treviso
-<!-- $table10$ - Brescia -->
+Brescia        1-2 Alzano
+
+<!-- $table10$ -->
 
 
 ▪ Second Round ▪
