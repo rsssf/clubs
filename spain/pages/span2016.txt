@@ -1,6 +1,15 @@
-  <!--
-     source: https://rsssf.org/tabless/span2016.html
-    -->
+<!--
+  source: https://rsssf.org/tabless/span2016.html
+
+  outline: -/h2/-/h4/-/-
+           -/1/-/3/-/-
+    (2) ==      Spain 2015/16
+    (4) ====    Primera División (Liga BBVA)  ‹§laliga›
+    (4) ====    Copa del Rey  ‹§coparey›
+    (4) ====    Segunda División (Liga Adelante)  ‹§segunda›
+
+  aname 3: ‹§laliga›,‹§coparey›,‹§segunda›
+ -->
   
 
 
@@ -12,8 +21,7 @@
 
 ==== Primera División (Liga BBVA)  ‹§laliga›
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Aug 21 _
@@ -590,8 +598,7 @@ Rayo                      3-1 Levante
 Betis                     2-1 Getafe
 Sporting                  2-0 Villarreal
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 
 
@@ -769,7 +776,7 @@ Valencia CF               1-1 FC Barcelona
 _ Feb 11 _
 RC Celta de Vigo          2-2 Sevilla FC
 
-▪ Final ▪  May 22, Madrid
+▪ Final ▪  May 22 @ Madrid
 FC Barcelona              2-0 Sevilla FC                (aet)
 
 
@@ -778,12 +785,11 @@ FC Barcelona              2-0 Sevilla FC                (aet)
 
 ==== Segunda División (Liga Adelante)  ‹§segunda›
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 Promoted: Cádiz CF, CF Reus, Sevilla Atlético, UCAM Murcia CF
 
-Promotion Playoff  ‹§2prom›
+▪ Promotion Playoff ▪
 
 ▪ Semifinals ▪
 

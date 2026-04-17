@@ -1,6 +1,10 @@
-  <!--
-     source: https://rsssf.org/tablesm/mex09.html
-    -->
+<!--
+  source: https://rsssf.org/tablesm/mex09.html
+
+  outline: -/h2/-/-/-/-
+           -/1/-/-/-/-
+    (2) ==      Mexico 2008/09
+ -->
   
 
 

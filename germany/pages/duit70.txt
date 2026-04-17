@@ -1,14 +1,17 @@
-  <!--
-     source: https://rsssf.org/tablesd/duit70.html
-    -->
+<!--
+  source: https://rsssf.org/tablesd/duit70.html
+
+  outline: -/h2/-/-/-/-
+           -/1/-/-/-/-
+    (2) ==      Germany 1969/70
+ -->
   
 
 
 == Germany 1969/70
 
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
     Mön Bay Her Köl Dor VfB Ham Fra Sch Kai Wer Ess Han MSV Obe Bra TSV Ale
 Mön xxx 2-1 1-1 2-0 4-2 3-0 4-3 1-2 2-0 1-1 1-0 2-1 5-0 4-1 6-1 1-0 3-1 5-1
@@ -295,8 +298,7 @@ B'schweig  1-0 Stuttgart  (Ulsaß 65 p)
 Frankfurt  2-2 Hamburger  (Grabowski 73, Heese 75 - Zaczyk 61, 69)
 RW Essen   3-0 TSV 1860   (Englert 38, 89, Fürhoff 62)
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Fall Table -->
 
 ▪ Round 19 ▪  Jan 17
 Schalke    0-0 Frankfurt
@@ -568,24 +570,7 @@ Aachen     3-2 Duisburg   (Tenbruch 6, Kulik 19, Gronen 29 - Sondermann 51,
                           Rettkowski 76)
 TSV 1860   0-0 RW Essen
 
- 1. Borussia Mönchengladbach     34 23  5  6  71- 29  51
- 2. Bayern München               34 22  4  8  88- 35  48
- 3. Hertha BSC Berlin            34 20  5  9  67- 41  45
- 4. 1. FC Köln                   34 20  3 11  83- 38  43
- 5. Borussia Dortmund            34 14  8 12  60- 67  36
- 6. VfB Stuttgart                34 14  7 13  59- 62  35
- 7. Hamburger SV                 34 12 11 11  57- 54  35
- 8. Eintracht Frankfurt          34 12 10 12  54- 54  34
- 9. Schalke 04                   34 11 12 11  43- 54  34
-10. 1. FC Kaiserslautern         34 10 12 12  44- 55  32
-11. Werder Bremen                34 10 11 13  38- 47  31
-12. Rot-Weiß Essen               34  8 15 11  41- 54  31
-13. Hannover 1896                34 11  8 15  49- 61  30
-14. MSV Duisburg                 34  9 11 14  35- 48  29
-15. Rot-Weiß Oberhausen          34 11  6 17  48- 62  28
-16. Eintracht Braunschweig       34  9 10 15  40- 49  28
-17. TSV 1860 München             34  9  7 18  41- 56  25
-18. Alemannia Aachen             34  5  7 22  31- 83  17
+<!-- $table3$ -->
 
 <!-- $topscorers1$ -->
 

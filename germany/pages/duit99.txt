@@ -1,14 +1,17 @@
-  <!--
-     source: https://rsssf.org/tablesd/duit99.html
-    -->
+<!--
+  source: https://rsssf.org/tablesd/duit99.html
+
+  outline: -/h2/-/-/-/-
+           -/1/-/-/-/-
+    (2) ==      Germany 1998/99
+ -->
   
 
 
 == Germany 1998/99
 
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
     Bay Lev Her Dor Kai Wol Ham MSV Sch TSV Fre VfB Han Wer Fra Nür VfL Mön
 Bay xxx 2-0 1-1 2-2 4-0 3-0 5-3 3-1 1-1 3-1 2-0 2-0 6-1 1-0 3-1 2-0 4-2 4-2
@@ -346,8 +349,7 @@ _ Dec 16 _
 Duisburg   3-1 K'lautern  (Beierle 48, Töfting 64, Andersen 90 - Rösler 40)
 M'gladbach 0-2 Bayern     (Effenberg 8, 27 p)
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Fall Table -->
 
 ▪ Round 18 ▪  Dec 18
 Dortmund   3-0 Stuttgart  (Herrlich 38, But 48, Salou 69)
@@ -650,24 +652,7 @@ Stuttgart  1-0 Werder     (Bobic 6)
 TSV 1860   4-5 Schalke    (Cerny 6, Kurz 44, Hobsch 18, 42 - Hami 9, 90 p,
                           Nemec 19, Max 41, Thon 68)
 
- 1. Bayern München               34 24  6  4  76- 28  78
- 2. Bayer Leverkusen             34 17 12  5  61- 30  63
- 3. Hertha BSC Berlin            34 18  8  8  59- 32  62
- 4. Borussia Dortmund            34 16  9  9  48- 34  57
- 5. 1. FC Kaiserslautern         34 17  6 11  51- 47  57
- 6. VfL Wolfsburg                34 15 10  9  54- 49  55
- 7. Hamburger SV                 34 13 11 10  47- 46  50
- 8. MSV Duisburg                 34 13 10 11  48- 45  49
- 9. Schalke 04                   34 10 11 13  41- 54  41
-10. TSV 1860 München             34 11  8 15  49- 56  41
-11. SC Freiburg                  34 10  9 15  36- 44  39
-12. VfB Stuttgart                34  9 12 13  41- 48  39
-13. Hansa Rostock                34  9 11 14  49- 58  38
-14. Werder Bremen                34 10  8 16  41- 47  38
-15. Eintracht Frankfurt          34  9 10 15  44- 54  37
-16. 1. FC Nürnberg               34  7 16 11  40- 50  37
-17. VfL Bochum                   34  7  8 19  40- 65  29
-18. Borussia Mönchengladbach     34  4  9 21  41- 79  21
+<!-- $table3$ -->
 
 <!-- $topscorers1$ -->
 
@@ -792,7 +777,7 @@ Rot-Weiß Oberhausen  1-3 Bayern München         [in Gelsenkirchen]
 _ Mar 10 _
 VfL Wolfsburg        0-1 Werder Bremen
 
-▪ Final ▪  Jun 12, Berlin; att: 75,841
+▪ Final ▪  Jun 12 @ Berlin; att: 75,841
 Werder Bremen        1-1 Bayern München         (aet, 5-4 pen)
   (Yuri Maximov 4; Carsten Jancker 45)
 Werder: 1-Frank Rost; 8-Bernhard Trares, 6-Jens Todt, 3-Raphael Wicky,
@@ -817,8 +802,7 @@ Rost             5-4  Matthäus (held)  5-4
 
 Germany 1998/99  2.Bundesliga
 
-<!-- $table3$ -->
-
+<!-- $table4$ - Table -->
 
 Promoted to 2. Bundesliga:
 
@@ -831,7 +815,7 @@ Chemnitzer FC (winners RL Nordost)
 Offenbacher FC Kickers (runners-up RL Süd)
 VfL Osnabrück (winners RL Nord)
 
-Promotion Playoffs:
+▪ Promotion Playoffs ▪
 
 For a Place in the 2. Bundesliga:
 
@@ -846,18 +830,14 @@ Offenbacher FC Kickers 2-0 SV Eintracht Trier
 SV Eintracht Trier     2-3 VfL Osnabrück
 VfL Osnabrück          1-2 Offenbacher FC Kickers
 
- 1.Offenbacher FC Kickers        2  2  0  0   4- 1   6  Promoted
-------------------------------------------------------
- 2.VfL Osnabrück                 2  1  0  1   4- 4   3
- 3.SV Eintracht Trier            2  0  0  2   2- 5   0
+<!-- $table5$ -->
 
 
 Germany 1998/99 Third Level (Regionalliga)
 
 Regionalliga Nord
 
-<!-- $table4$ -->
-
+<!-- $table6$ - Final Table -->
 
 Promoted:
 
@@ -870,8 +850,7 @@ Playoffs: FC Bremerhaven - TSV Pansdorf 4-0
 
 Regionalliga Nordost
 
-<!-- $table5$ -->
-
+<!-- $table7$ - Final Table -->
 
 Promoted:
 
@@ -887,8 +866,7 @@ Playoffs: TeBe Amateure - FSV Hoyerswerda* 2-0
 
 Regionalliga Süd
 
-<!-- $table6$ -->
-
+<!-- $table8$ - Final Table -->
 
 Promoted:
 
@@ -904,8 +882,7 @@ were relegated to Regionalliga West/South-West.
 
 Regionalliga West/Südwest
 
-<!-- $table7$ -->
-
+<!-- $table9$ - Final Table -->
 
 Promoted:
 
@@ -914,14 +891,12 @@ SV Darmstadt 98 (Champion Hessen)
 VfR Aalen (Champion Baden-Württemberg)
 SG Quelle Fürth (Winner Playoffs)
 
-Playoffs:
+▪ Playoffs ▪
 SV Sandhausen (R-Up Baden -Württemberg) - SG Hoechst (R-Up Hessen) 0-0
 SG Quelle Fürth (R-Up Bayern) - SV Sandhausen 3-3
 SG Hoechst - SG Quelle F"urth 0-2
 
-1. SG Quelle Fürth   2 1 1 0  5-3  4
-2. SV Sandhausen     2 0 2 0  3-3  2
-3. SG Hoechst        2 0 1 1  0-2  1
+<!-- $table10$ -->
 
 ‹1997/98, see page duit98›
 

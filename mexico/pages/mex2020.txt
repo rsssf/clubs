@@ -1,6 +1,17 @@
-  <!--
-     source: https://rsssf.org/tablesm/mex2020.html
-    -->
+<!--
+  source: https://rsssf.org/tablesm/mex2020.html
+
+  outline: -/h2/-/h4/-/-
+           -/1/-/5/-/-
+    (2) ==      Mexico 2019/20
+    (4) ====    Liga MX  ‹§pdn›
+    (4) ====    Copa MX 2019/20  ‹§copa›
+    (4) ====    Campeón de Campeones  ‹§campcamp›
+    (4) ====    Supercopa MX  ‹§supcopa›
+    (4) ====    Ascenso MX  ‹§ascenso›
+
+  aname 9: ‹§pdn›,‹§1aper›,‹§1clau›,‹§copa›,‹§campcamp›,‹§supcopa›,‹§ascenso›,‹§2aper›,‹§2clau›
+ -->
   
 
 

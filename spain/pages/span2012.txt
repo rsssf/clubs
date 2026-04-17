@@ -1,6 +1,15 @@
-  <!--
-     source: https://rsssf.org/tabless/span2012.html
-    -->
+<!--
+  source: https://rsssf.org/tabless/span2012.html
+
+  outline: -/h2/-/h4/-/-
+           -/1/-/3/-/-
+    (2) ==      Spain 2011/12
+    (4) ====    Primera División (Liga BBVA)  ‹§laliga›
+    (4) ====    Copa del Rey  ‹§coparey›
+    (4) ====    Segunda División (Liga Adelante)  ‹§segunda›
+
+  aname 3: ‹§laliga›,‹§coparey›,‹§segunda›
+ -->
   
 
 
@@ -12,8 +21,7 @@
 
 ==== Primera División (Liga BBVA)  ‹§laliga›
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 
 
@@ -188,7 +196,7 @@ Athletic Club (Bilbao)    6-2 CD Mirandés
 _ Feb 8 _
 FC Barcelona              2-0 Valencia CF
 
-▪ Final ▪  May 25, Madrid
+▪ Final ▪  May 25 @ Madrid
 Athletic Club (Bilbao)    0-3 FC Barcelona
 
 
@@ -198,15 +206,14 @@ Athletic Club (Bilbao)    0-3 FC Barcelona
 
 ==== Segunda División (Liga Adelante)  ‹§segunda›
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 NB: Villarreal B relegated because of relegation of first team; due to this,
     Sabadell remained at second level
 
 Promoted from 3rd level: CD Lugo, CD Mirandés, SD Ponferradina, Real Madrid Castilla
 
-Promotion Playoff  ‹§2prom›
+▪ Promotion Playoff ▪
 
 ▪ Semifinals ▪
 

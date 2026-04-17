@@ -1,14 +1,17 @@
-  <!--
-     source: https://rsssf.org/tablesd/duit85.html
-    -->
+<!--
+  source: https://rsssf.org/tablesd/duit85.html
+
+  outline: -/h2/-/-/-/-
+           -/1/-/-/-/-
+    (2) ==      Germany 1984/85
+ -->
   
 
 
 == Germany 1984/85
 
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
     Bay Wer Köl Mön Ham Man Lev VfL Sch VfB Kai Fra Lev Dor Düs Arm Kar Bra
 Bay xxx 4-2 2-0 4-0 1-1 1-2 2-1 2-2 3-0 3-2 3-0 4-2 2-1 1-0 6-0 3-3 6-2 3-0
@@ -309,8 +312,7 @@ _ Jan 26 _
 Mannheim   5-2 Schalke    (Bührer 5, Schlindwein 55, Klotz 59, Kohler 67,
                           Gaudino 82 - Thon 18, Dietz 89)
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Fall Table -->
 
 ▪ Round 18 ▪  Feb 1
 1. FC Köln 1-0 B'schweig  (Littbarski 20)
@@ -595,26 +597,9 @@ Hamburger  2-0 Schalke    (Schröder 21, Wuttke 74)
                           (sent off: Täuber (Schalke, 56))
 Dortmund   2-0 Werder     (Schüler 56, Egli 85)
 
- 1. Bayern München               34 21  8  5  79- 38  50
- 2. Werder Bremen                34 18 10  6  87- 51  46
- 3. 1. FC Köln                   34 18  4 12  69- 66  40
- 4. Borussia Mönchengladbach     34 15  9 10  77- 53  39
- 5. Hamburger SV                 34 14  9 11  58- 49  37
- 6. Waldhof Mannheim             34 13 11 10  47- 50  37
- 7. Bayer Uerdingen              34 14  8 12  57- 52  36
- 8. VfL Bochum                   34 12 10 12  52- 54  34
- 9. Schalke 04                   34 13  8 13  63- 62  34
-10. VfB Stuttgart                34 14  5 15  79- 59  33
-11. 1. FC Kaiserslautern         34 11 11 12  56- 60  33
-12. Eintracht Frankfurt          34 10 12 12  62- 67  32
-13. Bayer Leverkusen             34  9 13 12  52- 54  31
-14. Borussia Dortmund            34 13  4 17  51- 65  30
-15. Fortuna Düsseldorf           34 10  9 15  53- 66  29
-16. Arminia Bielefeld            34  8 13 13  46- 61  29
-17. Karlsruher SC                34  5 12 17  47- 88  22
-18. Eintracht Braunschweig       34  9  2 23  39- 79  20
+<!-- $table3$ -->
 
-Playout:
+▪ Playout ▪
 
 1. FC Saarbrücken - Arminia Bielefeld 2:0
 Arminia Bielefeld - 1. FC SAARBRÜCKEN 1:1

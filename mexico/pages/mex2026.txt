@@ -1,6 +1,13 @@
-  <!--
-     source: https://rsssf.org/tablesm/mex2026.html
-    -->
+<!--
+  source: https://rsssf.org/tablesm/mex2026.html
+
+  outline: -/h2/-/h4/-/-
+           -/1/-/1/-/-
+    (2) ==      Mexico 2025/26
+    (4) ====    Liga MX  ‹§pdn›
+
+  aname 3: ‹§pdn›,‹§1aper›,‹§1clau›
+ -->
   
 
 

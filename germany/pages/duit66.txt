@@ -1,14 +1,17 @@
-  <!--
-     source: https://rsssf.org/tablesd/duit66.html
-    -->
+<!--
+  source: https://rsssf.org/tablesd/duit66.html
+
+  outline: -/h2/-/-/-/-
+           -/1/-/-/-/-
+    (2) ==      Germany 1965/66
+ -->
   
 
 
 == Germany 1965/66
 
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 Nb. Meidericher SV changed name to MSV Duisburg
 
@@ -271,8 +274,7 @@ Tasmania    1-2 Schalke     (Szymaniak 81 - Neuser 5, Klose 29)
 _ Dec 29 _
 Meidericher 1-2 Nürnberg    (Rühl 78 - Bast 4, Reisch 65 p)
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Fall Table -->
 
 ▪ Round 18 ▪  Jan 8
 K'lautern   1-0 Meidericher (Wrenger 87)
@@ -511,24 +513,7 @@ Meidericher 2-2 Hannover    (Nielke 50, 63 - Rodekamp 57, Bena 83)
 Stuttgart   4-1 K'lautern   (Peters 4, 29, Siebert 13, Waldner 79 - Geisert 10)
 Schalke     4-0 Tasmania    (Klose 2, 78, Herrmann 40, Kreuz 82)
 
- 1. TSV 1860 München             34 20 10  4  80- 40  50
- 2. Borussia Dortmund            34 19  9  6  70- 36  47
- 3. Bayern München               34 20  7  7  71- 38  47
- 4. Werder Bremen                34 21  3 10  76- 40  45
- 5. 1. FC Köln                   34 19  6  9  74- 41  44
- 6. 1. FC Nürnberg               34 14 11  9  54- 43  39
- 7. Eintracht Frankfurt          34 16  6 12  64- 46  38
- 8. Meidericher SV               34 14  8 12  70- 48  36
- 9. Hamburger SV                 34 13  8 13  64- 52  34
-10. Eintracht Braunschweig       34 11 12 11  49- 49  34
-11. VfB Stuttgart                34 13  6 15  42- 48  32
-12. Hannover 96                  34 11  8 15  59- 57  30
-13. Borussia Mönchengladbach     34  9 11 14  57- 68  29
-14. Schalke 04                   34 10  7 17  33- 55  27
-15. 1. FC Kaiserslautern         34  8 10 16  42- 65  26
-16. Karlsruher SC                34  9  6 19  35- 71  24
-17. Borussia Neunkirchen         34  9  4 21  32- 82  22
-18. Tasmania Berlin              34  2  4 28  15-108   8
+<!-- $table3$ -->
 
 <!-- $topscorers1$ -->
 

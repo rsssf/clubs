@@ -1,6 +1,10 @@
-  <!--
-     source: https://rsssf.org/tablesu/usa98.html
-    -->
+<!--
+  source: https://rsssf.org/tablesu/usa98.html
+
+  outline: -/h2/-/-/-/-
+           -/1/-/-/-/-
+    (2) ==      USA 1998
+ -->
   
 
 

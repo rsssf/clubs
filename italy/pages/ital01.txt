@@ -1,6 +1,10 @@
-  <!--
-     source: https://rsssf.org/tablesi/ital01.html
-    -->
+<!--
+  source: https://rsssf.org/tablesi/ital01.html
+
+  outline: -/h2/-/-/-/-
+           -/1/-/-/-/-
+    (2) ==      Italy 2000/01
+ -->
   
 
 
@@ -9,8 +13,7 @@
 
 First Level (Serie A)
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Sep 30 _
@@ -762,8 +765,7 @@ Udinese          2-3 Vicenza
 Verona           2-1 Perugia
   (Anthony Seric 23, Emiliano Salvetti 70; Giovanni Tedesco 51)
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 NB: Atalanta renounced the possibility to enter the UI Cup.  Brescia intend
     to field a youth team.
@@ -800,12 +802,7 @@ Chievo         2-1 Monza
 Piacenza       3-0 Viterbese
 _ Aug 20 _
 Chievo         1-3 Piacenza
-Monza          1-1 Viterbese
-
- 1.Piacenza        3  3  0  0  7- 1  9  Qualified
- 2.Chievo          3  2  0  1  6- 6  6
- 3.Monza           3  0  1  2  2- 4  1
- 4.Viterbese       3  0  1  2  3- 7  1
+<!-- $table3$ - Monza -->
 
 Group 2
 _ Aug 13 _
@@ -816,12 +813,7 @@ Sampdoria      2-1 Crotone
 Empoli         2-2 Fermana
 _ Aug 20 _
 Sampdoria      4-3 Empoli
-Crotone        0-1 Fermana
-
- 1.Sampdoria       3  3  0  0  8- 4  9  Qualified
- 2.Empoli          3  1  1  1  8- 7  4
- 3.Fermana         3  1  1  1  3- 4  4
- 4.Crotone         3  0  0  3  2- 6  0
+<!-- $table4$ - Crotone -->
 
 Group 3
 _ Aug 13 _
@@ -832,12 +824,7 @@ Atalanta       1-0 Ravenna
 Pistoiese      1-4 Avellino
 _ Aug 20 _
 Atalanta       1-1 Pistoiese
-Ravenna        4-2 Avellino
-
- 1.Atalanta        3  2  1  0  5- 2  7  Qualified
- 2.Pistoiese       3  1  1  1  4- 6  4
- 3.Ravenna         3  1  0  2  5- 5  3
- 4.Avellino        3  1  0  2  7- 8  3
+<!-- $table5$ - Ravenna -->
 
 Group 4
 _ Aug 13 _
@@ -848,12 +835,7 @@ Cittadella     0-1 Salernitana
 Cagliari       2-2 Ascoli
 _ Aug 20 _
 Cittadella     0-3 Cagliari
-Salernitana    1-0 Ascoli
-
- 1.Salernitana     3  3  0  0  4- 1  9  Qualified
- 2.Cagliari        3  1  1  1  6- 4  4
- 3.Ascoli          3  0  2  1  3- 4  2
- 4.Cittadella      3  0  1  2  1- 5  1
+<!-- $table6$ - Salernitana -->
 
 Group 5
 _ Aug 13 _
@@ -864,12 +846,7 @@ Torino         2-1 Cesena
 Ternana        1-0 Varese
 _ Aug 20 _
 Torino         3-3 Ternana
-Cesena         1-2 Varese
-
- 1.Torino          3  2  1  0  8- 4  7  Qualified
- 2.Ternana         3  1  2  0  5- 4  5
- 3.Varese          3  1  0  2  2- 5  3
- 4.Cesena          3  0  1  2  3- 5  1
+<!-- $table7$ - Cesena -->
 
 Group 6
 _ Aug 13 _
@@ -880,12 +857,7 @@ Venezia        2-1 Savoia
 Siena          2-2 Pescara
 _ Aug 20 _
 Venezia        1-0 Siena
-Savoia         3-4 Pescara
-
- 1.Venezia         3  2  1  0  4- 2  7  Qualified
- 2.Pescara         3  1  2  0  7- 6  5
- 3.Savoia          3  1  0  2  5- 6  3
- 4.Siena           3  0  1  2  2- 4  1
+<!-- $table8$ - Savoia -->
 
 Group 7
 _ Aug 13 _
@@ -896,12 +868,7 @@ Ancona         2-1 Pisa
 Cosenza        2-0 Genoa
 _ Aug 20 _
 Ancona         0-1 Cosenza
-Pisa           2-2 Genoa
-
- 1.Cosenza         3  2  1  0  3- 0  7  Qualified
- 2.Ancona          3  2  0  1  5- 4  6
- 3.Pisa            3  0  2  1  3- 4  2
- 4.Genoa           3  0  1  2  4- 7  1
+<!-- $table9$ - Pisa -->
 
 Group 8
 _ Aug 13 _
@@ -912,12 +879,7 @@ Brescello      0-1 Brescia
 Treviso        2-1 Alzano
 _ Aug 20 _
 Brescello      1-0 Treviso
-Brescia        1-2 Alzano
-
- 1.Brescia         3  2  0  1  3- 2  6  Qualified
- 2.Alzano          3  1  1  1  4- 4  4
- 3.Brescello       3  1  1  1  2- 2  4
- 4.Treviso         3  1  0  2  2- 3  3
+<!-- $table10$ - Brescia -->
 
 
 ▪ Second Round ▪
@@ -1025,8 +987,7 @@ Fiorentina     1-1 Parma
 
 Second Level (Serie B)
 
-<!-- $table3$ -->
-
+<!-- $table11$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Sep 4 _
@@ -1912,8 +1873,7 @@ Ternana      0-0 Crotone
 Venezia      2-2 Empoli
   (Brivio 21p, Bazzani 26; Iacopino 11, 31)
 
-<!-- $table4$ -->
-
+<!-- $table12$ - Final Table -->
 
 <!-- $topscorers2$ -->
 
@@ -2402,8 +2362,30 @@ Reggiana    2-2  Lumezzane
 Spal        2-2  Spezia
 Varese      0-0 Brescello
 
-<!-- $table5$ -->
+Final Table:
 
+Modena        74  34 22  8  4  52-20 Promoted
+------------------------------------
+Como          72  34 22  6  6  44-18 Promoted after play-off
+Livorno       63  34 17 12  5  56-25
+Arezzo        54  34 16  6 12  52-46
+Spezia        52  34 15  7 12  39-32
+ - - - - - - - - - - - - - - - - - -
+Cesena        49  34 12 13  9  40-35
+Lucchese      48  34 12 12 10  39-33
+Lumezzane     47  34 11 14  9  43-43
+Spal          43  34  9 16  9  40-38
+Varese        43  34  9 16  9  28-28
+Pisa          42  34 10 12 12  26-36
+Lecco         40  34 11  7 16  29-46
+AlbinoLeffe   39  34  7 18  9  27-31
+ - - - - - - - - - - - - - - - - - -
+Carrarese     33  34  7 12 15  35-45
+Alzano        31  34  6 13 15  29-44 Relegated after play-out
+Reggiana      30  34  6 12 16  34-53
+Brescello     28  34  4 16 14  30-44 Relegated after play-out
+------------------------------------
+Alessandria   25  34  5 10 19  25-50 Relegated
 
 ▪ Play-off ▪
 
@@ -2924,8 +2906,30 @@ Fermana          2-2 Nocerina
 Savoia           1-0 Vis Pesaro
 Catania          2-1 Viterbese
 
-<!-- $table6$ -->
+Final Table:
 
+Palermo           64  34 18 10  6  47-31 Promoted
+----------------------------------------
+Messina           61  34 16 13  5  40-26 Promoted after play-off
+Catania           58  34 16 10  8  49-40
+Avellino          57  34 14 15  5  45-27
+Ascoli            54  34 14 12  8  47-33
+ - - - - - - - - - - - - - - - - - - - -
+Savoia            54  34 16  6 12  51-46
+Sassari Torres    53  34 14 11  9  55-45
+Castel di Sangro  47  34 12 11 11  44-40
+L'Aquila          46  34 13  7 14  37-35
+Fermana           42  34 10 12 12  41-38
+Giulianova        42  34  9 15 10  36-40
+Vis Pesaro        39  34  9 12 13  26-29
+Benevento         39  34  9 12 13  40-54
+ - - - - - - - - - - - - - - - - - - - -
+Lodigiani         39  34 10  9 15  34-44
+Nocerina          36  34  8 12 14  29-42 Relegated after play-out
+Viterbese         29  34  5 14 15  32-48
+Atl.Catania       27  34  5 12 17  27-44 Relegated after play-out
+----------------------------------------
+Fid.Andria        27  34  4 15 15  25-43 Relegated
 
 ▪ Play-off ▪
 

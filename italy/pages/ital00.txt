@@ -1,6 +1,10 @@
-  <!--
-     source: https://rsssf.org/tablesi/ital00.html
-    -->
+<!--
+  source: https://rsssf.org/tablesi/ital00.html
+
+  outline: -/h2/-/-/-/-
+           -/1/-/-/-/-
+    (2) ==      Italy 1999/2000
+ -->
   
 
 
@@ -13,8 +17,7 @@
 
 First Level (Serie A)
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Aug 28 _
@@ -744,8 +747,7 @@ Torino         2-1 Piacenza
 Verona         2-2 Roma
   (Adailton 12, Cammarata 54 - Tommasi 7, Montella 43)
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 Spareggio Champions' League Qualification [May 23]
 Inter          3-1 Parma
@@ -781,12 +783,7 @@ Fidelis Andria 0-1 Ternana
 Lecce          3-1 Lucchese
 _ Sep 15 _
 Ternana        2-0 Lecce
-Lucchese       2-1 Fidelis Andria
-
- 1.Ternana         6  4  2  0 11- 4 14  Qualified
- 2.Lecce           6  4  1  1 12- 5 13
- 3.Lucchese        6  2  0  4  7-11  6
- 4.Fidelis Andria  6  0  1  5  5-15  1
+<!-- $table3$ - Lucchese -->
 
 Group 2
 _ Aug 15 _
@@ -806,12 +803,7 @@ Sampdoria      1-0 Savoia
 Cesena         1-1 Palermo
 _ Sep 15 _
 Savoia         1-1 Cesena
-Palermo        1-3 Sampdoria
-
- 1.Sampdoria       6  5  0  1 11- 5 15  Qualified
- 2.Cesena          6  3  2  1  8- 6 11
- 4.Palermo         6  1  2  3 10-14  5
- 3.Savoia          6  0  2  4  5-11  2
+<!-- $table4$ - Palermo -->
 
 Group 3
 _ Aug 15 _
@@ -831,12 +823,7 @@ Lumezzane      0-2 Genoa
 Empoli         1-0 Monza
 _ Sep 15 _
 Genoa          5-1 Empoli
-Monza          2-1 Lumezzane
-
- 1.Genoa           6  4  1  1 13- 6 13  Qualified
- 2.Empoli          6  3  1  2 10- 9 10
- 3.Monza           6  2  1  3  8-11  7
- 4.Lumezzane       6  1  1  4  6-11  4
+<!-- $table5$ - Monza -->
 
 Group 4
 _ Aug 15 _
@@ -856,12 +843,7 @@ Cremonese      0-0 Atalanta
 Pistoiese      1-1 Chievo
 _ Sep 15 _
 Atalanta       3-0 Pistoiese
-Chievo         2-0 Cremonese
-
- 1.Atalanta        6  4  2  0 10- 1 14  Qualified
- 2.Chievo          6  2  3  1  4- 3  9
- 3.Pistoiese       6  1  3  2  6- 9  6
- 4.Cremonese       6  0  2  4  3-10  2
+<!-- $table6$ - Chievo -->
 
 Group 5
 _ Aug 15 _
@@ -881,12 +863,7 @@ Reggina        1-0 Cosenza
 Treviso        2-1 Gualdo
 _ Sep 15 _
 Gualdo         0-3 Reggina
-Cosenza        0-1 Treviso
-
- 1.Reggina         6  4  2  0  8- 0 14  Qualified
- 2.Treviso         6  4  2  0  6- 2 14  [hth 2 0 2 0 0-0 2; gd for Reggina]
- 3.Cosenza         6  1  1  4  3- 6  4
- 4.Gualdo          6  0  1  5  2-11  1
+<!-- $table7$ - Cosenza -->
 
 Group 6
 _ Aug 15 _
@@ -906,12 +883,7 @@ Napoli         3-0 Salernitana
 Fermana        0-3 Como
 _ Sep 15 _
 Salernitana    3-0 Fermana
-Como           1-2 Napoli
-
- 1.Napoli          6  4  1  1 11- 5 13  Qualified
- 2.Salernitana     6  4  1  1 16- 8 13  [hth 2 1 0 1 2-3 3]
- 3.Como            6  2  2  2 11-10  8
- 4.Fermana         6  0  0  6  4-19  0
+<!-- $table8$ - Como -->
 
 Group 7
 _ Aug 15 _
@@ -931,12 +903,7 @@ Brescia        1-0 Juve Stabia
 Reggiana       1-0 Pescara
 _ Sep 15 _
 Juve Stabia    1-3 Reggiana
-Pescara        4-2 Brescia
-
- 1.Pescara         6  4  0  2 18- 9 12  Qualified
- 2.Brescia         6  3  1  2  8- 8 10
- 3.Reggiana        6  2  2  2  8-11  8
- 4.Juve Stabia     6  1  1  4  4-10  4
+<!-- $table9$ - Pescara -->
 
 Group 8
 _ Aug 15 _
@@ -956,12 +923,7 @@ Alzano         0-1 Spal
 Vicenza        1-1 Ravenna
 _ Sep 15 _
 Spal           1-1 Vicenza
-Ravenna        2-1 Alzano
-
- 1.Ravenna         6  4  1  1  9- 5 13  Qualified
- 2.Vicenza         6  2  2  2  9- 8  8
- 3.Spal            6  2  2  2  5- 9  8
- 4.Alzano          6  1  1  4  5- 6  4
+<!-- $table10$ - Ravenna -->
 
 
 ▪ Second Round ▪
@@ -1105,8 +1067,7 @@ Lazio win double
 
 Serie B
 
-<!-- $table3$ -->
-
+<!-- $table11$ - Final Table -->
 
 _ Aug 29 _
 Alzano        2-1   Monza
@@ -1569,8 +1530,7 @@ Ternana       2-1   Fermana
 Treviso       7-1   Salernitana
 Vicenza       3-2   Savoia
 
-<!-- $table4$ -->
-
+<!-- $table12$ - Final Table -->
 
 ▪ Relegation Playoff ▪
 
@@ -1961,8 +1921,7 @@ Reggiana      1-0   Siena
 Sandona'      1-2   Cittadella
 Spal          1-1   Lucchese
 
-<!-- $table5$ -->
-
+<!-- $table13$ - Final Table -->
 
 ▪ Promotion Playoff ▪
 
@@ -2370,8 +2329,7 @@ Lodigiani      1-0   Nocerina
 Marsala        3-2   Gualdo
 Palermo        3-0   F. Andria
 
-<!-- $table6$ -->
-
+<!-- $table14$ - Final Table -->
 
 [*34] w/o goals round 34
 
@@ -2780,8 +2738,7 @@ Sanremese       1-1   Alessandria
 Saronno         2-1   Pro Sesto
 Spezia          0-0   Rondinella I.
 
-<!-- $table7$ -->
-
+<!-- $table15$ - Final Table -->
 
 ▪ Promotion Playoff ▪
 
@@ -3188,8 +3145,7 @@ Tempio            1-2   Rimini
 Triestina         3-1   Sora
 Vis Pesaro        1-1   Padova
 
-<!-- $table8$ -->
-
+<!-- $table16$ - Final Table -->
 
 ▪ Promotion Playoff ▪
 
@@ -3596,8 +3552,7 @@ Nardo'          1-0   Trapani
 Tricase         1-1   Messina
 Turris          2-1   Castrovillari
 
-<!-- $table9$ -->
-
+<!-- $table17$ - Final Table -->
 
 ▪ Promotion Playoff ▪
 
@@ -3636,26 +3591,7 @@ Fifth Level
 
 Serie D
 
-Girone D
- 1. FC Südtirol              36  20 10  6  56-26  70
- 2. Montecchio               36  20  9  7  42-22  69
- 3. Pro Gorzia               36  16 15  5  45-25  63
- 4. Santa Lucia di Piave     36  16 13  7  40-23  61
- 5. Pordenone                36  16 11  9  53-29  59
- 6. Valdagno                 36  14 13  9  48-33  55
- 7. Bassano                  36  13 14  9  51-40  53
- 8. Arzignano                36  13 14  9  55-49  53
- 9. Martellago               36  13 10 13  42-43  49
-10. Sanvitese                36  12 12 12  46-42  48
-11. Itala San Marco          36  11 14 11  40-45  47
-12. Portosummaga             36   9 17 10  34-32  44
-13. Trento                   36   8 19  9  36-35  43
-14. Chioggia                 36   9 15 12  30-33  42
-15. Pievigina                36  10 11 15  49-43  41
-16. Mezzocorona              36   9 10 17  27-39  37
-17. FC Bozen 96              36   9 10 17  30-44  37
-18. Arco                     36   7 13 16  36-56  34
-19. Settaurense              36   0  4 32  20-121  4
+<!-- $table18$ - Girone D -->
 
 Italy's highest amateur level contains 9 groups; the winner of each
 group is promoted to Serie C2, the lowest professional level; the
@@ -3668,23 +3604,7 @@ absence gets a team engaged in professional football.
 Sixth Level
 -----------
 
-Eccellenza ("Oberliga")
- 1. Condinese                30  18  7  5  43-23  61
- 2. Rotaliana                30  16  7  7  41-34  55
- 3. Vallagarino              30  13 13  4  39-22  52
- 4. Comano                   30  12 11  7  30-23  47
- 5. Benacense                30  10 14  6  41-29  44
- 6. Natz                     30  11  9 10  40-37  42
- 7. Mori San Stefano         30  11  8 11  23-25  41
- 8. Salurn                   30   9 12  9  37-37  39
- 9. Tramin                   30   9 12  9  28-32  39
-10. Rovereto                 30   7 16  7  29-27  37
-11. Neugries                 30   9 10 11  37-43  37
-12. Garibaldina              30   9  8 13  36-39  35
-13. Vahrn                    30   8  9 13  24-40  33
-14. Villazzano               30   7  9 14  23-35  30
-15. Naturns                  30   6  8 16  29-41  26
-16. Anaune                   30   4  9 17  22-45  21
+<!-- $table19$ - Eccellenza ("Oberliga") -->
 
 Relegated from DN: Mezzocorona, FC Bozen 96, Arco
 
@@ -3697,43 +3617,11 @@ Seventh Level
 
 Promozione (Landesliga)
 
-Group "Südtirol"
- 1. SSV Brixen               30  20  5  5  50-16  65
- 2. Sankt Pauls              30  16  8  6  56-27  56
- 3. Virtus Don Bosco         30  15  8  7  45-29  53
- 4. SSV Bruneck              30  13 10  7  48-31  49
- 5. Eppan                    30  13  6 11  37-31  45
- 6. Mühlbach/Vals            30  11 12  7  35-29  45
- 7. Taufers                  30  10 11  9  23-25  41
- 8. Lana                     30  11  8 11  33-39  41
- 9. Sankt Georgen            30   9 11 10  33-32  38
-10. Vintl                    30   9 11 10  34-35  38
-11. Schluderns               30  10  8 12  41-51  38
-12. Plose                    30   9  6 15  40-48  33
-13. Sankt Martin im Pass.    30   7 10 13  31-40  31
-14. AC Leifers               30   7  8 15  19-38  29
-15. Auswahl Sterzing         30   6  9 15  28-47  27
-16. Neumarkt                 30   3 11 16  20-55  20
+<!-- $table20$ - Group "Südtirol" -->
 
 Relegated from Oberliga: Vahrn, Naturns
 
-Group "Trentino"
- 1. Albiano                  30  17  7  6  56-26  58
- 2. Borgo                    30  15 12  3  43-18  57
- 3. Pieve di Bono            30  14 10  6  43-30  52
- 4. Alense                   30  13 12  5  45-23  51
- 5. Baone                    30  12 12  6  42-28  48
- 6. Dimaro Folgarida         30  13  8  9  36-34  47
- 7. Aldeno                   30  12  8 10  37-33  44
- 8. Pinzolo/Campiglio        30  10 12  8  46-34  42
- 9. Levico                   30  11  6 13  36-41  39
-10. Predaia                  30  11  5 14  32-32  38
-11. Cavalese                 30   8 11 11  32-38  35
-12. Riva                     30   8 10 12  34-41  34
-13. Eridio                   30   8  9 13  32-41  33
-14. Molveno                  30   6  9 15  21-42  27
-15. Lavis                    30   3 12 15  22-45  21
-16. Monte Bondone            30   5  5 20  34-86  20
+<!-- $table21$ - Group "Trentino" -->
 
 
 Eight Level
@@ -3741,41 +3629,9 @@ Eight Level
 
 Prima Categoria (1.Amateurliga) Südtirol
 
-Group A
- 1. Mals                     30  20  7  3  63-29  67
- 2. SC Passeier              30  13 11  6  41-28  50
- 3. Eyrs                     30  12 13  5  57-41  49
- 4. Auer                     30  11 13  6  34-28  46
- 5. Laas                     30  11  9 10  39-39  42
- 6. Schlanders               30  11  8 11  40-35  41
- 7. Fortuna Merania          30  11  8 11  49-50  41
- 8. Terlan                   30  11  7 12  41-37  40
- 9. Sinich                   30   9 12  9  44-35  39
-10. Latsch                   30  11  6 13  38-40  39
-11. Nals                     30  10  8 12  51-56  38
-12. Bozner Boden             30  10  8 12  41-43  38
-13. Kastelbell/Tschars       30  10  8 12  34-38  38
-14. Ulten                    30   8 10 12  39-38  34
-15. Kaltern                  30   9  6 15  37-53  33
-16. Sandrini Bozen           30   3  6 21  39-97  15
+<!-- $table22$ - Group A -->
 
-Group B
- 1. Latzfons/Verdings        30  18  9  3  64-32  63
- 2. Ridnauntal               30  19  3  8  73-32  60
- 3. Steinmannwald            30  18  3  9  55-34  57
- 4. Rasen/Antholz            30  16  5  9  58-34  53
- 5. Sarnthein                30  15  5 10  45-29  50
- 6. Schabs                   30  14  8  8  47-37  50
- 7. Pfalzen                  30  13  6 11  55-46  45
- 8. Terenten                 30  12  6 12  40-42  42
- 9. Ritten                   30  11  8 11  62-55  41
-10. Welschellen              30  11  6 13  47-53  39
-11. Klausen                  30  10  8 12  40-46  38
-12. Stegen                   30  10  6 14  40-57  36
-13. FC Gröden                30   7 10 13  36-54  31
-14. Teis                     30   7  3 20  43-79  24
-15. Toblach                  30   5  7 18  41-72  22
-16. Ahrntal                  30   6  3 21  35-79  21
+<!-- $table23$ - Group B -->
 
 
 Ninth Level
@@ -3783,47 +3639,11 @@ Ninth Level
 
 Seconda Categoria (2.Amateurliga) Südtirol
 
-Group A
- 1. Obermais                 22  15  4  3  38-14  49
- 2. Prad                     22  12  4  6  42-30  40
- 3. Bozner FC                22  10  7  5  42-26  37
- 4. Schenna                  22  10  7  5  34-28  37
- 5. Haslach                  22  10  6  6  48-31  36
- 6. Partschins               22   9  5  8  46-33  32
- 7. Riffian/Kuens            22   7  8  7  32-34  29
- 8. FC Moos                  22   7  7  8  42-42  28
- 9. Goldrain                 22   6  8  8  27-31  26
-10. Burgstall                22   7  4 11  30-41  25
-11. Latsch                   22   2  6 14  30-56  12
-12. Glurns                   22   2  4 16  20-65  10
+<!-- $table24$ - Group A -->
 
-Group B
- 1. Barbian                  22  13  7  2  55-24  46
- 2. AC Brixen                22  12  7  3  53-23  43
- 3. Schlern                  22  11  4  7  35-25  37
- 4. Laag                     22  10  6  6  33-25  36
- 5. Branzoll                 22   9  7  6  35-27  34
- 6. Feldthurns               22   8  6  8  31-30  30
- 7. Girlan                   22   5 12  5  34-33  27
- 8. Kurtatsch                22   7  5 10  33-47  26
- 9. Frangart                 22   7  4 11  21-31  25
-10. Barcelona Bozen          22   6  5 11  18-35  23
-11. Deutschnofen             22   4  7 11  20-39  19
-12. Lajen                    22   2  6 14  14-43  12
+<!-- $table25$ - Group B -->
 
-Group C
- 1. Reischach                22  15  7  0  58-15  52
- 2. Wiesen/Pfitsch           22  12  4  6  50-32  40
- 3. FC Bruneck               22  10 10  2  37-20  40
- 4. Pichl Gsies              22  11  6  5  37-23  39
- 5. Sankt Lorenzen           22   8  6  8  37-37  30
- 6. Freienfeld               22   8  6  8  35-36  30
- 7. Rodeneck                 22   7  7  8  27-36  28
- 8. Raas                     22   6  7  9  24-25  25
- 9. Taisten                  22   6  7  9  24-31  25
-10. Gais                     22   6  6 10  25-48  24
-11. Innichen                 22   5  7 10  40-38  22
-12. Franzensfeste            22   1  1 20  13-66   4
+<!-- $table26$ - Group C -->
 
 
 Tenth Level
@@ -3831,51 +3651,13 @@ Tenth Level
 
 Terza Categoria (3.Amateurliga) Südtirol
 
-Group A
- 1. Algund                   18  14  1  3  42-15  43
- 2. Laugen Tisens            18  13  4  1  39-16  43
- 3. Tscherms                 18  10  4  4  44-29  34
- 4. Völlan                   18   9  4  5  41-28  31
- 5. Atletico Meran           18   7  4  7  32-25  25
- 6. Burgeis                  18   6  3  9  40-36  21
- 7. Kortsch                  18   6  3  9  32-33  21
- 8. Hafling                  18   6  3  9  28-37  21
- 9. Taufers im Münstertal    18   4  1 13  27-61  13
-10. Dorf Tirol               18   1  1 16  14-59   4
+<!-- $table27$ - Group A -->
 
-Group B
- 1. Andrian                  18  15  2  1  64-19  47
- 2. Aldein                   18  12  2  4  37-16  38
- 3. Montan                   18  11  2  5  40-26  35
- 4. Altrei/Truden            18   8  2  8  38-34  26
- 5. Milan Club Bozen         18   7  5  6  25-33  26
- 6. Kurtinig                 18   7  3  8  35-44  24
- 7. Mölten/Vöran             18   6  3  9  29-34  21
- 8. Napoli Club Bozen        18   4  3 11  30-55  15
- 9. Petersberg               18   3  4 11  26-44  13
-10. Gargazon                 18   2  4 12  21-40  10
+<!-- $table28$ - Group B -->
 
-Group C
- 1. Lüsen                    14  10  4  0  24-8   34
- 2. Neustift                 14   8  3  3  36-21  27
- 3. Gossensaß                14   5  6  3  19-17  21
- 4. Milland                  14   4  6  4  12-15  18
- 5. Aicha                    14   2  8  4  18-20  14
- 6. Albeins                  14   3  3  8  15-23  12
- 7. Rapid Kiens              14   2  6  6  19-28  12
- 8. Jenesien                 14   1  6  7  15-26   9
+<!-- $table29$ - Group C -->
 
-Group D
- 1. Steinhaus                18  12  3  3  50-15  39
- 2. Mareo Sankt Vigil        18  12  3  3  40-16  39
- 3. Hochabteital             18  12  2  4  43-14  38
- 4. Sankt Martin in Thurn    18   8  6  4  26-18  29
- 5. Mühlwald                 18   8  4  6  28-20  28
- 6. Olang                    18   5  5  8  33-32  20
- 7. Wengen                   18   6  2 10  19-25  20
- 8. Dietenheim/Aufhofen      18   5  4  9  27-35  19
- 9. Sexten                   18   6  1 11  30-42  19
-10. Antholzertal             18   1  0 17   4-83   3
+<!-- $table30$ - Group D -->
 
 ‹1998/99, see page ital99›.
 

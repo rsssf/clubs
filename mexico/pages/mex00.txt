@@ -1,6 +1,10 @@
-  <!--
-     source: https://rsssf.org/tablesm/mex00.html
-    -->
+<!--
+  source: https://rsssf.org/tablesm/mex00.html
+
+  outline: -/h2/-/-/-/-
+           -/1/-/-/-/-
+    (2) ==      Mexico 1999/2000
+ -->
   
 
 

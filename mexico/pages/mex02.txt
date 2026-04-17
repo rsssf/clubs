@@ -1,6 +1,10 @@
-  <!--
-     source: https://rsssf.org/tablesm/mex02.html
-    -->
+<!--
+  source: https://rsssf.org/tablesm/mex02.html
+
+  outline: -/h2/-/-/-/-
+           -/1/-/-/-/-
+    (2) ==      Mexico 2001/02
+ -->
   
 
 

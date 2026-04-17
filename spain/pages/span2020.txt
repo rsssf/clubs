@@ -1,6 +1,15 @@
-  <!--
-     source: https://rsssf.org/tabless/span2020.html
-    -->
+<!--
+  source: https://rsssf.org/tabless/span2020.html
+
+  outline: -/h2/-/h4/-/-
+           -/1/-/3/-/-
+    (2) ==      Spain 2019/20
+    (4) ====    Primera División  ‹§laliga›
+    (4) ====    Copa del Rey  ‹§coparey›
+    (4) ====    Segunda División (Liga Adelante)  ‹§segunda›
+
+  aname 3: ‹§laliga›,‹§coparey›,‹§segunda›
+ -->
   
 
 
@@ -12,8 +21,7 @@
 
 ==== Primera División  ‹§laliga›
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Aug 16 _
@@ -300,8 +308,7 @@ Sociedad                  1-2 Villarreal
 Alavés                    1-1 Betis
 Celta                     1-1 Osasuna
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Halfway Table -->
 
 ▪ Round 20 ▪
 _ Jan 17 _
@@ -588,8 +595,7 @@ Levante                   1-0 Getafe
 Espanyol                  0-0 Celta
 Sevilla                   1-0 Valencia
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 
 
@@ -761,7 +767,7 @@ CD Mirandés               0-1 Real Sociedad
 _ Mar 5 _
 Granada CF                2-1 Athletic Club (Bilbao)
 
-▪ Final ▪  Apr 3 2021, Estadio La Cartuja, Sevilla
+▪ Final ▪  Apr 3 2021 @ Estadio La Cartuja, Sevilla
 Athletic Club (Bilbao)    0-1 Real Sociedad
 
 
@@ -771,12 +777,11 @@ Athletic Club (Bilbao)    0-1 Real Sociedad
 
 ==== Segunda División (Liga Adelante)  ‹§segunda›
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Final Table -->
 
 Promoted: FC Cartagena, UD Logroñés, CD Castellón, CE Sabadell
 
-Promotion Playoff  ‹§2prom›
+▪ Promotion Playoff ▪
 
 ▪ Semifinals ▪
 

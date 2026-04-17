@@ -1,6 +1,18 @@
-  <!--
-     source: https://rsssf.org/tablesi/ital2011.html
-    -->
+<!--
+  source: https://rsssf.org/tablesi/ital2011.html
+
+  outline: -/h2/-/h4/-/-
+           -/1/-/6/-/-
+    (2) ==      Italy 2010/11
+    (4) ====    Serie A  ‹§seriea›
+    (4) ====    Coppa Italia  ‹§coppa›
+    (4) ====    Serie B  ‹§serieb›
+    (4) ====    Prima Divisione  ‹§prima›
+    (4) ====    Seconda Divisione  ‹§seconda›
+    (4) ====    Serie D  ‹§seried›
+
+  aname 20: ‹§seriea›,‹§coppa›,‹§serieb›,‹§prima›,‹§3a›,‹§3b›,‹§seconda›,‹§4a›,‹§4b›,‹§4c›,‹§seried›,‹§5a›,‹§5b›,‹§5c›,‹§5d›,‹§5e›,‹§5f›,‹§5g›,‹§5h›,‹§5i›
+ -->
   
 
 
@@ -12,8 +24,7 @@
 
 ==== Serie A  ‹§seriea›
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Aug 28 _
@@ -993,8 +1004,7 @@ Roma       3-1 Sampdoria
    Daniele Mannini 26)
 Udinese    0-0 Milan
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 
 
@@ -1222,8 +1232,7 @@ Palermo: Sirigu, Cassani, Goian (24 Carrozzieri), Munoz,
 
 ▪ Regular Season ▪
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 A promotion playoff is played if the difference between 3rd and 4th place is less than 10 points
 
@@ -1754,8 +1763,7 @@ A relegation playoff is played if the difference between 18th and 19th place is 
 9' Gennaro Troianiello (1-0); 45+3' Gianluca Freddi (1-1); 69' Salvatore Mastronunzio (2-1); 74' Reginaldo (3-1)
 
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Final Table -->
 
 
 ▪ Promotion Playoff ▪
@@ -1803,8 +1811,7 @@ NB: Piacenza relegated on worse regular season record
 
 Gruppo A  ‹§3a›
 
-<!-- $table5$ -->
-
+<!-- $table5$ - Table -->
 
 Salernitana two points deducted
 Spal one point deducted
@@ -2218,8 +2225,7 @@ Awarded for the irregular position of player Fausto Ferrari disqualified. Match 
 
 Gruppo B  ‹§3b›
 
-<!-- $table6$ -->
-
+<!-- $table6$ - Table -->
 
 Cavese five points deducted
 Foggia one point deducted
@@ -2642,8 +2648,7 @@ Foligno one point deducted
 
 Gruppo A  ‹§4a›
 
-<!-- $table7$ -->
-
+<!-- $table7$ - Table -->
 
 Canavese two points deducted
 Rodengo Saiano one point deducted
@@ -2987,8 +2992,7 @@ Rodengo Saiano one point deducted
 
 Gruppo B  ‹§4b›
 
-<!-- $table8$ -->
-
+<!-- $table8$ - Table -->
 
 Villacidrese five points deducted
 Sangiovannese four points deducted
@@ -3279,8 +3283,7 @@ Sangiovannese four points deducted
 
 Gruppo C  ‹§4c›
 
-<!-- $table9$ -->
-
+<!-- $table9$ - Table -->
 
 Catanzaro one point deducted
 
@@ -3584,8 +3587,7 @@ In all groups a relegation playoff is played if the difference between 15th and 
 
 Gruppo A  ‹§5a›
 
-<!-- $table10$ -->
-
+<!-- $table10$ - Table -->
 
 ▪ Round 1 ▪
 Acqui Calcio 1911                       2-0 Borgorosso Arenzano
@@ -3757,8 +3759,7 @@ Sarzanese Calcio 1906 Srl               3-0 Chiavari Calcio Caperana
 
 Gruppo B  ‹§5b›
 
-<!-- $table11$ -->
-
+<!-- $table11$ - Table -->
 
 ▪ Round 1 ▪
 Alzano Cene 1909 S.R.L.                 2-3 Voghera S.R.L.
@@ -3894,8 +3895,7 @@ Virtusvecomp Verona                     0-1 Alzano Cene 1909 S.R.L.
 
 Gruppo C  ‹§5c›
 
-<!-- $table12$ -->
-
+<!-- $table12$ - Table -->
 
 Sanvitese one point deducted
 San Paolo Padova S.R.L. one point deducted
@@ -4034,8 +4034,7 @@ Union Quinto                            1-2 San Paolo Padova S.R.L.
 
 Gruppo D  ‹§5d›
 
-<!-- $table13$ -->
-
+<!-- $table13$ - Table -->
 
 ▪ Round 1 ▪
 Bagnolese                               1-1 Pizzighettone S.R.L.
@@ -4171,8 +4170,7 @@ Virtus Pavullese                        1-2 Borgo A Buggiano 1920
 
 Gruppo E  ‹§5e›
 
-<!-- $table14$ -->
-
+<!-- $table14$ - Table -->
 
 ▪ Round 1 ▪
 Deruta                                  1-1 Fortis Juventus 1909
@@ -4308,8 +4306,7 @@ Todi Calcio                             2-0 Fortis Juventus 1909
 
 Gruppo F  ‹§5f›
 
-<!-- $table15$ -->
-
+<!-- $table15$ - Table -->
 
 ▪ Round 1 ▪
 Atletico Trivento S.R.L.                1-0 Santarcangelo
@@ -4481,8 +4478,7 @@ Santegidiese S.R.L.                     4-1 Bikkembergs Fossombr. Srl
 
 Gruppo G  ‹§5g›
 
-<!-- $table16$ -->
-
+<!-- $table16$ - Table -->
 
 ▪ Round 1 ▪
 Anziolavinio                            0-0 Selargius Calcio
@@ -4619,8 +4615,7 @@ Viribus Unitis S.R.L.                   1-0 Fidene S.R.L. S.S.D
 
 Gruppo H  ‹§5h›
 
-<!-- $table17$ -->
-
+<!-- $table17$ - Table -->
 
 ▪ Round 1 ▪
 Ars Et Labor Grottaglie                 3-1 Capriatese
@@ -4756,8 +4751,7 @@ Virtus Casarano                         1-2 Fortis Trani S.R.L.
 
 Gruppo I  ‹§5i›
 
-<!-- $table18$ -->
-
+<!-- $table18$ - Table -->
 
 A.C.R. Messina S.R.L. two points deducted
 

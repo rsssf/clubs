@@ -1,6 +1,14 @@
-  <!--
-     source: https://rsssf.org/tablesi/ital2025.html
-    -->
+<!--
+  source: https://rsssf.org/tablesi/ital2025.html
+
+  outline: -/h2/-/h4/-/-
+           -/1/-/2/-/-
+    (2) ==      Italy 2024/25
+    (4) ====    Serie A  ‹§seriea›
+    (4) ====    Coppa Italia  ‹§coppa›
+
+  aname 2: ‹§seriea›,‹§coppa›
+ -->
   
 
 
@@ -12,8 +20,7 @@
 
 ==== Serie A  ‹§seriea›
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Aug 17 _
@@ -607,8 +614,7 @@ Torino          0-2 Roma
 Udinese         2-3 Fiorentina
 Venezia         2-3 Juventus
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 
 

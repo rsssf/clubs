@@ -1,6 +1,10 @@
-  <!--
-     source: https://rsssf.org/tablesd/duit04.html
-    -->
+<!--
+  source: https://rsssf.org/tablesd/duit04.html
+
+  outline: -/h2/-/-/-/-
+           -/1/-/-/-/-
+    (2) ==      Germany 2003/04
+ -->
   
 
 
@@ -9,8 +13,7 @@
 
 1.Bundesliga
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 NB: Kaiserslautern have 3 points deducted
 
@@ -789,8 +792,7 @@ Mönchengladbach 3-1     1860 München
 Berlin          3-1     Köln
   1:0 Marcelinho 51pen, 1:1 Podolski 54, 2:1 Bobic 63, 3:1 Rafael 78.
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 NB: Kaiserslautern have 3 points deducted
 
@@ -953,7 +955,7 @@ _ Mar 17 _
 TSV Alemannia Aachen          1-0  VfL Borussia Mönchengladbach
   (Grlic 42)
 
-▪ Final ▪  May 29, Berlin; att: 71,682
+▪ Final ▪  May 29 @ Berlin; att: 71,682
 SV Werder Bremen              3-2  TSV Alemannia Aachen
   (Tim Borowski 31, 84, Ivan Klasnic 45; Stefan Blank 51, Erik Meijer 90+2)
   [Werder: 1-Andreas Reinke; 7-Paul Stalteri, 5-Valerien Ismael, 6-Frank
@@ -975,8 +977,28 @@ SV Werder Bremen              3-2  TSV Alemannia Aachen
 
 2.Bundesliga
 
-<!-- $table3$ -->
+Final Table:
 
+ 1.1.FC Nürnberg      34 18  7  9  68:45 - 61 (-) Promoted
+ 2.DSC Arminia Bielefeld    34 16  8 10  50:37 - 56 (-) Promoted
+ 3.1.FSV Mainz'1905      34 13 15  6  49:34 - 54     Promoted
+----------------------------------------------------------------------
+ 4.FC Energie Cottbus      34 15  9 10  52:44 - 54 (-)
+ 5.SC Rot-Weiß Oberhausen    34 15  8 11  52:48 - 53
+ 6.TSV Alemannia Aachen      34 15  8 11  51:51 - 53
+ 7.MSV Duisburg        34 13  9 12  52:46 - 48
+ 8.FC Erzgebirge Aue      34 12 12 10  47:45 - 48 (+)
+ 9.SpVgg Greuther Fürth      34 11 12 11  58:51 - 45
+10.FC Wacker Burghausen      34 12  9 13  40:39 - 45
+11.SV Eintracht Trier      34 12  9 13  46:51 - 45
+12.LR Ahlen        34 12  8 14  36:45 - 44
+13.SpVgg Unterhaching       34 11 10 13  41:46 - 43 (+)
+14.Karlsruher SC      34 11 10 13  38:44 - 43
+----------------------------------------------------------------------
+15.VFB Lübeck        34  9 12 13  47:57 - 39
+16.SSV Jahn Regensburg      34  9 12 13  37:51 - 39 (+)
+17.1.FC Union Berlin      34  8  9 17  43:53 - 33
+18.VFL Osnabrück      34  7  7 20  35:55 - 28 (+)
 
 ▪ Round 1 ▪
 _ Aug 3 _
@@ -1836,8 +1858,28 @@ Bielefeld    -       Duisburg      1-3
   0:1 Ahanfouf (pen) 5, 0:2 Kurth 51,
   1:2 Boakye 60, 1:3 Kurth 87.
 
-<!-- $table4$ -->
+Final Table:
 
+ 1.1.FC Nürnberg      34 18  7  9  68:45 - 61 (-) Promoted
+ 2.DSC Arminia Bielefeld    34 16  8 10  50:37 - 56 (-) Promoted
+ 3.1.FSV Mainz'1905      34 13 15  6  49:34 - 54     Promoted
+----------------------------------------------------------------------
+ 4.FC Energie Cottbus      34 15  9 10  52:44 - 54 (-)
+ 5.SC Rot-Weiß Oberhausen    34 15  8 11  52:48 - 53
+ 6.TSV Alemannia Aachen      34 15  8 11  51:51 - 53
+ 7.MSV Duisburg        34 13  9 12  52:46 - 48
+ 8.FC Erzgebirge Aue      34 12 12 10  47:45 - 48 (+)
+ 9.SpVgg Greuther Fürth      34 11 12 11  58:51 - 45
+10.FC Wacker Burghausen      34 12  9 13  40:39 - 45
+11.SV Eintracht Trier      34 12  9 13  46:51 - 45
+12.LR Ahlen        34 12  8 14  36:45 - 44
+13.SpVgg Unterhaching       34 11 10 13  41:46 - 43 (+)
+14.Karlsruher SC      34 11 10 13  38:44 - 43
+----------------------------------------------------------------------
+15.VFB Lübeck        34  9 12 13  47:57 - 39
+16.SSV Jahn Regensburg      34  9 12 13  37:51 - 39 (+)
+17.1.FC Union Berlin      34  8  9 17  43:53 - 33
+18.VFL Osnabrück      34  7  7 20  35:55 - 28 (+)
 
 
 <!-- $topscorers3$ -->
@@ -2695,8 +2737,28 @@ Schalke Amateure  -  Paderborn      2-4
   1:0 Hajnal 28, 1:1 Saglik 31, 1:2 Donkov 45,
   1:3 Gerov 56, 2:3 Hanke 59, 2:4 Saglik 89.
 
-<!-- $table5$ -->
+Final Table:
 
+ 1.SC Rot-Weiß Essen      34 23  5  6  77:26 - 74  Promoted
+ 2.1.FC Dynamo Dresden      34 18 11  5  51:26 - 65  Promoted
+---------------------------------------------------------------
+ 3.SC Paderborn        34 17 11  6  56:40 - 62
+ 4.Wuppertaler SV      34 18  8  8  49:37 - 62 (+)
+ 5.SV Werder Bremen Amateure    34 16  7 11  55:44 - 55
+ 6.TSV Eintracht Braunschweig    34 15  7 12  49:42 - 52 (-)
+ 7.KFC Uerdingen       34 13  7 14  46:48 - 46
+ 8.FC Sankt Pauli Hamburg    34 12  8 14  44:40 - 44 (-)
+ 9.Hamburger SV Amateure    34 11 11 12  33:46 - 44
+10.BV Borussia Dortmund Amateure  34 12  7 15  43:47 - 43
+11.Chemnitzer FC      34 13  4 17  31:49 - 43
+12.FC Holstein Kiel      34 11  9 14  52:56 - 42
+13.SC Preußen Münster      34 10 12 12  40:45 - 42
+14.1.FC Köln Amateure      34 10 11 13  53:53 - 41
+---------------------------------------------------------------
+15.SG Wattenscheid                34 11  7 16  51:60 - 40  Relegated
+16.FC Schalke 04  Amateure    34 10  8 16  54:70 - 38 (+)  Relegated
+17.FC Sachsen Leipzig      34  4 12 18  34:56 - 24 (+)  Relegated
+18.VfR Neumünster      34  4 11 19  32:65 - 23 (+)  Relegated
 
 <!-- $topscorers4$ -->
 
@@ -3580,8 +3642,28 @@ Feucht      -  Elversberg      5-0
   1:0 Onwuzuruike 32, 2:0 Schiller 34, 3:0 Hilbert 47,
   4:0 Saur 58, 5:0 Schmid 63.
 
-<!-- $table6$ -->
+Final Table:
 
+ 1.FC Bayern München Amateure    34 17 13  4  71:33 - 64
+ 2.FC Rot-Weiß Erfurt      34 15 10  9  52:39 - 55  Promoted
+ 3.1.FC Saarbrücken      34 13 14  7  53:44 - 53  Promoted
+---------------------------------------------------------------
+ 4.FC Augsburg         34 15  7 12  57:41 - 52
+ 5.TSG Hoffenheim      34 15  7 12  54:58 - 52
+ 6.VfR Aalen              34 14  9 11  61:63 - 51
+ 7.SV Taunusstein Wehen            34 12 13  9  47:47 - 49
+ 8.1.SC Feucht        34 12 12 10  62:51 - 48 (+)
+ 9.Stuttgarter Kickers SV    34 13  8 13  47:43 - 47
+10.SC Pfullendorf      34 13  7 14  45:48 - 46
+11.VfB Stuttgart Amateure    34 13  5 16  44:40 - 44 (+)
+12.SV Elversberg      34 11 11 12  41:47 - 44
+13.Kickers FC Offenbach            34 11 10 13  47:53 - 43
+14.1.FSV Mainz 05 Amateure    34 11  9 14  40:48 - 42 (+)
+15.1.FC Schweinfurt              34 10 11 13  53:58 - 41  Lost License
+---------------------------------------------------------------
+16.Sportfreunde Siegen          34 10  7 17  53:63 - 37
+17.1.FC Eschborn       34  8  9 17  47:74 - 33 (+)  Relegated
+18.1.FC Kaiserslautern Amateure    34  8  8 18  43:67 - 32  Relegated
 
 Notes:
 SSV Reutlingen and SV Waldhof Mannheim did not obtain a license and were

@@ -1,6 +1,13 @@
-  <!--
-     source: https://rsssf.org/tabless/span2025.html
-    -->
+<!--
+  source: https://rsssf.org/tabless/span2025.html
+
+  outline: -/h2/-/h4/-/-
+           -/1/-/1/-/-
+    (2) ==      Spain 2024/25
+    (4) ====    Primera División  ‹§laliga›
+
+  aname 1: ‹§laliga›
+ -->
   
 
 
@@ -12,8 +19,7 @@
 
 ==== Primera División  ‹§laliga›
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Aug 15 _
@@ -319,8 +325,7 @@ Atlético                  1-0 Osasuna
 _ Jan 13 _
 Sociedad                  1-0 Villarreal
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Halfway Table -->
 
 ▪ Round 20 ▪
 _ Jan 17 _
@@ -616,8 +621,7 @@ Girona                    0-4 Atlético
 Villarreal                4-2 Sevilla
 Athletic                  0-3 Barcelona
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 
 

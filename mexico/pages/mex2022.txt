@@ -1,6 +1,16 @@
-  <!--
-     source: https://rsssf.org/tablesm/mex2022.html
-    -->
+<!--
+  source: https://rsssf.org/tablesm/mex2022.html
+
+  outline: -/h2/-/h4/-/-
+           -/1/-/4/-/-
+    (2) ==      Mexico 2021/22
+    (4) ====    Liga MX  ‹§pdn›
+    (4) ====    Campeón de Campeones  ‹§campcamp›
+    (4) ====    Supercopa de la Liga MX (SuperCopa LMX)  ‹§supcopa›
+    (4) ====    Liga Expansión MX  ‹§ascenso›
+
+  aname 8: ‹§pdn›,‹§1aper›,‹§1clau›,‹§campcamp›,‹§supcopa›,‹§ascenso›,‹§2aper›,‹§2clau›
+ -->
   
 
 

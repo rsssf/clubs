@@ -1,14 +1,17 @@
-  <!--
-     source: https://rsssf.org/tablesd/duit79.html
-    -->
+<!--
+  source: https://rsssf.org/tablesd/duit79.html
+
+  outline: -/h2/-/-/-/-
+           -/1/-/-/-/-
+    (2) ==      Germany 1978/79
+ -->
   
 
 
 == Germany 1978/79
 
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
     Ham VfB Kai Bay Fra Köl Düs VfL Bra Mön Dor Wer MSV Her Sch Arm Nür Dar
 Ham xxx 1-1 3-0 1-2 4-0 6-0 2-1 1-1 2-0 3-0 5-0 2-2 3-0 4-1 4-2 3-1 4-1 2-1
@@ -280,8 +283,7 @@ Nürnberg   1-0 M'gladbach (Eder 42)
 _ Dec 30 _
 Darmstadt  3-1 Bochum     (Bechtold 40, Cestonaro 63, Hahn 87 - Bast 55 p)
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Fall Table -->
 
 ▪ Round 18 ▪  Dec 15
 Stuttgart  3-0 Darmstadt  (Volkert 40, 65, Kelsch 60)
@@ -559,24 +561,7 @@ Darmstadt  1-7 Stuttgart  (Metz 83 - Ha.Müller 17, D.Hoeneß 19, 78, Ohlicher
                           Krämer 52,
 B'schweig  2-1 Schalke    (Handschuh 38, Popivoda 55 - Fischer 82)
 
- 1. Hamburger SV                 34 21  7  6  78- 32  49
- 2. VfB Stuttgart                34 20  8  6  73- 34  48
- 3. 1. FC Kaiserslautern         34 16 11  7  62- 47  43
- 4. Bayern München               34 16  8 10  69- 46  40
- 5. Eintracht Frankfurt          34 16  7 11  50- 49  39
- 6. 1. FC Köln                   34 13 12  9  55- 47  38
- 7. Fortuna Düsseldorf           34 13 11 10  70- 59  37
- 8. VfL Bochum                   34 10 13 11  47- 46  33
- 9. Eintracht Braunschweig       34 10 13 11  50- 55  33
-10. Borussia Mönchengladbach     34 12  8 14  50- 53  32
-11. Werder Bremen                34 10 11 13  48- 60  31
-12. Borussia Dortmund            34 10 11 13  54- 70  31
-13. MSV Duisburg                 34 12  6 16  43- 56  30
-14. Hertha BSC Berlin            34  9 11 14  40- 50  29
-15. Schalke 04                   34  9 10 15  55- 61  28
-16. Arminia Bielefeld            34  9  8 17  43- 56  26
-17. 1. FC Nürnberg               34  8  8 18  36- 67  24
-18. Darmstadt 98                 34  7  7 20  40- 75  21
+<!-- $table3$ -->
 
 <!-- $topscorers1$ -->
 

@@ -1,6 +1,10 @@
-  <!--
-     source: https://rsssf.org/tablesd/duit00.html
-    -->
+<!--
+  source: https://rsssf.org/tablesd/duit00.html
+
+  outline: -/h2/-/-/-/-
+           -/1/-/-/-/-
+    (2) ==      Germany 1999/2000
+ -->
   
 
 
@@ -11,8 +15,7 @@ NB: this file contains 1st to 3rd level; there is also a file on the
 
 1.Bundesliga
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 [*] 2 pts deducted for violations against license conditions
 
@@ -773,8 +776,7 @@ Kaiserslautern 1-1 1860
 Wolfsburg      2-1 Freiburg
 Unterhaching   2-0 Leverkusen
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 [*] 2 pts deducted for violations against license conditions
 
@@ -893,7 +895,7 @@ _ Feb 16 _
 FC Bayern München    3-2 FC Hansa Rostock
   (Roque Santa Cruz 58, 66, Samuel Kuffour 76; Hilmar Weilandt 75, Peter Wibran 82)
 
-▪ Final ▪  May 6, Berlin
+▪ Final ▪  May 6 @ Berlin
 FC Bayern München    3-0 SV Werder Bremen
   (Elber 57, Paulo Sergio 83, Mehmet Scholl 90; att: 76,000)
 Bayern: Oliver Kahn; Markus Babbel, Samuel Kuffour, Patrick Andersson, Michael Tarnat,
@@ -907,8 +909,7 @@ Referee: Alfons Berg (Germany)
 
 2.Bundesliga
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 [*] Tennis Borussia were denied a license for 2000/01; thereby originally
     relegated Stuttgarter Kickers remain in 2. Bundesliga
@@ -1402,8 +1403,7 @@ Alemannia Aachen            2-2   Greuther Fuerth
 St Pauli                    1-1   Rot-Weiss Oberhausen
 Fortuna Koeln               4-1   Offenbacher Kickers
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Final Table -->
 
 [*] Tennis Borussia were denied a license for 2000/01; thereby originally
     relegated Stuttgarter Kickers remain in 2. Bundesliga
@@ -1437,10 +1437,7 @@ Union Berlin                3-1   SC Pfullendorf
 _ Jun 9 _
 LR Ahlen                    2-1   Union Berlin
 
- 1.LR Ahlen                      2  1  1  0   3- 2   4  Promoted
-------------------------------------------------------
- 2.1.FC Union Berlin             2  1  0  1   4- 3   3
- 3.SC Pfullendorf                2  0  1  1   2- 4   1
+<!-- $table5$ -->
 
 
 
@@ -1448,10 +1445,9 @@ Regionalliga's (third level)
 
 Regionalliga Nord
 
-<!-- $table5$ -->
+<!-- $table6$ - Final Table -->
 
-
-Promotion/Relegation Playoffs
+▪ Promotion/Relegation Playoffs ▪
 
 ▪ First Round ▪
 BSV Kickers Emden           0-1   TuS Felde
@@ -1465,10 +1461,9 @@ Lüneburger SV qualified for Regionalliga Nord 2000/01
 
 Regionalliga Nordost
 
-<!-- $table6$ -->
+<!-- $table7$ - Final Table -->
 
-
-Promotion/Relegation Playoffs
+▪ Promotion/Relegation Playoffs ▪
 
 ▪ First Round ▪
 FSV Hoyerswerda             2-2   FC Schönberg 95
@@ -1482,12 +1477,11 @@ FC Rot-Weiß Erfurt qualified for Regionalliga Nord 2000/01
 
 Regionalliga Süd
 
-<!-- $table7$ -->
-
+<!-- $table8$ - Final Table -->
 
 [*] relegated due to relegation first team to Regionalliga
 
-Promotion/Relegation Playoffs
+▪ Promotion/Relegation Playoffs ▪
 
 ▪ First Round ▪
 SV Sandhausen               3-2   Jahn Regensburg
@@ -1502,8 +1496,7 @@ FSV Frankfurt relegated
 
 Regionalliga West-Südwest
 
-<!-- $table8$ -->
-
+<!-- $table9$ - Final Table -->
 
 NB: FC Gütersloh were dissolved during the season.
 
@@ -1516,11 +1509,7 @@ Borussia Neunkirchen        0-5   Wuppertaler SV
 Wuppertaler SV              2-3   SpVgg. Elversberg        [in Worms]
 VfB Hüls                    3-0   Borussia Neunkirchen     [in Köln]
 
- 1.SpVgg. Elversberg             3  3  0  0   8- 3   9  Qualified for RL Süd 2000/01
-------------------------------------------------------
- 2.VfB Hüls                      3  2  0  1   5- 2   6
- 3.Wuppertaler SV                3  1  0  2   7- 4   3
- 4.Borussia VfB Neunkirchen      3  0  0  3   0-11   0
+<!-- $table10$ -->
 
 ‹1998/99, see page duit99›
 

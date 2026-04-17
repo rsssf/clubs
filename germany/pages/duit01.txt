@@ -1,6 +1,10 @@
-  <!--
-     source: https://rsssf.org/tablesd/duit01.html
-    -->
+<!--
+  source: https://rsssf.org/tablesd/duit01.html
+
+  outline: -/h2/-/-/-/-
+           -/1/-/-/-/-
+    (2) ==      Germany 2000/01
+ -->
   
 
 
@@ -11,8 +15,7 @@ NB: this file contains 1st to 3rd level; there is also a file on the
 
 1.Bundesliga
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Aug 11 _
@@ -799,8 +802,7 @@ Kaiserslautern 0-1 Hertha
 1860           0-1 Energie
   (Antun Labak 25)
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 <!-- $topscorers1$ -->
 
@@ -896,7 +898,7 @@ _ Feb 7 _
 VfB Stuttgart        0-3 FC Schalke 04
   (Ebbe Sand 3, Gerald Asamoah 6, Emile Mpenza 18)
 
-▪ Final ▪  May 26, Berlin; att: 73,011
+▪ Final ▪  May 26 @ Berlin; att: 73,011
 1.FC Union Berlin    0-2 FC Schalke 04
   (Jörg Böhme 53, 58pen)
   [Schalke 04: 1-Oliver Reck; 6-Tomasz Hajto, 20-Jiri Nemec (10-Olaf Thon 85),
@@ -912,8 +914,7 @@ VfB Stuttgart        0-3 FC Schalke 04
 
 2.Bundesliga
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Aug 11 _
@@ -1420,60 +1421,16 @@ Arminia        4-2 Saarbrücken
 Borussia MG    3-0 Chemnitz
 Nürnberg       1-2 St Pauli
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Final Table -->
 
 
 Regionalliga
 
 Final Tables:
 
-Regionalliga Nord
+<!-- $table5$ - Regionalliga Nord -->
 
- 1.1.FC Union Berlin            36 21 10  5  62-23  73  Promoted
- 2.SV Babelsberg 03             36 19 11  6  57-41  68  Promoted
-------------------------------------------------------
- 3.VfB Lübeck                   36 18  8 10  69-43  62
- 4.Fortuna Köln                 36 18  8 10  58-42  62
- 5.Preußen Münster              36 17 10  9  66-50  61
- 6.SC Verl                      36 15 10 11  53-46  55
- 7.Erzgebirge Aue               36 16  6 14  39-48  54
- 8.Eintracht Braunschweig       36 13 10 13  55-43  49
- 9.Dresdner SC                  36 13 10 13  38-41  49
-10.SV Wilhelmshaven             36 12 12 12  55-55  48
-11.SG Wattenscheid 09           36 12 12 12  65-66  48
-12.KFC Uerdingen 05             36 14  6 16  50-62  48
-13.Rot-Weiß Essen               36 13  8 15  45-54  47
-14.Sachsen Leipzig              36 11 12 13  42-43  45
-------------------------------------------------------
-15.Werder Bremen Amateure       36 12  9 15  49-53  45  Relegated
-16.Fortuna Düsseldorf           36 13  3 20  46-52  42  Relegated
-17.Lüneburger SK                36  9  6 21  52-73  33  Relegated
-18.Borussia Dortmund Amateure   36  6 12 18  36-55  30  Relegated
-19.Tennis Borussia Berlin       36  6  5 25  33-80  23  Relegated
-
-Regionalliga Süd
-
- 1.Karlsruher SC                34 17 10  7  48-25  61  Promoted
- 2.VfB Stuttgart Amateure       34 16 10  8  57-38  58  [ineligible for promotion]
-------------------------------------------------------
- 3.1.FC Schweinfurt 05          34 16  9  9  57-43  57  Promoted
- 4.Eintracht Trier              34 16  9  9  48-34  57
- 5.SV Darmstadt 98              34 15  8 11  46-39  53
- 6.Sportfreunde Siegen          34 14  8 12  45-45  50
- 7.VfR Aalen                    34 12 13  9  45-37  49
- 8.VfR Mannheim                 34 12  9 13  50-45  45
- 9.Bayern München Amateure      34 12  8 14  52-55  44
-10.Kickers Offenbach            34 11 11 12  39-43  44
-11.SV Wehen                     34 12  8 14  41-49  44
-12.Jahn Regensburg              34 12  7 15  57-62  43
-13.Wacker Burghausen            34 10 13 11  46-52  43
-14.SV 07 Elversberg             34 11 10 13  40-58  43
-------------------------------------------------------
-15.Rot-Weiß Erfurt              34 10  9 15  40-47  39  Relegated
-16.TSV München 1860 Amateure    34  8 13 13  49-63  37  Relegated
-17.SC Pfullendorf               34  9  9 16  42-49  36  Relegated
-18.Carl Zeiss Jena              34  7  8 19  39-57  29  Relegated
+<!-- $table6$ - Regionalliga Süd -->
 
 NB: the following teams have been refused a license for 2001/02:
     SSV Ulm (relegated from 2nd Bundesliga)

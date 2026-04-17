@@ -1,6 +1,18 @@
-  <!--
-     source: https://rsssf.org/tablesm/mex2019.html
-    -->
+<!--
+  source: https://rsssf.org/tablesm/mex2019.html
+
+  outline: -/h2/-/h4/-/-
+           -/1/-/6/-/-
+    (2) ==      Mexico 2018/19
+    (4) ====    Liga MX  ‹§pdn›
+    (4) ====    Copa MX Apertura 2018  ‹§copa›
+    (4) ====    Copa MX Clausura 2019  ‹§copac›
+    (4) ====    Campeón de Campeones  ‹§campcamp›
+    (4) ====    Supercopa MX  ‹§supcopa›
+    (4) ====    Ascenso MX  ‹§ascenso›
+
+  aname 10: ‹§pdn›,‹§1aper›,‹§1clau›,‹§copa›,‹§copac›,‹§campcamp›,‹§supcopa›,‹§ascenso›,‹§2aper›,‹§2clau›
+ -->
   
 
 

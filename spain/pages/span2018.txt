@@ -1,6 +1,15 @@
-  <!--
-     source: https://rsssf.org/tabless/span2018.html
-    -->
+<!--
+  source: https://rsssf.org/tabless/span2018.html
+
+  outline: -/h2/-/h4/-/-
+           -/1/-/3/-/-
+    (2) ==      Spain 2017/18
+    (4) ====    Primera División  ‹§laliga›
+    (4) ====    Copa del Rey  ‹§coparey›
+    (4) ====    Segunda División (Liga Adelante)  ‹§segunda›
+
+  aname 3: ‹§laliga›,‹§coparey›,‹§segunda›
+ -->
   
 
 
@@ -12,8 +21,7 @@
 
 ==== Primera División  ‹§laliga›
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Aug 18 _
@@ -608,8 +616,7 @@ Athletic                  0-1 Espanyol
 Atlético                  2-2 Eibar
 Barcelona                 1-0 Sociedad
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 
 
@@ -789,7 +796,7 @@ Sevilla FC                2-0 CD Leganés
 _ Feb 8 _
 Valencia CF               0-2 FC Barcelona
 
-▪ Final ▪  Apr 21, Madrid
+▪ Final ▪  Apr 21 @ Madrid
 Sevilla FC                0-5 FC Barcelona
 
 
@@ -798,13 +805,12 @@ Sevilla FC                0-5 FC Barcelona
 
 ==== Segunda División (Liga Adelante)  ‹§segunda›
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 Promoted: RCD Mallorca (Palma de Mallorca), CF Rayo Majadahonda,
           Elche CF, Extremadura UD
 
-Promotion Playoff  ‹§2prom›
+▪ Promotion Playoff ▪
 
 ▪ Semifinals ▪
 

@@ -1,6 +1,16 @@
-  <!--
-     source: https://rsssf.org/tablesd/duit2013.html
-    -->
+<!--
+  source: https://rsssf.org/tablesd/duit2013.html
+
+  outline: -/h2/-/h4/-/-
+           -/1/-/4/-/-
+    (2) ==      Germany 2012/13
+    (4) ====    1. Bundesliga  ‹§1bl›
+    (4) ====    DFB Pokal  ‹§dfbpokal›
+    (4) ====    2. Bundesliga  ‹§2bl›
+    (4) ====    3. Liga  ‹§3bl›
+
+  aname 7: ‹§1bl›,‹§1prorel›,‹§dfbpokal›,‹§2bl›,‹§2prorel›,‹§3bl›,‹§3pro›
+ -->
   
 
 
@@ -12,8 +22,7 @@
 
 ==== 1. Bundesliga  ‹§1bl›
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Aug 24 _
@@ -480,8 +489,7 @@ Hannover        3-0 Düsseldorf
 Freiburg        1-2 Schalke
 Stuttgart       2-2 Mainz
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 
 Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
@@ -584,7 +592,7 @@ Bayern München         6-1 Wolfsburg
 _ Apr 17 _
 Stuttgart              2-1 Freiburg
 
-▪ Final ▪  Jun 1, Berlin
+▪ Final ▪  Jun 1 @ Berlin
 Bayern München         3-2 Stuttgart
 
 
@@ -593,8 +601,7 @@ Bayern München         3-2 Stuttgart
 
 ==== 2. Bundesliga  ‹§2bl›
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 NB: MSV Duisburg were refused a license; because of this Sandhausen remained at the
     second level
@@ -1096,8 +1103,7 @@ Duisburg        3-2 Paderborn
 Sandhausen      0-1 Aue
 Bochum          1-2 Union Berlin
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Final Table -->
 
 NB: MSV Duisburg were refused a license; because of this Sandhausen remained at the
     second level
@@ -1118,8 +1124,7 @@ NB: both remain at former level
 
 ==== 3. Liga  ‹§3bl›
 
-<!-- $table5$ -->
-
+<!-- $table5$ - Final Table -->
 
 NB: Offenbacher Kickers were refused a license; because of this Darmstadt remained
     at the third level

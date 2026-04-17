@@ -1,6 +1,13 @@
-  <!--
-     source: https://rsssf.org/tablesd/duit2025.html
-    -->
+<!--
+  source: https://rsssf.org/tablesd/duit2025.html
+
+  outline: -/h2/-/h4/-/-
+           -/1/-/1/-/-
+    (2) ==      Germany 2024/25
+    (4) ====    1. Bundesliga  ‹§1bl›
+
+  aname 1: ‹§1bl›
+ -->
   
 
 
@@ -12,8 +19,7 @@
 
 ==== 1. Bundesliga  ‹§1bl›
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Aug 23 _
@@ -252,8 +258,7 @@ Bayern          5-0 Hoffenheim
 Stuttgart       2-1 Leipzig
 Bremen          3-3 Heidenheim
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Halfway Table -->
 
 ▪ Round 18 ▪
 _ Jan 17 _
@@ -489,8 +494,7 @@ Leipzig         2-3 Stuttgart
 Freiburg        1-3 Frankfurt
 Hoffenheim      0-4 Bayern
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 
 

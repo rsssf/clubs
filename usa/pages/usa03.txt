@@ -1,6 +1,12 @@
-  <!--
-     source: https://rsssf.org/tablesu/usa03.html
-    -->
+<!--
+  source: https://rsssf.org/tablesu/usa03.html
+
+  outline: -/h2/-/-/-/-
+           -/1/-/-/-/-
+    (2) ==      USA 2003
+
+  aname 1: ‹§voyageurs›
+ -->
   
 
 

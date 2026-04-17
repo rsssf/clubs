@@ -1,6 +1,17 @@
-  <!--
-     source: https://rsssf.org/tablesm/mex2014.html
-    -->
+<!--
+  source: https://rsssf.org/tablesm/mex2014.html
+
+  outline: -/h2/-/h4/-/-
+           -/1/-/5/-/-
+    (2) ==      Mexico 2013/14
+    (4) ====    Liga MX  ‹§pdn›
+    (4) ====    Copa MX Apertura 2013  ‹§copa›
+    (4) ====    Copa MX Clausura 2014  ‹§copac›
+    (4) ====    Supercopa MX  ‹§supcopa›
+    (4) ====    Ascenso MX  ‹§ascenso›
+
+  aname 9: ‹§pdn›,‹§1aper›,‹§1clau›,‹§copa›,‹§copac›,‹§supcopa›,‹§ascenso›,‹§2aper›,‹§2clau›
+ -->
   
 
 

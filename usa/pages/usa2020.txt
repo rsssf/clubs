@@ -1,6 +1,13 @@
-  <!--
-     source: https://rsssf.org/tablesu/usa2020.html
-    -->
+<!--
+  source: https://rsssf.org/tablesu/usa2020.html
+
+  outline: -/h2/-/h4/-/-
+           -/1/-/1/-/-
+    (2) ==      USA 2020
+    (4) ====    Major League Soccer  ‹§mls›
+
+  aname 2: ‹§mls›,‹§back›
+ -->
   
 
 

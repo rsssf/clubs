@@ -1,14 +1,17 @@
-  <!--
-     source: https://rsssf.org/tablesd/duit76.html
-    -->
+<!--
+  source: https://rsssf.org/tablesd/duit76.html
+
+  outline: -/h2/-/-/-/-
+           -/1/-/-/-/-
+    (2) ==      Germany 1975/76
+ -->
   
 
 
 == Germany 1975/76
 
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
     Mön Ham Bay Bra Köl Sch Kai Ess Fra MSV Her Wer Kar Düs VfL Han Kic Uer
 Mön xxx 1-1 4-1 0-0 2-1 0-2 3-0 1-2 4-2 3-0 1-1 3-0 4-0 1-0 1-1 2-0 2-0 6-1
@@ -285,8 +288,7 @@ Hertha     2-1 Bayern     (Szymanek 69, Horr 71 - Kapellmann 8) [29 Beer
                           (Hertha) m/pen]
 1. FC Köln 0-4 M'gladbach (Simonsen 24, Heynckes 35, Jensen 38, 62)
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Fall Table -->
 
 ▪ Round 18 ▪  Jan 16
 Düsseldorf 1-3 Duisburg   (Herzog 80 - Worm 58, 70, 71)
@@ -546,24 +548,7 @@ K'lautern  1-3 Schalke    (Schwarz 74 - Fischer 51, Kremers 57, Abramczik 87)
 Hannover   4-0 Offenbach  (Weber 34, Lüttges 57, Holz 73, Stegmayer 87)
 M'gladbach 2-1 1. FC Köln (Jensen 6, Wittkamp 35 - D.Müller 78)
 
- 1. Borussia Mönchengladbach     34 16 13  5  66- 37  45
- 2. Hamburger SV                 34 17  7 10  59- 32  41
- 3. Bayern München               34 15 10  9  72- 50  40
- 4. 1. FC Köln                   34 14 11  9  62- 45  39
- 5. Eintracht Braunschweig       34 14 11  9  52- 48  39
- 6. Schalke 04                   34 13 11 10  76- 55  37
- 7. 1. FC Kaiserslautern         34 15  7 12  66- 60  37
- 8. Rot-Weiß Essen               34 13 11 10  61- 67  37
- 9. Eintracht Frankfurt          34 13 10 11  79- 58  36
-10. MSV Duisburg                 34 13  7 14  55- 62  33
-11. Hertha BSC Berlin            34 11 10 13  59- 61  32
-12. Fortuna Düsseldorf           34 10 10 14  47- 57  30
-13. Werder Bremen                34 11  8 15  44- 55  30
-14. VfL Bochum                   34 12  6 16  49- 62  30
-15. Karlsruher SC                34 12  6 16  46- 59  30
-16. Hannover 96                  34  9  9 16  48- 60  27
-17. Kickers Offenbach            34  9  9 16  40- 72  27
-18. Bayer Uerdingen              34  6 10 18  28- 69  22
+<!-- $table3$ -->
 
 <!-- $topscorers1$ -->
 

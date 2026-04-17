@@ -1,6 +1,10 @@
-  <!--
-     source: https://rsssf.org/tablesi/ital03.html
-    -->
+<!--
+  source: https://rsssf.org/tablesi/ital03.html
+
+  outline: -/h2/-/-/-/-
+           -/1/-/-/-/-
+    (2) ==      Italy 2002/03
+ -->
   
 
 
@@ -9,8 +13,7 @@
 
 First Level (Serie A)
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Sep 14 _
@@ -776,8 +779,7 @@ Juventus   4-3 Chievo
   (Marcelo Zalayeta 16, 57, David Trezeguet 70, Cristian Zenoni 87;
    Oliver Bierhoff 62, 74, 79)
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 ▪ Relegation Playoff ▪
 
@@ -799,12 +801,7 @@ Sampdoria      3-0 Siena
 Siena          1-1 Lucchese
 Genoa          1-2 Sampdoria
 Siena          1-1 Genoa
-Lucchese       1-1 Sampdoria
-
- 1.Sampdoria     3  2  1  0  6- 2  7  Qualified
- 2.Genoa         3  1  1  1  4- 4  4
- 3.Lucchese      3  0  2  1  3- 4  2
- 4.Siena         3  0  2  1  2- 5  2
+<!-- $table3$ - Lucchese -->
 
 Group 2
 Albinoleffe    2-1 Venezia
@@ -812,12 +809,7 @@ Spezia         0-3 Vicenza
 Venezia        2-1 Spezia
 Vicenza        3-1 Albinoleffe
 Venezia        1-2 Vicenza
-Spezia         0-0 Albinoleffe
-
- 1.Vicenza       3  3  0  0  8- 2  9  Qualified
- 2.Albinoleffe   3  1  1  1  3- 4  4
- 3.Venezia       3  1  0  2  4- 5  3
- 4.Spezia        3  0  1  2  1- 5  1
+<!-- $table4$ - Spezia -->
 
 Group 3
 Triestina      2-0 Verona
@@ -825,12 +817,7 @@ Cittadella     3-1 Treviso
 Verona         1-0 Cittadella
 Treviso        1-2 Triestina
 Treviso        1-1 Verona
-Triestina      0-0 Cittadella
-
- 1.Triestina     3  2  1  0  4- 1  7  Qualified
- 2.Cittadella    3  1  1  1  3- 2  4
- 3.Verona        3  1  1  1  2- 3  4
- 4.Treviso       3  0  1  2  3- 6  1
+<!-- $table5$ - Triestina -->
 
 Group 4
 Livorno        2-1 Cagliari
@@ -838,12 +825,7 @@ Pistoiese      2-1 Empoli
 Empoli         2-1 Livorno
 Cagliari       1-0 Pistoiese
 Empoli         3-0 Cagliari
-Livorno        3-2 Pistoiese
-
- 1.Empoli        3  2  0  1  6- 3  6  Qualified
- 2.Livorno       3  2  0  1  6- 5  6
- 3.Pistoiese     3  1  0  2  4- 5  3
- 4.Cagliari      3  1  0  2  2- 5  3
+<!-- $table6$ - Livorno -->
 
 Group 5
 Pescara        1-1 Lecce
@@ -851,12 +833,7 @@ Ancona         3-0 Ascoli
 Lecce          1-2 Ancona
 Ascoli         1-0 Pescara
 Ascoli         2-2 Lecce
-Pescara        0-1 Ancona
-
- 1.Ancona        3  3  0  0  6- 1  9  Qualified
- 2.Ascoli        3  1  1  1  3- 5  4
- 3.Lecce         3  0  2  1  4- 5  2
- 4.Pescara       3  0  1  2  1- 3  1
+<!-- $table7$ - Pescara -->
 
 Group 6
 Lanciano       0-3 Napoli
@@ -864,12 +841,7 @@ Salernitana    2-2 Ternana
 Ternana        3-3 Lanciano
 Napoli         1-1 Salernitana
 Ternana        2-0 Napoli
-Lanciano       2-1 Salernitana
-
- 1.Ternana       3  1  2  0  7- 5  5  Qualified
- 2.Napoli        3  1  1  1  4- 3  4
- 3.Lanciano      3  1  1  1  5- 7  4
- 4.Salernitana   3  0  2  1  4- 5  2
+<!-- $table8$ - Lanciano -->
 
 Group 7
 Catania        0-0 Crotone
@@ -877,12 +849,7 @@ Cosenza        0-1 Bari
 Bari           4-0 Catania
 Crotone        0-0 Cosenza
 Catania        1-3 Cosenza
-Bari           4-1 Crotone
-
- 1.Bari          3  3  0  0  9- 1  9  Qualified
- 2.Cosenza       3  1  1  1  3- 2  4
- 3.Crotone       3  0  2  1  1- 4  2
- 4.Catania       3  0  1  2  1- 7  1
+<!-- $table9$ - Bari -->
 
 Group 8
 Taranto        0-3 Reggina
@@ -890,12 +857,7 @@ Messina        1-1 Palermo
 Palermo        4-0 Taranto
 Reggina        0-0 Messina
 Palermo        0-1 Reggina
-Taranto        1-0 Messina
-
- 1.Reggina       3  2  1  0  4- 0  7  Qualified
- 2.Palermo       3  1  1  1  5- 2  4
- 3.Taranto       3  1  0  2  1- 7  3
- 4.Messina       3  0  2  1  1- 2  2
+<!-- $table10$ - Taranto -->
 
 ▪ Second Round ▪
 
@@ -1002,8 +964,7 @@ Milan          2-2 Roma
 Serie B 2002/03
 
 
-<!-- $table3$ -->
-
+<!-- $table11$ - Final Table -->
 
 ▪ Round 1 ▪
 Ancona            1-1 Verona Hellas
@@ -1461,8 +1422,7 @@ Ternana           1-1 Vicenza
 Venezia           3-1 Sampdoria
 Verona Hellas     1-1 Bari
 
-<!-- $table4$ -->
-
+<!-- $table12$ - Final Table -->
 
 NB: in August 2003, FIGC reprieved Catania, Genoa and Salernitana (but
     not Cosenza) from relegation and additionally promoted Fiorentina
@@ -1850,8 +1810,7 @@ Lucchese Libertas      1-1 S.P.A.L.
 Pro Patria Gallaratese 0-2 Pisa
 Reggiana               2-2 Prato
 
-<!-- $table5$ -->
-
+<!-- $table13$ - Final Table -->
 
 Group B
 
@@ -2229,8 +2188,7 @@ Sporting Benevento     1-0 Fermana
 Taranto                1-1 Chieti
 Vis Pesaro 1898        1-3 Pescara
 
-<!-- $table6$ -->
-
+<!-- $table14$ - Final Table -->
 
 
 ▪ Promotion Playoff ▪
@@ -2637,8 +2595,7 @@ Südtirol                1-1 Mantova
 Thiene                  1-3 Pavia
 Valenzana               2-1 Monza
 
-<!-- $table7$ -->
-
+<!-- $table15$ - Final Table -->
 
 Group B
 
@@ -3016,8 +2973,7 @@ Poggibonsi Valdelsa     2-1 San Marino
 Rimini                  0-0 Grosseto
 Sangiovannese 1927      0-3 Fano
 
-<!-- $table8$ -->
-
+<!-- $table16$ - Final Table -->
 
 Group C
 
@@ -3395,8 +3351,7 @@ Latina                  1-0 Igea Virtus Barcellona
 Lodigiani               3-0 Puteolana
 Nocerina 1910           4-4 Foggia
 
-<!-- $table9$ -->
-
+<!-- $table17$ - Final Table -->
 
 
 ▪ Promotion playoff ▪

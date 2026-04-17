@@ -1,6 +1,15 @@
-  <!--
-     source: https://rsssf.org/tabless/span2015.html
-    -->
+<!--
+  source: https://rsssf.org/tabless/span2015.html
+
+  outline: -/h2/-/h4/-/-
+           -/1/-/3/-/-
+    (2) ==      Spain 2014/15
+    (4) ====    Primera División (Liga BBVA)  ‹§laliga›
+    (4) ====    Copa del Rey  ‹§coparey›
+    (4) ====    Segunda División (Liga Adelante)  ‹§segunda›
+
+  aname 3: ‹§laliga›,‹§coparey›,‹§segunda›
+ -->
   
 
 
@@ -12,8 +21,7 @@
 
 ==== Primera División (Liga BBVA)  ‹§laliga›
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 NB: after the season, Elche were demoted because of extravagant tax debts; because
     of this, Eibar remain at the top level
@@ -603,8 +611,7 @@ Rayo                      2-4 Sociedad
 Almería                   2-3 Valencia
 Madrid                    7-3 Getafe
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 NB: after the season, Elche were demoted because of extravagant tax debts; because
     of this, Eibar remain at the top level
@@ -782,7 +789,7 @@ Athletic Club (Bilbao)    1-1 RCD Espanyol
 Villarreal CF             1-3 FC Barcelona
 RCD Espanyol              0-2 Athletic Club (Bilbao)
 
-▪ Final ▪  May 30, Barcelona
+▪ Final ▪  May 30 @ Barcelona
 FC Barcelona              3-1 Athletic Club (Bilbao)
 
 
@@ -792,12 +799,11 @@ FC Barcelona              3-1 Athletic Club (Bilbao)
 
 ==== Segunda División (Liga Adelante)  ‹§segunda›
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 Promoted: Club Gimnàstic de Tarragona, Real Oviedo, SD Huesca, Bilbao Athletic
 
-Promotion Playoff  ‹§2prom›
+▪ Promotion Playoff ▪
 
 ▪ Semifinals ▪
 

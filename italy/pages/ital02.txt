@@ -1,6 +1,10 @@
-  <!--
-     source: https://rsssf.org/tablesi/ital02.html
-    -->
+<!--
+  source: https://rsssf.org/tablesi/ital02.html
+
+  outline: -/h2/-/-/-/-
+           -/1/-/-/-/-
+    (2) ==      Italy 2001/02
+ -->
   
 
 
@@ -9,8 +13,7 @@
 
 First Level (Serie A)
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 
 ▪ Round 1 ▪  Aug 26
@@ -738,8 +741,7 @@ Udinese         0-2 Juventus
    (David Trezeguet 2, Alessandro del Piero 11)
 
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 
 <!-- $topscorers1$ -->
@@ -860,8 +862,7 @@ Parma          1-0 Juventus
 
 Second Level 2001/02 (Serie B)
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 ▪ Round 1 ▪
 Ancona            1-0 Reggina
@@ -1319,8 +1320,7 @@ Napoli            1-2 Como
 Reggina           2-2 Genoa
 Sampdoria         0-1 Siena
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Final Table -->
 
 <!-- $topscorers2$ -->
 
@@ -1707,8 +1707,7 @@ Reggiana          1-0 Pisa
 S.P.A.L.          3-3 Arezzo
 Triestina         2-2 Monza
 
-<!-- $table5$ -->
-
+<!-- $table5$ - Final Table -->
 
 <!-- $topscorers3$ -->
 
@@ -2125,8 +2124,7 @@ Sassari Torres    1-1 Pescara
 Taranto           3-0 Lodigiani
 Vis Pesaro        2-0 Sora
 
-<!-- $table6$ -->
-
+<!-- $table6$ - Final Table -->
 
 <!-- $topscorers4$ -->
 
@@ -2548,8 +2546,7 @@ Pro Sesto              0-2 Meda
 Pro Vercelli           2-1 Castelnuovo Garfagnana
 Sangiovannese          2-1 Pro Patria
 
-<!-- $table7$ -->
-
+<!-- $table7$ - Final Table -->
 
 <!-- $topscorers5$ -->
 
@@ -2966,8 +2963,7 @@ Poggese                0-2 Faenza
 Rimini                 1-2 Brescello
 Sassuolo               2-3 Sambenedettese
 
-<!-- $table8$ -->
-
+<!-- $table8$ - Final Table -->
 
 NB: Südtirol known in Italian as Alto Adige
 
@@ -3386,8 +3382,7 @@ Igea Virtus            1-0 Catanzaro
 Paternò                1-0 Tricase
 Puteolana              3-2 Fasano
 
-<!-- $table9$ -->
-
+<!-- $table9$ - Final Table -->
 
 <!-- $topscorers7$ -->
 

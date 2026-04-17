@@ -1,6 +1,16 @@
-  <!--
-     source: https://rsssf.org/tablesm/mex2025.html
-    -->
+<!--
+  source: https://rsssf.org/tablesm/mex2025.html
+
+  outline: -/h2/-/h4/-/-
+           -/1/-/4/-/-
+    (2) ==      Mexico 2024/25
+    (4) ====    Liga MX  ‹§pdn›
+    (4) ====    Campeón de Campeones  ‹§campcamp›
+    (4) ====    Liga Expansión MX  ‹§ascenso›
+    (4) ====    Liga 4  ‹§lig4›
+
+  aname 8: ‹§pdn›,‹§1aper›,‹§1clau›,‹§campcamp›,‹§ascenso›,‹§2aper›,‹§2clau›,‹§lig4›
+ -->
   
 
 

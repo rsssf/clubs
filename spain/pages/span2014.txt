@@ -1,6 +1,15 @@
-  <!--
-     source: https://rsssf.org/tabless/span2014.html
-    -->
+<!--
+  source: https://rsssf.org/tabless/span2014.html
+
+  outline: -/h2/-/h4/-/-
+           -/1/-/3/-/-
+    (2) ==      Spain 2013/14
+    (4) ====    Primera División (Liga BBVA)  ‹§laliga›
+    (4) ====    Copa del Rey  ‹§coparey›
+    (4) ====    Segunda División (Liga Adelante)  ‹§segunda›
+
+  aname 3: ‹§laliga›,‹§coparey›,‹§segunda›
+ -->
   
 
 
@@ -12,8 +21,7 @@
 
 ==== Primera División (Liga BBVA)  ‹§laliga›
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Aug 17 _
@@ -606,8 +614,7 @@ Valladolid                0-1 Granada
 Sevilla                   3-1 Elche
 Almería                   0-0 Athletic
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 
 
@@ -781,7 +788,7 @@ Atlético de Madrid        0-2 Real Madrid CF
 _ Feb 12 _
 Real Sociedad             1-1 FC Barcelona
 
-▪ Final ▪  Apr 16, Valencia
+▪ Final ▪  Apr 16 @ Valencia
 FC Barcelona              1-2 Real Madrid CF
 
 
@@ -792,14 +799,13 @@ FC Barcelona              1-2 Real Madrid CF
 
 ==== Segunda División (Liga Adelante)  ‹§segunda›
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 NB: CD Mirandés escaped relegation as Real Murcia were demoted for financial reasons
 
 Promoted: CD Leganés, Albacete Balompié, Real Racing de Santander, UE Llagostera
 
-Promotion Playoff  ‹§2prom›
+▪ Promotion Playoff ▪
 
 ▪ Semifinals ▪
 

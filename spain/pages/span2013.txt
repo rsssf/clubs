@@ -1,6 +1,15 @@
-  <!--
-     source: https://rsssf.org/tabless/span2013.html
-    -->
+<!--
+  source: https://rsssf.org/tabless/span2013.html
+
+  outline: -/h2/-/h4/-/-
+           -/1/-/3/-/-
+    (2) ==      Spain 2012/13
+    (4) ====    Primera División (Liga BBVA)  ‹§laliga›
+    (4) ====    Copa del Rey  ‹§coparey›
+    (4) ====    Segunda División (Liga Adelante)  ‹§segunda›
+
+  aname 3: ‹§laliga›,‹§coparey›,‹§segunda›
+ -->
   
 
 
@@ -12,8 +21,7 @@
 
 ==== Primera División (Liga BBVA)  ‹§laliga›
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Aug 18 _
@@ -595,8 +603,7 @@ Madrid                    4-2 Osasuna
 Zaragoza                  1-3 Atlético
 Sevilla                   4-3 Valencia
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 
 
@@ -774,7 +781,7 @@ FC Barcelona              1-3 Real Madrid CF
 _ Feb 27 _
 Sevilla FC                2-2 Atlético de Madrid
 
-▪ Final ▪  May 17, Madrid
+▪ Final ▪  May 17 @ Madrid
 Real Madrid CF            1-2 Atlético de Madrid        (aet)
 
 
@@ -784,15 +791,14 @@ Real Madrid CF            1-2 Atlético de Madrid        (aet)
 
 ==== Segunda División (Liga Adelante)  ‹§segunda›
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 NB: Guadalajara were relegated because of financial irregularities; due to this,
     Real Murcia remained at second level
 
 Promoted from 3rd level: Deportivo Alavés, CD Tenerife, SD Eibar, Real Jaén
 
-Promotion Playoff  ‹§2prom›
+▪ Promotion Playoff ▪
 
 ▪ Semifinals ▪
 

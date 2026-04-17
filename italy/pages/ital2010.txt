@@ -1,6 +1,19 @@
-  <!--
-     source: https://rsssf.org/tablesi/ital2010.html
-    -->
+<!--
+  source: https://rsssf.org/tablesi/ital2010.html
+
+  outline: -/h2/-/h4/-/-
+           -/1/-/7/-/-
+    (2) ==      Italy 2009/10
+    (4) ====    Serie A  ‹§seriea›
+    (4) ====    Coppa Italia  ‹§coppa›
+    (4) ====    Super Cup 2010  ‹§supcoppa›
+    (4) ====    Serie B  ‹§serieb›
+    (4) ====    Prima Divisione  ‹§prima›
+    (4) ====    Seconda Divisione  ‹§seconda›
+    (4) ====    Serie D  ‹§seried›
+
+  aname 25: ‹§seriea›,‹§coppa›,‹§supcoppa›,‹§serieb›,‹§2rel›,‹§prima›,‹§3a›,‹§3b›,‹§3sup›,‹§seconda›,‹§4a›,‹§4b›,‹§4c›,‹§4sup›,‹§seried›,‹§5a›,‹§5b›,‹§5c›,‹§5d›,‹§5e›,‹§5f›,‹§5g›,‹§5h›,‹§5i›,‹§5champ›
+ -->
   
 
 
@@ -12,8 +25,7 @@
 
 ==== Serie A  ‹§seriea›
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Aug 22 _
@@ -1014,8 +1026,7 @@ Sampdoria   1-0  Napoli
 Siena       0-1 Inter
   (Diego Milito 57)
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 
 
@@ -1277,8 +1288,7 @@ ref: Bergonzi
 
 ▪ Regular Season ▪
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 Football Club Crotone s.r.l. two points deducted for administrative
   irregularities
@@ -2130,8 +2140,7 @@ A relegation playoff is played because the difference between 18th and
 [30/05/2010] Torino Football Club s.p.a.                   1-0 Associazione Sportiva Cittadella s.r.l.
 [30/05/2010] Unione Sportiva Lecce s.p.a.                  0-0 Unione Sportiva Sassuolo Calcio s.r.l.
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Final Table -->
 
 Football Club Crotone s.r.l. two points deducted for administrative
   irregularities
@@ -2176,8 +2185,7 @@ In playoff tie if both teams are at the same level of goals the tie breaker is t
 
 Gruppo A  ‹§3a›
 
-<!-- $table5$ -->
-
+<!-- $table5$ - Final Table -->
 
 Perugia Calcio S.P.A. two points deducted for administrative irregularities
 A.S.C. Figline S.R.L. one point deducted for administrative irregularities
@@ -2558,8 +2566,7 @@ F.C. Esperia Viareggio S.R.L.      2-2 Benevento Calcio S.P.A.
 
 Gruppo B  ‹§3b›
 
-<!-- $table6$ -->
-
+<!-- $table6$ - Final Table -->
 
 Potenza Sport Club S.R.L. relegated at the bottom position due to the attempt to fix the result of match against Salernitana of 2007-2008 C1 League
 U.S. Foggia S.P.A. one point deducted for administrative irregularities
@@ -2990,8 +2997,7 @@ Novara Calcio S.P.A. wins the Prima Divisione Lega Pro Supercup 2009-2010
 
 Gruppo A  ‹§4a›
 
-<!-- $table7$ -->
-
+<!-- $table7$ - Final Table -->
 
 A.C. Legnano S.R.L. two points deducted for administrative irregularities
 A.C. Pro Sesto S.R.L.two points deducted for administrative irregularities
@@ -3375,8 +3381,7 @@ A.C. Sambonifacese S.R.L.          1-1 S.S. Villacidrese Calcio S.R.L.
 
 Gruppo B  ‹§4b›
 
-<!-- $table8$ -->
-
+<!-- $table8$ - Final Table -->
 
 Valdelsa F. Colligiana S.R.L. one point deducted for administrative irregularities
 A.S.G. Nocerina S.R.L.-A.C. Giacomense S.R.L. awarded 3-0 for home team for the irregular position of player Luca Errico disqulified. Match originally finished 1-1
@@ -3757,8 +3762,7 @@ San Marino Calcio S.R.L.           2-3 A.C. Sangiovannese 1927 S.P.A.
 
 Gruppo C  ‹§4c›
 
-<!-- $table9$ -->
-
+<!-- $table9$ - Final Table -->
 
 F.C. Catanzaro S.P.A. three points deducted for administrative irregularities
 F.C. Igea Virtus Barcellona S.R.L. two points deducted for administrative irregularities
@@ -4190,8 +4194,7 @@ position in regular season
 
 Seconda Divisione Supercup  ‹§4sup›
 
-<!-- $table10$ -->
-
+<!-- $table10$ - Table -->
 
 ▪ Round 1 ▪
 S.S. Juve Stabia S.P.A.            2-1 Fussballclub Südtirol S.R.L.
@@ -4216,8 +4219,7 @@ A.S. Lucchese Libertas 1905 S.R.L. 4-2 S.S. Juve Stabia S.P.A.
 
 Gruppo A  ‹§5a›
 
-<!-- $table11$ -->
-
+<!-- $table11$ - Final Table -->
 
 Rivoli one point deducted for failing the payment of previous coach Paolo Diliberto
 Vigevano Calcio S.R.L.-Virtus Entella awarded 3-0 for the away team because of the lack of minimum number of young players for 13 minutes. Match originally finished 1-1
@@ -4599,8 +4601,7 @@ Valle D Aosta Calcio Srl                1-2 Cuneo 1905 S.R.L.
 
 Gruppo B  ‹§5b›
 
-<!-- $table12$ -->
-
+<!-- $table12$ - Final Table -->
 
 S.B.C. Oltrepo one point deducted for fielding the player Stefano Rossini in irregular position during the games S.B.C. Oltrepo-Solbiatese Arnocalcio Srl, Sestese Calcio-S.B.C. Oltrepo e S.B.C. Oltrepo-Caravaggio
 
@@ -4980,8 +4981,7 @@ Solbiatese Arnocalcio Srl               3-2 Voghera S.R.L.
 
 Gruppo C  ‹§5c›
 
-<!-- $table13$ -->
-
+<!-- $table13$ - Final Table -->
 
 ▪ Round 1 ▪
 Belluno 1905 S.R.L.                     2-2 Pordenone Calcio Ssd Srl
@@ -5441,8 +5441,7 @@ Virtusvecomp Verona                     4-2 Pordenone Calcio Ssd Srl
 
 Gruppo D  ‹§5d›
 
-<!-- $table14$ -->
-
+<!-- $table14$ - Final Table -->
 
 Valleverdericcione Fc Srl-Pisa 1909 S.S.D.R.L. awarded 3-0 for away team due to irregular position of player Cristiano Lapi disqualified. Match originally finished 0-0
 Cecina-Pisa 1909 S.S.D.R.L. awarded 0-3 for both teams for crowd trouble
@@ -5905,8 +5904,7 @@ Santarcangelo                           2-0 Adriese
 
 Gruppo E  ‹§5e›
 
-<!-- $table15$ -->
-
+<!-- $table15$ - Final Table -->
 
 Montevarchi C.A. 1902 Srl one point deducted for administrative irregularities
 
@@ -6286,8 +6284,7 @@ Sestese Calcio A.S.D.                   1-2 Monteriggioni A.S.D.
 
 Gruppo F  ‹§5f›
 
-<!-- $table16$ -->
-
+<!-- $table16$ - Final Table -->
 
 Atletico Trivento S.R.L. one point deducted for administrative irregularities
 Recanatese one point deducted for administrative irregularities
@@ -6669,8 +6666,7 @@ Santegidiese S.R.L.                     2-0 Bojano
 
 Gruppo G  ‹§5g›
 
-<!-- $table17$ -->
-
+<!-- $table17$ - Final Table -->
 
 Flaminia Civitacastellana-Arzachena awarded 3-0 for home team due to irregular position of player Giulio China disqualified. Match originally finished 0-0
 
@@ -7050,8 +7046,7 @@ Viterbese Calcio S.R.L.                 0-4 Morolo Calcio
 
 Gruppo H  ‹§5h›
 
-<!-- $table18$ -->
-
+<!-- $table18$ - Final Table -->
 
 Francavilla (Francavilla sul Sinni)-Calcio Fasano awarded 3-0 for the home team because of the lack of minimum number of young players for 9 seconds. Match originally finished 0-0
 
@@ -7475,8 +7470,7 @@ S.Antonio Abate                         3-2 Neapolis Mugnano S.R.L.
 
 Gruppo I  ‹§5i›
 
-<!-- $table19$ -->
-
+<!-- $table19$ - Final Table -->
 
 Sapri Calcio S.R.L.-Adrano Calcio O.N.L.U.S. awarded 3-0 for home team due to the absence of away term  Adrano Calcio O.N.L.U.S. one point deducted
 Palazzolo A.S.D. two points deducted for the attempt to fix the result of second leg previous season ‹Relegation Playoff, see §5rel› against A.C.D.Citta Di Vittoria
@@ -7862,8 +7856,7 @@ Amateur Championship  ‹§5champ›
 
 Group A
 
-<!-- $table20$ -->
-
+<!-- $table20$ - Final Table -->
 
 ▪ Round 1 ▪
 Tritium 1908                     0-0 Montichiari S.P.A.
@@ -7876,8 +7869,7 @@ Montichiari S.P.A.               0-0 Savona 1907 Fbc S.R.L.
 
 Group B
 
-<!-- $table21$ -->
-
+<!-- $table21$ - Final Table -->
 
 ▪ Round 1 ▪
 Gavorrano                        0-1 Pisa 1909 S.S.D.R.L.
@@ -7890,8 +7882,7 @@ Pisa 1909 S.S.D.R.L.             3-1 Chieti Calcio A.R.L.
 
 Group C
 
-<!-- $table22$ -->
-
+<!-- $table22$ - Final Table -->
 
 ▪ Round 1 ▪
 Milazzo                          1-1 Fondi Calcio S.R.L.
@@ -7904,8 +7895,7 @@ Fondi Calcio S.R.L.              0-2 Neapolis Mugnano S.R.L.
 
 Tables of second
 
-<!-- $table23$ -->
-
+<!-- $table23$ - Final Table -->
 
 
 ▪ Semifinals ▪
@@ -7999,8 +7989,7 @@ Vigor Lamezia S.R.L.               - Avellino Calcio.12               1-0
 
 Group A
 
-<!-- $table24$ -->
-
+<!-- $table24$ - Final Table -->
 
 ▪ Round 1 ▪
 Castel Rigone                      2-1 Union Quinto
@@ -8013,8 +8002,7 @@ Pomezia Calcio Ssd A.R.L.          7-2 Castel Rigone
 
 Group B
 
-<!-- $table25$ -->
-
+<!-- $table25$ - Final Table -->
 
 ▪ Round 1 ▪
 Renate                          1-1 Vigor Lamezia S.R.L.
@@ -8027,8 +8015,7 @@ Vigor Lamezia S.R.L.            1-2 Carpi F.C. 1909 Srl
 
 Group C
 
-<!-- $table26$ -->
-
+<!-- $table26$ - Final Table -->
 
 ▪ Round 1 ▪
 Pianura                         5-0 Santegidiese S.R.L.

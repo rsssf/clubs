@@ -1,6 +1,22 @@
-  <!--
-     source: https://rsssf.org/tablesu/usa2010.html
-    -->
+<!--
+  source: https://rsssf.org/tablesu/usa2010.html
+
+  outline: -/h2/-/h4/-/-
+           -/1/-/10/-/-
+    (2) ==      USA 2010
+    (4) ====    Major League Soccer  ‹§mls›
+    (4) ====    US Open Cup  ‹§open›
+    (4) ====    Women's Professional Soccer (Division 1)  ‹§wps›
+    (4) ====    USSF D2Pro League (Division 2)  ‹§ussf2›
+    (4) ====    USL Second Division (Division 3)  ‹§usl2›
+    (4) ====    USL Premier Development League ("Division 4")  ‹§pdl›
+    (4) ====    National Premier Soccer League ("Division 4")  ‹§npsl›
+    (4) ====    Women's Premier Soccer League  ‹§wpsl›
+    (4) ====    USL - W-League  ‹§wleague›
+    (4) ====    Major Indoor Soccer League  ‹§misl›
+
+  aname 10: ‹§mls›,‹§open›,‹§wps›,‹§ussf2›,‹§usl2›,‹§pdl›,‹§npsl›,‹§wpsl›,‹§wleague›,‹§misl›
+ -->
   
 
 

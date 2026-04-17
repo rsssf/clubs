@@ -1,6 +1,10 @@
-  <!--
-     source: https://rsssf.org/tablesi/ital04.html
-    -->
+<!--
+  source: https://rsssf.org/tablesi/ital04.html
+
+  outline: -/h2/-/-/-/-
+           -/1/-/-/-/-
+    (2) ==      Italy 2003/04
+ -->
   
 
 
@@ -8,8 +12,7 @@
 
 First Level (Serie A)
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 NB: Serie A to be extended to 20 clubs for 2004/05, with 3 clubs being
     relegated directly, 5 promoted automatically, and the nr.15 of Serie
@@ -798,8 +801,7 @@ Sampdoria  0-0 Roma
 Siena      1-3 Juventus
   (Tore Andre Flo 38; Igor Tudor 32, Fabrizio Miccoli 41, Marco Di Vaio 60)
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 NB: Serie A to be extended to 20 clubs for 2004/05, with 3 clubs being
     relegated directly, 5 promoted automatically, and the nr.15 of Serie
@@ -837,12 +839,7 @@ Como            awd Pro Patria        [awarded 0-3]
 Cagliari        awd Piacenza          [awarded 0-3 against both teams]
 _ Sep 5 _
 Como            awd Cagliari          [awarded 0-3 against both teams]
-Pro Patria      awd Piacenza          [awarded 3-0]
-
- 1.Pro Patria        3   2  0  1   6- 2   6        Qualified
- 2.Cagliari          3   1  0  2   2- 6   1  [-2]
- 3.Piacenza          3   1  0  2   2- 6   1  [-2]
- 4.Como              3   0  0  3   0- 8  -2  [-2]
+<!-- $table3$ - Pro Patria -->
 
 Group 2
 _ Aug 17 _
@@ -854,12 +851,7 @@ Livorno        awd Genoa             [awarded 0-3]
 _ Sep 3 _
 Cesena         1-1 Genoa
 _ Sep 5 _
-Torino         awd Livorno           [awarded 0-3 against both teams]
-
- 1.Cesena            3   1  2  0   5- 2   5        Qualified
- 2.Genoa             3   1  1  1   4- 2   4
- 3.Torino            3   1  0  2   1- 6   1  [-2]
- 4.Livorno           3   0  1  2   1- 7  -1  [-2]
+<!-- $table4$ - Torino -->
 
 Group 3
 _ Aug 17 _
@@ -870,12 +862,7 @@ AlbinoLeffe    awd Verona            [awarded 0-3 against both teams]
 Treviso        awd Palermo           [awarded 0-3 against both teams]
 _ Sep 5 _
 AlbinoLeffe    awd Treviso           [awarded 0-3 against both teams]
-Verona         awd Palermo           [awarded 0-3 against both teams]
-
- 1.Palermo           3   1  0  2   2- 6   1  [-2]  Qualified
- 2.Verona            3   1  0  2   1- 6   1  [-2]
- 3.Treviso           3   0  0  3   0- 7  -2  [-2]
- 4.AlbinoLeffe       3   0  0  3   0- 8  -2  [-2]
+<!-- $table5$ - Verona -->
 
 Group 4
 _ Aug 17 _
@@ -886,12 +873,7 @@ Vicenza        awd Venezia           [awarded 0-3 against both teams]
 Atalanta       awd Triestina         [awarded 0-3 against both teams]
 _ Sep 5 _
 Vicenza        awd Atalanta          [awarded 0-3 against both teams]
-Venezia        awd Triestina         [awarded 0-3 against both teams]
-
- 1.Venezia           3   1  0  2   2- 6   1  [-2]  Qualified
- 2.Triestina         3   0  1  2   1- 7  -1  [-2]
- 3.Vicenza           3   0  1  2   1- 7  -1  [-2]
- 4.Atalanta          3   0  0  3   0- 8  -2  [-2]
+<!-- $table6$ - Venezia -->
 
 Group 5
 _ Aug 17 _
@@ -903,12 +885,7 @@ Pisa           awd Ternana           [awarded 0-3 against both teams]
 _ Sep 3 _
 Pisa           1-1 Sambenedettese
 _ Sep 5 _
-Ternana        awd Ancona            [awarded 0-3]
-
- 1.Sambenedettese    3   2  1  0   6- 2   7        Qualified
- 2.Pisa              3   1  1  1   3- 4   3  [-1]
- 3.Ancona            3   1  0  2   3- 5   2  [-1]
- 4.Ternana           3   0  0  3   1- 8  -2  [-2]
+<!-- $table7$ - Ternana -->
 
 Group 6
 _ Aug 17 _
@@ -919,12 +896,7 @@ Bari           awd Ascoli            [awarded 0-3 against both teams]
 Teramo         awd Martina           [awarded 3-0]
 _ Sep 5 _
 Bari           awd Teramo            [awarded 0-3]
-Ascoli         awd Martina           [awarded 0-3 against both teams]
-
- 1.Teramo            3   2  1  0   8- 2   7        Qualified
- 2.Bari              3   1  0  2   2- 7   1  [-2]
- 3.Ascoli            3   0  1  2   2- 8  -1  [-2]
- 4.Martina           3   0  0  3   1- 8  -2  [-2]
+<!-- $table8$ - Ascoli -->
 
 Group 7
 _ Aug 17 _
@@ -935,12 +907,7 @@ Pescara        awd Salernitana       [awarded 0-3]
 Napoli         awd Messina           [awarded 0-3 against both teams]
 _ Sep 5 _
 Pescara        awd Napoli            [awarded 0-3]
-Salernitana    awd Messina           [awarded 3-0]
-
- 1.Salernitana       3   2  1  0   6- 0   7        Qualified
- 2.Napoli            3   1  1  1   3- 3   3  [-1]
- 3.Messina           3   1  0  2   2- 6   1  [-2]
- 4.Pescara           3   0  0  3   0- 8  -2  [-2]
+<!-- $table9$ - Salernitana -->
 
 Group 8
 _ Aug 17 _
@@ -951,12 +918,7 @@ Catania        awd Avellino          [awarded 3-0]
 Lecce          awd Brindisi          [awarded 0-3]
 _ Sep 5 _
 Catania        awd Lecce             [awarded 3-0]
-Avellino       awd Brindisi          [awarded 0-3]
-
- 1.Brindisi          3   2  1  0   7- 1   7        Qualified (on lots)
- 2.Catania           3   2  1  0   7- 1   7
- 3.Lecce             3   1  0  2   1- 6   1  [-2]
- 4.Avellino          3   0  0  3   0- 7  -2  [-2]
+<!-- $table10$ - Avellino -->
 
 ▪ Round 1 ▪
 
@@ -1107,8 +1069,7 @@ Second Level 2003/04
 
 Serie B
 
-<!-- $table3$ -->
-
+<!-- $table11$ - Final Table -->
 
 NB: playoff against relegation between teams finishing 20th and 21st
     is played because their points difference is less than 6 points
@@ -1757,8 +1718,7 @@ Torino           1-3 Messina
 Venezia          1-0 Triestina
 Vicenza          2-2 Livorno
 
-<!-- $table4$ -->
-
+<!-- $table12$ - Final Table -->
 
 NB: playoff against relegation between teams finishing 20th and 21st
     is played because their points difference is less than 6 points
@@ -2520,8 +2480,7 @@ Rimini                          2-1 Arezzo
 S.P.A.L.                        0-1 Spezia 1906
 Varese                          3-2 Pistoiese
 
-<!-- $table5$ -->
-
+<!-- $table13$ - Final Table -->
 
 
 Group B
@@ -2900,8 +2859,7 @@ Paternò                         1-0 Giulianova
 Teramo                          1-2 Viterbese '90
 Vis Pesaro 1898                 4-2 Taranto
 
-<!-- $table6$ -->
-
+<!-- $table14$ - Final Table -->
 
 
 
@@ -3791,8 +3749,7 @@ Palazzolo                    1-2 Pro Vercelli
 Südtirol                     1-0 Pizzighettone
 Valenzana                    2-2 Mantova
 
-<!-- $table7$ -->
-
+<!-- $table15$ - Final Table -->
 
 
 Group B
@@ -4171,8 +4128,7 @@ Rosetana                     2-1 Montevarchi Aquila 1902
 San Marino                   1-1 Grosseto
 Sangiovannese 1927           3-1 Forlì
 
-<!-- $table8$ -->
-
+<!-- $table16$ - Final Table -->
 
 
 Group C
@@ -4551,8 +4507,7 @@ Ragusa                       2-1 Tivoli 1919
 Rutigliano                   0-1 Cavese
 Vittoria                     1-1 Gela
 
-<!-- $table9$ -->
-
+<!-- $table17$ - Final Table -->
 
 
 

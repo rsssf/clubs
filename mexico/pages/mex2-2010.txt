@@ -1,6 +1,17 @@
-  <!--
-     source: https://rsssf.org/tablesm/mex2-2010.html
-    -->
+<!--
+  source: https://rsssf.org/tablesm/mex2-2010.html
+
+  outline: -/h2/-/h4/-/-
+           -/1/-/5/-/-
+    (2) ==      Mexico 2009/10
+    (4) ====    Primera División Nacional  ‹§pdn›
+    (4) ====    Torneo Interliga 2010  ‹§inter›
+    (4) ====    Liga de Ascenso  ‹§ascenso›
+    (4) ====    Liga Premier de Ascenso and Liga de Ascenso de Nuevos Talentos  ‹§ascenso2›
+    (4) ====    Tercera Division Profesional  ‹§tercera›
+
+  aname 13: ‹§pdn›,‹§1aper›,‹§1clau›,‹§1agg›,‹§inter›,‹§ascenso›,‹§2aper›,‹§2clau›,‹§2releg›,‹§ascenso2›,‹§premiera›,‹§asctalent›,‹§tercera›
+ -->
   
 
 

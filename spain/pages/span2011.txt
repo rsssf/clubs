@@ -1,6 +1,16 @@
-  <!--
-     source: https://rsssf.org/tabless/span2011.html
-    -->
+<!--
+  source: https://rsssf.org/tabless/span2011.html
+
+  outline: -/h2/-/h4/-/-
+           -/1/-/4/-/-
+    (2) ==      Spain 2010/11
+    (4) ====    Primera División (Liga BBVA)  ‹§laliga›
+    (4) ====    Copa del Rey  ‹§coparey›
+    (4) ====    Segunda División (Liga Adelante)  ‹§segunda›
+    (4) ====    Segunda División B  ‹§segundb›
+
+  aname 8: ‹§laliga›,‹§coparey›,‹§segunda›,‹§segundb›,‹§2b1›,‹§2b2›,‹§2b3›,‹§2b4›
+ -->
   
 
 
@@ -12,8 +22,7 @@
 
 ==== Primera División (Liga BBVA)  ‹§laliga›
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Aug 28 _
@@ -1055,8 +1064,7 @@ Málaga                    1-3 Barcelona
 Racing                    1-2 Athletic
   (Kennedy Bakircioglu 88; David López 19, Fernando Llorente 20)
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 <!-- $topscorers1$ -->
 
@@ -1369,7 +1377,7 @@ Almería                   0-3 Barcelona
   ("Adriano" Correia Claro 34, "Thiago" Alcántara do Nascimiento 55,
    Ibrahim Afellay 65)
 
-▪ Final ▪  Apr 20, Estadio Mestalla, Valencia
+▪ Final ▪  Apr 20 @ Estadio Mestalla, Valencia
 Madrid                    1-0 Barcelona                 (aet)
   (Cristiano Ronaldo 102)
   [Madrid: Iker Casillas; Alvaro Arbeloa, Sergio Ramos, Ricardo Carvalho
@@ -1396,8 +1404,7 @@ Madrid                    1-0 Barcelona                 (aet)
 
 ==== Segunda División (Liga Adelante)  ‹§segunda›
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Aug 27 _
@@ -2620,14 +2627,13 @@ Elche                     4-1 Xerez
 Betis                     2-1 Villarreal B
   (Rubén Castro 58, Iriney antos 60; Jose Luis "Joselu" Moreno 17)
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Final Table -->
 
 <!-- $topscorers2$ -->
 
 
 
-Promotion Playoff  ‹§2prom›
+▪ Promotion Playoff ▪
 
 ▪ Semifinals ▪
 
@@ -2664,8 +2670,7 @@ NB: Granada CF promoted
 
 Grupo I  ‹§2b1›
 
-<!-- $table5$ -->
-
+<!-- $table5$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Aug 28 _
@@ -3503,16 +3508,14 @@ Rayo B                    1-0 Coruxo FC
   (Lorenzo "Loren" Román 72)
 Getafe B                  0-0 RM Castilla
 
-<!-- $table6$ -->
-
+<!-- $table6$ - Final Table -->
 
 <!-- $topscorers3$ -->
 
 
 Grupo II  ‹§2b2›
 
-<!-- $table7$ -->
-
+<!-- $table7$ - Final Table -->
 
 ▪ Round 1 ▪  Aug 29
 Lemona                    2-1 Zamora
@@ -4335,16 +4338,14 @@ Lemona                    3-3  Cultural
 Éibar                     2-1  Guijuelo
   (Roberto Cuevas 21, Diego Cascón 90+pen; Ion Choperena 1)
 
-<!-- $table8$ -->
-
+<!-- $table8$ - Final Table -->
 
 <!-- $topscorers4$ -->
 
 
 Grupo III  ‹§2b3›
 
-<!-- $table9$ -->
-
+<!-- $table9$ - Final Table -->
 
 ▪ Round 1 ▪  Aug 29
 At. Baleares              1-3 Denia
@@ -5174,16 +5175,14 @@ Sant Andreu               1-2 Castellón
   (David Llobet 42; Marc Cosme 15, 25)
 Orihuela                  0-0 Ontinyent
 
-<!-- $table10$ -->
-
+<!-- $table10$ - Final Table -->
 
 <!-- $topscorers5$ -->
 
 
 Grupo IV  ‹§2b4›
 
-<!-- $table11$ -->
-
+<!-- $table11$ - Final Table -->
 
 ▪ Round 1 ▪  Aug 29
 Lorca Atlético                1-0 Betis B
@@ -6039,8 +6038,7 @@ Roquetas                      2-1 Jaén
 Melilla                       2-0 Cádiz
   (Victor Bravo 72, 89)
 
-<!-- $table12$ -->
-
+<!-- $table12$ - Final Table -->
 
 <!-- $topscorers6$ -->
 

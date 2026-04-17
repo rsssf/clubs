@@ -1,6 +1,16 @@
-  <!--
-     source: https://rsssf.org/tablesm/mex2013.html
-    -->
+<!--
+  source: https://rsssf.org/tablesm/mex2013.html
+
+  outline: -/h2/-/h4/-/-
+           -/1/-/4/-/-
+    (2) ==      Mexico 2012/13
+    (4) ====    Liga MX  ‹§pdn›
+    (4) ====    Copa MX Apertura 2012  ‹§copa›
+    (4) ====    Copa MX Clausura 2013  ‹§copac›
+    (4) ====    Ascenso MX  ‹§ascenso›
+
+  aname 8: ‹§pdn›,‹§1aper›,‹§1clau›,‹§copa›,‹§copac›,‹§ascenso›,‹§2aper›,‹§2clau›
+ -->
   
 
 

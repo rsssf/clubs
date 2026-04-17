@@ -1,6 +1,10 @@
-  <!--
-     source: https://rsssf.org/tablesm/mex06.html
-    -->
+<!--
+  source: https://rsssf.org/tablesm/mex06.html
+
+  outline: -/h2/-/-/-/-
+           -/1/-/-/-/-
+    (2) ==      Mexico 2005/06
+ -->
   
 
 

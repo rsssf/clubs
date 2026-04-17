@@ -1,14 +1,17 @@
-  <!--
-     source: https://rsssf.org/tablesd/duit71.html
-    -->
+<!--
+  source: https://rsssf.org/tablesd/duit71.html
+
+  outline: -/h2/-/-/-/-
+           -/1/-/-/-/-
+    (2) ==      Germany 1970/71
+ -->
   
 
 
 == Germany 1970/71
 
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
     Mön Bay Her Bra Ham Sch MSV Kai Wer Han Köl VfB Dor Arm Fra Kic Obe Ess
 Mön xxx 3-1 4-0 3-1 3-0 2-0 1-0 5-0 0-2 0-0 1-1 4-1 3-2 0-2 5-0 2-0 6-0 4-3
@@ -264,8 +267,7 @@ K'lautern  0-5 Stuttgart  (Handschuh 55, 75, Olsson 60, Regitz 68, Haug 87)
 Hamburger  2-1 RW Essen   (Nogly 57, G.Dörfel 87 - Lippens 50)
 Offenbach  4-1 1. FC Köln (E.Kremers 20, 57, Gecks 47, Winkler 85 - Löhr 80)
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Fall Table -->
 
 ▪ Round 18 ▪  Jan 22
 Oberhausen 0-2 Duisburg   (Kentschke 13, Lehmann 32 p)
@@ -520,24 +522,7 @@ Werder     0-1 Schalke    (Libuda 86)
 1. FC Köln 4-2 Offenbach  (Overath 28, Löhr 58, Thielen 79, Rupp 81 -
                           Kraft 3, E.Kremers 38)
 
- 1. Borussia Mönchengladbach     34 20 10  4  77- 35  50
- 2. Bayern München               34 19 10  5  74- 36  48
- 3. Hertha BSC Berlin            34 16  9  9  61- 43  41
- 4. Eintracht Braunschweig       34 16  7 11  52- 40  39
- 5. Hamburger SV                 34 13 11 10  54- 63  37
- 6. Schalke 04                   34 15  6 13  44- 40  36
- 7. MSV Duisburg                 34 12 11 11  43- 47  35
- 8. 1. FC Kaiserslautern         34 15  4 15  54- 57  34
- 9. Hannover 96                  34 12  9 13  53- 49  33
-10. Werder Bremen                34 11 11 12  41- 40  33
-11. 1. FC Köln                   34 11 11 12  46- 56  33
-12. VfB Stuttgart                34 11  8 15  49- 49  30
-13. Borussia Dortmund            34 10  9 15  54- 60  29
-14. Arminia Bielefeld            34 12  5 17  34- 53  29
-15. Eintracht Frankfurt          34 11  6 17  39- 56  28
-16. Rot-Weiß Oberhausen          34  9  9 16  54- 69  27
-17. Kickers Offenbach            34  9  9 16  49- 65  27
-18. Rot-Weiß Essen               34  7  9 18  48- 68  23
+<!-- $table3$ -->
 
 <!-- $topscorers1$ -->
 

@@ -1,6 +1,15 @@
-  <!--
-     source: https://rsssf.org/tablesi/ital2021.html
-    -->
+<!--
+  source: https://rsssf.org/tablesi/ital2021.html
+
+  outline: -/h2/-/h4/-/-
+           -/1/-/3/-/-
+    (2) ==      Italy 2020/21
+    (4) ====    Serie A  ‹§seriea›
+    (4) ====    Coppa Italia  ‹§coppa›
+    (4) ====    Serie B  ‹§serieb›
+
+  aname 3: ‹§seriea›,‹§coppa›,‹§serieb›
+ -->
   
 
 
@@ -12,8 +21,7 @@
 
 ==== Serie A  ‹§seriea›
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Sep 19 _
@@ -581,8 +589,7 @@ Sassuolo        2-0 Lazio
 Spezia          2-2 Roma
 Torino          1-1 Benevento
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 
 
@@ -796,8 +803,7 @@ Juventus: Buffon, Cuadrado, De Ligt, Chiellini, Danilo, McKennie, Bentancur, Rab
 
 ▪ Regular Season ▪
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 NB: as the difference between 16th and 17th place is not less than 4 points, no
     playoff between Ascoli and Cosenza was held;

@@ -1,6 +1,16 @@
-  <!--
-     source: https://rsssf.org/tablesd/duit2021.html
-    -->
+<!--
+  source: https://rsssf.org/tablesd/duit2021.html
+
+  outline: -/h2/-/h4/-/-
+           -/1/-/4/-/-
+    (2) ==      Germany 2020/21
+    (4) ====    1. Bundesliga  ‹§1bl›
+    (4) ====    DFB Pokal  ‹§dfbpokal›
+    (4) ====    2. Bundesliga  ‹§2bl›
+    (4) ====    3. Liga  ‹§3bl›
+
+  aname 7: ‹§1bl›,‹§1prorel›,‹§dfbpokal›,‹§2bl›,‹§2prorel›,‹§3bl›,‹§3pro›
+ -->
   
 
 
@@ -12,8 +22,7 @@
 
 ==== 1. Bundesliga  ‹§1bl›
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Sep 18 _
@@ -251,8 +260,7 @@ Augsburg        0-1 Bayern
 Leipzig         1-0 Union
 Freiburg        2-2 Frankfurt
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Halfway Table -->
 
 ▪ Round 18 ▪
 _ Jan 22 _
@@ -492,8 +500,7 @@ Stuttgart       0-2 Bielefeld
 Wolfsburg       2-3 Mainz
 Bremen          2-4 Mönchengladbach
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
 
@@ -600,7 +607,7 @@ Werder Bremen          1-2 RB Leipzig             (aet)
 _ May 1 _
 Borussia Dortmund      5-0 Holstein Kiel
 
-▪ Final ▪  May 13, Olympiastadion, Berlin
+▪ Final ▪  May 13 @ Olympiastadion, Berlin
 RB Leipzig             1-4 Borussia Dortmund
 
 
@@ -610,8 +617,7 @@ RB Leipzig             1-4 Borussia Dortmund
 
 ==== 2. Bundesliga  ‹§2bl›
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Final Table -->
 
 Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
 
@@ -629,8 +635,7 @@ NB: FC Ingolstadt 04 promoted, VfL Osnabrück relegated
 
 ==== 3. Liga  ‹§3bl›
 
-<!-- $table5$ -->
-
+<!-- $table5$ - Final Table -->
 
 NB: KFC Uerdingen 05 failed to obtain a license for the 2021/22 season;
     therefore SV Meppen were reprieved from relegation

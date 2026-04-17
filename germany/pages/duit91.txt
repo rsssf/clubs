@@ -1,14 +1,17 @@
-  <!--
-     source: https://rsssf.org/tablesd/duit91.html
-    -->
+<!--
+  source: https://rsssf.org/tablesd/duit91.html
+
+  outline: -/h2/-/-/-/-
+           -/1/-/-/-/-
+    (2) ==      Germany 1990/91
+ -->
   
 
 
 == Germany 1990/91
 
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 Nb. Due to the German reunification, the 1. Bundesliga is extended to 20
 teams for the following season, Dynamo Dresden and Hansa Rostock joining
@@ -322,8 +325,7 @@ Nürnberg   4-2 W'scheid   (Zarate 19, Oechler 20, Heidenreich 22, Eckstein 90 -
                           Sane 13, Tschiskale 69)
                           (sent off: Sobiech (W'scheid, 75))
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Fall Table -->
 
 ▪ Round 18 ▪  Feb 23
 Bochum     3-0 M'gladbach (Kohn 15, Kempe 37, Nehl 68)
@@ -604,26 +606,9 @@ M'gladbach 2-0 Düsseldorf (Wynhoff 55, Schneider 59)
 Werder     2-1 Bochum     (Votava 40, Harttgen 44 - Epp 70)
 W'scheid   0-1 Nürnberg   (Dorfner 8)
 
- 1. 1. FC Kaiserslautern         34 19 10  5  72- 45  48
- 2. Bayern München               34 18  9  7  74- 41  45
- 3. Werder Bremen                34 14 14  6  46- 29  42
- 4. Hamburger SV                 34 16  8 10  60- 38  40
- 5. Eintracht Frankfurt          34 15 10  9  63- 40  40
- 6. VfB Stuttgart                34 14 10 10  57- 44  38
- 7. 1. FC Köln                   34 13 11 10  50- 43  37
- 8. Bayer Leverkusen             34 11 13 10  47- 46  35
- 9. Borussia Mönchengladbach     34  9 17  8  49- 54  35
-10. Borussia Dortmund            34 10 14 10  46- 57  34
-11. Wattenscheid 09              34  9 15 10  42- 51  33
-12. Fortuna Düsseldorf           34 11 10 13  40- 49  32
-13. Karlsruher SC                34  8 15 11  46- 52  31
-14. VfL Bochum                   34  9 11 14  50- 52  29
-15. 1. FC Nürnberg               34 10  9 15  40- 54  29
-16. FC St. Pauli                 34  6 15 13  33- 53  27
-17. Bayer Uerdingen              34  5 13 16  34- 54  23
-18. Hertha BSC Berlin            34  3  8 23  37- 84  14
+<!-- $table3$ -->
 
-Playout:
+▪ Playout ▪
 
 St. Pauli - Stuttgarter Kickers 1:1
 Stuttgarter Kickers - St. Pauli 1:1

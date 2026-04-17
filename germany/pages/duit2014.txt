@@ -1,6 +1,16 @@
-  <!--
-     source: https://rsssf.org/tablesd/duit2014.html
-    -->
+<!--
+  source: https://rsssf.org/tablesd/duit2014.html
+
+  outline: -/h2/-/h4/-/-
+           -/1/-/4/-/-
+    (2) ==      Germany 2013/14
+    (4) ====    1. Bundesliga  ‹§1bl›
+    (4) ====    DFB Pokal  ‹§dfbpokal›
+    (4) ====    2. Bundesliga  ‹§2bl›
+    (4) ====    3. Liga  ‹§3bl›
+
+  aname 7: ‹§1bl›,‹§1prorel›,‹§dfbpokal›,‹§2bl›,‹§2prorel›,‹§3bl›,‹§3pro›
+ -->
   
 
 
@@ -12,8 +22,7 @@
 
 ==== 1. Bundesliga  ‹§1bl›
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Aug 9 _
@@ -483,8 +492,7 @@ Hoffenheim      3-1 Braunschweig
 Schalke         4-1 Nürnberg
 Wolfsburg       3-1 Mönchengladbach
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
 
@@ -586,7 +594,7 @@ Borussia Dortmund      2-0 Wolfsburg
 _ Apr 16 _
 Bayern München         5-1 Kaiserslautern
 
-▪ Final ▪  May 17, Berlin
+▪ Final ▪  May 17 @ Berlin
 Borussia Dortmund      0-2 Bayern München         (aet)
 
 
@@ -595,8 +603,7 @@ Borussia Dortmund      0-2 Bayern München         (aet)
 
 ==== 2. Bundesliga  ‹§2bl›
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
 
@@ -614,8 +621,7 @@ NB: Darmstadt promoted, Bielefeld relegated
 
 ==== 3. Liga  ‹§3bl›
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Final Table -->
 
 Promotion Playoffs for 3. Bundesliga  ‹§3pro›
 

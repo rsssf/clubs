@@ -1,6 +1,10 @@
-  <!--
-     source: https://rsssf.org/tablesi/ital05.html
-    -->
+<!--
+  source: https://rsssf.org/tablesi/ital05.html
+
+  outline: -/h2/-/-/-/-
+           -/1/-/-/-/-
+    (2) ==      Italy 2004/05
+ -->
   
 
 
@@ -9,8 +13,7 @@
 
 First Level (Serie A)
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 NB: Parma AC were renamed Parma FC in summer 2004;
     the 2004/05 title is not awarded
@@ -955,8 +958,7 @@ Udinese     1-1 Milan
   (David Di Michele 56, Sergio Claudio Dos Santos "Serginho" 85)
 
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 NB: Parma AC were renamed Parma FC in summer 2004;
     the 2004/05 title is not awarded
@@ -994,12 +996,7 @@ Group A
                 (Milito 3, Cozza 16pen, Stellini 90; Mezzano 9, Pinga 18,
                  Marazzina 34)
 29-08-2004    Lumezzane     1-1    Empoli
-                (Sinigaglia 4; Coda 35)
-
- 1.Torino            3   2  1  0  13- 7   7  Qualified
- 2.Genoa             3   1  1  1   7- 6   4
- 3.Lumezzane         3   1  1  1   5- 8   4
- 4.Empoli            3   0  1  2   4- 8   1
+<!-- $table3$ -   -->
 
 Group B
 
@@ -1015,12 +1012,7 @@ Group B
 29-08-2004    Pro Patria    2-2    Atalanta
                 (Perfetti 73, Temelin 80; Pazzini 57, 70)
 29-08-2004    Vicenza       0-1    Albinoleffe
-                (Pistilli 1)
-
- 1.Atalanta          3   2  1  0   9- 4   7  Qualified
- 2.AlbinoLeffe       3   2  0  1   3- 3   6
- 3.Vicenza           3   1  0  2   4- 6   3
- 4.Pro Patria        3   0  1  2   3- 6   1
+<!-- $table4$ -   -->
 
 Group C
 
@@ -1035,13 +1027,8 @@ Group C
 29-08-2004    Venezia       1-3    Modena
                 (Ginestra 45; Campedelli 19, Vignaroli 27, 77)
 29-08-2004    Triestina     4-2    Treviso
-                (Tulli 13, Bau 45, Rigoni 53, Munari 59; Reginaldo 83,
-                 Bellotto 90)
-
- 1.Triestina         3   3  0  0   6- 2   9  Qualified
- 2.Modena            3   2  0  1   5- 3   6
- 3.Treviso           3   0  1  2   4- 7   1
- 4.Venezia           3   0  1  2   2- 5   1
+                [Tulli 13, Bau 45, Rigoni 53, Munari 59; Reginaldo 83,
+<!-- $table5$ -   -->
 
 Group D
 
@@ -1056,12 +1043,7 @@ Group D
 29-08-2004    Arezzo        2-3    Livorno
                 (Spinesi 1pen, De Zerbi 7; Lucarelli 3pen, Vidigal 51, 74)
 29-08-2004    Cesena        1-1    Ascoli
-                (Varnazzi 42; Capparella 44)
-
- 1.Livorno           3   2  1  0   6- 4   7  Qualified
- 2.Cesena            3   1  2  0   4- 3   5
- 3.Ascoli            3   1  1  1   3- 3   4
- 4.Arezzo            3   0  0  3   3- 6   0
+<!-- $table6$ -   -->
 
 Group E
 
@@ -1075,12 +1057,7 @@ Group E
 01-09-2004    Fiorentina    3-0    Verona
                 (Rigano 5, 70, Portillo 61)
 01-09-2004    Como          0-3    Piacenza
-                (Beghetto 39, Sardo 46, Lucenti 49)
-
- 1.Fiorentina        3   2  1  0   6- 0   7  Qualified
- 2.Piacenza          3   2  1  0   5- 0   7
- 3.Hellas Verona     3   1  0  2   2- 5   3
- 4.Como              3   0  0  3   0- 8   0
+<!-- $table7$ -   -->
 
 Group F
 
@@ -1096,12 +1073,7 @@ Group F
                 (Dicara 11, Calaio 21pen, 44; Docente 13, Muslimovic 63,
                  Trotta 78pen)
 07-09-2004    Ternana       3-1    Pescara
-                (Divicino 25, Vieri 75, Jimenez 88; Mussi 90pen)
-
- 1.Ternana           3   2  0  1   4- 3   6  Qualified
- 2.Perugia           3   1  1  1   3- 2   4
- 3.Rimini            3   1  1  1   4- 4   4
- 4.Pescara           3   0  2  1   5- 7   2
+<!-- $table8$ -   -->
 
 Group G
 
@@ -1116,12 +1088,7 @@ Group G
 29-08-2004    Catania       3-1    Avellino
                 (Russo 36, Ferrante 41pen, Bruno 66; Ghirardello 55)
 29-08-2004    Salernitana   2-1    Catanzaro
-                (Di Vicino 13, Palladino 42; Cammarata 33)
-
- 1.Salernitana       3   3  0  0   7- 3   9  Qualified
- 2.Catania           3   2  0  1   6- 3   6
- 3.Catanzaro         3   0  1  2   2- 5   1
- 4.Avellino          3   0  1  2   3- 7   1
+<!-- $table9$ -   -->
 
 Group H
 
@@ -1136,12 +1103,7 @@ Group H
 29-08-2004    Crotone       0-1    Messina
                 (Rafael 75)
 05-09-2004    Crotone       4-0    Bari
-                (Guzman 4, Alteri 35, Jurcic 61,  Berrettoni 81)
-
- 1.Messina           3   3  0  0   7- 1   9  Qualified
- 2.Crotone           3   1  1  1   5- 2   4
- 3.Bari              3   1  0  2   3- 7   3
- 4.Acireale          3   0  1  2   2- 7   1
+<!-- $table10$ -   -->
 
 ▪ Second Round ▪  Sep 15 & 29
 Triestina   1-3 1-3 Cagliari

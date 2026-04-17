@@ -1,6 +1,15 @@
-  <!--
-     source: https://rsssf.org/tablesi/ital2018.html
-    -->
+<!--
+  source: https://rsssf.org/tablesi/ital2018.html
+
+  outline: -/h2/-/h4/-/-
+           -/1/-/3/-/-
+    (2) ==      Italy 2017/18
+    (4) ====    Serie A  ‹§seriea›
+    (4) ====    Coppa Italia  ‹§coppa›
+    (4) ====    Serie B  ‹§serieb›
+
+  aname 3: ‹§seriea›,‹§coppa›,‹§serieb›
+ -->
   
 
 
@@ -12,8 +21,7 @@
 
 ==== Serie A  ‹§seriea›
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Aug 19 _
@@ -563,8 +571,7 @@ Udinese         1-0 Bologna
 Sassuolo        0-1 Roma
 Lazio           2-3 Inter
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 
 
@@ -785,8 +792,7 @@ Milan: G. Donnarumma, Calabria, Bonucci, Romagnoli, Rodriguez, Kessie, Locatelli
 
 ▪ Regular Season ▪
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 NB: third successive promotion for Parma Calcio
 

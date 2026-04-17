@@ -1,6 +1,15 @@
-  <!--
-     source: https://rsssf.org/tabless/span2019.html
-    -->
+<!--
+  source: https://rsssf.org/tabless/span2019.html
+
+  outline: -/h2/-/h4/-/-
+           -/1/-/3/-/-
+    (2) ==      Spain 2018/19
+    (4) ====    Primera División  ‹§laliga›
+    (4) ====    Copa del Rey  ‹§coparey›
+    (4) ====    Segunda División (Liga Adelante)  ‹§segunda›
+
+  aname 3: ‹§laliga›,‹§coparey›,‹§segunda›
+ -->
   
 
 
@@ -12,8 +21,7 @@
 
 ==== Primera División  ‹§laliga›
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Aug 17 _
@@ -313,8 +321,7 @@ Betis                     1-2 Madrid
 _ Jan 14 _
 Sociedad                  3-2 Espanyol
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Halfway Table -->
 
 ▪ Round 20 ▪
 _ Jan 18 _
@@ -602,8 +609,7 @@ _ May 19 _
 Madrid                    0-2 Betis
 Eibar                     2-2 Barcelona
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 
 
@@ -783,7 +789,7 @@ Real Madrid CF            0-3 FC Barcelona
 _ Feb 28 _
 Valencia CF               1-0 Real Betis Balompié
 
-▪ Final ▪  May 25, Sevilla
+▪ Final ▪  May 25 @ Sevilla
 FC Barcelona              1-2 Valencia CF
 
 
@@ -792,13 +798,12 @@ FC Barcelona              1-2 Valencia CF
 
 ==== Segunda División (Liga Adelante)  ‹§segunda›
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Final Table -->
 
 Promoted: CF Fuenlabrada, Real Racing de Santander, CD Mirandés (Miranda de Ebro),
           SD Ponferradina (Ponferrada)
 
-Promotion Playoff  ‹§2prom›
+▪ Promotion Playoff ▪
 
 ▪ Semifinals ▪
 

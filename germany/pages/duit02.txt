@@ -1,6 +1,10 @@
-  <!--
-     source: https://rsssf.org/tablesd/duit02.html
-    -->
+<!--
+  source: https://rsssf.org/tablesd/duit02.html
+
+  outline: -/h2/-/-/-/-
+           -/1/-/-/-/-
+    (2) ==      Germany 2001/02
+ -->
   
 
 
@@ -9,8 +13,7 @@
 
 1.Bundesliga
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Jul 28 _
@@ -735,8 +738,7 @@ Stuttgart      4-3 Kaiserslautern
 Bayern         3-2 Hansa
   (Baumgart 39 og, Scholl 55, Elber 81; Hansen 82, Lantz 89)
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 
 Germany Cup (DFB Pokal) 2001/02
@@ -832,15 +834,14 @@ _ Mar 6 _
 FC Schalke 04        2-0 Bayern München                (aet)
   (Van Hoogdalem 100, Böhme 115)
 
-▪ Final ▪  May 11, Berlin
+▪ Final ▪  May 11 @ Berlin
 FC Schalke 04        4-2 Bayer Leverkusen
   (Böhme 45, Agali 68, Möller 71, Sand 84; Berbatov 27, Kirsten 89)
 
 
 2. Bundesliga
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 [*] Reutlingen were originally refused a license for 2002/03, which
     would have meant automatic relegation, but obtained one on appeal;
@@ -1348,8 +1349,7 @@ Union          3-1 Mainz
 Alemannia      1-3 Bochum
 Schweinfurt    0-1 Waldhof
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Final Table -->
 
 [*] Reutlingen were originally refused a license for 2002/03, which
     would have meant automatic relegation, but obtained one on appeal;
@@ -1841,8 +1841,7 @@ Holstein       1-2 Leverkusen
 Eintracht B    2-1 Wattenscheid
 Chemnitz       4-4 Uerdingen
 
-<!-- $table5$ -->
-
+<!-- $table5$ - Final Table -->
 
 NB: Rot-Weiß Essen have 1 point deducted at end of season for failing to
     fulfill all license conditions
@@ -2334,8 +2333,7 @@ Aalen          2-0 Borussia F
 VfB Stuttgart  1-2 Elversberg
 Bayern         2-2 Hoffenheim
 
-<!-- $table6$ -->
-
+<!-- $table6$ - Final Table -->
 
 [+] VfR Mannheim were to merge with SV Waldhof Mannheim into SV Mannheim;
     due to this, the relegation of 1.FC Kaiserslautern Amateure was not

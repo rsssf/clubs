@@ -1,6 +1,16 @@
-  <!--
-     source: https://rsssf.org/tablesd/duit2016.html
-    -->
+<!--
+  source: https://rsssf.org/tablesd/duit2016.html
+
+  outline: -/h2/-/h4/-/-
+           -/1/-/4/-/-
+    (2) ==      Germany 2015/16
+    (4) ====    1. Bundesliga  ‹§1bl›
+    (4) ====    DFB Pokal  ‹§dfbpokal›
+    (4) ====    2. Bundesliga  ‹§2bl›
+    (4) ====    3. Liga  ‹§3bl›
+
+  aname 7: ‹§1bl›,‹§1prorel›,‹§dfbpokal›,‹§2bl›,‹§2prorel›,‹§3bl›,‹§3pro›
+ -->
   
 
 
@@ -12,8 +22,7 @@
 
 ==== 1. Bundesliga  ‹§1bl›
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Aug 14 _
@@ -252,8 +261,7 @@ _ Dec 20 _
 Hertha          2-0 Mainz
 Mönchengladbach 3-2 Darmstadt
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Halfway Table -->
 
 ▪ Round 18 ▪
 _ Jan 22 _
@@ -485,8 +493,7 @@ Darmstadt       0-2 Mönchengladbach
 Wolfsburg       3-1 Stuttgart
 Bremen          1-0 Frankfurt
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
 
@@ -588,7 +595,7 @@ Bayern München         2-0 Werder Bremen
 _ Apr 20 _
 Hertha BSC             0-3 Borussia Dortmund
 
-▪ Final ▪  May 21, Berlin
+▪ Final ▪  May 21 @ Berlin
 Bayern München         0-0 Borussia Dortmund      (aet, 4-3 pen)
 
 
@@ -597,8 +604,7 @@ Bayern München         0-0 Borussia Dortmund      (aet, 4-3 pen)
 
 ==== 2. Bundesliga  ‹§2bl›
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Final Table -->
 
 NB: Sandhausen 3 points deducted for infringements of licensing conditions
 
@@ -618,8 +624,7 @@ NB: MSV Duisburg relegated, FC Würzburger Kickers promoted
 
 ==== 3. Liga  ‹§3bl›
 
-<!-- $table5$ -->
-
+<!-- $table5$ - Final Table -->
 
 Promotion Playoffs for 3. Bundesliga  ‹§3pro›
 

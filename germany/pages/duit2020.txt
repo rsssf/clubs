@@ -1,6 +1,16 @@
-  <!--
-     source: https://rsssf.org/tablesd/duit2020.html
-    -->
+<!--
+  source: https://rsssf.org/tablesd/duit2020.html
+
+  outline: -/h2/-/h4/-/-
+           -/1/-/4/-/-
+    (2) ==      Germany 2019/20
+    (4) ====    1. Bundesliga  ‹§1bl›
+    (4) ====    DFB Pokal  ‹§dfbpokal›
+    (4) ====    2. Bundesliga  ‹§2bl›
+    (4) ====    3. Liga  ‹§3bl›
+
+  aname 7: ‹§1bl›,‹§1prorel›,‹§dfbpokal›,‹§2bl›,‹§2prorel›,‹§3bl›,‹§3pro›
+ -->
   
 
 
@@ -12,8 +22,7 @@
 
 ==== 1. Bundesliga  ‹§1bl›
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Aug 16 _
@@ -253,8 +262,7 @@ _ Dec 22 _
 Düsseldorf      2-1 Union
 Paderborn       2-1 Frankfurt
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Halfway Table -->
 
 ▪ Round 18 ▪
 _ Jan 17 _
@@ -492,8 +500,7 @@ Freiburg        4-0 Schalke
 Wolfsburg       0-4 Bayern
 Bremen          6-1 Köln
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
 
@@ -601,7 +608,7 @@ Saarbrücken            0-3 Bayer Leverkusen                       [in Völkling
 _ Jun 10 _
 Bayern München         2-1 Eintracht Frankfurt
 
-▪ Final ▪  Jul 4, Berlin
+▪ Final ▪  Jul 4 @ Berlin
 Bayern München         4-2 Bayer Leverkusen
 
 
@@ -611,8 +618,7 @@ Bayern München         4-2 Bayer Leverkusen
 
 ==== 2. Bundesliga  ‹§2bl›
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Final Table -->
 
 Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
 
@@ -630,8 +636,7 @@ NB: both remain at former level
 
 ==== 3. Liga  ‹§3bl›
 
-<!-- $table5$ -->
-
+<!-- $table5$ - Final Table -->
 
 Promotion Playoffs for 3. Bundesliga  ‹§3pro›
 

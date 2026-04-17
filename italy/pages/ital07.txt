@@ -1,6 +1,10 @@
-  <!--
-     source: https://rsssf.org/tablesi/ital07.html
-    -->
+<!--
+  source: https://rsssf.org/tablesi/ital07.html
+
+  outline: -/h2/-/-/-/-
+           -/1/-/-/-/-
+    (2) ==      Italy 2006/07
+ -->
   
 
 
@@ -8,8 +12,7 @@
 
 First Level (Serie A)
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 NB: Siena had 1 point deducted on Oct 19 due to late payment of
     social security;
@@ -963,8 +966,7 @@ Siena      2-1 Lazio
 Udinese    1-2 Palermo
   (Tomas Sivok 21; Andrea Caracciolo 14, Eugenio Corini 71)
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 NB: Siena had 1 point deducted on Oct 19 due to late payment of
     social security;

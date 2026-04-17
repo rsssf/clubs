@@ -1,14 +1,17 @@
-  <!--
-     source: https://rsssf.org/tablesd/duit97.html
-    -->
+<!--
+  source: https://rsssf.org/tablesd/duit97.html
+
+  outline: -/h2/-/-/-/-
+           -/1/-/-/-/-
+    (2) ==      Germany 1996/97
+ -->
   
 
 
 == Germany 1996/97
 
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
     Bay Lev Dor VfB VfL Kar TSV Wer MSV Köl Mön Sch Ham Han Arm Düs Fre StP
 Bay xxx 4-2 0-0 4-2 1-1 1-0 1-1 1-0 5-2 3-2 1-0 3-0 2-1 2-1 1-0 5-0 0-0 3-0
@@ -343,8 +346,7 @@ Bielefeld  2-0 Stuttgart  (Breitkreutz 19, Reina 68)
 Bayern     1-0 M'gladbach (Klinsmann 51)
 Duisburg   1-0 St. Pauli  (Skoog 87)
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Fall Table -->
 
 ▪ Round 18 ▪  Feb 14
 1. FC Köln 2-0 Düsseldorf (Polster 45, Bach 84 o)
@@ -658,24 +660,7 @@ Düsseldorf 1-1 Hamburger  (Dobrowolski 22 - Jähnig 2)
 Dortmund   2-1 1. FC Köln (Chapuisat 33, But 74 - Kohn 87)
 Leverkusen 2-0 Bochum     (Sergio 9, Ramelow 51)
 
- 1. Bayern München               34 20 11  3  68- 34  71
- 2. Bayer Leverkusen             34 21  6  7  69- 41  69
- 3. Borussia Dortmund            34 19  6  9  63- 41  63
- 4. VfB Stuttgart                34 18  7  9  78- 40  61
- 5. VfL Bochum                   34 14 11  9  54- 51  53
- 6. Karlsruher SC                34 13 10 11  55- 44  49
- 7. TSV 1860 München             34 13 10 11  56- 56  49
- 8. Werder Bremen                34 14  6 14  53- 52  48
- 9. MSV Duisburg                 34 12  9 13  44- 49  45
-10. 1. FC Köln                   34 13  5 16  62- 62  44
-11. Borussia Mönchengladbach     34 12  7 15  46- 48  43
-12. Schalke 04                   34 11 10 13  35- 40  43
-13. Hamburger SV                 34 10 11 13  46- 60  41
-14. Hansa Rostock                34 11  7 16  35- 46  40
-15. Arminia Bielefeld            34 11  7 16  46- 54  40
-16. Fortuna Düsseldorf           34  9  6 19  26- 57  33
-17. SC Freiburg                  34  8  5 21  43- 67  29
-18. FC St. Pauli                 34  7  6 21  32- 69  27
+<!-- $table3$ -->
 
 <!-- $topscorers1$ -->
 
@@ -810,8 +795,7 @@ VfB Stuttgart-Energie Cottbus               2:0
 
 2.Bundesliga
 
-<!-- $table3$ -->
-
+<!-- $table4$ - Final Table -->
 
 NB: Gütersloh had 3 points deducted for infringement in the
     license application
@@ -839,8 +823,7 @@ N Player      Team                 Goals
 
 Regionalliga Nord
 
-<!-- $table4$ -->
-
+<!-- $table5$ - Final Table -->
 
 No teams promoted from regionalliga Nord.
 
@@ -857,8 +840,7 @@ Teams relegated from 2.Bundesliga to Regionalliga Nord:
 
 Regionalliga Nordost
 
-<!-- $table5$ -->
-
+<!-- $table6$ - Final Table -->
 
 Teams promoted from Oberliga to Regionalliga Nordost:
 * SV Babelsberg 03          (from Oberliga Nordost, Staffel Nord)
@@ -869,8 +851,7 @@ Teams promoted from Oberliga to Regionalliga Nordost:
 
 Regionalliga West-Südwest
 
-<!-- $table6$ -->
-
+<!-- $table7$ - Final Table -->
 
 Teams promoted from Oberliga to Regionalliga West-Südwest:
 * Bonner SC                     (from Oberliga Nordrhein)
@@ -884,8 +865,7 @@ Team relegated from 2.Bundesliga to Regionalliga West-Südwest:
 
 Regionalliga Süd
 
-<!-- $table7$ -->
-
+<!-- $table8$ - Final Table -->
 
 Teams promoted from Oberliga to Regionalliga Süd:
 * TSV München 1860 Amateure   (from Oberliga Bayern)

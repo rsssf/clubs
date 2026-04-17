@@ -1,6 +1,10 @@
-  <!--
-     source: https://rsssf.org/tablesi/ital09.html
-    -->
+<!--
+  source: https://rsssf.org/tablesi/ital09.html
+
+  outline: -/h2/-/-/-/-
+           -/1/-/-/-/-
+    (2) ==      Italy 2008/09
+ -->
   
 
 
@@ -8,8 +12,7 @@
 
 First Level (Serie A)
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Aug 30 _
@@ -996,8 +999,7 @@ Udinese    6-2 Cagliari
    Giovanni Pasquale 58, Fabio Quagliarella 81, Odion Ighalo 89;
    Robert Acquafresca 55pen, Andrea Parola 57)
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 ‹2007/08 (first level), see page ital08›.
 

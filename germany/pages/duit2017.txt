@@ -1,6 +1,16 @@
-  <!--
-     source: https://rsssf.org/tablesd/duit2017.html
-    -->
+<!--
+  source: https://rsssf.org/tablesd/duit2017.html
+
+  outline: -/h2/-/h4/-/-
+           -/1/-/4/-/-
+    (2) ==      Germany 2016/17
+    (4) ====    1. Bundesliga  ‹§1bl›
+    (4) ====    DFB Pokal  ‹§dfbpokal›
+    (4) ====    2. Bundesliga  ‹§2bl›
+    (4) ====    3. Liga  ‹§3bl›
+
+  aname 7: ‹§1bl›,‹§1prorel›,‹§dfbpokal›,‹§2bl›,‹§2prorel›,‹§3bl›,‹§3pro›
+ -->
   
 
 
@@ -12,8 +22,7 @@
 
 ==== 1. Bundesliga  ‹§1bl›
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Aug 26 _
@@ -251,8 +260,7 @@ _ Jan 22 _
 Leverkusen      3-1 Hertha
 Mainz           0-0 Köln
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Halfway Table -->
 
 ▪ Round 18 ▪
 _ Jan 27 _
@@ -484,8 +492,7 @@ Hamburg         2-1 Wolfsburg
 Köln            2-0 Mainz
 Dortmund        4-3 Bremen
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
 
@@ -588,7 +595,7 @@ Borussia M'gladbach    1-1 Eintracht Frankfurt    (aet, 6-7 pen)
 _ Apr 26 _
 Bayern München         2-3 Borussia Dortmund
 
-▪ Final ▪  May 27, Berlin
+▪ Final ▪  May 27 @ Berlin
 Borussia Dortmund      2-1 Eintracht Frankfurt
 
 
@@ -597,8 +604,7 @@ Borussia Dortmund      2-1 Eintracht Frankfurt
 
 ==== 2. Bundesliga  ‹§2bl›
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Final Table -->
 
 Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
 
@@ -619,8 +625,7 @@ NB: TSV 1860 München relegated, Jahn Regensburg promoted;
 
 ==== 3. Liga  ‹§3bl›
 
-<!-- $table5$ -->
-
+<!-- $table5$ - Final Table -->
 
 NB: VfR Aalen and FSV Frankfurt 9 points deducted for infringements of licensing conditions
 

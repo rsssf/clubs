@@ -1,6 +1,14 @@
-  <!--
-     source: https://rsssf.org/tablesu/usa2011.html
-    -->
+<!--
+  source: https://rsssf.org/tablesu/usa2011.html
+
+  outline: -/h2/-/h4/-/-
+           -/1/-/2/-/-
+    (2) ==      USA 2011
+    (4) ====    Major League Soccer  ‹§mls›
+    (4) ====    US Open Cup  ‹§open›
+
+  aname 2: ‹§mls›,‹§open›
+ -->
   
 
 

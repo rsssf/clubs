@@ -1,6 +1,10 @@
-  <!--
-     source: https://rsssf.org/tablesi/ital08.html
-    -->
+<!--
+  source: https://rsssf.org/tablesi/ital08.html
+
+  outline: -/h2/-/-/-/-
+           -/1/-/-/-/-
+    (2) ==      Italy 2007/08
+ -->
   
 
 
@@ -8,8 +12,7 @@
 
 First Level (Serie A)
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 NB: Cagliari had 3 points deducted for having started a juridical procedure
     against a former player; this penalty was revoked on appeal
@@ -978,8 +981,7 @@ Siena      2-2 Palermo
 Torino     0-1 Fiorentina
   (Pablo Daniel Osvaldo 77)
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 NB: Cagliari had 3 points deducted for having started a juridical procedure
     against a former player; this penalty was revoked on appeal

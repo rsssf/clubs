@@ -1,6 +1,10 @@
-  <!--
-     source: https://rsssf.org/tablesu/usa99.html
-    -->
+<!--
+  source: https://rsssf.org/tablesu/usa99.html
+
+  outline: -/h2/-/-/-/-
+           -/1/-/-/-/-
+    (2) ==      USA 1999
+ -->
   
 
 
@@ -10,23 +14,9 @@
 
 Tables:
 
-Eastern Conference
- 1.DC United                       32 17  6/ 3  6 65-43 57  Qualified
- 2.Columbus Crew                   32 13  6/ 4  9 48-39 45  Qualified
- 3.Tampa Bay Mutiny                32  9  5/ 7 11 51-50 32  Qualified
- 4.Miami Fusion                    32  8  5/ 4 15 42-59 29  Qualified
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 5.New England Revolution          32  7  5/ 7 13 38-53 26
- 6.New York/New Jersey Metrostars  32  4  3/ 5 20 32-64 15
+<!-- $table1$ - Eastern Conference -->
 
-Western Conference
- 1.Los Angeles Galaxy              32 17  3/ 4  8 49-29 54  Qualified
- 2.Dallas Burn                     32 16  3/ 6  7 54-35 51  Qualified
- 3.Chicago Fire                    32 15  3/ 5  9 51-36 48  Qualified
- 4.Colorado Rapids                 32 14  6/ 3  9 38-39 48  Qualified
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 5.San Jose Clash                  32  9 10/ 3 10 48-49 37
- 6.Kansas City Wizards             32  6  2/ 6 18 33-53 20
+<!-- $table2$ - Western Conference -->
 
 [NB: teams played teams from onw conference four times, from other
      conference twice, for 32 matches in the regular season]
@@ -387,23 +377,9 @@ Tampa Bay M   1-2 Dallas B
 
 Tables:
 
-Eastern Conference
- 1.DC United                       32 17  6/ 3  6 65-43 57  Qualified
- 2.Columbus Crew                   32 13  6/ 4  9 48-39 45  Qualified
- 3.Tampa Bay Mutiny                32  9  5/ 7 11 51-50 32  Qualified
- 4.Miami Fusion                    32  8  5/ 4 15 42-59 29  Qualified
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 5.New England Revolution          32  7  5/ 7 13 38-53 26
- 6.New York/New Jersey Metrostars  32  4  3/ 5 20 32-64 15
+<!-- $table3$ - Eastern Conference -->
 
-Western Conference
- 1.Los Angeles Galaxy              32 17  3/ 4  8 49-29 54  Qualified
- 2.Dallas Burn                     32 16  3/ 6  7 54-35 51  Qualified
- 3.Chicago Fire                    32 15  3/ 5  9 51-36 48  Qualified
- 4.Colorado Rapids                 32 14  6/ 3  9 38-39 48  Qualified
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 5.San Jose Clash                  32  9 10/ 3 10 48-49 37
- 6.Kansas City Wizards             32  6  2/ 6 18 33-53 20
+<!-- $table4$ - Western Conference -->
 
 [NB: teams played teams from onw conference four times, from other
      conference twice, for 32 matches in the regular season]
@@ -478,13 +454,13 @@ DC United     2-0 Los Angeles G
 Worcester moved to Boston.
 
                             GP   W   L  SW  SL   GF  GA  BP  Pts
-<!-- $table1$ - Northeast Division -->
+<!-- $table5$ - Northeast Division -->
 
-<!-- $table2$ - Atlantic Division -->
+<!-- $table6$ - Atlantic Division -->
 
-<!-- $table3$ - Central Division -->
+<!-- $table7$ - Central Division -->
 
-<!-- $table4$ - Pacific Division -->
+<!-- $table8$ - Pacific Division -->
 
 Round of 16:          Rochester defeated Lehigh Valley, 2-1.
                       San Diego defeated El Paso, 3-1
@@ -506,11 +482,11 @@ CHAMPIONSHIP:         Minnesota defeated Rochester 2-1.
 North Jersey returned from hiatus.
 
                             GP   W   L  SW  SL   GF  GA  BP  Pts
-<!-- $table5$ - Northern Division -->
+<!-- $table9$ - Northern Division -->
 
-<!-- $table6$ - Atlantic Division -->
+<!-- $table10$ - Atlantic Division -->
 
-<!-- $table7$ - Western Division -->
+<!-- $table11$ - Western Division -->
 
 First Round:            Northern Virginia defeated South Carolina, 2-1 (SO)
 Conference Semifinals:  Western Mass defeated Reading, 4-0
@@ -532,19 +508,19 @@ CHAMPIONSHIP:           Western Mass. Defeated South Jersey, 2-1.
 
                             GP   W   L  SW  SL   GF  GA  BP  Pts
      EASTERN CONFERENCE
-<!-- $table8$ - Northeast Division -->
+<!-- $table12$ - Northeast Division -->
 
-<!-- $table9$ - Southeast Division -->
+<!-- $table13$ - Southeast Division -->
 
      CENTRAL CONFERENCE
-<!-- $table10$ - Great Lakes Division -->
+<!-- $table14$ - Great Lakes Division -->
 
-<!-- $table11$ - Heartland Division -->
+<!-- $table15$ - Heartland Division -->
 
      WESTERN CONFERENCE
-<!-- $table12$ - Southwest Division -->
+<!-- $table16$ - Southwest Division -->
 
-<!-- $table13$ - Northwest Division -->
+<!-- $table17$ - Northwest Division -->
 
 Conference Semifinals:   Jackson defeated Brooklyn, 9-1.
                          New York defeated Cocoa, 3-1.
@@ -566,11 +542,11 @@ W-LEAGUE
                       W-1 Division
 
                             GP   W   L  SW  SL   GF  GA  BP  Pts
-<!-- $table14$ - North Division -->
+<!-- $table18$ - North Division -->
 
-<!-- $table15$ - Central Division -->
+<!-- $table19$ - Central Division -->
 
-<!-- $table16$ - South Division -->
+<!-- $table20$ - South Division -->
 
 First Round:            Maryland defated Long Island, 4-1.
                         Atlanta defeated Tampa Bay, 1-0.
@@ -583,14 +559,14 @@ CHAMPIONSHIP:           Raleigh defeated Chicago, 2-2 (3-2 SO).
                            W-2 Division
 
                             GP   W   L  SW  SL   GF  GA  BP  Pts
-<!-- $table17$ - North Division -->
+<!-- $table21$ - North Division -->
 
-<!-- $table18$ - South Division -->
+<!-- $table22$ - South Division -->
 
      Central Division
-<!-- $table19$ - Midwest -->
+<!-- $table23$ - Midwest -->
 
-<!-- $table20$ - Southwest -->
+<!-- $table24$ - Southwest -->
 
 First Round:           Hampton Roads defeated Piedmont, 1-0.
                        New York defeated Central Jersey, 4-3 (SO)
@@ -603,9 +579,9 @@ CHAMPIONSHIP:          North Texas defeated Springfield, 5-1.
 WOMEN'S PREMIER SOCCER LEAGUE
 
                           GP   W   T   L   GF  GA  Pt
-<!-- $table21$ - First Division -->
+<!-- $table25$ - First Division -->
 
-<!-- $table22$ - Second Division -->
+<!-- $table26$ - Second Division -->
 
 Note:  San Francisco folded during season, and their games against
 Division 1 opponents are not counted in Division 1 standings.

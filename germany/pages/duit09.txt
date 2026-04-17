@@ -1,6 +1,10 @@
-  <!--
-     source: https://rsssf.org/tablesd/duit09.html
-    -->
+<!--
+  source: https://rsssf.org/tablesd/duit09.html
+
+  outline: -/h2/-/-/-/-
+           -/1/-/-/-/-
+    (2) ==      Germany 2008/09
+ -->
   
 
 
@@ -8,8 +12,7 @@
 
 1.Bundesliga
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Aug 15 _
@@ -478,8 +481,7 @@ Karlsruhe      4-0 Hertha
 Energie        3-0 Leverkusen
 Schalke        2-3 Hoffenheim
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 ▪ Promotion/Relegation Playoff ▪
 
@@ -579,7 +581,7 @@ Bayer Leverkusen         4-1 FSV Mainz 05             (aet)
 _ Apr 22 _
 Hamburger SV             1-1 Werder Bremen            (aet, 1-3 pen)
 
-▪ Final ▪  May 30, Berlin
+▪ Final ▪  May 30 @ Berlin
 Bayer Leverkusen         0-1 Werder Bremen
 
 
@@ -590,8 +592,7 @@ Second Level 2008/09
 
 2.Bundesliga
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 NB: TuS Koblenz 3 points deducted for infringements in license
     application process 2007/08
@@ -1063,13 +1064,12 @@ RW Ahlen       2-4 Greuther Fürth
 Wehen          1-1 Hansa
 Freiburg       4-3 Kaiserslautern
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Final Table -->
 
 NB: TuS Koblenz 3 points deducted for infringements in license
     application process 2007/08
 
-Promotion/Relegation Playoff 1st/2nd level
+▪ Promotion/Relegation Playoff 1st/2nd level ▪
 
 ▪ First Leg ▪  May 28
 Energie        0-3 Nürnberg
@@ -1079,7 +1079,7 @@ Nürnberg       2-0 Energie
 
 NB: Nürnberg promoted, Energie relegated
 
-Promotion/Relegation Playoff 2nd/3rd level
+▪ Promotion/Relegation Playoff 2nd/3rd level ▪
 
 ▪ First Leg ▪  May 29
 Paderborn      1-0 Osnabrück
@@ -1095,8 +1095,7 @@ Third Level 2008/09
 
 3.Liga
 
-<!-- $table5$ -->
-
+<!-- $table5$ - Final Table -->
 
 [*] after the season finished, Kickers Emden withdrew its license
     application for 2009/10 because of financial problems; due to
@@ -2068,8 +2067,7 @@ Erzgebirge     1-1 Dynamo D
 Wacker B       2-1 Stuttgart II
   (12 Walch 0-1, 50 Mayer 1-1, 71 Belleri 2-1)
 
-<!-- $table6$ -->
-
+<!-- $table6$ - Final Table -->
 
 [*] after the season finished, Kickers Emden withdrew its license
     application for 2009/10 because of financial problems; due to
@@ -2101,13 +2099,11 @@ Fourth Level 2008/09
 
 Regionalliga Nord
 
-<!-- $table7$ -->
-
+<!-- $table7$ - Final Table -->
 
 Regionalliga West
 
-<!-- $table8$ -->
-
+<!-- $table8$ - Final Table -->
 
 [*] FSV Oggersheim renounced on its place in the Regionalliga 2009/10
     for financial reasons; due to this, Wormatia Worms are not
@@ -2115,8 +2111,7 @@ Regionalliga West
 
 Regionalliga Süd
 
-<!-- $table9$ -->
-
+<!-- $table9$ - Final Table -->
 
 [*] Viktoria Aschaffenburg renounced on its place in the Regionalliga
     2009/10; due to this Karlsruher SC II are not relegated

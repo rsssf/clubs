@@ -1,6 +1,10 @@
-  <!--
-     source: https://rsssf.org/tablesi/ital06.html
-    -->
+<!--
+  source: https://rsssf.org/tablesi/ital06.html
+
+  outline: -/h2/-/-/-/-
+           -/1/-/-/-/-
+    (2) ==      Italy 2005/06
+ -->
   
 
 
@@ -8,8 +12,7 @@
 
 First Level (Serie A)
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 [*] played home matches in Padova until round 8
 
@@ -966,8 +969,7 @@ Siena           0-0 Livorno
 Treviso         2-1 Udinese
   (Marco Borriello 37pen, 77; Mirko Pieri 16)
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 [*] played home matches in Padova until round 8
 

@@ -1,6 +1,14 @@
-  <!--
-     source: https://rsssf.org/tablesm/mex2012.html
-    -->
+<!--
+  source: https://rsssf.org/tablesm/mex2012.html
+
+  outline: -/h2/-/h4/-/-
+           -/1/-/2/-/-
+    (2) ==      Mexico 2011/12
+    (4) ====    Primera División Nacional  ‹§pdn›
+    (4) ====    Liga de Ascenso  ‹§ascenso›
+
+  aname 6: ‹§pdn›,‹§1aper›,‹§1clau›,‹§ascenso›,‹§2aper›,‹§2clau›
+ -->
   
 
 
