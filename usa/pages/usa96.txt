@@ -669,7 +669,9 @@ DC United   3-2 Los Angeles (aet) (34,643)
 
 
 
-<!-- $table5$ - A-LEAGUE (2nd Division) -->
+                             A-LEAGUE (2nd Division)
+
+<!-- $table5$ -->
 
 Semi-finals:    Rochester defeated Montreal, 3-2, 0-3, 2-1
                 Seattle defeated Colorado, 1-0, 0-2, 3-0

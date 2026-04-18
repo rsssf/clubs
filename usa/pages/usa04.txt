@@ -121,7 +121,9 @@ Semi-Finals:             Boulder defeated Fresno 3-0
 FINAL:                   Central Florida defeated Boulder 1-0
 
 
-<!-- $table18$ - MEN'S PREMIER SOCCER LEAGUE (Div. 3) -->
+MEN'S PREMIER SOCCER LEAGUE (Div. 3)
+
+<!-- $table18$ -->
 
 Semi-finals:     Utah defeated Chico 1-0
                  Arizona defeated Albuquerque 4-1

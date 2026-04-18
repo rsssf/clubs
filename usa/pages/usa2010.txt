@@ -553,7 +553,7 @@ Seattle Sounders       2-1 Columbus Crew
 
 
 
-<!-- $table5$ -  GP   W   L   D   GF  GA  Pts -->
+<!-- $table5$ -->
 
 ▪ Playoffs ▪
 

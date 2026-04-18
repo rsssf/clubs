@@ -500,7 +500,9 @@ NB: based on the head-to-head results of the Canadian A-League members
 <!-- $table9$ -->
 
 
-<!-- $table10$ - USL - PRO SELECT LEAGUE (3rd Division) -->
+USL - PRO SELECT LEAGUE (3rd Division)
+
+<!-- $table10$ -->
 
 1st Round:       Westchester defeated New Hampshire, 3-0, 2-3
                  Wilmington defeated Carolina 1-1 (2 OT), 2-0
@@ -551,7 +553,9 @@ Semi-finals:             Cape Cod defeated Memphis, 4-0
 CHAMPIONSHIP:            Cape Cod defeated Chicago, 2-0
 
 
-<!-- $table19$ - MEN'S PREMIER SOCCER LEAGUE (Div. 3) -->
+MEN'S PREMIER SOCCER LEAGUE (Div. 3)
+
+<!-- $table19$ -->
 
 Semifinals:      Arizona defeated Chico, 1-0
                  Utah defeated Northern Nevada, 9-0

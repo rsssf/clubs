@@ -516,7 +516,9 @@ FC Dallas                  2-3 New England Revolution
    Wells Thompson 57)
 
 
-<!-- $table5$ - USL - 1ST DIVISION (2nd Division) -->
+USL - 1ST DIVISION (2nd Division)
+
+<!-- $table5$ -->
 
 Quarterfinals:   Puerto Rico defeated Montreal 2-3, 3-0
                  Atlanta defeated Rochester 2-1, 1-1
@@ -534,7 +536,9 @@ NB: based on the head-to-head results of the Canadian USL 1st Division members
 <!-- $table6$ -->
 
 
-<!-- $table7$ - USL - 2ND DIVISION (3rd Division) -->
+USL - 2ND DIVISION (3rd Division)
+
+<!-- $table7$ -->
 
 Semi-Finals:     Harrisburg defeated Cleveland 1-0
                  Richmond defeated Charlotte 2-1

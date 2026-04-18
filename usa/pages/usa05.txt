@@ -640,7 +640,9 @@ Honda Most Valuable Player MVP: Taylor Twellman (New England Revolution)
 
 
 
-<!-- $table5$ - USL - 1ST DIVISION (2nd Division) -->
+USL - 1ST DIVISION (2nd Division)
+
+<!-- $table5$ -->
 
 Quarterfinals:         Richmond Defeated Vancouver 0-0, 0-0 (5-4 PK's)
                        Seattle defeated Portland 1-0, 2-0.
@@ -656,7 +658,9 @@ NB: based on the head-to-head results of the Canadian USL 1st Division members
 <!-- $table6$ -->
 
 
-<!-- $table7$ - USL - 2ND DIVISION (3rd Division) -->
+USL - 2ND DIVISION (3rd Division)
+
+<!-- $table7$ -->
 
 Semifinals:       Western Mass defeated Wilmington 0-1, 3-1.
                   Charlotte defeated Harrisburg 0-1, 2-1.

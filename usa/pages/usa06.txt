@@ -366,7 +366,9 @@ NE Revolution   1-1 Houston Dynamo        (aet, 3-4 pen)
 
 
 
-<!-- $table5$ - USL - 1ST DIVISION (2nd Division) -->
+USL - 1ST DIVISION (2nd Division)
+
+<!-- $table5$ -->
 
 First Round:    Puerto Rico defeated Charleston 2-2, 1-0
                 Vancouver defeated Miami 4-1, 2-0
@@ -383,7 +385,9 @@ NB: based on the head-to-head results of the Canadian USL 1st Division members
 
 
 
-<!-- $table7$ - USL - 2ND DIVISION (3rd Division) -->
+USL - 2ND DIVISION (3rd Division)
+
+<!-- $table7$ -->
 
 Semi-Finals:   Charlotte defeated Pittsburgh 4-1, 2-1
                Richmond defeated Cincinnati 2-1, 0-0
