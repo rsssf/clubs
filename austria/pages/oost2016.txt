@@ -1,19 +1,9 @@
-<!--
-  source: https://rsssf.org/tableso/oost2016.html
-
-  outline: -/h2/-/h4/-/-
-           -/1/-/6/-/-
-    (2) ==      Austria 2015/16
-    (4) ====    Bundesliga  ‹§bund›
-    (4) ====    ÖFB Cup  ‹§cup›
-    (4) ====    1. Liga (Second Level)  ‹§1liga›
-    (4) ====    Regionalliga  ‹§regliga›
-    (4) ====    SFV (Salzburg) Cup 2015/16  ‹§salzcup›
-    (4) ====    Woche Cup 2015/16  ‹§steicup›
-
-  aname 9: ‹§bund›,‹§cup›,‹§1liga›,‹§regliga›,‹§regwest›,‹§regmitte›,‹§regost›,‹§salzcup›,‹§steicup›
- -->
-  
+  <!--
+     title:   Austria 2015/16
+     source:  https://rsssf.org/tableso/oost2016.html
+     authors: Hans Schöggl and Karel Stokkermans
+     updated: 7 Mar 2023
+    -->
 
 
 == Austria 2015/16
@@ -458,7 +448,7 @@ FC Red Bull Salzburg        5-0 FC Admira/Wacker Mödling
 
 [*] FC Liefering (farm team RB Salzburg) are not eligible for promotion
 
-▪ Promotion Playoff ▪
+===== Promotion Playoff  ‹§2prorel›
 
 NB: both SV Austria Salzburg (who opened insolvency proceedings during the season) and
     SK Austria Klagenfurt (who were denied a second level license for next season in
@@ -477,7 +467,7 @@ NB: both SV Austria Salzburg (who opened insolvency proceedings during the seaso
 
 ‹Regionalliga West, see §regwest› | ‹Regionalliga Mitte, see §regmitte› | ‹Regionalliga Ost, see §regost›
 
-Regionalliga West  ‹§regwest›
+===== Regionalliga West  ‹§regwest›
 
 <!-- $table4$ - Final Table -->
 
@@ -485,7 +475,7 @@ Promoted: SAK 1914 (Salzburg) [FC Bergheim declined promotion]
           SV Wörgl (Tirol)
           VfB Hohenems (Vorarlberg)
 
-Regionalliga Mitte  ‹§regmitte›
+===== Regionalliga Mitte  ‹§regmitte›
 
 <!-- $table5$ - Final Table -->
 
@@ -493,7 +483,7 @@ Promoted: ATSV Wolfsberg (Kärnten) [ATUS Ferlach declined promotion]
           SV Grieskirchen (Oberösterreich)
           FC Gleisdorf 09 (Steiermark)
 
-Regionalliga Ost  ‹§regost›
+===== Regionalliga Ost  ‹§regost›
 
 <!-- $table6$ - Final Table -->
 
@@ -578,10 +568,4 @@ TSV Pöllau                    2-3 SC Kalsdorf                   (aet)
 
 ▪ Final ▪  Jun 3
 SV Lafnitz                    2-0 SC Kalsdorf
-
-
-
-
-
-<!-- $about$ -->
 

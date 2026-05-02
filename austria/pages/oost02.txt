@@ -1,13 +1,9 @@
-<!--
-  source: https://rsssf.org/tableso/oost02.html
-
-  outline: -/h2/-/-/-/-
-           -/1/-/-/-/-
-    (2) ==      Austria 2001/02
-
-  aname 2: ‹§tirol›,‹§tircup›
- -->
-  
+  <!--
+     title:   Austria 2001/02
+     source:  https://rsssf.org/tableso/oost02.html
+     authors: Andreas Exenberger and Karel Stokkermans
+     updated: 15 Jun 2022
+    -->
 
 
 == Austria 2001/02
@@ -2893,11 +2889,17 @@ Both groups are extended to 14 teams.
 
 SEVENTH LEVEL
 
-<!-- $table13$ - 1.Klasse Ost -->
+1.Klasse Ost
 
-<!-- $table14$ - 1.Klasse Mitte -->
+<!-- $table13$ -->
 
-<!-- $table15$ - 1.Klasse West -->
+1.Klasse Mitte
+
+<!-- $table14$ -->
+
+1.Klasse West
+
+<!-- $table15$ -->
 
 Relegated: SV Weerberg (Mitte)
 Promoted: SV Bad Häring, SK Waidring (Ost), FC Veldidena
@@ -2907,9 +2909,13 @@ Dissolved: SV Reichenau II (merges with SV Aldrans from Gebietsliga)
 Renamed: FC Prutz changes zu SPG Prutz/Serfaus
 
 
-<!-- $table16$ - 2.Klasse Ost -->
+2.Klasse Ost
 
-<!-- $table17$ - 2.Klasse West -->
+<!-- $table16$ -->
+
+2.Klasse West
+
+<!-- $table17$ -->
 
 New teams: SV Sistrans (Ost), FC See (West)
 Regrouped: FC Grinzens (West)
@@ -2917,10 +2923,4 @@ Dissolved: SC Serfaus (merges with FC Prutz from 1.Klasse)
 No relegation, lowest class.
 
 
-
-
-
-
-
-<!-- $about$ -->
 

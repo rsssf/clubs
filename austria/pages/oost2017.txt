@@ -1,19 +1,9 @@
-<!--
-  source: https://rsssf.org/tableso/oost2017.html
-
-  outline: -/h2/-/h4/-/-
-           -/1/-/6/-/-
-    (2) ==      Austria 2016/17
-    (4) ====    Bundesliga  ‹§bund›
-    (4) ====    ÖFB Cup  ‹§cup›
-    (4) ====    1. Liga (Second Level)  ‹§1liga›
-    (4) ====    Regionalliga  ‹§regliga›
-    (4) ====    SFV (Salzburg) Cup 2016/17  ‹§salzcup›
-    (4) ====    Woche Cup 2016/17  ‹§steicup›
-
-  aname 10: ‹§bund›,‹§cup›,‹§1liga›,‹§regliga›,‹§regwest›,‹§regmitte›,‹§regost›,‹§relpores›,‹§salzcup›,‹§steicup›
- -->
-  
+  <!--
+     title:   Austria 2016/17
+     source:  https://rsssf.org/tableso/oost2017.html
+     authors: Hans Schöggl and Karel Stokkermans
+     updated: 7 Mar 2023
+    -->
 
 
 == Austria 2016/17
@@ -472,19 +462,19 @@ NB: no promotion/relegation matches as only one third level club (TSV Hartberg) 
 
 ‹Regionalliga West, see §regwest› | ‹Regionalliga Mitte, see §regmitte› | ‹Regionalliga Ost, see §regost›
 
-Regionalliga West  ‹§regwest›
+===== Regionalliga West  ‹§regwest›
 
 <!-- $table5$ - Final Table -->
 
 Promoted: FC Kitzbühel, FC Alberschwende, SV Wals-Grünau.
 
-Regionalliga Mitte  ‹§regmitte›
+===== Regionalliga Mitte  ‹§regmitte›
 
 <!-- $table6$ - Final Table -->
 
 Promoted: Union Vöcklamarkt, Wolfsberger AC Amateure, TuS Bad Gleichenberg
 
-Regionalliga Ost  ‹§regost›
+===== Regionalliga Ost  ‹§regost›
 
 <!-- $table7$ - Final Table -->
 
@@ -492,7 +482,7 @@ Regionalliga Ost  ‹§regost›
 
 Promoted: FC Karabakh Wien, ASK BSC Bruck/Leitha.
 
-Relegation Playoff (reserve sides)  ‹§relpores›
+====== Relegation Playoff (reserve sides)  ‹§relpores›
 
 ▪ First Leg ▪  Jun 14
 St. Pölten Juniors          1-2 Mattersburg Amateure
@@ -569,10 +559,4 @@ FC Großklein                  0-4 USV Weindorf St. Anna/Aigen
 ▪ Final ▪  Jun 5
 USV Weindorf St. Anna/Aigen   0-0 Deutschlandsberger SC         (aet, 3-5 pen)
 
-
-
-
-
-
-<!-- $about$ -->
 

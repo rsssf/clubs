@@ -1,19 +1,9 @@
-<!--
-  source: https://rsssf.org/tableso/oost2015.html
-
-  outline: -/h2/-/h4/-/-
-           -/1/-/6/-/-
-    (2) ==      Austria 2014/15
-    (4) ====    Bundesliga  ‹§bund›
-    (4) ====    ÖFB Cup  ‹§cup›
-    (4) ====    1. Liga (Second Level)  ‹§1liga›
-    (4) ====    Regionalliga  ‹§regliga›
-    (4) ====    SFV (Salzburg) Cup 2014/15  ‹§salzcup›
-    (4) ====    Woche Murauer Cup 2014/15  ‹§steicup›
-
-  aname 9: ‹§bund›,‹§cup›,‹§1liga›,‹§regliga›,‹§regwest›,‹§regmitte›,‹§regost›,‹§salzcup›,‹§steicup›
- -->
-  
+  <!--
+     title:   Austria 2014/15
+     source:  https://rsssf.org/tableso/oost2015.html
+     authors: Hans Schöggl and Karel Stokkermans
+     updated: 7 Mar 2023
+    -->
 
 
 == Austria 2014/15
@@ -463,7 +453,7 @@ FC Red Bull Salzburg        2-0 FK Austria Wien             (aet)
 
 [*] FC Liefering (farm team RB Salzburg) are not eligible for promotion
 
-▪ Promotion Playoff ▪
+===== Promotion Playoff  ‹§2prorel›
 
 Promoted: SV Austria Salzburg (winners Regionalliga West) (directly);
           winners playoff between SK Austria Klagenfurt (winners Regionalliga Mitte)
@@ -487,7 +477,7 @@ NB: SK Austria Klagenfurt promoted
 
 ‹Regionalliga West, see §regwest› | ‹Regionalliga Mitte, see §regmitte› | ‹Regionalliga Ost, see §regost›
 
-Regionalliga West  ‹§regwest›
+===== Regionalliga West  ‹§regwest›
 
 <!-- $table4$ - Final Table -->
 
@@ -495,7 +485,7 @@ Promoted: USK Anif (Salzburg)
           SVG Reichenau (Tirol)
           SW Bregenz (Vorarlberg)
 
-Regionalliga Mitte  ‹§regmitte›
+===== Regionalliga Mitte  ‹§regmitte›
 
 <!-- $table5$ - Final Table -->
 
@@ -503,7 +493,7 @@ Promoted: Annabichler SV (Kärnten)
           ATSV Stadl-Paura (Oberösterreich)
           Deutschlandsberger SC (Steiermark)
 
-Regionalliga Ost  ‹§regost›
+===== Regionalliga Ost  ‹§regost›
 
 <!-- $table6$ - Final Table -->
 
@@ -583,10 +573,4 @@ FC Großklein                  1-1 SV Gnas                       (aet, 1-4 pen)
 
 ▪ Final ▪  Jun 3
 FC Piberstein Lankowitz       3-0 SV Gnas
-
-
-
-
-
-<!-- $about$ -->
 

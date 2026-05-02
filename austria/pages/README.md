@@ -5,55 +5,57 @@ football.db RSSSF Archive Data Summary for Austria (Österreich)
 
 | File   | Authors  | Last Updated | Lines (Chars) | Sections |
 | :----- | :------- | :----------- | ------------: | :------- |
-| [oost2024.txt](oost2024.txt) | Hans Schöggl | 2 Jul 2024 | 1417 (42960) | Bundesliga, ÖFB Cup, 2. Liga (Second Level), Regionalliga, Cup Tournaments Bundesländer |
-| [oost2023.txt](oost2023.txt) | Hans Schöggl | 14 Jun 2024 | 1319 (37959) | Bundesliga, ÖFB Cup, 2. Liga (Second Level), Regionalliga, Cup Tournaments Bundesländer |
-| [oost2022.txt](oost2022.txt) | Hans Schöggl and Karel Stokkermans | 5 Apr 2023 | 1194 (34906) | Bundesliga, ÖFB Cup, 2. Liga (Second Level), Regionalliga, SFV (Salzburg) Cup 2021/22, Steirer Cup 2021/22 |
-| [oost2021.txt](oost2021.txt) | Hans Schöggl and Karel Stokkermans | 7 Mar 2023 | 1088 (31073) | Bundesliga, ÖFB Cup, 2. Liga (Second Level), Woche Cup 2020/21 |
-| [oost2020.txt](oost2020.txt) | Hans Schöggl and Karel Stokkermans | 7 Mar 2023 | 692 (21755) | Bundesliga, ÖFB Cup, 2. Liga (Second Level), SFV (Salzburg) Cup 2019/20, Woche Cup 2019/20 |
-| [oost2019.txt](oost2019.txt) | Hans Schöggl and Karel Stokkermans | 7 Mar 2023 | 739 (23801) | Bundesliga, ÖFB Cup, 2. Liga (Second Level), Regionalliga, SFV (Salzburg) Cup 2018/19, Woche Cup 2018/19 |
-| [oost2018.txt](oost2018.txt) | Hans Schöggl and Karel Stokkermans | 7 Mar 2023 | 707 (20418) | Bundesliga, ÖFB Cup, 1. Liga (Second Level), Regionalliga, SFV (Salzburg) Cup 2017/18, Woche Cup 2017/18 |
-| [oost2017.txt](oost2017.txt) | Hans Schöggl and Karel Stokkermans | 7 Mar 2023 | 694 (20246) | Bundesliga, ÖFB Cup, 1. Liga (Second Level), Regionalliga, SFV (Salzburg) Cup 2016/17, Woche Cup 2016/17 |
-| [oost2016.txt](oost2016.txt) | Hans Schöggl and Karel Stokkermans | 7 Mar 2023 | 696 (20580) | Bundesliga, ÖFB Cup, 1. Liga (Second Level), Regionalliga, SFV (Salzburg) Cup 2015/16, Woche Cup 2015/16 |
-| [oost2015.txt](oost2015.txt) | Hans Schöggl and Karel Stokkermans | 7 Mar 2023 | 703 (19775) | Bundesliga, ÖFB Cup, 1. Liga (Second Level), Regionalliga, SFV (Salzburg) Cup 2014/15, Woche Murauer Cup 2014/15 |
-| [oost2014.txt](oost2014.txt) | Hans Schöggl and Karel Stokkermans | 7 Mar 2023 | 697 (20259) | Bundesliga, ÖFB Cup, 1. Liga (Second Level), Regionalliga, SFV (Salzburg) Cup 2013/14, Woche Murauer Cup 2013/14 |
-| [oost2013.txt](oost2013.txt) | Hans Schöggl and Karel Stokkermans | 7 Mar 2023 | 909 (23110) | Bundesliga, ÖFB Cup, 1. Liga (Second Level), SFV (Salzburg) Cup 2012/13, Woche Murauer Cup |
-| [oost2012.txt](oost2012.txt) | Hans Schöggl, Jan Schoenmakers and Karel Stokkermans | 7 Mar 2023 | 354 (13121) | Bundesliga, ÖFB Cup, 1. Liga (Second Level), Promotion/Relegation 2nd/3rd level, SFV (Salzburg) Cup 2011/12, Woche Steirer Cup 2011/12 |
-| [oost2011.txt](oost2011.txt) | Hans Schöggl, Jan Schoenmakers and Karel Stokkermans | 7 Mar 2023 | 368 (13325) | Bundesliga, ÖFB Cup, 1. Liga (Second Level), Promotion/Relegation 2nd/3rd level, SFV (Salzburg) Cup 2010/11, Woche Steirer Cup 2010/11 |
-| [oost2010.txt](oost2010.txt) | Andreas Exenberger, Hans Schöggl and Karel Stokkermans | 7 Mar 2023 | 1045 (26073) | Bundesliga, ÖFB Cup, 1. Liga (Second Level), Promotion/Relegation 2nd/3rd level, Regionalliga, SFV (Salzburg) Cup 2009/10, Woche Steirer Cup 2009/10 |
-| [oost09.txt](oost09.txt) | Andreas Exenberger, Hans Schöggl and Karel Stokkermans | 15 Jul 2022 | 1069 (28057) |  |
-| [oost08.txt](oost08.txt) | Andreas Exenberger, Hans Schöggl and Karel Stokkermans | 15 Jun 2022 | 1012 (26381) |  |
-| [oost07.txt](oost07.txt) | Andreas Exenberger, Hans Schöggl and Karel Stokkermans | 15 Jun 2022 | 1139 (32613) |  |
-| [oost06.txt](oost06.txt) | Andreas Exenberger, Hans Schöggl and Karel Stokkermans | 15 Jun 2022 | 1304 (37606) |  |
-| [oost05.txt](oost05.txt) | Andreas Exenberger, Hans Schöggl and Karel Stokkermans | 15 Jun 2022 | 1662 (52593) |  |
-| [oost04.txt](oost04.txt) | Andreas Exenberger and Karel Stokkermans | 15 Jun 2022 | 1992 (69113) |  |
-| [oost03.txt](oost03.txt) | Andreas Exenberger and Karel Stokkermans | 15 Jun 2022 | 1819 (62021) |  |
-| [oost02.txt](oost02.txt) | Andreas Exenberger and Karel Stokkermans | 15 Jun 2022 | 3226 (87747) |  |
-| [oost01.txt](oost01.txt) | Karel Stokkermans, Gerhard Öhlinger and Andreas Exenberger | 15 Jun 2022 | 6025 (155183) |  |
-| [oost00.txt](oost00.txt) | Andreas Exenberger, Karel Stokkermans and Gerhard Öhlinger | 15 Jun 2022 | 4062 (118896) |  |
-| [oost99.txt](oost99.txt) | RSSSF | 15 Jun 2022 | 2958 (102905) |  |
-| [oost98.txt](oost98.txt) | RSSSF | 15 Jun 2022 | 1822 (66132) |  |
-| [oost97.txt](oost97.txt) | RSSSF | 15 Jun 2022 | 4526 (152623) |  |
-| [oost96.txt](oost96.txt) | Ambrosius Kutschera and Karel Stokkermans | 31 Oct 2004 | 2459 (86045) |  |
-| [oost95.txt](oost95.txt) | Ambrosius Kutschera and Karel Stokkermans | 31 Oct 2004 | 1143 (37684) |  |
-| [oost94.txt](oost94.txt) | Ambrosius Kutschera and Karel Stokkermans | 31 Oct 2004 | 801 (24388) |  |
-| [oost93.txt](oost93.txt) | Ambrosius Kutschera and Karel Stokkermans | 31 Oct 2004 | 785 (22905) |  |
-| [oost92.txt](oost92.txt) | Ambrosius Kutschera | 16 Apr 2003 | 503 (12505) |  |
-| [oost91.txt](oost91.txt) | Ambrosius Kutschera | 18 May 2003 | 500 (12208) |  |
-| [oost90.txt](oost90.txt) | Ambrosius Kutschera | 5 Jul 2003 | 498 (12101) |  |
-| [oost89.txt](oost89.txt) | Ambrosius Kutschera | 6 Jul 2003 | 517 (11942) |  |
-| [oost88.txt](oost88.txt) | Ambrosius Kutschera | 31 Aug 2003 | 503 (11550) |  |
-| [oost87.txt](oost87.txt) | Ambrosius Kutschera | 31 Aug 2003 | 498 (11862) |  |
-| [oost86.txt](oost86.txt) | Ambrosius Kutschera | 31 Aug 2003 | 491 (11772) |  |
-| [oost85.txt](oost85.txt) | Ambrosius Kutschera | 14 Nov 2003 | 508 (12086) |  |
-| [oost84.txt](oost84.txt) | Ambrosius Kutschera | 14 Nov 2003 | 506 (12192) |  |
-| [oost83.txt](oost83.txt) | Ambrosius Kutschera | 10 Oct 2004 | 490 (11318) |  |
-| [oost82.txt](oost82.txt) | Ambrosius Kutschera | 10 Oct 2004 | 421 (9148) |  |
-| [oost81.txt](oost81.txt) | Ambrosius Kutschera | 10 Oct 2004 | 408 (9252) |  |
-| [oost80.txt](oost80.txt) | Ambrosius Kutschera | 10 Oct 2004 | 435 (9351) |  |
-| [oost79.txt](oost79.txt) | Ambrosius Kutschera | 26 Mar 2005 | 440 (9694) |  |
-| [oost78.txt](oost78.txt) | Ambrosius Kutschera | 23 Apr 2009 | 436 (9043) |  |
-| [oost77.txt](oost77.txt) | Ambrosius Kutschera | 10 Oct 2004 | 426 (9141) |  |
-| [oost76.txt](oost76.txt) | Ambrosius Kutschera | 12 Jul 2005 | 424 (9513) |  |
-| [oost75.txt](oost75.txt) | Ambrosius Kutschera | 12 Jul 2005 | 413 (9856) |  |
+| [oost2026.txt](oost2026.txt) | Hans Schöggl | 24 Mar 2026 | 392 (10238) | **Austria 2025/26** <br> == Austria 2025/26 <br> ==== Bundesliga <br> ===== Regular Stage <br> ===== Playoff Stage <br> ====== Championship Playoff <br> ====== Relegation Playoff <br> ==== ÖFB Cup|
+| [oost2025.txt](oost2025.txt) | Hans Schöggl | 7 Jul 2025 | 1212 (31321) | **Austria 2024/25** <br> == Austria 2024/25 <br> ==== Bundesliga <br> ===== Regular Stage <br> ===== Playoff Stage <br> ====== Championship Playoff <br> ===== Conference League Playoff <br> ====== Relegation Playoff <br> ==== ÖFB Cup <br> ==== 2. Liga (Second Level) <br> ==== Regionalliga <br> ===== Regionalliga West <br> ===== Regionalliga Mitte <br> ===== Regionalliga Ost <br> ==== Cup Tournaments Bundesländer <br> ===== BFV-Cup (Burgenland) 2024/25 <br> ===== Kärnten-Cup 2024/25 <br> ===== NÖ Meistercup (Niederösterreich) 2024/25 <br> ===== OÖ-Landescup (Oberösterreich) 2024/25 <br> ===== Salzburger Landescup 2024/25 <br> ===== Steirer-Cup 2024/25 <br> ===== Tirol-Cup 2024/25 <br> ===== VFV-Cup (Vorarlberg) 2024/25 <br> ===== Wiener Landescup 2024/25|
+| [oost2024.txt](oost2024.txt) | Hans Schöggl | 10 Jun 2025 | 1220 (31768) | **Austria 2023/24** <br> == Austria 2023/24 <br> ==== Bundesliga <br> ===== Regular Stage <br> ===== Playoff Stage <br> ====== Championship Playoff <br> ===== Conference League Playoff <br> ====== Relegation Playoff <br> ==== ÖFB Cup <br> ==== 2. Liga (Second Level) <br> ==== Regionalliga <br> ===== Regionalliga West <br> ===== Regionalliga Mitte <br> ===== Regionalliga Ost <br> ==== Cup Tournaments Bundesländer <br> ===== BFV-Cup (Burgenland) 2023/24 <br> ===== Kärnten-Cup 2023/24 <br> ===== NÖ Meistercup (Niederösterreich) 2023/24 <br> ===== OÖ-Landescup (Oberösterreich) 2023/24 <br> ===== Salzburger Landescup 2023/24 <br> ===== Steirer-Cup 2023/24 <br> ===== Tirol-Cup 2023/24 <br> ===== VFV-Cup (Vorarlberg) 2023/24 <br> ===== Wiener Landescup 2023/24|
+| [oost2023.txt](oost2023.txt) | Hans Schöggl | 14 Jun 2024 | 1114 (27014) | **Austria 2022/23** <br> == Austria 2022/23 <br> ==== Bundesliga <br> ===== Regular Stage <br> ===== Playoff Stage <br> ====== Championship Playoff <br> ===== Conference League Playoff <br> ====== Relegation Playoff <br> ==== ÖFB Cup <br> ==== 2. Liga (Second Level) <br> ==== Regionalliga <br> ===== Regionalliga West <br> ===== Regionalliga Mitte <br> ===== Regionalliga Ost <br> ==== Cup Tournaments Bundesländer <br> ===== Burgenland-Cup 2022/23 <br> ===== Kärnten Cup 2022/23 <br> ===== NÖ (Niederösterreich) Cup 2022/23 <br> ===== OÖ (Oberösterreich) Landescup 2022/23 <br> ===== SFV (Salzburg) Cup 2022/23 <br> ===== Steirer Cup 2022/23 <br> ===== Tirol-Cup 2022/23 <br> ===== VFV (Vorarlberg) Cup 2022/23 <br> ===== Wiener Landescup 2022/23|
+| [oost2022.txt](oost2022.txt) | Hans Schöggl and Karel Stokkermans | 5 Apr 2023 | 1001 (24536) | **Austria 2021/22** <br> == Austria 2021/22 <br> ==== Bundesliga <br> ===== Regular Stage <br> ===== Playoff Stage <br> ====== Championship Playoff <br> ===== Conference League Playoff <br> ====== Relegation Playoff <br> ==== ÖFB Cup <br> ==== 2. Liga (Second Level) <br> ==== Regionalliga <br> ===== Regionalliga West <br> ===== Regionalliga Mitte <br> ===== Regionalliga Ost <br> ==== SFV (Salzburg) Cup 2021/22 <br> ==== Steirer Cup 2021/22|
+| [oost2021.txt](oost2021.txt) | Hans Schöggl and Karel Stokkermans | 7 Mar 2023 | 955 (24003) | **Austria 2020/21** <br> == Austria 2020/21 <br> ==== Bundesliga <br> ===== Regular Stage <br> ===== Playoff Stage <br> ====== Championship Playoff <br> ===== Conference League Playoff <br> ====== Relegation Playoff <br> ===== Promotion/Relegation Playoff <br> ==== ÖFB Cup <br> ==== 2. Liga (Second Level) <br> ==== Woche Cup 2020/21|
+| [oost2020.txt](oost2020.txt) | Hans Schöggl and Karel Stokkermans | 7 Mar 2023 | 583 (15778) | **Austria 2019/20** <br> == Austria 2019/20 <br> ==== Bundesliga <br> ===== Regular Stage <br> ===== Playoff Stage <br> ====== Championship Playoff <br> ===== Europa League Playoff <br> ====== Relegation Playoff <br> ==== ÖFB Cup <br> ==== 2. Liga (Second Level) <br> ==== SFV (Salzburg) Cup 2019/20 <br> ==== Woche Cup 2019/20|
+| [oost2019.txt](oost2019.txt) | Hans Schöggl and Karel Stokkermans | 7 Mar 2023 | 575 (14695) | **Austria 2018/19** <br> == Austria 2018/19 <br> ==== Bundesliga <br> ===== Regular Stage <br> ===== Playoff Stage <br> ====== Championship Playoff <br> ===== Europa League Playoff <br> ====== Relegation Playoff <br> ==== ÖFB Cup <br> ==== 2. Liga (Second Level) <br> ==== Regionalliga <br> ===== Regionalliga West <br> ===== Regionalliga Mitte <br> ===== Regionalliga Ost <br> ==== SFV (Salzburg) Cup 2018/19 <br> ==== Woche Cup 2018/19|
+| [oost2018.txt](oost2018.txt) | Hans Schöggl and Karel Stokkermans | 7 Mar 2023 | 573 (14131) | **Austria 2017/18** <br> == Austria 2017/18 <br> ==== Bundesliga <br> ===== Promotion/Relegation Playoff <br> ==== ÖFB Cup <br> ==== 1. Liga (Second Level) <br> ==== Regionalliga <br> ===== Regionalliga West <br> ===== Regionalliga Mitte <br> ===== Regionalliga Ost <br> ==== SFV (Salzburg) Cup 2017/18 <br> ==== Woche Cup 2017/18|
+| [oost2017.txt](oost2017.txt) | Hans Schöggl and Karel Stokkermans | 7 Mar 2023 | 562 (14073) | **Austria 2016/17** <br> == Austria 2016/17 <br> ==== Bundesliga <br> ==== ÖFB Cup <br> ==== 1. Liga (Second Level) <br> ==== Regionalliga <br> ===== Regionalliga West <br> ===== Regionalliga Mitte <br> ===== Regionalliga Ost <br> ====== Relegation Playoff (reserve sides) <br> ==== SFV (Salzburg) Cup 2016/17 <br> ==== Woche Cup 2016/17|
+| [oost2016.txt](oost2016.txt) | Hans Schöggl and Karel Stokkermans | 7 Mar 2023 | 571 (14761) | **Austria 2015/16** <br> == Austria 2015/16 <br> ==== Bundesliga <br> ==== ÖFB Cup <br> ==== 1. Liga (Second Level) <br> ===== Promotion Playoff <br> ==== Regionalliga <br> ===== Regionalliga West <br> ===== Regionalliga Mitte <br> ===== Regionalliga Ost <br> ==== SFV (Salzburg) Cup 2015/16 <br> ==== Woche Cup 2015/16|
+| [oost2015.txt](oost2015.txt) | Hans Schöggl and Karel Stokkermans | 7 Mar 2023 | 576 (13995) | **Austria 2014/15** <br> == Austria 2014/15 <br> ==== Bundesliga <br> ==== ÖFB Cup <br> ==== 1. Liga (Second Level) <br> ===== Promotion Playoff <br> ==== Regionalliga <br> ===== Regionalliga West <br> ===== Regionalliga Mitte <br> ===== Regionalliga Ost <br> ==== SFV (Salzburg) Cup 2014/15 <br> ==== Woche Murauer Cup 2014/15|
+| [oost2014.txt](oost2014.txt) | Hans Schöggl and Karel Stokkermans | 7 Mar 2023 | 571 (14419) | **Austria 2013/14** <br> == Austria 2013/14 <br> ==== Bundesliga <br> ==== ÖFB Cup <br> ==== 1. Liga (Second Level) <br> ===== Promotion/Relegation Playoff <br> ==== Regionalliga <br> ===== Regionalliga West <br> ===== Regionalliga Mitte <br> ===== Regionalliga Ost <br> ==== SFV (Salzburg) Cup 2013/14 <br> ==== Woche Murauer Cup 2013/14|
+| [oost2013.txt](oost2013.txt) | Hans Schöggl and Karel Stokkermans | 7 Mar 2023 | 826 (20006) | **Austria 2012/13** <br> == Austria 2012/13 <br> ==== Bundesliga <br> ==== ÖFB Cup <br> ==== 1. Liga (Second Level) <br> ===== Promotion/Relegation Playoff <br> ==== SFV (Salzburg) Cup 2012/13 <br> ==== Woche Murauer Cup|
+| [oost2012.txt](oost2012.txt) | Hans Schöggl, Jan Schoenmakers and Karel Stokkermans | 7 Mar 2023 | 298 (10878) | **Austria 2011/12** <br> == Austria 2011/12 <br> ==== Bundesliga <br> ==== ÖFB Cup <br> ==== 1. Liga (Second Level) <br> ==== Promotion/Relegation 2nd/3rd level <br> ==== SFV (Salzburg) Cup 2011/12 <br> ==== Woche Steirer Cup 2011/12|
+| [oost2011.txt](oost2011.txt) | Hans Schöggl, Jan Schoenmakers and Karel Stokkermans | 7 Mar 2023 | 311 (11033) | **Austria 2010/11** <br> == Austria 2010/11 <br> ==== Bundesliga <br> ==== ÖFB Cup <br> ==== 1. Liga (Second Level) <br> ==== Promotion/Relegation 2nd/3rd level <br> ==== SFV (Salzburg) Cup 2010/11 <br> ==== Woche Steirer Cup 2010/11|
+| [oost2010.txt](oost2010.txt) | Andreas Exenberger, Hans Schöggl and Karel Stokkermans | 7 Mar 2023 | 903 (19775) | **Austria 2009/10** <br> == Austria 2009/10 <br> ==== Bundesliga <br> ==== ÖFB Cup <br> ==== 1. Liga (Second Level) <br> ==== Promotion/Relegation 2nd/3rd level <br> ==== Regionalliga <br> ===== Regionalliga West <br> ===== Regionalliga Mitte <br> ===== Regionalliga Ost <br> ==== SFV (Salzburg) Cup 2009/10 <br> ==== Woche Steirer Cup 2009/10|
+| [oost09.txt](oost09.txt) | Andreas Exenberger, Hans Schöggl and Karel Stokkermans | 15 Jul 2022 | 925 (22163) | **Austria 2008/09** <br> == Austria 2008/09|
+| [oost08.txt](oost08.txt) | Andreas Exenberger, Hans Schöggl and Karel Stokkermans | 15 Jun 2022 | 868 (20513) | **Austria 2007/08** <br> == Austria 2007/08|
+| [oost07.txt](oost07.txt) | Andreas Exenberger, Hans Schöggl and Karel Stokkermans | 15 Jun 2022 | 992 (26465) | **Austria 2006/07** <br> == Austria 2006/07|
+| [oost06.txt](oost06.txt) | Andreas Exenberger, Hans Schöggl and Karel Stokkermans | 15 Jun 2022 | 1153 (31294) | **Austria 2005/06** <br> == Austria 2005/06|
+| [oost05.txt](oost05.txt) | Andreas Exenberger, Hans Schöggl and Karel Stokkermans | 15 Jun 2022 | 1357 (37714) | **Austria 2004/05** <br> == Austria 2004/05|
+| [oost04.txt](oost04.txt) | Andreas Exenberger and Karel Stokkermans | 15 Jun 2022 | 1538 (44605) | **Austria 2003/04** <br> == Austria 2003/04|
+| [oost03.txt](oost03.txt) | Andreas Exenberger and Karel Stokkermans | 15 Jun 2022 | 1383 (36296) | **Austria 2002/03** <br> == Austria 2002/03|
+| [oost02.txt](oost02.txt) | Andreas Exenberger and Karel Stokkermans | 15 Jun 2022 | 2926 (75873) | **Austria 2001/02** <br> == Austria 2001/02|
+| [oost01.txt](oost01.txt) | Karel Stokkermans, Gerhard Öhlinger and Andreas Exenberger | 15 Jun 2022 | 5302 (129111) | **Austria 2000/01** <br> == Austria 2000/01|
+| [oost00.txt](oost00.txt) | Andreas Exenberger, Karel Stokkermans and Gerhard Öhlinger | 15 Jun 2022 | 3344 (87815) | **Austria 1999/2000** <br> == Austria 1999/2000|
+| [oost99.txt](oost99.txt) | RSSSF | 15 Jun 2022 | 1643 (41804) | **Austria 1998/99** <br> == Austria 1998/99|
+| [oost98.txt](oost98.txt) | RSSSF | 15 Jun 2022 | 1395 (45699) | **Austria 1997/98** <br> == Austria 1997/98|
+| [oost97.txt](oost97.txt) | RSSSF | 15 Jun 2022 | 3034 (86190) | **Austria 1996/97** <br> == Austria 1996/97|
+| [oost96.txt](oost96.txt) | Ambrosius Kutschera and Karel Stokkermans | 31 Oct 2004 | 1518 (43886) | **Austria 1995/96** <br> == Austria 1995/96|
+| [oost95.txt](oost95.txt) | Ambrosius Kutschera and Karel Stokkermans | 31 Oct 2004 | 719 (17445) | **Austria 1994/95** <br> == Austria 1994/95|
+| [oost94.txt](oost94.txt) | Ambrosius Kutschera and Karel Stokkermans | 31 Oct 2004 | 557 (12240) | **Austria 1993/94** <br> == Austria 1993/94|
+| [oost93.txt](oost93.txt) | Ambrosius Kutschera and Karel Stokkermans | 31 Oct 2004 | 666 (17366) | **Austria 1992/93** <br> == Austria 1992/93|
+| [oost92.txt](oost92.txt) | Ambrosius Kutschera | 16 Apr 2003 | 406 (7958) | **Austria 1991/92** <br> == Austria 1991/92|
+| [oost91.txt](oost91.txt) | Ambrosius Kutschera | 18 May 2003 | 404 (7899) | **Austria 1990/91** <br> == Austria 1990/91|
+| [oost90.txt](oost90.txt) | Ambrosius Kutschera | 5 Jul 2003 | 398 (7719) | **Austria 1989/90** <br> == Austria 1989/90|
+| [oost89.txt](oost89.txt) | Ambrosius Kutschera | 6 Jul 2003 | 419 (7850) | **Austria 1988/89** <br> == Austria 1988/89|
+| [oost88.txt](oost88.txt) | Ambrosius Kutschera | 31 Aug 2003 | 406 (7519) | **Austria 1987/88** <br> == Austria 1987/88|
+| [oost87.txt](oost87.txt) | Ambrosius Kutschera | 31 Aug 2003 | 401 (7658) | **Austria 1986/87** <br> == Austria 1986/87|
+| [oost86.txt](oost86.txt) | Ambrosius Kutschera | 31 Aug 2003 | 393 (7576) | **Austria 1985/86** <br> == Austria 1985/86|
+| [oost85.txt](oost85.txt) | Ambrosius Kutschera | 14 Nov 2003 | 431 (9193) | **Austria 1984/85** <br> == Austria 1984/85|
+| [oost84.txt](oost84.txt) | Ambrosius Kutschera | 14 Nov 2003 | 426 (9147) | **Austria 1983/84** <br> == Austria 1983/84|
+| [oost83.txt](oost83.txt) | Ambrosius Kutschera | 10 Oct 2004 | 414 (8488) | **Austria 1982/83** <br> == Austria 1982/83|
+| [oost82.txt](oost82.txt) | Ambrosius Kutschera | 10 Oct 2004 | 359 (6984) | **Austria 1981/82** <br> == Austria 1981/82|
+| [oost81.txt](oost81.txt) | Ambrosius Kutschera | 10 Oct 2004 | 342 (6866) | **Austria 1980/81** <br> == Austria 1980/81|
+| [oost80.txt](oost80.txt) | Ambrosius Kutschera | 10 Oct 2004 | 371 (7118) | **Austria 1979/80** <br> == Austria 1979/80|
+| [oost79.txt](oost79.txt) | Ambrosius Kutschera | 26 Mar 2005 | 373 (7329) | **Austria 1978/79** <br> == Austria 1978/79|
+| [oost78.txt](oost78.txt) | Ambrosius Kutschera | 23 Apr 2009 | 371 (6775) | **Austria 1977/78** <br> == Austria 1977/78|
+| [oost77.txt](oost77.txt) | Ambrosius Kutschera | 10 Oct 2004 | 362 (6881) | **Austria 1976/77** <br> == Austria 1976/77|
+| [oost76.txt](oost76.txt) | Ambrosius Kutschera | 12 Jul 2005 | 360 (7115) | **Austria 1975/76** <br> == Austria 1975/76|
+| [oost75.txt](oost75.txt) | Ambrosius Kutschera | 12 Jul 2005 | 348 (7450) | **Austria 1974/75** <br> == Austria 1974/75|
 
 

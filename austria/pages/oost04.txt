@@ -1,13 +1,9 @@
-<!--
-  source: https://rsssf.org/tableso/oost04.html
-
-  outline: -/h2/-/-/-/-
-           -/1/-/-/-/-
-    (2) ==      Austria 2003/04
-
-  aname 2: ‹§tirol›,‹§tircup›
- -->
-  
+  <!--
+     title:   Austria 2003/04
+     source:  https://rsssf.org/tableso/oost04.html
+     authors: Andreas Exenberger and Karel Stokkermans
+     updated: 15 Jun 2022
+    -->
 
 
 == Austria 2003/04
@@ -1212,7 +1208,9 @@ FC Gratkorn and SC Rheindorf Altach promoted, FC Lustenau relegated
 Third Level 2003/04
 
 Regionalliga West
-<!-- $table5$ - (Teams from Vorarlberg, Tirol and Salzburg) -->
+(Teams from Vorarlberg, Tirol and Salzburg)
+
+<!-- $table5$ -->
 
 [*] final match (PSV Salzburg - Altach) cancelled and therefore awarded 0-0 without points
 
@@ -1221,14 +1219,18 @@ Relegated to Regionalliga: FC Lustenau
 
 
 Regionalliga Mitte
-<!-- $table6$ - (Teams from Oberösterreich, Steiermark and Kärnten) -->
+(Teams from Oberösterreich, Steiermark and Kärnten)
+
+<!-- $table6$ -->
 
 Promoted to Regionalliga: SC St.Magdalena/Pasching Amateure, SC Kalsdorf, SV Feldkirchen
 Relegated to Regionalliga: BSV Juniors Villach (will not participate in 2004/05 due to dissolution).
 
 
 Regionalliga Ost
-<!-- $table7$ - (Teams from Niederösterreich, Wien and Burgenland) -->
+(Teams from Niederösterreich, Wien and Burgenland)
+
+<!-- $table7$ -->
 
 Promoted to Regionalliga: PSV Team für Wien, SV Würmla, SC Ritzing
 No relegation to Regionalliga (Ost)
@@ -1253,7 +1255,9 @@ No relegation from Regionalliga (West)
 Promoted to Tiroler Liga: SV Absam, SV Kolsass/Weer, SV Innsbruck, SV Landeck
 
 
-<!-- $table10$ - 1.Landesliga Salzburg -->
+1.Landesliga Salzburg
+
+<!-- $table10$ -->
 
 Relegated from Regionalliga (West): USK Anif, PSV/SW Salzburg, SAK 1914
 Promoted to 1.Landesliga: SK Mittersill, FC Oberndorf
@@ -1283,7 +1287,9 @@ Promoted to Landesliga: ATUS Ferlach, FC Möllbrücke, WSG Brückl
 Feeders of Regionalliga Ost
 
 
-<!-- $table14$ - 1.Landesliga Niederösterreich -->
+1.Landesliga Niederösterreich
+
+<!-- $table14$ -->
 
 No relegation from Regionalliga (Ost)
 Promoted to 1.Landesliga: SC Amaliendorf, ASK Schwadorf
@@ -1324,11 +1330,17 @@ Sixth Level
 
 Seventh Level
 
-<!-- $table21$ - 1.Klasse Ost -->
+1.Klasse Ost
 
-<!-- $table22$ - 1.Klasse Mitte -->
+<!-- $table21$ -->
 
-<!-- $table23$ - 1.Klasse West -->
+1.Klasse Mitte
+
+<!-- $table22$ -->
+
+1.Klasse West
+
+<!-- $table23$ -->
 
 [*] FC Landeck has been dissolved after the season
 
@@ -1337,9 +1349,13 @@ SV Schlitters regrouped in 2004/05 from 1.Klasse Mitte to Ost.
 
 Eigth Level
 
-<!-- $table24$ - 2.Klasse Ost -->
+2.Klasse Ost
 
-<!-- $table25$ - 2.Klasse Mitte -->
+<!-- $table24$ -->
+
+2.Klasse Mitte
+
+<!-- $table25$ -->
 
 new team in 2004/05: SV Hall II
 transfered to 2.Klasse West in 2004/05: FC Grinzens, SV Telfs II, SV Scharnitz
@@ -1519,10 +1535,4 @@ FC Kufstein               4-0  SV Kolsass/Weer
 ▪ Final ▪  Jun 10 2004 @ Imst
 SPG Axams/Götzens         3-3  FC Kufstein               (3-0 pen)
 
-
-
-
-
-
-<!-- $about$ -->
 

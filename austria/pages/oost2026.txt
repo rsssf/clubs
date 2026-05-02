@@ -1,15 +1,9 @@
-<!--
-  source: https://rsssf.org/tableso/oost2026.html
-
-  outline: -/h2/-/h4/-/-
-           -/1/-/2/-/-
-    (2) ==      Austria 2025/26
-    (4) ====    Bundesliga  ‹§bund›
-    (4) ====    ÖFB Cup  ‹§cup›
-
-  aname 2: ‹§bund›,‹§cup›
- -->
-  
+  <!--
+     title:   Austria 2025/26
+     source:  https://rsssf.org/tableso/oost2026.html
+     author:  Hans Schöggl
+     updated: 24 Mar 2026
+    -->
 
 
 == Austria 2025/26
@@ -22,7 +16,7 @@
 
 ‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
-▪ Regular Stage ▪
+===== Regular Stage  ‹§reg›
 
 <!-- $table1$ - Final Table -->
 
@@ -247,11 +241,11 @@ Wattens          2-0 GAK
 
 <!-- $table2$ - Final Table -->
 
-▪ Playoff Stage ▪
+===== Playoff Stage  ‹§play›
 
 ‹Championship Playoff, see §champ› | ‹Relegation Playoff, see §releg›
 
-▪ Championship Playoff ▪
+====== Championship Playoff  ‹§champ›
 
 <!-- $table3$ - Table -->
 
@@ -277,7 +271,7 @@ Rapid            4-2 LASK
 NB: teams carry over half their points from the regular stage (listed between
     square brackets), rounded downwards (marked by * where applicable)
 
-▪ Relegation Playoff ▪
+====== Relegation Playoff  ‹§releg›
 
 <!-- $table5$ - Table -->
 
@@ -395,10 +389,4 @@ SV Ried                             1-2 LASK                                (aet
 
 ▪ Final ▪  May 1 @ Klagenfurt
 SCR Altach                           -  LASK
-
-
-
-
-
-<!-- $about$ -->
 

@@ -1,13 +1,9 @@
-<!--
-  source: https://rsssf.org/tableso/oost08.html
-
-  outline: -/h2/-/-/-/-
-           -/1/-/-/-/-
-    (2) ==      Austria 2007/08
-
-  aname 2: ‹§amacup›,‹§salzcup›
- -->
-  
+  <!--
+     title:   Austria 2007/08
+     source:  https://rsssf.org/tableso/oost08.html
+     authors: Andreas Exenberger, Hans Schöggl and Karel Stokkermans
+     updated: 15 Jun 2022
+    -->
 
 
 == Austria 2007/08
@@ -869,10 +865,4 @@ FC Zell/See                   1-1 FC Puch                       (aet, 0-3 pen)
 
 ▪ Final ▪  May 22
 FC Hallein 04                 1-0 FC Puch
-
-
-
-
-
-<!-- $about$ -->
 

@@ -1,13 +1,9 @@
-<!--
-  source: https://rsssf.org/tableso/oost96.html
-
-  outline: -/h2/-/-/-/-
-           -/1/-/-/-/-
-    (2) ==      Austria 1995/96
-
-  aname 1: ‹§tirol›
- -->
-  
+  <!--
+     title:   Austria 1995/96
+     source:  https://rsssf.org/tableso/oost96.html
+     authors: Ambrosius Kutschera and Karel Stokkermans
+     updated: 31 Oct 2004
+    -->
 
 
 == Austria 1995/96
@@ -1012,11 +1008,25 @@ Wiener Liga
 Crosstable:
                 Aus Don For Gas Hel Kai KDA LAC Pos Pra Red Sim Sta Wac Wbg Wfd
 Austria XIII    xxx 0-4 1-3 0-3 0-2 0-4 1-4 0-5 1-1 1-2 2-1 2-2 3-0 1-1 3-0 1-2
-<!-- $table10$ - Donaufeld -->
+Donaufeld       2-1 xxx 3-2 4-0 2-3 3-1 1-1 2-0 7-0 5-2 2-0 4-0 5-0 2-0 2-1 3-0
+Fortuna 05      3-0 0-1 xxx 2-0 4-0 2-0 2-3 1-0 1-2 1-1 3-0 6-3 1-1 C-0 3-0 1-1
+Gaswerk/Strass. 5-0 3-5 4-0 xxx 1-1 1-3 1-2 0-0 3-1 2-0 2-0 2-1 0-0 1-4 0-1 1-2
+Hellas Kagran   7-0 2-0 3-1 5-3 xxx 1-2 4-0 1-1 0-3 1-0 6-1 1-1 2-1 3-1 5-2 2-2
+Kaiser-Ebersdf. 5-4 0-0 1-2 0-2 0-2 xxx 0-2 0-2 3-1 1-3 1-1 0-0 1-1 2-0 1-3 2-1
+KDAG Phoenix    2-2 2-4 1-1 3-2 1-3 4-1 xxx 2-2 1-3 0-4 2-2 2-0 5-1 1-1 2-1 8-2
+LAC Persil      4-0 1-1 1-1 3-3 1-0 4-1 3-2 xxx 2-4 2-1 1-0 3-1 0-1 1-4 0-3 2-0
+Post SV         4-0 3-3 1-1 2-0 1-0 3-0 3-0 1-1 xxx 0-0 1-0 1-2 2-1 0-0 1-0 3-2
+Prater SV       8-1 2-1 4-4 4-1 1-2 5-1 2-1 2-1 1-1 xxx 2-4 3-0 6-1 0-1 2-3 4-0
+Red Star        3-0 3-1 0-4 0-1 0-4 3-1 1-2 5-0 4-3 1-0 xxx 1-2 6-1 3-2 2-2 3-2
+Simmering       4-1 3-1 2-1 1-2 3-1 4-0 1-1 3-0 1-3 3-3 1-2 xxx 0-0 awd 1-0 3-3
+Stadlau         3-2 0-0 3-2 1-2 2-1 3-2 0-3 0-2 1-1 1-1 1-0 4-2 xxx 2-2 0-0 1-1
+Wacker Wien     5-1 3-3 1-2 1-4 1-3 1-1 0-0 awd 1-1 2-0 1-1 2-0 2-2 xxx 2-1 2-1
+Wienerberg/Inz. 3-1 1-1 4-2 3-0 0-5 0-1 5-0 2-2 2-0 1-0 2-1 0-1 1-2 2-0 xxx 2-0
+Wienerfeld      0-2 0-2 3-1 0-5 0-1 4-7 0-0 1-1 0-0 0-7 1-1 2-1 2-0 1-1 2-7 xxx
 
 Note: Wacker-LAC 0-3 awarded; Simmering-Wacker 3-0 awarded; Fortuna-Wacker 12-0.
 
-<!-- $table11$ - Final Table -->
+<!-- $table10$ - Final Table -->
 
 [winners promoted to Ostliga; 3 teams relegated because of relegation
 of Admira/Landhaus and FAC from Ostliga; promoted from Unterliga:
@@ -1049,7 +1059,7 @@ St Veit         0-1 1-2 0-0 2-0 1-2 5-0 2-1 0-1 0-1 2-0 1-1 0-0 0-0 xxx 5-0 4-1
 Wietersdorf     1-1 1-2 0-0 3-1 3-1 1-1 2-0 1-3 2-0 2-1 2-3 2-0 1-1 0-1 xxx 0-0
 ATSV Wolfsberg  0-0 0-3 2-2 1-1 0-0 1-6 1-1 1-7 0-2 1-2 1-4 3-1 1-1 3-0 1-1 xxx
 
-<!-- $table12$ - Final Table -->
+<!-- $table11$ - Final Table -->
 
 [winner promoted to RL Mitte; Bleiburg earned promotion because LUV
  Graz withdrew from the RL Mitte; 1 team relegated]
@@ -1077,7 +1087,7 @@ Voecklamarkt    1-2 1-1 1-0 2-0 0-0 0-2 1-2 0-3 1-3 0-0 0-0 0-0 1-1 xxx
 
 NB: Magdalena-Sattledt 0-3 awd (orig 2-2)
 
-<!-- $table13$ - Final Table -->
+<!-- $table12$ - Final Table -->
 
 [top-3 promoted to RL Mitte; 1 team relegated]
 
@@ -1111,7 +1121,7 @@ Zeltweg         2-1 1-1 1-2 2-0 3-0 3-0 2-0 0-1 2-2 3-1 1-0 2-1 2-2 3-0 1-0 xxx
 
 NB: Poellau-Knittelfeld 3-0 awd (was 1-0).
 
-<!-- $table14$ - Final Table -->
+<!-- $table13$ - Final Table -->
 
 [top-3 promoted to RL Mitte; 1 team will be relegated]
 
@@ -1128,13 +1138,13 @@ Feeders for Regionalliga West
 
 Landesliga Salzburg
 
-<!-- $table15$ - Table at winter break -->
+<!-- $table14$ - Table at winter break -->
 
 [Puch and Salzburg to Westliga in spring season]
 
 Final Table:
 
-<!-- $table16$ - With thanks to Peter Schmitzberger. -->
+<!-- $table15$ - With thanks to Peter Schmitzberger. -->
 
 [First three promoted to extended Westliga in 1996/97;
  in addition, the amateur team of Austria Salzburg will
@@ -1144,13 +1154,17 @@ Landesliga Tirol  ‹§tirol›
 
 With thanks to Andreas Exenberger.
 
-<!-- $table17$ - Autumn 1995 Final Table -->
+Autumn 1995 Final Table
+
+<!-- $table16$ -->
 
 Top three teams play in Regionalliga West in Spring 1996, the rest
 plays the Play off (with half points and full goal scores) in Spring
 1996 to decide the Tyrolean Champion 1995/96.
 
-<!-- $table18$ - Spring 1996 Final Table -->
+Spring 1996 Final Table
+
+<!-- $table17$ -->
 
 
 Promoted: FC Tirol Amateure
@@ -1160,13 +1174,13 @@ Teams total); all other teams are relegated to the Tiroler Liga
 
 Vorarlberg Regionalliga
 
-<!-- $table19$ - Table at winter break -->
+<!-- $table18$ - Table at winter break -->
 
 [Hard, SW Bregenz and Hohenems to Westliga in spring season]
 
 Final Table:
 
-<!-- $table20$ - Thanks to Wolfgang Lorber. -->
+<!-- $table19$ - Thanks to Wolfgang Lorber. -->
 
 [First three promoted to extended Westliga 1996/97]
 
@@ -1189,20 +1203,84 @@ Oberösterreich
 
 5th Level
 
-<!-- $table21$ - 2. Landesliga Ost -->
+2. Landesliga Ost
 
-<!-- $table22$ - 2. Landesliga West -->
+<!-- $table20$ -->
+
+2. Landesliga West
+
+<!-- $table21$ -->
 
 
 6th Level
 
-<!-- $table23$ - Bezirksliga Nord -->
+Bezirksliga Nord
 
-<!-- $table24$ - Bezirksliga Ost -->
+ 1.Steyregg              26 59-22 59  Promoted
+ 2.Gallneukirchen        26 52-19 54
+ 3.Gutau                 26 43-23 52
+ 4.Union Eferding        26 61-30 50
+ 5.Admira                26 38-48 37
+ 6.Alberndorf            26 31-37 35
+ 7.Vorderweissenbach     26 43-39 34
+ 8.Schweinbach           26 41-35 33
+ 9.Schwertberg           26 36-42 33
+10.Aschach/Donau         26 33-42 29
+11.SV Urfahr             26 43-47 27
+12.Sankt Oswald/H.       26 50-66 27
+13.ASKÖ Katsdorf         26 41-74 23  Relegated
+14.Mauthausen            26 28-75 16  Relegated
 
-<!-- $table25$ - Bezirksliga West -->
+Bezirksliga Ost
 
-<!-- $table26$ - Bezirksliga Süd -->
+ 1.Weyer                 26 64-26 60  Promoted
+ 2.Sankt Ulrich          26 39-32 39
+ 3.Bad Hall              26 38-34 38
+ 4.Oedt                  26 29-29 38
+ 5.Hörsching             26 28-31 36
+ 6.Ernsthofen            26 41-45 36
+ 7.Doppl/Hart            26 39-45 36
+ 8.Nettingsdorf          26 36-33 35
+ 9.Kronstorf             26 33-34 34
+10.Ansfelden             26 37-37 33
+11.Asten                 26 41-41 30
+12.Sierning              26 31-45 30
+13.Kematen/P.            26 25-37 28
+14.Wolfern               26 26-38 26  Relegated
+
+Bezirksliga West
+
+ 1.Neumarkt/H.           26 60-28 59  Promoted
+ 2.Natternbach           26 51-15 56
+ 3.Lochen                26 57-33 50
+ 4.Friedburg             26 51-41 35
+ 5.Kopfing               26 30-33 34
+ 6.Gilgenberg            26 42-43 33
+ 7.Antiesenhofen         26 33-39 31
+ 8.Waizenkirchn          26 50-59 31
+ 9.Neuhofen/I.           26 50-62 31
+10.Sankt Martin/I.       26 38-50 31
+11.Neukirchen/W.         26 34-42 29
+12.Peuerbach             26 33-44 27
+13.Taufkirchen/P.        26 40-50 26  ?Relegated?
+14.Palting               26 43-73 23  Relegated
+
+Bezirksliga Süd
+
+ 1.ASKÖ Stadl-Paura      26 62-28 51  Promoted
+ 2.Viktoria Marchtrenk   26 57-32 49
+ 3.ASKÖ Vöcklabruck      26 36-40 42
+ 4.Mondsee               26 37-25 39
+ 5.Steyrermühl           26 41-36 38
+ 6.SV Vöcklabruck        26 34-31 38
+ 7.Vorchdorf             26 57-47 36
+ 8.Gschwandt             26 37-39 33
+ 9.Frankenburg           26 36-37 31
+10.Frankenmarkt          26 35-45 31
+11.Oberwang              26 37-45 29
+12.Pichl                 26 39-49 29
+13.Eberstalzell          26 25-56 29
+14.Kammer                26 34-57 26  Relegated
 
 
 Steiermark
@@ -1210,66 +1288,90 @@ Steiermark
 
 5th Level
 
-<!-- $table27$ - Oberliga Süd-Ost -->
+<!-- $table22$ - Oberliga Süd-Ost -->
 
-<!-- $table28$ - Oberliga Nord -->
+<!-- $table23$ - Oberliga Nord -->
 
-<!-- $table29$ - Oberliga Mitte-West -->
+<!-- $table24$ - Oberliga Mitte-West -->
 
 
 6th Level
 
-<!-- $table30$ - Unterliga Süd -->
+<!-- $table25$ - Unterliga Süd -->
 
-<!-- $table31$ - Unterliga Ost -->
+<!-- $table26$ - Unterliga Ost -->
 
-<!-- $table32$ - Unterliga West -->
+<!-- $table27$ - Unterliga West -->
 
-<!-- $table33$ - Unterliga Mitte -->
+<!-- $table28$ - Unterliga Mitte -->
 
-<!-- $table34$ - Gebietsliga Mur -->
+<!-- $table29$ - Gebietsliga Mur -->
 
-<!-- $table35$ - Gebietsliga Mürz -->
+<!-- $table30$ - Gebietsliga Mürz -->
 
-<!-- $table36$ - Gebietsliga Enns -->
+<!-- $table31$ - Gebietsliga Enns -->
 
 
 7th Level
 
-<!-- $table37$ - Gebietsliga Süd -->
+<!-- $table32$ - Gebietsliga Süd -->
 
-<!-- $table38$ - Gebietsliga Ost -->
+<!-- $table33$ - Gebietsliga Ost -->
 
-<!-- $table39$ - Gebietsliga West -->
+<!-- $table34$ - Gebietsliga West -->
 
-<!-- $table40$ - Gebietsliga Mitte -->
+<!-- $table35$ - Gebietsliga Mitte -->
 
-<!-- $table41$ - 1. Klasse Enns -->
+1. Klasse Enns
 
-<!-- $table42$ - 1. Klasse Mürz -->
+<!-- $table36$ -->
 
-<!-- $table43$ - 1. Klasse Mur -->
+1. Klasse Mürz
 
-<!-- $table44$ - 1. Klasse Palten -->
+<!-- $table37$ -->
+
+1. Klasse Mur
+
+<!-- $table38$ -->
+
+1. Klasse Palten
+
+<!-- $table39$ -->
 
 
 8th Level
 
-<!-- $table45$ - 1. Klasse Süd A -->
+1. Klasse Süd A
 
-<!-- $table46$ - 1. Klasse Süd B -->
+<!-- $table40$ -->
 
-<!-- $table47$ - 1. Klasse Ost A -->
+1. Klasse Süd B
 
-<!-- $table48$ - 1. Klasse Ost B -->
+<!-- $table41$ -->
 
-<!-- $table49$ - 1. Klasse West A -->
+1. Klasse Ost A
 
-<!-- $table50$ - 1. Klasse West B -->
+<!-- $table42$ -->
 
-<!-- $table51$ - 1. Klasse Mitte A -->
+1. Klasse Ost B
 
-<!-- $table52$ - 1. Klasse Mitte B -->
+<!-- $table43$ -->
+
+1. Klasse West A
+
+<!-- $table44$ -->
+
+1. Klasse West B
+
+<!-- $table45$ -->
+
+1. Klasse Mitte A
+
+<!-- $table46$ -->
+
+1. Klasse Mitte B
+
+<!-- $table47$ -->
 
 
 Tirol
@@ -1277,7 +1379,9 @@ Tirol
 
 Thanks to Andreas Exenberger.
 
-<!-- $table53$ - 5th Level (Tiroler Liga) -->
+5th Level (Tiroler Liga)
+
+<!-- $table48$ -->
 
 Promoted: SV Thiersee, SV Kematen
 Relegated: SV Fügen, SV Axams, Innsbrucker SK, FC Vils
@@ -1287,10 +1391,10 @@ their second team) The league is extended to 16 teams
 6th Level
 
 Landesliga Ost
-<!-- $table54$ - Final Table -->
+<!-- $table49$ - Final Table -->
 
 Landesliga West
-<!-- $table55$ - Final Table -->
+<!-- $table50$ - Final Table -->
 
 Promoted: SK Hippach, SV Aldrans
 Relegated: FC Kitzbühel, SV Volders, IAC, SV Landeck
@@ -1299,10 +1403,10 @@ Both leagues are extended to 14 teams
 7th Level
 
 Gebietsliga Ost
-<!-- $table56$ - Final Table -->
+<!-- $table51$ - Final Table -->
 
 Gebietsliga West
-<!-- $table57$ - Final Table -->
+<!-- $table52$ - Final Table -->
 
 Promoted: FC Aschau im Zillertal, SV Rinn, TS Stams
 No Relegation from Landesliga
@@ -1310,13 +1414,13 @@ No Relegation from Landesliga
 8th Level
 
 1.Klasse Ost
-<!-- $table58$ - Final Table -->
+<!-- $table53$ - Final Table -->
 
 1.Klasse Mitte
-<!-- $table59$ - Final Table -->
+<!-- $table54$ - Final Table -->
 
 1.Klasse West
-<!-- $table60$ - Final Table -->
+<!-- $table55$ - Final Table -->
 
 Promoted: SV Wörgl II, SV Lohbach/Kranebitten, FC Fließ
 Relegated: FC Grinzens (because of worst points in Gebietsliga)
@@ -1324,13 +1428,13 @@ Relegated: FC Grinzens (because of worst points in Gebietsliga)
 9th Level
 
 2.Klasse Ost
-<!-- $table61$ - Final Table -->
+<!-- $table56$ - Final Table -->
 
 2.Klasse Mitte
-<!-- $table62$ - Final Table -->
+<!-- $table57$ - Final Table -->
 
 2.Klasse West
-<!-- $table63$ - Final Table -->
+<!-- $table58$ - Final Table -->
 
 Dissolved teams: FC Kitzbühel II, SV Fügen II, SV Volders II, SV
 Tulfes FC Achensee and SV Achenkirch merge to SPG Achensee Relegated:
@@ -1340,7 +1444,9 @@ FC Tux (because of worst points in 1.Klasse)
 Vorarlberg
 ==========
 
-<!-- $table64$ - 5th Level (Vorarlbergliga) -->
+5th Level (Vorarlbergliga)
+
+<!-- $table59$ -->
 
 Frastanz, Dornbirner SV, Koblach and Götzis qualified for new
 Vorarlbergliga.  The other 10 will play Landesliga 1996/97, together
@@ -1350,7 +1456,9 @@ Brederis, Meiningen).
 [Apparently Göfis took the place of FC Schruns and obtained
 promotion to the Vorarlbergliga as well.]
 
-<!-- $table65$ - 6th level (1.Landesklasse) -->
+6th level (1.Landesklasse)
+
+<!-- $table60$ -->
 
 
 Wien
@@ -1358,28 +1466,38 @@ Wien
 
 Fifth Level
 
-<!-- $table66$ - Unterliga A -->
+<!-- $table61$ - Unterliga A -->
 
-<!-- $table67$ - Unterliga B -->
+<!-- $table62$ - Unterliga B -->
 
 
 Sixth Level
 
-<!-- $table68$ - 1. Klasse A -->
+1. Klasse A
 
-<!-- $table69$ - 1. Klasse B -->
+<!-- $table63$ -->
+
+1. Klasse B
+
+<!-- $table64$ -->
 
 
 Seventh Level
 
-<!-- $table70$ - 2. Klasse A -->
+2. Klasse A
 
-<!-- $table71$ - 2. Klasse B -->
+<!-- $table65$ -->
+
+2. Klasse B
+
+<!-- $table66$ -->
 
 
 Eighth Level
 
-<!-- $table72$ - 3. Klasse -->
+3. Klasse
+
+<!-- $table67$ -->
 
 ‹1994/95, see page oost95›.
 
@@ -1397,10 +1515,4 @@ Eighth Level
 
 
 
-
-
-
-
-
-<!-- $about$ -->
 

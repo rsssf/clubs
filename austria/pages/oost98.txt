@@ -1,13 +1,9 @@
-<!--
-  source: https://rsssf.org/tableso/oost98.html
-
-  outline: -/h2/-/-/-/-
-           -/1/-/-/-/-
-    (2) ==      Austria 1997/98
-
-  aname 2: ‹§tirol›,‹§tircup›
- -->
-  
+  <!--
+     title:   Austria 1997/98
+     source:  https://rsssf.org/tableso/oost98.html
+     author:  RSSSF
+     updated: 15 Jun 2022
+    -->
 
 
 == Austria 1997/98
@@ -1369,29 +1365,31 @@ Promotion: BW Feldkirch, FC Wolfurt, Rätia Bludenz, FC Schwarzach, SC
 Röthis, SV Lochau (Brederis and Luger rejected promotion)
 Elected in Landesliga: SW Bregenz Amateure
 
-<!-- $table24$ - 1.Landesklasse -->
+1.Landesklasse
+
+<!-- $table24$ -->
 
 Promotion: SC Fußach, FC Hörbranz, FC Klostertal, FC Thüringen
 
-<!-- $table25$ - 2.Landesklasse -->
+2.Landesklasse
+
+<!-- $table25$ -->
 
 Promotion: FC Nüziders, FC Sulzberg, FC Hard 1b, FC Schwarzenberg
 Elected in 2.Landesklasse: FC Lustenau 1b, FC Lauterach 1b
 
-<!-- $table26$ - 3.Landesklasse -->
+3.Landesklasse
+
+<!-- $table26$ -->
 
 Promotion: SC Montafon Vandans, FC Schruns
 Elected in 3.Landesklasse: SCR Altach 1b, SC Göfis 1b, Austria Lustenau 1b
 
 1b-Liga
-<!-- $table27$ - Standings (26-04) -->
+Standings (26-04)
+
+<!-- $table27$ -->
 
 [Top-3 finished: 1. FC Lustenau 1b; 2. SW Bregenz Amateure; 3. FC Lauterach 1b]
 
-
-
-
-
-
-<!-- $about$ -->
 

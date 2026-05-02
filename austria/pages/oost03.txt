@@ -1,13 +1,9 @@
-<!--
-  source: https://rsssf.org/tableso/oost03.html
-
-  outline: -/h2/-/-/-/-
-           -/1/-/-/-/-
-    (2) ==      Austria 2002/03
-
-  aname 2: ‹§tirol›,‹§tircup›
- -->
-  
+  <!--
+     title:   Austria 2002/03
+     source:  https://rsssf.org/tableso/oost03.html
+     authors: Andreas Exenberger and Karel Stokkermans
+     updated: 15 Jun 2022
+    -->
 
 
 == Austria 2002/03
@@ -1246,7 +1242,9 @@ FEEDERS OF REGIONALLIGA OST
 
 NIEDERÖSTERREICH
 
-<!-- $table14$ - 1.LANDESLIGA -->
+1.LANDESLIGA
+
+<!-- $table14$ -->
 
 Relegated from Regionalliga: SV Hundsheim
 Promoted from Oberliga: SV Stockerau, FC Haitzendorf
@@ -1334,13 +1332,17 @@ Promoted from 1.Klasse: SV Völs, SK Rietz, SPG Pitztal, TSU Tarrenz
 SEVENTH LEVEL
 
 
-<!-- $table21$ - 1.KLASSE OST -->
+1.KLASSE OST
+
+<!-- $table21$ -->
 
 
 Relegated from Gebietsliga: SPG Hopfgarten/Itter, SV Angerberg
 Promoted from 2.Klasse: SV Radfeld, FC Wildschönau
 
-<!-- $table22$ - 1.KLASSE MITTE -->
+1.KLASSE MITTE
+
+<!-- $table22$ -->
 
 
 Relegated from Gebietsliga: SV Tulfes, SK Seefeld, ESV Hatting
@@ -1355,14 +1357,17 @@ Promoted from 2.Klasse: FC Landeck, SV Ried im Oberinntal
 EIGHT LEVEL
 
 
-<!-- $table24$ - 2.KLASSE OST -->
+2.KLASSE OST
+<!-- $table24$ -->
 
 Relegated from 1.Klasse: SC Going, SV Bad Häring
 New Team: SV Fügen/Uderns II
 Renamed: FC Reith bei Kitzbühel changes to SPG Kitzbühel/Reith II
 Transferred to new 2.Klasse Mitte: SV Sistrans, SV Achenkirch
 
-<!-- $table25$ - 2.KLASSE WEST -->
+2.KLASSE WEST
+
+<!-- $table25$ -->
 
 
 Relegated from 1.Klasse: FC Stanzach, SV Karres
@@ -1375,10 +1380,4 @@ New Team in new 2.Klasse Mitte: FC Achensee, SC Schwaz II, WSG Wattens II,
 
 
 
-
-
-
-
-
-<!-- $about$ -->
 

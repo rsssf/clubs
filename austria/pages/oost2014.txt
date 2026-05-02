@@ -1,19 +1,9 @@
-<!--
-  source: https://rsssf.org/tableso/oost2014.html
-
-  outline: -/h2/-/h4/-/-
-           -/1/-/6/-/-
-    (2) ==      Austria 2013/14
-    (4) ====    Bundesliga  ‹§bund›
-    (4) ====    ÖFB Cup  ‹§cup›
-    (4) ====    1. Liga (Second Level)  ‹§1liga›
-    (4) ====    Regionalliga  ‹§regliga›
-    (4) ====    SFV (Salzburg) Cup 2013/14  ‹§salzcup›
-    (4) ====    Woche Murauer Cup 2013/14  ‹§steicup›
-
-  aname 9: ‹§bund›,‹§cup›,‹§1liga›,‹§regliga›,‹§regwest›,‹§regmitte›,‹§regost›,‹§salzcup›,‹§steicup›
- -->
-  
+  <!--
+     title:   Austria 2013/14
+     source:  https://rsssf.org/tableso/oost2014.html
+     authors: Hans Schöggl and Karel Stokkermans
+     updated: 7 Mar 2023
+    -->
 
 
 == Austria 2013/14
@@ -469,7 +459,7 @@ NB: Kapfenberg and Vienna were refused a license for 2014/15;
     Kapfenberg successfully appealed
 
 
-▪ Promotion/Relegation Playoff ▪
+===== Promotion/Relegation Playoff  ‹§2prorel›
 
 Participants:
 SC/ESV Parndorf (1.Liga)
@@ -495,19 +485,19 @@ NB: Parndorf relegated, LASK and FAC promoted
 
 ‹Regionalliga West, see §regwest› | ‹Regionalliga Mitte, see §regmitte› | ‹Regionalliga Ost, see §regost›
 
-Regionalliga West  ‹§regwest›
+===== Regionalliga West  ‹§regwest›
 
 <!-- $table4$ - Final Table -->
 
 Promoted: FC Pinzgau Saalfelden (Salzburg), FC Kitzbühel (Tirol), FC Bizau (Vorarlberg)
 
-Regionalliga Mitte  ‹§regmitte›
+===== Regionalliga Mitte  ‹§regmitte›
 
 <!-- $table5$ - Final Table -->
 
 Promoted: ATSV Wolfsberg (Kärnten), Union Gurten (Oberösterreich), SC Weiz (Steiermark)
 
-Regionalliga Ost  ‹§regost›
+===== Regionalliga Ost  ‹§regost›
 
 <!-- $table6$ - Final Table -->
 
@@ -578,10 +568,4 @@ FC Piberstein Lankowitz       3-1 SV Frohnleiten
 
 ▪ Final ▪  Jun 9
 FC Zeltweg                    1-4 FC Piberstein Lankowitz
-
-
-
-
-
-<!-- $about$ -->
 

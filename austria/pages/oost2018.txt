@@ -1,19 +1,9 @@
-<!--
-  source: https://rsssf.org/tableso/oost2018.html
-
-  outline: -/h2/-/h4/-/-
-           -/1/-/6/-/-
-    (2) ==      Austria 2017/18
-    (4) ====    Bundesliga  ‹§bund›
-    (4) ====    ÖFB Cup  ‹§cup›
-    (4) ====    1. Liga (Second Level)  ‹§1liga›
-    (4) ====    Regionalliga  ‹§regliga›
-    (4) ====    SFV (Salzburg) Cup 2017/18  ‹§salzcup›
-    (4) ====    Woche Cup 2017/18  ‹§steicup›
-
-  aname 9: ‹§bund›,‹§cup›,‹§1liga›,‹§regliga›,‹§regwest›,‹§regmitte›,‹§regost›,‹§salzcup›,‹§steicup›
- -->
-  
+  <!--
+     title:   Austria 2017/18
+     source:  https://rsssf.org/tableso/oost2018.html
+     authors: Hans Schöggl and Karel Stokkermans
+     updated: 7 Mar 2023
+    -->
 
 
 == Austria 2017/18
@@ -354,7 +344,7 @@ Mattersburg      2-1 LASK
 
 NB: top level extended to 12 clubs for 2018/19
 
-▪ Promotion/Relegation Playoff ▪
+===== Promotion/Relegation Playoff  ‹§prorel›
 
 ▪ First Leg ▪  May 31
 Wiener Neustadt  0-2 Sankt Pölten
@@ -481,14 +471,14 @@ NB: no relegation as second level is extended to 16 clubs for 2018/19.
 
 ‹Regionalliga West, see §regwest› | ‹Regionalliga Mitte, see §regmitte› | ‹Regionalliga Ost, see §regost›
 
-Regionalliga West  ‹§regwest›
+===== Regionalliga West  ‹§regwest›
 
 <!-- $table5$ - Final Table -->
 
 NB: Wacker II is the only team from the league to have expressed an interest in promotion
     and obtained a license for the second level
 
-Regionalliga Mitte  ‹§regmitte›
+===== Regionalliga Mitte  ‹§regmitte›
 
 <!-- $table6$ - Final Table -->
 
@@ -498,7 +488,7 @@ NB: Lafnitz, Vorwärts Steyr, Juniors and Austria Klagenfurt are the four best p
     to have expressed an interest in promotion and obtained a license for the second level;
     no more than four teams from one regional league were allowed promotion
 
-Regionalliga Ost  ‹§regost›
+===== Regionalliga Ost  ‹§regost›
 
 <!-- $table7$ - Final Table -->
 
@@ -580,10 +570,4 @@ FC Schladming                 2-1 Grazer AK 1902
 ▪ Final ▪  May 30
 FC Schladming                 0-1 USV Mettersdorf
 
-
-
-
-
-
-<!-- $about$ -->
 

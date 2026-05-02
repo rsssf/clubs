@@ -1,18 +1,9 @@
-<!--
-  source: https://rsssf.org/tableso/oost2020.html
-
-  outline: -/h2/-/h4/-/-
-           -/1/-/5/-/-
-    (2) ==      Austria 2019/20
-    (4) ====    Bundesliga  ‹§bund›
-    (4) ====    ÖFB Cup  ‹§cup›
-    (4) ====    2. Liga (Second Level)  ‹§1liga›
-    (4) ====    SFV (Salzburg) Cup 2019/20  ‹§salzcup›
-    (4) ====    Woche Cup 2019/20  ‹§steicup›
-
-  aname 5: ‹§bund›,‹§cup›,‹§1liga›,‹§salzcup›,‹§steicup›
- -->
-  
+  <!--
+     title:   Austria 2019/20
+     source:  https://rsssf.org/tableso/oost2020.html
+     authors: Hans Schöggl and Karel Stokkermans
+     updated: 7 Mar 2023
+    -->
 
 
 == Austria 2019/20
@@ -25,7 +16,7 @@
 
 ‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
-▪ Regular Stage ▪
+===== Regular Stage  ‹§reg›
 
 <!-- $table1$ - Final Table -->
 
@@ -257,11 +248,11 @@ Mattersburg      0-1 LASK
 
 [*] WSG Wattens were renamed WSG Tirol and play home matches in Innsbruck
 
-▪ Playoff Stage ▪
+===== Playoff Stage  ‹§play›
 
 ‹Championship Playoff, see §champ› | ‹Relegation Playoff, see §releg›
 
-▪ Championship Playoff ▪
+====== Championship Playoff  ‹§champ›
 
 <!-- $table3$ - Final Table -->
 
@@ -333,7 +324,7 @@ NB: LASK were deducted 4 points for training as a group at a time this
 NB: teams carry over half their points from the regular stage (listed between
     square brackets), rounded downwards (marked by * where applicable)
 
-▪ Europa League Playoff ▪
+===== Europa League Playoff  ‹§eurpo›
 
 ▪ Semifinal ▪  Jul 8
 Austria          1-0 Altach
@@ -346,7 +337,7 @@ Austria          2-3 Hartberg
 ▪ Second Leg ▪  Jul 15
 Hartberg         0-0 Austria
 
-▪ Relegation Playoff ▪
+====== Relegation Playoff  ‹§releg›
 
 <!-- $table5$ - Final Table -->
 
@@ -589,10 +580,4 @@ ASK Voitsberg                  -  Kaindorf/St. Peter
 Semifinals [May 5 - cancelled]
 
 Final [May 21 - cancelled]
-
-
-
-
-
-<!-- $about$ -->
 

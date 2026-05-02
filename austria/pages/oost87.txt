@@ -1,11 +1,9 @@
-<!--
-  source: https://rsssf.org/tableso/oost87.html
-
-  outline: -/h2/-/-/-/-
-           -/1/-/-/-/-
-    (2) ==      Austria 1986/87
- -->
-  
+  <!--
+     title:   Austria 1986/87
+     source:  https://rsssf.org/tableso/oost87.html
+     author:  Ambrosius Kutschera
+     updated: 31 Aug 2003
+    -->
 
 
 == Austria 1986/87
@@ -400,10 +398,4 @@ USV Salzburg (West)
 
 
 
-
-
-
-
-
-<!-- $about$ -->
 

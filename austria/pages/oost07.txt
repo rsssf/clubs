@@ -1,13 +1,9 @@
-<!--
-  source: https://rsssf.org/tableso/oost07.html
-
-  outline: -/h2/-/-/-/-
-           -/1/-/-/-/-
-    (2) ==      Austria 2006/07
-
-  aname 1: ‹§salzcup›
- -->
-  
+  <!--
+     title:   Austria 2006/07
+     source:  https://rsssf.org/tableso/oost07.html
+     authors: Andreas Exenberger, Hans Schöggl and Karel Stokkermans
+     updated: 15 Jun 2022
+    -->
 
 
 == Austria 2006/07
@@ -993,10 +989,4 @@ FC Hallein 04                 1-1 USK Anif                      (aet, 4-5 pen)
 USK Anif                      0-0 SV Grödig                     (2-4 pen)
 
 
-
-
-
-
-
-<!-- $about$ -->
 

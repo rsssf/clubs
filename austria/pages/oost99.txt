@@ -1,13 +1,9 @@
-<!--
-  source: https://rsssf.org/tableso/oost99.html
-
-  outline: -/h2/-/-/-/-
-           -/1/-/-/-/-
-    (2) ==      Austria 1998/99
-
-  aname 2: ‹§tircup›,‹§tirol›
- -->
-  
+  <!--
+     title:   Austria 1998/99
+     source:  https://rsssf.org/tableso/oost99.html
+     author:  RSSSF
+     updated: 15 Jun 2022
+    -->
 
 
 == Austria 1998/99
@@ -1082,26 +1078,44 @@ DSG Ferlach 10:0 Fürnitz (4:0, 6:0)
 Sixth Level
 ===========
 
-<!-- $table11$ - 1. Klasse A -->
+1. Klasse A:
 
-<!-- $table12$ - 1. Klasse B -->
+<!-- $table11$ -->
 
-<!-- $table13$ - 1. Klasse C -->
+1. Klasse B:
 
-<!-- $table14$ - 1. Klasse D -->
+<!-- $table12$ -->
+
+1. Klasse C:
+
+<!-- $table13$ -->
+
+1. Klasse D:
+
+<!-- $table14$ -->
 
 Seventh Level
 =============
 
-<!-- $table15$ - 2. Klasse A -->
+2. Klasse A:
 
-<!-- $table16$ - 2. Klasse B -->
+<!-- $table15$ -->
 
-<!-- $table17$ - 2. Klasse C -->
+2. Klasse B:
 
-<!-- $table18$ - 2. Klasse D -->
+<!-- $table16$ -->
 
-<!-- $table19$ - 2. Klasse E -->
+2. Klasse C:
+
+<!-- $table17$ -->
+
+2. Klasse D:
+
+<!-- $table18$ -->
+
+2. Klasse E:
+
+<!-- $table19$ -->
 
 
 Oberösterreich
@@ -1115,9 +1129,13 @@ Fourth Level
 Fifth Level
 ===========
 
-<!-- $table21$ - 2. Landesliga Ost -->
+2. Landesliga Ost
 
-<!-- $table22$ - 2. Landesliga West -->
+<!-- $table21$ -->
+
+2. Landesliga West
+
+<!-- $table22$ -->
 
 Sixth Level
 ===========
@@ -1175,27 +1193,43 @@ Fourth Level
 Fifth Level
 ===========
 
-<!-- $table28$ - 2. Landesliga Nord -->
+2. Landesliga Nord
 
-<!-- $table29$ - 2. Landesliga Süd -->
+<!-- $table28$ -->
+
+2. Landesliga Süd
+
+<!-- $table29$ -->
 
 Sixth Level
 ===========
 
-<!-- $table30$ - 1. Klasse Nord -->
+1. Klasse Nord
 
-<!-- $table31$ - 1. Klasse Süd -->
+<!-- $table30$ -->
+
+1. Klasse Süd
+
+<!-- $table31$ -->
 
 Seventh Level
 =============
 
-<!-- $table32$ - 2. Klasse Nord A -->
+ 2. Klasse Nord A
 
-<!-- $table33$ - 2. Klasse Nord B -->
+<!-- $table32$ -->
 
-<!-- $table34$ - 2. Klasse Süd -->
+ 2. Klasse Nord B
 
-<!-- $table35$ - 2. Klasse Südwest -->
+<!-- $table33$ -->
+
+ 2. Klasse Süd
+
+<!-- $table34$ -->
+
+ 2. Klasse Südwest
+
+<!-- $table35$ -->
 
 Steiermark
 ==========
@@ -1248,31 +1282,57 @@ Seventh Level
 Eighth Level
 ============
 
-<!-- $table51$ - 1. Klasse Süd A -->
+1. Klasse Süd A
 
-<!-- $table52$ - 1. Klasse Süd B -->
+<!-- $table51$ -->
 
-<!-- $table53$ - 1. Klasse Ost A -->
+1. Klasse Süd B
 
-<!-- $table54$ - 1. Klasse Ost B -->
+<!-- $table52$ -->
 
-<!-- $table55$ - 1. Klasse Mitte A -->
+1. Klasse Ost A
 
-<!-- $table56$ - 1. Klasse Mitte B -->
+<!-- $table53$ -->
 
-<!-- $table57$ - 1. Klasse West A -->
+1. Klasse Ost B
 
-<!-- $table58$ - 1. Klasse West B -->
+<!-- $table54$ -->
 
-<!-- $table59$ - 1. Klasse Mur -->
+1. Klasse Mitte A
 
-<!-- $table60$ - 1. Klasse Mürz A -->
+<!-- $table55$ -->
 
-<!-- $table61$ - 1. Klasse Mürz B -->
+1. Klasse Mitte B
 
-<!-- $table62$ - 1. Klasse Enns -->
+<!-- $table56$ -->
 
-<!-- $table63$ - 1. Klasse Palten/Liesing -->
+1. Klasse West A
+
+<!-- $table57$ -->
+
+1. Klasse West B
+
+<!-- $table58$ -->
+
+1. Klasse Mur
+
+<!-- $table59$ -->
+
+1. Klasse Mürz A
+
+<!-- $table60$ -->
+
+1. Klasse Mürz B
+
+<!-- $table61$ -->
+
+1. Klasse Enns
+
+<!-- $table62$ -->
+
+1. Klasse Palten/Liesing
+
+<!-- $table63$ -->
 
 
 Tirol
@@ -1553,27 +1613,31 @@ Fifth Level
 Sixth Level
 ===========
 
-<!-- $table83$ - 1. Klasse A -->
+1. Klasse A
 
-<!-- $table84$ - 1. Klasse B -->
+<!-- $table83$ -->
+
+1. Klasse B
+
+<!-- $table84$ -->
 
 Seventh Level
 =============
 
-<!-- $table85$ - 2. Klasse A -->
+2. Klasse A
 
-<!-- $table86$ - 2. Klasse B -->
+<!-- $table85$ -->
+
+2. Klasse B
+
+<!-- $table86$ -->
 
 Eighth Level
 =============
 
-<!-- $table87$ - 3. Klasse -->
+3. Klasse
+
+<!-- $table87$ -->
 
 
-
-
-
-
-
-<!-- $about$ -->
 
