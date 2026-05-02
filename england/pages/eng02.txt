@@ -1,15 +1,16 @@
   <!--
-     source: https://rsssf.org/tablese/eng02.html
+     title:   England 2001/02
+     source:  https://rsssf.org/tablese/eng02.html
+     authors: Ian King, Daniel Dalence Garcia and Matthew Perry
+     updated: 15 Feb 2006
     -->
-  
 
 
 == England 2001/02
 
 Premiership
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Aug 18 _
@@ -988,8 +989,7 @@ Arsenal          4-3 Everton
     (Bergkamp 4, Henry 33,72 Jeffers 83, -
     Carsley 20, Radzinski 31, Watson 89)                         Att: 38,254
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 
 FA Cup 2001/02
@@ -1361,8 +1361,7 @@ Blackburn        2-1 Tottenham
 
 First Division
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Aug 11 _
@@ -2153,8 +2152,7 @@ Watford          2-3 Gillingham
 West Bromwich    2-0 Crystal Palace
 Wimbledon        0-1 Barnsley
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Final Table -->
 
 
 ▪ Promotion Playoffs ▪
@@ -2179,8 +2177,7 @@ Birmingham City promoted.
 
 Nationwide Football League Division 2
 
-<!-- $table5$ -->
-
+<!-- $table5$ - Table -->
 
 Top 2 Promoted to Division 1; 3-6 into Play-Offs (Winner also Promoted)
 Bottom 4 Relegated to Division 3
@@ -2924,8 +2921,7 @@ Swindon        1-1 Wycombe [Heywood 56; Devine 45 - 7,492]
 Tranmere       0-1 Cardiff [Croft 72 - 8,375]
 Wrexham        2-1 Bournemouth [Morrell 72,Edwards 89; Fletcher 7 - 4,289]
 
-<!-- $table6$ -->
-
+<!-- $table6$ - Table -->
 
 Top 2 Promoted to Division 1; 3-6 into Play-Offs (Winner also Promoted)
 Bottom 4 Relegated to Division 3
@@ -2950,8 +2946,7 @@ Stoke City promoted
 
 Third Division
 
-<!-- $table7$ -->
-
+<!-- $table7$ - Final Table -->
 
 
 ▪ Promotion Playoffs ▪
@@ -2974,8 +2969,7 @@ Fifth Level
 
 Football Conference
 
-<!-- $table8$ -->
-
+<!-- $table8$ - Final Table -->
 
 Hayes relegated to Ryman League
 Stalybridge Celtic relegated to UniBond League
@@ -2985,8 +2979,7 @@ Sixth Level
 
 Dr. Martens League
 
-<!-- $table9$ -->
-
+<!-- $table9$ - Final Table -->
 
 Promoted to Conference: Kettering Town
 Relegated to Western Division: Merthyr Tydfil
@@ -2996,8 +2989,7 @@ Promoted from Eastern Division: Hastings United and Grantham Town
 
 UniBond League
 
-<!-- $table10$ -->
-
+<!-- $table10$ - Final Table -->
 
 Promoted to Conference: Burton Albion
 Relegated to Division One: Bamber Bridge and Bishop United
@@ -3006,8 +2998,7 @@ Emley renamed to Wakefield & Emley
 
 Ryman League
 
-<!-- $table11$ -->
-
+<!-- $table11$ - Final Table -->
 
 Promoted to Conference: Gravesend & Northfleet
 Relegated to Division One South: Croydon
@@ -3030,10 +3021,4 @@ Promoted from Division One: Ford United, Bishop's Stortford and
 
 ‹list of league cup winners, see page engleagcuphist›.
 
-
-
-
-
-
-<!-- $about$ -->
 

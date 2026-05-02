@@ -1,15 +1,16 @@
   <!--
-     source: https://rsssf.org/tablese/eng07.html
+     title:   England 2006/07
+     source:  https://rsssf.org/tablese/eng07.html
+     author:  Ian King
+     updated: 22 Aug 2008
     -->
-  
 
 
 == England 2006/07
 
 Premiership
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Aug 19 _
@@ -611,7 +612,7 @@ Portsmouth        0-2 Chelsea
 Sheffield United  1-1 Everton
 Watford           2-2 Charlton Athletic
 _ Mar 4 _
-Bolton Wanderers  1-2 Blackburn  Rovers
+Bolton Wanderers  1-2 Blackburn   Rovers
 West Ham United   3-4 Tottenham Hotspur
 
 ▪ Round 30 ▪
@@ -745,8 +746,7 @@ Manchester United 0-1 West Ham United
 Blackburn Rovers  3-3 Reading
 Tottenham Hotspur 2-1 Manchester City
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 
 
@@ -1474,8 +1474,7 @@ Second Level 2006/07
 
 Championship
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 NB: Leeds United 10 points deducted for financial problems
 
@@ -1820,7 +1819,7 @@ Ipswich Town               3-1 Norwich City
 _ Nov 24 _
 Wolverhampton Wanderers    1-1 Sunderland
 _ Nov 25 _
-Queens Park Rangers        0-1 Coventry  City
+Queens Park Rangers        0-1 Coventry   City
 Preston North End          0-0 Crystal Palace
 Plymouth Argyle            1-2 Leeds United
 Norwich City               1-1 Hull City
@@ -2273,8 +2272,7 @@ Sheffield Wednesday        3-2 Norwich City
 West Bromwich Albion       7-0 Barnsley
 Preston North End          1-0 Birmingham City
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Final Table -->
 
 NB: Leeds United 10 points deducted for financial problems
 
@@ -2303,8 +2301,7 @@ Third Level 2006/07
 
 League Division One
 
-<!-- $table5$ -->
-
+<!-- $table5$ - Final Table -->
 
 NB: Rotherham United 10 points deducted for financial problems
 
@@ -3069,8 +3066,7 @@ Oldham Athletic         1-0 Chesterfield
 Gillingham              0-2 Yeovil Town
 Doncaster Rovers        2-2 Northampton Town
 
-<!-- $table6$ -->
-
+<!-- $table6$ - Final Table -->
 
 NB: Rotherham United 10 points deducted for financial problems
 
@@ -3099,8 +3095,7 @@ Fourth Level 2006/07
 
 League Division Two
 
-<!-- $table7$ -->
-
+<!-- $table7$ - Final Table -->
 
 ▪ Round 1 ▪  Aug 5
 Barnet                  0-1 Torquay United
@@ -3865,8 +3860,7 @@ Torquay United          0-0 Hereford United
 Wrexham                 3-1 Boston United
 Bury                    1-1 Mansfield Town
 
-<!-- $table8$ -->
-
+<!-- $table8$ - Final Table -->
 
 ▪ Promotion Playoffs ▪
 
@@ -3894,8 +3888,7 @@ Fifth Level 2006/07
 
 Conference (Fifth Level)
 
-<!-- $table9$ -->
-
+<!-- $table9$ - Final Table -->
 
 NB: Crawley Town 10 points deducted for financial problems
     Gravesend & Northfleet to change name to Ebbsfleet United for 2007/08
@@ -3923,8 +3916,7 @@ Sixth Level 2006/07
 
 Conference North
 
-<!-- $table10$ -->
-
+<!-- $table10$ - Final Table -->
 
 NB: Scarborough and Lancaster City 10 points deducted for financial problems
 
@@ -3946,8 +3938,7 @@ Farsley Celtic          4-3 Hinckley United
 
 Conference South
 
-<!-- $table11$ -->
-
+<!-- $table11$ - Final Table -->
 
 
 ▪ Promotion Playoffs ▪
@@ -3985,10 +3976,4 @@ Salisbury City          1-0 Braintree Town
 
 ‹list of league trophy winners, see page engassmembcuphist›.
 
-
-
-
-
-
-<!-- $about$ -->
 

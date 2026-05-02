@@ -1,7 +1,9 @@
   <!--
-     source: https://rsssf.org/tablese/eng2010.html
+     title:   England 2009/10
+     source:  https://rsssf.org/tablese/eng2010.html
+     author:  Ian King
+     updated: 23 Dec 2020
     -->
-  
 
 
 == England 2009/10
@@ -12,8 +14,7 @@
 
 ==== Premiership  ‹§premier›
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 NB: Portsmouth 9 points deducted for financial reasons
 
@@ -705,8 +706,7 @@ Manchester U  4-0 Stoke
 West Ham      1-1 Manchester C
 Wolverhampton 2-1 Sunderland
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 NB: Portsmouth 9 points deducted for financial reasons
 
@@ -718,7 +718,7 @@ NB: Portsmouth 9 points deducted for financial reasons
 
 ‹FA Cup, see §facup› | ‹League Cup, see §leaguecup› | ‹Football League Trophy, see §assmemb›
 
-FA Cup  ‹§facup›
+===== FA Cup  ‹§facup›
 
 Fourth Qualifying Round
 _ Oct 24 _
@@ -991,7 +991,7 @@ Tottenham Hotspur          0-2 Portsmouth                 (aet)
 ▪ Final ▪  May 15 @ Wembley
 Chelsea                    1-0 Portsmouth
 
-League Cup  ‹§leaguecup›
+===== League Cup  ‹§leaguecup›
 
 ▪ Round 1 ▪
 _ Aug 10 _
@@ -1166,7 +1166,7 @@ Man Utd: Kuszczak, Evra, Vidic, Rafael Da Silva (Neville 66), Evans,
          (Rooney 42), Berbatov.
 
 
-Football League Trophy  ‹§assmemb›
+===== Football League Trophy  ‹§assmemb›
 
 Northern Section
 
@@ -1290,10 +1290,9 @@ Carlisle      1-4 Southampton
 
 ‹Regular Stage, see §2reg› | ‹Promotion Playoff, see §2prom›
 
-▪ Regular Stage ▪
+===== Regular Stage  ‹§2reg›
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 NB: Crystal Palace 10 points deducted for financial reasons
 
@@ -2041,12 +2040,11 @@ Sheffield W   2-2 Crystal P
 Swansea       0-0 Doncaster
 WBA           1-1 Barnsley
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Final Table -->
 
 NB: Crystal Palace 10 points deducted for financial reasons
 
-▪ Promotion Playoff ▪
+===== Promotion Playoff  ‹§2prom›
 
 ▪ Semifinals ▪
 
@@ -2075,10 +2073,9 @@ NB: Blackpool promoted
 
 ‹Regular Stage, see §3reg› | ‹Promotion Playoff, see §3prom›
 
-▪ Regular Stage ▪
+===== Regular Stage  ‹§3reg›
 
-<!-- $table5$ -->
-
+<!-- $table5$ - Final Table -->
 
 NB: Southampton 10 points deducted for financial reasons
 
@@ -2817,12 +2814,11 @@ Stockport     0-3 Tranmere
 Walsall       2-1 Milton Keynes
 Wycombe       3-0 Gillingham
 
-<!-- $table6$ -->
-
+<!-- $table6$ - Final Table -->
 
 NB: Southampton 10 points deducted for financial reasons
 
-▪ Promotion Playoff ▪
+===== Promotion Playoff  ‹§3prom›
 
 ▪ Semifinals ▪
 
@@ -2851,10 +2847,9 @@ NB: Millwall promoted
 
 ‹Regular Stage, see §4reg› | ‹Promotion Playoff, see §4prom›
 
-▪ Regular Stage ▪
+===== Regular Stage  ‹§4reg›
 
-<!-- $table7$ -->
-
+<!-- $table7$ - Final Table -->
 
 ▪ Round 1 ▪  Aug 8
 Aldershot     3-1 Darlington
@@ -3579,10 +3574,9 @@ Northampton   1-1 Bury
 Port Vale     1-1 Shrewsbury
 Torquay       0-0 Notts C
 
-<!-- $table8$ -->
+<!-- $table8$ - Final Table -->
 
-
-▪ Promotion Playoff ▪
+===== Promotion Playoff  ‹§4prom›
 
 ▪ Semifinals ▪
 
@@ -3611,10 +3605,9 @@ NB: Dagenham & Redbridge promoted
 
 ‹Regular Stage, see §5reg› | ‹Promotion Playoff, see §5prom›
 
-▪ Regular Stage ▪
+===== Regular Stage  ‹§5reg›
 
-<!-- $table9$ -->
-
+<!-- $table9$ - Final Table -->
 
 NB: Chester City 25 points deducted for financial reasons; they
       were later expelled on Feb 26 and their record expunged;
@@ -4381,8 +4374,7 @@ Stevenage     1-0 York
 Tamworth      3-4 Ebbsfleet
 Crawley       bye
 
-<!-- $table10$ -->
-
+<!-- $table10$ - Final Table -->
 
 NB: Chester City 25 points deducted for financial reasons; they
       were later expelled on Feb 26 and their record expunged;
@@ -4394,7 +4386,7 @@ NB: Chester City 25 points deducted for financial reasons; they
     Gateshead 1 point deducted for abandonment round 8
 
 
-▪ Promotion Playoff ▪
+===== Promotion Playoff  ‹§5prom›
 
 ▪ Semifinals ▪
 
@@ -4411,10 +4403,4 @@ Oxford        3-1 York
 
 NB: Oxford promoted
 
-
-
-
-
-
-<!-- $about$ -->
 

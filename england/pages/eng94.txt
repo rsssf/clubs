@@ -1,15 +1,18 @@
   <!--
-     source: https://rsssf.org/tablese/eng94.html
+     title:   England 1993/94
+     source:  https://rsssf.org/tablese/eng94.html
+     author:  Michael Heneghan
+     updated: 7 Jul 2004
     -->
-  
 
 
 == England 1993/94
 
 Premiership
 
-<!-- $table1$ -->
+Final Table:
 
+<!-- $table1$ - Pos Team                  P   W   D   L   F   A  GD Pts -->
 
 _ Aug 14 1993 _
 Arsenal                     0    Coventry City               3
@@ -1168,8 +1171,9 @@ _ May 8 1994 _
 Manchester United           0    Coventry City               0
 
 
-<!-- $table2$ -->
+Final Table:
 
+<!-- $table2$ - Pos Team                  P   W   D   L   F   A  GD Pts -->
 
 ‹1992/93, see page eng93›.
 
@@ -1188,10 +1192,4 @@ Manchester United           0    Coventry City               0
 ‹list of league cup winners, see page engleagcuphist›.
 
 
-
-
-
-
-
-<!-- $about$ -->
 

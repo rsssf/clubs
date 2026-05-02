@@ -1,7 +1,9 @@
   <!--
-     source: https://rsssf.org/tablese/eng2022.html
+     title:   England 2021/22
+     source:  https://rsssf.org/tablese/eng2022.html
+     author:  Ian King
+     updated: 14 Jun 2023
     -->
-  
 
 
 == England 2021/22
@@ -12,8 +14,7 @@
 
 ==== Premier League  ‹§premier›
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Aug 13 _
@@ -615,8 +616,7 @@ Liverpool     3-1 Wolverhampton
 Manchester C  3-2 Aston Villa
 Norwich       0-5 Tottenham
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 
 
@@ -627,12 +627,11 @@ Norwich       0-5 Tottenham
 
 ‹Regular Stage, see §2reg› | ‹Promotion Playoff, see §2prom›
 
-▪ Regular Stage ▪
+===== Regular Stage  ‹§2reg›
 
-<!-- $table3$ -->
+<!-- $table3$ - Final Table -->
 
-
-▪ Promotion Playoff ▪
+===== Promotion Playoff  ‹§2prom›
 
 ▪ Semifinals ▪
 
@@ -659,12 +658,11 @@ Huddersfield  0-1 Nottingham
 
 ‹Regular Stage, see §3reg› | ‹Promotion Playoff, see §3prom›
 
-▪ Regular Stage ▪
+===== Regular Stage  ‹§3reg›
 
-<!-- $table4$ -->
+<!-- $table4$ - Final Table -->
 
-
-▪ Promotion Playoff ▪
+===== Promotion Playoff  ‹§3prom›
 
 ▪ Semifinals ▪
 
@@ -692,12 +690,11 @@ Wycombe       0-2 Sunderland
 
 ‹Regular Stage, see §4reg› | ‹Promotion Playoff, see §4prom›
 
-▪ Regular Stage ▪
+===== Regular Stage  ‹§4reg›
 
-<!-- $table5$ -->
+<!-- $table5$ - Final Table -->
 
-
-▪ Promotion Playoff ▪
+===== Promotion Playoff  ‹§4prom›
 
 ▪ Semifinals ▪
 
@@ -725,14 +722,13 @@ Mansfield     0-3 Port Vale
 
 ‹Regular Stage, see §5reg› | ‹Promotion Playoff, see §5prom›
 
-▪ Regular Stage ▪
+===== Regular Stage  ‹§5reg›
 
-<!-- $table6$ -->
-
+<!-- $table6$ - Final Table -->
 
 Promoted: Gateshead, Maidstone United, York City, Dorking Wanderers
 
-▪ Promotion Playoff ▪
+===== Promotion Playoff  ‹§5prom›
 
 ▪ Round 1 ▪
 
@@ -751,10 +747,4 @@ Solihull      3-1 Chesterfield
 ▪ Final ▪  Jun 5
 Solihull      1-2 Grimsby       (aet)
 
-
-
-
-
-
-<!-- $about$ -->
 

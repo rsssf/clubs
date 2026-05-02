@@ -1,7 +1,9 @@
   <!--
-     source: https://rsssf.org/tablese/eng2015.html
+     title:   England 2014/15
+     source:  https://rsssf.org/tablese/eng2015.html
+     authors: Ian King and Karel Stokkermans
+     updated: 14 Jan 2021
     -->
-  
 
 
 == England 2014/15
@@ -12,8 +14,7 @@
 
 ==== Premier League  ‹§premier›
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Aug 16 _
@@ -564,8 +565,7 @@ Manchester C  2-0 Southampton
 Newcastle     2-0 West Ham
 Stoke         6-1 Liverpool
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 
 
@@ -576,7 +576,7 @@ Stoke         6-1 Liverpool
 
 ‹FA Cup, see §facup› | ‹League Cup, see §leaguecup›
 
-FA Cup  ‹§facup›
+===== FA Cup  ‹§facup›
 
 ▪ Round 1 ▪
 _ Nov 7 _
@@ -795,7 +795,7 @@ Aston Villa             2-1 Liverpool
 ▪ Final ▪  May 30 @ London
 Arsenal                 4-0 Aston Villa
 
-League Cup  ‹§leaguecup›
+===== League Cup  ‹§leaguecup›
 
 ▪ Round 1 ▪
 _ Aug 11 _
@@ -932,12 +932,11 @@ Chelsea                 2-0 Tottenham Hotspur
 
 ‹Regular Stage, see §2reg› | ‹Promotion Playoff, see §2prom›
 
-▪ Regular Stage ▪
+===== Regular Stage  ‹§2reg›
 
-<!-- $table3$ -->
+<!-- $table3$ - Final Table -->
 
-
-▪ Promotion Playoff ▪
+===== Promotion Playoff  ‹§2prom›
 
 ▪ Semifinals ▪
 
@@ -965,12 +964,11 @@ Norwich       2-0 Middlesbrough
 
 ‹Regular Stage, see §3reg› | ‹Promotion Playoff, see §3prom›
 
-▪ Regular Stage ▪
+===== Regular Stage  ‹§3reg›
 
-<!-- $table4$ -->
+<!-- $table4$ - Final Table -->
 
-
-▪ Promotion Playoff ▪
+===== Promotion Playoff  ‹§3prom›
 
 ▪ Semifinals ▪
 
@@ -996,12 +994,11 @@ Preston       4-0 Swindon
 
 ‹Regular Stage, see §4reg› | ‹Promotion Playoff, see §4prom›
 
-▪ Regular Stage ▪
+===== Regular Stage  ‹§4reg›
 
-<!-- $table5$ -->
+<!-- $table5$ - Final Table -->
 
-
-▪ Promotion Playoff ▪
+===== Promotion Playoff  ‹§4prom›
 
 ▪ Semifinals ▪
 
@@ -1027,14 +1024,13 @@ Wycombe       1-1 Southend      (aet, 6-7 pen)
 
 ‹Regular Stage, see §5reg› | ‹Promotion Playoff, see §5prom›
 
-▪ Regular Stage ▪
+===== Regular Stage  ‹§5reg›
 
-<!-- $table6$ -->
-
+<!-- $table6$ - Final Table -->
 
 Promoted: Barrow, Bromley, Guiseley, Boreham Wood
 
-▪ Promotion Playoff ▪
+===== Promotion Playoff  ‹§5prom›
 
 ▪ Semifinals ▪
 
@@ -1051,10 +1047,4 @@ Grimsby       3-0 Eastleigh
 ▪ Final ▪  May 17
 Bristol R     1-1 Grimsby       (aet, 5-3 pen)
 
-
-
-
-
-
-<!-- $about$ -->
 

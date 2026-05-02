@@ -1,7 +1,9 @@
   <!--
-     source: https://rsssf.org/tablese/eng99.html
+     title:   England 1998/99
+     source:  https://rsssf.org/tablese/eng99.html
+     author:  RSSSF
+     updated: 20 Dec 1999
     -->
-  
 
 
 == England 1998/99
@@ -9,8 +11,7 @@
 
 Premiership
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Table -->
 
 ▪ Round 1 ▪
 _ Aug 15 _
@@ -574,8 +575,7 @@ Nottingham F   1-0 Leicester C
 Southampton    2-0 Everton
 West Ham Utd   4-0 Middlesbrough
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Table -->
 
 <!-- $topscorers1$ -->
 
@@ -784,8 +784,7 @@ Tottenham: Walker, Carr, Campbell, Vega, Freund, Anderton, Edinburgh
 
 First Division (second level)
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 ▪ Promotion Playoffs ▪
 
@@ -808,8 +807,7 @@ Bolton Wanderers 0-2 Watford
 
 Second Division (third level)
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Final Table -->
 
 ▪ Promotion Playoffs ▪
 
@@ -832,8 +830,7 @@ Manchester City promoted.
 
 Third Division (fourth level)
 
-<!-- $table5$ -->
-
+<!-- $table5$ - Final Table -->
 
 ▪ Promotion Playoffs ▪
 
@@ -855,8 +852,7 @@ Scunthorpe United promoted.
 
 Conference (fifth level)
 
-<!-- $table6$ -->
-
+<!-- $table6$ - Final Table -->
 
 [NB: Barrow may be demoted for financial reasons, in which case Welling United
      would remain in the Conference.]
@@ -867,18 +863,15 @@ Sixth Level (Conference Feeders)
 
 Ryman League Premier Division
 
-<!-- $table7$ -->
-
+<!-- $table7$ - Final Table -->
 
 Dr Martens League Premier Division
 
-<!-- $table8$ -->
-
+<!-- $table8$ - Final Table -->
 
 UniBond League Premier Division
 
-<!-- $table9$ -->
-
+<!-- $table9$ - Final Table -->
 
 ‹1997/98, see page eng98›.
 
@@ -896,10 +889,4 @@ UniBond League Premier Division
 
 ‹list of league cup winners, see page engleagcuphist›.
 
-
-
-
-
-
-<!-- $about$ -->
 

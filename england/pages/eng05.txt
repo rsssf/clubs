@@ -1,15 +1,16 @@
   <!--
-     source: https://rsssf.org/tablese/eng05.html
+     title:   England 2004/05
+     source:  https://rsssf.org/tablese/eng05.html
+     authors: Ian King and Matthew Perry
+     updated: 23 Nov 2007
     -->
-  
 
 
 == England 2004/05
 
 Premiership
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 [*] admitted to CL Qualifying by UEFA
 
@@ -971,8 +972,7 @@ Tottenham Hotspur       0-0 Blackburn Rovers
 West Bromwich Albion    2-0 Portsmouth
   (Horsfield 58, Richardson 75)
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 [*] admitted to CL Qualifying by UEFA
 
@@ -1451,8 +1451,7 @@ Second Level 2004/05
 
 Coca-Cola Football League Championship
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 Top 2 Promoted to Premier Lge; 3-6 into Play-Offs (Winner also Promoted)
 Bottom 3 Relegated to League 1 (3rd level)
@@ -2185,8 +2184,7 @@ Wigan          3-1 Reading [McCulloch 18,Roberts 21,Ellington 85; Sidwell 90 - 1
 Wolves         4-2 Sheff Utd [Lescott 12,Clarke 23,Cooper 50,Miller 60; Quinn 13,Gray 37 - 27,454]
 
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Final Table -->
 
 Promotion Play Offs
 
@@ -2215,8 +2213,7 @@ Third Level 2004/05
 
 Coca-Cola Football League Division One
 
-<!-- $table5$ -->
-
+<!-- $table5$ - Final Table -->
 
 NB: Wrexham had 10 points deducted for going into administration.
 
@@ -3495,8 +3492,7 @@ Walsall                 3-0 Stockport County
 Wrexham                 0-1 Huddersfield Town
   (Mirlin 43)
 
-<!-- $table6$ -->
-
+<!-- $table6$ - Final Table -->
 
 NB: Wrexham had 10 points deducted for going into administration.
 
@@ -3531,8 +3527,7 @@ Fourth Level 2004/05
 
 Coca-Cola Football League Division Two
 
-<!-- $table7$ -->
-
+<!-- $table7$ - Final Table -->
 
 NB: Cambridge United 10 points deducted
 
@@ -4714,8 +4709,7 @@ Shrewsbury Town         0-0 Scunthorpe United
 Yeovil Town             3-0 Lincoln City
   (Sodje 45, 78, Jevons 54pen)
 
-<!-- $table8$ -->
-
+<!-- $table8$ - Final Table -->
 
 NB: Cambridge United 10 points deducted
 
@@ -4746,8 +4740,7 @@ Fifth Level 2004/05
 
 Nationwide Conference
 
-<!-- $table9$ -->
-
+<!-- $table9$ - Final Table -->
 
 [*] 10 points deducted due to club in administration
 
@@ -5325,8 +5318,7 @@ Tamworth                   0-0 Morecambe
 York City                  4-0 Farnborough Town
   (Bishop 9, Stewart 53, Yakin 60, Robinson 90)
 
-<!-- $table10$ -->
-
+<!-- $table10$ - Final Table -->
 
 [*] 10 points deducted due to club in administration
 
@@ -5368,10 +5360,4 @@ Carlisle United            1-0 Stevenage Borough
 
 ‹list of league trophy winners, see page engassmembcuphist›.
 
-
-
-
-
-
-<!-- $about$ -->
 

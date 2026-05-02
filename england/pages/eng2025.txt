@@ -1,7 +1,9 @@
   <!--
-     source: https://rsssf.org/tablese/eng2025.html
+     title:   England 2024/25
+     source:  https://rsssf.org/tablese/eng2025.html
+     author:  Karel Stokkermans
+     updated: 26 May 2025
     -->
-  
 
 
 == England 2024/25
@@ -12,8 +14,7 @@
 
 ==== Premier League  ‹§premier›
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Aug 16 _
@@ -578,13 +579,6 @@ Southampton   1-2 Arsenal
 Tottenham     1-4 Brighton
 Wolverhampton 1-1 Brentford
 
-<!-- $table2$ -->
+<!-- $table2$ - Final Table -->
 
-
-
-
-
-
-
-<!-- $about$ -->
 

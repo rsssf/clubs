@@ -1,7 +1,9 @@
   <!--
-     source: https://rsssf.org/tablese/eng2021.html
+     title:   England 2020/21
+     source:  https://rsssf.org/tablese/eng2021.html
+     author:  Ian King
+     updated: 15 Jun 2025
     -->
-  
 
 
 == England 2020/21
@@ -12,8 +14,7 @@
 
 ==== Premier League  ‹§premier›
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Sep 12 _
@@ -624,8 +625,7 @@ Sheffield U   1-0 Burnley
 West Ham      3-0 Southampton
 Wolverhampton 1-2 Manchester U
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 
 
@@ -635,7 +635,7 @@ Wolverhampton 1-2 Manchester U
 
 ‹FA Cup, see §facup›
 
-FA Cup  ‹§facup›
+===== FA Cup  ‹§facup›
 
 ▪ Round 1 ▪
 _ Nov 6 _
@@ -811,12 +811,11 @@ Chelsea                 0-1 Leicester City
 
 ‹Regular Stage, see §2reg› | ‹Promotion Playoff, see §2prom›
 
-▪ Regular Stage ▪
+===== Regular Stage  ‹§2reg›
 
-<!-- $table3$ -->
+<!-- $table3$ - Final Table -->
 
-
-▪ Promotion Playoff ▪
+===== Promotion Playoff  ‹§2prom›
 
 ▪ Semifinals ▪
 
@@ -845,12 +844,11 @@ Brentford     2-0 Swansea
 
 ‹Regular Stage, see §3reg› | ‹Promotion Playoff, see §3prom›
 
-▪ Regular Stage ▪
+===== Regular Stage  ‹§3reg›
 
-<!-- $table4$ -->
+<!-- $table4$ - Final Table -->
 
-
-▪ Promotion Playoff ▪
+===== Promotion Playoff  ‹§3prom›
 
 ▪ Semifinals ▪
 
@@ -878,12 +876,11 @@ Blackpool     2-1 Lincoln
 
 ‹Regular Stage, see §4reg› | ‹Promotion Playoff, see §4prom›
 
-▪ Regular Stage ▪
+===== Regular Stage  ‹§4reg›
 
-<!-- $table5$ -->
+<!-- $table5$ - Final Table -->
 
-
-▪ Promotion Playoff ▪
+===== Promotion Playoff  ‹§4prom›
 
 ▪ Semifinals ▪
 
@@ -914,15 +911,14 @@ Morecambe     1-0 Newport       (aet)
 
 ‹Regular Stage, see §5reg› | ‹Promotion Playoff, see §5prom›
 
-▪ Regular Stage ▪
+===== Regular Stage  ‹§5reg›
 
-<!-- $table6$ -->
-
+<!-- $table6$ - Final Table -->
 
 NB: King's Lynn Town and Barnet reprieved from relegation as no clubs were
     promoted from the sixth level (where the season was abandoned and voided)
 
-▪ Promotion Playoff ▪
+===== Promotion Playoff  ‹§5prom›
 
 ▪ Round 1 ▪
 
@@ -946,10 +942,4 @@ Torquay       1-1 Hartlepool    (aet, 4-5 pen)
   (Covolan Cauagnari 90+5; Armstrong 35)
 
 
-
-
-
-
-
-<!-- $about$ -->
 

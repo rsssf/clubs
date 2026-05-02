@@ -1,7 +1,9 @@
   <!--
-     source: https://rsssf.org/tablese/eng2019.html
+     title:   England 2018/19
+     source:  https://rsssf.org/tablese/eng2019.html
+     authors: Karel Stokkermans and Roberto Di Maggio
+     updated: 7 Jul 2022
     -->
-  
 
 
 == England 2018/19
@@ -14,8 +16,7 @@
 
 ‹Premier League 2018/19 Match Details, see page eng2019det›
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Aug 10 _
@@ -296,8 +297,7 @@ Watford       1-2 Chelsea
 _ Dec 27 _
 Southampton   1-2 West Ham
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Halfway Table -->
 
 ▪ Round 20 ▪
 _ Dec 29 _
@@ -585,8 +585,7 @@ Southampton   1-1 Huddersfield
 Tottenham     2-2 Everton
 Watford       1-4 West Ham
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 ‹Premier League 2018/19 Match Details, see page eng2019det›
 
@@ -598,7 +597,7 @@ Watford       1-4 West Ham
 
 ‹FA Cup, see §facup› | ‹League Cup, see §leaguecup›
 
-FA Cup  ‹§facup›
+===== FA Cup  ‹§facup›
 
 ▪ Round 1 ▪
 _ Nov 9 _
@@ -807,7 +806,7 @@ Watford                 3-2 Wolverhampton Wanderers (aet)
 ▪ Final ▪  May 18 @ London
 Manchester City         6-0 Watford
 
-League Cup  ‹§leaguecup›
+===== League Cup  ‹§leaguecup›
 
 ▪ First Round ▪
 _ Aug 14 _
@@ -946,14 +945,13 @@ Manchester City         0-0 Chelsea                 (aet, 4-3 pen)
 
 ‹Regular Stage, see §2reg› | ‹Promotion Playoff, see §2prom›
 
-▪ Regular Stage ▪
+===== Regular Stage  ‹§2reg›
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Final Table -->
 
 NB: Birmingham City 9 points deducted for financial reasons
 
-▪ Promotion Playoff ▪
+===== Promotion Playoff  ‹§2prom›
 
 ▪ Semifinals ▪
 
@@ -979,12 +977,11 @@ Aston Villa   2-1 Derby
 
 ‹Regular Stage, see §3reg› | ‹Promotion Playoff, see §3prom›
 
-▪ Regular Stage ▪
+===== Regular Stage  ‹§3reg›
 
-<!-- $table5$ -->
+<!-- $table5$ - Final Table -->
 
-
-▪ Promotion Playoff ▪
+===== Promotion Playoff  ‹§3prom›
 
 ▪ Semifinals ▪
 
@@ -1012,12 +1009,11 @@ Charlton      2-1 Sunderland
 
 ‹Regular Stage, see §4reg› | ‹Promotion Playoff, see §4prom›
 
-▪ Regular Stage ▪
+===== Regular Stage  ‹§4reg›
 
-<!-- $table6$ -->
+<!-- $table6$ - Final Table -->
 
-
-▪ Promotion Playoff ▪
+===== Promotion Playoff  ‹§4prom›
 
 ▪ Semifinals ▪
 
@@ -1045,17 +1041,16 @@ Newport       0-1 Tranmere      (aet)
 
 ‹Regular Stage, see §5reg› | ‹Promotion Playoff, see §5prom›
 
-▪ Regular Stage ▪
+===== Regular Stage  ‹§5reg›
 
-<!-- $table7$ -->
-
+<!-- $table7$ - Final Table -->
 
 NB: Gateshead 9 points deducted for financial reasons and later demoted;
     Braintree Town 3 points deducted for fielding ineligible palyer
 
 Promoted: Stockport County, Torquay United, Chorley, Woking
 
-▪ Promotion Playoff ▪
+===== Promotion Playoff  ‹§5prom›
 
 ▪ Round 1 ▪
 
@@ -1074,10 +1069,4 @@ Salford       1-1 Eastleigh     (aet, 4-3 pen)
 ▪ Final ▪  May 11
 Fylde         0-3 Salford
 
-
-
-
-
-
-<!-- $about$ -->
 

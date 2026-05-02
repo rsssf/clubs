@@ -1,7 +1,9 @@
   <!--
-     source: https://rsssf.org/tablese/eng2012.html
+     title:   England 2011/12
+     source:  https://rsssf.org/tablese/eng2012.html
+     author:  Karel Stokkermans
+     updated: 28 Jan 2021
     -->
-  
 
 
 == England 2011/12
@@ -12,8 +14,7 @@
 
 ==== Premiership  ‹§premier›
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 
 
@@ -24,7 +25,7 @@
 
 ‹FA Cup, see §facup› | ‹League Cup, see §leaguecup›
 
-FA Cup  ‹§facup›
+===== FA Cup  ‹§facup›
 
 ▪ Round 1 ▪
 _ Nov 11 _
@@ -235,7 +236,7 @@ Tottenham Hotspur       1-5 Chelsea
 ▪ Final ▪  May 5 @ London
 Chelsea                 2-1 Liverpool
 
-League Cup  ‹§leaguecup›
+===== League Cup  ‹§leaguecup›
 
 ▪ Preliminary Round ▪  Jul 29
 Crawley Town            3-2 AFC Wimbledon
@@ -378,14 +379,13 @@ Cardiff City            2-2 Liverpool               (aet, 2-3 pen)
 
 ‹Regular Stage, see §2reg› | ‹Promotion Playoff, see §2prom›
 
-▪ Regular Stage ▪
+===== Regular Stage  ‹§2reg›
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 NB: Portsmouth 10 points deducted for entering administration
 
-▪ Promotion Playoff ▪
+===== Promotion Playoff  ‹§2prom›
 
 ▪ Semifinals ▪
 
@@ -414,12 +414,11 @@ NB: West Ham United promoted
 
 ‹Regular Stage, see §3reg› | ‹Promotion Playoff, see §3prom›
 
-▪ Regular Stage ▪
+===== Regular Stage  ‹§3reg›
 
-<!-- $table3$ -->
+<!-- $table3$ - Final Table -->
 
-
-▪ Promotion Playoff ▪
+===== Promotion Playoff  ‹§3prom›
 
 ▪ Semifinals ▪
 
@@ -448,14 +447,13 @@ NB: Huddersfield Town promoted
 
 ‹Regular Stage, see §4reg› | ‹Promotion Playoff, see §4prom›
 
-▪ Regular Stage ▪
+===== Regular Stage  ‹§4reg›
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Final Table -->
 
 NB: Port Vale 10 points deducted for entering administration
 
-▪ Promotion Playoff ▪
+===== Promotion Playoff  ‹§4prom›
 
 ▪ Semifinals ▪
 
@@ -484,17 +482,16 @@ NB: Crewe Alexandra promoted
 
 ‹Regular Stage, see §5reg› | ‹Promotion Playoff, see §5prom›
 
-▪ Regular Stage ▪
+===== Regular Stage  ‹§5reg›
 
-<!-- $table5$ -->
-
+<!-- $table5$ - Final Table -->
 
 NB: Darlington 10 points deducted for entering administration; they were relegated 4 levels
       at the end of the season;
     Kettering Town 3 points deducted for failing to pay creditors; they were relegated 2
       levels at the end of the season.
 
-▪ Promotion Playoff ▪
+===== Promotion Playoff  ‹§5prom›
 
 ▪ Semifinals ▪
 
@@ -513,10 +510,4 @@ York          2-1 Luton
 
 NB: York City promoted
 
-
-
-
-
-
-<!-- $about$ -->
 

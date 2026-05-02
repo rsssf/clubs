@@ -1,7 +1,9 @@
   <!--
-     source: https://rsssf.org/tablese/eng93.html
+     title:   England 1992/93
+     source:  https://rsssf.org/tablese/eng93.html
+     author:  Michael Heneghan
+     updated: 7 Jul 2004
     -->
-  
 
 
 == England 1992/93
@@ -9,29 +11,7 @@
 
 Premiership
 
-Pos Team                  P   W   D   L   F   A  GD Pts
-  1 Manchester United    42  24  12   6  67  31  36  84
-  2 Aston Villa          42  21  11  10  57  40  17  74
-  3 Norwich City         42  21   9  12  61  65  -4  72
-  4 Blackburn Rovers     42  20  11  11  68  46  22  71
-  5 Queens Park Rangers  42  17  12  13  63  55   8  63
-  6 Liverpool            42  16  11  15  62  55   7  59
-  7 Sheffield Wednesday  42  15  14  13  55  51   4  59
-  8 Tottenham Hotspur    42  16  11  15  60  66  -6  59
-  9 Manchester City      42  15  12  15  56  51   5  57
- 10 Arsenal              42  15  11  16  40  38   2  56
- 11 Chelsea              42  14  14  14  51  54  -3  56
- 12 Wimbledon            42  14  12  16  56  55   1  54
- 13 Everton              42  15   8  19  53  55  -2  53
- 14 Sheffield United     42  14  10  18  54  53   1  52
- 15 Coventry City        42  13  13  16  52  57  -5  52
- 16 Ipswich Town         42  12  16  14  50  55  -5  52
- 17 Leeds United         42  12  15  15  57  62  -5  51
- 18 Southampton          42  13  11  18  54  61  -7  50
- 19 Oldham Athletic      42  13  10  19  63  74 -11  49
- 20 Crystal Palace       42  11  16  15  48  61 -13  49
- 21 Middlesbrough        42  11  11  20  54  75 -21  44
- 22 Nottingham Forest    42  10  10  22  41  62 -21  40
+<!-- $table1$ - Pos Team                  P   W   D   L   F   A  GD Pts -->
 
 _ Aug 15 1992 _
 Arsenal                     2    Norwich City                4
@@ -1190,8 +1170,9 @@ Arsenal                     1    Tottenham Hotspur           3
 Queens Park Rangers         3    Sheffield Wednesday         1
   Allen 2, Ferdinand               Bright
 
-<!-- $table1$ -->
+Final Table:
 
+<!-- $table2$ - Pos Team                  P   W   D   L   F   A  GD Pts -->
 
 ‹1991/92, see page eng92›.
 
@@ -1210,10 +1191,4 @@ Queens Park Rangers         3    Sheffield Wednesday         1
 ‹list of league cup winners, see page engleagcuphist›.
 
 
-
-
-
-
-
-<!-- $about$ -->
 

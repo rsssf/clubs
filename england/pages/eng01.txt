@@ -1,15 +1,16 @@
   <!--
-     source: https://rsssf.org/tablese/eng01.html
+     title:   England 2000/01
+     source:  https://rsssf.org/tablese/eng01.html
+     authors: Ian King and Stephen Mulrine
+     updated: 15 Feb 2006
     -->
-  
 
 
 == England 2000/01
 
 Premiership
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Aug 19 _
@@ -940,8 +941,7 @@ Southampton   3-2 Arsenal
 Tottenham     3-1 Man Utd
   (Willem Korsten 17, 67, Les Ferdinand 75; Paul Scholes 21)
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 
 FA Cup 2000/01
@@ -1346,8 +1346,7 @@ Second Level 2000/01
 
 First Division
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Table -->
 
 ▪ Round 1 ▪
 _ Aug 12 _
@@ -2116,8 +2115,7 @@ Tranmere                2-2 Nottingham Forest
 Wimbledon               0-0 Norwich
 Wolverhampton           1-1 Queens Park Rangers
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Final Table -->
 
 ▪ Promotion Playoffs ▪
 
@@ -2143,8 +2141,7 @@ Third Level 2000/01
 
 Second Division
 
-<!-- $table5$ -->
-
+<!-- $table5$ - Final Table -->
 
 ▪ Promotion Playoffs ▪
 
@@ -2168,8 +2165,7 @@ Fourth Level 2000/01
 
 Third Division
 
-<!-- $table6$ -->
-
+<!-- $table6$ - Final Table -->
 
 [*] Chesterfield deducted 9 points for financial irregularities
 
@@ -2197,8 +2193,7 @@ Fifth Level 2000/01
 
 Conference
 
-<!-- $table7$ -->
-
+<!-- $table7$ - Final Table -->
 
 
 Sixth Level 2000/01
@@ -2207,20 +2202,17 @@ Conference Feeders
 
 Dr. Martens League
 
-<!-- $table8$ -->
-
+<!-- $table8$ - Final Table -->
 
 Bath City and Fisher Athletic 3 points deducted.
 
 Ryman League
 
-<!-- $table9$ -->
-
+<!-- $table9$ - Table -->
 
 UniBond League
 
-<!-- $table10$ -->
-
+<!-- $table10$ - Final Table -->
 
 [*] Spennymoor United 1 point deducted
 
@@ -2240,10 +2232,4 @@ UniBond League
 
 ‹list of league cup winners, see page engleagcuphist›.
 
-
-
-
-
-
-<!-- $about$ -->
 

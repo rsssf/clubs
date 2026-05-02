@@ -1,7 +1,9 @@
   <!--
-     source: https://rsssf.org/tablese/eng2023.html
+     title:   England 2022/23
+     source:  https://rsssf.org/tablese/eng2023.html
+     author:  Karel Stokkermans
+     updated: 15 Jun 2025
     -->
-  
 
 
 == England 2022/23
@@ -12,8 +14,7 @@
 
 ==== Premier League  ‹§premier›
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Aug 5 _
@@ -590,8 +591,7 @@ Leicester     2-1 West Ham
 Manchester U  2-1 Fulham
 Southampton   4-4 Liverpool
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 
 
@@ -602,12 +602,11 @@ Southampton   4-4 Liverpool
 
 ‹Regular Stage, see §2reg› | ‹Promotion Playoff, see §2prom›
 
-▪ Regular Stage ▪
+===== Regular Stage  ‹§2reg›
 
-<!-- $table3$ -->
+<!-- $table3$ - Final Table -->
 
-
-▪ Promotion Playoff ▪
+===== Promotion Playoff  ‹§2prom›
 
 ▪ Semifinals ▪
 
@@ -635,12 +634,11 @@ Luton         1-1 Coventry      (aet, 6-5 pen)
 
 ‹Regular Stage, see §3reg› | ‹Promotion Playoff, see §3prom›
 
-▪ Regular Stage ▪
+===== Regular Stage  ‹§3reg›
 
-<!-- $table4$ -->
+<!-- $table4$ - Final Table -->
 
-
-▪ Promotion Playoff ▪
+===== Promotion Playoff  ‹§3prom›
 
 ▪ Semifinals ▪
 
@@ -668,12 +666,11 @@ Sheffield W   1-0 Barnsley      (aet)
 
 ‹Regular Stage, see §4reg› | ‹Promotion Playoff, see §4prom›
 
-▪ Regular Stage ▪
+===== Regular Stage  ‹§4reg›
 
-<!-- $table5$ -->
+<!-- $table5$ - Final Table -->
 
-
-▪ Promotion Playoff ▪
+===== Promotion Playoff  ‹§4prom›
 
 ▪ Semifinals ▪
 
@@ -699,14 +696,13 @@ Stockport     1-1 Carlisle      (aet, 4-5 pen)
 
 ‹Regular Stage, see §5reg› | ‹Promotion Playoff, see §5prom›
 
-▪ Regular Stage ▪
+===== Regular Stage  ‹§5reg›
 
-<!-- $table6$ -->
-
+<!-- $table6$ - Final Table -->
 
 Promoted: AFC Fylde, Ebbsfleet United, Kidderminster Harriers, Oxford City
 
-▪ Promotion Playoff ▪
+===== Promotion Playoff  ‹§5prom›
 
 ▪ Round 1 ▪
 
@@ -724,10 +720,4 @@ Chesterfield  3-2 Bromley       (aet)
 ▪ Final ▪  May 13
 Notts County  2-2 Chesterfield  (aet, 4-3 pen)
 
-
-
-
-
-
-<!-- $about$ -->
 

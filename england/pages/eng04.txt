@@ -1,15 +1,16 @@
   <!--
-     source: https://rsssf.org/tablese/eng04.html
+     title:   England 2003/04
+     source:  https://rsssf.org/tablese/eng04.html
+     authors: Ian King and Matthew Perry
+     updated: 15 Feb 2006
     -->
-  
 
 
 == England 2003/04
 
 Premiership
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Aug 16 _
@@ -965,8 +966,7 @@ Wolverhampton Wanderers 0-2 Tottenham Hotspur
   (Keane 34, Defoe 57)
   [red card: Ince (W) 67]
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 
 FA Cup 2003/04
@@ -1611,8 +1611,7 @@ Second Level 2003/04
 
 Nationwide Football League Division 1
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 Top 2 Promoted to Premier Lge; 3-6 into Play-Offs (Winner also Promoted)
 Bottom 3 Relegated to Division 2
@@ -2333,8 +2332,7 @@ West Brom      0-2 Notts Forest [Williams 4,Johnson 90 - 26,821]
 Wigan          1-1 West Ham [Roberts 34; Deane 90 - 20,069]
 Wimbledon      1-0 Derby [Darlington 25 - 6,509]
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Final Table -->
 
 NB: Wimbledon will move to Milton Keynes and be renamed Milton Keynes Dons for
     the 2004/05 season.
@@ -2366,8 +2364,7 @@ Third Level 2003/04
 
 Nationwide Football League Division 2
 
-<!-- $table5$ -->
-
+<!-- $table5$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Aug 9 _
@@ -3685,8 +3682,7 @@ Tranmere Rovers         2-1 Grimsby Town
 Wrexham                 0-2 Brighton
    (Iwelumo 8, Lawrence 50 (og))
 
-<!-- $table6$ -->
-
+<!-- $table6$ - Final Table -->
 
 
 ▪ Promotion Playoffs ▪
@@ -3716,8 +3712,7 @@ Fourth Level 2003/04
 
 Nationwide Football League Division 3
 
-<!-- $table7$ -->
-
+<!-- $table7$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Aug 9 _
@@ -5027,8 +5022,7 @@ Southend        1-2 Torquay
    (Dudfield 17 - Woods 3, Graham 11)
 Swansea         0-0 York
 
-<!-- $table8$ -->
-
+<!-- $table8$ - Final Table -->
 
 
 ▪ Promotion Playoffs ▪
@@ -5056,8 +5050,7 @@ Fifth Level 2003/04
 
 Nationwide Football Conference
 
-<!-- $table9$ -->
-
+<!-- $table9$ - Final Table -->
 
 Champions promoted to Division 3; 2-5 into Play-Offs, winner also promoted
 Bottom 3 relegated to feeder leagues
@@ -5913,8 +5906,7 @@ Stevenage Borough           2-1 Forest Green Rovers
 Telford United              2-4 Farnborough Town
    (Stanley 40, Green 84 - Burton 23, Fashanu 28, Forinton 33 (pen), Harkness 80)
 
-<!-- $table10$ -->
-
+<!-- $table10$ - Final Table -->
 
 Champions promoted to Division 3; 2-5 into Play-Offs, winner also promoted
 Bottom 3 relegated to feeder leagues
@@ -6347,10 +6339,4 @@ Chris Sharpling      (Woking for Margate)                        1
 
 ‹list of league trophy winners, see page engassmembcuphist›.
 
-
-
-
-
-
-<!-- $about$ -->
 

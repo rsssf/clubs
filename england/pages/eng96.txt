@@ -1,15 +1,18 @@
   <!--
-     source: https://rsssf.org/tablese/eng96.html
+     title:   England 1995/96
+     source:  https://rsssf.org/tablese/eng96.html
+     authors: Michael Heneghan, Ken Fox, Stephen Mulrine and Rob Monger
+     updated: 7 Jul 2004
     -->
-  
 
 
 == England 1995/96
 
 Premiership
 
-<!-- $table1$ -->
-
+FINAL TABLE
+                                      HOME             AWAY
+<!-- $table1$ - P  W  D  L  F   A   W  D  L  F   A   GD PD PTS -->
 
 C=Champions
 R=Relegated
@@ -982,8 +985,9 @@ West Ham United             1    Sheffield Wednesday         1
   Dicks                            Newsome
 
 
-<!-- $table2$ -->
-
+FINAL TABLE
+                                      HOME             AWAY
+<!-- $table2$ - P  W  D  L  F   A   W  D  L  F   A   GD PD PTS -->
 
 C=Champions
 R=Relegated
@@ -1308,8 +1312,10 @@ Aston Villa                3  Leeds United               0
 
 England 1995/96 First Division (Second Level)
 
-<!-- $table3$ -->
+FINAL TABLE
 
+                                    HOME             AWAY
+<!-- $table3$ - P  W  D  L  F   A   W  D  L  F   A   GS PD PTS -->
 
 ▪ Promotion Playoffs ▪
 
@@ -1330,8 +1336,10 @@ Leicester City are promoted to the FA Carling Premiership.
 
 England 1995/96 Second Division (Third Level)
 
-<!-- $table4$ -->
+FINAL TABLE
 
+                                      HOME             AWAY
+<!-- $table4$ - P  W  D  L  F   A   W  D  L  F   A   GS PD PTS -->
 
 Division Two Playoffs
 ---------------------
@@ -1353,34 +1361,7 @@ Bradford City are promoted to Division One.
 England 1995/96 Third Division (Fourth Level)
 
                                     HOME             AWAY
-                               P  W  D  L  F   A   W  D  L  F   A   GS PD PTS
-  1 Preston North End         46 11  8  4  44  22 12  9  2  34  16  78  0  86 P
-  2 Gillingham                46 16  6  1  33   6  6 11  6  16  14  49  0  83 P
-  3 Bury                      46 11  6  6  33  21 11  7  5  33  27  66  0  79 P
- ============================================================================
-  4 Plymouth Argyle           46 14  5  4  41  20  8  7  8  27  29  68  0  78 P
-  5 Darlington                46 10  6  7  30  21 10 12  1  30  21  60  0  78
-  6 Hereford United           46 13  5  5  40  22  7  9  7  25  25  65  0  74
-  7 Colchester United         46 13  7  3  37  22  5 11  7  24  29  61  0  72
- ----------------------------------------------------------------------------
-  8 Chester City              46 11  9  3  45  22  7  7  9  27  31  72  0  70
-  9 Barnet                    46 13  6  4  40  19  5 10  8  25  26  65  0  70
- 10 Wigan Athletic            46 15  3  5  36  21  5  7 11  26  35  62  0  70
- 11 Northampton Town          46  9 10  4  32  22  9  3 11  19  22  51  0  67
- 12 Scunthorpe United         46  8  8  7  36  30  7  7  9  31  31  67  0  60
- 13 Doncaster Rovers          46 11  6  6  25  19  5  5 13  24  41  49  0  59
- 14 Exeter City               46  9  9  5  25  22  4  9 10  21  31  46  0  57
- 15 Rochdale                  46  7  8  8  32  33  7  5 11  25  28  57  0  55
- 16 Cambridge United          46  8  8  7  34  30  6  4 13  27  41  61  0  54
- 17 Fulham                    46 10  9  4  39  26  2  8 13  18  37  57  0  53
- 18 Lincoln City              46  8  7  8  32  26  5  7 11  25  47  57  0  53
- 19 Mansfield Town            46  6 10  7  25  29  5 10  8  29  35  54  0  53
- 20 Hartlepool United         46  8  9  6  30  24  4  4 15  17  43  47  0  49
- 21 Leyton Orient             46 11  4  8  29  22  1  7 15  15  41  44  0  47
- 22 Cardiff City              46  8  6  9  24  22  3  6 14  17  42  41  0  45
- 23 Scarborough               46  5 11  7  22  28  3  5 15  17  41  39  0  40
- ============================================================================
- 24 Torquay United            46  4  9 10  17  36  1  5 17  13  48  30  0  29
+<!-- $table5$ - P  W  D  L  F   A   W  D  L  F   A   GS PD PTS -->
 
 (Torquay will not go down since Stevenage Borough is ineligible.)
 
@@ -1399,31 +1380,7 @@ Plymouth Argyle   1-0 Darlington
 England Fifth Level (Conference)
 
                                     HOME             AWAY
-                               P  W  D  L  F   A   W  D  L  F   A   GD PD PTS
-  1 Stevenage Borough         42 13  6  2  51  20 14  4  3  50  24  57  0  91
- ============================================================================
-  2 Woking                    42 16  5  0  47  13  9  3  9  36  41  29  0  83
-  3 Hednesford Town           42 13  3  5  38  21 10  4  7  33  25  25  0  76
-  4 Macclesfield Town         42 12  5  4  32  16 10  4  7  34  33  17  0  75
-  5 Gateshead                 42  9  7  5  32  24  9  6  6  26  22  12  0  67
-  6 Southport                 42 10  7  4  42  25  8  5  8  35  39  13  0  66
-  7 Kidderminster Harriers    42 13  4  4  49  26  5  6 10  29  40  12  0  64
-  8 Northwich Victoria        42  9  3  9  38  35  7  9  5  34  29   8  0  60
-  9 Morecambe                 42 12  2  7  51  33  5  6 10  27  39   6  0  59
- 10 Farnborough Town          42  8  6  7  29  23  7  8  6  34  35   5  0  59
- 11 Bromsgrove Rovers         42 11  6  4  33  20  4  8  9  26  37   2  0  59
- 12 Altrincham                42  9  6  6  33  29  6  7  8  26  35  -5  0  58
- 13 Telford United            42  8  7  6  27  23  7  3 11  24  33  -5  0  55
- 14 Stalybridge Celtic        42  9  3  9  29  37  7  4 10  30  31  -9  0  55
- 15 Halifax Town              42  8  7  6  30  25  5  6 10  19  38 -14  0  52
- 16 Kettering Town            42  9  5  7  38  32  4  4 13  30  52 -16  0  48
- 17 Slough Town               42  4  6 11  35  44  9  2 10  28  32 -13  0  47
- 18 Bath City                 42  9  4  8  29  31  4  3 14  16  35 -21  0  46
- 19 Welling United            42  6  8  7  21  23  4  7 10  21  30 -11  0  45
- ============================================================================
- 20 Dover Athletic            42  8  1 12  30  39  3  6 12  22  36 -23  0  40
- 21 Runcorn A. F. C.          42  4  5 12  25  43  5  3 13  23  44 -39  0  35
- 22 Dagenham and Redbridge    42  5  7  9  31  34  2  5 14  13  40 -30  0  33
+<!-- $table6$ - P  W  D  L  F   A   W  D  L  F   A   GD PD PTS -->
 
 Stevenage are not eligible for the Football League, so they won't go up.
 
@@ -2078,28 +2035,7 @@ Marine - Bishop Auckland...............................2:2
 Winsford United - Spennymoor United....................2:2
 
                              P  W  D  L   F:A  Pts
-Bamber Bridge...............42 20 16  6  81:49  76
-Boston United...............42 23  6 13  86:59  75
-Hyde United.................42 21 10 11  85:51  73
-Barrow......................42 20 13  9  69:42  73
-Gainsborough Trinity........42 20 13  9  60:41  73
-Blyth Spartans..............42 17 13 12  75:61  64
-Accrington Stanley..........42 17 14 11  62:54  62 *
-Emley.......................42 17 10 15  57:53  61
-Spennymoor United...........42 14 18 10  67:61  60
-Guiseley....................42 15 14 13  62:57  59
-Bishop Auckland.............42 16 11 15  60:55  59
-Marine......................42 15 14 13  59:54  59
-Witton Albion...............42 17  8 17  60:62  59
-Chorley.....................42 15  8 19  67:73  53
-Knowsley United.............42 14  6 22  61:89  48
-Winsford United.............42 10 16 16  56:79  46
-Leek Town...................42 10 15 17  52:55  45
-Colwyn Bay..................42  8 21 13  43:57  45
-Frickley Athletic...........42 11 14 17  63:87  44 *
-Buxton......................42  9 11 22  43:72  38
-Droylsden...................42 10  8 24  58:100 38 R
-Matlock Town................42  8 11 23  71:86  35 R
+<!-- $table7$ -->
 
 * - 3 points deducted
 R - relegated
@@ -2731,28 +2667,7 @@ Rushden & Diamonds - Merthyr Tydfil....................3:2
 Worcester City - Gravesend & Northfleet................3:1
 
                              P  W  D  L   F:A  Pts
-Rushden & Diamonds..........42 29  7  6  99:41  94
-Halesowen Town..............42 27 11  4  70:36  92
-Cheltenham Town.............42 21 11 10  76:57  74
-Gloucester City.............42 21  8 13  65:47  71
-Gresley Rovers..............42 20 10 12  70:58  70
-Worcester City..............42 19 12 11  61:43  69
-Merthyr Tydfil..............42 19  6 17  67:59  63
-Hastings Town...............42 16 13 13  68:56  61
-Crawley Town................42 15 13 14  57:56  58
-Sudbury Town................42 15 10 17  69:71  55
-Gravesend & Northfleet......42 15 10 17  60:62  55
-Chelmsford City.............42 13 16 13  46:53  55
-Dorchester Town.............42 15  8 19  62:57  53
-Newport AFC.................42 13 13 16  53:59  52
-Salisbury City..............42 14 10 18  57:69  52
-Burton Albion...............42 13 12 17  55:56  51
-Atherstone United...........42 12 12 18  58:75  48
-Baldock Town................42 11 14 17  51:56  47
-Cambridge City..............42 12 10 20  56:68  46 R
-Ilkeston Town...............42 11 10 21  53:87  43 R
-Stafford Rangers............42 11  4 27  58:90  37 R
-VS Rugby....................42  5 10 27  37:92  25 R
+<!-- $table8$ -->
 
 R - relegated
 
@@ -3398,28 +3313,7 @@ Hitchin Town - Walton & Hersham........................0:2
 Yeovil Town - Enfield..................................0:1
 
                              P  W  D  L   F:A  Pts
-Hayes.......................42 24 14  4  76:32  86
-Enfield.....................42 26  8  8  78:35  86
-Boreham Wood................42 24 11  7  69:29  83
-Yeovil Town.................42 23 11  8  83:51  80
-Dulwich Hamlet..............42 23 11  8  85:59  80
-Carshalton Athletic.........42 22  8 12  68:49  74
-St Albans City..............42 20 12 10  70:41  72
-Kingstonian.................42 20 11 11  62:38  71
-Harrow Borough..............42 19 10 13  70:56  67
-Sutton United...............42 17 14 11  71:56  65
-Aylesbury United............42 17 12 13  71:58  63
-Bishop's Stortford..........42 16  9 17  61:62  57
-Yeading.....................42 11 14 17  48:60  47
-Hendon......................42 12 10 20  52:65  46
-Chertsey Town...............42 13  6 23  45:71  45
-Purfleet....................42 12  8 22  48:67  44
-Grays Athletic..............42 11 11 20  43:63  44
-Hitchin Town................42 10 10 22  41:74  40
-Bromley.....................42 10  7 25  52:91  37
-Molesey.....................42  9  9 24  46:81  36 R
-Walton & Hersham............42  9  7 26  42:79  34 R
-Worthing....................42  4  7 31  42:106 19 R
+<!-- $table9$ -->
 
 R - relegated
 
@@ -3440,10 +3334,4 @@ R - relegated
 ‹list of league cup winners, see page engleagcuphist›.
 
 
-
-
-
-
-
-<!-- $about$ -->
 

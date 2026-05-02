@@ -1,7 +1,9 @@
   <!--
-     source: https://rsssf.org/tablese/eng2018.html
+     title:   England 2017/18
+     source:  https://rsssf.org/tablese/eng2018.html
+     authors: Karel Stokkermans and Roberto Di Maggio
+     updated: 18 Jul 2019
     -->
-  
 
 
 == England 2017/18
@@ -14,8 +16,7 @@
 
 ‹Premier League 2017/18 Match Details, see page eng2018det›
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Aug 11 _
@@ -579,8 +580,7 @@ Swansea       1-2 Stoke
 Tottenham     5-4 Leicester
 West Ham      3-1 Everton
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 ‹Premier League 2017/18 Match Details, see page eng2018det›
 
@@ -592,7 +592,7 @@ West Ham      3-1 Everton
 
 ‹FA Cup, see §facup› | ‹League Cup, see §leaguecup›
 
-FA Cup  ‹§facup›
+===== FA Cup  ‹§facup›
 
 ▪ Round 1 ▪
 _ Nov 3 _
@@ -805,7 +805,7 @@ Chelsea                 2-0 Southampton
 ▪ Final ▪  May 19 @ London
 Chelsea                 1-0 Manchester United
 
-League Cup  ‹§leaguecup›
+===== League Cup  ‹§leaguecup›
 
 ▪ First Round ▪
 _ Aug 8 _
@@ -907,7 +907,7 @@ Leicester City          3-1 Leeds United
 Swansea City            0-2 Manchester United
 Manchester City         0-0 Wolverhampton Wanderers (aet, 3-1 pen)
 _ Oct 25 _
-Chelsea                  2-1 Everton
+Chelsea                   2-1 Everton
 Tottenham Hotspur       2-3 West Ham United
 
 ▪ Quarterfinals ▪
@@ -944,12 +944,11 @@ Manchester City         3-0 Arsenal
 
 ‹Regular Stage, see §2reg› | ‹Promotion Playoff, see §2prom›
 
-▪ Regular Stage ▪
+===== Regular Stage  ‹§2reg›
 
-<!-- $table3$ -->
+<!-- $table3$ - Final Table -->
 
-
-▪ Promotion Playoff ▪
+===== Promotion Playoff  ‹§2prom›
 
 ▪ Semifinals ▪
 
@@ -977,12 +976,11 @@ Fulham        1-0 Aston Villa
 
 ‹Regular Stage, see §3reg› | ‹Promotion Playoff, see §3prom›
 
-▪ Regular Stage ▪
+===== Regular Stage  ‹§3reg›
 
-<!-- $table4$ -->
+<!-- $table4$ - Final Table -->
 
-
-▪ Promotion Playoff ▪
+===== Promotion Playoff  ‹§3prom›
 
 ▪ Semifinals ▪
 
@@ -1010,12 +1008,11 @@ Shrewsbury    1-2 Rotherham     (aet)
 
 ‹Regular Stage, see §4reg› | ‹Promotion Playoff, see §4prom›
 
-▪ Regular Stage ▪
+===== Regular Stage  ‹§4reg›
 
-<!-- $table5$ -->
+<!-- $table5$ - Final Table -->
 
-
-▪ Promotion Playoff ▪
+===== Promotion Playoff  ‹§4prom›
 
 ▪ Semifinals ▪
 
@@ -1041,14 +1038,13 @@ Exeter        1-3 Coventry
 
 ‹Regular Stage, see §5reg› | ‹Promotion Playoff, see §5prom›
 
-▪ Regular Stage ▪
+===== Regular Stage  ‹§5reg›
 
-<!-- $table6$ -->
-
+<!-- $table6$ - Final Table -->
 
 Promoted: Salford City, Havant & Waterlooville, Harrogate Town, Braintree Town
 
-▪ Promotion Playoff ▪
+===== Promotion Playoff  ‹§5prom›
 
 ▪ Round 1 ▪
 
@@ -1067,10 +1063,4 @@ Sutton        2-3 Boreham Wood
 ▪ Final ▪  May 12
 Tranmere      2-1 Boreham Wood
 
-
-
-
-
-
-<!-- $about$ -->
 

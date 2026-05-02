@@ -1,15 +1,16 @@
   <!--
-     source: https://rsssf.org/tablese/eng09.html
+     title:   England 2008/09
+     source:  https://rsssf.org/tablese/eng09.html
+     author:  Ian King
+     updated: 8 May 2014
     -->
-  
 
 
 == England 2008/09
 
 Premiership
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Aug 16 _
@@ -881,8 +882,7 @@ West Ham      2-1 Middlesbrough
 Wigan         1-0 Portsmouth
   (Rodallega 26)
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 
 
@@ -1649,8 +1649,7 @@ Second Level 2008/09
 
 Championship
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 [*] Southampton were 10 points deducted for financial reasons two
     rounds before the end of the season; the penalty will become
@@ -2535,8 +2534,7 @@ Watford       3-1 Derby
 Wolverhampton 1-0 Doncaster
   (Stearman 92)
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Final Table -->
 
 [*] Southampton were 10 points deducted for financial reasons two
     rounds before the end of the season; the penalty will become
@@ -2575,8 +2573,7 @@ Third Level 2008/09
 
 League Division One
 
-<!-- $table5$ -->
-
+<!-- $table5$ - Final Table -->
 
 NB: Stockport 10 points deducted for entering administration
 
@@ -3315,8 +3312,7 @@ Walsall       1-2 Oldham
 Yeovil        0-2 Colchester
   (Vincent 13, Yeates 15)
 
-<!-- $table6$ -->
-
+<!-- $table6$ - Final Table -->
 
 NB: Stockport 10 points deducted for entering administration
 
@@ -3351,8 +3347,7 @@ Fourth Level 2008/09
 
 League Division Two
 
-<!-- $table7$ -->
-
+<!-- $table7$ - Final Table -->
 
 NB: Darlington 10 points deducted for entering administration,
     Bournemouth and Rotherham 17 points deducted for financial reasons,
@@ -4084,8 +4079,7 @@ Rotherham     0-1 Exeter
 Wycombe       1-2 Notts C
   (McCracken 52; Thompson 30, 90)
 
-<!-- $table8$ -->
-
+<!-- $table8$ - Final Table -->
 
 NB: Darlington 10 points deducted for entering administration,
     Bournemouth and Rotherham 17 points deducted for financial reasons,
@@ -4117,8 +4111,7 @@ Fifth Level 2008/09
 
 Blue Square Premier
 
-<!-- $table9$ -->
-
+<!-- $table9$ - Final Table -->
 
 NB: Crawley Town 1 point deducted for fielding an unregistered player;
     Mansfield Town 4 points deducted;
@@ -4916,8 +4909,7 @@ Rushden & D   3-1 Woking
 Torquay       2-1 Burton
 Wrexham       2-0 Weymouth
 
-<!-- $table10$ -->
-
+<!-- $table10$ - Final Table -->
 
 NB: Crawley Town 1 point deducted for fielding an unregistered player;
     Mansfield Town 4 points deducted;
@@ -4962,8 +4954,7 @@ Sixth Level 2008/09
 
 Conference North
 
-<!-- $table11$ -->
-
+<!-- $table11$ - Final Table -->
 
 ▪ Promotion Playoffs ▪
 
@@ -4983,8 +4974,7 @@ Gateshead     1-0 Telford
 
 Conference South
 
-<!-- $table12$ -->
-
+<!-- $table12$ - Final Table -->
 
 ▪ Promotion Playoffs ▪
 
@@ -5010,8 +5000,7 @@ Isthmian League ("Ryman League")
 
 Premier League (7th level)
 
-<!-- $table13$ -->
-
+<!-- $table13$ - Final Table -->
 
 ▪ Promotion Playoffs ▪
 
@@ -5024,8 +5013,7 @@ Carshalton    0-1 Staines
 
 Division One North (Eighth Level)
 
-<!-- $table14$ -->
-
+<!-- $table14$ - Final Table -->
 
 ▪ Promotion Playoffs ▪
 
@@ -5038,8 +5026,7 @@ Waltham       1-1 Concord       (5-4 pen)
 
 Division One South (Eighth Level)
 
-<!-- $table15$ -->
-
+<!-- $table15$ - Final Table -->
 
 ▪ Promotion Playoffs ▪
 
@@ -5055,8 +5042,7 @@ Northern League ("Unibond League")
 
 Premier League (7th level)
 
-<!-- $table16$ -->
-
+<!-- $table16$ - Final Table -->
 
 ▪ Promotion Playoffs ▪
 
@@ -5069,8 +5055,7 @@ Ilkeston      2-1 Nantwich      (aet)
 
 First Division North (Eighth Level)
 
-<!-- $table17$ -->
-
+<!-- $table17$ - Final Table -->
 
 ▪ Promotion Playoffs ▪
 
@@ -5085,8 +5070,7 @@ Newcastle BS  4-1  Curzon Ashton
 
 First Division South (Eighth Level)
 
-<!-- $table18$ -->
-
+<!-- $table18$ - Final Table -->
 
 ▪ Promotion Playoffs ▪
 
@@ -5102,8 +5086,7 @@ Southern League ("British Gas Business League")
 
 Premier League (7th level)
 
-<!-- $table19$ -->
-
+<!-- $table19$ - Final Table -->
 
 ▪ Promotion Playoffs ▪
 
@@ -5116,8 +5099,7 @@ Farnborough   0-1 Gloucester
 
 Division One Midlands (Eighth Level)
 
-<!-- $table20$ -->
-
+<!-- $table20$ - Final Table -->
 
 ▪ Promotion Playoffs ▪
 
@@ -5130,8 +5112,7 @@ Nuneaton      1-0 Chasetown
 
 Division One South & West (Eighth Level)
 
-<!-- $table21$ -->
-
+<!-- $table21$ - Final Table -->
 
 ▪ Promotion Playoffs ▪
 
@@ -5162,10 +5143,4 @@ AFC Totton    1-2 Didcot        (aet)
 
 ‹list of league trophy winners, see page engassmembcuphist›.
 
-
-
-
-
-
-<!-- $about$ -->
 

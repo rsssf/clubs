@@ -1,15 +1,16 @@
   <!--
-     source: https://rsssf.org/tablese/eng08.html
+     title:   England 2007/08
+     source:  https://rsssf.org/tablese/eng08.html
+     author:  Ian King
+     updated: 21 May 2009
     -->
-  
 
 
 == England 2007/08
 
 Premiership
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Aug 11 _
@@ -563,8 +564,7 @@ Tottenham Hotspur 0-2 Liverpool
 West Ham United   2-2 Aston Villa
 Wigan Athletic    0-2 Manchester United
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 
 
@@ -1230,8 +1230,7 @@ Second Level 2007/08
 
 Championship
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 ▪ Round 1 ▪  Aug 11
 Burnley                 2-1 West Bromwich Albion
@@ -1958,8 +1957,7 @@ Southampton             3-2 Sheffield United
 Stoke City              0-0 Leicester City
 Wolverhampton Wanderers 1-0 Plymouth Argyle
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Final Table -->
 
 ▪ Promotion Playoffs ▪
 
@@ -1986,8 +1984,7 @@ Third Level 2007/08
 
 League Division One
 
-<!-- $table5$ -->
-
+<!-- $table5$ - Final Table -->
 
 NB: Leeds United 15 points deducted for financial problems;
     Luton Town and AFC Bournemouth 10 points deducted for
@@ -2723,8 +2720,7 @@ Southend United        1-1 Port Vale
 Swindon Town           2-1 Millwall
 Walsall                2-2 Hartlepool United
 
-<!-- $table6$ -->
-
+<!-- $table6$ - Final Table -->
 
 NB: Leeds United 15 points deducted for financial problems;
     Luton Town and AFC Bournemouth 10 points deducted for
@@ -2756,8 +2752,7 @@ Fourth Level 2007/08
 
 League Division Two
 
-<!-- $table7$ -->
-
+<!-- $table7$ - Final Table -->
 
 NB: Rotherham United 10 points deducted for financial problems
 
@@ -3487,8 +3482,7 @@ Rotherham United     1-0 Barnet
 Stockport County     1-0 Brentford
 Wycombe Wanderers    2-1 Bradford City
 
-<!-- $table8$ -->
-
+<!-- $table8$ - Final Table -->
 
 NB: Rotherham United 10 points deducted for financial problems
 
@@ -3516,8 +3510,7 @@ Fifth Level 2007/08
 
 Blue Square Premier
 
-<!-- $table9$ -->
-
+<!-- $table9$ - Final Table -->
 
 NB: Crawley Town 6 points deducted for bringing the league into disrepute;
     Halifax Town 10 points deducted for financial problems
@@ -4309,8 +4302,7 @@ Torquay United         1-2 Crawley Town
 Weymouth               2-2 Altrincham
 Woking                 3-0 Kidderminster Harriers
 
-<!-- $table10$ -->
-
+<!-- $table10$ - Final Table -->
 
 NB: Crawley Town 6 points deducted for bringing the league into disrepute;
     Halifax Town 10 points deducted for financial problems
@@ -4351,8 +4343,7 @@ Sixth Level 2007/08
 
 Conference North
 
-<!-- $table11$ -->
-
+<!-- $table11$ - Final Table -->
 
 [*] Solihull Moors were formed as a merger of Moor Green and
     Solihull Borough
@@ -4380,8 +4371,7 @@ NB: Barrow promoted to fifth level
 
 Conference South
 
-<!-- $table12$ -->
-
+<!-- $table12$ - Final Table -->
 
 NB: Weston-super-Mare and Dorchester Town eventually remained
     at sixth level due to withdrawal of other clubs, including
@@ -4431,10 +4421,4 @@ NB: Eastbourne Borough promoted to fifth level
 
 ‹list of league trophy winners, see page engassmembcuphist›.
 
-
-
-
-
-
-<!-- $about$ -->
 

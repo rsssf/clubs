@@ -1,7 +1,9 @@
   <!--
-     source: https://rsssf.org/tablese/eng00.html
+     title:   England 1999/2000
+     source:  https://rsssf.org/tablese/eng00.html
+     authors: Ken Butler, Stephen Mulrine and Andreas Exenberger
+     updated: 15 Apr 2001
     -->
-  
 
 
 == England 1999/2000
@@ -9,8 +11,7 @@
 
 Premiership
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Aug 7 _
@@ -952,8 +953,7 @@ Tottenham      3-1 Sunderland
 Watford        1-0 Coventry
   (Heidar Helguson 43)
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 <!-- $topscorers1$ -->
 
@@ -1366,8 +1366,7 @@ Leicester City          2-1 Tranmere Rovers
 
 First Division
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 _ Aug 7 1999 _
 
@@ -2264,8 +2263,7 @@ Stockport County          2-3   Nottingham Forest
 Tranmere Rovers           1-2   Crystal Palace
 West Bromwich Albion      2-0   Charlton Athletic
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Final Table -->
 
 
 ▪ Promotion Playoffs ▪
@@ -2290,8 +2288,7 @@ Ipswich Town              4-2   Barnsley
 
 Second Division
 
-<!-- $table5$ -->
-
+<!-- $table5$ - Final Table -->
 
 _ Aug 7 1999 _
 
@@ -3130,8 +3127,7 @@ Reading             1-0   Stoke City
 Scunthorpe United   1-2   Burnley
 Wrexham             1-0   Gillingham
 
-<!-- $table6$ -->
-
+<!-- $table6$ - Final Table -->
 
 ▪ Promotion Playoffs ▪
 
@@ -3149,8 +3145,7 @@ Gillingham          3-2   Wigan Athletic         [aet, 1-1 after 90 mins]
 
 Third Division
 
-<!-- $table7$ -->
-
+<!-- $table7$ - Final Table -->
 
 _ Aug 7 1999 _
 
@@ -3956,8 +3951,7 @@ Rotherham United           1-1   Swansea City
 Southend United            2-1   Cheltenham Town
 Torquay United             1-2   Northampton Town
 
-<!-- $table8$ -->
-
+<!-- $table8$ - Final Table -->
 
 ▪ Promotion Playoffs ▪
 
@@ -3975,8 +3969,7 @@ Peterborough United        1-0   Darlington
 
 Conference
 
-<!-- $table9$ -->
-
+<!-- $table9$ - Final Table -->
 
 _ Aug 14 1999 _
 
@@ -4683,28 +4676,24 @@ Rushden & Diamonds       0-0   Doncaster Rovers
 Stevenage Borough        1-1   Southport
 Woking                   0-2   Scarborough
 
-<!-- $table10$ -->
-
+<!-- $table10$ - Final Table -->
 
 
 Sixth Level 1999/2000
 
 Dr. Martens League (Southern League)
 
-<!-- $table11$ -->
-
+<!-- $table11$ - Final Table -->
 
 
 Ryman League Premier Division (Isthmian League)
 
-<!-- $table12$ -->
-
+<!-- $table12$ - Final Table -->
 
 
 UniBond League Premier Division (Northern Premier League)
 
-<!-- $table13$ -->
-
+<!-- $table13$ - Final Table -->
 
 ‹1998/99, see page eng99›.
 
@@ -4722,10 +4711,4 @@ UniBond League Premier Division (Northern Premier League)
 
 ‹list of league cup winners, see page engleagcuphist›.
 
-
-
-
-
-
-<!-- $about$ -->
 

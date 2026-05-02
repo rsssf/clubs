@@ -1,7 +1,9 @@
   <!--
-     source: https://rsssf.org/tablese/eng2024.html
+     title:   England 2023/24
+     source:  https://rsssf.org/tablese/eng2024.html
+     author:  Karel Stokkermans
+     updated: 11 Oct 2024
     -->
-  
 
 
 == England 2023/24
@@ -12,8 +14,7 @@
 
 ==== Premier League  ‹§premier›
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 NB: Everton 8 points deducted for financial reasons;
     Nottingham Forest 4 points deducted for financial reasons
@@ -594,8 +595,7 @@ Luton         2-4 Fulham
 Manchester C  3-1 West Ham
 Sheffield U   0-3 Tottenham
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 NB: Everton 8 points deducted for financial reasons;
     Nottingham Forest 4 points deducted for financial reasons
@@ -609,12 +609,11 @@ NB: Everton 8 points deducted for financial reasons;
 
 ‹Regular Stage, see §2reg› | ‹Promotion Playoff, see §2prom›
 
-▪ Regular Stage ▪
+===== Regular Stage  ‹§2reg›
 
-<!-- $table3$ -->
+<!-- $table3$ - Final Table -->
 
-
-▪ Promotion Playoff ▪
+===== Promotion Playoff  ‹§2prom›
 
 ▪ Semifinals ▪
 
@@ -640,15 +639,14 @@ Leeds         0-1 Southampton
 
 ‹Regular Stage, see §3reg› | ‹Promotion Playoff, see §3prom›
 
-▪ Regular Stage ▪
+===== Regular Stage  ‹§3reg›
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Final Table -->
 
 NB: Reading 6 points deducted for financial reasons;
     Wigan 8 points deducted for financial reasons
 
-▪ Promotion Playoff ▪
+===== Promotion Playoff  ‹§3prom›
 
 ▪ Semifinals ▪
 
@@ -676,12 +674,11 @@ Bolton        0-2 Oxford
 
 ‹Regular Stage, see §4reg› | ‹Promotion Playoff, see §4prom›
 
-▪ Regular Stage ▪
+===== Regular Stage  ‹§4reg›
 
-<!-- $table5$ -->
+<!-- $table5$ - Final Table -->
 
-
-▪ Promotion Playoff ▪
+===== Promotion Playoff  ‹§4prom›
 
 ▪ Semifinals ▪
 
@@ -709,16 +706,15 @@ Crawley       2-0 Crewe
 
 ‹Regular Stage, see §5reg› | ‹Promotion Playoff, see §5prom›
 
-▪ Regular Stage ▪
+===== Regular Stage  ‹§5reg›
 
-<!-- $table6$ -->
-
+<!-- $table6$ - Final Table -->
 
 NB: Southend 10 points deducted for financial reasons
 
 Promoted: Tamworth, Yeovil Town, Boston United, Braintree Town
 
-▪ Promotion Playoff ▪
+===== Promotion Playoff  ‹§5prom›
 
 NB: Gateshead not admitted due to not meeting ground ownershp requirements
 
@@ -739,10 +735,4 @@ Bromley       3-1 Altrincham
 ▪ Final ▪  May 5
 Bromley       2-2 Solihull      (aet, 4-3 pen)
 
-
-
-
-
-
-<!-- $about$ -->
 
