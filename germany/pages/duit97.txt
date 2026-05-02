@@ -1,11 +1,9 @@
-<!--
-  source: https://rsssf.org/tablesd/duit97.html
-
-  outline: -/h2/-/-/-/-
-           -/1/-/-/-/-
-    (2) ==      Germany 1996/97
- -->
-  
+  <!--
+     title:   Germany 1996/97
+     source:  https://rsssf.org/tablesd/duit97.html
+     authors: Gwidon Naskrent and Frank Ballesteros
+     updated: 11 May 2005
+    -->
 
 
 == Germany 1996/97
@@ -913,10 +911,4 @@ Team relegated from 2.Bundesliga to Regionalliga Süd:
 ‹list of foundation dates, see page duitfound›
 
 
-
-
-
-
-
-<!-- $about$ -->
 

@@ -1,11 +1,9 @@
-<!--
-  source: https://rsssf.org/tablesd/duit64.html
-
-  outline: -/h2/-/-/-/-
-           -/1/-/-/-/-
-    (2) ==      Germany 1963/64
- -->
-  
+  <!--
+     title:   Germany 1963/64
+     source:  https://rsssf.org/tablesd/duit64.html
+     author:  Gwidon Naskrent
+     updated: 1 Apr 2001
+    -->
 
 
 == Germany 1963/64
@@ -452,10 +450,4 @@ TSV 1860    3-2 Werder      (Thun 45, 77, Luttrop 4 - Brunnenmeier 56, 79 p)
 
 
 
-
-
-
-
-
-<!-- $about$ -->
 

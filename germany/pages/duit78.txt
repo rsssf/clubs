@@ -1,11 +1,9 @@
-<!--
-  source: https://rsssf.org/tablesd/duit78.html
-
-  outline: -/h2/-/-/-/-
-           -/1/-/-/-/-
-    (2) ==      Germany 1977/78
- -->
-  
+  <!--
+     title:   Germany 1977/78
+     source:  https://rsssf.org/tablesd/duit78.html
+     author:  Gwidon Naskrent
+     updated: 1 Apr 2001
+    -->
 
 
 == Germany 1977/78
@@ -562,10 +560,4 @@ Bochum     2-1 Düsseldorf (Trimhold 46, Abel 50 p - K.Allofs 32)
 
 
 
-
-
-
-
-
-<!-- $about$ -->
 

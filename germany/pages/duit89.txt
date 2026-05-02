@@ -1,11 +1,9 @@
-<!--
-  source: https://rsssf.org/tablesd/duit89.html
-
-  outline: -/h2/-/-/-/-
-           -/1/-/-/-/-
-    (2) ==      Germany 1988/89
- -->
-  
+  <!--
+     title:   Germany 1988/89
+     source:  https://rsssf.org/tablesd/duit89.html
+     author:  Gwidon Naskrent
+     updated: 1 Apr 2001
+    -->
 
 
 == Germany 1988/89
@@ -593,10 +591,4 @@ FC Bayern München 1988/89
         Helmut WINKLHOFER     1  (   6)
         Roland WOHLFAHRT     33  (2801) +17
 
-
-
-
-
-
-<!-- $about$ -->
 

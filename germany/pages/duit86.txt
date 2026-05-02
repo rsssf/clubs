@@ -1,11 +1,9 @@
-<!--
-  source: https://rsssf.org/tablesd/duit86.html
-
-  outline: -/h2/-/-/-/-
-           -/1/-/-/-/-
-    (2) ==      Germany 1985/86
- -->
-  
+  <!--
+     title:   Germany 1985/86
+     source:  https://rsssf.org/tablesd/duit86.html
+     author:  Gwidon Naskrent
+     updated: 1 Apr 2001
+    -->
 
 
 == Germany 1985/86
@@ -624,10 +622,4 @@ FC Bayern München 1985/86
         Helmut WINKLHOFER    13  (1111) + 2
         Roland WOHLFAHRT     25  (1875) +13
 
-
-
-
-
-
-<!-- $about$ -->
 

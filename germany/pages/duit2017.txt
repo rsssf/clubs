@@ -1,17 +1,9 @@
-<!--
-  source: https://rsssf.org/tablesd/duit2017.html
-
-  outline: -/h2/-/h4/-/-
-           -/1/-/4/-/-
-    (2) ==      Germany 2016/17
-    (4) ====    1. Bundesliga  ‹§1bl›
-    (4) ====    DFB Pokal  ‹§dfbpokal›
-    (4) ====    2. Bundesliga  ‹§2bl›
-    (4) ====    3. Liga  ‹§3bl›
-
-  aname 7: ‹§1bl›,‹§1prorel›,‹§dfbpokal›,‹§2bl›,‹§2prorel›,‹§3bl›,‹§3pro›
- -->
-  
+  <!--
+     title:   Germany 2016/17
+     source:  https://rsssf.org/tablesd/duit2017.html
+     author:  Karel Stokkermans
+     updated: 7 Jan 2021
+    -->
 
 
 == Germany 2016/17
@@ -494,7 +486,7 @@ Dortmund        4-3 Bremen
 
 <!-- $table3$ - Final Table -->
 
-Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
+===== Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
 
 ▪ First Leg ▪  May 25
 Wolfsburg       1-0 Braunschweig
@@ -606,7 +598,7 @@ Borussia Dortmund      2-1 Eintracht Frankfurt
 
 <!-- $table4$ - Final Table -->
 
-Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
+===== Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
 
 ▪ First Leg ▪  May 26
 Regensburg      1-1 1860 München
@@ -632,7 +624,7 @@ NB: VfR Aalen and FSV Frankfurt 9 points deducted for infringements of licensing
 NB: SC Paderborn were relegated for the third season in succession; however, they were
     reprieved following the forced demotion of 1860 München to the amateur level
 
-Promotion Playoffs for 3. Bundesliga  ‹§3pro›
+===== Promotion Playoffs for 3. Bundesliga  ‹§3pro›
 
 ▪ First Legs ▪  May 28
 Unterhaching    3-0 Elversberg
@@ -648,10 +640,4 @@ Carl Zeiss Jena 0-1 Viktoria Köln
 
 NB: SpVgg Unterhaching, SV Meppen and Carl Zeiss Jena promoted
 
-
-
-
-
-
-<!-- $about$ -->
 

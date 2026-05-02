@@ -1,11 +1,9 @@
-<!--
-  source: https://rsssf.org/tablesd/duit74.html
-
-  outline: -/h2/-/-/-/-
-           -/1/-/-/-/-
-    (2) ==      Germany 1973/74
- -->
-  
+  <!--
+     title:   Germany 1973/74
+     source:  https://rsssf.org/tablesd/duit74.html
+     author:  Gwidon Naskrent
+     updated: 1 Apr 2001
+    -->
 
 
 == Germany 1973/74
@@ -594,10 +592,4 @@ FC Bayern München 1973/74
 
 
 
-
-
-
-
-
-<!-- $about$ -->
 

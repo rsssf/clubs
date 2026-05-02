@@ -1,17 +1,9 @@
-<!--
-  source: https://rsssf.org/tablesd/duit2015.html
-
-  outline: -/h2/-/h4/-/-
-           -/1/-/4/-/-
-    (2) ==      Germany 2014/15
-    (4) ====    1. Bundesliga  ‹§1bl›
-    (4) ====    DFB Pokal  ‹§dfbpokal›
-    (4) ====    2. Bundesliga  ‹§2bl›
-    (4) ====    3. Liga  ‹§3bl›
-
-  aname 7: ‹§1bl›,‹§1prorel›,‹§dfbpokal›,‹§2bl›,‹§2prorel›,‹§3bl›,‹§3pro›
- -->
-  
+  <!--
+     title:   Germany 2014/15
+     source:  https://rsssf.org/tablesd/duit2015.html
+     author:  Karel Stokkermans
+     updated: 14 Jan 2021
+    -->
 
 
 == Germany 2014/15
@@ -491,7 +483,7 @@ Paderborn       1-2 Stuttgart
 
 <!-- $table3$ - Final Table -->
 
-Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
+===== Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
 
 ▪ First Leg ▪  May 28
 Hamburg         1-1 Karlsruhe
@@ -606,7 +598,7 @@ NB: Aalen 2 points deducted for infringements of licensing conditions;
     Sandhausen 3 points deducted for infringements of licensing conditions
 
 
-Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
+===== Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
 
 ▪ First Leg ▪  May 29
 Kiel            0-0 1860 München
@@ -626,7 +618,7 @@ NB: both remain at former level
 
 NB: Unterhaching 2 points deducted for infringements of licensing conditions
 
-Promotion Playoffs for 3. Bundesliga  ‹§3pro›
+===== Promotion Playoffs for 3. Bundesliga  ‹§3pro›
 
 ▪ First Legs ▪  May 27
 Bremen II       0-0 Mönchengladbach II
@@ -640,10 +632,4 @@ Würzburg        0-1 Saarbrücken     (aet, 6-5 pen)
 
 NB: SV Werder Bremen II, 1.FC Magdeburg and FC Würzburger Kickers promoted
 
-
-
-
-
-
-<!-- $about$ -->
 

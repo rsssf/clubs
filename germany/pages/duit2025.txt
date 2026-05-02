@@ -1,14 +1,9 @@
-<!--
-  source: https://rsssf.org/tablesd/duit2025.html
-
-  outline: -/h2/-/h4/-/-
-           -/1/-/1/-/-
-    (2) ==      Germany 2024/25
-    (4) ====    1. Bundesliga  ‹§1bl›
-
-  aname 1: ‹§1bl›
- -->
-  
+  <!--
+     title:   Germany 2024/25
+     source:  https://rsssf.org/tablesd/duit2025.html
+     author:  Karel Stokkermans
+     updated: 26 May 2025
+    -->
 
 
 == Germany 2024/25
@@ -496,10 +491,4 @@ Hoffenheim      0-4 Bayern
 
 <!-- $table3$ - Final Table -->
 
-
-
-
-
-
-<!-- $about$ -->
 

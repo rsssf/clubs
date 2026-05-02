@@ -1,11 +1,9 @@
-<!--
-  source: https://rsssf.org/tablesd/duit73.html
-
-  outline: -/h2/-/-/-/-
-           -/1/-/-/-/-
-    (2) ==      Germany 1972/73
- -->
-  
+  <!--
+     title:   Germany 1972/73
+     source:  https://rsssf.org/tablesd/duit73.html
+     author:  Gwidon Naskrent
+     updated: 1 Apr 2001
+    -->
 
 
 == Germany 1972/73
@@ -577,10 +575,4 @@ FC Bayern München 1972/73
 
 
 
-
-
-
-
-
-<!-- $about$ -->
 

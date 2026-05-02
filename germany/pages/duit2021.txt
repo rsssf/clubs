@@ -1,17 +1,9 @@
-<!--
-  source: https://rsssf.org/tablesd/duit2021.html
-
-  outline: -/h2/-/h4/-/-
-           -/1/-/4/-/-
-    (2) ==      Germany 2020/21
-    (4) ====    1. Bundesliga  ‹§1bl›
-    (4) ====    DFB Pokal  ‹§dfbpokal›
-    (4) ====    2. Bundesliga  ‹§2bl›
-    (4) ====    3. Liga  ‹§3bl›
-
-  aname 7: ‹§1bl›,‹§1prorel›,‹§dfbpokal›,‹§2bl›,‹§2prorel›,‹§3bl›,‹§3pro›
- -->
-  
+  <!--
+     title:   Germany 2020/21
+     source:  https://rsssf.org/tablesd/duit2021.html
+     author:  Karel Stokkermans
+     updated: 3 Feb 2022
+    -->
 
 
 == Germany 2020/21
@@ -502,7 +494,7 @@ Bremen          2-4 Mönchengladbach
 
 <!-- $table3$ - Final Table -->
 
-Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
+===== Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
 
 ▪ First Leg ▪  May 26
 Köln            0-1 Kiel
@@ -619,7 +611,7 @@ RB Leipzig             1-4 Borussia Dortmund
 
 <!-- $table4$ - Final Table -->
 
-Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
+===== Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
 
 ▪ First Leg ▪  May 27
 Ingolstadt      3-0 Osnabrück
@@ -640,7 +632,7 @@ NB: FC Ingolstadt 04 promoted, VfL Osnabrück relegated
 NB: KFC Uerdingen 05 failed to obtain a license for the 2021/22 season;
     therefore SV Meppen were reprieved from relegation
 
-Promotion Playoffs for 3. Bundesliga  ‹§3pro›
+===== Promotion Playoffs for 3. Bundesliga  ‹§3pro›
 
 NB: only the winners of the RL Bayern (1.FC Schweinfurt 05) and the
     RL Nord (TSV Havelse) enter the playoff; the winners of the
@@ -655,10 +647,4 @@ Havelse         1-0 Schweinfurt
 
 NB: TSV Havelse promoted
 
-
-
-
-
-
-<!-- $about$ -->
 

@@ -1,11 +1,9 @@
-<!--
-  source: https://rsssf.org/tablesd/duit75.html
-
-  outline: -/h2/-/-/-/-
-           -/1/-/-/-/-
-    (2) ==      Germany 1974/75
- -->
-  
+  <!--
+     title:   Germany 1974/75
+     source:  https://rsssf.org/tablesd/duit75.html
+     author:  Gwidon Naskrent
+     updated: 1 Apr 2001
+    -->
 
 
 == Germany 1974/75
@@ -624,10 +622,4 @@ Borussia Mönchengladbach 1974/75
 
 
 
-
-
-
-
-
-<!-- $about$ -->
 

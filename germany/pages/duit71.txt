@@ -1,11 +1,9 @@
-<!--
-  source: https://rsssf.org/tablesd/duit71.html
-
-  outline: -/h2/-/-/-/-
-           -/1/-/-/-/-
-    (2) ==      Germany 1970/71
- -->
-  
+  <!--
+     title:   Germany 1970/71
+     source:  https://rsssf.org/tablesd/duit71.html
+     author:  Gwidon Naskrent
+     updated: 1 Apr 2001
+    -->
 
 
 == Germany 1970/71
@@ -549,10 +547,4 @@ Borussia Mönchengladbach 1970/71
 
 
 
-
-
-
-
-
-<!-- $about$ -->
 

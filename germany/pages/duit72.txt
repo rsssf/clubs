@@ -1,11 +1,9 @@
-<!--
-  source: https://rsssf.org/tablesd/duit72.html
-
-  outline: -/h2/-/-/-/-
-           -/1/-/-/-/-
-    (2) ==      Germany 1971/72
- -->
-  
+  <!--
+     title:   Germany 1971/72
+     source:  https://rsssf.org/tablesd/duit72.html
+     author:  Gwidon Naskrent
+     updated: 1 Apr 2001
+    -->
 
 
 == Germany 1971/72
@@ -586,10 +584,4 @@ FC Bayern München 1971/72
 
 
 
-
-
-
-
-
-<!-- $about$ -->
 

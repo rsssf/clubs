@@ -1,11 +1,9 @@
-<!--
-  source: https://rsssf.org/tablesd/duit88.html
-
-  outline: -/h2/-/-/-/-
-           -/1/-/-/-/-
-    (2) ==      Germany 1987/88
- -->
-  
+  <!--
+     title:   Germany 1987/88
+     source:  https://rsssf.org/tablesd/duit88.html
+     author:  Gwidon Naskrent
+     updated: 1 Apr 2001
+    -->
 
 
 == Germany 1987/88
@@ -598,10 +596,4 @@ Werder Bremen 1987/88
         Thomas WOLTER        16  (1098)
 
 
-
-
-
-
-
-<!-- $about$ -->
 

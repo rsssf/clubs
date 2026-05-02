@@ -1,11 +1,9 @@
-<!--
-  source: https://rsssf.org/tablesd/duit06.html
-
-  outline: -/h2/-/-/-/-
-           -/1/-/-/-/-
-    (2) ==      Germany 2005/06
- -->
-  
+  <!--
+     title:   Germany 2005/06
+     source:  https://rsssf.org/tablesd/duit06.html
+     authors: Lars Kubusch, Daniel Dalence and Anthony Zea
+     updated: 4 Oct 2006
+    -->
 
 
 == Germany 2005/06
@@ -2041,10 +2039,4 @@ Hamburg
 ‹list of foundation dates, see page duitfound›
 
 
-
-
-
-
-
-<!-- $about$ -->
 

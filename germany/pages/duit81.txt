@@ -1,11 +1,9 @@
-<!--
-  source: https://rsssf.org/tablesd/duit81.html
-
-  outline: -/h2/-/-/-/-
-           -/1/-/-/-/-
-    (2) ==      Germany 1980/81
- -->
-  
+  <!--
+     title:   Germany 1980/81
+     source:  https://rsssf.org/tablesd/duit81.html
+     author:  Gwidon Naskrent
+     updated: 1 Apr 2001
+    -->
 
 
 == Germany 1980/81
@@ -578,10 +576,4 @@ Karlsruher 7-2 TSV 1860   (Günther 29, 87, Wiesner 55, Groß 59, Schüler 66,
 
 
 
-
-
-
-
-
-<!-- $about$ -->
 

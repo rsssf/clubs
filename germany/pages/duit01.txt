@@ -1,11 +1,9 @@
-<!--
-  source: https://rsssf.org/tablesd/duit01.html
-
-  outline: -/h2/-/-/-/-
-           -/1/-/-/-/-
-    (2) ==      Germany 2000/01
- -->
-  
+  <!--
+     title:   Germany 2000/01
+     source:  https://rsssf.org/tablesd/duit01.html
+     author:  Karel Stokkermans
+     updated: 21 Feb 2002
+    -->
 
 
 == Germany 2000/01
@@ -1501,10 +1499,4 @@ SpVgg Ansbach                (Bayern)
 
 ‹list of foundation dates, see page duitfound›
 
-
-
-
-
-
-<!-- $about$ -->
 

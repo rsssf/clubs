@@ -1,11 +1,9 @@
-<!--
-  source: https://rsssf.org/tablesd/duit68.html
-
-  outline: -/h2/-/-/-/-
-           -/1/-/-/-/-
-    (2) ==      Germany 1967/68
- -->
-  
+  <!--
+     title:   Germany 1967/68
+     source:  https://rsssf.org/tablesd/duit68.html
+     author:  Gwidon Naskrent
+     updated: 1 Apr 2001
+    -->
 
 
 == Germany 1967/68
@@ -550,10 +548,4 @@ Stuttgart   4-1 Hamburger   (Gress 8, Larsson 17, Sieloff 30 p, Handschuh 52 -
 
 
 
-
-
-
-
-
-<!-- $about$ -->
 

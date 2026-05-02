@@ -1,11 +1,9 @@
-<!--
-  source: https://rsssf.org/tablesd/duit83.html
-
-  outline: -/h2/-/-/-/-
-           -/1/-/-/-/-
-    (2) ==      Germany 1982/83
- -->
-  
+  <!--
+     title:   Germany 1982/83
+     source:  https://rsssf.org/tablesd/duit83.html
+     author:  Gwidon Naskrent
+     updated: 1 Apr 2001
+    -->
 
 
 == Germany 1982/83
@@ -604,10 +602,4 @@ Hamburger SV 1982/83
 
 
 
-
-
-
-
-
-<!-- $about$ -->
 

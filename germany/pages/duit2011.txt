@@ -1,17 +1,9 @@
-<!--
-  source: https://rsssf.org/tablesd/duit2011.html
-
-  outline: -/h2/-/h4/-/-
-           -/1/-/4/-/-
-    (2) ==      Germany 2010/11
-    (4) ====    1. Bundesliga  ‹§1bl›
-    (4) ====    DFB Pokal  ‹§dfbpokal›
-    (4) ====    2. Bundesliga  ‹§2bl›
-    (4) ====    3. Liga  ‹§3bl›
-
-  aname 4: ‹§1bl›,‹§dfbpokal›,‹§2bl›,‹§3bl›
- -->
-  
+  <!--
+     title:   Germany 2010/11
+     source:  https://rsssf.org/tablesd/duit2011.html
+     author:  Jan Schoenmakers
+     updated: 25 Mar 2024
+    -->
 
 
 == Germany 2010/11
@@ -496,7 +488,7 @@ SC Freiburg          0-1  Bayer Leverkusen
 
 <!-- $table2$ - Final Table -->
 
-▪ Promotion/Relegation Playoff ▪
+===== Promotion/Relegation Playoff  ‹§prorel›
 
 ▪ First Leg ▪  May 19
 Borussia M'gladbach  1-0 VfL Bochum
@@ -1115,7 +1107,7 @@ FC Ingolstadt 04      0-1  VfL Osnabrück
 
 <!-- $table4$ - Final Table -->
 
-▪ Promotion/Relegation Playoff ▪
+===== Promotion/Relegation Playoff  ‹§2prorel›
 
 ▪ First Leg ▪  May 20
 Dynamo Dresden        1-1  VfL Osnabrück
@@ -1700,10 +1692,4 @@ VfB Stuttgart II        3-2  Carl Zeiss Jena
 [*1] TuS Koblenz refrained from renewing license for 3. Liga
 [*2] Rot Weiss Ahlen moved to last position because of financial problems
 
-
-
-
-
-
-<!-- $about$ -->
 

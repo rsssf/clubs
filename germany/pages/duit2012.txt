@@ -1,17 +1,9 @@
-<!--
-  source: https://rsssf.org/tablesd/duit2012.html
-
-  outline: -/h2/-/h4/-/-
-           -/1/-/4/-/-
-    (2) ==      Germany 2011/12
-    (4) ====    1. Bundesliga  ‹§1bl›
-    (4) ====    DFB Pokal  ‹§dfbpokal›
-    (4) ====    2. Bundesliga  ‹§2bl›
-    (4) ====    3. Liga  ‹§3bl›
-
-  aname 6: ‹§1bl›,‹§1prorel›,‹§dfbpokal›,‹§2bl›,‹§2prorel›,‹§3bl›
- -->
-  
+  <!--
+     title:   Germany 2011/12
+     source:  https://rsssf.org/tablesd/duit2012.html
+     author:  Karel Stokkermans
+     updated: 23 Sep 2021
+    -->
 
 
 == Germany 2011/12
@@ -24,7 +16,7 @@
 
 <!-- $table1$ - Final Table -->
 
-Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
+===== Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
 
 ▪ First Leg ▪  May 10
 Hertha          1-2 Düsseldorf
@@ -138,7 +130,7 @@ Borussia Dortmund      5-2 Bayern München
 
 <!-- $table2$ - Final Table -->
 
-Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
+===== Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
 
 ▪ First Leg ▪  May 11
 Regensburg      1-1 Karlsruhe
@@ -158,10 +150,4 @@ NB: Jahn Regensburg promoted, Karlsruher SC relegated
 <!-- $table3$ - Final Table -->
 
 
-
-
-
-
-
-<!-- $about$ -->
 

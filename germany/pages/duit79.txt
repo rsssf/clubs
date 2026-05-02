@@ -1,11 +1,9 @@
-<!--
-  source: https://rsssf.org/tablesd/duit79.html
-
-  outline: -/h2/-/-/-/-
-           -/1/-/-/-/-
-    (2) ==      Germany 1978/79
- -->
-  
+  <!--
+     title:   Germany 1978/79
+     source:  https://rsssf.org/tablesd/duit79.html
+     author:  Gwidon Naskrent
+     updated: 1 Apr 2001
+    -->
 
 
 == Germany 1978/79
@@ -588,10 +586,4 @@ Hamburger SV 1978/79
 
 
 
-
-
-
-
-
-<!-- $about$ -->
 

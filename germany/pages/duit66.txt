@@ -1,11 +1,9 @@
-<!--
-  source: https://rsssf.org/tablesd/duit66.html
-
-  outline: -/h2/-/-/-/-
-           -/1/-/-/-/-
-    (2) ==      Germany 1965/66
- -->
-  
+  <!--
+     title:   Germany 1965/66
+     source:  https://rsssf.org/tablesd/duit66.html
+     author:  Gwidon Naskrent
+     updated: 1 Apr 2001
+    -->
 
 
 == Germany 1965/66
@@ -539,10 +537,4 @@ TSV 1860 München 1965/66
 
 
 
-
-
-
-
-
-<!-- $about$ -->
 

@@ -1,11 +1,9 @@
-<!--
-  source: https://rsssf.org/tablesd/duit08.html
-
-  outline: -/h2/-/-/-/-
-           -/1/-/-/-/-
-    (2) ==      Germany 2007/08
- -->
-  
+  <!--
+     title:   Germany 2007/08
+     source:  https://rsssf.org/tablesd/duit08.html
+     authors: Karel Stokkermans and Daniel Dalence
+     updated: 7 Nov 2008
+    -->
 
 
 == Germany 2007/08
@@ -1111,8 +1109,8 @@ Oberliga qualified instead.
 <!-- $table11$ - Nordost Süd -->
 
 Promotion Playoff of Nordost Nord-Süd
-Greifswalder SV 04    2-4 FC Sachsen Leipzig
-FC Sachsen Leipzig    2-2 Greifswalder SV 04
+Greifswalder SV 04      2-4 FC Sachsen Leipzig
+FC Sachsen Leipzig      2-2 Greifswalder SV 04
 
 FC Sachsen Leipzig promoted.
 
@@ -1136,28 +1134,28 @@ SC Victoria (champions of Verbandesliga Hamburg)
 MTV Gifhorn (champions of Verbandesliga Niedersachsen Ost)
 
 ▪ Round 1 ▪  Jun 4
-VfB Oldenburg       1-1 VfL Oldenburg
-FC Oberneuland       7-2 MTV Gifhorn
+VfB Oldenburg          1-1 VfL Oldenburg
+FC Oberneuland          7-2 MTV Gifhorn
 Bye: SC Victoria
 
 ▪ Round 2 ▪  Jun 8
-SC Victoria       1-1 VfB Oldenburg
-VfL Oldenburg       2-2 FC Oberneuland
+SC Victoria          1-1 VfB Oldenburg
+VfL Oldenburg          2-2 FC Oberneuland
 Bye: MTV Gifhorn
 
 ▪ Round 3 ▪  Jun 11
-MTV Gifhorn       1-3 SC Victoria
-VfB Oldenburg       1-5 FC Oberneuland
+MTV Gifhorn          1-3 SC Victoria
+VfB Oldenburg          1-5 FC Oberneuland
 Bye: VfL Oldenburg
 
 ▪ Round 4 ▪  Jun 15
-VfL Oldenburg       2-3 MTV Gifhorn     (also the final to decide the champion of Niedersachsen)
-FC Oberneuland       7-2 SC Victoria
+VfL Oldenburg          2-3 MTV Gifhorn       (also the final to decide the champion of Niedersachsen)
+FC Oberneuland          7-2 SC Victoria
 Bye: VfB Oldenburg
 
 ▪ Round 5 ▪  Jun 18
-MTV Gifhorn       0-2 VfB Oldenburg
-SC Victoria       0-2 VfL Oldenburg
+MTV Gifhorn          0-2 VfB Oldenburg
+SC Victoria          0-2 VfL Oldenburg
 Bye: FC Oberneuland
 
 <!-- $table16$ - Table -->
@@ -1175,11 +1173,11 @@ VERBANDESLIGA/LANDESLIGA (Fifth Level)
 ▪ Promotion Playoff ▪
 
 ▪ Semifinals ▪
-Vilzing        1-5 Schweinfurt 05
-Rain/Lech      4-3 Friesen      (aet)
+Vilzing            1-5 Schweinfurt 05
+Rain/Lech         4-3 Friesen         (aet)
 
 ▪ Final ▪
-Schweinfurt 05      0-3 Rain/Lech
+Schweinfurt 05         0-3 Rain/Lech
 
 Rain/Lech promoted, Schweinfurt 05 relegated.
 
@@ -1188,34 +1186,34 @@ Rain/Lech promoted, Schweinfurt 05 relegated.
 Nord
 
 ▪ Semifinals ▪
-FC Trogen       0-2 FSG Wiesentheid
-ASV Rimpar       1-2 ASV Hollfeld
+FC Trogen          0-2 FSG Wiesentheid
+ASV Rimpar          1-2 ASV Hollfeld
 
 ▪ Final ▪
-FSG Wiesentheid      0-7 1. FC Haßfurt
+FSG Wiesentheid         0-7 1. FC Haßfurt
 
 1. FC Haßfurt remain in Landesliga.
 
 Mitte
 
 Preliminary Relegation Playoff
-SC Eltersdorf       0-3 1. SC Feucht
+SC Eltersdorf          0-3 1. SC Feucht
 
 1. SC Feucht save for relegation, SC Eltersdorf enter in Relegation Playoff.
 
 ▪ Semifinals ▪
-SC Eltersdorf      4-1 ASC Simbach
-SG Quelle Fürth      3-1 TSV Bad Abbach
+SC Eltersdorf         4-1 ASC Simbach
+SG Quelle Fürth         3-1 TSV Bad Abbach
 
 ▪ Final ▪
-ASC Simbach       5-4 TSV Bad Abbach
+ASC Simbach          5-4 TSV Bad Abbach
 
 Süd
-FC Unterföhring     0-2 FC Memmingen II
+FC Unterföhring       0-2 FC Memmingen II
 
-FC Memmingen II     3-4 Falke Mt. Schwaben
+FC Memmingen II       3-4 Falke Mt. Schwaben
 
-FC Unterföhring     1-3 FC Memmingen II
+FC Unterföhring       1-3 FC Memmingen II
 
 <!-- $table21$ - Berlin -->
 
@@ -1238,8 +1236,8 @@ promotion playoff for Regionalliga Nord.
 
 ▪ Promotion Playoff ▪
 
-FC Schönberg 95      1-2 1. FC Lokomotiv Leipzig
-1. FC Lokomotiv Leipzig    0-1 FC Schönberg 95
+FC Schönberg 95         1-2 1. FC Lokomotiv Leipzig
+1. FC Lokomotiv Leipzig      0-1 FC Schönberg 95
 
 1. FC Lokomotiv Leipzig promoted.
 
@@ -1259,8 +1257,8 @@ FC Schönberg 95      1-2 1. FC Lokomotiv Leipzig
 
 ▪ Promotion Playoff ▪
 
-FC Schönberg 95      1-2 1. FC Lokomotiv Leipzig
-1. FC Lokomotiv Leipzig    0-1 FC Schönberg 95
+FC Schönberg 95         1-2 1. FC Lokomotiv Leipzig
+1. FC Lokomotiv Leipzig      0-1 FC Schönberg 95
 
 1. FC Lokomotiv Leipzig promoted.
 
@@ -1321,10 +1319,4 @@ FC Schönberg 95      1-2 1. FC Lokomotiv Leipzig
 ‹list of foundation dates, see page duitfound›
 
 
-
-
-
-
-
-<!-- $about$ -->
 

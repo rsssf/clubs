@@ -1,17 +1,9 @@
-<!--
-  source: https://rsssf.org/tablesd/duit2010.html
-
-  outline: -/h2/-/h4/-/-
-           -/1/-/4/-/-
-    (2) ==      Germany 2009/10
-    (4) ====    1. Bundesliga  ‹§1bl›
-    (4) ====    DFB Pokal  ‹§dfbpokal›
-    (4) ====    2. Bundesliga  ‹§2bl›
-    (4) ====    3. Liga  ‹§3bl›
-
-  aname 6: ‹§1bl›,‹§1prorel›,‹§dfbpokal›,‹§2bl›,‹§2prorel›,‹§3bl›
- -->
-  
+  <!--
+     title:   Germany 2009/10
+     source:  https://rsssf.org/tablesd/duit2010.html
+     authors: Karel Stokkermans and Marcel Haisma
+     updated: 2 Aug 2018
+    -->
 
 
 == Germany 2009/10
@@ -490,7 +482,7 @@ Wolfsburg       3-1 Frankfurt
 
 <!-- $table2$ - Final Table -->
 
-Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
+===== Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
 
 ▪ First Leg ▪  May 13
 Nürnberg        1-0 Augsburg
@@ -1113,7 +1105,7 @@ Sankt Pauli     1-2 Paderborn
 NB: Arminia Bielefeld had 4 points deducted at the end of
     the season for infringement of license regulations
 
-Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
+===== Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
 
 ▪ First Leg ▪  May 14
 Ingolstadt      1-0 Rostock
@@ -1698,10 +1690,4 @@ Unterhaching    4-3 Wehen
 
 <!-- $table6$ - Final Table -->
 
-
-
-
-
-
-<!-- $about$ -->
 

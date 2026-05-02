@@ -1,11 +1,9 @@
-<!--
-  source: https://rsssf.org/tablesd/duit84.html
-
-  outline: -/h2/-/-/-/-
-           -/1/-/-/-/-
-    (2) ==      Germany 1983/84
- -->
-  
+  <!--
+     title:   Germany 1983/84
+     source:  https://rsssf.org/tablesd/duit84.html
+     author:  Gwidon Naskrent
+     updated: 1 Apr 2001
+    -->
 
 
 == Germany 1983/84
@@ -632,10 +630,4 @@ VfB Stuttgart 1983/84
        Günther SCHÄFER       27  (2205) + 2
         Rainer ZIETSCH       11  ( 297)
 
-
-
-
-
-
-<!-- $about$ -->
 

@@ -1,17 +1,9 @@
-<!--
-  source: https://rsssf.org/tablesd/duit2020.html
-
-  outline: -/h2/-/h4/-/-
-           -/1/-/4/-/-
-    (2) ==      Germany 2019/20
-    (4) ====    1. Bundesliga  ‹§1bl›
-    (4) ====    DFB Pokal  ‹§dfbpokal›
-    (4) ====    2. Bundesliga  ‹§2bl›
-    (4) ====    3. Liga  ‹§3bl›
-
-  aname 7: ‹§1bl›,‹§1prorel›,‹§dfbpokal›,‹§2bl›,‹§2prorel›,‹§3bl›,‹§3pro›
- -->
-  
+  <!--
+     title:   Germany 2019/20
+     source:  https://rsssf.org/tablesd/duit2020.html
+     author:  Karel Stokkermans
+     updated: 8 Oct 2020
+    -->
 
 
 == Germany 2019/20
@@ -502,7 +494,7 @@ Bremen          6-1 Köln
 
 <!-- $table3$ - Final Table -->
 
-Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
+===== Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
 
 ▪ First Leg ▪  Jul 2
 Bremen          0-0 Heidenheim
@@ -620,7 +612,7 @@ Bayern München         4-2 Bayer Leverkusen
 
 <!-- $table4$ - Final Table -->
 
-Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
+===== Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
 
 ▪ First Leg ▪  Jul 7
 Nürnberg        2-0 Ingolstadt
@@ -638,7 +630,7 @@ NB: both remain at former level
 
 <!-- $table5$ - Final Table -->
 
-Promotion Playoffs for 3. Bundesliga  ‹§3pro›
+===== Promotion Playoffs for 3. Bundesliga  ‹§3pro›
 
 NB: only the winners of the RL Nordost (1.FC Lok Leipzig) and the
     RL West (SV Rödinghausen, who renounced on promotion and were
@@ -653,10 +645,4 @@ Lok Leipzig     2-2 Verl
 Verl            1-1 Lok Leipzig
 
 NB: SC Verl promoted
-
-
-
-
-
-<!-- $about$ -->
 

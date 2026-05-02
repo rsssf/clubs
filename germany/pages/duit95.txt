@@ -1,11 +1,9 @@
-<!--
-  source: https://rsssf.org/tablesd/duit95.html
-
-  outline: -/h2/-/-/-/-
-           -/1/-/-/-/-
-    (2) ==      Germany 1994/95
- -->
-  
+  <!--
+     title:   Germany 1994/95
+     source:  https://rsssf.org/tablesd/duit95.html
+     author:  Gwidon Naskrent
+     updated: 15 May 2014
+    -->
 
 
 == Germany 1994/95
@@ -675,10 +673,4 @@ Borussia Dortmund 1994/95
        Michael ZORC          33  (2932) +15
 
 
-
-
-
-
-
-<!-- $about$ -->
 

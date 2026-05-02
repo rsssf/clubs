@@ -1,11 +1,9 @@
-<!--
-  source: https://rsssf.org/tablesd/duit87.html
-
-  outline: -/h2/-/-/-/-
-           -/1/-/-/-/-
-    (2) ==      Germany 1986/87
- -->
-  
+  <!--
+     title:   Germany 1986/87
+     source:  https://rsssf.org/tablesd/duit87.html
+     author:  Gwidon Naskrent
+     updated: 1 Apr 2001
+    -->
 
 
 == Germany 1986/87
@@ -596,10 +594,4 @@ FC Bayern München 1986/87
         Holger WILMMER        9  ( 588)
         Roland WOHLFAHRT     27  (2293) +11
 
-
-
-
-
-
-<!-- $about$ -->
 

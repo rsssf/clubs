@@ -1,11 +1,9 @@
-<!--
-  source: https://rsssf.org/tablesd/duit91.html
-
-  outline: -/h2/-/-/-/-
-           -/1/-/-/-/-
-    (2) ==      Germany 1990/91
- -->
-  
+  <!--
+     title:   Germany 1990/91
+     source:  https://rsssf.org/tablesd/duit91.html
+     author:  Gwidon Naskrent
+     updated: 1 Apr 2001
+    -->
 
 
 == Germany 1990/91
@@ -647,10 +645,4 @@ STUTTGARTER KICKERS - St. Pauli 3:1
 
 
 
-
-
-
-
-
-<!-- $about$ -->
 

@@ -1,11 +1,9 @@
-<!--
-  source: https://rsssf.org/tablesd/duit00.html
-
-  outline: -/h2/-/-/-/-
-           -/1/-/-/-/-
-    (2) ==      Germany 1999/2000
- -->
-  
+  <!--
+     title:   Germany 1999/2000
+     source:  https://rsssf.org/tablesd/duit00.html
+     authors: Ken Butler and Karel Stokkermans
+     updated: 21 Feb 2002
+    -->
 
 
 == Germany 1999/2000
@@ -1557,10 +1555,4 @@ VfB Hüls                    3-0   Borussia Neunkirchen     [in Köln]
 
 ‹list of foundation dates, see page duitfound›
 
-
-
-
-
-
-<!-- $about$ -->
 

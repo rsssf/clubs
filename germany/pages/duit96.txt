@@ -1,11 +1,9 @@
-<!--
-  source: https://rsssf.org/tablesd/duit96.html
-
-  outline: -/h2/-/-/-/-
-           -/1/-/-/-/-
-    (2) ==      Germany 1995/96
- -->
-  
+  <!--
+     title:   Germany 1995/96
+     source:  https://rsssf.org/tablesd/duit96.html
+     author:  Gwidon Naskrent
+     updated: 1 Apr 2001
+    -->
 
 
 == Germany 1995/96
@@ -706,10 +704,4 @@ Borussia Dortmund 1995/96
 
 ‹list of foundation dates, see page duitfound›
 
-
-
-
-
-
-<!-- $about$ -->
 
