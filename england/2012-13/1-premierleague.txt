@@ -1,7 +1,10 @@
-= England Premier League 2012/13
+= England | Premier League 2012/13
 
-Round 1
-[Aug 18]
+
+<!-- $table1$ - Final Table -->
+
+▪ Round 1 ▪
+_ Aug 18 _
 Arsenal       0-0 Sunderland
 Fulham        5-0 Norwich
 Newcastle     2-1 Tottenham
@@ -9,14 +12,14 @@ QPR           0-5 Swansea
 Reading       1-1 Stoke
 West Bromwich 3-0 Liverpool
 West Ham      1-0 Aston Villa
-[Aug 19]
+_ Aug 19 _
 Manchester C  3-2 Southampton
 Wigan         0-2 Chelsea
-[Aug 20]
+_ Aug 20 _
 Everton       1-0 Manchester U
 
-Round 2
-[Aug 25]
+▪ Round 2 ▪
+_ Aug 25 _
 Aston Villa   1-3 Everton
 Chelsea       2-0 Newcastle
 Manchester U  3-2 Fulham
@@ -24,29 +27,29 @@ Norwich       1-1 QPR
 Southampton   0-2 Wigan
 Swansea       3-0 West Ham
 Tottenham     1-1 West Bromwich
-[Aug 26]
+_ Aug 26 _
 Liverpool     2-2 Manchester C
 Stoke         0-0 Arsenal
-[Dec 11]
+_ Dec 11 _
 Sunderland    3-0 Reading
 
-Round 3
-[Aug 22]
+▪ Round 3 ▪
+_ Aug 22 _
 Chelsea       4-2 Reading
-[Sep 1]
+_ Sep 1 _
 Manchester C  3-1 QPR
 Swansea       2-2 Sunderland
 Tottenham     1-1 Norwich
 West Bromwich 2-0 Everton
 West Ham      3-0 Fulham
 Wigan         2-2 Stoke
-[Sep 2]
+_ Sep 2 _
 Liverpool     0-2 Arsenal
 Newcastle     1-1 Aston Villa
 Southampton   2-3 Manchester U
 
-Round 4
-[Sep 15]
+▪ Round 4 ▪
+_ Sep 15 _
 Arsenal       6-1 Southampton
 Aston Villa   2-0 Swansea
 Fulham        3-0 West Bromwich
@@ -55,27 +58,27 @@ Norwich       0-0 West Ham
 QPR           0-0 Chelsea
 Stoke         1-1 Manchester C
 Sunderland    1-1 Liverpool
-[Sep 16]
+_ Sep 16 _
 Reading       1-3 Tottenham
-[Sep 17]
+_ Sep 17 _
 Everton       2-2 Newcastle
 
-Round 5
-[Sep 22]
+▪ Round 5 ▪
+_ Sep 22 _
 Chelsea       1-0 Stoke
 Southampton   4-1 Aston Villa
 Swansea       0-3 Everton
 West Bromwich 1-0 Reading
 West Ham      1-1 Sunderland
 Wigan         1-2 Fulham
-[Sep 23]
+_ Sep 23 _
 Liverpool     1-2 Manchester U
 Manchester C  1-1 Arsenal
 Newcastle     1-0 Norwich
 Tottenham     2-1 QPR
 
-Round 6
-[Sep 29]
+▪ Round 6 ▪
+_ Sep 29 _
 Arsenal       1-2 Chelsea
 Everton       3-1 Southampton
 Fulham        1-2 Manchester C
@@ -84,27 +87,27 @@ Norwich       2-5 Liverpool
 Reading       2-2 Newcastle
 Stoke         2-0 Swansea
 Sunderland    1-0 Wigan
-[Sep 30]
+_ Sep 30 _
 Aston Villa   1-1 West Bromwich
-[Oct 1]
+_ Oct 1 _
 QPR           1-2 West Ham
 
-Round 7
-[Oct 6]
+▪ Round 7 ▪
+_ Oct 6 _
 Chelsea       4-1 Norwich
 Manchester C  3-0 Sunderland
 Swansea       2-2 Reading
 West Bromwich 3-2 QPR
 West Ham      1-3 Arsenal
 Wigan         2-2 Everton
-[Oct 7]
+_ Oct 7 _
 Liverpool     0-0 Stoke
 Newcastle     0-3 Manchester U
 Southampton   2-2 Fulham
 Tottenham     2-0 Aston Villa
 
-Round 8
-[Oct 20]
+▪ Round 8 ▪
+_ Oct 20 _
 Fulham        1-0 Aston Villa
 Liverpool     1-0 Reading
 Manchester U  4-2 Stoke
@@ -113,26 +116,26 @@ Swansea       2-1 Wigan
 Tottenham     2-4 Chelsea
 West Bromwich 1-2 Manchester C
 West Ham      4-1 Southampton
-[Oct 21]
+_ Oct 21 _
 QPR           1-1 Everton
 Sunderland    1-1 Newcastle
 
-Round 9
-[Oct 27]
+▪ Round 9 ▪
+_ Oct 27 _
 Arsenal       1-0 QPR
 Aston Villa   1-1 Norwich
 Manchester C  1-0 Swansea
 Reading       3-3 Fulham
 Stoke         0-0 Sunderland
 Wigan         2-1 West Ham
-[Oct 28]
+_ Oct 28 _
 Chelsea       2-3 Manchester U
 Everton       2-2 Liverpool
 Newcastle     2-1 West Bromwich
 Southampton   1-2 Tottenham
 
-Round 10
-[Nov 3]
+▪ Round 10 ▪
+_ Nov 3 _
 Fulham        2-2 Everton
 Manchester U  2-1 Arsenal
 Norwich       1-0 Stoke
@@ -140,14 +143,14 @@ Sunderland    0-1 Aston Villa
 Swansea       1-1 Chelsea
 Tottenham     0-1 Wigan
 West Ham      0-0 Manchester C
-[Nov 4]
+_ Nov 4 _
 Liverpool     1-1 Newcastle
 QPR           1-1 Reading
-[Nov 5]
+_ Nov 5 _
 West Bromwich 2-0 Southampton
 
-Round 11
-[Nov 10]
+▪ Round 11 ▪
+_ Nov 10 _
 Arsenal       3-3 Fulham
 Aston Villa   2-3 Manchester U
 Everton       2-1 Sunderland
@@ -155,13 +158,13 @@ Reading       0-0 Norwich
 Southampton   1-1 Swansea
 Stoke         1-0 QPR
 Wigan         1-2 West Bromwich
-[Nov 11]
+_ Nov 11 _
 Chelsea       1-1 Liverpool
 Manchester C  2-1 Tottenham
 Newcastle     0-1 West Ham
 
-Round 12
-[Nov 17]
+▪ Round 12 ▪
+_ Nov 17 _
 Arsenal       5-2 Tottenham
 Liverpool     3-0 Wigan
 Manchester C  5-0 Aston Villa
@@ -170,30 +173,30 @@ Norwich       1-0 Manchester U
 QPR           1-3 Southampton
 Reading       2-1 Everton
 West Bromwich 2-1 Chelsea
-[Nov 18]
+_ Nov 18 _
 Fulham        1-3 Sunderland
-[Nov 19]
+_ Nov 19 _
 West Ham      1-1 Stoke
 
-Round 13
-[Nov 24]
+▪ Round 13 ▪
+_ Nov 24 _
 Aston Villa   0-0 Arsenal
 Everton       1-1 Norwich
 Manchester U  3-1 QPR
 Stoke         1-0 Fulham
 Sunderland    2-4 West Bromwich
 Wigan         3-2 Reading
-[Nov 25]
+_ Nov 25 _
 Chelsea       0-0 Manchester C
 Southampton   2-0 Newcastle
 Swansea       0-0 Liverpool
 Tottenham     3-1 West Ham
 
-Round 14
-[Nov 27]
+▪ Round 14 ▪
+_ Nov 27 _
 Aston Villa   1-0 Reading
 Sunderland    0-0 QPR
-[Nov 28]
+_ Nov 28 _
 Chelsea       0-0 Fulham
 Everton       1-1 Arsenal
 Manchester U  1-0 West Ham
@@ -203,8 +206,8 @@ Swansea       3-1 West Bromwich
 Tottenham     2-1 Liverpool
 Wigan         0-2 Manchester C
 
-Round 15
-[Dec 1]
+▪ Round 15 ▪
+_ Dec 1 _
 Arsenal       0-2 Swansea
 Fulham        0-3 Tottenham
 Liverpool     1-0 Southampton
@@ -213,44 +216,44 @@ QPR           1-1 Aston Villa
 Reading       3-4 Manchester U
 West Bromwich 0-1 Stoke
 West Ham      3-1 Chelsea
-[Dec 2]
+_ Dec 2 _
 Norwich       2-1 Sunderland
-[Dec 3]
+_ Dec 3 _
 Newcastle     3-0 Wigan
 
-Round 16
-[Dec 8]
+▪ Round 16 ▪
+_ Dec 8 _
 Arsenal       2-0 West Bromwich
 Aston Villa   0-0 Stoke
 Southampton   1-0 Reading
 Sunderland    1-3 Chelsea
 Swansea       3-4 Norwich
 Wigan         2-2 QPR
-[Dec 9]
+_ Dec 9 _
 Everton       2-1 Tottenham
 Manchester C  2-3 Manchester U
 West Ham      2-3 Liverpool
-[Dec 10]
+_ Dec 10 _
 Fulham        2-1 Newcastle
 
-Round 17
-[Dec 15]
+▪ Round 17 ▪
+_ Dec 15 _
 Liverpool     1-3 Aston Villa
 Manchester U  3-1 Sunderland
 Newcastle     1-3 Manchester C
 Norwich       2-1 Wigan
 QPR           2-1 Fulham
 Stoke         1-1 Everton
-[Dec 16]
+_ Dec 16 _
 Tottenham     1-0 Swansea
 West Bromwich 0-0 West Ham
-[Dec 17]
+_ Dec 17 _
 Reading       2-5 Arsenal
-[Jan 16]
+_ Jan 16 _
 Chelsea       2-2 Southampton
 
-Round 18
-[Dec 22]
+▪ Round 18 ▪
+_ Dec 22 _
 Liverpool     4-0 Fulham
 Manchester C  1-0 Reading
 Newcastle     1-0 QPR
@@ -259,12 +262,12 @@ Tottenham     0-0 Stoke
 West Bromwich 2-1 Norwich
 West Ham      1-2 Everton
 Wigan         0-1 Arsenal
-[Dec 23]
+_ Dec 23 _
 Chelsea       8-0 Aston Villa
 Swansea       1-1 Manchester U
 
-Round 19
-[Dec 26]
+▪ Round 19 ▪
+_ Dec 26 _
 Aston Villa   0-4 Tottenham
 Everton       2-1 Wigan
 Fulham        1-1 Southampton
@@ -274,11 +277,11 @@ QPR           1-2 West Bromwich
 Reading       0-0 Swansea
 Stoke         3-1 Liverpool
 Sunderland    1-0 Manchester C
-[Jan 23]
+_ Jan 23 _
 Arsenal       5-1 West Ham
 
-Round 20
-[Dec 29]
+▪ Round 20 ▪
+_ Dec 29 _
 Arsenal       7-3 Newcastle
 Aston Villa   0-3 Wigan
 Fulham        1-2 Swansea
@@ -287,12 +290,12 @@ Norwich       3-4 Manchester C
 Reading       1-0 West Ham
 Stoke         3-3 Southampton
 Sunderland    1-2 Tottenham
-[Dec 30]
+_ Dec 30 _
 Everton       1-2 Chelsea
 QPR           0-3 Liverpool
 
-Round 21
-[Jan 1]
+▪ Round 21 ▪
+_ Jan 1 _
 Manchester C  3-0 Stoke
 Southampton   1-1 Arsenal
 Swansea       2-2 Aston Villa
@@ -300,13 +303,13 @@ Tottenham     3-1 Reading
 West Bromwich 1-2 Fulham
 West Ham      2-1 Norwich
 Wigan         0-4 Manchester U
-[Jan 2]
+_ Jan 2 _
 Chelsea       0-1 QPR
 Liverpool     3-0 Sunderland
 Newcastle     1-2 Everton
 
-Round 22
-[Jan 12]
+▪ Round 22 ▪
+_ Jan 12 _
 Aston Villa   0-1 Southampton
 Everton       0-0 Swansea
 Fulham        1-1 Wigan
@@ -315,12 +318,12 @@ QPR           0-0 Tottenham
 Reading       3-2 West Bromwich
 Stoke         0-4 Chelsea
 Sunderland    3-0 West Ham
-[Jan 13]
+_ Jan 13 _
 Arsenal       0-2 Manchester C
 Manchester U  2-1 Liverpool
 
-Round 23
-[Jan 19]
+▪ Round 23 ▪
+_ Jan 19 _
 Liverpool     5-0 Norwich
 Manchester C  2-0 Fulham
 Newcastle     1-2 Reading
@@ -328,19 +331,19 @@ Swansea       3-1 Stoke
 West Bromwich 2-2 Aston Villa
 West Ham      1-1 QPR
 Wigan         2-3 Sunderland
-[Jan 20]
+_ Jan 20 _
 Chelsea       2-1 Arsenal
 Tottenham     1-1 Manchester U
-[Jan 21]
+_ Jan 21 _
 Southampton   0-0 Everton
 
-Round 24
-[Jan 29]
+▪ Round 24 ▪
+_ Jan 29 _
 Aston Villa   1-2 Newcastle
 QPR           0-0 Manchester C
 Stoke         2-2 Wigan
 Sunderland    0-0 Swansea
-[Jan 30]
+_ Jan 30 _
 Arsenal       2-2 Liverpool
 Everton       2-1 West Bromwich
 Fulham        3-1 West Ham
@@ -348,8 +351,8 @@ Manchester U  2-1 Southampton
 Norwich       1-1 Tottenham
 Reading       2-2 Chelsea
 
-Round 25
-[Feb 2]
+▪ Round 25 ▪
+_ Feb 2 _
 Arsenal       1-0 Stoke
 Everton       3-3 Aston Villa
 Fulham        0-1 Manchester U
@@ -358,12 +361,12 @@ QPR           0-0 Norwich
 Reading       2-1 Sunderland
 West Ham      1-0 Swansea
 Wigan         2-2 Southampton
-[Feb 3]
+_ Feb 3 _
 Manchester C  2-2 Liverpool
 West Bromwich 0-1 Tottenham
 
-Round 26
-[Feb 9]
+▪ Round 26 ▪
+_ Feb 9 _
 Chelsea       4-1 Wigan
 Norwich       0-0 Fulham
 Southampton   3-1 Manchester C
@@ -371,30 +374,30 @@ Stoke         2-1 Reading
 Sunderland    0-1 Arsenal
 Swansea       4-1 QPR
 Tottenham     2-1 Newcastle
-[Feb 10]
+_ Feb 10 _
 Aston Villa   2-1 West Ham
 Manchester U  2-0 Everton
-[Feb 11]
+_ Feb 11 _
 Liverpool     0-2 West Bromwich
 
-Round 27
-[Feb 17]
+▪ Round 27 ▪
+_ Feb 17 _
 Liverpool     5-0 Swansea
-[Feb 23]
+_ Feb 23 _
 Arsenal       2-1 Aston Villa
 Fulham        1-0 Stoke
 Norwich       2-1 Everton
 QPR           0-2 Manchester U
 Reading       0-3 Wigan
 West Bromwich 2-1 Sunderland
-[Feb 24]
+_ Feb 24 _
 Manchester C  2-0 Chelsea
 Newcastle     4-2 Southampton
-[Feb 25]
+_ Feb 25 _
 West Ham      2-3 Tottenham
 
-Round 28
-[Mar 2]
+▪ Round 28 ▪
+_ Mar 2 _
 Manchester U  4-0 Norwich
 Everton       3-1 Reading
 Southampton   1-2 QPR
@@ -403,35 +406,44 @@ Sunderland    2-2 Fulham
 Swansea       1-0 Newcastle
 Chelsea       1-0 West Bromwich
 Wigan         0-4 Liverpool
-[Mar 3]
+_ Mar 3 _
 Tottenham     2-1 Arsenal
-[Mar 4]
+_ Mar 4 _
 Aston Villa   0-1 Manchester C
 
-Round 29
-[Mar 9]
+▪ Round 29 ▪
+_ Mar 9 _
 Reading       1-2 Aston Villa
 West Bromwich 2-1 Swansea
 QPR           3-1 Sunderland
 Norwich       0-0 Southampton
-[Mar 10]
+_ Mar 10 _
 
-Round 30
-[Mar 16]
+Newcastle     2-1 Stoke
+Liverpool     3-2 Tottenham
+_ Apr 16 _
+Arsenal       0-0 Everton
+_ Apr 17 _
+West Ham      2-2 Manchester U
+Manchester C  1-0 Wigan
+Fulham        0-3 Chelsea
+
+▪ Round 30 ▪
+_ Mar 16 _
 Everton       2-0 Manchester C
 Stoke         0-0 West Bromwich
 Southampton   3-1 Liverpool
 Swansea       0-2 Arsenal
 Aston Villa   3-2 QPR
 Manchester U  1-0 Reading
-[Mar 17]
+_ Mar 17 _
 Sunderland    1-1 Norwich
 Tottenham     0-1 Fulham
 Wigan         2-1 Newcastle
 Chelsea       2-0 West Ham
 
-Round 31
-[Mar 30]
+▪ Round 31 ▪
+_ Mar 30 _
 Sunderland    0-1 Manchester U
 Southampton   2-1 Chelsea
 Wigan         1-0 Norwich
@@ -440,44 +452,44 @@ Swansea       1-2 Tottenham
 Arsenal       4-1 Reading
 Manchester C  4-0 Newcastle
 Everton       1-0 Stoke
-[Mar 31]
+_ Mar 31 _
 Aston Villa   1-2 Liverpool
-[Apr 1]
+_ Apr 1 _
 Fulham        3-2 QPR
 
-Round 32
-[Apr 6]
+▪ Round 32 ▪
+_ Apr 6 _
 Reading       0-2 Southampton
 Norwich       2-2 Swansea
 Stoke         1-3 Aston Villa
 West Bromwich 1-2 Arsenal
-[Apr 7]
+_ Apr 7 _
 Liverpool     0-0 West Ham
 Tottenham     2-2 Everton
 Chelsea       2-1 Sunderland
 Newcastle     1-0 Fulham
 QPR           1-1 Wigan
-[Apr 8]
+_ Apr 8 _
 Manchester U  1-2 Manchester C
 
-Round 33
-[Apr 13]
+▪ Round 33 ▪
+_ Apr 13 _
 Aston Villa   1-1 Fulham
 Everton       2-0 QPR
 Reading       0-0 Liverpool
 Southampton   1-1 West Ham
 Arsenal       3-1 Norwich
-[Apr 14]
+_ Apr 14 _
 Newcastle     0-3 Sunderland
 Stoke         0-2 Manchester U
-[May 7]
+_ May 7 _
 Manchester C  1-0 West Bromwich
 Wigan         2-3 Swansea
-[May 8]
+_ May 8 _
 Chelsea       2-2 Tottenham
 
-Round 34
-[Apr 20]
+▪ Round 34 ▪
+_ Apr 20 _
 Sunderland    1-0 Everton
 West Bromwich 1-1 Newcastle
 Norwich       2-1 Reading
@@ -485,29 +497,29 @@ Fulham        0-1 Arsenal
 QPR           0-2 Stoke
 Swansea       0-0 Southampton
 West Ham      2-0 Wigan
-[Apr 21]
+_ Apr 21 _
 Tottenham     3-1 Manchester C
 Liverpool     2-2 Chelsea
-[Apr 22]
+_ Apr 22 _
 Manchester U  3-0 Aston Villa
 
-Round 35
-[Apr 27]
+▪ Round 35 ▪
+_ Apr 27 _
 Everton       1-0 Fulham
 Manchester C  2-1 West Ham
 Newcastle     0-6 Liverpool
 Southampton   0-3 West Bromwich
 Stoke         1-0 Norwich
 Wigan         2-2 Tottenham
-[Apr 28]
+_ Apr 28 _
 Arsenal       1-1 Manchester U
 Chelsea       2-0 Swansea
 Reading       0-0 QPR
-[Apr 29]
+_ Apr 29 _
 Aston Villa   6-1 Sunderland
 
-Round 36
-[May 4]
+▪ Round 36 ▪
+_ May 4 _
 Fulham        2-4 Reading
 Norwich       1-2 Aston Villa
 QPR           0-1 Arsenal
@@ -515,16 +527,16 @@ Swansea       0-0 Manchester C
 Tottenham     1-0 Southampton
 West Bromwich 2-3 Wigan
 West Ham      0-0 Newcastle
-[May 5]
+_ May 5 _
 Liverpool     0-0 Everton
 Manchester U  0-1 Chelsea
-[May 6]
+_ May 6 _
 Sunderland    1-1 Stoke
 
-Round 37
-[May 11]
+▪ Round 37 ▪
+_ May 11 _
 Aston Villa   1-2 Chelsea
-[May 12]
+_ May 12 _
 Everton       2-0 West Ham
 Fulham        1-3 Liverpool
 Manchester U  2-1 Swansea
@@ -532,11 +544,11 @@ Norwich       4-0 West Bromwich
 QPR           1-2 Newcastle
 Stoke         1-2 Tottenham
 Sunderland    1-1 Southampton
-[May 14]
+_ May 14 _
 Arsenal       4-1 Wigan
 Reading       0-2 Manchester C
 
-Round 38 [May 19]
+▪ Round 38 ▪  May 19
 Chelsea       2-1 Everton
 Liverpool     1-0 QPR
 Manchester C  2-3 Norwich
@@ -547,4 +559,10 @@ Tottenham     1-0 Sunderland
 West Bromwich 5-5 Manchester U
 West Ham      4-2 Reading
 Wigan         2-2 Aston Villa
+
+<!-- $table2$ - Final Table -->
+
+
+
+
 

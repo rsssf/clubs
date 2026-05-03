@@ -1,22 +1,25 @@
-= England Premier League 2019/20
+= England | Premier League 2019/20
 
-Round 1
-[Aug 9]
+
+<!-- $table1$ - Final Table -->
+
+▪ Round 1 ▪
+_ Aug 9 _
 Liverpool     4-1 Norwich
-[Aug 10]
+_ Aug 10 _
 West Ham      0-5 Manchester C
 Bournemouth   1-1 Sheffield U
 Burnley       3-0 Southampton
 Crystal P     0-0 Everton
 Watford       0-3 Brighton
 Tottenham     3-1 Aston Villa
-[Aug 11]
+_ Aug 11 _
 Leicester     0-0 Wolverhampton
 Newcastle     0-1 Arsenal
 Manchester U  4-0 Chelsea
 
-Round 2
-[Aug 17]
+▪ Round 2 ▪
+_ Aug 17 _
 Arsenal       2-1 Burnley
 Aston Villa   1-2 Bournemouth
 Brighton      1-1 West Ham
@@ -24,29 +27,29 @@ Everton       1-0 Watford
 Norwich       3-1 Newcastle
 Southampton   1-2 Liverpool
 Manchester C  2-2 Tottenham
-[Aug 18]
+_ Aug 18 _
 Sheffield U   1-0 Crystal P
 Chelsea       1-1 Leicester
-[Aug 19]
+_ Aug 19 _
 Wolverhampton 1-1 Manchester U
 
-Round 3
-[Aug 23]
+▪ Round 3 ▪
+_ Aug 23 _
 Aston Villa   2-0 Everton
-[Aug 24]
+_ Aug 24 _
 Norwich       2-3 Chelsea
 Brighton      0-2 Southampton
 Manchester U  1-2 Crystal P
 Sheffield U   1-2 Leicester
 Watford       1-3 West Ham
 Liverpool     3-1 Arsenal
-[Aug 25]
+_ Aug 25 _
 Bournemouth   1-3 Manchester C
 Tottenham     0-1 Newcastle
 Wolverhampton 1-1 Burnley
 
-Round 4
-[Aug 31]
+▪ Round 4 ▪
+_ Aug 31 _
 Southampton   1-1 Manchester U
 Chelsea       2-2 Sheffield U
 Crystal P     1-0 Aston Villa
@@ -55,12 +58,12 @@ Manchester C  4-0 Brighton
 Newcastle     1-1 Watford
 West Ham      2-0 Norwich
 Burnley       0-3 Liverpool
-[Sep 1]
+_ Sep 1 _
 Everton       3-2 Wolverhampton
 Arsenal       2-2 Tottenham
 
-Round 5
-[Sep 14]
+▪ Round 5 ▪
+_ Sep 14 _
 Liverpool     3-1 Newcastle
 Brighton      1-1 Burnley
 Manchester U  1-0 Leicester
@@ -68,29 +71,29 @@ Sheffield U   0-1 Southampton
 Tottenham     4-0 Crystal P
 Wolverhampton 2-5 Chelsea
 Norwich       3-2 Manchester C
-[Sep 15]
+_ Sep 15 _
 Bournemouth   3-1 Everton
 Watford       2-2 Arsenal
-[Sep 16]
+_ Sep 16 _
 Aston Villa   0-0 West Ham
 
-Round 6
-[Sep 20]
+▪ Round 6 ▪
+_ Sep 20 _
 Southampton   1-3 Bournemouth
-[Sep 21]
+_ Sep 21 _
 Leicester     2-1 Tottenham
 Burnley       2-0 Norwich
 Everton       0-2 Sheffield U
 Manchester C  8-0 Watford
 Newcastle     0-0 Brighton
-[Sep 22]
+_ Sep 22 _
 Crystal P     1-1 Wolverhampton
 West Ham      2-0 Manchester U
 Arsenal       3-2 Aston Villa
 Chelsea       1-2 Liverpool
 
-Round 7
-[Sep 28]
+▪ Round 7 ▪
+_ Sep 28 _
 Sheffield U   0-1 Liverpool
 Aston Villa   2-2 Burnley
 Bournemouth   2-2 West Ham
@@ -99,27 +102,27 @@ Crystal P     2-0 Norwich
 Tottenham     2-1 Southampton
 Wolverhampton 2-0 Watford
 Everton       1-3 Manchester C
-[Sep 29]
+_ Sep 29 _
 Leicester     5-0 Newcastle
-[Sep 30]
+_ Sep 30 _
 Manchester U  1-1 Arsenal
 
-Round 8
-[Oct 5]
+▪ Round 8 ▪
+_ Oct 5 _
 Brighton      3-0 Tottenham
 Burnley       1-0 Everton
 Liverpool     2-1 Leicester
 Norwich       1-5 Aston Villa
 Watford       0-0 Sheffield U
 West Ham      1-2 Crystal P
-[Oct 6]
+_ Oct 6 _
 Arsenal       1-0 Bournemouth
 Manchester C  0-2 Wolverhampton
 Southampton   1-4 Chelsea
 Newcastle     1-0 Manchester U
 
-Round 9
-[Oct 19]
+▪ Round 9 ▪
+_ Oct 19 _
 Everton       2-0 West Ham
 Aston Villa   2-1 Brighton
 Bournemouth   0-0 Norwich
@@ -128,28 +131,28 @@ Leicester     2-1 Burnley
 Tottenham     1-1 Watford
 Wolverhampton 1-1 Southampton
 Crystal P     0-2 Manchester C
-[Oct 20]
+_ Oct 20 _
 Manchester U  1-1 Liverpool
-[Oct 21]
+_ Oct 21 _
 Sheffield U   1-0 Arsenal
 
-Round 10
-[Oct 25]
+▪ Round 10 ▪
+_ Oct 25 _
 Southampton   0-9 Leicester
-[Oct 26]
+_ Oct 26 _
 Manchester C  3-0 Aston Villa
 Brighton      3-2 Everton
 Watford       0-0 Bournemouth
 West Ham      1-1 Sheffield U
 Burnley       2-4 Chelsea
-[Oct 27]
+_ Oct 27 _
 Newcastle     1-1 Wolverhampton
 Arsenal       2-2 Crystal P
 Liverpool     2-1 Tottenham
 Norwich       1-3 Manchester U
 
-Round 11
-[Nov 2]
+▪ Round 11 ▪
+_ Nov 2 _
 Bournemouth   1-0 Manchester U
 Arsenal       1-1 Wolverhampton
 West Ham      2-3 Newcastle
@@ -158,27 +161,27 @@ Sheffield U   3-0 Burnley
 Brighton      2-0 Norwich
 Aston Villa   1-2 Liverpool
 Watford       1-2 Chelsea
-[Nov 3]
+_ Nov 3 _
 Crystal P     0-2 Leicester
 Everton       1-1 Tottenham
 
-Round 12
-[Nov 8]
+▪ Round 12 ▪
+_ Nov 8 _
 Norwich       0-2 Watford
-[Nov 9]
+_ Nov 9 _
 Chelsea       2-0 Crystal P
 Newcastle     2-1 Bournemouth
 Burnley       3-0 West Ham
 Southampton   1-2 Everton
 Tottenham     1-1 Sheffield U
 Leicester     2-0 Arsenal
-[Nov 10]
+_ Nov 10 _
 Manchester U  3-1 Brighton
 Wolverhampton 2-1 Aston Villa
 Liverpool     3-1 Manchester C
 
-Round 13
-[Nov 23]
+▪ Round 13 ▪
+_ Nov 23 _
 West Ham      2-3 Tottenham
 Arsenal       2-2 Southampton
 Watford       0-3 Burnley
@@ -187,72 +190,72 @@ Brighton      0-2 Leicester
 Bournemouth   1-2 Wolverhampton
 Crystal P     1-2 Liverpool
 Manchester C  2-1 Chelsea
-[Nov 24]
+_ Nov 24 _
 Sheffield U   3-3 Manchester U
-[Nov 25]
+_ Nov 25 _
 Aston Villa   2-0 Newcastle
 
-Round 14
-[Nov 30]
+▪ Round 14 ▪
+_ Nov 30 _
 Newcastle     2-2 Manchester C
 Liverpool     2-1 Brighton
 Tottenham     3-2 Bournemouth
 Burnley       0-2 Crystal P
 Chelsea       0-1 West Ham
 Southampton   2-1 Watford
-[Dec 1]
+_ Dec 1 _
 Norwich       2-2 Arsenal
 Wolverhampton 1-1 Sheffield U
 Leicester     2-1 Everton
 Manchester U  2-2 Aston Villa
 
-Round 15
-[Dec 3]
+▪ Round 15 ▪
+_ Dec 3 _
 Crystal P     1-0 Bournemouth
 Burnley       1-4 Manchester C
-[Dec 4]
+_ Dec 4 _
 Chelsea       2-1 Aston Villa
 Wolverhampton 2-0 West Ham
 Leicester     2-0 Watford
 Manchester U  2-1 Tottenham
 Southampton   2-1 Norwich
 Liverpool     5-2 Everton
-[Dec 5]
+_ Dec 5 _
 Sheffield U   0-2 Newcastle
 Arsenal       1-2 Brighton
 
-Round 16
-[Dec 7]
+▪ Round 16 ▪
+_ Dec 7 _
 Everton       3-1 Chelsea
 Watford       0-0 Crystal P
 Tottenham     5-0 Burnley
 Bournemouth   0-3 Liverpool
 Manchester C  1-2 Manchester U
-[Dec 8]
+_ Dec 8 _
 Norwich       1-2 Sheffield U
 Newcastle     2-1 Southampton
 Aston Villa   1-4 Leicester
 Brighton      2-2 Wolverhampton
-[Dec 9]
+_ Dec 9 _
 West Ham      1-3 Arsenal
 
-Round 17
-[Dec 14]
+▪ Round 17 ▪
+_ Dec 14 _
 Liverpool     2-0 Watford
 Chelsea       0-1 Bournemouth
 Burnley       1-0 Newcastle
 Sheffield U   2-0 Aston Villa
 Leicester     1-1 Norwich
 Southampton   0-1 West Ham
-[Dec 15]
+_ Dec 15 _
 Wolverhampton 1-2 Tottenham
 Manchester U  1-1 Everton
 Arsenal       0-3 Manchester C
-[Dec 16]
+_ Dec 16 _
 Crystal P     1-1 Brighton
 
-Round 18
-[Dec 21]
+▪ Round 18 ▪
+_ Dec 21 _
 Everton       0-0 Arsenal
 Bournemouth   0-1 Burnley
 Aston Villa   1-3 Southampton
@@ -260,14 +263,14 @@ Newcastle     1-0 Crystal P
 Brighton      0-1 Sheffield U
 Norwich       1-2 Wolverhampton
 Manchester C  3-1 Leicester
-[Dec 22]
+_ Dec 22 _
 Watford       2-0 Manchester U
 Tottenham     0-2 Chelsea
-[Jan 29]
+_ Jan 29 _
 West Ham      0-2 Liverpool
 
-Round 19
-[Dec 26]
+▪ Round 19 ▪
+_ Dec 26 _
 Tottenham     2-1 Brighton
 Aston Villa   1-0 Norwich
 Bournemouth   1-1 Arsenal
@@ -277,11 +280,11 @@ Everton       1-0 Burnley
 Sheffield U   1-1 Watford
 Manchester U  4-1 Newcastle
 Leicester     0-4 Liverpool
-[Dec 27]
+_ Dec 27 _
 Wolverhampton 3-2 Manchester C
 
-Round 20
-[Dec 28]
+▪ Round 20 ▪
+_ Dec 28 _
 Brighton      2-0 Bournemouth
 Watford       3-0 Aston Villa
 Southampton   1-1 Crystal P
@@ -289,13 +292,13 @@ Newcastle     1-2 Everton
 Norwich       2-2 Tottenham
 West Ham      1-2 Leicester
 Burnley       0-2 Manchester U
-[Dec 29]
+_ Dec 29 _
 Arsenal       1-2 Chelsea
 Liverpool     1-0 Wolverhampton
 Manchester C  2-0 Sheffield U
 
-Round 21
-[Jan 1]
+▪ Round 21 ▪
+_ Jan 1 _
 Burnley       1-2 Aston Villa
 Brighton      1-1 Chelsea
 Watford       2-1 Wolverhampton
@@ -305,13 +308,13 @@ Norwich       1-1 Crystal P
 West Ham      4-0 Bournemouth
 Manchester C  2-1 Everton
 Arsenal       2-0 Manchester U
-[Jan 2]
+_ Jan 2 _
 Liverpool     2-0 Sheffield U
 
-Round 22
-[Jan 10]
+▪ Round 22 ▪
+_ Jan 10 _
 Sheffield U   1-0 West Ham
-[Jan 11]
+_ Jan 11 _
 Crystal P     1-1 Arsenal
 Chelsea       3-0 Burnley
 Everton       1-0 Brighton
@@ -319,12 +322,12 @@ Leicester     1-2 Southampton
 Manchester U  4-0 Norwich
 Wolverhampton 1-1 Newcastle
 Tottenham     0-1 Liverpool
-[Jan 12]
+_ Jan 12 _
 Bournemouth   0-3 Watford
 Aston Villa   1-6 Manchester C
 
-Round 23
-[Jan 18]
+▪ Round 23 ▪
+_ Jan 18 _
 Watford       0-0 Tottenham
 Arsenal       1-1 Sheffield U
 Brighton      1-1 Aston Villa
@@ -333,27 +336,27 @@ Norwich       1-0 Bournemouth
 Southampton   2-3 Wolverhampton
 West Ham      1-1 Everton
 Newcastle     1-0 Chelsea
-[Jan 19]
+_ Jan 19 _
 Burnley       2-1 Leicester
 Liverpool     2-0 Manchester U
 
-Round 24
-[Jan 21]
+▪ Round 24 ▪
+_ Jan 21 _
 Aston Villa   2-1 Watford
 Bournemouth   3-1 Brighton
 Crystal P     0-2 Southampton
 Everton       2-2 Newcastle
 Sheffield U   0-1 Manchester C
 Chelsea       2-2 Arsenal
-[Jan 22]
+_ Jan 22 _
 Leicester     4-1 West Ham
 Tottenham     2-1 Norwich
 Manchester U  0-2 Burnley
-[Jan 23]
+_ Jan 23 _
 Wolverhampton 1-2 Liverpool
 
-Round 25
-[Feb 1]
+▪ Round 25 ▪
+_ Feb 1 _
 Leicester     2-2 Chelsea
 Bournemouth   2-1 Aston Villa
 Crystal P     0-1 Sheffield U
@@ -362,62 +365,62 @@ Newcastle     0-0 Norwich
 Watford       2-3 Everton
 West Ham      3-3 Brighton
 Manchester U  0-0 Wolverhampton
-[Feb 2]
+_ Feb 2 _
 Burnley       0-0 Arsenal
 Tottenham     2-0 Manchester C
 
-Round 26
-[Feb 8]
+▪ Round 26 ▪
+_ Feb 8 _
 Everton       3-1 Crystal P
 Brighton      1-1 Watford
-[Feb 9]
+_ Feb 9 _
 Sheffield U   2-1 Bournemouth
-[Feb 14]
+_ Feb 14 _
 Wolverhampton 0-0 Leicester
-[Feb 15]
+_ Feb 15 _
 Southampton   1-2 Burnley
 Norwich       0-1 Liverpool
-[Feb 16]
+_ Feb 16 _
 Aston Villa   2-3 Tottenham
 Arsenal       4-0 Newcastle
-[Feb 17]
+_ Feb 17 _
 Chelsea       0-2 Manchester U
-[Feb 19]
+_ Feb 19 _
 Manchester C  2-0 West Ham
 
-Round 27
-[Feb 22]
+▪ Round 27 ▪
+_ Feb 22 _
 Chelsea       2-1 Tottenham
 Burnley       3-0 Bournemouth
 Crystal P     1-0 Newcastle
 Sheffield U   1-1 Brighton
 Southampton   2-0 Aston Villa
 Leicester     0-1 Manchester C
-[Feb 23]
+_ Feb 23 _
 Manchester U  3-0 Watford
 Wolverhampton 3-0 Norwich
 Arsenal       3-2 Everton
-[Feb 24]
+_ Feb 24 _
 Liverpool     3-2 West Ham
 
-Round 28
-[Feb 28]
+▪ Round 28 ▪
+_ Feb 28 _
 Norwich       1-0 Leicester
-[Feb 29]
+_ Feb 29 _
 Brighton      0-1 Crystal P
 Bournemouth   2-2 Chelsea
 Newcastle     0-0 Burnley
 West Ham      3-1 Southampton
 Watford       3-0 Liverpool
-[Mar 1]
+_ Mar 1 _
 Everton       1-1 Manchester U
 Tottenham     2-3 Wolverhampton
-[Jun 17]
+_ Jun 17 _
 Aston Villa   0-0 Sheffield U
 Manchester C  3-0 Arsenal
 
-Round 29
-[Mar 7]
+▪ Round 29 ▪
+_ Mar 7 _
 Liverpool     2-1 Bournemouth
 Arsenal       1-0 West Ham
 Crystal P     1-0 Watford
@@ -425,140 +428,140 @@ Sheffield U   1-0 Norwich
 Southampton   0-1 Newcastle
 Wolverhampton 0-0 Brighton
 Burnley       1-1 Tottenham
-[Mar 8]
+_ Mar 8 _
 Chelsea       4-0 Everton
 Manchester U  2-0 Manchester C
-[Mar 9]
+_ Mar 9 _
 Leicester     4-0 Aston Villa
 
-Round 30
-[Jun 19]
+▪ Round 30 ▪
+_ Jun 19 _
 Norwich       0-3 Southampton
 Tottenham     1-1 Manchester U
-[Jun 20]
+_ Jun 20 _
 Watford       1-1 Leicester
 Brighton      2-1 Arsenal
 West Ham      0-2 Wolverhampton
 Bournemouth   0-2 Crystal P
-[Jun 21]
+_ Jun 21 _
 Newcastle     3-0 Sheffield U
 Aston Villa   1-2 Chelsea
 Everton       0-0 Liverpool
-[Jun 22]
+_ Jun 22 _
 Manchester C  5-0 Burnley
 
-Round 31
-[Jun 23]
+▪ Round 31 ▪
+_ Jun 23 _
 Leicester     0-0 Brighton
 Tottenham     2-0 West Ham
-[Jun 24]
+_ Jun 24 _
 Manchester U  3-0 Sheffield U
 Newcastle     1-1 Aston Villa
 Norwich       0-1 Everton
 Wolverhampton 1-0 Bournemouth
 Liverpool     4-0 Crystal P
-[Jun 25]
+_ Jun 25 _
 Burnley       1-0 Watford
 Southampton   0-2 Arsenal
 Chelsea       2-1 Manchester C
 
-Round 32
-[Jun 27]
+▪ Round 32 ▪
+_ Jun 27 _
 Aston Villa   0-1 Wolverhampton
-[Jun 28]
+_ Jun 28 _
 Watford       1-3 Southampton
-[Jun 29]
+_ Jun 29 _
 Crystal P     0-1 Burnley
-[Jun 30]
+_ Jun 30 _
 Brighton      0-3 Manchester U
-[Jul 1]
+_ Jul 1 _
 Arsenal       4-0 Norwich
 Bournemouth   1-4 Newcastle
 Everton       2-1 Leicester
 West Ham      3-2 Chelsea
-[Jul 2]
+_ Jul 2 _
 Sheffield U   3-1 Tottenham
 Manchester C  4-0 Liverpool
 
-Round 33
-[Jul 4]
+▪ Round 33 ▪
+_ Jul 4 _
 Norwich       0-1 Brighton
 Leicester     3-0 Crystal P
 Manchester U  5-2 Bournemouth
 Wolverhampton 0-2 Arsenal
 Chelsea       3-0 Watford
-[Jul 5]
+_ Jul 5 _
 Burnley       1-1 Sheffield U
 Newcastle     2-2 West Ham
 Liverpool     2-0 Aston Villa
 Southampton   1-0 Manchester C
-[Jul 6]
+_ Jul 6 _
 Tottenham     1-0 Everton
 
-Round 34
-[Jul 7]
+▪ Round 34 ▪
+_ Jul 7 _
 Crystal P     2-3 Chelsea
 Watford       2-1 Norwich
 Arsenal       1-1 Leicester
-[Jul 8]
+_ Jul 8 _
 Manchester C  5-0 Newcastle
 Sheffield U   1-0 Wolverhampton
 West Ham      0-1 Burnley
 Brighton      1-3 Liverpool
-[Jul 9]
+_ Jul 9 _
 Bournemouth   0-0 Tottenham
 Everton       1-1 Southampton
 Aston Villa   0-3 Manchester U
 
-Round 35
-[Jul 11]
+▪ Round 35 ▪
+_ Jul 11 _
 Norwich       0-4 West Ham
 Watford       2-1 Newcastle
 Liverpool     1-1 Burnley
 Sheffield U   3-0 Chelsea
 Brighton      0-5 Manchester C
-[Jul 12]
+_ Jul 12 _
 Wolverhampton 3-0 Everton
 Aston Villa   2-0 Crystal P
 Tottenham     2-1 Arsenal
 Bournemouth   4-1 Leicester
-[Jul 13]
+_ Jul 13 _
 Manchester U  2-2 Southampton
 
-Round 36
-[Jul 14]
+▪ Round 36 ▪
+_ Jul 14 _
 Chelsea       1-0 Norwich
-[Jul 15]
+_ Jul 15 _
 Burnley       1-1 Wolverhampton
 Manchester C  2-1 Bournemouth
 Newcastle     1-3 Tottenham
 Arsenal       2-1 Liverpool
-[Jul 16]
+_ Jul 16 _
 Everton       1-1 Aston Villa
 Leicester     2-0 Sheffield U
 Crystal P     0-2 Manchester U
 Southampton   1-1 Brighton
-[Jul 17]
+_ Jul 17 _
 West Ham      3-1 Watford
 
-Round 37
-[Jul 18]
+▪ Round 37 ▪
+_ Jul 18 _
 Norwich       0-2 Burnley
-[Jul 19]
+_ Jul 19 _
 Bournemouth   0-2 Southampton
 Tottenham     3-0 Leicester
-[Jul 20]
+_ Jul 20 _
 Brighton      0-0 Newcastle
 Sheffield U   0-1 Everton
 Wolverhampton 2-0 Crystal P
-[Jul 21]
+_ Jul 21 _
 Watford       0-4 Manchester C
 Aston Villa   1-0 Arsenal
-[Jul 22]
+_ Jul 22 _
 Manchester U  1-1 West Ham
 Liverpool     5-3 Chelsea
 
-Round 38 [Jul 26]
+▪ Round 38 ▪  Jul 26
 Arsenal       3-2 Watford
 Burnley       1-2 Brighton
 Chelsea       2-0 Wolverhampton
@@ -569,4 +572,11 @@ Manchester C  5-0 Norwich
 Newcastle     1-3 Liverpool
 Southampton   3-1 Sheffield U
 West Ham      1-1 Aston Villa
+
+<!-- $table2$ - Final Table -->
+
+
+
+
+
 

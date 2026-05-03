@@ -1,2 +1,578 @@
-= England Premier League 2016/17
+= England | Premier League 2016/17
+
+
+‹Premier League 2016/17 Match Details, see page eng2017det›
+
+<!-- $table1$ - Final Table -->
+
+▪ Round 1 ▪
+_ Aug 13 _
+Hull          2-1 Leicester
+Burnley       0-1 Swansea
+Crystal P     0-1 West Bromwich
+Everton       1-1 Tottenham
+Middlesbrough 1-1 Stoke
+Southampton   1-1 Watford
+Manchester C  2-1 Sunderland
+_ Aug 14 _
+Bournemouth   1-3 Manchester U
+Arsenal       3-4 Liverpool
+_ Aug 15 _
+Chelsea       2-1 West Ham
+
+▪ Round 2 ▪
+_ Aug 19 _
+Manchester U  2-0 Southampton
+_ Aug 20 _
+Stoke         1-4 Manchester C
+Burnley       2-0 Liverpool
+Swansea       0-2 Hull
+Tottenham     1-0 Crystal P
+Watford       1-2 Chelsea
+West Bromwich 1-2 Everton
+Leicester     0-0 Arsenal
+_ Aug 21 _
+Sunderland    1-2 Middlesbrough
+West Ham      1-0 Bournemouth
+
+▪ Round 3 ▪
+_ Aug 27 _
+Tottenham     1-1 Liverpool
+Chelsea       3-0 Burnley
+Crystal P     1-1 Bournemouth
+Everton       1-0 Stoke
+Leicester     2-1 Swansea
+Southampton   1-1 Sunderland
+Watford       1-3 Arsenal
+Hull          0-1 Manchester U
+_ Aug 28 _
+West Bromwich 0-0 Middlesbrough
+Manchester C  3-1 West Ham
+
+▪ Round 4 ▪
+_ Sep 10 _
+Manchester U  1-2 Manchester C
+Arsenal       2-1 Southampton
+Bournemouth   1-0 West Bromwich
+Burnley       1-1 Hull
+Middlesbrough 1-2 Crystal P
+Stoke         0-4 Tottenham
+West Ham      2-4 Watford
+Liverpool     4-1 Leicester
+_ Sep 11 _
+Swansea       2-2 Chelsea
+_ Sep 12 _
+Sunderland    0-3 Everton
+
+▪ Round 5 ▪
+_ Sep 16 _
+Chelsea       1-2 Liverpool
+_ Sep 17 _
+Hull          1-4 Arsenal
+Leicester     3-0 Burnley
+Manchester C  4-0 Bournemouth
+West Bromwich 4-2 West Ham
+Everton       3-1 Middlesbrough
+_ Sep 18 _
+Watford       3-1 Manchester U
+Crystal P     4-1 Stoke
+Southampton   1-0 Swansea
+Tottenham     1-0 Sunderland
+
+▪ Round 6 ▪
+_ Sep 24 _
+Manchester U  4-1 Leicester
+Bournemouth   1-0 Everton
+Liverpool     5-1 Hull
+Middlesbrough 1-2 Tottenham
+Stoke         1-1 West Bromwich
+Sunderland    2-3 Crystal P
+Swansea       1-3 Manchester C
+Arsenal       3-0 Chelsea
+_ Sep 25 _
+West Ham      0-3 Southampton
+_ Sep 26 _
+Burnley       2-0 Watford
+
+▪ Round 7 ▪
+_ Sep 30 _
+Everton       1-1 Crystal P
+_ Oct 1 _
+Swansea       1-2 Liverpool
+Hull          0-2 Chelsea
+Sunderland    1-1 West Bromwich
+Watford       2-2 Bournemouth
+West Ham      1-1 Middlesbrough
+_ Oct 2 _
+Manchester U  1-1 Stoke
+Leicester     0-0 Southampton
+Tottenham     2-0 Manchester C
+Burnley       0-1 Arsenal
+
+▪ Round 8 ▪
+_ Oct 15 _
+Chelsea       3-0 Leicester
+Arsenal       3-2 Swansea
+Bournemouth   6-1 Hull
+Manchester C  1-1 Everton
+Stoke         2-0 Sunderland
+West Bromwich 1-1 Tottenham
+Crystal P     0-1 West Ham
+_ Oct 16 _
+Middlesbrough 0-1 Watford
+Southampton   3-1 Burnley
+_ Oct 17 _
+Liverpool     0-0 Manchester U
+
+▪ Round 9 ▪
+_ Oct 22 _
+Bournemouth   0-0 Tottenham
+Arsenal       0-0 Middlesbrough
+Burnley       2-1 Everton
+Hull          0-2 Stoke
+Leicester     3-1 Crystal P
+Swansea       0-0 Watford
+West Ham      1-0 Sunderland
+Liverpool     2-1 West Bromwich
+_ Oct 23 _
+Manchester C  1-1 Southampton
+Chelsea       4-0 Manchester U
+
+▪ Round 10 ▪
+_ Oct 29 _
+Sunderland    1-4 Arsenal
+Manchester U  0-0 Burnley
+Middlesbrough 2-0 Bournemouth
+Tottenham     1-1 Leicester
+Watford       1-0 Hull
+West Bromwich 0-4 Manchester C
+Crystal P     2-4 Liverpool
+_ Oct 30 _
+Everton       2-0 West Ham
+Southampton   0-2 Chelsea
+_ Oct 31 _
+Stoke         3-1 Swansea
+
+▪ Round 11 ▪
+_ Nov 5 _
+Bournemouth   1-2 Sunderland
+Burnley       3-2 Crystal P
+Manchester C  1-1 Middlesbrough
+West Ham      1-1 Stoke
+Chelsea       5-0 Everton
+_ Nov 6 _
+Arsenal       1-1 Tottenham
+Hull          2-1 Southampton
+Liverpool     6-1 Watford
+Swansea       1-3 Manchester U
+Leicester     1-2 West Bromwich
+
+▪ Round 12 ▪
+_ Nov 19 _
+Manchester U  1-1 Arsenal
+Crystal P     1-2 Manchester C
+Everton       1-1 Swansea
+Southampton   0-0 Liverpool
+Stoke         0-1 Bournemouth
+Sunderland    3-0 Hull
+Watford       2-1 Leicester
+Tottenham     3-2 West Ham
+_ Nov 20 _
+Middlesbrough 0-1 Chelsea
+_ Nov 21 _
+West Bromwich 4-0 Burnley
+
+▪ Round 13 ▪
+_ Nov 26 _
+Burnley       1-2 Manchester C
+Hull          1-1 West Bromwich
+Leicester     2-2 Middlesbrough
+Liverpool     2-0 Sunderland
+Swansea       5-4 Crystal P
+Chelsea       2-1 Tottenham
+_ Nov 27 _
+Watford       0-1 Stoke
+Arsenal       3-1 Bournemouth
+Manchester U  1-1 West Ham
+Southampton   1-0 Everton
+
+▪ Round 14 ▪
+_ Dec 3 _
+Manchester C  1-3 Chelsea
+Crystal P     3-0 Southampton
+Stoke         2-0 Burnley
+Sunderland    2-1 Leicester
+Tottenham     5-0 Swansea
+West Bromwich 3-1 Watford
+West Ham      1-5 Arsenal
+_ Dec 4 _
+Bournemouth   4-3 Liverpool
+Everton       1-1 Manchester U
+_ Dec 5 _
+Middlesbrough 1-0 Hull
+
+▪ Round 15 ▪
+_ Dec 10 _
+Watford       3-2 Everton
+Arsenal       3-1 Stoke
+Burnley       3-2 Bournemouth
+Hull          3-3 Crystal P
+Swansea       3-0 Sunderland
+Leicester     4-2 Manchester C
+_ Dec 11 _
+Chelsea       1-0 West Bromwich
+Manchester U  1-0 Tottenham
+Southampton   1-0 Middlesbrough
+Liverpool     2-2 West Ham
+
+▪ Round 16 ▪
+_ Dec 13 _
+Bournemouth   1-0 Leicester
+Everton       2-1 Arsenal
+_ Dec 14 _
+Middlesbrough 0-3 Liverpool
+Sunderland    0-1 Chelsea
+West Ham      1-0 Burnley
+Crystal P     1-2 Manchester U
+Manchester C  2-0 Watford
+Stoke         0-0 Southampton
+Tottenham     3-0 Hull
+West Bromwich 3-1 Swansea
+
+▪ Round 17 ▪
+_ Dec 17 _
+Crystal P     0-1 Chelsea
+Middlesbrough 3-0 Swansea
+Stoke         2-2 Leicester
+Sunderland    1-0 Watford
+West Ham      1-0 Hull
+West Bromwich 0-2 Manchester U
+_ Dec 18 _
+Bournemouth   1-3 Southampton
+Manchester C  2-1 Arsenal
+Tottenham     2-1 Burnley
+_ Dec 19 _
+Everton       0-1 Liverpool
+
+▪ Round 18 ▪
+_ Dec 26 _
+Watford       1-1 Crystal P
+Arsenal       1-0 West Bromwich
+Burnley       1-0 Middlesbrough
+Chelsea       3-0 Bournemouth
+Leicester     0-2 Everton
+Manchester U  3-1 Sunderland
+Swansea       1-4 West Ham
+Hull          0-3 Manchester C
+_ Dec 27 _
+Liverpool     4-1 Stoke
+_ Dec 28 _
+Southampton   1-4 Tottenham
+
+▪ Round 19 ▪
+_ Dec 30 _
+Hull          2-2 Everton
+_ Dec 31 _
+Burnley       4-1 Sunderland
+Chelsea       4-2 Stoke
+Leicester     1-0 West Ham
+Manchester U  2-1 Middlesbrough
+Southampton   1-2 West Bromwich
+Swansea       0-3 Bournemouth
+Liverpool     1-0 Manchester C
+_ Jan 1 _
+Watford       1-4 Tottenham
+Arsenal       2-0 Crystal P
+
+<!-- $table2$ - Halfway Table -->
+
+▪ Round 20 ▪
+_ Jan 2 _
+Middlesbrough 0-0 Leicester
+Everton       3-0 Southampton
+Manchester C  2-1 Burnley
+Sunderland    2-2 Liverpool
+West Bromwich 3-1 Hull
+West Ham      0-2 Manchester U
+_ Jan 3 _
+Bournemouth   3-3 Arsenal
+Crystal P     1-2 Swansea
+Stoke         2-0 Watford
+_ Jan 4 _
+Tottenham     2-0 Chelsea
+
+▪ Round 21 ▪
+_ Jan 14 _
+Tottenham     4-0 West Bromwich
+Burnley       1-0 Southampton
+Hull          3-1 Bournemouth
+Sunderland    1-3 Stoke
+Swansea       0-4 Arsenal
+Watford       0-0 Middlesbrough
+West Ham      3-0 Crystal P
+Leicester     0-3 Chelsea
+_ Jan 15 _
+Everton       4-0 Manchester C
+Manchester U  1-1 Liverpool
+
+▪ Round 22 ▪
+_ Jan 21 _
+Liverpool     2-3 Swansea
+Bournemouth   2-2 Watford
+Crystal P     0-1 Everton
+Middlesbrough 1-3 West Ham
+Stoke         1-1 Manchester U
+West Bromwich 2-0 Sunderland
+Manchester C  2-2 Tottenham
+_ Jan 22 _
+Southampton   3-0 Leicester
+Arsenal       2-1 Burnley
+Chelsea       2-0 Hull
+
+▪ Round 23 ▪
+_ Jan 31 _
+Arsenal       1-2 Watford
+Bournemouth   0-2 Crystal P
+Burnley       1-0 Leicester
+Middlesbrough 1-1 West Bromwich
+Sunderland    0-0 Tottenham
+Swansea       2-1 Southampton
+Liverpool     1-1 Chelsea
+_ Feb 1 _
+West Ham      0-4 Manchester C
+Manchester U  0-0 Hull
+Stoke         1-1 Everton
+
+▪ Round 24 ▪
+_ Feb 4 _
+Chelsea       3-1 Arsenal
+Hull          2-0 Liverpool
+Everton       6-3 Bournemouth
+Crystal P     0-4 Sunderland
+West Bromwich 1-0 Stoke
+Southampton   1-3 West Ham
+Watford       2-1 Burnley
+Tottenham     1-0 Middlesbrough
+_ Feb 5 _
+Manchester C  2-1 Swansea
+Leicester     0-3 Manchester U
+
+▪ Round 25 ▪
+_ Feb 11 _
+Arsenal       2-0 Hull
+Manchester U  2-0 Watford
+Middlesbrough 0-0 Everton
+West Ham      2-2 West Bromwich
+Stoke         1-0 Crystal P
+Sunderland    0-4 Southampton
+Liverpool     2-0 Tottenham
+_ Feb 12 _
+Burnley       1-1 Chelsea
+Swansea       2-0 Leicester
+_ Feb 13 _
+Bournemouth   0-2 Manchester C
+
+▪ Round 26 ▪
+_ Feb 25 _
+Hull          1-1 Burnley
+Chelsea       3-1 Swansea
+West Bromwich 2-1 Bournemouth
+Everton       2-0 Sunderland
+Crystal P     1-0 Middlesbrough
+Watford       1-1 West Ham
+_ Feb 26 _
+Tottenham     4-0 Stoke
+_ Feb 27 _
+Leicester     3-1 Liverpool
+_ Apr 27 _
+Manchester C  0-0 Manchester U
+_ May 10 _
+Southampton   0-2 Arsenal
+
+▪ Round 27 ▪
+_ Mar 4 _
+Manchester U  1-1 Bournemouth
+West Bromwich 0-2 Crystal P
+Leicester     3-1 Hull
+Watford       3-4 Southampton
+Swansea       3-2 Burnley
+Stoke         2-0 Middlesbrough
+Liverpool     3-1 Arsenal
+_ Mar 5 _
+Tottenham     3-2 Everton
+Sunderland    0-2 Manchester C
+_ Mar 6 _
+West Ham      1-2 Chelsea
+
+▪ Round 28 ▪
+_ Mar 8 _
+Manchester C  0-0 Stoke
+_ Mar 11 _
+Everton       3-0 West Bromwich
+Hull          2-1 Swansea
+Bournemouth   3-2 West Ham
+_ Mar 12 _
+Liverpool     2-1 Burnley
+_ Apr 26 _
+Arsenal       1-0 Leicester
+Crystal P     0-1 Tottenham
+Middlesbrough 1-0 Sunderland
+_ May 15 _
+Chelsea       4-3 Watford
+_ May 17 _
+Southampton   0-0 Manchester U
+
+▪ Round 29 ▪
+_ Mar 18 _
+West Bromwich 3-1 Arsenal
+West Ham      2-3 Leicester
+Crystal P     1-0 Watford
+Stoke         1-2 Chelsea
+Sunderland    0-0 Burnley
+Everton       4-0 Hull
+Bournemouth   2-0 Swansea
+_ Mar 19 _
+Middlesbrough 1-3 Manchester U
+Tottenham     2-1 Southampton
+Manchester C  1-1 Liverpool
+
+▪ Round 30 ▪
+_ Apr 1 _
+Liverpool     3-1 Everton
+Burnley       0-2 Tottenham
+Chelsea       1-2 Crystal P
+Leicester     2-0 Stoke
+Manchester U  0-0 West Bromwich
+Watford       1-0 Sunderland
+Hull          2-1 West Ham
+Southampton   0-0 Bournemouth
+_ Apr 2 _
+Swansea       0-0 Middlesbrough
+Arsenal       2-2 Manchester C
+
+▪ Round 31 ▪
+_ Apr 4 _
+Leicester     2-0 Sunderland
+Watford       2-0 West Bromwich
+Burnley       1-0 Stoke
+Manchester U  1-1 Everton
+_ Apr 5 _
+Southampton   3-1 Crystal P
+Swansea       1-3 Tottenham
+Arsenal       3-0 West Ham
+Hull          4-2 Middlesbrough
+Liverpool     2-2 Bournemouth
+Chelsea       2-1 Manchester C
+
+▪ Round 32 ▪
+_ Apr 8 _
+Tottenham     4-0 Watford
+Middlesbrough 0-0 Burnley
+West Ham      1-0 Swansea
+West Bromwich 0-1 Southampton
+Stoke         1-2 Liverpool
+Manchester C  3-1 Hull
+Bournemouth   1-3 Chelsea
+_ Apr 9 _
+Sunderland    0-3 Manchester U
+Everton       4-2 Leicester
+Crystal P     3-0 Arsenal
+
+▪ Round 33 ▪
+_ Apr 15 _
+Tottenham     4-0 Bournemouth
+Everton       3-1 Burnley
+Sunderland    2-2 West Ham
+Watford       1-0 Swansea
+Stoke         3-1 Hull
+Crystal P     2-2 Leicester
+Southampton   0-3 Manchester C
+_ Apr 16 _
+West Bromwich 0-1 Liverpool
+Manchester U  2-0 Chelsea
+_ Apr 17 _
+Middlesbrough 1-2 Arsenal
+
+▪ Round 34 ▪
+_ Apr 22 _
+West Ham      0-0 Everton
+Bournemouth   4-0 Middlesbrough
+Hull          2-0 Watford
+Swansea       2-0 Stoke
+_ Apr 23 _
+Burnley       0-2 Manchester U
+Liverpool     1-2 Crystal P
+_ Apr 25 _
+Chelsea       4-2 Southampton
+_ May 16 _
+Arsenal       2-0 Sunderland
+Manchester C  3-1 West Bromwich
+_ May 18 _
+Leicester     1-6 Tottenham
+
+▪ Round 35 ▪
+_ Apr 29 _
+West Bromwich 0-1 Leicester
+Sunderland    0-1 Bournemouth
+Stoke         0-0 West Ham
+Southampton   0-0 Hull
+Crystal P     0-2 Burnley
+_ Apr 30 _
+Manchester U  1-1 Swansea
+Everton       0-3 Chelsea
+Middlesbrough 2-2 Manchester C
+Tottenham     2-0 Arsenal
+_ May 1 _
+Watford       0-1 Liverpool
+
+▪ Round 36 ▪
+_ May 5 _
+West Ham      1-0 Tottenham
+_ May 6 _
+Manchester C  5-0 Crystal P
+Burnley       2-2 West Bromwich
+Leicester     3-0 Watford
+Bournemouth   2-2 Stoke
+Hull          0-2 Sunderland
+Swansea       1-0 Everton
+_ May 7 _
+Liverpool     0-0 Southampton
+Arsenal       2-0 Manchester U
+_ May 8 _
+Chelsea       3-0 Middlesbrough
+
+▪ Round 37 ▪
+_ May 12 _
+Everton       1-0 Watford
+West Bromwich 0-1 Chelsea
+_ May 13 _
+Manchester C  2-1 Leicester
+Sunderland    0-2 Swansea
+Middlesbrough 1-2 Southampton
+Bournemouth   2-1 Burnley
+Stoke         1-4 Arsenal
+_ May 14 _
+Crystal P     4-0 Hull
+West Ham      0-4 Liverpool
+Tottenham     2-1 Manchester U
+
+▪ Round 38 ▪  May 21
+Arsenal       3-1 Everton
+Burnley       1-2 West Ham
+Chelsea       5-1 Sunderland
+Hull          1-7 Tottenham
+Leicester     1-1 Bournemouth
+Liverpool     3-0 Middlesbrough
+Manchester U  2-0 Crystal P
+Southampton   0-1 Stoke
+Swansea       2-1 West Bromwich
+Watford       0-5 Manchester C
+
+<!-- $table3$ - Final Table -->
+
+‹Premier League 2016/17 Match Details, see page eng2017det›
+
+
+
+
 

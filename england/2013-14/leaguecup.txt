@@ -1,18 +1,19 @@
-= England League Cup 2013/14
+= England | League Cup 2013/14
 
-Round 1
-[Aug 5]
+
+▪ Round 1 ▪
+_ Aug 5 _
 Preston North End       1-0 Blackpool
-[Aug 6]
+_ Aug 6 _
 Bournemouth             1-0 Portsmouth
-Barnsley                0-0 Scunthorpe United       [aet, 5-4 pen]
-Birmingham City         3-2 Plymouth Argyle         [aet]
+Barnsley                0-0 Scunthorpe United       (aet, 5-4 pen)
+Birmingham City         3-2 Plymouth Argyle         (aet)
 Brentford               3-2 Dagenham & Redbridge
-Brighton & Hove Albion  1-3 Newport County          [aet]
+Brighton & Hove Albion  1-3 Newport County          (aet)
 Bristol Rovers          1-3 Watford
 Bury                    3-2 Crewe Alexandra
 Charlton Athletic       4-0 Oxford United
-Cheltenham Town         4-3 Crawley Town            [aet]
+Cheltenham Town         4-3 Crawley Town            (aet)
 Colchester United       1-5 Peterborough United
 Doncaster Rovers        1-0 Rochdale
 Exeter City             0-2 Queens Park Rangers
@@ -35,42 +36,42 @@ Tranmere Rovers         2-0 Mansfield Town
 Wycombe Wanderers       1-2 Leicester City
 York City               0-4 Burnley
 Rotherham United        2-1 Sheffield Wednesday
-[Aug 7]
-Carlisle United         3-3 Blackburn Rovers        [aet, 4-3 pen]
+_ Aug 7 _
+Carlisle United         3-3 Blackburn Rovers        (aet, 4-3 pen)
 Leeds United            2-1 Chesterfield
 Notts County            3-2 Fleetwood Town
 
-Round 2
-[Aug 27]
+▪ Round 2 ▪
+_ Aug 27 _
 Barnsley                1-5 Southampton
 Bristol City            2-1 Crystal Palace
 Burnley                 2-0 Preston North End
-Burton Albion           2-2 Fulham                  [aet, 4-5 pen]
+Burton Albion           2-2 Fulham                  (aet, 4-5 pen)
 Carlisle United         2-5 Leicester City
 Derby County            5-0 Brentford
 Doncaster Rovers        1-3 Leeds United
 Huddersfield Town       3-2 Charlton Athletic
-Leyton Orient           0-1 Hull City               [aet]
-Liverpool               4-2 Notts County            [aet]
+Leyton Orient           0-1 Hull City               (aet)
+Liverpool               4-2 Notts County            (aet)
 Norwich City            6-3 Bury
 Peterborough United     6-0 Reading
 Queens Park Rangers     0-2 Swindon Town
 Sunderland              4-2 MK Dons
-Tranmere Rovers         1-1 Bolton Wanderers        [aet, 4-2 pen]
+Tranmere Rovers         1-1 Bolton Wanderers        (aet, 4-2 pen)
 West Ham United         2-1 Cheltenham Town
-Yeovil Town             3-3 Birmingham City         [aet, 2-3 pen]
+Yeovil Town             3-3 Birmingham City         (aet, 2-3 pen)
 West Bromwich Albion    3-0 Newport County
-[Aug 28]
+_ Aug 28 _
 Accrington Stanley      0-2 Cardiff City
 Aston Villa             3-0 Rotherham United
-Everton                 2-1 Stevenage               [aet]
+Everton                 2-1 Stevenage               (aet)
 Morecambe               0-2 Newcastle United
-Nottingham Forest       2-1 Millwall                [aet]
+Nottingham Forest       2-1 Millwall                (aet)
 Stoke City              3-1 Walsall
 Watford                 2-0 Bournemouth
 
-Round 3
-[Sep 24]
+▪ Round 3 ▪
+_ Sep 24 _
 Aston Villa             0-4 Tottenham Hotspur
 Burnley                 2-1 Nottingham Forest
 Hull City               1-0 Huddersfield Town
@@ -79,51 +80,56 @@ Manchester City         5-0 Wigan Athletic
 Southampton             2-0 Bristol City
 Sunderland              2-0 Peterborough United
 Swindon Town            0-2 Chelsea
-Watford                 2-3 Norwich City            [aet]
+Watford                 2-3 Norwich City            (aet)
 West Ham United         3-2 Cardiff City
 Fulham                  2-1 Everton
-[Sep 25]
+_ Sep 25 _
 Birmingham City         3-1 Swansea City
 Manchester United       1-0 Liverpool
 Newcastle United        2-0 Leeds United
 Tranmere Rovers         0-2 Stoke City
-West Bromwich Albion    1-1 Arsenal                 [aet, 3-4 pen]
+West Bromwich Albion    1-1 Arsenal                 (aet, 3-4 pen)
 
-Round 4
-[Oct 29]
+▪ Round 4 ▪
+_ Oct 29 _
 Arsenal                 0-2 Chelsea
-Birmingham City         4-4 Stoke City              [aet, 2-4 pen]
+Birmingham City         4-4 Stoke City              (aet, 2-4 pen)
 Burnley                 0-2 West Ham United
 Leicester City          4-3 Fulham
 Manchester United       4-0 Norwich City
-[Oct 30]
-Newcastle United        0-2 Manchester City         [aet]
-Tottenham Hotspur       2-2 Hull City               [aet, 8-7 pen]
-[Nov 6]
+_ Oct 30 _
+Newcastle United        0-2 Manchester City         (aet)
+Tottenham Hotspur       2-2 Hull City               (aet, 8-7 pen)
+_ Nov 6 _
 Sunderland              2-1 Southampton
 
-Quarterfinals
-[Dec 17]
+▪ Quarterfinals ▪
+_ Dec 17 _
 Leicester City          1-3 Manchester City
-Sunderland              2-1 Chelsea                 [aet]
-[Dec 18]
+Sunderland              2-1 Chelsea                 (aet)
+_ Dec 18 _
 Stoke City              0-2 Manchester United
 Tottenham Hotspur       1-2 West Ham United
 
-Semifinals
-First Legs
-[Jan 7]
+▪ Semifinals ▪
+
+▪ First Legs ▪
+_ Jan 7 _
 Sunderland              2-1 Manchester United
-[Jan 8]
+_ Jan 8 _
 Manchester City         6-0 West Ham United
 
-Second Legs
-[Jan 21]
+▪ Second Legs ▪
+_ Jan 21 _
 West Ham United         0-3 Manchester City
-[Jan 22]
-Manchester United       2-1 Sunderland              [aet, 1-2 pen]
+_ Jan 22 _
+Manchester United       2-1 Sunderland              (aet, 1-2 pen)
 
-Final [Mar 2, London]
+▪ Final ▪  Mar 2 @ London
 Manchester City         3-1 Sunderland
-  [Yaya Touré 55, Nasri 56, Jesús Navas 90; Borini 10]
+  (Yaya Touré 55, Nasri 56, Jesús Navas 90; Borini 10)
+
+
+
+
 

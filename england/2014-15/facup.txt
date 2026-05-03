@@ -1,9 +1,10 @@
-= England FA Cup 2014/15
+= England | FA Cup 2014/15
 
-Round 1
-[Nov 7]
+
+▪ Round 1 ▪
+_ Nov 7 _
 Warrington Town         1-0 Exeter City
-[Nov 8]
+_ Nov 8 _
 Barnet                  1-3 Wycombe Wanderers
 Barnsley                5-0 Burton Albion
 Basingstoke Town        1-1 AFC Telford United
@@ -29,7 +30,7 @@ Tranmere Rovers         1-0 Bristol Rovers
 Walsall                 2-2 Shrewsbury Town
 Yeovil Town             1-0 Crawley Town
 York City               1-1 AFC Wimbledon
-[Nov 9]
+_ Nov 9 _
 Halifax Town            1-2 Bradford City
 Blyth Spartans          4-1 Altrincham
 Braintree Town          0-6 Chesterfield
@@ -41,14 +42,14 @@ Portsmouth              2-2 Aldershot Town
 Stevenage               0-0 Maidstone United
 Wrexham                 3-0 Woking
 Notts County            0-0 Accrington Stanley
-[Nov 10]
+_ Nov 10 _
 Havant & Waterlooville  0-3 Preston North End
-[Nov 18]
+_ Nov 18 _
 Mansfield Town          1-1 Concord Rangers
 Weston-super-Mare       1-4 Doncaster Rovers
 
 Round 1 Replays
-[Nov 18]
+_ Nov 18 _
 Accrington Stanley      2-1 Notts County
 AFC Telford United      2-1 Basingstoke Town
 AFC Wimbledon           3-1 York City
@@ -56,17 +57,17 @@ Rochdale                2-1 Northampton Town
 Sheffield United        2-0 Crewe Alexandra
 Shrewsbury Town         1-0 Walsall
 Southport               2-0 Dagenham & Redbridge
-[Nov 19]
+_ Nov 19 _
 Aldershot Town          1-0 Portsmouth
-[Nov 20]
+_ Nov 20 _
 Maidstone United        2-1 Stevenage
-[Nov 25]
+_ Nov 25 _
 Concord Rangers         0-1 Mansfield Town
 
-Round 2
-[Dec 5]
+▪ Round 2 ▪
+_ Dec 5 _
 Hartlepool United       1-2 Blyth Spartans
-[Dec 6]
+_ Dec 6 _
 Accrington Stanley      1-1 Yeovil Town
 Bury                    1-1 Luton Town
 Cambridge United        2-2 Mansfield Town
@@ -75,7 +76,7 @@ Oxford United           2-2 Tranmere Rovers
 Preston North End       1-0 Shrewsbury Town
 Sheffield United        3-0 Plymouth Argyle
 Wrexham                 3-1 Maidstone United
-[Dec 7]
+_ Dec 7 _
 Gateshead               2-0 Warrington Town
 Aldershot Town          0-0 Rochdale
 Barnsley                0-0 Chester
@@ -86,24 +87,24 @@ Scunthorpe United       1-1 Worcester City
 Southport               2-1 Eastleigh
 Wycombe Wanderers       0-1 AFC Wimbledon
 Colchester United       1-0 Peterborough United
-[Jan 2]
+_ Jan 2 _
 MK Dons                 0-1 Chesterfield
 
 Round 2 Replays
-[Dec 16]
+_ Dec 16 _
 Chester                 0-3 Barnsley
 Luton Town              1-0 Bury
 Mansfield Town          0-1 Cambridge United
 Rochdale                4-1 Aldershot Town
 Tranmere Rovers         2-1 Oxford United
 Yeovil Town             2-0 Accrington Stanley
-[Dec 17]
-Worcester City          1-1 Scunthorpe United       [aet, 13-14 pen]
+_ Dec 17 _
+Worcester City          1-1 Scunthorpe United       (aet, 13-14 pen)
 
-Round 3
-[Jan 2]
+▪ Round 3 ▪
+_ Jan 2 _
 Cardiff City            3-1 Colchester United
-[Jan 3]
+_ Jan 3 _
 Blyth Spartans          2-3 Birmingham City
 Bolton Wanderers        1-0 Wigan Athletic
 Brentford               0-2 Brighton & Hove Albion
@@ -121,7 +122,7 @@ Rotherham United        1-5 Bournemouth
 Tranmere Rovers         2-6 Swansea City
 West Bromwich Albion    7-0 Gateshead
 Barnsley                0-2 Middlesbrough
-[Jan 4]
+_ Jan 4 _
 Dover Athletic          0-4 Crystal Palace
 Queens Park Rangers     0-3 Sheffield United
 Sunderland              1-0 Leeds United
@@ -132,28 +133,28 @@ Stoke City              3-1 Wrexham
 Yeovil Town             0-2 Manchester United
 Chelsea                 3-0 Watford
 Arsenal                 2-0 Hull City
-[Jan 5]
+_ Jan 5 _
 Burnley                 1-1 Tottenham Hotspur
 AFC Wimbledon           1-2 Liverpool
-[Jan 6]
+_ Jan 6 _
 Everton                 1-1 West Ham United
 Scunthorpe United       2-2 Chesterfield
 
 Round 3 Replays
-[Jan 13]
+_ Jan 13 _
 Bristol City            2-0 Doncaster Rovers
-Chesterfield            2-0 Scunthorpe United       [aet]
-West Ham United         2-2 Everton                 [aet, 9-8 pen]
-Wolverhampton Wanderers 3-3 Fulham                  [aet, 3-5 pen]
-[Jan 14]
+Chesterfield            2-0 Scunthorpe United       (aet)
+West Ham United         2-2 Everton                 (aet, 9-8 pen)
+Wolverhampton Wanderers 3-3 Fulham                  (aet, 3-5 pen)
+_ Jan 14 _
 Bradford City           4-0 Millwall
 Ipswich Town            0-1 Southampton
 Tottenham Hotspur       4-2 Burnley
 
-Round 4
-[Jan 23]
+▪ Round 4 ▪
+_ Jan 23 _
 Cambridge United        0-0 Manchester United
-[Jan 24]
+_ Jan 24 _
 Blackburn Rovers        3-1 Swansea City
 Birmingham City         1-2 West Bromwich Albion
 Cardiff City            1-2 Reading
@@ -165,49 +166,55 @@ Southampton             2-3 Crystal Palace
 Sunderland              0-0 Fulham
 Tottenham Hotspur       1-2 Leicester City
 Liverpool               0-0 Bolton Wanderers
-[Jan 25]
+_ Jan 25 _
 Bristol City            0-1 West Ham United
 Aston Villa             2-1 Bournemouth
 Brighton & Hove Albion  2-3 Arsenal
-[Jan 26]
+_ Jan 26 _
 Rochdale                1-4 Stoke City
 
 Round 4 Replays
-[Feb 3]
+_ Feb 3 _
 Fulham                  1-3 Sunderland
 Sheffield United        1-3 Preston North End
 Manchester United       3-0 Cambridge United
-[Feb 4]
+_ Feb 4 _
 Bolton Wanderers        1-2 Liverpool
 
-1/8 Finals
-[Feb 14]
+▪ 1/8 Finals ▪
+_ Feb 14 _
 West Bromwich Albion    4-0 West Ham United
 Blackburn Rovers        4-1 Stoke City
 Derby County            1-2 Reading
 Crystal Palace          1-2 Liverpool
-[Feb 15]
+_ Feb 15 _
 Aston Villa             2-1 Leicester City
 Bradford City           2-0 Sunderland
 Arsenal                 2-0 Middlesbrough
-[Feb 16]
+_ Feb 16 _
 Preston North End       1-3 Manchester United
 
-Quarterfinals
-[Mar 7]
+▪ Quarterfinals ▪
+_ Mar 7 _
 Bradford City           0-0 Reading
 Aston Villa             2-0 West Bromwich Albion
-[Mar 8]
+_ Mar 8 _
 Liverpool               0-0 Blackburn Rovers
-[Mar 9]
+_ Mar 9 _
 Manchester United       1-2 Arsenal
 
+▪ Quarterfinal Replays ▪
+_ Mar 16 _
+Reading                 3-0 Bradford City
+_ Apr 8 _
+Blackburn Rovers        0-1 Liverpool
+
 Semifinals [both in London]
-[Apr 18]
-Reading                 1-2 Arsenal                 [aet]
-[Apr 19]
+_ Apr 18 _
+Reading                 1-2 Arsenal                 (aet)
+_ Apr 19 _
 Aston Villa             2-1 Liverpool
 
-Final [May 30, London]
+▪ Final ▪  May 30 @ London
 Arsenal                 4-0 Aston Villa
 
