@@ -1,0 +1,377 @@
+= Austria | Bundesliga 2018/19
+
+
+‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
+
+=== Regular Stage  ‹§reg›
+
+<!-- $table1$ - Final Table -->
+
+▪ Round 1 ▪
+_ Jul 27 _
+Austria          2-1 Innsbruck
+_ Jul 28 _
+Altach           2-3 Mattersburg
+Sturm            3-2 Hartberg
+_ Jul 29 _
+Admira Wacker    0-3 Rapid
+Salzburg         3-1 LASK
+Sankt Pölten     4-3 Wolfsberg
+
+▪ Round 2 ▪
+_ Aug 4 _
+Innsbruck        2-3 Sturm
+Rapid            1-1 Altach
+Mattersburg      0-2 Salzburg
+_ Aug 5 _
+LASK             0-0 Sankt Pölten
+Hartberg         0-1 Admira Wacker
+Wolfsberg        1-0 Austria
+
+▪ Round 3 ▪
+_ Aug 11 _
+Altach           1-2 Innsbruck
+Salzburg         2-0 Austria
+Hartberg         4-2 Mattersburg
+_ Aug 12 _
+Admira Wacker    0-1 LASK
+Rapid            0-0 Wolfsberg
+Sankt Pölten     2-0 Sturm
+
+▪ Round 4 ▪
+_ Aug 18 _
+Innsbruck        0-2 Sankt Pölten
+Salzburg         2-0 Hartberg
+Mattersburg      0-6 Wolfsberg
+_ Aug 19 _
+Austria          4-0 Admira Wacker
+LASK             2-1 Rapid
+Sturm            1-1 Altach
+
+▪ Round 5 ▪
+_ Aug 25 _
+Altach           2-3 Salzburg
+Wolfsberg        1-1 Sturm
+Sankt Pölten     0-0 Austria
+_ Aug 26 _
+Admira Wacker    0-0 Mattersburg
+Rapid            2-1 Innsbruck
+Hartberg         0-1 LASK
+
+▪ Round 6 ▪
+_ Sep 1 _
+Austria          2-1 Mattersburg
+Altach           1-2 Sankt Pölten
+Innsbruck        2-1 Hartberg
+_ Sep 2 _
+LASK             2-0 Wolfsberg
+Salzburg         3-1 Admira Wacker
+Sturm            1-1 Rapid
+
+▪ Round 7 ▪
+_ Sep 15 _
+Admira Wacker    2-3 Sturm
+Hartberg         2-1 Altach
+Sankt Pölten     1-3 Salzburg
+_ Sep 16 _
+Mattersburg      1-3 LASK
+Wolfsberg        3-1 Innsbruck
+Rapid            0-1 Austria
+
+▪ Round 8 ▪
+_ Sep 22 _
+Altach           0-1 Wolfsberg
+Sankt Pölten     3-0 Hartberg
+Sturm            1-2 Mattersburg
+_ Sep 23 _
+Innsbruck        1-3 Admira Wacker
+Austria          0-3 LASK
+Salzburg         2-1 Rapid
+
+▪ Round 9 ▪
+_ Sep 29 _
+Admira Wacker    2-4 Altach
+Rapid            0-2 Sankt Pölten
+Wolfsberg        1-4 Salzburg
+_ Sep 30 _
+Mattersburg      2-1 Innsbruck
+Hartberg         0-1 Austria
+LASK             0-0 Sturm
+
+▪ Round 10 ▪
+_ Oct 6 _
+Altach           2-0 Austria
+Wolfsberg        3-4 Hartberg
+Sankt Pölten     0-0 Admira Wacker
+_ Oct 7 _
+Innsbruck        1-0 LASK
+Rapid            1-0 Mattersburg
+Sturm            1-2 Salzburg
+
+▪ Round 11 ▪
+_ Oct 20 _
+LASK             1-1 Altach
+Salzburg         1-1 Innsbruck
+Hartberg         3-0 Rapid
+_ Oct 21 _
+Admira Wacker    0-0 Wolfsberg
+Mattersburg      2-0 Sankt Pölten
+Austria          1-1 Sturm
+
+▪ Round 12 ▪
+_ Oct 27 _
+Innsbruck        0-0 Austria
+Mattersburg      1-1 Altach
+Hartberg         2-0 Sturm
+_ Oct 28 _
+Rapid            2-0 Admira Wacker
+Wolfsberg        1-0 Sankt Pölten
+LASK             3-3 Salzburg
+
+▪ Round 13 ▪
+_ Nov 3 _
+Admira Wacker    2-3 Hartberg
+Sankt Pölten     2-2 LASK
+Sturm            1-1 Innsbruck
+_ Nov 4 _
+Austria          2-3 Wolfsberg
+Salzburg         2-1 Mattersburg
+Altach           2-2 Rapid
+
+▪ Round 14 ▪
+_ Nov 10 _
+Innsbruck        1-0 Altach
+LASK             5-1 Admira Wacker
+Sturm            0-0 Sankt Pölten
+_ Nov 11 _
+Wolfsberg        3-1 Rapid
+Mattersburg      1-2 Hartberg
+Austria          0-2 Salzburg
+
+▪ Round 15 ▪
+_ Nov 24 _
+Admira Wacker    1-2 Austria
+Wolfsberg        2-2 Mattersburg
+Hartberg         0-4 Salzburg
+_ Nov 25 _
+Altach           0-2 Sturm
+Sankt Pölten     2-0 Innsbruck
+Rapid            0-1 LASK
+
+▪ Round 16 ▪
+_ Dec 1 _
+Austria          2-0 Sankt Pölten
+LASK             3-3 Hartberg
+Mattersburg      2-2 Admira Wacker
+_ Dec 2 _
+Innsbruck        0-1 Rapid
+Salzburg         1-0 Altach
+Sturm            3-0 Wolfsberg
+
+▪ Round 17 ▪
+_ Dec 8 _
+Admira Wacker    2-2 Salzburg
+Wolfsberg        1-1 LASK
+Sankt Pölten     2-1 Altach
+_ Dec 9 _
+Mattersburg      2-1 Austria
+Hartberg         2-2 Innsbruck
+Rapid            0-0 Sturm
+
+▪ Round 18 ▪
+_ Dec 15 _
+Innsbruck        0-0 Wolfsberg
+LASK             2-1 Mattersburg
+Sturm            3-0 Admira Wacker
+_ Dec 16 _
+Altach           6-1 Hartberg
+Salzburg         5-1 Sankt Pölten
+Austria          6-1 Rapid
+
+▪ Round 19 ▪
+_ Feb 22 _
+LASK             2-0 Austria
+_ Feb 23 _
+Admira Wacker    3-0 Innsbruck
+Wolfsberg        0-0 Altach
+_ Feb 24 _
+Mattersburg      1-1 Sturm
+Hartberg         1-1 Sankt Pölten
+Rapid            2-0 Salzburg
+
+▪ Round 20 ▪
+_ Mar 2 _
+Altach           0-1 Admira Wacker
+Salzburg         3-0 Wolfsberg
+Sankt Pölten     0-4 Rapid
+_ Mar 3 _
+Austria          4-2 Hartberg
+Sturm            0-3 LASK
+Innsbruck        0-1 Mattersburg
+
+▪ Round 21 ▪  Mar 10
+Austria          1-3 Altach
+Admira Wacker    3-2 Sankt Pölten
+LASK             2-0 Innsbruck
+Salzburg         0-0 Sturm
+Mattersburg      2-1 Rapid
+Hartberg         1-1 Wolfsberg
+
+▪ Round 22 ▪  Mar 17
+Altach           1-2 LASK
+Innsbruck        0-2 Salzburg
+Rapid            2-2 Hartberg
+Wolfsberg        2-2 Admira Wacker
+Sankt Pölten     0-1 Mattersburg
+Sturm            1-0 Austria
+
+<!-- $table2$ - Final Table -->
+
+=== Playoff Stage  ‹§play›
+
+‹Championship Playoff, see §champ› | ‹Relegation Playoff, see §releg›
+
+==== Championship Playoff  ‹§champ›
+
+<!-- $table3$ - Final Table -->
+
+NB: teams carry over half their points from the regular stage (listed between square brackets),
+    rounded downwards (marked by * where applicable)
+
+▪ Round 23 ▪  Mar 31
+Wolfsberg        0-3 LASK
+Sturm            0-1 Sankt Pölten
+Salzburg         5-1 Austria
+
+▪ Round 24 ▪  Apr 7
+Austria          0-1 Sturm
+Sankt Pölten     1-3 Wolfsberg
+LASK             0-2 Salzburg
+
+▪ Round 25 ▪  Apr 14
+LASK             0-0 Sankt Pölten
+Wolfsberg        1-1 Austria
+Salzburg         3-1 Sturm
+
+▪ Round 26 ▪  Apr 21
+Sankt Pölten     1-1 Salzburg
+Sturm            1-2 Wolfsberg
+Austria          2-2 LASK
+
+▪ Round 27 ▪  Apr 24
+Austria          2-2 Sankt Pölten
+LASK             1-2 Sturm
+Salzburg         3-1 Wolfsberg
+
+▪ Round 28 ▪  Apr 28
+Wolfsberg        2-1 Salzburg
+Sankt Pölten     1-2 Austria
+Sturm            2-3 LASK
+
+▪ Round 29 ▪  May 5
+LASK             3-0 Wolfsberg
+Sankt Pölten     0-1 Sturm
+Austria          1-2 Salzburg
+
+▪ Round 30 ▪  May 12
+Wolfsberg        4-0 Sankt Pölten
+Sturm            1-3 Austria
+Salzburg         2-1 LASK
+
+▪ Round 31 ▪  May 19
+Sankt Pölten     0-1 LASK
+Sturm            1-2 Salzburg
+Austria          2-0 Wolfsberg
+
+▪ Round 32 ▪  May 26
+LASK             5-2 Austria
+Salzburg         7-0 Sankt Pölten
+Wolfsberg        2-1 Sturm
+
+<!-- $table4$ - Final Table -->
+
+NB: teams carry over half their points from the regular stage (listed between square brackets),
+    rounded downwards (marked by * where applicable)
+
+=== Europa League Playoff  ‹§eurpo›
+
+▪ Semifinal ▪  May 28
+Rapid            2-0 Mattersburg
+
+▪ Final ▪
+
+▪ First Leg ▪  May 30
+Rapid            1-2 Sturm
+
+▪ Second Leg ▪  Jun 2
+Sturm            0-1 Rapid
+
+NB: Sturm qualified on away goals rule
+
+==== Relegation Playoff  ‹§releg›
+
+<!-- $table5$ - Final Table -->
+
+NB: teams carry over half their points from the regular stage (listed between square brackets),
+    rounded downwards (marked by * where applicable)
+
+▪ Round 23 ▪  Mar 30
+Altach           2-1 Mattersburg
+Rapid            3-0 Admira Wacker
+Hartberg         0-2 Innsbruck
+
+▪ Round 24 ▪  Apr 6
+Admira Wacker    1-1 Altach
+Innsbruck        0-2 Rapid
+Mattersburg      3-0 Hartberg
+
+▪ Round 25 ▪  Apr 13
+Innsbruck        1-3 Admira Wacker
+Rapid            2-1 Mattersburg
+Hartberg         0-1 Altach
+
+▪ Round 26 ▪  Apr 20
+Altach           2-2 Rapid
+Admira Wacker    2-1 Hartberg
+Mattersburg      3-1 Innsbruck
+
+▪ Round 27 ▪  Apr 23
+Innsbruck        0-4 Altach
+Admira Wacker    0-2 Mattersburg
+Hartberg         2-4 Rapid
+
+▪ Round 28 ▪  Apr 27
+Altach           1-4 Innsbruck
+Rapid            3-4 Hartberg
+Mattersburg      1-1 Admira Wacker
+
+▪ Round 29 ▪  May 4
+Admira Wacker    3-4 Rapid
+Innsbruck        1-0 Hartberg
+Mattersburg      0-0 Altach
+
+▪ Round 30 ▪  May 11
+Altach           2-2 Admira Wacker
+Rapid            1-0 Innsbruck
+Hartberg         2-1 Mattersburg
+
+▪ Round 31 ▪  May 18
+Altach           3-1 Hartberg
+Admira Wacker    3-2 Innsbruck
+Mattersburg      1-0 Rapid
+
+▪ Round 32 ▪  May 25
+Innsbruck        4-0 Mattersburg
+Rapid            1-2 Altach
+Hartberg         3-1 Admira Wacker
+
+<!-- $table6$ - Final Table -->
+
+NB: teams carry over half their points from the regular stage (listed between square brackets),
+    rounded downwards (marked by * where applicable)
+
+
+
+
+
+

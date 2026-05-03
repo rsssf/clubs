@@ -1,0 +1,406 @@
+= Austria | Bundesliga 2022/23
+
+
+‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
+
+=== Regular Stage  ‹§reg›
+
+<!-- $table1$ - Final Table -->
+
+NB: Austria Wien 3 points deducted
+
+▪ Round 1 ▪
+_ Jul 22 _
+Salzburg         3-0 Austria W
+_ Jul 23 _
+LASK             3-1 Austria K
+Wolfsberg        1-1 Sturm
+_ Jul 24 _
+Austria L        2-1 Wattens
+Hartberg         2-1 Altach
+Rapid            1-0 Ried
+
+▪ Round 2 ▪
+_ Jul 30 _
+Ried             1-0 Austria L
+Altach           2-2 Wolfsberg
+Sturm            2-1 Salzburg
+_ Jul 31 _
+Wattens          2-1 Hartberg
+Austria K        0-1 Rapid
+Austria W        1-1 LASK
+
+▪ Round 3 ▪
+_ Aug 6 _
+Ried             1-1 Sturm
+Wolfsberg        1-5 LASK
+Hartberg         0-2 Salzburg
+_ Aug 7 _
+Altach           3-2 Austria W
+Wattens          2-2 Austria K
+Rapid            1-1 Austria L
+
+▪ Round 4 ▪
+_ Aug 13 _
+Austria W        2-1 Wattens
+Austria K        1-0 Ried
+Sturm            4-0 Altach
+_ Aug 14 _
+Austria L        4-1 Hartberg
+Salzburg         2-1 Wolfsberg
+LASK             2-1 Rapid
+
+▪ Round 5 ▪
+_ Aug 20 _
+Salzburg         2-0 Austria K
+Altach           1-2 Austria L
+Sturm            0-1 LASK
+_ Aug 21 _
+Ried             1-2 Wattens
+Wolfsberg        1-2 Austria W
+_ Oct 26 _
+Rapid            5-1 Hartberg
+
+▪ Round 6 ▪
+_ Aug 27 _
+Austria L        0-6 Salzburg
+Hartberg         2-0 Ried
+LASK             4-1 Altach
+_ Aug 28 _
+Wattens          1-3 Wolfsberg
+Austria K        3-3 Austria W
+Rapid            1-2 Sturm
+
+▪ Round 7 ▪
+_ Sep 3 _
+Salzburg         2-0 Wattens
+Austria W        2-2 Austria L
+Sturm            0-0 Hartberg
+_ Sep 4 _
+Wolfsberg        3-4 Austria K
+Altach           0-1 Rapid
+LASK             1-1 Ried
+
+▪ Round 8 ▪
+_ Sep 10 _
+Rapid            1-3 Wolfsberg
+Ried             0-3 Salzburg
+Wattens          0-0 Altach
+_ Sep 11 _
+Austria L        1-1 LASK
+Hartberg         0-3 Austria W
+Austria K        0-2 Sturm
+
+▪ Round 9 ▪
+_ Sep 17 _
+LASK             1-4 Wattens
+Wolfsberg        3-1 Hartberg
+Altach           1-4 Austria K
+_ Sep 18 _
+Austria W        3-0 Ried
+Sturm            2-0 Austria L
+Salzburg         1-1 Rapid
+
+▪ Round 10 ▪
+_ Oct 1 _
+Wattens          0-5 Rapid
+Austria L        1-3 Wolfsberg
+Salzburg         1-1 LASK
+_ Oct 2 _
+Austria W        0-3 Sturm
+Ried             2-3 Altach
+Hartberg         2-3 Austria K
+
+▪ Round 11 ▪
+_ Oct 8 _
+LASK             0-3 Hartberg
+Austria K        2-1 Austria L
+Altach           2-3 Salzburg
+_ Oct 9 _
+Wolfsberg        1-2 Ried
+Sturm            2-1 Wattens
+Rapid            1-2 Austria W
+
+▪ Round 12 ▪
+_ Oct 15 _
+Ried             1-0 Rapid
+Austria K        1-3 LASK
+Wattens          3-2 Austria L
+_ Oct 16 _
+Sturm            3-2 Wolfsberg
+Austria W        1-3 Salzburg
+Altach           1-0 Hartberg
+
+▪ Round 13 ▪
+_ Oct 22 _
+Salzburg         0-0 Sturm
+Rapid            0-1 Austria K
+Hartberg         1-5 Wattens
+_ Oct 23 _
+Wolfsberg        2-3 Altach
+Austria L        0-0 Ried
+LASK             2-2 Austria W
+
+▪ Round 14 ▪
+_ Oct 29 _
+Austria L        3-3 Rapid
+Salzburg         1-0 Hartberg
+Austria K        2-3 Wattens
+_ Oct 30 _
+Austria W        2-1 Altach
+LASK             4-1 Wolfsberg
+Sturm            2-1 Ried
+
+▪ Round 15 ▪
+_ Nov 5 _
+Wolfsberg        1-2 Salzburg
+Ried             2-2 Austria K
+Hartberg         1-1 Austria L
+_ Nov 6 _
+Altach           1-1 Sturm
+Wattens          0-0 Austria W
+Rapid            1-0 LASK
+
+▪ Round 16 ▪
+_ Nov 12 _
+Austria L        3-0 Altach
+Hartberg         1-2 Rapid
+Wattens          2-0 Ried
+_ Nov 13 _
+Austria W        0-1 Wolfsberg
+Austria K        0-1 Salzburg
+LASK             1-1 Sturm
+
+▪ Round 17 ▪
+_ Feb 10 _
+Sturm            1-0 Rapid
+_ Feb 11 _
+Salzburg         4-0 Austria L
+Wolfsberg        1-2 Wattens
+_ Feb 12 _
+Altach           0-1 LASK
+Ried             0-1 Hartberg
+Austria W        3-1 Austria K
+
+▪ Round 18 ▪
+_ Feb 18 _
+Austria K        0-3 Wolfsberg
+Ried             1-1 LASK
+Hartberg         1-2 Sturm
+_ Feb 19 _
+Austria L        1-0 Austria W
+Wattens          1-3 Salzburg
+Rapid            3-0 Altach
+
+▪ Round 19 ▪
+_ Feb 24 _
+LASK             1-0 Austria L
+_ Feb 25 _
+Austria W        3-0 Hartberg
+Sturm            1-2 Austria K
+_ Feb 26 _
+Altach           0-0 Wattens
+Wolfsberg        1-2 Rapid
+Salzburg         2-0 Ried
+
+▪ Round 20 ▪
+_ Mar 4 _
+Austria L        0-2 Sturm
+Ried             1-3 Austria W
+Hartberg         2-1 Wolfsberg
+_ Mar 5 _
+Austria K        3-0 Altach
+Wattens          2-3 LASK
+Rapid            2-4 Salzburg
+
+▪ Round 21 ▪  Mar 12
+Altach           1-2 Ried
+LASK             0-2 Salzburg
+Rapid            2-0 Wattens
+Wolfsberg        0-1 Austria L
+Austria K        1-0 Hartberg
+Sturm            3-1 Austria W
+
+▪ Round 22 ▪  Mar 19
+Austria W        2-0 Rapid
+Salzburg         1-1 Altach
+Austria L        4-2 Austria K
+Ried             0-0 Wolfsberg
+Hartberg         2-2 LASK
+Wattens          0-2 Sturm
+
+<!-- $table2$ - Final Table -->
+
+NB: Austria Wien 3 points deducted
+
+=== Playoff Stage  ‹§play›
+
+‹Championship Playoff, see §champ› | ‹Relegation Playoff, see §releg›
+
+==== Championship Playoff  ‹§champ›
+
+<!-- $table3$ - Final Table -->
+
+NB: teams carry over half their points from the regular stage (listed between
+    square brackets), rounded downwards (marked by * where applicable)
+
+▪ Round 23 ▪  Apr 2
+Austria K        0-3 Salzburg
+Sturm            3-1 Rapid
+Austria W        2-2 LASK
+
+▪ Round 24 ▪  Apr 9
+Salzburg         3-3 Austria W
+Rapid            3-1 Austria K
+LASK             2-1 Sturm
+
+▪ Round 25 ▪  Apr 16
+Salzburg         0-0 LASK
+Austria K        0-2 Sturm
+Rapid            3-3 Austria W
+
+▪ Round 26 ▪  Apr 23
+Sturm            0-2 Salzburg
+Austria W        1-2 Austria K
+LASK             3-1 Rapid
+
+▪ Round 27 ▪
+_ Apr 26 _
+Sturm            3-2 Austria W
+Rapid            1-1 Salzburg
+_ Apr 30 _
+LASK             4-0 Austria K
+
+▪ Round 28 ▪  May 7
+Salzburg         2-1 Rapid
+Austria W        1-2 Sturm
+Austria K        1-1 LASK
+
+▪ Round 29 ▪  May 14
+LASK             0-1 Salzburg
+Sturm            4-1 Austria K
+Austria W        3-1 Rapid
+
+▪ Round 30 ▪  May 21
+Rapid            1-1 LASK
+Austria K        1-1 Austria W
+Salzburg         2-1 Sturm
+
+▪ Round 31 ▪  May 28
+LASK             3-1 Austria W
+Rapid            3-2 Sturm
+Salzburg         3-2 Austria K
+
+▪ Round 32 ▪  Jun 3
+Austria W        1-1 Salzburg
+Austria K        2-1 Rapid
+Sturm            2-0 LASK
+
+<!-- $table4$ - Final Table -->
+
+NB: teams carry over half their points from the regular stage (listed between
+    square brackets), rounded downwards (marked by * where applicable)
+
+=== Conference League Playoff  ‹§conf›
+
+NB: between fifth placed club from the championship playoff and the
+    top-2 of the relegation playoff
+
+▪ Semifinal ▪  Jun 5
+Wolfsberg        1-2 Austria L        (aet)
+
+▪ Final ▪
+
+▪ First Leg ▪  Jun 8
+Austria L        1-1 Austria W
+
+▪ Second Leg ▪  Jun 11
+Austria W        5-0 Austria L
+
+==== Relegation Playoff  ‹§releg›
+
+<!-- $table5$ - Final Table -->
+
+NB: teams carry over half their points from the regular stage (listed between
+    square brackets), rounded downwards (marked by * where applicable)
+
+▪ Round 23 ▪
+_ Mar 31 _
+Hartberg         0-1 Austria L
+_ Apr 1 _
+Altach           1-0 Wattens
+Wolfsberg        1-0 Ried
+
+▪ Round 24 ▪
+_ Apr 7 _
+Wattens          4-0 Wolfsberg
+_ Apr 8 _
+Ried             1-3 Hartberg
+Austria L        1-0 Altach
+
+▪ Round 25 ▪
+_ Apr 14 _
+Ried             1-1 Wattens
+_ Apr 15 _
+Hartberg         2-2 Altach
+Austria L        1-3 Wolfsberg
+
+▪ Round 26 ▪
+_ Apr 21 _
+Wolfsberg        2-2 Hartberg
+_ Apr 22 _
+Altach           1-1 Ried
+Wattens          0-2 Austria L
+
+▪ Round 27 ▪
+_ Apr 28 _
+Altach           0-2 Wolfsberg
+_ Apr 29 _
+Ried             4-4 Austria L
+Wattens          1-1 Hartberg
+
+▪ Round 28 ▪
+_ May 5 _
+Wolfsberg        0-0 Altach
+_ May 6 _
+Hartberg         5-0 Wattens
+Austria L        2-2 Ried
+
+▪ Round 29 ▪
+_ May 12 _
+Wattens          1-1 Ried
+_ May 13 _
+Altach           0-1 Hartberg
+Wolfsberg        2-2 Austria L
+
+▪ Round 30 ▪
+_ May 19 _
+Ried             0-1 Altach
+_ May 20 _
+Austria L        2-4 Wattens
+Hartberg         0-2 Wolfsberg
+
+▪ Round 31 ▪  May 27
+Altach           1-1 Austria L
+Wolfsberg        2-0 Wattens
+Hartberg         2-0 Ried
+
+▪ Round 32 ▪  Jun 2
+Austria L        5-1 Hartberg
+Ried             1-2 Wolfsberg
+Wattens          1-1 Altach
+
+<!-- $table6$ - Final Table -->
+
+NB: teams carry over half their points from the regular stage (listed between
+    square brackets), rounded downwards (marked by * where applicable)
+
+
+<!-- $topscorers1$ -->
+
+
+
+
+
+
+
