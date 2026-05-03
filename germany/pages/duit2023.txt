@@ -6,13 +6,13 @@
     -->
 
 
-== Germany 2022/23
 
 
 
 
 
-==== 1. Bundesliga  ‹§1bl›
+
+== 1. Bundesliga  ‹§1bl›
 
 <!-- $table1$ - Final Table -->
 
@@ -490,7 +490,7 @@ Wolfsburg       1-2 Hertha
 
 <!-- $table3$ - Final Table -->
 
-===== Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
+=== Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
 
 ▪ First Leg ▪  Jun 1
 Stuttgart       3-0 Hamburg
@@ -504,11 +504,11 @@ NB: both remain at former level
 
 
 
-==== 2. Bundesliga  ‹§2bl›
+== 2. Bundesliga  ‹§2bl›
 
 <!-- $table4$ - Final Table -->
 
-===== Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
+=== Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
 
 ▪ First Leg ▪  Jun 2
 Wehen Wiesbaden 4-0 Bielefeld
@@ -522,13 +522,13 @@ NB: SV Wehen Wiesbaden promoted, Arminia Bielefeld relegated
 
 
 
-==== 3. Liga  ‹§3bl›
+== 3. Liga  ‹§3bl›
 
 <!-- $table5$ - Final Table -->
 
 [!] ineligible for promotion
 
-===== Promotion Playoffs for 3. Bundesliga  ‹§3pro›
+=== Promotion Playoffs for 3. Bundesliga  ‹§3pro›
 
 NB: only the winners of the RL Bayern (SpVgg Unterhaching) and the
     RL Nordost (Energie Cottbus) enter the playoff; the winners of

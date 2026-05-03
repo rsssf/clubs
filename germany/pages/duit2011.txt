@@ -6,13 +6,13 @@
     -->
 
 
-== Germany 2010/11
 
 
 
 
 
-==== 1. Bundesliga  ‹§1bl›
+
+== 1. Bundesliga  ‹§1bl›
 
 
 <!-- $table1$ - Final Table -->
@@ -488,7 +488,7 @@ SC Freiburg          0-1  Bayer Leverkusen
 
 <!-- $table2$ - Final Table -->
 
-===== Promotion/Relegation Playoff  ‹§prorel›
+=== Promotion/Relegation Playoff  ‹§prorel›
 
 ▪ First Leg ▪  May 19
 Borussia M'gladbach  1-0 VfL Bochum
@@ -503,7 +503,7 @@ NB: both remain at former level
 
 
 
-==== DFB Pokal  ‹§dfbpokal›
+== DFB Pokal  ‹§dfbpokal›
 
 ▪ Round 1 ▪
 _ Aug 13 _
@@ -599,7 +599,7 @@ MSV Duisburg           0-5  FC Schalke 04
 
 
 
-==== 2. Bundesliga  ‹§2bl›
+== 2. Bundesliga  ‹§2bl›
 
 <!-- $table3$ - Final Table -->
 
@@ -1107,7 +1107,7 @@ FC Ingolstadt 04      0-1  VfL Osnabrück
 
 <!-- $table4$ - Final Table -->
 
-===== Promotion/Relegation Playoff  ‹§2prorel›
+=== Promotion/Relegation Playoff  ‹§2prorel›
 
 ▪ First Leg ▪  May 20
 Dynamo Dresden        1-1  VfL Osnabrück
@@ -1122,7 +1122,7 @@ NB: Dynamo Dresden promoted, VfL Osnabrück relegated
 
 
 
-==== 3. Liga  ‹§3bl›
+== 3. Liga  ‹§3bl›
 
 <!-- $table5$ - Final Table -->
 

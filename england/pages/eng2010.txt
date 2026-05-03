@@ -6,13 +6,13 @@
     -->
 
 
-== England 2009/10
 
 
 
 
 
-==== Premiership  ‹§premier›
+
+== Premiership  ‹§premier›
 
 <!-- $table1$ - Final Table -->
 
@@ -714,11 +714,11 @@ NB: Portsmouth 9 points deducted for financial reasons
 
 
 
-==== Cup Tournaments  ‹§cups›
+== Cup Tournaments  ‹§cups›
 
 ‹FA Cup, see §facup› | ‹League Cup, see §leaguecup› | ‹Football League Trophy, see §assmemb›
 
-===== FA Cup  ‹§facup›
+=== FA Cup  ‹§facup›
 
 Fourth Qualifying Round
 _ Oct 24 _
@@ -991,7 +991,7 @@ Tottenham Hotspur          0-2 Portsmouth                 (aet)
 ▪ Final ▪  May 15 @ Wembley
 Chelsea                    1-0 Portsmouth
 
-===== League Cup  ‹§leaguecup›
+=== League Cup  ‹§leaguecup›
 
 ▪ Round 1 ▪
 _ Aug 10 _
@@ -1166,7 +1166,7 @@ Man Utd: Kuszczak, Evra, Vidic, Rafael Da Silva (Neville 66), Evans,
          (Rooney 42), Berbatov.
 
 
-===== Football League Trophy  ‹§assmemb›
+=== Football League Trophy  ‹§assmemb›
 
 Northern Section
 
@@ -1286,11 +1286,11 @@ Carlisle      1-4 Southampton
 
 
 
-==== Championship  ‹§champ›
+== Championship  ‹§champ›
 
 ‹Regular Stage, see §2reg› | ‹Promotion Playoff, see §2prom›
 
-===== Regular Stage  ‹§2reg›
+=== Regular Stage  ‹§2reg›
 
 <!-- $table3$ - Final Table -->
 
@@ -2044,7 +2044,7 @@ WBA           1-1 Barnsley
 
 NB: Crystal Palace 10 points deducted for financial reasons
 
-===== Promotion Playoff  ‹§2prom›
+=== Promotion Playoff  ‹§2prom›
 
 ▪ Semifinals ▪
 
@@ -2069,11 +2069,11 @@ NB: Blackpool promoted
 
 
 
-==== Division 1  ‹§first›
+== Division 1  ‹§first›
 
 ‹Regular Stage, see §3reg› | ‹Promotion Playoff, see §3prom›
 
-===== Regular Stage  ‹§3reg›
+=== Regular Stage  ‹§3reg›
 
 <!-- $table5$ - Final Table -->
 
@@ -2818,7 +2818,7 @@ Wycombe       3-0 Gillingham
 
 NB: Southampton 10 points deducted for financial reasons
 
-===== Promotion Playoff  ‹§3prom›
+=== Promotion Playoff  ‹§3prom›
 
 ▪ Semifinals ▪
 
@@ -2843,11 +2843,11 @@ NB: Millwall promoted
 
 
 
-==== Division 2  ‹§second›
+== Division 2  ‹§second›
 
 ‹Regular Stage, see §4reg› | ‹Promotion Playoff, see §4prom›
 
-===== Regular Stage  ‹§4reg›
+=== Regular Stage  ‹§4reg›
 
 <!-- $table7$ - Final Table -->
 
@@ -3576,7 +3576,7 @@ Torquay       0-0 Notts C
 
 <!-- $table8$ - Final Table -->
 
-===== Promotion Playoff  ‹§4prom›
+=== Promotion Playoff  ‹§4prom›
 
 ▪ Semifinals ▪
 
@@ -3601,11 +3601,11 @@ NB: Dagenham & Redbridge promoted
 
 
 
-==== Conference  ‹§conf›
+== Conference  ‹§conf›
 
 ‹Regular Stage, see §5reg› | ‹Promotion Playoff, see §5prom›
 
-===== Regular Stage  ‹§5reg›
+=== Regular Stage  ‹§5reg›
 
 <!-- $table9$ - Final Table -->
 
@@ -4386,7 +4386,7 @@ NB: Chester City 25 points deducted for financial reasons; they
     Gateshead 1 point deducted for abandonment round 8
 
 
-===== Promotion Playoff  ‹§5prom›
+=== Promotion Playoff  ‹§5prom›
 
 ▪ Semifinals ▪
 

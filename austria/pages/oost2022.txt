@@ -6,17 +6,17 @@
     -->
 
 
-== Austria 2021/22
 
 
 
 
 
-==== Bundesliga  ‹§bund›
+
+== Bundesliga  ‹§bund›
 
 ‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
-===== Regular Stage  ‹§reg›
+=== Regular Stage  ‹§reg›
 
 <!-- $table1$ - Final Table -->
 
@@ -246,11 +246,11 @@ Hartberg         0-1 Wattens
 
 <!-- $table2$ - Final Table -->
 
-===== Playoff Stage  ‹§play›
+=== Playoff Stage  ‹§play›
 
 ‹Championship Playoff, see §champ› | ‹Relegation Playoff, see §releg›
 
-====== Championship Playoff  ‹§champ›
+==== Championship Playoff  ‹§champ›
 
 <!-- $table3$ - Final Table -->
 
@@ -312,7 +312,7 @@ Wolfsberg        2-1 Rapid
 NB: teams carry over half their points from the regular stage (listed between
     square brackets), rounded downwards (marked by * where applicable)
 
-===== Conference League Playoff  ‹§conf›
+=== Conference League Playoff  ‹§conf›
 
 NB: between fifth placed club from the championship playoff and the
     top-2 of the relegation playoff
@@ -328,7 +328,7 @@ Wattens          1-2 Rapid
 ▪ Second Leg ▪  May 29
 Rapid            2-0 Wattens
 
-====== Relegation Playoff  ‹§releg›
+==== Relegation Playoff  ‹§releg›
 
 <!-- $table5$ - Final Table -->
 
@@ -399,7 +399,7 @@ NB: teams carry over half their points from the regular stage (listed between
 
 
 
-==== ÖFB Cup  ‹§cup›
+== ÖFB Cup  ‹§cup›
 
 ▪ Round 1 ▪
 _ Jul 16 _
@@ -499,7 +499,7 @@ SV Ried                             0-3 FC Red Bull Salzburg
 
 
 
-==== 2. Liga (Second Level)  ‹§1liga›
+== 2. Liga (Second Level)  ‹§1liga›
 
 <!-- $table7$ - Final Table -->
 
@@ -907,19 +907,19 @@ NB: FC Juniors Oberösterreich withdrew from the league after the season;
 
 
 
-==== Regionalliga  ‹§regliga›
+== Regionalliga  ‹§regliga›
 
 ‹Regionalliga West, see §regwest› | ‹Regionalliga Mitte, see §regmitte› | ‹Regionalliga Ost, see §regost›
 
-===== Regionalliga West  ‹§regwest›
+=== Regionalliga West  ‹§regwest›
 
 <!-- $table10$ - Final Table -->
 
-===== Regionalliga Mitte  ‹§regmitte›
+=== Regionalliga Mitte  ‹§regmitte›
 
 <!-- $table11$ - Final Table -->
 
-===== Regionalliga Ost  ‹§regost›
+=== Regionalliga Ost  ‹§regost›
 
 <!-- $table12$ - Final Table -->
 
@@ -931,7 +931,7 @@ NB: as the league was extended to 16 clubs, 1.MAV Wiener-Neustadt (renamed
 
 
 
-==== SFV (Salzburg) Cup 2021/22  ‹§salzcup›
+== SFV (Salzburg) Cup 2021/22  ‹§salzcup›
 
 ▪ 1/8 Finals ▪
 _ Sep 21 _
@@ -966,7 +966,7 @@ SV Kuchl                      3-2 SK Bischofshofen
 
 
 
-==== Steirer Cup 2021/22  ‹§steicup›
+== Steirer Cup 2021/22  ‹§steicup›
 
 ▪ 1/8 Finals ▪
 _ Oct 26 _

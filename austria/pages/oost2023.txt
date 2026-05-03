@@ -6,17 +6,17 @@
     -->
 
 
-== Austria 2022/23
 
 
 
 
 
-==== Bundesliga  ‹§bund›
+
+== Bundesliga  ‹§bund›
 
 ‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
-===== Regular Stage  ‹§reg›
+=== Regular Stage  ‹§reg›
 
 <!-- $table1$ - Final Table -->
 
@@ -246,11 +246,11 @@ Wattens          0-2 Sturm
 
 NB: Austria Wien 3 points deducted
 
-===== Playoff Stage  ‹§play›
+=== Playoff Stage  ‹§play›
 
 ‹Championship Playoff, see §champ› | ‹Relegation Playoff, see §releg›
 
-====== Championship Playoff  ‹§champ›
+==== Championship Playoff  ‹§champ›
 
 <!-- $table3$ - Final Table -->
 
@@ -314,7 +314,7 @@ Sturm            2-0 LASK
 NB: teams carry over half their points from the regular stage (listed between
     square brackets), rounded downwards (marked by * where applicable)
 
-===== Conference League Playoff  ‹§conf›
+=== Conference League Playoff  ‹§conf›
 
 NB: between fifth placed club from the championship playoff and the
     top-2 of the relegation playoff
@@ -330,7 +330,7 @@ Austria L        1-1 Austria W
 ▪ Second Leg ▪  Jun 11
 Austria W        5-0 Austria L
 
-====== Relegation Playoff  ‹§releg›
+==== Relegation Playoff  ‹§releg›
 
 <!-- $table5$ - Final Table -->
 
@@ -417,7 +417,7 @@ NB: teams carry over half their points from the regular stage (listed between
 
 
 
-==== ÖFB Cup  ‹§cup›
+== ÖFB Cup  ‹§cup›
 
 ▪ Round 1 ▪
 _ Jul 15 _
@@ -517,7 +517,7 @@ SK Rapid Wien                       0-2 SK Sturm Graz
 
 
 
-==== 2. Liga (Second Level)  ‹§1liga›
+== 2. Liga (Second Level)  ‹§1liga›
 
 <!-- $table7$ - Final Table -->
 
@@ -915,21 +915,21 @@ Vienna           1-2 Lafnitz
 
 
 
-==== Regionalliga  ‹§regliga›
+== Regionalliga  ‹§regliga›
 
 ‹Regionalliga West, see §regwest› | ‹Regionalliga Mitte, see §regmitte› | ‹Regionalliga Ost, see §regost›
 
-===== Regionalliga West  ‹§regwest›
+=== Regionalliga West  ‹§regwest›
 
 <!-- $table10$ - Final Table -->
 
-===== Regionalliga Mitte  ‹§regmitte›
+=== Regionalliga Mitte  ‹§regmitte›
 
 <!-- $table11$ - Final Table -->
 
 [*] FC Juniors Oberösterreich were renamed LASK Amateure OÖ
 
-===== Regionalliga Ost  ‹§regost›
+=== Regionalliga Ost  ‹§regost›
 
 <!-- $table12$ - Final Table -->
 
@@ -940,11 +940,11 @@ Vienna           1-2 Lafnitz
 
 
 
-==== Cup Tournaments Bundesländer  ‹§bundcup›
+== Cup Tournaments Bundesländer  ‹§bundcup›
 
 NB: winners qualify for ‹ÖFB-Cup 2023/24, see page oost2024.html#cup›.
 
-===== Burgenland-Cup 2022/23  ‹§burgcup›
+=== Burgenland-Cup 2022/23  ‹§burgcup›
 
 ▪ Quarterfinals ▪  Apr 10
 ASK Klingenbach               1-2 SC Neusiedl
@@ -959,7 +959,7 @@ DSC Pinkafeld                 2-2 SC/ESV Parndorf               (4-5 pen)
 ▪ Final ▪  May 29
 SC/ESV Parndorf               5-2 SC Neusiedl
 
-===== Kärnten Cup 2022/23  ‹§kaerncup›
+=== Kärnten Cup 2022/23  ‹§kaerncup›
 
 ▪ Quarterfinals ▪  Oct 26
 SC St. Veit                   1-2 ATUS Ferlach
@@ -979,7 +979,7 @@ SV Dellach/Gail               2-2 SAK Klagendfurt
 ▪ Second Leg ▪  Jun 17
 SAK Klagenfurt                3-1 SV Dellach/Gail
 
-===== NÖ (Niederösterreich) Cup 2022/23  ‹§noecup›
+=== NÖ (Niederösterreich) Cup 2022/23  ‹§noecup›
 
 ▪ Quarterfinals ▪  Apr 10
 St. Bernhard/Frauenhofen      0-1 SC Gmünd
@@ -999,7 +999,7 @@ SC Katzelsdorf                0-0 SV Haitzendorf
 ▪ Second Leg ▪  May 29
 SV Haitzendorf                0-0 SC Katzelsdorf                (7-6 pen)
 
-===== OÖ (Oberösterreich) Landescup 2022/23  ‹§ooecup›
+=== OÖ (Oberösterreich) Landescup 2022/23  ‹§ooecup›
 
 ▪ Quarterfinals ▪
 _ Apr 18 _
@@ -1016,7 +1016,7 @@ Wallern/St. Marienkirchen     4-2 SPG Pregarten
 ▪ Final ▪  May 18
 Wallern/St. Marienkirchen     2-3 SV Bad Schallerbach           (aet)
 
-===== SFV (Salzburg) Cup 2022/23  ‹§salzcup›
+=== SFV (Salzburg) Cup 2022/23  ‹§salzcup›
 
 ▪ 1/8 Finals ▪  Oct 26
 SC Mittersill                 1-0 SAK 1914
@@ -1041,7 +1041,7 @@ UFV ThaLGAU                   1-1 SV Kuchl                      (4-5 pen)
 ▪ Final ▪  May 17
 SV Austria Salzburg           1-0 SV Kuchl
 
-===== Steirer Cup 2022/23  ‹§steicup›
+=== Steirer Cup 2022/23  ‹§steicup›
 
 ▪ Quarterfinals ▪
 _ Oct 25 _
@@ -1058,7 +1058,7 @@ SC Weiz                       3-0 SV Tillmitsch
 ▪ Final ▪  May 29
 ASK Köflach                   1-2 DSV Leoben
 
-===== Tirol-Cup 2022/23  ‹§tircup›
+=== Tirol-Cup 2022/23  ‹§tircup›
 
 ▪ Quarterfinals ▪  May 1
 SPG Prutz/Serfaus             3-1 SV Fügen
@@ -1073,7 +1073,7 @@ SPG Prutz/Serfaus             1-4 SV Oberperfuss
 ▪ Final ▪  May 28
 SC Imst                       5-3 SV Oberperfuss
 
-===== VFV (Vorarlberg) Cup 2022/23  ‹§vorcup›
+=== VFV (Vorarlberg) Cup 2022/23  ‹§vorcup›
 
 ▪ Quarterfinals ▪
 _ May 9 _
@@ -1090,7 +1090,7 @@ SCR Altach Juniors            2-3 FC Wolfurt
 ▪ Final ▪  Jun 7
 FC Alberschwende              0-2 FC Wolfurt
 
-===== Wiener Landescup 2022/23  ‹§wiencup›
+=== Wiener Landescup 2022/23  ‹§wiencup›
 
 ▪ Quarterfinals ▪
 _ Mar 22 _

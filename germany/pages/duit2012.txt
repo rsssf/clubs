@@ -6,17 +6,17 @@
     -->
 
 
-== Germany 2011/12
 
 
 
 
 
-==== 1. Bundesliga  ‹§1bl›
+
+== 1. Bundesliga  ‹§1bl›
 
 <!-- $table1$ - Final Table -->
 
-===== Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
+=== Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
 
 ▪ First Leg ▪  May 10
 Hertha          1-2 Düsseldorf
@@ -30,7 +30,7 @@ NB: Fortuna Düsseldorf promoted, Hertha BSC relegated
 
 
 
-==== DFB Pokal  ‹§dfbpokal›
+== DFB Pokal  ‹§dfbpokal›
 
 
 ▪ Round 1 ▪
@@ -125,12 +125,12 @@ Borussia Dortmund      5-2 Bayern München
 
 
 
-==== 2. Bundesliga  ‹§2bl›
+== 2. Bundesliga  ‹§2bl›
 
 
 <!-- $table2$ - Final Table -->
 
-===== Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
+=== Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
 
 ▪ First Leg ▪  May 11
 Regensburg      1-1 Karlsruhe
@@ -145,7 +145,7 @@ NB: Jahn Regensburg promoted, Karlsruher SC relegated
 
 
 
-==== 3. Liga  ‹§3bl›
+== 3. Liga  ‹§3bl›
 
 <!-- $table3$ - Final Table -->
 

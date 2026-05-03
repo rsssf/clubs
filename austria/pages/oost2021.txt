@@ -6,17 +6,17 @@
     -->
 
 
-== Austria 2020/21
 
 
 
 
 
-==== Bundesliga  ‹§bund›
+
+== Bundesliga  ‹§bund›
 
 ‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
-===== Regular Stage  ‹§reg›
+=== Regular Stage  ‹§reg›
 
 <!-- $table1$ - Final Table -->
 
@@ -246,11 +246,11 @@ Wattens          1-1 Rapid
 
 <!-- $table2$ - Final Table -->
 
-===== Playoff Stage  ‹§play›
+=== Playoff Stage  ‹§play›
 
 ‹Championship Playoff, see §champ› | ‹Relegation Playoff, see §releg›
 
-====== Championship Playoff  ‹§champ›
+==== Championship Playoff  ‹§champ›
 
 <!-- $table3$ - Final Table -->
 
@@ -312,7 +312,7 @@ Wolfsberg        1-3 Sturm
 NB: teams carry over half their points from the regular stage (listed between
     square brackets), rounded downwards (marked by * where applicable)
 
-===== Conference League Playoff  ‹§conf›
+=== Conference League Playoff  ‹§conf›
 
 NB: between fifth placed club from the championship playoff and the
     top-2 of the relegation playoff
@@ -328,7 +328,7 @@ Austria          3-0 Wolfsberg
 ▪ Second Leg ▪  May 30
 Wolfsberg        1-2 Austria
 
-====== Relegation Playoff  ‹§releg›
+==== Relegation Playoff  ‹§releg›
 
 <!-- $table5$ - Final Table -->
 
@@ -390,7 +390,7 @@ Ried             3-2 Austria
 NB: teams carry over half their points from the regular stage (listed between
     square brackets), rounded downwards (marked by * where applicable)
 
-===== Promotion/Relegation Playoff  ‹§prorel›
+=== Promotion/Relegation Playoff  ‹§prorel›
 
 NB: as only clubs finishing first or second at the second level are entitled to
     direct promotion, Sankt Pölten are not relegated directly but play off
@@ -409,7 +409,7 @@ NB: SK Austria Klagenfurt promoted, SKN Sankt Pölten relegated
 
 
 
-==== ÖFB Cup  ‹§cup›
+== ÖFB Cup  ‹§cup›
 
 ▪ Round 1 ▪
 _ Aug 28 _
@@ -513,7 +513,7 @@ LASK Linz                           0-3 FC Red Bull Salzburg
 
 
 
-==== 2. Liga (Second Level)  ‹§1liga›
+== 2. Liga (Second Level)  ‹§1liga›
 
 <!-- $table7$ - Final Table -->
 
@@ -924,7 +924,7 @@ NB: due to the cancellation of the third level leagues, no clubs will be
 
 
 
-==== Woche Cup 2020/21  ‹§steicup›
+== Woche Cup 2020/21  ‹§steicup›
 
 ▪ 1/8 Finals ▪
 _ Oct 6 _

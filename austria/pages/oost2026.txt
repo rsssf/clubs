@@ -6,17 +6,17 @@
     -->
 
 
-== Austria 2025/26
 
 
 
 
 
-==== Bundesliga  ‹§bund›
+
+== Bundesliga  ‹§bund›
 
 ‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
-===== Regular Stage  ‹§reg›
+=== Regular Stage  ‹§reg›
 
 <!-- $table1$ - Final Table -->
 
@@ -241,11 +241,11 @@ Wattens          2-0 GAK
 
 <!-- $table2$ - Final Table -->
 
-===== Playoff Stage  ‹§play›
+=== Playoff Stage  ‹§play›
 
 ‹Championship Playoff, see §champ› | ‹Relegation Playoff, see §releg›
 
-====== Championship Playoff  ‹§champ›
+==== Championship Playoff  ‹§champ›
 
 <!-- $table3$ - Table -->
 
@@ -271,7 +271,7 @@ Rapid            4-2 LASK
 NB: teams carry over half their points from the regular stage (listed between
     square brackets), rounded downwards (marked by * where applicable)
 
-====== Relegation Playoff  ‹§releg›
+==== Relegation Playoff  ‹§releg›
 
 <!-- $table5$ - Table -->
 
@@ -298,7 +298,7 @@ NB: teams carry over half their points from the regular stage (listed between
 
 
 
-==== ÖFB Cup  ‹§cup›
+== ÖFB Cup  ‹§cup›
 
 ▪ Round 1 ▪
 _ Jul 25 _

@@ -6,17 +6,17 @@
     -->
 
 
-== Austria 2019/20
 
 
 
 
 
-==== Bundesliga  ‹§bund›
+
+== Bundesliga  ‹§bund›
 
 ‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
-===== Regular Stage  ‹§reg›
+=== Regular Stage  ‹§reg›
 
 <!-- $table1$ - Final Table -->
 
@@ -248,11 +248,11 @@ Mattersburg      0-1 LASK
 
 [*] WSG Wattens were renamed WSG Tirol and play home matches in Innsbruck
 
-===== Playoff Stage  ‹§play›
+=== Playoff Stage  ‹§play›
 
 ‹Championship Playoff, see §champ› | ‹Relegation Playoff, see §releg›
 
-====== Championship Playoff  ‹§champ›
+==== Championship Playoff  ‹§champ›
 
 <!-- $table3$ - Final Table -->
 
@@ -324,7 +324,7 @@ NB: LASK were deducted 4 points for training as a group at a time this
 NB: teams carry over half their points from the regular stage (listed between
     square brackets), rounded downwards (marked by * where applicable)
 
-===== Europa League Playoff  ‹§eurpo›
+=== Europa League Playoff  ‹§eurpo›
 
 ▪ Semifinal ▪  Jul 8
 Austria          1-0 Altach
@@ -337,7 +337,7 @@ Austria          2-3 Hartberg
 ▪ Second Leg ▪  Jul 15
 Hartberg         0-0 Austria
 
-====== Relegation Playoff  ‹§releg›
+==== Relegation Playoff  ‹§releg›
 
 <!-- $table5$ - Final Table -->
 
@@ -417,7 +417,7 @@ NB: on Aug 5, Mattersburg renounced on its Bundesliga license for financial
 
 
 
-==== ÖFB Cup  ‹§cup›
+== ÖFB Cup  ‹§cup›
 
 ▪ Round 1 ▪
 _ Jul 19 _
@@ -512,7 +512,7 @@ FC Red Bull Salzburg            5-0 SC Austria Lustenau
 
 
 
-==== 2. Liga (Second Level)  ‹§1liga›
+== 2. Liga (Second Level)  ‹§1liga›
 
 <!-- $table7$ - Final Table -->
 
@@ -526,7 +526,7 @@ NB: no relegation to third level or promotion from third level; the 16th
 
 
 
-==== SFV (Salzburg) Cup 2019/20  ‹§salzcup›
+== SFV (Salzburg) Cup 2019/20  ‹§salzcup›
 
 ▪ 1/8 Finals ▪
 _ Sep 10 _
@@ -556,7 +556,7 @@ Final [May 21 - cancelled]
 
 
 
-==== Woche Cup 2019/20  ‹§steicup›
+== Woche Cup 2019/20  ‹§steicup›
 
 ▪ 1/8 Finals ▪  Mar 7
 FC Schladming                 2-3 SC St. Peter/Freienstein

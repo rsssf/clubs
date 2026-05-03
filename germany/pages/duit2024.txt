@@ -6,13 +6,13 @@
     -->
 
 
-== Germany 2023/24
 
 
 
 
 
-==== 1. Bundesliga  ‹§1bl›
+
+== 1. Bundesliga  ‹§1bl›
 
 <!-- $table1$ - Final Table -->
 
@@ -490,7 +490,7 @@ Bremen          4-1 Bochum
 
 <!-- $table2$ - Final Table -->
 
-===== Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
+=== Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
 
 ▪ First Leg ▪  May 23
 Bochum          0-3 Düsseldorf
@@ -504,11 +504,11 @@ NB: both remain at former level
 
 
 
-==== 2. Bundesliga  ‹§2bl›
+== 2. Bundesliga  ‹§2bl›
 
 <!-- $table3$ - Final Table -->
 
-===== Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
+=== Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
 
 ▪ First Leg ▪  May 24
 Regensburg      2-2 Wehen Wiesbaden
@@ -522,11 +522,11 @@ NB: Jahn Regensburg promoted, Wehen Wiesbaden relegated
 
 
 
-==== 3. Liga  ‹§3bl›
+== 3. Liga  ‹§3bl›
 
 <!-- $table4$ - Final Table -->
 
-===== Promotion Playoffs for 3. Bundesliga  ‹§3pro›
+=== Promotion Playoffs for 3. Bundesliga  ‹§3pro›
 
 NB: only the winners of the RL Bayern (FC Würzburger Kickers) and the
     RL Nord (Hannover 96 II) enter the playoff; the winners of the

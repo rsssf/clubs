@@ -6,13 +6,13 @@
     -->
 
 
-== Germany 2015/16
 
 
 
 
 
-==== 1. Bundesliga  ‹§1bl›
+
+== 1. Bundesliga  ‹§1bl›
 
 <!-- $table1$ - Final Table -->
 
@@ -487,7 +487,7 @@ Bremen          1-0 Frankfurt
 
 <!-- $table3$ - Final Table -->
 
-===== Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
+=== Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
 
 ▪ First Leg ▪  May 19
 Frankfurt       1-1 Nürnberg
@@ -501,7 +501,7 @@ NB: both remain at former level
 
 
 
-==== DFB Pokal  ‹§dfbpokal›
+== DFB Pokal  ‹§dfbpokal›
 
 ▪ Round 1 ▪
 _ Aug 7 _
@@ -594,13 +594,13 @@ Bayern München         0-0 Borussia Dortmund      (aet, 4-3 pen)
 
 
 
-==== 2. Bundesliga  ‹§2bl›
+== 2. Bundesliga  ‹§2bl›
 
 <!-- $table4$ - Final Table -->
 
 NB: Sandhausen 3 points deducted for infringements of licensing conditions
 
-===== Promotion/Relegation Playoff 2./3. Liga  ‹§2prorel›
+=== Promotion/Relegation Playoff 2./3. Liga  ‹§2prorel›
 
 ▪ First Leg ▪  May 20
 Würzburg        2-0 Duisburg
@@ -614,11 +614,11 @@ NB: MSV Duisburg relegated, FC Würzburger Kickers promoted
 
 
 
-==== 3. Liga  ‹§3bl›
+== 3. Liga  ‹§3bl›
 
 <!-- $table5$ - Final Table -->
 
-===== Promotion Playoffs for 3. Bundesliga  ‹§3pro›
+=== Promotion Playoffs for 3. Bundesliga  ‹§3pro›
 
 ▪ First Legs ▪  May 25
 Elversberg      1-1 Zwickau

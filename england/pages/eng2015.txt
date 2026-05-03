@@ -6,13 +6,13 @@
     -->
 
 
-== England 2014/15
 
 
 
 
 
-==== Premier League  ‹§premier›
+
+== Premier League  ‹§premier›
 
 <!-- $table1$ - Final Table -->
 
@@ -572,11 +572,11 @@ Stoke         6-1 Liverpool
 
 
 
-==== Cup Tournaments  ‹§cups›
+== Cup Tournaments  ‹§cups›
 
 ‹FA Cup, see §facup› | ‹League Cup, see §leaguecup›
 
-===== FA Cup  ‹§facup›
+=== FA Cup  ‹§facup›
 
 ▪ Round 1 ▪
 _ Nov 7 _
@@ -795,7 +795,7 @@ Aston Villa             2-1 Liverpool
 ▪ Final ▪  May 30 @ London
 Arsenal                 4-0 Aston Villa
 
-===== League Cup  ‹§leaguecup›
+=== League Cup  ‹§leaguecup›
 
 ▪ Round 1 ▪
 _ Aug 11 _
@@ -928,15 +928,15 @@ Chelsea                 2-0 Tottenham Hotspur
 
 
 
-==== Championship  ‹§champ›
+== Championship  ‹§champ›
 
 ‹Regular Stage, see §2reg› | ‹Promotion Playoff, see §2prom›
 
-===== Regular Stage  ‹§2reg›
+=== Regular Stage  ‹§2reg›
 
 <!-- $table3$ - Final Table -->
 
-===== Promotion Playoff  ‹§2prom›
+=== Promotion Playoff  ‹§2prom›
 
 ▪ Semifinals ▪
 
@@ -960,15 +960,15 @@ Norwich       2-0 Middlesbrough
 
 
 
-==== Division 1  ‹§first›
+== Division 1  ‹§first›
 
 ‹Regular Stage, see §3reg› | ‹Promotion Playoff, see §3prom›
 
-===== Regular Stage  ‹§3reg›
+=== Regular Stage  ‹§3reg›
 
 <!-- $table4$ - Final Table -->
 
-===== Promotion Playoff  ‹§3prom›
+=== Promotion Playoff  ‹§3prom›
 
 ▪ Semifinals ▪
 
@@ -990,15 +990,15 @@ Preston       4-0 Swindon
 
 
 
-==== Division 2  ‹§second›
+== Division 2  ‹§second›
 
 ‹Regular Stage, see §4reg› | ‹Promotion Playoff, see §4prom›
 
-===== Regular Stage  ‹§4reg›
+=== Regular Stage  ‹§4reg›
 
 <!-- $table5$ - Final Table -->
 
-===== Promotion Playoff  ‹§4prom›
+=== Promotion Playoff  ‹§4prom›
 
 ▪ Semifinals ▪
 
@@ -1020,17 +1020,17 @@ Wycombe       1-1 Southend      (aet, 6-7 pen)
 
 
 
-==== Conference  ‹§conf›
+== Conference  ‹§conf›
 
 ‹Regular Stage, see §5reg› | ‹Promotion Playoff, see §5prom›
 
-===== Regular Stage  ‹§5reg›
+=== Regular Stage  ‹§5reg›
 
 <!-- $table6$ - Final Table -->
 
 Promoted: Barrow, Bromley, Guiseley, Boreham Wood
 
-===== Promotion Playoff  ‹§5prom›
+=== Promotion Playoff  ‹§5prom›
 
 ▪ Semifinals ▪
 

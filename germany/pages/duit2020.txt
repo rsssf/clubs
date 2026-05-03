@@ -6,13 +6,13 @@
     -->
 
 
-== Germany 2019/20
 
 
 
 
 
-==== 1. Bundesliga  ‹§1bl›
+
+== 1. Bundesliga  ‹§1bl›
 
 <!-- $table1$ - Final Table -->
 
@@ -494,7 +494,7 @@ Bremen          6-1 Köln
 
 <!-- $table3$ - Final Table -->
 
-===== Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
+=== Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
 
 ▪ First Leg ▪  Jul 2
 Bremen          0-0 Heidenheim
@@ -508,7 +508,7 @@ NB: both remain at former level
 
 
 
-==== DFB Pokal  ‹§dfbpokal›
+== DFB Pokal  ‹§dfbpokal›
 
 ▪ Round 1 ▪
 _ Aug 9 _
@@ -608,11 +608,11 @@ Bayern München         4-2 Bayer Leverkusen
 
 
 
-==== 2. Bundesliga  ‹§2bl›
+== 2. Bundesliga  ‹§2bl›
 
 <!-- $table4$ - Final Table -->
 
-===== Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
+=== Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
 
 ▪ First Leg ▪  Jul 7
 Nürnberg        2-0 Ingolstadt
@@ -626,11 +626,11 @@ NB: both remain at former level
 
 
 
-==== 3. Liga  ‹§3bl›
+== 3. Liga  ‹§3bl›
 
 <!-- $table5$ - Final Table -->
 
-===== Promotion Playoffs for 3. Bundesliga  ‹§3pro›
+=== Promotion Playoffs for 3. Bundesliga  ‹§3pro›
 
 NB: only the winners of the RL Nordost (1.FC Lok Leipzig) and the
     RL West (SV Rödinghausen, who renounced on promotion and were

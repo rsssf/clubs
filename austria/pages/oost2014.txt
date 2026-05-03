@@ -6,13 +6,13 @@
     -->
 
 
-== Austria 2013/14
 
 
 
 
 
-==== Bundesliga  ‹§bund›
+
+== Bundesliga  ‹§bund›
 
 <!-- $table1$ - Final Table -->
 
@@ -357,7 +357,7 @@ NB: Admira Wacker were refused a license for 2014/15 but successfully appealed
 
 
 
-==== ÖFB Cup  ‹§cup›
+== ÖFB Cup  ‹§cup›
 
 ▪ Round 1 ▪
 _ Jul 13 _
@@ -451,7 +451,7 @@ FC Red Bull Salzburg        4-2 SKN St. Pölten
 
 
 
-==== 1. Liga (Second Level)  ‹§1liga›
+== 1. Liga (Second Level)  ‹§1liga›
 
 <!-- $table3$ - Final Table -->
 
@@ -459,7 +459,7 @@ NB: Kapfenberg and Vienna were refused a license for 2014/15;
     Kapfenberg successfully appealed
 
 
-===== Promotion/Relegation Playoff  ‹§2prorel›
+=== Promotion/Relegation Playoff  ‹§2prorel›
 
 Participants:
 SC/ESV Parndorf (1.Liga)
@@ -481,23 +481,23 @@ NB: Parndorf relegated, LASK and FAC promoted
 
 
 
-==== Regionalliga  ‹§regliga›
+== Regionalliga  ‹§regliga›
 
 ‹Regionalliga West, see §regwest› | ‹Regionalliga Mitte, see §regmitte› | ‹Regionalliga Ost, see §regost›
 
-===== Regionalliga West  ‹§regwest›
+=== Regionalliga West  ‹§regwest›
 
 <!-- $table4$ - Final Table -->
 
 Promoted: FC Pinzgau Saalfelden (Salzburg), FC Kitzbühel (Tirol), FC Bizau (Vorarlberg)
 
-===== Regionalliga Mitte  ‹§regmitte›
+=== Regionalliga Mitte  ‹§regmitte›
 
 <!-- $table5$ - Final Table -->
 
 Promoted: ATSV Wolfsberg (Kärnten), Union Gurten (Oberösterreich), SC Weiz (Steiermark)
 
-===== Regionalliga Ost  ‹§regost›
+=== Regionalliga Ost  ‹§regost›
 
 <!-- $table6$ - Final Table -->
 
@@ -507,7 +507,7 @@ Promoted: SC Neusiedl/See (Burgenland), SKN St. Pölten Juniors (Niederösterrei
 
 
 
-==== SFV (Salzburg) Cup 2013/14  ‹§salzcup›
+== SFV (Salzburg) Cup 2013/14  ‹§salzcup›
 
 ▪ 1/8 Finals ▪
 _ Aug 27 _
@@ -542,7 +542,7 @@ TSV St. Johann                2-6 SV Austria Salzburg
 
 
 
-==== Woche Murauer Cup 2013/14  ‹§steicup›
+== Woche Murauer Cup 2013/14  ‹§steicup›
 
 ▪ 1/8 Finals ▪
 _ Apr 4 _

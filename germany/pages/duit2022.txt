@@ -6,13 +6,13 @@
     -->
 
 
-== Germany 2021/22
 
 
 
 
 
-==== 1. Bundesliga  ‹§1bl›
+
+== 1. Bundesliga  ‹§1bl›
 
 <!-- $table1$ - Final Table -->
 
@@ -491,7 +491,7 @@ Wolfsburg       2-2 Bayern
 
 <!-- $table3$ - Final Table -->
 
-===== Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
+=== Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
 
 ▪ First Leg ▪  May 19
 Hertha          0-1 Hamburg
@@ -505,11 +505,11 @@ NB: both remain at former level
 
 
 
-==== 2. Bundesliga  ‹§2bl›
+== 2. Bundesliga  ‹§2bl›
 
 <!-- $table4$ - Final Table -->
 
-===== Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
+=== Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
 
 ▪ First Leg ▪  May 20
 Kaiserslautern  0-0 Dresden
@@ -523,11 +523,11 @@ NB: Kaiserslautern promoted, Dynamo Dresden relegated
 
 
 
-==== 3. Liga  ‹§3bl›
+== 3. Liga  ‹§3bl›
 
 <!-- $table5$ - Final Table -->
 
-===== Promotion Playoffs for 3. Bundesliga  ‹§3pro›
+=== Promotion Playoffs for 3. Bundesliga  ‹§3pro›
 
 NB: only the winners of the RL Nordost (BFC Dynamo) and the RL Nord (VfB Oldenburg)
     enter the playoff; the winners of the RL Bayern (SpVgg Bayreuth), the RL West

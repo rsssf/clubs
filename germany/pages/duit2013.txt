@@ -6,13 +6,13 @@
     -->
 
 
-== Germany 2012/13
 
 
 
 
 
-==== 1. Bundesliga  ‹§1bl›
+
+== 1. Bundesliga  ‹§1bl›
 
 <!-- $table1$ - Final Table -->
 
@@ -484,7 +484,7 @@ Stuttgart       2-2 Mainz
 <!-- $table2$ - Final Table -->
 
 
-===== Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
+=== Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
 
 ▪ First Leg ▪  May 23
 Hoffenheim      3-1 Kaiserslautern
@@ -498,7 +498,7 @@ NB: both remain at former level
 
 
 
-==== DFB Pokal  ‹§dfbpokal›
+== DFB Pokal  ‹§dfbpokal›
 
 ▪ Round 1 ▪
 _ Aug 17 _
@@ -591,7 +591,7 @@ Bayern München         3-2 Stuttgart
 
 
 
-==== 2. Bundesliga  ‹§2bl›
+== 2. Bundesliga  ‹§2bl›
 
 <!-- $table3$ - Final Table -->
 
@@ -1100,7 +1100,7 @@ Bochum          1-2 Union Berlin
 NB: MSV Duisburg were refused a license; because of this Sandhausen remained at the
     second level
 
-===== Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
+=== Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
 
 ▪ First Leg ▪  May 24
 Osnabrück       1-0 Dresden
@@ -1114,14 +1114,14 @@ NB: both remain at former level
 
 
 
-==== 3. Liga  ‹§3bl›
+== 3. Liga  ‹§3bl›
 
 <!-- $table5$ - Final Table -->
 
 NB: Offenbacher Kickers were refused a license; because of this Darmstadt remained
     at the third level
 
-===== Promotion Playoffs for 3. Bundesliga  ‹§3pro›
+=== Promotion Playoffs for 3. Bundesliga  ‹§3pro›
 
 ▪ First Legs ▪  May 29
 RB Leipzig      2-0 Lotte

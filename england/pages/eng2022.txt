@@ -6,13 +6,13 @@
     -->
 
 
-== England 2021/22
 
 
 
 
 
-==== Premier League  ‹§premier›
+
+== Premier League  ‹§premier›
 
 <!-- $table1$ - Final Table -->
 
@@ -623,15 +623,15 @@ Norwich       0-5 Tottenham
 
 
 
-==== Championship  ‹§champ›
+== Championship  ‹§champ›
 
 ‹Regular Stage, see §2reg› | ‹Promotion Playoff, see §2prom›
 
-===== Regular Stage  ‹§2reg›
+=== Regular Stage  ‹§2reg›
 
 <!-- $table3$ - Final Table -->
 
-===== Promotion Playoff  ‹§2prom›
+=== Promotion Playoff  ‹§2prom›
 
 ▪ Semifinals ▪
 
@@ -654,15 +654,15 @@ Huddersfield  0-1 Nottingham
 
 
 
-==== Division 1  ‹§first›
+== Division 1  ‹§first›
 
 ‹Regular Stage, see §3reg› | ‹Promotion Playoff, see §3prom›
 
-===== Regular Stage  ‹§3reg›
+=== Regular Stage  ‹§3reg›
 
 <!-- $table4$ - Final Table -->
 
-===== Promotion Playoff  ‹§3prom›
+=== Promotion Playoff  ‹§3prom›
 
 ▪ Semifinals ▪
 
@@ -686,15 +686,15 @@ Wycombe       0-2 Sunderland
 
 
 
-==== Division 2  ‹§second›
+== Division 2  ‹§second›
 
 ‹Regular Stage, see §4reg› | ‹Promotion Playoff, see §4prom›
 
-===== Regular Stage  ‹§4reg›
+=== Regular Stage  ‹§4reg›
 
 <!-- $table5$ - Final Table -->
 
-===== Promotion Playoff  ‹§4prom›
+=== Promotion Playoff  ‹§4prom›
 
 ▪ Semifinals ▪
 
@@ -718,17 +718,17 @@ Mansfield     0-3 Port Vale
 
 
 
-==== National League  ‹§conf›
+== National League  ‹§conf›
 
 ‹Regular Stage, see §5reg› | ‹Promotion Playoff, see §5prom›
 
-===== Regular Stage  ‹§5reg›
+=== Regular Stage  ‹§5reg›
 
 <!-- $table6$ - Final Table -->
 
 Promoted: Gateshead, Maidstone United, York City, Dorking Wanderers
 
-===== Promotion Playoff  ‹§5prom›
+=== Promotion Playoff  ‹§5prom›
 
 ▪ Round 1 ▪
 

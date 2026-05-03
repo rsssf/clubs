@@ -6,13 +6,13 @@
     -->
 
 
-== Austria 2016/17
 
 
 
 
 
-==== Bundesliga  ‹§bund›
+
+== Bundesliga  ‹§bund›
 
 <!-- $table1$ - Final Table -->
 
@@ -345,7 +345,7 @@ Wolfsberg        1-0 Sturm
 
 
 
-==== ÖFB Cup  ‹§cup›
+== ÖFB Cup  ‹§cup›
 
 ▪ Round 1 ▪
 _ Jul 8 _
@@ -444,7 +444,7 @@ FC Red Bull Salzburg        2-1 SK Rapid Wien
 
 
 
-==== 1. Liga (Second Level)  ‹§1liga›
+== 1. Liga (Second Level)  ‹§1liga›
 
 <!-- $table4$ - Final Table -->
 
@@ -458,23 +458,23 @@ NB: no promotion/relegation matches as only one third level club (TSV Hartberg) 
 
 
 
-==== Regionalliga  ‹§regliga›
+== Regionalliga  ‹§regliga›
 
 ‹Regionalliga West, see §regwest› | ‹Regionalliga Mitte, see §regmitte› | ‹Regionalliga Ost, see §regost›
 
-===== Regionalliga West  ‹§regwest›
+=== Regionalliga West  ‹§regwest›
 
 <!-- $table5$ - Final Table -->
 
 Promoted: FC Kitzbühel, FC Alberschwende, SV Wals-Grünau.
 
-===== Regionalliga Mitte  ‹§regmitte›
+=== Regionalliga Mitte  ‹§regmitte›
 
 <!-- $table6$ - Final Table -->
 
 Promoted: Union Vöcklamarkt, Wolfsberger AC Amateure, TuS Bad Gleichenberg
 
-===== Regionalliga Ost  ‹§regost›
+=== Regionalliga Ost  ‹§regost›
 
 <!-- $table7$ - Final Table -->
 
@@ -482,7 +482,7 @@ Promoted: Union Vöcklamarkt, Wolfsberger AC Amateure, TuS Bad Gleichenberg
 
 Promoted: FC Karabakh Wien, ASK BSC Bruck/Leitha.
 
-====== Relegation Playoff (reserve sides)  ‹§relpores›
+==== Relegation Playoff (reserve sides)  ‹§relpores›
 
 ▪ First Leg ▪  Jun 14
 St. Pölten Juniors          1-2 Mattersburg Amateure
@@ -497,7 +497,7 @@ NB: both remain at former level
 
 
 
-==== SFV (Salzburg) Cup 2016/17  ‹§salzcup›
+== SFV (Salzburg) Cup 2016/17  ‹§salzcup›
 
 ▪ 1/8 Finals ▪
 _ Aug 23 _
@@ -530,7 +530,7 @@ TSV St. Johann                1-4 SV Grödig
 
 
 
-==== Woche Cup 2016/17  ‹§steicup›
+== Woche Cup 2016/17  ‹§steicup›
 
 ▪ 1/8 Finals ▪
 _ Apr 17 _

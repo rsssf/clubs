@@ -6,13 +6,13 @@
     -->
 
 
-== England 2020/21
 
 
 
 
 
-==== Premier League  ‹§premier›
+
+== Premier League  ‹§premier›
 
 <!-- $table1$ - Final Table -->
 
@@ -631,11 +631,11 @@ Wolverhampton 1-2 Manchester U
 
 
 
-==== Cup Tournaments  ‹§cups›
+== Cup Tournaments  ‹§cups›
 
 ‹FA Cup, see §facup›
 
-===== FA Cup  ‹§facup›
+=== FA Cup  ‹§facup›
 
 ▪ Round 1 ▪
 _ Nov 6 _
@@ -807,15 +807,15 @@ Chelsea                 0-1 Leicester City
 
 
 
-==== Championship  ‹§champ›
+== Championship  ‹§champ›
 
 ‹Regular Stage, see §2reg› | ‹Promotion Playoff, see §2prom›
 
-===== Regular Stage  ‹§2reg›
+=== Regular Stage  ‹§2reg›
 
 <!-- $table3$ - Final Table -->
 
-===== Promotion Playoff  ‹§2prom›
+=== Promotion Playoff  ‹§2prom›
 
 ▪ Semifinals ▪
 
@@ -840,15 +840,15 @@ Brentford     2-0 Swansea
 
 
 
-==== Division 1  ‹§first›
+== Division 1  ‹§first›
 
 ‹Regular Stage, see §3reg› | ‹Promotion Playoff, see §3prom›
 
-===== Regular Stage  ‹§3reg›
+=== Regular Stage  ‹§3reg›
 
 <!-- $table4$ - Final Table -->
 
-===== Promotion Playoff  ‹§3prom›
+=== Promotion Playoff  ‹§3prom›
 
 ▪ Semifinals ▪
 
@@ -872,15 +872,15 @@ Blackpool     2-1 Lincoln
 
 
 
-==== Division 2  ‹§second›
+== Division 2  ‹§second›
 
 ‹Regular Stage, see §4reg› | ‹Promotion Playoff, see §4prom›
 
-===== Regular Stage  ‹§4reg›
+=== Regular Stage  ‹§4reg›
 
 <!-- $table5$ - Final Table -->
 
-===== Promotion Playoff  ‹§4prom›
+=== Promotion Playoff  ‹§4prom›
 
 ▪ Semifinals ▪
 
@@ -907,18 +907,18 @@ Morecambe     1-0 Newport       (aet)
 
 
 
-==== National League  ‹§conf›
+== National League  ‹§conf›
 
 ‹Regular Stage, see §5reg› | ‹Promotion Playoff, see §5prom›
 
-===== Regular Stage  ‹§5reg›
+=== Regular Stage  ‹§5reg›
 
 <!-- $table6$ - Final Table -->
 
 NB: King's Lynn Town and Barnet reprieved from relegation as no clubs were
     promoted from the sixth level (where the season was abandoned and voided)
 
-===== Promotion Playoff  ‹§5prom›
+=== Promotion Playoff  ‹§5prom›
 
 ▪ Round 1 ▪
 

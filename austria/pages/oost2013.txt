@@ -6,13 +6,13 @@
     -->
 
 
-== Austria 2012/13
 
 
 
 
 
-==== Bundesliga  ‹§bund›
+
+== Bundesliga  ‹§bund›
 
 <!-- $table1$ - Final Table -->
 
@@ -350,7 +350,7 @@ NB: promoted side Wolfsberger AC/SK St. Andrä were renamed Wolfsberger AC
 
 
 
-==== ÖFB Cup  ‹§cup›
+== ÖFB Cup  ‹§cup›
 
 ▪ Round 1 ▪
 _ Jul 12 _
@@ -448,7 +448,7 @@ NB: FC Pasching play in the Regionalliga Mitte and are the first ‹third level 
 
 
 
-==== 1. Liga (Second Level)  ‹§1liga›
+== 1. Liga (Second Level)  ‹§1liga›
 
 <!-- $table3$ - Final Table -->
 
@@ -732,7 +732,7 @@ Horn             4-0 FC Lustenau
 
 NB: FC Lustenau relegated due to break of license conditions
 
-===== Promotion/Relegation Playoff  ‹§2prorel›
+=== Promotion/Relegation Playoff  ‹§2prorel›
 
 Participants:
 FC Blau-Weiß Linz (1.Liga)
@@ -758,7 +758,7 @@ Relegated: BW Linz
 
 
 
-==== SFV (Salzburg) Cup 2012/13  ‹§salzcup›
+== SFV (Salzburg) Cup 2012/13  ‹§salzcup›
 
 ▪ 1/8 Finals ▪
 _ Aug 28 _
@@ -793,7 +793,7 @@ SV Austria Salzburg           4-0 TSV St. Johann
 
 
 
-==== Woche Murauer Cup  ‹§steicup›
+== Woche Murauer Cup  ‹§steicup›
 
 ▪ 1/8 Finals ▪
 _ Apr 1 _

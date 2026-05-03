@@ -6,13 +6,13 @@
     -->
 
 
-== Austria 2014/15
 
 
 
 
 
-==== Bundesliga  ‹§bund›
+
+== Bundesliga  ‹§bund›
 
 <!-- $table1$ - Final Table -->
 
@@ -351,7 +351,7 @@ Wolfsberg        0-5 Rapid
 
 
 
-==== ÖFB Cup  ‹§cup›
+== ÖFB Cup  ‹§cup›
 
 ▪ Round 1 ▪
 _ Jul 11 _
@@ -447,13 +447,13 @@ FC Red Bull Salzburg        2-0 FK Austria Wien             (aet)
 
 
 
-==== 1. Liga (Second Level)  ‹§1liga›
+== 1. Liga (Second Level)  ‹§1liga›
 
 <!-- $table3$ - Final Table -->
 
 [*] FC Liefering (farm team RB Salzburg) are not eligible for promotion
 
-===== Promotion Playoff  ‹§2prorel›
+=== Promotion Playoff  ‹§2prorel›
 
 Promoted: SV Austria Salzburg (winners Regionalliga West) (directly);
           winners playoff between SK Austria Klagenfurt (winners Regionalliga Mitte)
@@ -473,11 +473,11 @@ NB: SK Austria Klagenfurt promoted
 
 
 
-==== Regionalliga  ‹§regliga›
+== Regionalliga  ‹§regliga›
 
 ‹Regionalliga West, see §regwest› | ‹Regionalliga Mitte, see §regmitte› | ‹Regionalliga Ost, see §regost›
 
-===== Regionalliga West  ‹§regwest›
+=== Regionalliga West  ‹§regwest›
 
 <!-- $table4$ - Final Table -->
 
@@ -485,7 +485,7 @@ Promoted: USK Anif (Salzburg)
           SVG Reichenau (Tirol)
           SW Bregenz (Vorarlberg)
 
-===== Regionalliga Mitte  ‹§regmitte›
+=== Regionalliga Mitte  ‹§regmitte›
 
 <!-- $table5$ - Final Table -->
 
@@ -493,7 +493,7 @@ Promoted: Annabichler SV (Kärnten)
           ATSV Stadl-Paura (Oberösterreich)
           Deutschlandsberger SC (Steiermark)
 
-===== Regionalliga Ost  ‹§regost›
+=== Regionalliga Ost  ‹§regost›
 
 <!-- $table6$ - Final Table -->
 
@@ -506,7 +506,7 @@ Promoted: SV Oberwart (Burgenland)
 
 
 
-==== SFV (Salzburg) Cup 2014/15  ‹§salzcup›
+== SFV (Salzburg) Cup 2014/15  ‹§salzcup›
 
 ▪ 1/8 Finals ▪
 _ Aug 26 _
@@ -540,7 +540,7 @@ SC Golling                    1-7 USC Eugendorf
 
 
 
-==== Woche Murauer Cup 2014/15  ‹§steicup›
+== Woche Murauer Cup 2014/15  ‹§steicup›
 
 1/8 Cup
 _ Apr 6 _

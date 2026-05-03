@@ -6,13 +6,13 @@
     -->
 
 
-== England 2013/14
 
 
 
 
 
-==== Premier League  ‹§premier›
+
+== Premier League  ‹§premier›
 
 <!-- $table1$ - Final Table -->
 
@@ -573,11 +573,11 @@ West Bromwich 1-2 Stoke
 
 
 
-==== Cup Tournaments  ‹§cups›
+== Cup Tournaments  ‹§cups›
 
 ‹FA Cup, see §facup› | ‹League Cup, see §leaguecup›
 
-===== FA Cup  ‹§facup›
+=== FA Cup  ‹§facup›
 
 ▪ Round 1 ▪
 _ Nov 8 _
@@ -791,7 +791,7 @@ Hull City               5-3 Sheffield United
 ▪ Final ▪  May 17
 Arsenal                 3-2 Hull City               (aet)
 
-===== League Cup  ‹§leaguecup›
+=== League Cup  ‹§leaguecup›
 
 ▪ Round 1 ▪
 _ Aug 5 _
@@ -925,15 +925,15 @@ Manchester City         3-1 Sunderland
 
 
 
-==== Championship  ‹§champ›
+== Championship  ‹§champ›
 
 ‹Regular Stage, see §2reg› | ‹Promotion Playoff, see §2prom›
 
-===== Regular Stage  ‹§2reg›
+=== Regular Stage  ‹§2reg›
 
 <!-- $table3$ - Final Table -->
 
-===== Promotion Playoff  ‹§2prom›
+=== Promotion Playoff  ‹§2prom›
 
 ▪ Semifinals ▪
 
@@ -957,15 +957,15 @@ Derby         0-1 QPR
 
 
 
-==== Division 1  ‹§first›
+== Division 1  ‹§first›
 
 ‹Regular Stage, see §3reg› | ‹Promotion Playoff, see §3prom›
 
-===== Regular Stage  ‹§3reg›
+=== Regular Stage  ‹§3reg›
 
 <!-- $table4$ - Final Table -->
 
-===== Promotion Playoff  ‹§3prom›
+=== Promotion Playoff  ‹§3prom›
 
 ▪ Semifinals ▪
 
@@ -987,15 +987,15 @@ Leyton        2-2 Rotherham     (aet, 3-4 pen)
 
 
 
-==== Division 2  ‹§second›
+== Division 2  ‹§second›
 
 ‹Regular Stage, see §4reg› | ‹Promotion Playoff, see §4prom›
 
-===== Regular Stage  ‹§4reg›
+=== Regular Stage  ‹§4reg›
 
 <!-- $table5$ - Final Table -->
 
-===== Promotion Playoff  ‹§4prom›
+=== Promotion Playoff  ‹§4prom›
 
 ▪ Semifinals ▪
 
@@ -1019,12 +1019,12 @@ Fleetwood     1-0 Burton
 
 
 
-==== Conference  ‹§conf›
+== Conference  ‹§conf›
 
 
 ‹Regular Stage, see §5reg› | ‹Promotion Playoff, see §5prom›
 
-===== Regular Stage  ‹§5reg›
+=== Regular Stage  ‹§5reg›
 
 <!-- $table6$ - Final Table -->
 
@@ -1034,7 +1034,7 @@ NB: at the end of the season, both Hereford United and Salisbury City were
 
 Promoted: AFC Telford United, Altrincham, Eastleigh, Dover Athletic
 
-===== Promotion Playoff  ‹§5prom›
+=== Promotion Playoff  ‹§5prom›
 
 ▪ Semifinals ▪
 

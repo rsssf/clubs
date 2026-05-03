@@ -6,13 +6,13 @@
     -->
 
 
-== Germany 2018/19
 
 
 
 
 
-==== 1. Bundesliga  ‹§1bl›
+
+== 1. Bundesliga  ‹§1bl›
 
 <!-- $table1$ - Final Table -->
 
@@ -494,7 +494,7 @@ Bremen          2-1 Leipzig
 
 <!-- $table3$ - Final Table -->
 
-===== Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
+=== Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
 
 ▪ First Leg ▪  May 23
 Stuttgart       2-2 Union Berlin
@@ -509,7 +509,7 @@ NB: 1.FC Union Berlin promoted, VfB Stuttgart relegated
 
 
 
-==== DFB Pokal  ‹§dfbpokal›
+== DFB Pokal  ‹§dfbpokal›
 
 ▪ Round 1 ▪
 _ Aug 17 _
@@ -602,11 +602,11 @@ RB Leipzig             0-3 Bayern München
 
 
 
-==== 2. Bundesliga  ‹§2bl›
+== 2. Bundesliga  ‹§2bl›
 
 <!-- $table4$ - Final Table -->
 
-===== Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
+=== Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
 
 ▪ First Leg ▪  May 24
 Wiesbaden       1-2 Ingolstadt
@@ -620,11 +620,11 @@ NB: SV Wehen Wiesbaden promoted, FC Ingolstadt 04 relegated
 
 
 
-==== 3. Liga  ‹§3bl›
+== 3. Liga  ‹§3bl›
 
 <!-- $table5$ - Final Table -->
 
-===== Promotion Playoffs for 3. Bundesliga  ‹§3pro›
+=== Promotion Playoffs for 3. Bundesliga  ‹§3pro›
 
 NB: only the winners of the RL Nord (VfL Wolfsburg II) and the RL Bayern
     (FC Bayern München II) enter the playoff; the winners of the RL Nordost

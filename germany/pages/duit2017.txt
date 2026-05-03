@@ -6,13 +6,13 @@
     -->
 
 
-== Germany 2016/17
 
 
 
 
 
-==== 1. Bundesliga  ‹§1bl›
+
+== 1. Bundesliga  ‹§1bl›
 
 <!-- $table1$ - Final Table -->
 
@@ -486,7 +486,7 @@ Dortmund        4-3 Bremen
 
 <!-- $table3$ - Final Table -->
 
-===== Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
+=== Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
 
 ▪ First Leg ▪  May 25
 Wolfsburg       1-0 Braunschweig
@@ -500,7 +500,7 @@ NB: both remain at former level
 
 
 
-==== DFB Pokal  ‹§dfbpokal›
+== DFB Pokal  ‹§dfbpokal›
 
 ▪ Round 1 ▪
 _ Aug 19 _
@@ -594,11 +594,11 @@ Borussia Dortmund      2-1 Eintracht Frankfurt
 
 
 
-==== 2. Bundesliga  ‹§2bl›
+== 2. Bundesliga  ‹§2bl›
 
 <!-- $table4$ - Final Table -->
 
-===== Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
+=== Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
 
 ▪ First Leg ▪  May 26
 Regensburg      1-1 1860 München
@@ -615,7 +615,7 @@ NB: TSV 1860 München relegated, Jahn Regensburg promoted;
 
 
 
-==== 3. Liga  ‹§3bl›
+== 3. Liga  ‹§3bl›
 
 <!-- $table5$ - Final Table -->
 
@@ -624,7 +624,7 @@ NB: VfR Aalen and FSV Frankfurt 9 points deducted for infringements of licensing
 NB: SC Paderborn were relegated for the third season in succession; however, they were
     reprieved following the forced demotion of 1860 München to the amateur level
 
-===== Promotion Playoffs for 3. Bundesliga  ‹§3pro›
+=== Promotion Playoffs for 3. Bundesliga  ‹§3pro›
 
 ▪ First Legs ▪  May 28
 Unterhaching    3-0 Elversberg

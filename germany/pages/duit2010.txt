@@ -6,13 +6,13 @@
     -->
 
 
-== Germany 2009/10
 
 
 
 
 
-==== 1. Bundesliga  ‹§1bl›
+
+== 1. Bundesliga  ‹§1bl›
 
 <!-- $table1$ - Final Table -->
 
@@ -482,7 +482,7 @@ Wolfsburg       3-1 Frankfurt
 
 <!-- $table2$ - Final Table -->
 
-===== Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
+=== Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
 
 ▪ First Leg ▪  May 13
 Nürnberg        1-0 Augsburg
@@ -497,7 +497,7 @@ NB: Nürnberg remain in 1. Bundesliga, Augsburg in 2. Bundesliga
 
 
 
-==== DFB Pokal  ‹§dfbpokal›
+== DFB Pokal  ‹§dfbpokal›
 
 ▪ Round 1 ▪
 _ Jul 31 _
@@ -591,7 +591,7 @@ Werder Bremen          0-4 Bayern München
 
 
 
-==== 2. Bundesliga  ‹§2bl›
+== 2. Bundesliga  ‹§2bl›
 
 <!-- $table3$ - Final Table -->
 
@@ -1105,7 +1105,7 @@ Sankt Pauli     1-2 Paderborn
 NB: Arminia Bielefeld had 4 points deducted at the end of
     the season for infringement of license regulations
 
-===== Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
+=== Promotion/Relegation Playoff 2./3. Bundesliga  ‹§2prorel›
 
 ▪ First Leg ▪  May 14
 Ingolstadt      1-0 Rostock
@@ -1120,7 +1120,7 @@ NB: Ingolstadt promoted, Hansa Rostock relegated
 
 
 
-==== 3. Liga  ‹§3bl›
+== 3. Liga  ‹§3bl›
 
 <!-- $table5$ - Final Table -->
 

@@ -6,17 +6,17 @@
     -->
 
 
-== Austria 2018/19
 
 
 
 
 
-==== Bundesliga  ‹§bund›
+
+== Bundesliga  ‹§bund›
 
 ‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
-===== Regular Stage  ‹§reg›
+=== Regular Stage  ‹§reg›
 
 <!-- $table1$ - Final Table -->
 
@@ -240,11 +240,11 @@ Sturm            1-0 Austria
 
 <!-- $table2$ - Final Table -->
 
-===== Playoff Stage  ‹§play›
+=== Playoff Stage  ‹§play›
 
 ‹Championship Playoff, see §champ› | ‹Relegation Playoff, see §releg›
 
-====== Championship Playoff  ‹§champ›
+==== Championship Playoff  ‹§champ›
 
 <!-- $table3$ - Final Table -->
 
@@ -306,7 +306,7 @@ Wolfsberg        2-1 Sturm
 NB: teams carry over half their points from the regular stage (listed between square brackets),
     rounded downwards (marked by * where applicable)
 
-===== Europa League Playoff  ‹§eurpo›
+=== Europa League Playoff  ‹§eurpo›
 
 ▪ Semifinal ▪  May 28
 Rapid            2-0 Mattersburg
@@ -321,7 +321,7 @@ Sturm            0-1 Rapid
 
 NB: Sturm qualified on away goals rule
 
-====== Relegation Playoff  ‹§releg›
+==== Relegation Playoff  ‹§releg›
 
 <!-- $table5$ - Final Table -->
 
@@ -388,7 +388,7 @@ NB: teams carry over half their points from the regular stage (listed between sq
 
 
 
-==== ÖFB Cup  ‹§cup›
+== ÖFB Cup  ‹§cup›
 
 ▪ Round 1 ▪
 _ Jul 20 _
@@ -484,7 +484,7 @@ FC Red Bull Salzburg            2-0 SK Rapid Wien
 
 
 
-==== 2. Liga (Second Level)  ‹§1liga›
+== 2. Liga (Second Level)  ‹§1liga›
 
 <!-- $table7$ - Final Table -->
 
@@ -504,11 +504,11 @@ Promoted: GAK, FC Dornbirn
 
 
 
-==== Regionalliga  ‹§regliga›
+== Regionalliga  ‹§regliga›
 
 ‹Regionalliga West, see §regwest› | ‹Regionalliga Mitte, see §regmitte› | ‹Regionalliga Ost, see §regost›
 
-===== Regionalliga West  ‹§regwest›
+=== Regionalliga West  ‹§regwest›
 
 <!-- $table8$ - Final Table -->
 
@@ -516,11 +516,11 @@ NB: next season, the Regionalliga West is split in three: Eliteliga Salzburg,
     Eliteliga Tirol and Eliteliga Vorarlberg, each with 10 clubs; the top-2
     of each will then play off for promotion to the second level
 
-===== Regionalliga Mitte  ‹§regmitte›
+=== Regionalliga Mitte  ‹§regmitte›
 
 <!-- $table9$ - Final Table -->
 
-===== Regionalliga Ost  ‹§regost›
+=== Regionalliga Ost  ‹§regost›
 
 <!-- $table10$ - Final Table -->
 
@@ -532,7 +532,7 @@ NB: no club eligible for promotion
 
 
 
-==== SFV (Salzburg) Cup 2018/19  ‹§salzcup›
+== SFV (Salzburg) Cup 2018/19  ‹§salzcup›
 
 ▪ Final ▪  Jun 4
 FC Zell/See                   1-2 USK Anif
@@ -542,7 +542,7 @@ FC Zell/See                   1-2 USK Anif
 
 
 
-==== Woche Cup 2018/19  ‹§steicup›
+== Woche Cup 2018/19  ‹§steicup›
 
 ▪ 1/8 Finals ▪
 _ Apr 16 _
