@@ -1,11 +1,12 @@
-= Austria ÖFB Cup 2011/12
+= Austria | ÖFB Cup 2011/12
 
-Preliminary Round
-[Jul 15]
+
+▪ Preliminary Round ▪
+_ Jul 15 _
 Austria Kapfenberg/KSV II   2-0 ASK Voitsberg
-[Jul 18]
+_ Jul 18 _
 ATSV Wolfsberg              1-0 SVG Bleiburg
-[Jul 22]
+_ Jul 22 _
 1. SC Sollenau              3-1 FC Mistelbach
 ASK Baumgarten              3-2 ASKÖ Klingenbach
 ASKÖ Donau Linz             2-1 SV Bad Schallerbach
@@ -23,9 +24,9 @@ SV Stegersbach              4-2 ASK Kohfidisch
 TSV St. Johann/Pongau       1-2 TSV Neumarkt
 Union Vöcklamarkt           4-0 SG SV Neuhofen/SV Ried II
 USV Allerheiligen           2-0 SVU Gleinstätten
-[Jul 23]
+_ Jul 23 _
 ASK Vöslau                  3-0 SKN St. Pölten II
-ASKÖ Stinatz                2-2 SC Ritzing                  [aet, 5-3 pen]
+ASKÖ Stinatz                2-2 SC Ritzing                  (aet, 5-3 pen)
 FC Hard                     2-3 SC Bregenz
 SC Gleisdorf                1-3 DSV Leoben
 Admira Technopool           1-4 Wiener SK
@@ -36,12 +37,12 @@ SV Austria Salzburg         2-0 USK Anif
 SV Grödig II                2-1 FC Kufstein
 SVG Reichenau               5-1 FC Wacker Innsbruck II
 FC Union Innsbruck          4-1 SCR Altach II
-LASK Linz II                1-1 FC Pasching                 [aet, 5-4 pen]
-[Jul 24]
-Union St. Florian           2-0 FC Wels                     [aet]
+LASK Linz II                1-1 FC Pasching                 (aet, 5-4 pen)
+_ Jul 24 _
+Union St. Florian           2-0 FC Wels                     (aet)
 
-Round 1
-[Aug 5]
+▪ Round 1 ▪
+_ Aug 5 _
 Wiener SK                   1-2 ASK Bad Vöslau
 USV Allerheiligen           1-0 Union Vöcklamarkt
 FC Dornbirn                 4-0 SV Stegersbach
@@ -54,10 +55,10 @@ FK Austria Wien II          4-0 First Vienna FC
 ASC Götzendorf              3-2 SKN St.Pölten
 SK Rapid Wien II            1-0 SC Wiener-Neustadt
 SC Kundl                    0-3 TSV Hartberg
-SK Sturm Graz II            2-5 LASK Linz                   [aet]
-[Aug 6]
+SK Sturm Graz II            2-5 LASK Linz                   (aet)
+_ Aug 6 _
 FC Red Bull Salzburg II     5-0 SC Brunn/Gebirge
-WSG Swarovski Wattens       2-2 SV St. Margarethen          [aet, 3-5 pen]
+WSG Swarovski Wattens       2-2 SV St. Margarethen          (aet, 3-5 pen)
 FC Union Innsbruck          3-2 SV Grieskirchen
 SC Weiz                     5-1 TSV Neumarkt
 SC-ESV Parndorf             3-0 SV Austria Salzburg
@@ -70,60 +71,65 @@ SC Bregenz                  0-2 SC Austria Lustenau
 SK Vorwärts Steyr           1-6 FC Admira Wacker Mödling
 SV Grödig II                0-4 SK Sturm Graz
 Union St. Florian           2-0 SCR Altach
-[Aug 7]
+_ Aug 7 _
 FC Gratkorn                 0-3 SV Ried
 FC Admira Wacker Mödling II 1-3 FK Austria Wien
-SVG Reichenau               0-0 SK Austria Klagenfurt       [aet, 4-1 pen]
+SVG Reichenau               0-0 SK Austria Klagenfurt       (aet, 4-1 pen)
 Villacher SV                4-2 SC Retz
 ASK Baumgarten              0-3 FC Red Bull Salzburg
 
-Round 2
-[Sep 20]
+▪ Round 2 ▪
+_ Sep 20 _
 FC Union Innsbruck          0-7 SC Austria Lustenau
 SK Rapid Wien II            4-2 Wolfsberger AC/SK St. Andrä
 FK Austria Wien II          0-5 LASK Linz
 FC Dornbirn                 0-2 SV Grödig
 SC-ESV Parndorf             0-1 FC Admira Wacker Wien
 Union St. Florian           0-2 FC Blau-Weiß Linz
-Villacher SV                1-2 TSV Hartberg                [aet]
+Villacher SV                1-2 TSV Hartberg                (aet)
 ASC Götzendorf              2-3 SV Ried
-SKU Amstetten               2-4 FC Lustenau                 [aet]
-[Sep 21]
-FC RB Salzburg II           1-1 SV Mattersburg              [aet, 5-4 pen]
+SKU Amstetten               2-4 FC Lustenau                 (aet)
+_ Sep 21 _
+FC RB Salzburg II           1-1 SV Mattersburg              (aet, 5-4 pen)
 ASK Bad Vöslau              1-4 SK Rapid Wien
 SAK Klagenfurt              0-4 FC Red Bull Salzburg
-SVG Reichenau               2-1 Kapfenberger SV             [aet]
+SVG Reichenau               2-1 Kapfenberger SV             (aet)
 SC Weiz                     0-4 SK Sturm Graz
 USV Allerheiligen           1-3 FK Austria Wien
 SV St. Margarethen          0-3 FC Wacker Innsbruck
 
-1/8 Finals
-[Oct 25]
+▪ 1/8 Finals ▪
+_ Oct 25 _
 Wacker Innsbruck            0-1 SV Grödig
 RB Salzburg II              3-1 BW Linz
 Austria Lustenau            4-1 FC Lustenau
 Rapid Wien II               0-2 TSV Hartberg
-[Oct 26]
+_ Oct 26 _
 SVG Reichenau               0-2 Austria Wien
 RB Salzburg                 2-1 Linzer ASK
-Rapid Wien                  1-2 SV Ried                     [aet]
+Rapid Wien                  1-2 SV Ried                     (aet)
 Sturm Graz                  3-1 Admira Wacker Mödling
 
-Quarterfinals
-[Apr 10]
+▪ Quarterfinals ▪
+_ Apr 10 _
 SV Grödig                   2-3 SV Ried
 Austria Lustenau            1-2 Austria Wien
-[Apr 11]
+_ Apr 11 _
 RB Salzburg                 4-1 RB Salzburg II
-Sturm Graz                  2-4 TSV Hartberg                [aet]
+Sturm Graz                  2-4 TSV Hartberg                (aet)
 
-Semifinals
-[May 1]
+▪ Semifinals ▪
+_ May 1 _
 TSV Hartberg                0-1 RB Salzburg
-[May 2]
+_ May 2 _
 SV Ried                     2-0 Austria Wien
 
-Final [May 20]
+▪ Final ▪  May 20
 RB Salzburg                 3-0 SV Ried
-  [Leonardo 10pen, Schiemer 14, Hierländer 90+1]
+  (Leonardo 10pen, Schiemer 14, Hierländer 90+1)
+
+
+
+
+
 

@@ -1,327 +1,346 @@
-= Austria Bundesliga 2013/14
+= Austria | Bundesliga 2013/14
 
-Round 1
-[Jul 20]
+
+<!-- $table1$ - Final Table -->
+
+NB: Admira Wacker 5 points deducted for license infringements (after an earlier
+    deduction of 8 points was reduced on appeal)
+
+NB: Admira Wacker were refused a license for 2014/15 but successfully appealed
+
+▪ Round 1 ▪
+_ Jul 20 _
 Austria          2-0 Admira Wacker
 Wiener Neustadt  1-5 Salzburg
 Grödig           0-0 Ried
 Wolfsberg        2-2 Rapid
-[Jul 21]
+_ Jul 21 _
 Innsbruck        2-2 Sturm
 
-Round 2
-[Jul 27]
+▪ Round 2 ▪
+_ Jul 27 _
 Admira Wacker    1-2 Innsbruck
 Rapid            4-0 Wiener Neustadt
 Salzburg         5-1 Austria
 Ried             1-0 Wolfsberg
-[Jul 28]
+_ Jul 28 _
 Sturm            0-2 Grödig
 
-Round 3
-[Aug 3]
+▪ Round 3 ▪
+_ Aug 3 _
 Austria          3-3 Ried
 Innsbruck        1-1 Salzburg
 Wiener Neustadt  2-1 Wolfsberg
 Grödig           7-1 Admira Wacker
-[Aug 4]
+_ Aug 4 _
 Sturm            2-4 Rapid
 
-Round 4
-[Aug 10]
+▪ Round 4 ▪
+_ Aug 10 _
 Admira Wacker    1-1 Sturm
 Salzburg         4-1 Grödig
 Ried             1-1 Wiener Neustadt
 Wolfsberg        1-1 Innsbruck
-[Aug 11]
+_ Aug 11 _
 Rapid            0-0 Austria
 
-Round 5
-[Aug 17]
+▪ Round 5 ▪
+_ Aug 17 _
 Austria          5-0 Wiener Neustadt
 Innsbruck        2-3 Ried
 Sturm            1-1 Salzburg
 Grödig           4-3 Wolfsberg
-[Aug 18]
+_ Aug 18 _
 Admira Wacker    2-0 Rapid
 
-Round 6
-[Aug 24]
+▪ Round 6 ▪
+_ Aug 24 _
 Wiener Neustadt  1-1 Innsbruck
 Ried             3-0 Sturm
 Wolfsberg        1-4 Austria
-[Aug 25]
+_ Aug 25 _
 Rapid            0-1 Grödig
 Salzburg         1-0 Admira Wacker
 
-Round 7
-[Aug 31]
+▪ Round 7 ▪
+_ Aug 31 _
 Austria          1-1 Innsbruck
 Admira Wacker    1-4 Ried
 Sturm            4-1 Wolfsberg
 Grödig           3-6 Wiener Neustadt
-[Sep 1]
+_ Sep 1 _
 Salzburg         1-1 Rapid
 
-Round 8
-[Sep 14]
+▪ Round 8 ▪
+_ Sep 14 _
 Austria          2-3 Grödig
 Innsbruck        0-4 Rapid
 Wiener Neustadt  1-3 Sturm
 Wolfsberg        3-1 Admira Wacker
-[Sep 15]
+_ Sep 15 _
 Ried             0-5 Salzburg
 
-Round 9
-[Sep 21]
+▪ Round 9 ▪
+_ Sep 21 _
 Admira Wacker    0-3 Wiener Neustadt
 Sturm            1-2 Austria
 Grödig           3-3 Innsbruck
-[Sep 22]
+_ Sep 22 _
 Rapid            2-0 Ried
 Salzburg         2-2 Wolfsberg
 
-Round 10
-[Sep 28]
+▪ Round 10 ▪
+_ Sep 28 _
 Admira Wacker    1-0 Austria
 Rapid            2-4 Wolfsberg
 Sturm            1-0 Innsbruck
 Ried             4-2 Grödig
-[Sep 29]
+_ Sep 29 _
 Salzburg         8-1 Wiener Neustadt
 
-Round 11
-[Oct 5]
+▪ Round 11 ▪
+_ Oct 5 _
 Innsbruck        3-3 Admira Wacker
 Grödig           0-1 Sturm
 Wolfsberg        1-1 Ried
-[Oct 6]
+_ Oct 6 _
 Austria          1-2 Salzburg
 Wiener Neustadt  0-0 Rapid
 
-Round 12
-[Oct 19]
+▪ Round 12 ▪
+_ Oct 19 _
 Admira Wacker    0-4 Grödig
 Salzburg         6-0 Innsbruck
 Ried             1-1 Austria
 Wolfsberg        1-1 Wiener Neustadt
-[Oct 20]
+_ Oct 20 _
 Rapid            2-2 Sturm
 
-Round 23
-[Oct 26]
+▪ Round 23 ▪
+_ Oct 26 _
 Innsbruck        1-2 Wolfsberg
 Wiener Neustadt  3-3 Ried
 Sturm            0-2 Admira Wacker
-[Oct 27]
+_ Oct 27 _
 Austria          0-1 Rapid
 Grödig           0-3 Salzburg
 
-Round 14
-[Nov 2]
+▪ Round 14 ▪
+_ Nov 2 _
 Rapid            4-2 Admira Wacker
 Salzburg         1-0 Sturm
 Ried             4-0 Innsbruck
 Wolfsberg        1-1 Grödig
-[Nov 3]
+_ Nov 3 _
 Wiener Neustadt  0-3 Austria
 
-Round 15
-[Nov 9]
+▪ Round 15 ▪
+_ Nov 9 _
 Austria          1-0 Wolfsberg
 Innsbruck        4-0 Wiener Neustadt
-[Nov 10]
+_ Nov 10 _
 Admira Wacker    3-1 Salzburg
 Grödig           2-2 Rapid
-[Nov 27]
+_ Nov 27 _
 Sturm            2-0 Ried
 
-Round 16
-[Nov 23]
+▪ Round 16 ▪
+_ Nov 23 _
 Innsbruck        0-5 Austria
 Wiener Neustadt  0-2 Grödig
 Ried             2-2 Admira Wacker
-[Nov 24]
+_ Nov 24 _
 Rapid            2-1 Salzburg
-[Dec 11]
+_ Dec 11 _
 Wolfsberg        2-1 Sturm
 
-Round 17
-[Nov 30]
+▪ Round 17 ▪
+_ Nov 30 _
 Admira Wacker    3-0 Wolfsberg
 Sturm            2-3 Wiener Neustadt
 Grödig           1-0 Austria
-[Dec 1]
+_ Dec 1 _
 Rapid            3-0 Innsbruck
 Salzburg         4-0 Ried
 
-Round 18
-[Dec 3]
+▪ Round 18 ▪
+_ Dec 3 _
 Austria          3-2 Sturm
-[Dec 4]
+_ Dec 4 _
 Innsbruck        5-3 Grödig
 Wiener Neustadt  1-0 Admira Wacker
 Ried             2-0 Rapid
 Wolfsberg        1-2 Salzburg
 
-Round 19
-[Dec 7]
+▪ Round 19 ▪
+_ Dec 7 _
 Austria          2-2 Admira Wacker
 Innsbruck        0-1 Sturm
 Grödig           3-0 Ried
-[Dec 8]
+_ Dec 8 _
 Wolfsberg        2-1 Rapid
-[Feb 2]
+_ Feb 2 _
 Wiener Neustadt  1-5 Salzburg
 
-Round 20
-[Dec 14]
+▪ Round 20 ▪
+_ Dec 14 _
 Admira Wacker    3-0 Innsbruck
 Sturm            2-2 Grödig
 Ried             1-3 Wolfsberg
-[Dec 15]
+_ Dec 15 _
 Rapid            0-0 Wiener Neustadt
 Salzburg         4-0 Austria
 
-Round 21
-[Dec 17]
+▪ Round 21 ▪
+_ Dec 17 _
 Grödig           2-1 Admira Wacker
-[Dec 18]
+_ Dec 18 _
 Austria          1-1 Ried
 Innsbruck        0-1 Salzburg
 Wiener Neustadt  1-1 Wolfsberg
 Sturm            2-0 Rapid
 
-Round 22
-[Feb 8]
+▪ Round 22 ▪
+_ Feb 8 _
 Admira Wacker    1-1 Sturm
 Salzburg         6-0 Grödig
 Ried             2-1 Wiener Neustadt
 Wolfsberg        3-2 Innsbruck
-[Feb 9]
+_ Feb 9 _
 Rapid            3-1 Austria
 
-Round 23
-[Feb 15]
+▪ Round 23 ▪
+_ Feb 15 _
 Austria          1-1 Wiener Neustadt
 Innsbruck        1-1 Ried
 Sturm            1-4 Salzburg
 Grödig           3-0 Wolfsberg
-[Feb 16]
+_ Feb 16 _
 Admira Wacker    2-1 Rapid
 
-Round 24
-[Feb 22]
+▪ Round 24 ▪
+_ Feb 22 _
 Rapid            0-0 Grödig
 Wiener Neustadt  1-0 Innsbruck
 Ried             2-2 Sturm
 Wolfsberg        0-0 Austria
-[Feb 23]
+_ Feb 23 _
 Salzburg         6-1 Admira Wacker
 
-Round 25
-[Mar 1]
+▪ Round 25 ▪
+_ Mar 1 _
 Austria          2-1 Innsbruck
 Admira Wacker    2-2 Ried
 Sturm            1-4 Wolfsberg
 Grödig           1-2 Wiener Neustadt
-[Mar 2]
+_ Mar 2 _
 Salzburg         6-3 Rapid
 
-Round 26
-[Mar 8]
+▪ Round 26 ▪
+_ Mar 8 _
 Austria          2-0 Grödig
 Wiener Neustadt  2-1 Sturm
 Ried             1-3 Salzburg
 Wolfsberg        2-3 Admira Wacker
-[Mar 9]
+_ Mar 9 _
 Innsbruck        1-1 Rapid
 
-Round 27
-[Mar 15]
+▪ Round 27 ▪
+_ Mar 15 _
 Admira Wacker    3-0 Wiener Neustadt
 Rapid            1-0 Ried
 Sturm            1-1 Austria
 Grödig           1-1 Innsbruck
-[Mar 16]
+_ Mar 16 _
 Salzburg         5-0 Wolfsberg
 
-Round 28
-[Mar 22]
+▪ Round 28 ▪
+_ Mar 22 _
 Admira Wacker    0-1 Austria
 Rapid            3-0 Wolfsberg
 Sturm            3-1 Innsbruck
 Ried             1-4 Grödig
-[Mar 23]
+_ Mar 23 _
 Salzburg         5-0 Wiener Neustadt
 
-Round 29
-[Mar 25]
+▪ Round 29 ▪
+_ Mar 25 _
 Innsbruck        0-0 Admira Wacker
-[Mar 26]
+_ Mar 26 _
 Austria          3-0 Salzburg
 Wiener Neustadt  0-3 Rapid
 Grödig           0-6 Sturm
 Wolfsberg        0-2 Ried
 
-Round 30
-[Mar 29]
+▪ Round 30 ▪
+_ Mar 29 _
 Admira Wacker    4-0 Grödig
 Rapid            2-0 Sturm
 Salzburg         0-0 Innsbruck
 Wolfsberg        4-0 Wiener Neustadt
-[Mar 30]
+_ Mar 30 _
 Ried             2-2 Austria
 
-Round 31
-[Apr 5]
+▪ Round 31 ▪
+_ Apr 5 _
 Innsbruck        0-1 Wolfsberg
 Wiener Neustadt  1-1 Ried
 Sturm            1-1 Admira Wacker
 Grödig           1-3 Salzburg
-[Apr 6]
+_ Apr 6 _
 Austria          0-1 Rapid
 
-Round 32
-[Apr 12]
+▪ Round 32 ▪
+_ Apr 12 _
 Rapid            0-0 Admira Wacker
 Salzburg         1-2 Sturm
 Ried             1-2 Innsbruck
 Wolfsberg        1-2 Grödig
-[Apr 13]
+_ Apr 13 _
 Wiener Neustadt  0-2 Austria
 
-Round 33
-[Apr 19]
+▪ Round 33 ▪
+_ Apr 19 _
 Austria          3-1 Wolfsberg
 Admira Wacker    2-3 Salzburg
 Innsbruck        3-1 Wiener Neustadt
 Sturm            2-1 Ried
-[Apr 20]
+_ Apr 20 _
 Grödig           2-2 Rapid
 
-Round 34
-[Apr 26]
+▪ Round 34 ▪
+_ Apr 26 _
 Innsbruck        1-1 Austria
 Rapid            2-1 Salzburg
 Wiener Neustadt  1-3 Grödig
 Ried             3-0 Admira Wacker
-[Apr 27]
+_ Apr 27 _
 Wolfsberg        0-1 Sturm
 
-Round 35 [May 4]
+▪ Round 35 ▪  May 4
 Admira Wacker    1-0 Wolfsberg
 Rapid            2-0 Innsbruck
 Salzburg         4-0 Ried
 Sturm            1-2 Wiener Neustadt
 Grödig           2-1 Austria
 
-Round 36
-[May 11]
+▪ Round 36 ▪
+_ May 11 _
 Austria          1-2 Sturm
 Innsbruck        3-3 Grödig
 Ried             2-5 Rapid
 Wolfsberg        2-0 Salzburg
-[May 12]
+_ May 12 _
 Wiener Neustadt  5-2 Admira Wacker
+
+<!-- $table2$ - Final Table -->
+
+NB: Admira Wacker 5 points deducted for license infringements (after an earlier
+    deduction of 8 points was reduced on appeal)
+
+NB: Admira Wacker were refused a license for 2014/15 but successfully appealed
+
+
+
+
 

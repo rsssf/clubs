@@ -1,326 +1,339 @@
-= Austria Bundesliga 2012/13
+= Austria | Bundesliga 2012/13
 
-Round 1
-[Jul 21]
+
+<!-- $table1$ - Final Table -->
+
+NB: promoted side Wolfsberger AC/SK St. Andrä were renamed Wolfsberger AC
+
+▪ Round 1 ▪
+_ Jul 21 _
 Rapid            4-0 Innsbruck
 Sturm            0-2 Salzburg
 Mattersburg      2-0 Wiener Neustadt
-[Jul 22]
+_ Jul 22 _
 Admira Wacker    0-2 Ried
-[Jul 25]
+_ Jul 25 _
 Wolfsberg        0-1 Austria
 
-Round 2
-[Jul 28]
+▪ Round 2 ▪
+_ Jul 28 _
 Austria          0-1 Sturm
 Salzburg         3-2 Mattersburg
 Wiener Neustadt  0-1 Rapid
-[Jul 29]
+_ Jul 29 _
 Innsbruck        1-2 Admira Wacker
 Ried             0-2 Wolfsberg
 
-Round 3
-[Aug 4]
+▪ Round 3 ▪
+_ Aug 4 _
 Mattersburg      3-1 Sturm
 Wolfsberg        0-2 Salzburg
-[Aug 5]
+_ Aug 5 _
 Admira Wacker    4-0 Wiener Neustadt
 Rapid            0-3 Austria
 Ried             2-0 Innsbruck
 
-Round 4
-[Aug 11]
+▪ Round 4 ▪
+_ Aug 11 _
 Innsbruck        2-1 Mattersburg
 Sturm            4-1 Wolfsberg
-[Aug 12]
+_ Aug 12 _
 Austria          1-0 Admira Wacker
 Salzburg         0-2 Rapid
 Wiener Neustadt  2-3 Ried
 
-Round 5
-[Aug 18]
+▪ Round 5 ▪
+_ Aug 18 _
 Admira Wacker    4-4 Salzburg
 Innsbruck        2-3 Wiener Neustadt
 Rapid            3-0 Sturm
 Wolfsberg        0-1 Mattersburg
-[Aug 19]
+_ Aug 19 _
 Ried             0-1 Austria
 
-Round 6
-[Aug 25]
+▪ Round 6 ▪
+_ Aug 25 _
 Austria          2-0 Innsbruck
 Salzburg         1-1 Wiener Neustadt
 Sturm            3-2 Admira Wacker
 Mattersburg      2-1 Ried
-[Aug 26]
+_ Aug 26 _
 Wolfsberg        1-0 Rapid
 
-Round 7
-[Sep 1]
+▪ Round 7 ▪
+_ Sep 1 _
 Admira Wacker    1-1 Wolfsberg
 Innsbruck        0-4 Salzburg
 Wiener Neustadt  0-2 Austria
 Ried             0-1 Sturm
-[Sep 2]
+_ Sep 2 _
 Rapid            3-0 Mattersburg
 
-Round 8
-[Sep 15]
+▪ Round 8 ▪
+_ Sep 15 _
 Rapid            0-0 Admira Wacker
 Salzburg         1-1 Ried
 Sturm            3-0 Innsbruck
 Wolfsberg        6-0 Wiener Neustadt
-[Sep 16]
+_ Sep 16 _
 Mattersburg      2-4 Austria
 
-Round 9
-[Sep 22]
+▪ Round 9 ▪
+_ Sep 22 _
 Austria          0-1 Salzburg
 Admira Wacker    5-1 Mattersburg
 Innsbruck        0-1 Wolfsberg
 Wiener Neustadt  1-1 Sturm
-[Sep 23]
+_ Sep 23 _
 Ried             0-2 Rapid
 
-Round 10
-[Sep 29]
+▪ Round 10 ▪
+_ Sep 29 _
 Austria          1-1 Wolfsberg
 Innsbruck        0-2 Rapid
 Wiener Neustadt  0-0 Mattersburg
 Ried             1-1 Admira Wacker
-[Sep 30]
+_ Sep 30 _
 Salzburg         3-2 Sturm
 
-Round 11
-[Oct 6]
+▪ Round 11 ▪
+_ Oct 6 _
 Admira Wacker    4-1 Innsbruck
 Mattersburg      1-3 Salzburg
 Wolfsberg        2-5 Ried
-[Oct 7]
+_ Oct 7 _
 Rapid            1-1 Wiener Neustadt
 Sturm            1-1 Austria
 
-Round 12
-[Oct 20]
+▪ Round 12 ▪
+_ Oct 20 _
 Innsbruck        1-0 Ried
 Salzburg         4-1 Wolfsberg
 Wiener Neustadt  2-1 Admira Wacker
 Sturm            0-0 Mattersburg
-[Oct 21]
+_ Oct 21 _
 Austria          2-0 Rapid
 
-Round 13
-[Oct 27]
+▪ Round 13 ▪
+_ Oct 27 _
 Admira Wacker    4-6 Austria
 Mattersburg      1-2 Innsbruck
 Ried             3-1 Wiener Neustadt
-[Oct 28]
+_ Oct 28 _
 Rapid            2-0 Salzburg
-[Nov 27]
+_ Nov 27 _
 Wolfsberg        1-1 Sturm
 
-Round 14
-[Nov 3]
+▪ Round 14 ▪
+_ Nov 3 _
 Salzburg         5-0 Admira Wacker
 Wiener Neustadt  0-1 Innsbruck
 Sturm            2-1 Rapid
 Mattersburg      1-1 Wolfsberg
-[Nov 4]
+_ Nov 4 _
 Austria          6-1 Ried
 
-Round 15
-[Nov 10]
+▪ Round 15 ▪
+_ Nov 10 _
 Admira Wacker    1-2 Sturm
 Innsbruck        0-3 Austria
 Ried             6-1 Mattersburg
-[Nov 11]
+_ Nov 11 _
 Rapid            0-2 Wolfsberg
 Wiener Neustadt  0-3 Salzburg
 
-Round 16
-[Nov 17]
+▪ Round 16 ▪
+_ Nov 17 _
 Austria          3-0 Wiener Neustadt
 Sturm            3-1 Ried
 Mattersburg      0-3 Rapid
 Wolfsberg        1-1 Admira Wacker
-[Nov 18]
+_ Nov 18 _
 Salzburg         2-0 Innsbruck
 
-Round 17
-[Nov 24]
+▪ Round 17 ▪
+_ Nov 24 _
 Austria          3-1 Mattersburg
 Innsbruck        awd Sturm            [awarded 0-3; abandoned at 0-1 in 90+1']
 Wiener Neustadt  2-1 Wolfsberg
 Ried             3-1 Salzburg
-[Nov 25]
+_ Nov 25 _
 Admira Wacker    0-2 Rapid
 
-Round 18
-[Dec 1]
+▪ Round 18 ▪
+_ Dec 1 _
 Rapid            4-3 Ried
 Sturm            3-1 Wiener Neustadt
 Mattersburg      3-0 Admira Wacker
 Wolfsberg        2-2 Innsbruck
-[Dec 2]
+_ Dec 2 _
 Salzburg         0-0 Austria
 
-Round 19
-[Dec 8]
+▪ Round 19 ▪
+_ Dec 8 _
 Admira Wacker    0-3 Ried
 Sturm            1-1 Salzburg
 Mattersburg      1-0 Wiener Neustadt
 Wolfsberg        3-6 Austria
-[Dec 9]
+_ Dec 9 _
 Rapid            2-1 Innsbruck
 
-Round 20
-[Dec 15]
+▪ Round 20 ▪
+_ Dec 15 _
 Innsbruck        3-1 Admira Wacker
 Salzburg         7-0 Mattersburg
 Wiener Neustadt  1-0 Rapid
-[Dec 16]
+_ Dec 16 _
 Austria          3-1 Sturm
-[Feb 20]
+_ Feb 20 _
 Ried             1-1 Wolfsberg
 
-Round 21
-[Feb 16]
+▪ Round 21 ▪
+_ Feb 16 _
 Admira Wacker    1-2 Wiener Neustadt
 Mattersburg      0-0 Sturm
 Ried             3-0 Innsbruck
-[Feb 17]
+_ Feb 17 _
 Rapid            1-2 Austria
-[Mar 6]
+_ Mar 6 _
 Wolfsberg        1-1 Salzburg
 
-Round 22
-[Feb 23]
+▪ Round 22 ▪
+_ Feb 23 _
 Austria          4-0 Admira Wacker
 Innsbruck        2-0 Mattersburg
 Wiener Neustadt  0-0 Ried
 Sturm            1-3 Wolfsberg
-[Feb 24]
+_ Feb 24 _
 Salzburg         3-3 Rapid
 
-Round 23
-[Feb 27]
+▪ Round 23 ▪
+_ Feb 27 _
 Ried             1-3 Austria
 Rapid            1-1 Sturm
 Innsbruck        1-0 Wiener Neustadt
-[Mar 13]
+_ Mar 13 _
 Admira Wacker    1-1 Salzburg
 Wolfsberg        1-0 Mattersburg
 
-Round 24
-[Mar 2]
+▪ Round 24 ▪
+_ Mar 2 _
 Austria          4-0 Innsbruck
 Salzburg         3-1 Wiener Neustadt
 Sturm            1-2 Admira Wacker
 Mattersburg      1-0 Ried
-[Mar 3]
+_ Mar 3 _
 Wolfsberg        2-1 Rapid
 
-Round 25
-[Mar 9]
+▪ Round 25 ▪
+_ Mar 9 _
 Admira Wacker    0-1 Wolfsberg
 Rapid            2-2 Mattersburg
 Wiener Neustadt  0-0 Austria
 Ried             1-2 Sturm
-[Mar 10]
+_ Mar 10 _
 Innsbruck        2-3 Salzburg
 
-Round 26
-[Mar 16]
+▪ Round 26 ▪
+_ Mar 16 _
 Rapid            1-1 Admira Wacker
 Salzburg         2-2 Ried
 Sturm            3-2 Innsbruck
 Wolfsberg        1-1 Wiener Neustadt
-[Mar 17]
+_ Mar 17 _
 Mattersburg      0-4 Austria
 
-Round 27
-[Mar 30]
+▪ Round 27 ▪
+_ Mar 30 _
 Admira Wacker    1-0 Mattersburg
 Innsbruck        2-3 Wolfsberg
 Wiener Neustadt  1-0 Sturm
 Ried             3-2 Rapid
-[Mar 31]
+_ Mar 31 _
 Austria          1-1 Salzburg
 
-Round 28
-[Apr 6]
+▪ Round 28 ▪
+_ Apr 6 _
 Austria          0-4 Wolfsberg
 Innsbruck        1-1 Rapid
 Wiener Neustadt  0-0 Mattersburg
 Ried             4-1 Admira Wacker
-[Apr 7]
+_ Apr 7 _
 Salzburg         3-0 Sturm
 
-Round 29
-[Apr 13]
+▪ Round 29 ▪
+_ Apr 13 _
 Admira Wacker    4-3 Innsbruck
 Rapid            2-0 Wiener Neustadt
 Mattersburg      1-2 Salzburg
 Wolfsberg        1-3 Ried
-[Apr 14]
+_ Apr 14 _
 Sturm            1-1 Austria
 
-Round 30
-[Apr 20]
+▪ Round 30 ▪
+_ Apr 20 _
 Innsbruck        2-0 Ried
 Salzburg         6-2 Wolfsberg
 Wiener Neustadt  3-0 Admira Wacker
 Sturm            2-2 Mattersburg
-[Apr 21]
+_ Apr 21 _
 Austria          2-2 Rapid
 
-Round 31
-[Apr 27]
+▪ Round 31 ▪
+_ Apr 27 _
 Rapid            1-3 Salzburg
 Mattersburg      1-2 Innsbruck
 Ried             2-1 Wiener Neustadt
 Wolfsberg        3-0 Sturm
-[Apr 28]
+_ Apr 28 _
 Admira Wacker    0-2 Austria
 
-Round 32
-[May 4]
+▪ Round 32 ▪
+_ May 4 _
 Austria          3-1 Ried
 Salzburg         2-1 Admira Wacker
 Wiener Neustadt  2-2 Innsbruck
 Mattersburg      3-1 Wolfsberg
-[May 5]
+_ May 5 _
 Sturm            1-3 Rapid
 
-Round 33
-[May 11]
+▪ Round 33 ▪
+_ May 11 _
 Admira Wacker    3-0 Sturm
 Innsbruck        0-3 Austria
 Rapid            0-0 Wolfsberg
 Ried             1-1 Mattersburg
-[May 12]
+_ May 12 _
 Wiener Neustadt  0-6 Salzburg
 
-Round 34
-[May 18]
+▪ Round 34 ▪
+_ May 18 _
 Austria          3-1 Wiener Neustadt
 Salzburg         3-1 Innsbruck
 Mattersburg      2-0 Rapid
 Wolfsberg        0-0 Admira Wacker
-[May 19]
+_ May 19 _
 Sturm            3-1 Ried
 
-Round 35 [May 22]
+▪ Round 35 ▪  May 22
 Wiener Neustadt  2-0 Wolfsberg
 Austria          4-0 Mattersburg
 Admira Wacker    0-2 Rapid
 Ried             2-2 Salzburg
 Innsbruck        2-1 Sturm
 
-Round 36 [May 26]
+▪ Round 36 ▪  May 26
 Rapid            3-0 Ried
 Salzburg         3-0 Austria
 Sturm            0-3 Wiener Neustadt
 Mattersburg      0-1 Admira Wacker
 Wolfsberg        2-3 Innsbruck
+
+<!-- $table2$ - Final Table -->
+
+NB: promoted side Wolfsberger AC/SK St. Andrä were renamed Wolfsberger AC
+
+
+
+
 
