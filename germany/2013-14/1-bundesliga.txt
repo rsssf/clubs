@@ -1,21 +1,24 @@
-= Deutsche Bundesliga 2013/14
+= Germany | Bundesliga 2013/14
 
-Round 1
-[Aug 9]
+
+<!-- $table1$ - Final Table -->
+
+▪ Round 1 ▪
+_ Aug 9 _
 Bayern          3-1 Mönchengladbach
-[Aug 10]
+_ Aug 10 _
 Leverkusen      3-1 Freiburg
 Braunschweig    0-1 Bremen
 Augsburg        0-4 Dortmund
 Hannover        2-0 Wolfsburg
 Hertha          6-1 Frankfurt
 Hoffenheim      2-2 Nürnberg
-[Aug 11]
+_ Aug 11 _
 Mainz           3-2 Stuttgart
 Schalke         3-3 Hamburg
 
-Round 2
-[Aug 17]
+▪ Round 2 ▪
+_ Aug 17 _
 Mönchengladbach 3-0 Hannover
 Frankfurt       0-1 Bayern
 Hamburg         1-5 Hoffenheim
@@ -23,307 +26,307 @@ Freiburg        1-2 Mainz
 Stuttgart       0-1 Leverkusen
 Wolfsburg       4-0 Schalke
 Bremen          1-0 Augsburg
-[Aug 18]
+_ Aug 18 _
 Nürnberg        2-2 Hertha
 Dortmund        2-1 Braunschweig
 
-Round 3
-[Aug 23]
+▪ Round 3 ▪
+_ Aug 23 _
 Dortmund        1-0 Bremen
-[Aug 24]
+_ Aug 24 _
 Leverkusen      4-2 Mönchengladbach
 Bayern          2-0 Nürnberg
 Mainz           2-0 Wolfsburg
 Hannover        2-1 Schalke
 Hertha          1-0 Hamburg
 Hoffenheim      3-3 Freiburg
-[Aug 25]
+_ Aug 25 _
 Braunschweig    0-2 Frankfurt
 Augsburg        2-1 Stuttgart
 
-Round 4
-[Aug 27]
+▪ Round 4 ▪
+_ Aug 27 _
 Freiburg        1-1 Bayern
-[Aug 31]
+_ Aug 31 _
 Nürnberg        0-1 Augsburg
 Mönchengladbach 4-1 Bremen
 Hamburg         4-0 Braunschweig
 Hannover        4-1 Mainz
 Wolfsburg       2-0 Hertha
 Schalke         2-0 Leverkusen
-[Sep 1]
+_ Sep 1 _
 Stuttgart       6-2 Hoffenheim
 Frankfurt       1-2 Dortmund
 
-Round 5
-[Sep 13]
+▪ Round 5 ▪
+_ Sep 13 _
 Hertha          0-1 Stuttgart
-[Sep 14]
+_ Sep 14 _
 Leverkusen      3-1 Wolfsburg
 Bayern          2-0 Hannover
 Dortmund        6-2 Hamburg
 Augsburg        2-1 Freiburg
 Mainz           0-1 Schalke
 Bremen          0-3 Frankfurt
-[Sep 15]
+_ Sep 15 _
 Braunschweig    1-1 Nürnberg
 Hoffenheim      2-1 Mönchengladbach
 
-Round 6
-[Sep 20]
+▪ Round 6 ▪
+_ Sep 20 _
 Mönchengladbach 4-1 Braunschweig
-[Sep 21]
+_ Sep 21 _
 Nürnberg        1-1 Dortmund
 Mainz           1-4 Leverkusen
 Hamburg         0-2 Bremen
 Hannover        2-1 Augsburg
 Schalke         0-4 Bayern
 Wolfsburg       2-1 Hoffenheim
-[Sep 22]
+_ Sep 22 _
 Freiburg        1-1 Hertha
 Stuttgart       1-1 Frankfurt
 
-Round 7
-[Sep 27]
+▪ Round 7 ▪
+_ Sep 27 _
 Augsburg        2-2 Mönchengladbach
-[Sep 28]
+_ Sep 28 _
 Leverkusen      2-0 Hannover
 Bayern          1-0 Wolfsburg
 Dortmund        5-0 Freiburg
 Frankfurt       2-2 Hamburg
 Hertha          3-1 Mainz
 Hoffenheim      3-3 Schalke
-[Sep 29]
+_ Sep 29 _
 Braunschweig    0-4 Stuttgart
 Bremen          3-3 Nürnberg
 
-Round 8
-[Oct 4]
+▪ Round 8 ▪
+_ Oct 4 _
 Hannover        1-1 Hertha
-[Oct 5]
+_ Oct 5 _
 Leverkusen      1-1 Bayern
 Mönchengladbach 2-0 Dortmund
 Mainz           2-2 Hoffenheim
 Schalke         4-1 Augsburg
 Stuttgart       1-1 Bremen
 Wolfsburg       0-2 Braunschweig
-[Oct 6]
+_ Oct 6 _
 Nürnberg        0-5 Hamburg
 Freiburg        1-1 Frankfurt
 
-Round 9
-[Oct 18]
+▪ Round 9 ▪
+_ Oct 18 _
 Hoffenheim      1-2 Leverkusen
-[Oct 19]
+_ Oct 19 _
 Bayern          4-1 Mainz
 Dortmund        1-0 Hannover
 Braunschweig    2-3 Schalke
 Frankfurt       1-1 Nürnberg
 Hertha          1-0 Mönchengladbach
 Bremen          0-0 Freiburg
-[Oct 20]
+_ Oct 20 _
 Augsburg        1-2 Wolfsburg
 Hamburg         3-3 Stuttgart
 
-Round 10
-[Oct 25]
+▪ Round 10 ▪
+_ Oct 25 _
 Stuttgart       1-1 Nürnberg
-[Oct 26]
+_ Oct 26 _
 Leverkusen      2-1 Augsburg
 Bayern          3-2 Hertha
 Mainz           2-0 Braunschweig
 Hannover        1-4 Hoffenheim
 Schalke         1-3 Dortmund
 Wolfsburg       3-0 Bremen
-[Oct 27]
+_ Oct 27 _
 Mönchengladbach 4-1 Frankfurt
 Freiburg        0-3 Hamburg
 
-Round 11
-[Nov 1]
+▪ Round 11 ▪
+_ Nov 1 _
 Dortmund        6-1 Stuttgart
-[Nov 2]
+_ Nov 2 _
 Nürnberg        0-3 Freiburg
 Braunschweig    1-0 Leverkusen
 Frankfurt       1-2 Wolfsburg
 Hamburg         0-2 Mönchengladbach
 Hertha          0-2 Schalke
 Hoffenheim      1-2 Bayern
-[Nov 3]
+_ Nov 3 _
 Augsburg        2-1 Mainz
 Bremen          3-2 Hannover
 
-Round 12
-[Nov 8]
+▪ Round 12 ▪
+_ Nov 8 _
 Hannover        0-0 Braunschweig
-[Nov 9]
+_ Nov 9 _
 Leverkusen      5-3 Hamburg
 Bayern          3-0 Augsburg
 Mönchengladbach 3-1 Nürnberg
 Hoffenheim      2-3 Hertha
 Schalke         3-1 Bremen
 Wolfsburg       2-1 Dortmund
-[Nov 10]
+_ Nov 10 _
 Mainz           1-0 Frankfurt
 Freiburg        1-3 Stuttgart
 
-Round 13
-[Nov 22]
+▪ Round 13 ▪
+_ Nov 22 _
 Stuttgart       0-2 Mönchengladbach
-[Nov 23]
+_ Nov 23 _
 Nürnberg        1-1 Wolfsburg
 Dortmund        0-3 Bayern
 Braunschweig    0-1 Freiburg
 Frankfurt       3-3 Schalke
 Augsburg        2-0 Hoffenheim
 Hertha          0-1 Leverkusen
-[Nov 24]
+_ Nov 24 _
 Hamburg         3-1 Hannover
 Bremen          2-3 Mainz
 
-Round 14
-[Nov 29]
+▪ Round 14 ▪
+_ Nov 29 _
 Wolfsburg       1-1 Hamburg
-[Nov 30]
+_ Nov 30 _
 Leverkusen      3-0 Nürnberg
 Bayern          2-0 Braunschweig
 Mainz           1-3 Dortmund
 Hertha          0-0 Augsburg
 Hoffenheim      4-4 Bremen
 Schalke         3-0 Stuttgart
-[Dec 1]
+_ Dec 1 _
 Mönchengladbach 1-0 Freiburg
 Hannover        2-0 Frankfurt
 
-Round 15
-[Dec 6]
+▪ Round 15 ▪
+_ Dec 6 _
 Nürnberg        1-1 Mainz
-[Dec 7]
+_ Dec 7 _
 Dortmund        0-1 Leverkusen
 Mönchengladbach 2-1 Schalke
 Frankfurt       1-2 Hoffenheim
 Hamburg         0-1 Augsburg
 Stuttgart       4-2 Hannover
 Bremen          0-7 Bayern
-[Dec 8]
+_ Dec 8 _
 Braunschweig    0-2 Hertha
 Freiburg        0-3 Wolfsburg
 
-Round 16
-[Dec 13]
+▪ Round 16 ▪
+_ Dec 13 _
 Hertha          3-2 Bremen
-[Dec 14]
+_ Dec 14 _
 Bayern          3-1 Hamburg
 Augsburg        4-1 Braunschweig
 Mainz           0-0 Mönchengladbach
 Hannover        3-3 Nürnberg
 Hoffenheim      2-2 Dortmund
 Wolfsburg       3-1 Stuttgart
-[Dec 15]
+_ Dec 15 _
 Leverkusen      0-1 Frankfurt
 Schalke         2-0 Freiburg
 
-Round 17
-[Dec 20]
+▪ Round 17 ▪
+_ Dec 20 _
 Frankfurt       1-1 Augsburg
-[Dec 21]
+_ Dec 21 _
 Nürnberg        0-0 Schalke
 Dortmund        1-2 Hertha
 Braunschweig    1-0 Hoffenheim
 Hamburg         2-3 Mainz
 Freiburg        2-1 Hannover
 Bremen          1-0 Leverkusen
-[Dec 22]
+_ Dec 22 _
 Mönchengladbach 2-2 Wolfsburg
-[Jan 29]
+_ Jan 29 _
 Stuttgart       1-2 Bayern
 
-Round 18
-[Jan 24]
+▪ Round 18 ▪
+_ Jan 24 _
 Mönchengladbach 0-2 Bayern
-[Jan 25]
+_ Jan 25 _
 Nürnberg        4-0 Hoffenheim
 Dortmund        2-2 Augsburg
 Frankfurt       1-0 Hertha
 Freiburg        3-2 Leverkusen
 Stuttgart       1-2 Mainz
 Wolfsburg       1-3 Hannover
-[Jan 26]
+_ Jan 26 _
 Hamburg         0-3 Schalke
 Bremen          0-0 Braunschweig
 
-Round 19
-[Jan 31]
+▪ Round 19 ▪
+_ Jan 31 _
 Braunschweig    1-2 Dortmund
-[Feb 1]
+_ Feb 1 _
 Leverkusen      2-1 Stuttgart
 Augsburg        3-1 Bremen
 Mainz           2-0 Freiburg
 Hannover        3-1 Mönchengladbach
 Hoffenheim      3-0 Hamburg
 Schalke         2-1 Wolfsburg
-[Feb 2]
+_ Feb 2 _
 Bayern          5-0 Frankfurt
 Hertha          1-3 Nürnberg
 
-Round 20
-[Feb 7]
+▪ Round 20 ▪
+_ Feb 7 _
 Mönchengladbach 0-1 Leverkusen
-[Feb 8]
+_ Feb 8 _
 Nürnberg        0-2 Bayern
 Frankfurt       3-0 Braunschweig
 Hamburg         0-3 Hertha
 Freiburg        1-1 Hoffenheim
 Wolfsburg       3-0 Mainz
 Bremen          1-5 Dortmund
-[Feb 9]
+_ Feb 9 _
 Schalke         2-0 Hannover
 Stuttgart       1-4 Augsburg
 
-Round 21
-[Feb 14]
+▪ Round 21 ▪
+_ Feb 14 _
 Mainz           2-0 Hannover
-[Feb 15]
+_ Feb 15 _
 Leverkusen      1-2 Schalke
 Bayern          4-0 Freiburg
 Dortmund        4-0 Frankfurt
 Braunschweig    4-2 Hamburg
 Hoffenheim      4-1 Stuttgart
 Bremen          1-1 Mönchengladbach
-[Feb 16]
+_ Feb 16 _
 Augsburg        0-1 Nürnberg
 Hertha          1-2 Wolfsburg
 
-Round 22
-[Feb 21]
+▪ Round 22 ▪
+_ Feb 21 _
 Schalke         0-0 Mainz
-[Feb 22]
+_ Feb 22 _
 Nürnberg        2-1 Braunschweig
 Mönchengladbach 2-2 Hoffenheim
 Hamburg         3-0 Dortmund
 Freiburg        2-4 Augsburg
 Stuttgart       1-2 Hertha
 Wolfsburg       3-1 Leverkusen
-[Feb 23]
+_ Feb 23 _
 Frankfurt       0-0 Bremen
 Hannover        0-4 Bayern
 
-Round 23
-[Feb 28]
+▪ Round 23 ▪
+_ Feb 28 _
 Hertha          0-0 Freiburg
-[Mar 1]
+_ Mar 1 _
 Leverkusen      0-1 Mainz
 Bayern          5-1 Schalke
 Dortmund        3-0 Nürnberg
 Braunschweig    1-1 Mönchengladbach
 Augsburg        1-1 Hannover
 Bremen          1-0 Hamburg
-[Mar 2]
+_ Mar 2 _
 Frankfurt       2-1 Stuttgart
 Hoffenheim      6-2 Wolfsburg
 
-Round 24
-[Mar 8]
+▪ Round 24 ▪
+_ Mar 8 _
 Nürnberg        0-2 Bremen
 Mönchengladbach 1-2 Augsburg
 Hamburg         1-1 Frankfurt
@@ -331,122 +334,122 @@ Hannover        1-1 Leverkusen
 Schalke         4-0 Hoffenheim
 Stuttgart       2-2 Braunschweig
 Wolfsburg       1-6 Bayern
-[Mar 9]
+_ Mar 9 _
 Mainz           1-1 Hertha
 Freiburg        0-1 Dortmund
 
-Round 25
-[Mar 14]
+▪ Round 25 ▪
+_ Mar 14 _
 Augsburg        1-2 Schalke
-[Mar 15]
+_ Mar 15 _
 Bayern          2-1 Leverkusen
 Dortmund        1-2 Mönchengladbach
 Braunschweig    1-1 Wolfsburg
 Hertha          0-3 Hannover
 Hoffenheim      2-4 Mainz
 Bremen          1-1 Stuttgart
-[Mar 16]
+_ Mar 16 _
 Frankfurt       1-4 Freiburg
 Hamburg         2-1 Nürnberg
 
-Round 26
-[Mar 21]
+▪ Round 26 ▪
+_ Mar 21 _
 Freiburg        3-1 Bremen
-[Mar 22]
+_ Mar 22 _
 Mönchengladbach 3-0 Hertha
 Mainz           0-2 Bayern
 Hannover        0-3 Dortmund
 Schalke         3-1 Braunschweig
 Stuttgart       1-0 Hamburg
 Wolfsburg       1-1 Augsburg
-[Mar 23]
+_ Mar 23 _
 Nürnberg        2-5 Frankfurt
 Leverkusen      2-3 Hoffenheim
 
-Round 27
-[Mar 25]
+▪ Round 27 ▪
+_ Mar 25 _
 Dortmund        0-0 Schalke
 Braunschweig    3-1 Mainz
 Hertha          1-3 Bayern
 Bremen          1-3 Wolfsburg
-[Mar 26]
+_ Mar 26 _
 Nürnberg        2-0 Stuttgart
 Frankfurt       1-0 Mönchengladbach
 Augsburg        1-3 Leverkusen
 Hamburg         1-1 Freiburg
 Hoffenheim      3-1 Hannover
 
-Round 28
-[Mar 28]
+▪ Round 28 ▪
+_ Mar 28 _
 Schalke         2-0 Hertha
-[Mar 29]
+_ Mar 29 _
 Leverkusen      1-1 Braunschweig
 Bayern          3-3 Hoffenheim
 Mainz           3-0 Augsburg
 Freiburg        3-2 Nürnberg
 Stuttgart       2-3 Dortmund
 Wolfsburg       2-1 Frankfurt
-[Mar 30]
+_ Mar 30 _
 Mönchengladbach 3-1 Hamburg
 Hannover        1-2 Bremen
 
-Round 29
-[Apr 4]
+▪ Round 29 ▪
+_ Apr 4 _
 Hamburg         2-1 Leverkusen
-[Apr 5]
+_ Apr 5 _
 Nürnberg        0-2 Mönchengladbach
 Dortmund        2-1 Wolfsburg
 Frankfurt       2-0 Mainz
 Augsburg        1-0 Bayern
 Stuttgart       2-0 Freiburg
 Bremen          1-1 Schalke
-[Apr 6]
+_ Apr 6 _
 Braunschweig    3-0 Hannover
 Hertha          1-1 Hoffenheim
 
-Round 30
-[Apr 11]
+▪ Round 30 ▪
+_ Apr 11 _
 Schalke         2-0 Frankfurt
-[Apr 12]
+_ Apr 12 _
 Bayern          0-3 Dortmund
 Mönchengladbach 1-1 Stuttgart
 Mainz           3-0 Bremen
 Hannover        2-1 Hamburg
 Freiburg        2-0 Braunschweig
 Wolfsburg       4-1 Nürnberg
-[Apr 13]
+_ Apr 13 _
 Leverkusen      2-1 Hertha
 Hoffenheim      2-0 Augsburg
 
-Round 31
-[Apr 18]
+▪ Round 31 ▪
+_ Apr 18 _
 Frankfurt       2-3 Hannover
-[Apr 19]
+_ Apr 19 _
 Dortmund        4-2 Mainz
 Braunschweig    0-2 Bayern
 Augsburg        0-0 Hertha
 Hamburg         1-3 Wolfsburg
 Freiburg        4-2 Mönchengladbach
 Bremen          3-1 Hoffenheim
-[Apr 20]
+_ Apr 20 _
 Nürnberg        1-4 Leverkusen
 Stuttgart       3-1 Schalke
 
-Round 32
-[Apr 25]
+▪ Round 32 ▪
+_ Apr 25 _
 Hannover        0-0 Stuttgart
-[Apr 26]
+_ Apr 26 _
 Leverkusen      2-2 Dortmund
 Bayern          5-2 Bremen
 Mainz           2-0 Nürnberg
 Hertha          2-0 Braunschweig
 Hoffenheim      0-0 Frankfurt
 Wolfsburg       2-2 Freiburg
-[Apr 27]
+_ Apr 27 _
 Augsburg        3-1 Hamburg
 Schalke         0-1 Mönchengladbach
 
-Round 33 [May 3]
+▪ Round 33 ▪  May 3
 Nürnberg        0-2 Hannover
 Dortmund        3-2 Hoffenheim
 Mönchengladbach 3-1 Mainz
@@ -457,7 +460,7 @@ Freiburg        0-2 Schalke
 Stuttgart       1-2 Wolfsburg
 Bremen          2-0 Hertha
 
-Round 34 [May 10]
+▪ Round 34 ▪  May 10
 Leverkusen      2-1 Bremen
 Bayern          1-0 Stuttgart
 Augsburg        2-1 Frankfurt
@@ -467,4 +470,20 @@ Hertha          0-4 Dortmund
 Hoffenheim      3-1 Braunschweig
 Schalke         4-1 Nürnberg
 Wolfsburg       3-1 Mönchengladbach
+
+<!-- $table2$ - Final Table -->
+
+=== Promotion/Relegation Playoff 1./2. Bundesliga  ‹§1prorel›
+
+▪ First Leg ▪  May 15
+Hamburg         0-0 Greuther Fürth
+
+▪ Second Leg ▪  May 18
+Greuther Fürth  1-1 Hamburg
+
+NB: both remain at former level
+
+
+
+
 

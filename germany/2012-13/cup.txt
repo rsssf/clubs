@@ -1,11 +1,12 @@
-= DFB Pokal 2012/13
+= Germany | DFB Pokal 2012/13
 
-Round 1
-[Aug 17]
+
+▪ Round 1 ▪
+_ Aug 17 _
 Sonnenhof Großaspach   1-2 FSV Frankfurt
 Lübeck                 0-3 Eintracht Braunschweig
 SV Wilhelmshaven       0-2 Augsburg
-[Aug 18]
+_ Aug 18 _
 Alemannia Aachen       0-2 Borussia M'gladbach
 Berliner AK 07         4-0 Hoffenheim
 Carl Zeiss Jena        0-4 Bayer Leverkusen
@@ -18,72 +19,76 @@ Victoria Hamburg       1-2 Freiburg
 Heidenheim             0-2 Bochum
 FC Schönberg           0-5 Wolfsburg
 Kickers Offenbach      2-0 Greuther Fürth
-[Aug 19]
+_ Aug 19 _
 FC Hennef 05           0-6 1860 München
 FC Nöttingen           1-6 Hannover
 Karlsruhe              4-2 Hamburg
-TSV Havelse            3-2 Nürnberg               [aet]
+TSV Havelse            3-2 Nürnberg               (aet)
 Wormatia Worms         2-1 Hertha BSC
 Saarbrücken            0-5 Schalke 04
 Arminia Bielefeld      3-1 Paderborn
 Erzgebirge Aue         3-0 Eintracht Frankfurt
-Preußen Münster        4-2 Werder Bremen          [aet]
+Preußen Münster        4-2 Werder Bremen          (aet)
 Aalen                  3-0 Ingolstadt
 Hansa Rostock          1-3 Kaiserslautern
 Wacker Burghausen      0-1 Fortuna Düsseldorf
 Roßbach/Verscheid      0-4 Mainz
-[Aug 20]
+_ Aug 20 _
 Chemnitz               0-3 Dynamo Dresden
-Rot-Weiss Essen        0-1 Union Berlin           [aet]
+Rot-Weiss Essen        0-1 Union Berlin           (aet)
 Sandhausen             3-0 Energie Cottbus
 Jahn Regensburg        0-4 Bayern München
 
-Round 2
-[Oct 30]
+▪ Round 2 ▪
+_ Oct 30 _
 Berliner AK 07         0-3 1860 München
 Eintracht Braunschweig 0-2 Freiburg
 Preußen Münster        0-1 Augsburg
-Wormatia Worms         0-0 Köln                   [aet, 3-4 pen]
+Wormatia Worms         0-0 Köln                   (aet, 3-4 pen)
 Mainz                  2-0 Erzgebirge Aue
 Schalke 04             3-0 Sandhausen
 TSV Havelse            1-3 Bochum
 Aalen                  1-4 Borussia Dortmund
-[Oct 31]
-Arminia Bielefeld      2-3 Bayer Leverkusen       [aet]
+_ Oct 31 _
+Arminia Bielefeld      2-3 Bayer Leverkusen       (aet)
 Karlsruhe              1-0 MSV Duisburg
 Kickers Offenbach      2-0 Union Berlin
 Stuttgart              3-0 Sankt Pauli
 Bayern München         4-0 Kaiserslautern
-Fortuna Düsseldorf     1-0 Borussia M'gladbach    [aet]
-Hannover               1-1 Dynamo Dresden         [aet, 4-3 pen]
+Fortuna Düsseldorf     1-0 Borussia M'gladbach    (aet)
+Hannover               1-1 Dynamo Dresden         (aet, 4-3 pen)
 Wolfsburg              2-0 FSV Frankfurt
 
-1/8 Finals
-[Dec 18]
+▪ 1/8 Finals ▪
+_ Dec 18 _
 Karlsruhe              0-1 Freiburg
 Schalke 04             1-2 Mainz
 Augsburg               0-2 Bayern München
 Kickers Offenbach      2-0 Fortuna Düsseldorf
-[Dec 19]
+_ Dec 19 _
 Bochum                 3-0 1860 München
 Wolfsburg              2-1 Bayer Leverkusen
 Borussia Dortmund      5-1 Hannover
 Stuttgart              2-1 Köln
 
-Quarterfinals
-[Feb 26]
-Mainz                  2-3 Freiburg               [aet]
+▪ Quarterfinals ▪
+_ Feb 26 _
+Mainz                  2-3 Freiburg               (aet)
 Kickers Offenbach      1-2 Wolfsburg
-[Feb 27]
+_ Feb 27 _
 Stuttgart              2-0 Bochum
 Bayern München         1-0 Borussia Dortmund
 
-Semifinals
-[Apr 16]
+▪ Semifinals ▪
+_ Apr 16 _
 Bayern München         6-1 Wolfsburg
-[Apr 17]
+_ Apr 17 _
 Stuttgart              2-1 Freiburg
 
-Final [Jun 1, Berlin]
+▪ Final ▪  Jun 1 @ Berlin
 Bayern München         3-2 Stuttgart
+
+
+
+
 

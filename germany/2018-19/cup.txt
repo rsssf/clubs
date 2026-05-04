@@ -1,25 +1,26 @@
-= DFB Pokal 2018/19
+= Germany | DFB Pokal 2018/19
 
-Round 1
-[Aug 17]
+
+▪ Round 1 ▪
+_ Aug 17 _
 Magdeburg              0-1 Darmstadt 98
 Schweinfurt 05         0-2 Schalke 04
-Wehen Wiesbaden        3-2 Sankt Pauli            [aet]
-[Aug 18]
+Wehen Wiesbaden        3-2 Sankt Pauli            (aet)
+_ Aug 18 _
 CfR Pforzheim          0-1 Bayer Leverkusen
 Kaiserslautern         1-6 Hoffenheim
 SSV Ulm 1846           2-1 Eintracht Frankfurt
 Drochtersen/Assel      0-1 Bayern München
 Elversberg             0-1 Wolfsburg
 Linx                   1-2 Nürnberg
-Rödinghausen           3-2 Dynamo Dresden         [aet]
+Rödinghausen           3-2 Dynamo Dresden         (aet)
 TuS Dassendorf         0-1 MSV Duisburg
 Wormatia Worms         1-6 Werder Bremen
 Erzgebirge Aue         1-3 Mainz
 Rot-Weiß Oberhausen    0-6 Sandhausen
 Erndtebrück            3-5 Hamburg
 Hansa Rostock          2-0 Stuttgart
-[Aug 19]
+_ Aug 19 _
 Lok Stendal            0-5 Arminia Bielefeld
 BFC Dynamo (Berlin)    1-9 Köln
 Chemie Leipzig         2-1 Jahn Regensburg
@@ -32,58 +33,62 @@ TSV Steinbach          1-2 Augsburg
 BSC Hastedt           1-11 Borussia M'gladbach
 Carl Zeiss Jena        2-4 Union Berlin
 1860 München           1-3 Holstein Kiel
-[Aug 20]
+_ Aug 20 _
 Eintracht Braunschweig 1-2 Hertha BSC
-Energie Cottbus        2-2 Freiburg               [aet, 3-5 pen]
+Energie Cottbus        2-2 Freiburg               (aet, 3-5 pen)
 Paderborn              2-1 Ingolstadt
-Greuther Fürth         1-2 Borussia Dortmund      [aet]
+Greuther Fürth         1-2 Borussia Dortmund      (aet)
 
-Round 2
-[Oct 30]
+▪ Round 2 ▪
+_ Oct 30 _
 Chemie Leipzig         0-3 Paderborn
 Hannover               0-2 Wolfsburg
 SSV Ulm 1846           1-5 Fortuna Düsseldorf
 Darmstadt 98           0-2 Hertha BSC
 Heidenheim             3-0 Sandhausen
-Augsburg               3-2 Mainz                  [aet]
+Augsburg               3-2 Mainz                  (aet)
 Rödinghausen           1-2 Bayern München
 Wehen Wiesbaden        0-3 Hamburg
-[Oct 31]
-Köln                   1-1 Schalke 04             [aet, 5-6 pen]
-Borussia Dortmund      3-2 Union Berlin           [aet]
-Hansa Rostock          2-2 Nürnberg               [aet, 2-4 pen]
+_ Oct 31 _
+Köln                   1-1 Schalke 04             (aet, 5-6 pen)
+Borussia Dortmund      3-2 Union Berlin           (aet)
+Hansa Rostock          2-2 Nürnberg               (aet, 2-4 pen)
 Weiche Flensburg 08    1-5 Werder Bremen
 Arminia Bielefeld      0-3 MSV Duisburg
 Borussia M'gladbach    0-5 Bayer Leverkusen
 Holstein Kiel          2-1 Freiburg
 RB Leipzig             2-0 Hoffenheim
 
-1/8 Finals
-[Feb 5]
+▪ 1/8 Finals ▪
+_ Feb 5 _
 Heidenheim             2-1 Bayer Leverkusen
 Hamburg                1-0 Nürnberg
-Borussia Dortmund      3-3 Werder Bremen          [aet, 2-4 pen]
+Borussia Dortmund      3-3 Werder Bremen          (aet, 2-4 pen)
 MSV Duisburg           1-3 Paderborn
-[Feb 6]
+_ Feb 6 _
 Holstein Kiel          0-1 Augsburg
 RB Leipzig             1-0 Wolfsburg
 Schalke 04             4-1 Fortuna Düsseldorf
-Hertha BSC             2-3 Bayern München         [aet]
+Hertha BSC             2-3 Bayern München         (aet)
 
-Quarterfinals
-[Apr 2]
+▪ Quarterfinals ▪
+_ Apr 2 _
 Paderborn              0-2 Hamburg
-Augsburg               1-2 RB Leipzig             [aet]
-[Apr 3]
+Augsburg               1-2 RB Leipzig             (aet)
+_ Apr 3 _
 Bayern München         5-4 Heidenheim
 Schalke 04             0-2 Werder Bremen
 
-Semifinals
-[Apr 23]
+▪ Semifinals ▪
+_ Apr 23 _
 Hamburg                1-3 RB Leipzig
-[Apr 24]
+_ Apr 24 _
 Werder Bremen          2-3 Bayern München
 
-Final [May 25, Berlin]
+▪ Final ▪  May 25 @ Berlin
 RB Leipzig             0-3 Bayern München
+
+
+
+
 
