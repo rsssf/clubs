@@ -11,7 +11,8 @@
 NB: this file contains 1st to 3rd level; there is also a file on the
     ‹4th level 2000/01, see page duit4-01›.
 
-1.Bundesliga
+== 1. Bundesliga
+
 
 <!-- $table1$ - Final Table -->
 
@@ -806,7 +807,8 @@ Kaiserslautern 0-1 Hertha
 
 
 
-Germany Cup (DFB Pokal) 2000/01
+== DFB Pokal
+
 
 ▪ Round 1 ▪
 _ Aug 25 _
@@ -910,7 +912,8 @@ VfB Stuttgart        0-3 FC Schalke 04
    ref: Hermann Albrecht]
 
 
-2.Bundesliga
+== 2. Bundesliga
+
 
 <!-- $table3$ - Final Table -->
 

@@ -9,7 +9,8 @@
 
 
 
-1.Bundesliga
+== 1. Bundesliga
+
 
 <!-- $table1$ - Final Table -->
 
@@ -500,7 +501,8 @@ Hertha         2-0 K'lautern
 <!-- $table2$ - Final Table -->
 
 
-Germany Cup (DFB Pokal) 2002/03
+== DFB Pokal
+
 
 
 Round 1                                                                   Spectators
@@ -747,7 +749,8 @@ Red Card: Hristov (78)
 
 
 
-2.Bundesliga
+== 2. Bundesliga
+
 
 <!-- $table3$ - Final Table -->
 
@@ -1235,7 +1238,8 @@ NB: Reutlingen have 6 points deducted for failing to comply with
     license conditions
 
 
-Third Level 2002/03
+== Third Level 2002/03
+
 
 
 <!-- $table5$ - Regionalliga Nord -->
@@ -1249,7 +1253,8 @@ NB: the relegation of Stuttgarter Kickers will not be effective due
 
 
 
-Fourth Level 2002/03
+== Fourth Level 2002/03
+
 
 
 Oberliga Hamburg/Schleswig-Holstein
@@ -1329,7 +1334,8 @@ Großbardorf and Passau promoted, because no club was relegated to the Oberliga 
 
 
 
-Fifth Level 2002/03
+== Fifth Level 2002/03
+
 <!-- $table17$ - Group Schleswig-Holstein -->
 
 <!-- $table18$ - Group Hamburg -->

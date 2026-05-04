@@ -8,7 +8,8 @@
 
 
 
-1.Bundesliga
+== 1. Bundesliga
+
 
 <!-- $table1$ - Final Table -->
 
@@ -819,7 +820,8 @@ Köln            4-2 Arminia B
 
 
 
-DFB Pokal
+== DFB Pokal
+
 
 
 ▪ Round 1 ▪
@@ -1014,10 +1016,8 @@ Bayern München             1-0 Eintracht Frankfurt
    ref: Herbert Fandel; Mike Pickel, Volker Wezel]
 
 
-Second Level 2005/06
+== 2. Bundesliga
 
-
-2.Bundesliga
 
 <!-- $table3$ - Final Table -->
 
@@ -1854,7 +1854,8 @@ Hansa            1-3 Dynamo D
 
 
 
-Third Level 2005/06
+== Third Level 2005/06
+
 
 REGIONALLIGA (Third Level)
 
@@ -1865,7 +1866,8 @@ REGIONALLIGA (Third Level)
 NP: Bayreuth relegated from financial problems, TSV 1860 München II saved from relegation.
 
 
-Fourth Level 2005/06 (Oberligen)
+== Fourth Level 2005/06 (Oberligen)
+
 
 
 <!-- $table7$ - Nord -->
@@ -1895,7 +1897,8 @@ SG Betzdorf saved from relegation.
 
 
 
-Fifth Level 2005/06 (Verbandsligen/Landesligen)
+== Fifth Level 2005/06 (Verbandsligen/Landesligen)
+
 
 
 <!-- $table16$ - Schleswig-Holstein -->
@@ -1961,7 +1964,8 @@ In April 6 the 1. FC 1901 Bamberg change name to 1. FC Eintracht Bamberg.
 
 
 
-Sixth Level 2005/06 (Bezirksligen, partial)
+== Sixth Level 2005/06 (Bezirksligen, partial)
+
 
 
 Sachsen
@@ -1979,7 +1983,8 @@ Hamburg
 <!-- $table47$ - Hammonia -->
 
 
-Seventh Level 2005/06 (Bezirksklassen, partial)
+== Seventh Level 2005/06 (Bezirksklassen, partial)
+
 
 
 Sachsen

@@ -9,7 +9,8 @@
 
 
 
-1.Bundesliga
+== 1. Bundesliga
+
 
 <!-- $table1$ - Final Table -->
 
@@ -799,7 +800,8 @@ NB: Kaiserslautern have 3 points deducted
 
 
 
-DFB Pokal 2003/04
+== DFB Pokal
+
 
 ▪ Round 1 ▪
 _ Aug 29 _
@@ -973,7 +975,8 @@ SV Werder Bremen              3-2  TSV Alemannia Aachen
 
 
 
-2.Bundesliga
+== 2. Bundesliga
+
 
 Final Table:
 
@@ -1885,7 +1888,8 @@ Final Table:
 
 
 
-Third Level 2003/04
+== Third Level 2003/04
+
 
 Regionalliga Nord
 

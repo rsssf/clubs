@@ -8,7 +8,8 @@
 
 
 
-1.Bundesliga
+== 1. Bundesliga
+
 
 <!-- $table1$ - Final Table -->
 
@@ -486,7 +487,8 @@ Stuttgart      2-2 Arminia
 
 
 
-DFB Pokal 2007/08
+== DFB Pokal
+
 
 ▪ Round 1 ▪
 _ Aug 3 _
@@ -577,10 +579,8 @@ Borussia Dortmund        1-2 Bayern München            (aet)
 
 
 
-Second Level 2007/08
+== 2. Bundesliga
 
-
-2.Bundesliga
 
 <!-- $table3$ - Final Table -->
 
@@ -1070,7 +1070,8 @@ NB: TuS Koblenz 8 points deducted for infringements in license
 
 
 
-Third Level 2007/08
+== Third Level 2007/08
+
 
 
 Regionalliga Nord
@@ -1088,7 +1089,8 @@ NB: a new, nationwide 3rd level league is formed for 2008/09, which
 
 
 
-OBERLIGA (Fourth Level)
+== OBERLIGA (Fourth Level)
+
 
 <!-- $table7$ - Baden-Württemberg -->
 
@@ -1160,7 +1162,8 @@ Bye: FC Oberneuland
 
 <!-- $table16$ - Table -->
 
-VERBANDESLIGA/LANDESLIGA (Fifth Level)
+== VERBANDESLIGA/LANDESLIGA (Fifth Level)
+
 
 <!-- $table17$ - Baden -->
 

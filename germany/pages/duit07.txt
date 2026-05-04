@@ -8,7 +8,8 @@
 
 
 
-1.Bundesliga
+== 1. Bundesliga
+
 
 <!-- $table1$ - Final Table -->
 
@@ -669,7 +670,8 @@ Hannover         0-3 Nürnberg
 
 
 
-Cup 2006/07
+== DFB Pokal
+
 
 
 ▪ Round 1 ▪
@@ -836,10 +838,8 @@ VfL Wolfsburg          0-1 VfB Stuttgart
 
 
 
-Second Level 2006/07
+== 2. Bundesliga
 
-
-2.Bundesliga
 
 <!-- $table3$ - Final Table -->
 
@@ -1488,14 +1488,16 @@ Kickers O        1-1 Eintracht B
 <!-- $table4$ - Final Table -->
 
 
-Third Level 2006/07
+== Third Level 2006/07
+
 
 
 <!-- $table5$ - Regionalliga Nord -->
 
 <!-- $table6$ - Regionalliga Süd -->
 
-Fourth Level 2006/07 (Oberligen)
+== Fourth Level 2006/07 (Oberligen)
+
 
 
 <!-- $table7$ - Baden-Württemberg -->
@@ -1526,7 +1528,8 @@ Fourth Level 2006/07 (Oberligen)
 
 
 
-Fifth Level 2006/07
+== Fifth Level 2006/07
+
 
 
 <!-- $table16$ - BADEN -->
@@ -1611,7 +1614,8 @@ WESTFALEN
 
 
 
-Sixth Level 2006/07
+== Sixth Level 2006/07
+
 
 <!-- $table47$ - BREMEN -->
 

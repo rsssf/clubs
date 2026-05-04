@@ -676,7 +676,8 @@ Wolfsburg  0-2 M'gladbach (Effenberg 13, Wynhoff 35)
 
 
 
-DFB-Pokal
+== DFB Pokal
+
 
 ▪ Round 1 ▪
 _ Aug 14 _
@@ -766,7 +767,8 @@ Eintracht Trier      1-1 MSV Duisburg           (aet, 9-10 pen)
 Bayern München       2-1 MSV Duisburg
 
 
-2.Bundesliga
+== 2. Bundesliga
+
 
 <!-- $table4$ - Final Table -->
 

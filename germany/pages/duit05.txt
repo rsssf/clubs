@@ -8,7 +8,8 @@
 
 
 
-1.Bundesliga
+== 1. Bundesliga
+
 
 <!-- $table1$ - Final Table -->
 
@@ -811,7 +812,8 @@ Stuttgart       1-3     München
 
 
 
-Cup 2004/05
+== DFB Pokal
+
 
 
 BL   =   Bundesliga (First Level)
@@ -1005,10 +1007,8 @@ Yellow cards: Schalke: Kobiashvili, Krstajic, Altintop, Poulsen, Vermant;
 
 
 
-Second Level 2004/05
+== 2. Bundesliga
 
-
-2.Bundesliga
 
 <!-- $table3$ - Final Table -->
 
@@ -1772,7 +1772,8 @@ Ronald Schmidt      (Wacker for Essen)           1
 
 
 
-Third Level 2004/05
+== Third Level 2004/05
+
 
 
 Regionalliga Nord
@@ -3176,7 +3177,8 @@ Sascha Amstätter      (Wehen for Augsburg)           1
 Pellegrino Matarazzo  (Wehen for Kickers Off.)       1
 
 
-Fourth Level 2004/05
+== Fourth Level 2004/05
+
 
 
 Oberliga
