@@ -1,551 +1,573 @@
-= Spain Primera División 2014/15
+= Spain | Primera División 2014/15
 
-Round 1
-[Aug 23]
+
+<!-- $table1$ - Final Table -->
+
+NB: after the season, Elche were demoted because of extravagant tax debts; because
+    of this, Eibar remain at the top level
+
+▪ Round 1 ▪
+_ Aug 23 _
 Granada                   2-1 Deportivo
 Málaga                    1-0 Athletic
 Sevilla                   1-1 Valencia
 Almería                   1-1 Espanyol
-[Aug 24]
+_ Aug 24 _
 Celta                     3-1 Getafe
 Eibar                     1-0 Sociedad
 Barcelona                 3-0 Elche
 Levante                   0-2 Villarreal
-[Aug 25]
+_ Aug 25 _
 Rayo                      0-0 Atlético
 Madrid                    2-0 Córdoba
 
-Round 2
-[Aug 29]
+▪ Round 2 ▪
+_ Aug 29 _
 Getafe                    1-0 Almería
 Valencia                  3-0 Málaga
-[Aug 30]
+_ Aug 30 _
 Athletic                  3-0 Levante
 Atlético                  2-1 Eibar
 Córdoba                   1-1 Celta
 Espanyol                  1-2 Sevilla
-[Aug 31]
+_ Aug 31 _
 Deportivo                 2-2 Rayo
 Elche                     1-1 Granada
 Sociedad                  4-2 Madrid
 Villarreal                0-1 Barcelona
 
-Round 3
-[Sep 12]
+▪ Round 3 ▪
+_ Sep 12 _
 Almería                   1-1 Córdoba
-[Sep 13]
+_ Sep 13 _
 Celta                     2-2 Sociedad
 Barcelona                 2-0 Athletic
 Málaga                    0-0 Levante
 Madrid                    1-2 Atlético
-[Sep 14]
+_ Sep 14 _
 Granada                   0-0 Villarreal
 Rayo                      2-3 Elche
 Sevilla                   2-0 Getafe
 Valencia                  3-1 Espanyol
-[Sep 15]
+_ Sep 15 _
 Eibar                     0-1 Deportivo
 
-Round 4
-[Sep 19]
+▪ Round 4 ▪
+_ Sep 19 _
 Elche                     0-2 Eibar
-[Sep 20]
+_ Sep 20 _
 Athletic                  0-1 Granada
 Atlético                  2-2 Celta
 Deportivo                 2-8 Madrid
 Espanyol                  2-2 Málaga
-[Sep 21]
+_ Sep 21 _
 Córdoba                   1-3 Sevilla
 Levante                   0-5 Barcelona
 Sociedad                  1-2 Almería
 Villarreal                4-2 Rayo
-[Sep 22]
+_ Sep 22 _
 Getafe                    0-3 Valencia
 
-Round 5
-[Sep 23]
+▪ Round 5 ▪
+_ Sep 23 _
 Celta                     2-1 Deportivo
 Madrid                    5-1 Elche
-[Sep 24]
+_ Sep 24 _
 Eibar                     1-1 Villarreal
 Granada                   0-1 Levante
 Málaga                    0-0 Barcelona
 Rayo                      2-1 Athletic
 Sevilla                   1-0 Sociedad
 Almería                   0-1 Atlético
-[Sep 25]
+_ Sep 25 _
 Espanyol                  2-0 Getafe
 Valencia                  3-0 Córdoba
 
-Round 6
-[Sep 26]
+▪ Round 6 ▪
+_ Sep 26 _
 Elche                     0-1 Celta
-[Sep 27]
+_ Sep 27 _
 Athletic                  0-0 Eibar
 Atlético                  4-0 Sevilla
 Barcelona                 6-0 Granada
 Levante                   0-2 Rayo
 Villarreal                0-2 Madrid
-[Sep 28]
+_ Sep 28 _
 Córdoba                   0-0 Espanyol
 Deportivo                 0-1 Almería
 Getafe                    1-0 Málaga
 Sociedad                  1-1 Valencia
 
-Round 7
-[Oct 3]
+▪ Round 7 ▪
+_ Oct 3 _
 Getafe                    1-1 Córdoba
-[Oct 4]
+_ Oct 4 _
 Eibar                     3-3 Levante
 Málaga                    2-1 Granada
 Rayo                      0-2 Barcelona
 Almería                   2-2 Elche
 Valencia                  3-1 Atlético
-[Oct 5]
+_ Oct 5 _
 Celta                     1-3 Villarreal
 Espanyol                  2-0 Sociedad
 Madrid                    5-0 Athletic
 Sevilla                   4-1 Deportivo
 
-Round 8
-[Oct 17]
+▪ Round 8 ▪
+_ Oct 17 _
 Granada                   0-1 Rayo
-[Oct 18]
+_ Oct 18 _
 Athletic                  1-1 Celta
 Córdoba                   1-2 Málaga
 Barcelona                 3-0 Eibar
 Levante                   0-5 Madrid
-[Oct 19]
+_ Oct 19 _
 Atlético                  2-0 Espanyol
 Deportivo                 3-0 Valencia
 Elche                     0-2 Sevilla
 Villarreal                2-0 Almería
-[Oct 20]
+_ Oct 20 _
 Sociedad                  1-2 Getafe
 
-Round 9
-[Oct 24]
+▪ Round 9 ▪
+_ Oct 24 _
 Celta                     3-0 Levante
-[Oct 25]
+_ Oct 25 _
 Almería                   0-1 Athletic
 Madrid                    3-1 Barcelona
 Valencia                  3-1 Elche
 Córdoba                   1-1 Sociedad
 Eibar                     1-1 Granada
-[Oct 26]
+_ Oct 26 _
 Málaga                    4-0 Rayo
 Espanyol                  0-0 Deportivo
 Sevilla                   2-1 Villarreal
 Getafe                    0-1 Atlético
 
-Round 10
-[Oct 31]
+▪ Round 10 ▪
+_ Oct 31 _
 Deportivo                 1-2 Getafe
-[Nov 1]
+_ Nov 1 _
 Granada                   0-4 Madrid
 Atlético                  4-2 Córdoba
 Barcelona                 0-1 Celta
 Sociedad                  0-1 Málaga
-[Nov 2]
+_ Nov 2 _
 Athletic                  1-0 Sevilla
 Villarreal                1-3 Valencia
 Levante                   2-1 Almería
 Elche                     2-1 Espanyol
-[Nov 3]
+_ Nov 3 _
 Rayo                      2-3 Eibar
 
-Round 11
-[Nov 7]
+▪ Round 11 ▪
+_ Nov 7 _
 Córdoba                   0-0 Deportivo
-[Nov 8]
+_ Nov 8 _
 Almería                   1-2 Barcelona
 Getafe                    0-0 Elche
 Madrid                    5-1 Rayo
 Celta                     0-0 Granada
 Málaga                    2-1 Eibar
-[Nov 9]
+_ Nov 9 _
 Sevilla                   1-1 Levante
 Espanyol                  1-1 Villarreal
 Valencia                  0-0 Athletic
 Sociedad                  2-1 Atlético
 
-Round 12
-[Nov 21]
+▪ Round 12 ▪
+_ Nov 21 _
 Athletic                  3-1 Espanyol
-[Nov 22]
+_ Nov 22 _
 Atlético                  3-1 Málaga
 Eibar                     0-4 Madrid
 Barcelona                 5-1 Sevilla
 Deportivo                 0-0 Sociedad
-[Nov 23]
+_ Nov 23 _
 Rayo                      1-0 Celta
 Levante                   2-1 Valencia
 Elche                     2-2 Córdoba
 Villarreal                2-1 Getafe
-[Nov 24]
+_ Nov 24 _
 Granada                   0-0 Almería
 
-Round 13
-[Nov 28]
+▪ Round 13 ▪
+_ Nov 28 _
 Sociedad                  3-0 Elche
-[Nov 29]
+_ Nov 29 _
 Getafe                    1-2 Athletic
 Espanyol                  2-1 Levante
 Málaga                    1-2 Madrid
 Celta                     0-1 Eibar
-[Nov 30]
+_ Nov 30 _
 Atlético                  2-0 Deportivo
 Sevilla                   5-1 Granada
 Córdoba                   0-2 Villarreal
 Valencia                  0-1 Barcelona
-[Dec 1]
+_ Dec 1 _
 Almería                   0-1 Rayo
 
-Round 14
-[Dec 6]
+▪ Round 14 ▪
+_ Dec 6 _
 Elche                     0-2 Atlético
 Athletic                  0-1 Córdoba
 Madrid                    3-0 Celta
 Deportivo                 0-1 Málaga
-[Dec 7]
+_ Dec 7 _
 Rayo                      0-1 Sevilla
 Barcelona                 5-1 Espanyol
 Villarreal                4-0 Sociedad
 Granada                   1-1 Valencia
-[Dec 8]
+_ Dec 8 _
 Eibar                     5-2 Almería
 Levante                   1-1 Getafe
 
-Round 15
-[Dec 12]
+▪ Round 15 ▪
+_ Dec 12 _
 Almería                   1-4 Madrid
-[Dec 13]
+_ Dec 13 _
 Getafe                    0-0 Barcelona
 Valencia                  3-0 Rayo
 Córdoba                   0-0 Levante
 Málaga                    1-0 Celta
-[Dec 14]
+_ Dec 14 _
 Espanyol                  2-1 Granada
 Sevilla                   0-0 Eibar
 Atlético                  0-1 Villarreal
 Sociedad                  1-1 Athletic
-[Dec 15]
+_ Dec 15 _
 Deportivo                 1-0 Elche
 
-Round 16
-[Dec 19]
+▪ Round 16 ▪
+_ Dec 19 _
 Celta                     0-1 Almería
-[Dec 20]
+_ Dec 20 _
 Barcelona                 5-0 Córdoba
 Levante                   1-1 Sociedad
 Eibar                     0-1 Valencia
 Rayo                      1-3 Espanyol
-[Dec 21]
+_ Dec 21 _
 Villarreal                3-0 Deportivo
 Granada                   1-1 Getafe
 Elche                     1-2 Málaga
 Athletic                  1-4 Atlético
-[Feb 4]
+_ Feb 4 _
 Madrid                    2-1 Sevilla
 
-Round 17
-[Jan 3]
+▪ Round 17 ▪
+_ Jan 3 _
 Atlético                  3-1 Levante
 Sevilla                   1-0 Celta
 Elche                     2-2 Villarreal
 Málaga                    1-2 Almería
 Deportivo                 1-0 Athletic
-[Jan 4]
+_ Jan 4 _
 Getafe                    1-2 Rayo
 Valencia                  2-1 Madrid
 Espanyol                  1-2 Eibar
 Sociedad                  1-0 Barcelona
-[Jan 5]
+_ Jan 5 _
 Córdoba                   2-0 Granada
 
-Round 19
-[Jan 16]
+Roudn 18
+_ Jan 9 _
+Levante                   0-0 Deportivo
+_ Jan 10 _
+Madrid                    3-0 Espanyol
+Málaga                    1-1 Villarreal
+Celta                     1-1 Valencia
+Eibar                     2-1 Getafe
+_ Jan 11 _
+Almería                   0-2 Sevilla
+Athletic                  1-2 Elche
+Granada                   1-1 Sociedad
+Barcelona                 3-1 Atlético
+_ Jan 12 _
+Rayo                      0-1 Córdoba
+
+▪ Round 19 ▪
+_ Jan 16 _
 Córdoba                   1-1 Eibar
-[Jan 17]
+_ Jan 17 _
 Sociedad                  0-1 Rayo
 Valencia                  3-2 Almería
 Villarreal                2-0 Athletic
 Espanyol                  1-0 Celta
-[Jan 18]
+_ Jan 18 _
 Getafe                    0-3 Madrid
 Atlético                  2-0 Granada
 Deportivo                 0-4 Barcelona
 Elche                     1-0 Levante
 Sevilla                   2-0 Málaga
 
-Round 20
-[Jan 24]
+▪ Round 20 ▪
+_ Jan 24 _
 Córdoba                   1-2 Madrid
 Elche                     0-6 Barcelona
 Atlético                  3-1 Rayo
 Sociedad                  1-0 Eibar
 Villarreal                1-0 Levante
-[Jan 25]
+_ Jan 25 _
 Deportivo                 2-2 Granada
 Athletic                  1-1 Málaga
 Espanyol                  3-0 Almería
 Valencia                  3-1 Sevilla
-[Jan 26]
+_ Jan 26 _
 Getafe                    2-1 Celta
 
-Round 21
-[Jan 30]
+▪ Round 21 ▪
+_ Jan 30 _
 Rayo                      1-2 Deportivo
-[Jan 31]
+_ Jan 31 _
 Madrid                    4-1 Sociedad
 Eibar                     1-3 Atlético
 Granada                   1-0 Elche
 Celta                     1-0 Córdoba
-[Feb 1]
+_ Feb 1 _
 Levante                   0-2 Athletic
 Almería                   1-0 Getafe
 Sevilla                   3-2 Espanyol
 Barcelona                 3-2 Villarreal
-[Feb 2]
+_ Feb 2 _
 Málaga                    1-0 Valencia
 
-Round 22
-[Feb 6]
+▪ Round 22 ▪
+_ Feb 6 _
 Deportivo                 2-0 Eibar
-[Feb 7]
+_ Feb 7 _
 Atlético                  4-0 Madrid
 Villarreal                2-0 Granada
 Levante                   4-1 Málaga
 Sociedad                  1-1 Celta
-[Feb 8]
+_ Feb 8 _
 Córdoba                   1-2 Almería
 Getafe                    2-1 Sevilla
 Espanyol                  1-2 Valencia
 Athletic                  2-5 Barcelona
-[Feb 9]
+_ Feb 9 _
 Elche                     2-0 Rayo
 
-Round 23
-[Feb 13]
+▪ Round 23 ▪
+_ Feb 13 _
 Almería                   2-2 Sociedad
-[Feb 14]
+_ Feb 14 _
 Sevilla                   3-0 Córdoba
 Madrid                    2-0 Deportivo
 Granada                   0-0 Athletic
 Málaga                    0-2 Espanyol
-[Feb 15]
+_ Feb 15 _
 Valencia                  1-0 Getafe
 Barcelona                 5-0 Levante
 Rayo                      2-0 Villarreal
 Celta                     2-0 Atlético
-[Feb 16]
+_ Feb 16 _
 Eibar                     0-1 Elche
 
-Round 24
-[Feb 20]
+▪ Round 24 ▪
+_ Feb 20 _
 Getafe                    2-1 Espanyol
-[Feb 21]
+_ Feb 21 _
 Barcelona                 0-1 Málaga
 Córdoba                   1-2 Valencia
 Atlético                  3-0 Almería
 Deportivo                 0-2 Celta
-[Feb 22]
+_ Feb 22 _
 Sociedad                  4-3 Sevilla
 Athletic                  1-0 Rayo
 Villarreal                1-0 Eibar
 Elche                     0-2 Madrid
-[Feb 23]
+_ Feb 23 _
 Levante                   2-1 Granada
 
-Round 25
-[Feb 27]
+▪ Round 25 ▪
+_ Feb 27 _
 Espanyol                  1-0 Córdoba
-[Feb 28]
+_ Feb 28 _
 Granada                   1-3 Barcelona
 Rayo                      4-2 Levante
 Almería                   0-0 Deportivo
 Málaga                    3-2 Getafe
-[Mar 1]
+_ Mar 1 _
 Valencia                  2-0 Sociedad
 Eibar                     0-1 Athletic
 Sevilla                   0-0 Atlético
 Madrid                    1-1 Villarreal
-[Mar 2]
+_ Mar 2 _
 Celta                     1-1 Elche
 
-Round 26
-[Mar 6]
+▪ Round 26 ▪
+_ Mar 6 _
 Levante                   2-1 Eibar
-[Mar 7]
+_ Mar 7 _
 Deportivo                 3-4 Sevilla
 Athletic                  1-0 Madrid
 Elche                     1-0 Almería
 Granada                   1-0 Málaga
-[Mar 8]
+_ Mar 8 _
 Barcelona                 6-1 Rayo
 Sociedad                  1-0 Espanyol
 Villarreal                4-1 Celta
 Atlético                  1-1 Valencia
-[Mar 9]
+_ Mar 9 _
 Córdoba                   1-2 Getafe
 
-Round 27
-[Mar 13]
+▪ Round 27 ▪
+_ Mar 13 _
 Valencia                  2-0 Deportivo
-[Mar 14]
+_ Mar 14 _
 Espanyol                  0-0 Atlético
 Eibar                     0-2 Barcelona
 Rayo                      3-1 Granada
 Celta                     1-2 Athletic
-[Mar 15]
+_ Mar 15 _
 Almería                   0-0 Villarreal
 Málaga                    2-0 Córdoba
 Sevilla                   3-0 Elche
 Madrid                    2-0 Levante
-[Mar 16]
+_ Mar 16 _
 Getafe                    0-1 Sociedad
 
-Round 28
-[Mar 20]
+▪ Round 28 ▪
+_ Mar 20 _
 Elche                     0-4 Valencia
-[Mar 21]
+_ Mar 21 _
 Atlético                  2-0 Getafe
 Rayo                      1-0 Málaga
 Levante                   0-1 Celta
 Athletic                  2-1 Almería
 Granada                   0-0 Eibar
-[Mar 22]
+_ Mar 22 _
 Deportivo                 0-0 Espanyol
 Villarreal                0-2 Sevilla
 Sociedad                  3-1 Córdoba
 Barcelona                 2-1 Madrid
 
-Round 29
-[Apr 3]
+▪ Round 29 ▪
+_ Apr 3 _
 Eibar                     1-2 Rayo
-[Apr 4]
+_ Apr 4 _
 Sevilla                   2-0 Athletic
 Córdoba                   0-2 Atlético
 Almería                   1-4 Levante
 Málaga                    1-1 Sociedad
-[Apr 5]
+_ Apr 5 _
 Madrid                    9-1 Granada
 Valencia                  0-0 Villarreal
 Getafe                    2-1 Deportivo
 Celta                     0-1 Barcelona
-[Apr 6]
+_ Apr 6 _
 Espanyol                  1-1 Elche
 
-Round 30
-[Apr 7]
+▪ Round 30 ▪
+_ Apr 7 _
 Atlético                  2-0 Sociedad
 Eibar                     1-0 Málaga
 Levante                   1-2 Sevilla
-[Apr 8]
+_ Apr 8 _
 Deportivo                 1-1 Córdoba
 Barcelona                 4-0 Almería
 Granada                   1-1 Celta
 Rayo                      0-2 Madrid
-[Apr 9]
+_ Apr 9 _
 Athletic                  1-1 Valencia
 Elche                     0-1 Getafe
 Villarreal                0-3 Espanyol
 
-Round 31
-[Apr 11]
+▪ Round 31 ▪
+_ Apr 11 _
 Madrid                    3-0 Eibar
 Málaga                    2-2 Atlético
 Sevilla                   2-2 Barcelona
 Celta                     6-1 Rayo
 Almería                   3-0 Granada
-[Apr 12]
+_ Apr 12 _
 Getafe                    1-1 Villarreal
 Espanyol                  1-0 Athletic
 Sociedad                  2-2 Deportivo
 Córdoba                   0-2 Elche
-[Apr 13]
+_ Apr 13 _
 Valencia                  3-0 Levante
 
-Round 32
-[Apr 17]
+▪ Round 32 ▪
+_ Apr 17 _
 Levante                   2-2 Espanyol
-[Apr 18]
+_ Apr 18 _
 Barcelona                 2-0 Valencia
 Deportivo                 1-2 Atlético
 Madrid                    3-1 Málaga
 Athletic                  4-0 Getafe
-[Apr 19]
+_ Apr 19 _
 Rayo                      2-0 Almería
 Granada                   1-1 Sevilla
 Villarreal                0-0 Córdoba
 Eibar                     0-1 Celta
-[Apr 20]
+_ Apr 20 _
 Elche                     1-0 Sociedad
 
-Round 33
-[Apr 24]
+▪ Round 33 ▪
+_ Apr 24 _
 Córdoba                   0-1 Athletic
-[Apr 25]
+_ Apr 25 _
 Espanyol                  0-2 Barcelona
 Atlético                  3-0 Elche
 Getafe                    0-1 Levante
 Sociedad                  0-0 Villarreal
-[Apr 26]
+_ Apr 26 _
 Málaga                    1-1 Deportivo
 Almería                   2-0 Eibar
 Sevilla                   2-0 Rayo
 Celta                     2-4 Madrid
-[Apr 27]
+_ Apr 27 _
 Valencia                  4-0 Granada
 
-Round 34
-[Apr 28]
+▪ Round 34 ▪
+_ Apr 28 _
 Barcelona                 6-0 Getafe
 Athletic                  1-1 Sociedad
 Levante                   1-0 Córdoba
-[Apr 29]
+_ Apr 29 _
 Celta                     1-0 Málaga
 Eibar                     1-3 Sevilla
 Madrid                    3-0 Almería
 Elche                     4-0 Deportivo
 Villarreal                0-1 Atlético
-[Apr 30]
+_ Apr 30 _
 Rayo                      1-1 Valencia
 Granada                   1-2 Espanyol
 
-Round 35
-[May 1]
+▪ Round 35 ▪
+_ May 1 _
 Sociedad                  3-0 Levante
-[May 2]
+_ May 2 _
 Córdoba                   0-8 Barcelona
 Atlético                  0-0 Athletic
 Sevilla                   2-3 Madrid
 Deportivo                 1-1 Villarreal
-[May 3]
+_ May 3 _
 Espanyol                  1-1 Rayo
 Getafe                    1-2 Granada
 Valencia                  3-1 Eibar
 Málaga                    1-2 Elche
-[May 4]
+_ May 4 _
 Almería                   2-2 Celta
 
-Round 36
-[May 8]
+▪ Round 36 ▪
+_ May 8 _
 Eibar                     0-2 Espanyol
-[May 9]
+_ May 9 _
 Granada                   2-0 Córdoba
 Barcelona                 2-0 Sociedad
 Madrid                    2-2 Valencia
 Athletic                  1-1 Deportivo
-[May 10]
+_ May 10 _
 Levante                   2-2 Atlético
 Villarreal                1-0 Elche
 Almería                   1-2 Málaga
 Celta                     1-1 Sevilla
-[May 11]
+_ May 11 _
 Rayo                      2-0 Getafe
 
-Round 37 [May 17]
+▪ Round 37 ▪  May 17
 Atlético                  0-1 Barcelona
 Córdoba                   1-2 Rayo
 Deportivo                 2-0 Levante
@@ -557,7 +579,7 @@ Sevilla                   2-1 Almería
 Valencia                  1-1 Celta
 Villarreal                2-1 Málaga
 
-Round 38 [May 23]
+▪ Round 38 ▪  May 23
 Levante                   0-0 Elche
 Athletic                  4-0 Villarreal
 Celta                     3-2 Espanyol
@@ -568,4 +590,13 @@ Málaga                    2-3 Sevilla
 Rayo                      2-4 Sociedad
 Almería                   2-3 Valencia
 Madrid                    7-3 Getafe
+
+<!-- $table2$ - Final Table -->
+
+NB: after the season, Elche were demoted because of extravagant tax debts; because
+    of this, Eibar remain at the top level
+
+
+
+
 

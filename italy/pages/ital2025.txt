@@ -1,24 +1,18 @@
-<!--
-  source: https://rsssf.org/tablesi/ital2025.html
-
-  outline: -/h2/-/h4/-/-
-           -/1/-/2/-/-
-    (2) ==      Italy 2024/25
-    (4) ====    Serie A  ‹§seriea›
-    (4) ====    Coppa Italia  ‹§coppa›
-
-  aname 2: ‹§seriea›,‹§coppa›
- -->
-  
-
-
-== Italy 2024/25
+  <!--
+     title:   Italy 2024/25
+     source:  https://rsssf.org/tablesi/ital2025.html
+     authors: Roberto Di Maggio and Karel Stokkermans
+     updated: 10 Jun 2025
+    -->
 
 
 
 
 
-==== Serie A  ‹§seriea›
+
+
+
+== Serie A  ‹§seriea›
 
 <!-- $table1$ - Final Table -->
 
@@ -621,7 +615,7 @@ Venezia         2-3 Juventus
 
 
 
-==== Coppa Italia  ‹§coppa›
+== Coppa Italia  ‹§coppa›
 
 ▪ Preliminary Round ▪
 _ Aug 3 _
@@ -754,10 +748,4 @@ Bologna         2-1 Empoli
 Bologna         1-0 Milan
   (Ndoye 53)
 
-
-
-
-
-
-<!-- $about$ -->
 

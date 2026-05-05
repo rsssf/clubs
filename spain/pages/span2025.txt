@@ -1,23 +1,18 @@
-<!--
-  source: https://rsssf.org/tabless/span2025.html
-
-  outline: -/h2/-/h4/-/-
-           -/1/-/1/-/-
-    (2) ==      Spain 2024/25
-    (4) ====    Primera División  ‹§laliga›
-
-  aname 1: ‹§laliga›
- -->
-  
-
-
-== Spain 2024/25
+  <!--
+     title:   Spain 2024/25
+     source:  https://rsssf.org/tabless/span2025.html
+     author:  Karel Stokkermans
+     updated: 26 May 2025    
+    -->
 
 
 
 
 
-==== Primera División  ‹§laliga›
+
+
+
+== Primera División  ‹§laliga›
 
 <!-- $table1$ - Final Table -->
 
@@ -623,10 +618,4 @@ Athletic                  0-3 Barcelona
 
 <!-- $table3$ - Final Table -->
 
-
-
-
-
-
-<!-- $about$ -->
 

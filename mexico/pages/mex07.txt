@@ -1,14 +1,12 @@
-<!--
-  source: https://rsssf.org/tablesm/mex07.html
-
-  outline: -/h2/-/-/-/-
-           -/1/-/-/-/-
-    (2) ==      Mexico 2006/07
- -->
-  
+  <!--
+     title:   Mexico 2006/07
+     source:  https://rsssf.org/tablesm/mex07.html
+     authors: Juan Pablo Andrés, Erik Francisco Lugo and José de Jesus Mora Rivera
+     updated: 22 Jan 2009    
+    -->
 
 
-== Mexico 2006/07
+
 
 Primera División Nacional
 
@@ -2432,10 +2430,4 @@ Gallos de Pelea de Canal 5 champion Clausura 2007
 
 ‹list of topscorers, see page mextops›.
 
-
-
-
-
-
-<!-- $about$ -->
 

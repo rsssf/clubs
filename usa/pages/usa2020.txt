@@ -1,23 +1,18 @@
-<!--
-  source: https://rsssf.org/tablesu/usa2020.html
-
-  outline: -/h2/-/h4/-/-
-           -/1/-/1/-/-
-    (2) ==      USA 2020
-    (4) ====    Major League Soccer  ‹§mls›
-
-  aname 2: ‹§mls›,‹§back›
- -->
-  
-
-
-== USA 2020
+  <!--
+     title:   USA 2020
+     source:  https://rsssf.org/tablesu/usa2020.html
+     author:  Karel Stokkermans
+     updated: 12 May 2021    
+    -->
 
 
 
 
 
-==== Major League Soccer  ‹§mls›
+
+
+
+== Major League Soccer  ‹§mls›
 
 ‹Regular Season, see §reg› | ‹Championship Playoff, see §chplay› | ‹MLS is Back Tournament, see §back›
 
@@ -657,10 +652,4 @@ Orlando City SC        3-1 Minnesota United FC
 ▪ Final ▪  Aug 11
 Orlando City SC        1-2 Portland Timbers
 
-
-
-
-
-
-<!-- $about$ -->
 

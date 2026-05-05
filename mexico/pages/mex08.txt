@@ -1,14 +1,12 @@
-<!--
-  source: https://rsssf.org/tablesm/mex08.html
-
-  outline: -/h2/-/-/-/-
-           -/1/-/-/-/-
-    (2) ==      Mexico 2007/08
- -->
-  
+  <!--
+     title:   Mexico 2007/08
+     source:  https://rsssf.org/tablesm/mex08.html
+     authors: Juan Pablo Andrés, Erik Francisco Lugo and José de Jesus Mora Rivera
+     updated: 12 Feb 2020    
+    -->
 
 
-== Mexico 2007/08
+
 
 Primera División Nacional
 
@@ -2492,10 +2490,4 @@ C.D. Necaxa "C" champion Clausura 2008
 
 ‹list of topscorers, see page mextops›.
 
-
-
-
-
-
-<!-- $about$ -->
 

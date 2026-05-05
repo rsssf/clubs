@@ -1,27 +1,18 @@
-<!--
-  source: https://rsssf.org/tablesm/mex2020.html
-
-  outline: -/h2/-/h4/-/-
-           -/1/-/5/-/-
-    (2) ==      Mexico 2019/20
-    (4) ====    Liga MX  ‹§pdn›
-    (4) ====    Copa MX 2019/20  ‹§copa›
-    (4) ====    Campeón de Campeones  ‹§campcamp›
-    (4) ====    Supercopa MX  ‹§supcopa›
-    (4) ====    Ascenso MX  ‹§ascenso›
-
-  aname 9: ‹§pdn›,‹§1aper›,‹§1clau›,‹§copa›,‹§campcamp›,‹§supcopa›,‹§ascenso›,‹§2aper›,‹§2clau›
- -->
-  
-
-
-== Mexico 2019/20
+  <!--
+     title:   Mexico 2019/20
+     source:  https://rsssf.org/tablesm/mex2020.html
+     author:  Erik Francisco Lugo
+     updated: 18 Feb 2021    
+    -->
 
 
 
 
 
-==== Liga MX  ‹§pdn›
+
+
+
+== Liga MX  ‹§pdn›
 
 ‹Apertura 2019, see §1aper› | ‹Clausura 2020, see §1clau›
 
@@ -869,7 +860,7 @@ NB: league suspended on Mar 15 due to Covid-19 pandemic and abandoned on May 22;
 
 Relegation table (at the moment to the cancelation)
 
-Team      Average
+Team         Average
 Tigres                  1.7789
 América                 1.7474
 León                    1.6842
@@ -916,7 +907,7 @@ On June 2, Monarcas Morelia sold its license to Mazatlán FC.
 
 
 
-==== Copa MX 2019/20  ‹§copa›
+== Copa MX 2019/20  ‹§copa›
 
 ‹Group Stage, see §copagrp› | ‹Playoff Stage, see §copaplay›
 
@@ -1230,57 +1221,57 @@ Monterrey Cup Champions
 <!-- $topscorers3$ -->
 
 
-Kevin Castañeda    Toluca    7
-Vincent Janssen    Monterrey  7
-Raúl Rivero    Santos    5
-Eduardo Aguirre    Santos    4
-Michael Estrada    Toluca    4
-Camilo Sanvezzo    Tijuana    4
+Kevin Castañeda      Toluca      7
+Vincent Janssen      Monterrey   7
+Raúl Rivero      Santos      5
+Eduardo Aguirre      Santos      4
+Michael Estrada      Toluca      4
+Camilo Sanvezzo      Tijuana      4
 
 
 Monterrey squad
-Luis Cárdenas    GK
-Hugo González    GK
-Marcelo Barovero  GK
-Edson Rezéndez    GK
-César Montes    DEF
-José María Basanta  DEF
-Axel Grijalva    DEF
-William Mejía    DEF
-Nicolás Sánchez    DEF
-Johan Vázquez    DEF
-Edson Gutiérrez    DEF
-Jesús Gallardo    DEF
-Miguel Layún    DEF
-Sergio Villarreal  DEF
-Luis Sánchez    DEF
-Leonel Vangioni    DEF
-Sebastián VEgas    DEF
-Daniel Parra    DEF
-Setefan Medina    DEF
-Juan Portales    DEF
-Edson Gutiérrez    DEF
-Matías Kranevitter   MDF
-Michell Rodríguez  MDF
-Maximiliano Meza  MDF
-Celso Ortiz    MDF
-Arturo Alfonso González  MDF
-Jonathan González  MDF
-Carlos Rodríguez  MDF
-Eric Cantú    MDF
-Ángel Zapata    MDF
-Jaziel Martínez    MDF
-Rogelio Funes Mori  FWD
-Dorlan Pabón    FWD
-Vincent Janssen    FWD
-Ake Loba    FWD
-Avilés Hurtado    FWD
-Shayr Mohamed    FWD
-Jonathan Urretaviscaya  FWD
-Ángel Zaldívar    FWD
-Juan Machado    FWD
-Eduardo Banda    FWD
-José Alvarado    FWD
+Luis Cárdenas      GK
+Hugo González      GK
+Marcelo Barovero   GK
+Edson Rezéndez      GK
+César Montes      DEF
+José María Basanta   DEF
+Axel Grijalva      DEF
+William Mejía      DEF
+Nicolás Sánchez      DEF
+Johan Vázquez      DEF
+Edson Gutiérrez      DEF
+Jesús Gallardo      DEF
+Miguel Layún      DEF
+Sergio Villarreal   DEF
+Luis Sánchez      DEF
+Leonel Vangioni      DEF
+Sebastián VEgas      DEF
+Daniel Parra      DEF
+Setefan Medina      DEF
+Juan Portales      DEF
+Edson Gutiérrez      DEF
+Matías Kranevitter    MDF
+Michell Rodríguez   MDF
+Maximiliano Meza   MDF
+Celso Ortiz      MDF
+Arturo Alfonso González   MDF
+Jonathan González   MDF
+Carlos Rodríguez   MDF
+Eric Cantú      MDF
+Ángel Zapata      MDF
+Jaziel Martínez      MDF
+Rogelio Funes Mori   FWD
+Dorlan Pabón      FWD
+Vincent Janssen      FWD
+Ake Loba      FWD
+Avilés Hurtado      FWD
+Shayr Mohamed      FWD
+Jonathan Urretaviscaya   FWD
+Ángel Zaldívar      FWD
+Juan Machado      FWD
+Eduardo Banda      FWD
+José Alvarado      FWD
 
 Coach: Antonio Mohamed (ARG)
 
@@ -1289,7 +1280,7 @@ Coach: Antonio Mohamed (ARG)
 
 
 
-==== Campeón de Campeones  ‹§campcamp›
+== Campeón de Campeones  ‹§campcamp›
 
 
 Cancelled due to Covid-19 pandemic.
@@ -1299,7 +1290,7 @@ Cancelled due to Covid-19 pandemic.
 
 
 
-==== Supercopa MX  ‹§supcopa›
+== Supercopa MX  ‹§supcopa›
 
 
 
@@ -1311,7 +1302,7 @@ Not held; since the Cup became annual this trophy was discontinued.
 
 
 
-==== Ascenso MX  ‹§ascenso›
+== Ascenso MX  ‹§ascenso›
 
 ‹Apertura 2019, see §2aper› | ‹Clausura 2020, see §2clau› | ‹Promotion Playoff, see §2prom›
 
@@ -1721,7 +1712,7 @@ NB: league suspended due to Covid-19 pandemic and abandoned on Apr 24;
 
 Relegation table
 
-Team      Average
+Team         Average
 Mineros                 1.8442
 TM FC                   1.5263
 Atlético Zacatepec      1.4935
@@ -1745,10 +1736,4 @@ NB: between top-7 of regular season; cancelled due to Covid-19 pandemic
 NB: not held
 
 
-
-
-
-
-
-<!-- $about$ -->
 

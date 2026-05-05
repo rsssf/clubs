@@ -1,14 +1,12 @@
-<!--
-  source: https://rsssf.org/tablesi/ital08.html
-
-  outline: -/h2/-/-/-/-
-           -/1/-/-/-/-
-    (2) ==      Italy 2007/08
- -->
-  
+  <!--
+     title:   Italy 2007/08
+     source:  https://rsssf.org/tablesi/ital08.html
+     author:  Andrea Ferrigno
+     updated: 12 Aug 2009
+    -->
 
 
-== Italy 2007/08
+
 
 First Level (Serie A)
 
@@ -1022,10 +1020,4 @@ NB: Cagliari had 3 points deducted for having started a juridical procedure
 
 ‹list of 3rd division topscorers, see page ital3tops›.
 
-
-
-
-
-
-<!-- $about$ -->
 

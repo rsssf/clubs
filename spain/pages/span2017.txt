@@ -1,25 +1,18 @@
-<!--
-  source: https://rsssf.org/tabless/span2017.html
-
-  outline: -/h2/-/h4/-/-
-           -/1/-/3/-/-
-    (2) ==      Spain 2016/17
-    (4) ====    Primera División  ‹§laliga›
-    (4) ====    Copa del Rey  ‹§coparey›
-    (4) ====    Segunda División (Liga Adelante)  ‹§segunda›
-
-  aname 3: ‹§laliga›,‹§coparey›,‹§segunda›
- -->
-  
-
-
-== Spain 2016/17
+  <!--
+     title:   Spain 2016/17
+     source:  https://rsssf.org/tabless/span2017.html
+     author:  Karel Stokkermans
+     updated: 18 Jul 2019    
+    -->
 
 
 
 
 
-==== Primera División  ‹§laliga›
+
+
+
+== Primera División  ‹§laliga›
 
 <!-- $table1$ - Final Table -->
 
@@ -622,7 +615,7 @@ Málaga                    0-2 Madrid
 
 
 
-==== Copa del Rey  ‹§coparey›
+== Copa del Rey  ‹§coparey›
 
 ▪ Round 1 ▪  Aug 31
 Andorra CF                0-5 Hércules de Alicante CF
@@ -801,7 +794,7 @@ FC Barcelona              3-1 Deportivo Alavés
 
 
 
-==== Segunda División (Liga Adelante)  ‹§segunda›
+== Segunda División (Liga Adelante)  ‹§segunda›
 
 <!-- $table3$ - Final Table -->
 
@@ -834,10 +827,4 @@ Tenerife                  1-0 Getafe
 Getafe                    3-1 Tenerife
 
 NB: Getafe promoted
-
-
-
-
-
-<!-- $about$ -->
 

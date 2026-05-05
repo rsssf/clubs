@@ -1,25 +1,18 @@
-<!--
-  source: https://rsssf.org/tablesi/ital2017.html
-
-  outline: -/h2/-/h4/-/-
-           -/1/-/3/-/-
-    (2) ==      Italy 2016/17
-    (4) ====    Serie A  ‹§seriea›
-    (4) ====    Coppa Italia  ‹§coppa›
-    (4) ====    Serie B  ‹§serieb›
-
-  aname 3: ‹§seriea›,‹§coppa›,‹§serieb›
- -->
-  
-
-
-== Italy 2016/17
+  <!--
+     title:   Italy 2016/17
+     source:  https://rsssf.org/tablesi/ital2017.html
+     author:  Karel Stokkermans
+     updated: 31 Aug 2017
+    -->
 
 
 
 
 
-==== Serie A  ‹§seriea›
+
+
+
+== Serie A  ‹§seriea›
 
 <!-- $table1$ - Final Table -->
 
@@ -586,7 +579,7 @@ Torino          5-3 Sassuolo
 
 
 
-==== Coppa Italia  ‹§coppa›
+== Coppa Italia  ‹§coppa›
 
 ▪ Round 1 ▪
 _ Jul 29 _
@@ -802,11 +795,11 @@ Juventus: Neto, Barzagli, Bonucci, Chiellini, Dani Alves,
 
 
 
-==== Serie B  ‹§serieb›
+== Serie B  ‹§serieb›
 
 ‹Regular Season, see §2reg› | ‹Promotion Playoff, see §2prom›
 
-▪ Regular Season ▪
+=== Regular Season  ‹§2reg›
 
 <!-- $table3$ - Final Table -->
 
@@ -815,7 +808,7 @@ Juventus: Neto, Barzagli, Bonucci, Chiellini, Dani Alves,
 NB: as the difference between 18th and 19th place is not less than 4 points, no playoff between
     Ternana and Trapani is held
 
-▪ Promotion Playoff ▪
+=== Promotion Playoff  ‹§2prom›
 
 ▪ Round 1 ▪
 _ May 22 _
@@ -847,10 +840,4 @@ Benevento       1-0 Carpi
 
 NB: Benevento Calcio promoted
 
-
-
-
-
-
-<!-- $about$ -->
 

@@ -1,14 +1,12 @@
-<!--
-  source: https://rsssf.org/tablesu/usa08.html
-
-  outline: -/h2/-/-/-/-
-           -/1/-/-/-/-
-    (2) ==      USA 2008
- -->
-  
+  <!--
+     title:   USA 2008
+     source:  https://rsssf.org/tablesu/usa08.html
+     author:  David A. Litterer
+     updated: 7 May 2010    
+    -->
 
 
-== USA 2008
+
 
 
 
@@ -680,10 +678,4 @@ FINAL:                Pennsylvania defeated St. Paul 3-0.
 
 ‹MLS all-time table, see page usaalltime›
 
-
-
-
-
-
-<!-- $about$ -->
 

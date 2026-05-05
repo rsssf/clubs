@@ -1,16 +1,12 @@
-<!--
-  source: https://rsssf.org/tablesu/usa06.html
-
-  outline: -/h2/-/-/-/-
-           -/1/-/-/-/-
-    (2) ==      USA 2006
-
-  aname 1: ‹§voyageurs›
- -->
-  
+  <!--
+     title:   USA 2006
+     source:  https://rsssf.org/tablesu/usa06.html
+     author:  David A. Litterer
+     updated: 11 Sep 2019    
+    -->
 
 
-== USA 2006
+
 
 
 
@@ -470,10 +466,4 @@ Grand Rapids Alliance       10   1   8   1             4
 CHAMPIONSHIP:  Sacramento defeated Princeton 2-0
 
 
-
-
-
-
-
-<!-- $about$ -->
 

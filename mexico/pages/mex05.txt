@@ -1,14 +1,12 @@
-<!--
-  source: https://rsssf.org/tablesm/mex05.html
-
-  outline: -/h2/-/-/-/-
-           -/1/-/-/-/-
-    (2) ==      Mexico 2004/05
- -->
-  
+  <!--
+     title:   Mexico 2004/05
+     source:  https://rsssf.org/tablesm/mex05.html
+     authors: Juan Pablo Andrés, Erik Francisco Lugo and José de Jesus Mora Rivera
+     updated: 22 Jan 2009    
+    -->
 
 
-== Mexico 2004/05
+
 
 Primera División Nacional
 
@@ -2011,10 +2009,4 @@ CD Guadalajara "B" champion Clausura 2005
 
 
 
-
-
-
-
-
-<!-- $about$ -->
 

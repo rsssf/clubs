@@ -1,25 +1,18 @@
-<!--
-  source: https://rsssf.org/tabless/span2014.html
-
-  outline: -/h2/-/h4/-/-
-           -/1/-/3/-/-
-    (2) ==      Spain 2013/14
-    (4) ====    Primera División (Liga BBVA)  ‹§laliga›
-    (4) ====    Copa del Rey  ‹§coparey›
-    (4) ====    Segunda División (Liga Adelante)  ‹§segunda›
-
-  aname 3: ‹§laliga›,‹§coparey›,‹§segunda›
- -->
-  
-
-
-== Spain 2013/14
+  <!--
+     title:   Spain 2013/14
+     source:  https://rsssf.org/tabless/span2014.html
+     author:  Karel Stokkermans
+     updated: 29 Sep 2020    
+    -->
 
 
 
 
 
-==== Primera División (Liga BBVA)  ‹§laliga›
+
+
+
+== Primera División (Liga BBVA)  ‹§laliga›
 
 <!-- $table1$ - Final Table -->
 
@@ -621,7 +614,7 @@ Almería                   0-0 Athletic
 
 
 
-==== Copa del Rey  ‹§coparey›
+== Copa del Rey  ‹§coparey›
 
 ▪ Round 1 ▪  Sep 4
 CD Sariñena               1-0 CD Puerta Bonita          (aet)
@@ -797,7 +790,7 @@ FC Barcelona              1-2 Real Madrid CF
 
 
 
-==== Segunda División (Liga Adelante)  ‹§segunda›
+== Segunda División (Liga Adelante)  ‹§segunda›
 
 <!-- $table3$ - Final Table -->
 
@@ -827,10 +820,4 @@ Las Palmas                1-1 Córdoba
 
 NB: Córdoba promoted
 
-
-
-
-
-
-<!-- $about$ -->
 

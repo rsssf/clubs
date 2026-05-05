@@ -1,14 +1,12 @@
-<!--
-  source: https://rsssf.org/tablesm/mex03.html
-
-  outline: -/h2/-/-/-/-
-           -/1/-/-/-/-
-    (2) ==      Mexico 2002/03
- -->
-  
+  <!--
+     title:   Mexico 2002/03
+     source:  https://rsssf.org/tablesm/mex03.html
+     authors: Daniel Dalence Garcia, Sergei Makarov and José de Jesus Mora Rivera
+     updated: 12 May 2022    
+    -->
 
 
-== Mexico 2002/03
+
 
 Pre-Libertadores Tournament 2002
 ================================
@@ -1913,10 +1911,4 @@ Tapachula remain in Primera A
 
 ‹list of topscorers, see page mextops›.
 
-
-
-
-
-
-<!-- $about$ -->
 

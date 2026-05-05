@@ -1,24 +1,18 @@
-<!--
-  source: https://rsssf.org/tablesu/usa2024.html
-
-  outline: -/h2/-/h4/-/-
-           -/1/-/2/-/-
-    (2) ==      USA 2024
-    (4) ====    Major League Soccer  ‹§mls›
-    (4) ====    US Open Cup  ‹§open›
-
-  aname 2: ‹§mls›,‹§open›
- -->
-  
-
-
-== USA 2024
+  <!--
+     title:   USA 2024
+     source:  https://rsssf.org/tablesu/usa2024.html
+     author:  Karel Stokkermans
+     updated: 7 Dec 2025    
+    -->
 
 
 
 
 
-==== Major League Soccer  ‹§mls›
+
+
+
+== Major League Soccer  ‹§mls›
 
 ‹Regular Season, see §reg› | ‹Championship Playoff, see §chplay›
 
@@ -717,7 +711,7 @@ Los Angeles Galaxy     2-1 New York Red Bulls
 
 
 
-==== US Open Cup  ‹§open›
+== US Open Cup  ‹§open›
 
 ▪ 1/8 Finals ▪
 _ May 21 _
@@ -748,10 +742,4 @@ Seattle Sounders       0-1 Los Angeles FC
 ▪ Final ▪  Sep 25
 Los Angeles FC         3-1 Sporting Kansas City   (aet)
 
-
-
-
-
-
-<!-- $about$ -->
 

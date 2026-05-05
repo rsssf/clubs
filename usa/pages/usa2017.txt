@@ -1,24 +1,18 @@
-<!--
-  source: https://rsssf.org/tablesu/usa2017.html
-
-  outline: -/h2/-/h4/-/-
-           -/1/-/2/-/-
-    (2) ==      USA 2017
-    (4) ====    Major League Soccer  ‹§mls›
-    (4) ====    US Open Cup  ‹§open›
-
-  aname 2: ‹§mls›,‹§open›
- -->
-  
-
-
-== USA 2017
+  <!--
+     title:   USA 2017
+     source:  https://rsssf.org/tablesu/usa2017.html
+     author:  Karel Stokkermans
+     updated: 10 Jan 2020    
+    -->
 
 
 
 
 
-==== Major League Soccer  ‹§mls›
+
+
+
+== Major League Soccer  ‹§mls›
 
 ‹Regular Season, see §reg› | ‹Championship Playoff, see §play›
 
@@ -607,7 +601,7 @@ Toronto FC             2-0 Seattle Sounders
 
 
 
-==== US Open Cup  ‹§open›
+== US Open Cup  ‹§open›
 
 ▪ Third Round ▪
 _ May 30 _
@@ -677,10 +671,4 @@ FC Cincinnati (USL)             2-3 New York Red Bulls              (aet)
 ▪ Final ▪  Sep 20 @ Children's Mercy Park, Kansas City, Kansas
 Sporting Kansas City            2-1 New York Red Bulls
 
-
-
-
-
-
-<!-- $about$ -->
 

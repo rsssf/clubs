@@ -1,23 +1,18 @@
-<!--
-  source: https://rsssf.org/tablesm/mex2026.html
-
-  outline: -/h2/-/h4/-/-
-           -/1/-/1/-/-
-    (2) ==      Mexico 2025/26
-    (4) ====    Liga MX  ‹§pdn›
-
-  aname 3: ‹§pdn›,‹§1aper›,‹§1clau›
- -->
-  
-
-
-== Mexico 2025/26
+  <!--
+     title:   Mexico 2025/26
+     source:  https://rsssf.org/tablesm/mex2026.html
+     author:  Erik Francisco Lugo
+     updated: 19 Dec 2025    
+    -->
 
 
 
 
 
-==== Liga MX  ‹§pdn›
+
+
+
+== Liga MX  ‹§pdn›
 
 ‹Apertura 2025, see §1aper› | ‹Clausura 2026, see §1clau›
 
@@ -89,10 +84,4 @@ Clausura 2026  ‹§1clau›
 
 ▪ Playoffs (Liguilla) ▪
 
-
-
-
-
-
-<!-- $about$ -->
 

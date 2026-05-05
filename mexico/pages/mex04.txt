@@ -1,14 +1,12 @@
-<!--
-  source: https://rsssf.org/tablesm/mex04.html
-
-  outline: -/h2/-/-/-/-
-           -/1/-/-/-/-
-    (2) ==      Mexico 2003/04
- -->
-  
+  <!--
+     title:   Mexico 2003/04
+     source:  https://rsssf.org/tablesm/mex04.html
+     author:  José de Jesus Mora Rivera
+     updated: 22 Jan 2009    
+    -->
 
 
-== Mexico 2003/04
+
 
 Primera División Nacional
 
@@ -2515,10 +2513,4 @@ Relegation:
 
 ‹list of topscorers, see page mextops›.
 
-
-
-
-
-
-<!-- $about$ -->
 

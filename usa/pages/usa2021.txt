@@ -1,23 +1,18 @@
-<!--
-  source: https://rsssf.org/tablesu/usa2021.html
-
-  outline: -/h2/-/h4/-/-
-           -/1/-/1/-/-
-    (2) ==      USA 2021
-    (4) ====    Major League Soccer  ‹§mls›
-
-  aname 1: ‹§mls›
- -->
-  
-
-
-== USA 2021
+  <!--
+     title:   USA 2021
+     source:  https://rsssf.org/tablesu/usa2021.html
+     author:  Karel Stokkermans
+     updated: 30 Jun 2022    
+    -->
 
 
 
 
 
-==== Major League Soccer  ‹§mls›
+
+
+
+== Major League Soccer  ‹§mls›
 
 ‹Regular Season, see §reg› | ‹Championship Playoff, see §chplay›
 
@@ -745,10 +740,4 @@ Portland Timbers       2-0 Real Salt Lake
 ▪ MLS Cup ▪  Dec 11
 Portland Timbers       1-1 New York City FC       (aet, 2-4 pen)
 
-
-
-
-
-
-<!-- $about$ -->
 

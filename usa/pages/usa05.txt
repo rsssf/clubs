@@ -1,16 +1,12 @@
-<!--
-  source: https://rsssf.org/tablesu/usa05.html
-
-  outline: -/h2/-/-/-/-
-           -/1/-/-/-/-
-    (2) ==      USA 2005
-
-  aname 1: ‹§voyageurs›
- -->
-  
+  <!--
+     title:   USA 2005
+     source:  https://rsssf.org/tablesu/usa05.html
+     authors: David A. Litterer and Antonio Zea
+     updated: 11 Sep 2019    
+    -->
 
 
-== USA 2005
+
 
 
 
@@ -719,10 +715,4 @@ NATIONAL PREMIER SOCCER LEAGUE ("Div. 4")
 FINAL:   Detroit defeated Sonoma 1-0
 
 
-
-
-
-
-
-<!-- $about$ -->
 

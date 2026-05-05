@@ -1,24 +1,18 @@
-<!--
-  source: https://rsssf.org/tablesu/usa2022.html
-
-  outline: -/h2/-/h4/-/-
-           -/1/-/2/-/-
-    (2) ==      USA 2022
-    (4) ====    Major League Soccer  ‹§mls›
-    (4) ====    US Open Cup  ‹§open›
-
-  aname 2: ‹§mls›,‹§open›
- -->
-  
-
-
-== USA 2022
+  <!--
+     title:   USA 2022
+     source:  https://rsssf.org/tablesu/usa2022.html
+     author:  Karel Stokkermans
+     updated: 6 Dec 2024    
+    -->
 
 
 
 
 
-==== Major League Soccer  ‹§mls›
+
+
+
+== Major League Soccer  ‹§mls›
 
 ‹Regular Season, see §reg› | ‹Championship Playoff, see §chplay›
 
@@ -697,7 +691,7 @@ Los Angeles FC         3-3 Philadelphia Union     (aet, 3-0 pen)
 
 
 
-==== US Open Cup  ‹§open›
+== US Open Cup  ‹§open›
 
 ▪ 1/8 Finals ▪  May 25
 Orlando City           1-1 Inter Miami            (aet, 4-2 pen)
@@ -725,10 +719,4 @@ Sacramento Republic FC 0-0 Sporting Kansas City   (aet, 5-4 pen)
 ▪ Final ▪  Sep 7
 Orlando City           3-0 Sacramento Republic FC
 
-
-
-
-
-
-<!-- $about$ -->
 

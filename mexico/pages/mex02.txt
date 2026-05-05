@@ -1,14 +1,12 @@
-<!--
-  source: https://rsssf.org/tablesm/mex02.html
-
-  outline: -/h2/-/-/-/-
-           -/1/-/-/-/-
-    (2) ==      Mexico 2001/02
- -->
-  
+  <!--
+     title:   Mexico 2001/02
+     source:  https://rsssf.org/tablesm/mex02.html
+     authors: Erik Francisco Lugo, José de Jesus Mora Rivera and Daniel Dalence Garcia
+     updated: 11 Jul 2022    
+    -->
 
 
-== Mexico 2001/02
+
 
 Pre-Pre-Libertadores Tournament 2001
 
@@ -2121,10 +2119,4 @@ Gallos Aguascalientes moved to Guadalajara (Tapatío)
 Bachilleres moved to Orizaba (Albinegros)
 
 
-
-
-
-
-
-<!-- $about$ -->
 

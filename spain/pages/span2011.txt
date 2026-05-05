@@ -1,26 +1,18 @@
-<!--
-  source: https://rsssf.org/tabless/span2011.html
-
-  outline: -/h2/-/h4/-/-
-           -/1/-/4/-/-
-    (2) ==      Spain 2010/11
-    (4) ====    Primera División (Liga BBVA)  ‹§laliga›
-    (4) ====    Copa del Rey  ‹§coparey›
-    (4) ====    Segunda División (Liga Adelante)  ‹§segunda›
-    (4) ====    Segunda División B  ‹§segundb›
-
-  aname 8: ‹§laliga›,‹§coparey›,‹§segunda›,‹§segundb›,‹§2b1›,‹§2b2›,‹§2b3›,‹§2b4›
- -->
-  
-
-
-== Spain 2010/11
+  <!--
+     title:   Spain 2010/11
+     source:  https://rsssf.org/tabless/span2011.html
+     author:  Anthony Zea
+     updated: 25 Mar 2024    
+    -->
 
 
 
 
 
-==== Primera División (Liga BBVA)  ‹§laliga›
+
+
+
+== Primera División (Liga BBVA)  ‹§laliga›
 
 <!-- $table1$ - Final Table -->
 
@@ -1074,7 +1066,7 @@ Racing                    1-2 Athletic
 
 
 
-==== Copa del Rey  ‹§coparey›
+== Copa del Rey  ‹§coparey›
 
 
 ▪ Round 1 ▪
@@ -1402,7 +1394,7 @@ Madrid                    1-0 Barcelona                 (aet)
 
 
 
-==== Segunda División (Liga Adelante)  ‹§segunda›
+== Segunda División (Liga Adelante)  ‹§segunda›
 
 <!-- $table3$ - Final Table -->
 
@@ -2664,7 +2656,7 @@ NB: Granada CF promoted
 
 
 
-==== Segunda División B  ‹§segundb›
+== Segunda División B  ‹§segundb›
 
 ‹Grupo I, see §2b1› | ‹Grupo II, see §2b2› | ‹Grupo III, see §2b3› | ‹Grupo IV, see §2b4› |
 
@@ -6042,10 +6034,4 @@ Melilla                       2-0 Cádiz
 
 <!-- $topscorers6$ -->
 
-
-
-
-
-
-<!-- $about$ -->
 

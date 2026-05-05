@@ -1,25 +1,18 @@
-<!--
-  source: https://rsssf.org/tabless/span2023.html
-
-  outline: -/h2/-/h4/-/-
-           -/1/-/3/-/-
-    (2) ==      Spain 2022/23
-    (4) ====    Primera División  ‹§laliga›
-    (4) ====    Segunda División  ‹§segunda›
-    (4) ====    Primera RFEF  ‹§1rfef›
-
-  aname 5: ‹§laliga›,‹§segunda›,‹§1rfef›,‹§3g1›,‹§3g2›
- -->
-  
-
-
-== Spain 2022/23
+  <!--
+     title:   Spain 2022/23
+     source:  https://rsssf.org/tabless/span2023.html
+     author:  Karel Stokkermans
+     updated: 21 Nov 2023    
+    -->
 
 
 
 
 
-==== Primera División  ‹§laliga›
+
+
+
+== Primera División  ‹§laliga›
 
 <!-- $table1$ - Final Table -->
 
@@ -626,7 +619,7 @@ Valladolid                0-0 Getafe
 
 
 
-==== Segunda División  ‹§segunda›
+== Segunda División  ‹§segunda›
 
 <!-- $table4$ - Final Table -->
 
@@ -657,7 +650,7 @@ Levante                   0-1 Alavés                    (aet)
 
 
 
-==== Primera RFEF  ‹§1rfef›
+== Primera RFEF  ‹§1rfef›
 
 ‹Grupo 1, see §3g1› | ‹Grupo 2, see §3g2› | ‹Final, see §3gf› | ‹Promotion Playoff, see §3gp›
 
@@ -719,10 +712,4 @@ Promoted from 4th level: Antequera CF, CD Arenteiro (O Carballiño), Atlético d
                          Atlético Sanluqueño CF (Sanlúcar de Barrameda), CR Granada, UD Melilla,
                          Real Club Recreativo de Huelva, Sestao River Club, SD Tarazona, CD Teruel
 
-
-
-
-
-
-<!-- $about$ -->
 

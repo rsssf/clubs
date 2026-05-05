@@ -1,24 +1,18 @@
-<!--
-  source: https://rsssf.org/tablesu/usa2019.html
-
-  outline: -/h2/-/h4/-/-
-           -/1/-/2/-/-
-    (2) ==      USA 2019
-    (4) ====    Major League Soccer  ‹§mls›
-    (4) ====    US Open Cup  ‹§open›
-
-  aname 2: ‹§mls›,‹§open›
- -->
-  
-
-
-== USA 2019
+  <!--
+     title:   USA 2019
+     source:  https://rsssf.org/tablesu/usa2019.html
+     author:  Karel Stokkermans
+     updated: 12 Mar 2020    
+    -->
 
 
 
 
 
-==== Major League Soccer  ‹§mls›
+
+
+
+== Major League Soccer  ‹§mls›
 
 ‹Regular Season, see §reg› | ‹Championship Playoff, see §play›
 
@@ -641,7 +635,7 @@ Seattle Sounders       3-1 Toronto FC
 
 
 
-==== US Open Cup  ‹§open›
+== US Open Cup  ‹§open›
 
 ▪ Third Round ▪
 _ May 28 _
@@ -706,10 +700,4 @@ Minnesota United                2-1 Portland Timbers
 
 ▪ Final ▪  Aug 27 @ Mercedes-Benz Stadium, Atlanta, Georgia
 Atlanta United FC               2-1 Minnesota United FC
-
-
-
-
-
-<!-- $about$ -->
 

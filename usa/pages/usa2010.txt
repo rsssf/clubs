@@ -1,32 +1,18 @@
-<!--
-  source: https://rsssf.org/tablesu/usa2010.html
-
-  outline: -/h2/-/h4/-/-
-           -/1/-/10/-/-
-    (2) ==      USA 2010
-    (4) ====    Major League Soccer  ‹§mls›
-    (4) ====    US Open Cup  ‹§open›
-    (4) ====    Women's Professional Soccer (Division 1)  ‹§wps›
-    (4) ====    USSF D2Pro League (Division 2)  ‹§ussf2›
-    (4) ====    USL Second Division (Division 3)  ‹§usl2›
-    (4) ====    USL Premier Development League ("Division 4")  ‹§pdl›
-    (4) ====    National Premier Soccer League ("Division 4")  ‹§npsl›
-    (4) ====    Women's Premier Soccer League  ‹§wpsl›
-    (4) ====    USL - W-League  ‹§wleague›
-    (4) ====    Major Indoor Soccer League  ‹§misl›
-
-  aname 10: ‹§mls›,‹§open›,‹§wps›,‹§ussf2›,‹§usl2›,‹§pdl›,‹§npsl›,‹§wpsl›,‹§wleague›,‹§misl›
- -->
-  
-
-
-== USA 2010
+  <!--
+     title:   USA 2010
+     source:  https://rsssf.org/tablesu/usa2010.html
+     author:  David A. Litterer
+     updated: 24 Dec 2023    
+    -->
 
 
 
 
 
-==== Major League Soccer  ‹§mls›
+
+
+
+== Major League Soccer  ‹§mls›
 
 ‹Regular Season, see §reg› | ‹Championship Playoff, see §play›
 
@@ -484,7 +470,7 @@ Colorado Rapids        2-1 FC Dallas              (aet)
 
 
 
-==== US Open Cup  ‹§open›
+== US Open Cup  ‹§open›
 
 ▪ Qualification MLS ▪
 
@@ -549,7 +535,7 @@ Seattle Sounders       2-1 Columbus Crew
 
 
 
-==== Women's Professional Soccer (Division 1)  ‹§wps›
+== Women's Professional Soccer (Division 1)  ‹§wps›
 
 
 
@@ -572,7 +558,7 @@ FC Gold Pride             4-0 Philadelphia Independence
 
 
 
-==== USSF D2Pro League (Division 2)  ‹§ussf2›
+== USSF D2Pro League (Division 2)  ‹§ussf2›
 
 ▪ Regular Season ▪
 
@@ -630,7 +616,7 @@ Champions: Puerto Rico Islanders
 
 
 
-==== USL Second Division (Division 3)  ‹§usl2›
+== USL Second Division (Division 3)  ‹§usl2›
 
 ▪ Regular Season ▪
 
@@ -650,7 +636,7 @@ Champions: Charleston Battery
 
 
 
-==== USL Premier Development League ("Division 4")  ‹§pdl›
+== USL Premier Development League ("Division 4")  ‹§pdl›
 
                             GP   W   L   D   GF  GA  Pts
      EASTERN CONFERENCE
@@ -707,7 +693,7 @@ Champions: Portland Timbers U23's
 
 
 
-==== National Premier Soccer League ("Division 4")  ‹§npsl›
+== National Premier Soccer League ("Division 4")  ‹§npsl›
 
                             GP   W   L   D   GF  GA  Pts
 <!-- $table17$ - Northeast Atlantic Conference -->
@@ -746,7 +732,7 @@ Champions: Sacramento Gold
 
 
 
-==== Women's Premier Soccer League  ‹§wpsl›
+== Women's Premier Soccer League  ‹§wpsl›
 
                           GP   W   L   D   GF  GA  Pts
 <!-- $table22$ - East-Northeast Division -->
@@ -794,7 +780,7 @@ CHAMPIONSHIP:         Boston defeated Ajax America 2-1
 
 
 
-==== USL - W-League  ‹§wleague›
+== USL - W-League  ‹§wleague›
 
 
 
@@ -829,7 +815,7 @@ CHAMPIONSHIP:          Buffalo defeated Vancouver 3-1
 
 
 
-==== Major Indoor Soccer League  ‹§misl›
+== Major Indoor Soccer League  ‹§misl›
 
 
                            GP   W   L   PCT.   GB   GF   GA
@@ -842,10 +828,4 @@ Rockford Raptors           20   7  13   .350 7.00  203  220
 Semi-Finals:  Monterrey defeated Baltimore 22-14, 10-8 (OT)
 Final:        Monterrey defeated Milwaukee 12-6.
 
-
-
-
-
-
-<!-- $about$ -->
 

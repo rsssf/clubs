@@ -1,24 +1,18 @@
-<!--
-  source: https://rsssf.org/tablesm/mex2012.html
-
-  outline: -/h2/-/h4/-/-
-           -/1/-/2/-/-
-    (2) ==      Mexico 2011/12
-    (4) ====    Primera División Nacional  ‹§pdn›
-    (4) ====    Liga de Ascenso  ‹§ascenso›
-
-  aname 6: ‹§pdn›,‹§1aper›,‹§1clau›,‹§ascenso›,‹§2aper›,‹§2clau›
- -->
-  
-
-
-== Mexico 2011/12
+  <!--
+     title:   Mexico 2011/12
+     source:  https://rsssf.org/tablesm/mex2012.html
+     authors: Erik Francisco Lugo and Juan Pablo Andrés
+     updated: 18 Feb 2021    
+    -->
 
 
 
 
 
-==== Primera División Nacional  ‹§pdn›
+
+
+
+== Primera División Nacional  ‹§pdn›
 
 ‹Apertura 2011, see §1aper› | ‹Clausura 2012, see §1clau›
 
@@ -512,21 +506,21 @@ Tigres            3-1 Santos
 
 Tigres UANL roster team
 
-Enrique Palos    GK
-Hugo Ayala    DEF
-Israel Jiménez    DEF
-Jorge Torres Nilo  DEF
-Anselmo Vendrechovski  DEF (Brazil)
-Carlos Salcido    DEF
-José Rivas    DEF
-Lucas Lobos    MDF (Argentina)
-Manuel Viniegra    MDF
-Danilo Verón    MDF (Brazil)
-David Toledo    MDF
-Edgar Iván Pacheco  MDF
-Damián Ariel Álvarez  MDF (Argentina)
-Héctor Raúl Mancilla  FWD (Chile)
-Alan Pulido    FWD
+Enrique Palos      GK
+Hugo Ayala      DEF
+Israel Jiménez      DEF
+Jorge Torres Nilo   DEF
+Anselmo Vendrechovski   DEF (Brazil)
+Carlos Salcido      DEF
+José Rivas      DEF
+Lucas Lobos      MDF (Argentina)
+Manuel Viniegra      MDF
+Danilo Verón      MDF (Brazil)
+David Toledo      MDF
+Edgar Iván Pacheco   MDF
+Damián Ariel Álvarez   MDF (Argentina)
+Héctor Raúl Mancilla   FWD (Chile)
+Alan Pulido      FWD
 
 Coach: Ricardo Ferreti (BRA)
 
@@ -950,25 +944,25 @@ América            2-2 Cruz Azul
 
 Relegation Table
 
-Team      Average
-Monterrey    1.7647
-Cruz Azul    1.7353
-Santos Laguna    1.6765
-Morelia      1.6373
-Tigres       1.5588
-América      1.5196
-Toluca      1.4706
-Pumas      1.4314
-Pachuca      1.4314
-Guadalajara    1.4020
-Tijuana      1.3529
-Jaguares    1.2745
-Puebla      1.2059
-San Luis    1.1569
-Atlante      1.1471
-Querétaro    1.0980
-Atlas      1.0784
-Estudiantes    0.9902 (relegated)
+Team         Average
+Monterrey      1.7647
+Cruz Azul      1.7353
+Santos Laguna      1.6765
+Morelia         1.6373
+Tigres          1.5588
+América         1.5196
+Toluca         1.4706
+Pumas         1.4314
+Pachuca         1.4314
+Guadalajara      1.4020
+Tijuana         1.3529
+Jaguares      1.2745
+Puebla         1.2059
+San Luis      1.1569
+Atlante         1.1471
+Querétaro      1.0980
+Atlas         1.0784
+Estudiantes      0.9902 (relegated)
 
 
 <!-- $topscorers2$ -->
@@ -1041,24 +1035,24 @@ Santos             2-1 Monterrey
 
 Santos Laguna roster team
 
-Oswaldo Sánchez    GK
-Miguel Becerra    GK
-Jorge Iván Estrada  DEF
-Santiago Hoyos    DEF (Argentina)
-Aarón Galindo    DEF
-Felipe Baloy    DEF (Panama)
-Osmar Mares    DEF
-Rodolfo Salinas    MDF
-Daniel Ludueña    MDF
-Juan Pablo Rodríguez  MDF
-Marc Crossas    MDF (Spain)
-Carlos Adrián Morales  MDF
-Christian Suárez  FWD (Ecuador)
-Oribe Peralta    FWD
-Carlos Darwin Quintero  FWD (Colombia)
-Cándido Ramírez    FWD
-Hérculez Gómez    FWD (USA)
-Carlos Ochoa    FWD
+Oswaldo Sánchez      GK
+Miguel Becerra      GK
+Jorge Iván Estrada   DEF
+Santiago Hoyos      DEF (Argentina)
+Aarón Galindo      DEF
+Felipe Baloy      DEF (Panama)
+Osmar Mares      DEF
+Rodolfo Salinas      MDF
+Daniel Ludueña      MDF
+Juan Pablo Rodríguez   MDF
+Marc Crossas      MDF (Spain)
+Carlos Adrián Morales   MDF
+Christian Suárez   FWD (Ecuador)
+Oribe Peralta      FWD
+Carlos Darwin Quintero   FWD (Colombia)
+Cándido Ramírez      FWD
+Hérculez Gómez      FWD (USA)
+Carlos Ochoa      FWD
 
 Coach: Benjamín Galindo
 
@@ -1069,7 +1063,7 @@ Coach: Benjamín Galindo
 
 
 
-==== Liga de Ascenso  ‹§ascenso›
+== Liga de Ascenso  ‹§ascenso›
 
 ‹Apertura 2011, see §2aper› | ‹Clausura 2012, see §2clau› | ‹Promotion Playoff, see §2prom›
 
@@ -1639,10 +1633,4 @@ León              5-0 Correcaminos UAT
 
 
 León promoted
-
-
-
-
-
-<!-- $about$ -->
 

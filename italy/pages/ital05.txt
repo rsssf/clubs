@@ -1,14 +1,12 @@
-<!--
-  source: https://rsssf.org/tablesi/ital05.html
-
-  outline: -/h2/-/-/-/-
-           -/1/-/-/-/-
-    (2) ==      Italy 2004/05
- -->
-  
+  <!--
+     title:   Italy 2004/05
+     source:  https://rsssf.org/tablesi/ital05.html
+     authors: Andrea Ferrigno and Antonio Zea
+     updated: 26 Jul 2006
+    -->
 
 
-== Italy 2004/05
+
 
 
 First Level (Serie A)
@@ -1270,10 +1268,4 @@ Att: 72,034
 
 ‹list of 3rd division topscorers, see page ital3tops›.
 
-
-
-
-
-
-<!-- $about$ -->
 

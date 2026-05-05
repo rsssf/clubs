@@ -1,25 +1,18 @@
-<!--
-  source: https://rsssf.org/tablesi/ital2021.html
-
-  outline: -/h2/-/h4/-/-
-           -/1/-/3/-/-
-    (2) ==      Italy 2020/21
-    (4) ====    Serie A  ‹§seriea›
-    (4) ====    Coppa Italia  ‹§coppa›
-    (4) ====    Serie B  ‹§serieb›
-
-  aname 3: ‹§seriea›,‹§coppa›,‹§serieb›
- -->
-  
-
-
-== Italy 2020/21
+  <!--
+     title:   Italy 2020/21
+     source:  https://rsssf.org/tablesi/ital2021.html
+     authors: Roberto Di Maggio and Karel Stokkermans
+     updated: 9 Jun 2022
+    -->
 
 
 
 
 
-==== Serie A  ‹§seriea›
+
+
+
+== Serie A  ‹§seriea›
 
 <!-- $table1$ - Final Table -->
 
@@ -596,7 +589,7 @@ Torino          1-1 Benevento
 
 
 
-==== Coppa Italia  ‹§coppa›
+== Coppa Italia  ‹§coppa›
 
 ▪ Round 1 ▪
 _ Sep 22 _
@@ -670,7 +663,7 @@ Entella         2-1 AlbinoLeffe
   (Koutsoupias 30, Petrovic 38; Gosu 90+2)
 Pisa            2-0 Juve Stabia
   (Sibilli 7, 50pen)
-SPAL            0-0 Bari            (aet, 4-2 pen)
+SPAL             0-0 Bari            (aet, 4-2 pen)
 Pordenone       3-0 Casarano
   (Rossetti 20, Butic 35pen, Secli 76)
 Salernitana     3-0 Südtirol
@@ -797,11 +790,11 @@ Juventus: Buffon, Cuadrado, De Ligt, Chiellini, Danilo, McKennie, Bentancur, Rab
 
 
 
-==== Serie B  ‹§serieb›
+== Serie B  ‹§serieb›
 
 ‹Regular Season, see §2reg› | ‹Promotion Playoff, see §2prom›
 
-▪ Regular Season ▪
+=== Regular Season  ‹§2reg›
 
 <!-- $table3$ - Final Table -->
 
@@ -812,7 +805,7 @@ NB: as the difference between 16th and 17th place is not less than 4 points, no
 
 Promoted from Serie C: Como 1907, AC Perugia Calcio, Ternana Calcio, US Alessandria
 
-▪ Promotion Playoff ▪
+=== Promotion Playoff  ‹§2prom›
 
 ▪ Round 1 ▪  May 13
 Cittadella      1-0 Brescia
@@ -835,10 +828,4 @@ Cittadella      0-1 Venezia
 
 ▪ Second Leg ▪  May 27
 Venezia         1-1 Cittadella
-
-
-
-
-
-<!-- $about$ -->
 

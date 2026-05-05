@@ -1,25 +1,18 @@
-<!--
-  source: https://rsssf.org/tabless/span2019.html
-
-  outline: -/h2/-/h4/-/-
-           -/1/-/3/-/-
-    (2) ==      Spain 2018/19
-    (4) ====    Primera División  ‹§laliga›
-    (4) ====    Copa del Rey  ‹§coparey›
-    (4) ====    Segunda División (Liga Adelante)  ‹§segunda›
-
-  aname 3: ‹§laliga›,‹§coparey›,‹§segunda›
- -->
-  
-
-
-== Spain 2018/19
+  <!--
+     title:   Spain 2018/19
+     source:  https://rsssf.org/tabless/span2019.html
+     author:  Karel Stokkermans
+     updated: 28 Jan 2021    
+    -->
 
 
 
 
 
-==== Primera División  ‹§laliga›
+
+
+
+== Primera División  ‹§laliga›
 
 <!-- $table1$ - Final Table -->
 
@@ -615,7 +608,7 @@ Eibar                     2-2 Barcelona
 
 
 
-==== Copa del Rey  ‹§coparey›
+== Copa del Rey  ‹§coparey›
 
 ▪ Round 1 ▪  Sep 5
 CD Mensajero              0-3 SD Compostela
@@ -796,7 +789,7 @@ FC Barcelona              1-2 Valencia CF
 
 
 
-==== Segunda División (Liga Adelante)  ‹§segunda›
+== Segunda División (Liga Adelante)  ‹§segunda›
 
 <!-- $table4$ - Final Table -->
 
@@ -828,10 +821,4 @@ Deportivo                 2-0 Mallorca
 Mallorca                  3-0 Deportivo
 
 NB: RCD Mallorca promoted
-
-
-
-
-
-<!-- $about$ -->
 

@@ -1,16 +1,12 @@
-<!--
-  source: https://rsssf.org/tablesu/usa03.html
-
-  outline: -/h2/-/-/-/-
-           -/1/-/-/-/-
-    (2) ==      USA 2003
-
-  aname 1: ‹§voyageurs›
- -->
-  
+  <!--
+     title:   USA 2003
+     source:  https://rsssf.org/tablesu/usa03.html
+     authors: Ian King and David A. Litterer
+     updated: 11 Sep 2019    
+    -->
 
 
-== USA 2003
+
 
 MAJOR LEAGUE SOCCER (1st Division)
 
@@ -628,10 +624,4 @@ Semifinal:                 Vaughan defeated Hamilton 2-0
 ROGERS CUP:                Brampton defeated Vaughan 1-0
 
 
-
-
-
-
-
-<!-- $about$ -->
 

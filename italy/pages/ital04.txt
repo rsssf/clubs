@@ -1,14 +1,12 @@
-<!--
-  source: https://rsssf.org/tablesi/ital04.html
-
-  outline: -/h2/-/-/-/-
-           -/1/-/-/-/-
-    (2) ==      Italy 2003/04
- -->
-  
+  <!--
+     title:   Italy 2003/04
+     source:  https://rsssf.org/tablesi/ital04.html
+     authors: Andrea Ferrigno and Giacomo Giusti
+     updated: 19 Aug 2005
+    -->
 
 
-== Italy 2003/04
+
 
 First Level (Serie A)
 
@@ -4603,10 +4601,4 @@ position in regular season
 
 ‹list of 3rd division topscorers, see page ital3tops›.
 
-
-
-
-
-
-<!-- $about$ -->
 

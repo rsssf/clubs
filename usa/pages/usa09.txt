@@ -1,14 +1,12 @@
-<!--
-  source: https://rsssf.org/tablesu/usa09.html
-
-  outline: -/h2/-/-/-/-
-           -/1/-/-/-/-
-    (2) ==      USA 2009
- -->
-  
+  <!--
+     title:   USA 2009
+     source:  https://rsssf.org/tablesu/usa09.html
+     author:  David A. Litterer
+     updated: 7 May 2010    
+    -->
 
 
-== USA 2009
+
 
 
 
@@ -1134,10 +1132,4 @@ CHAMPIONSHIP:            Pali defeated Washington 2-1
 
 ‹MLS all-time table, see page usaalltime›
 
-
-
-
-
-
-<!-- $about$ -->
 

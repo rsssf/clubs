@@ -1,14 +1,12 @@
-<!--
-  source: https://rsssf.org/tablesm/mex09.html
-
-  outline: -/h2/-/-/-/-
-           -/1/-/-/-/-
-    (2) ==      Mexico 2008/09
- -->
-  
+  <!--
+     title:   Mexico 2008/09
+     source:  https://rsssf.org/tablesm/mex09.html
+     authors: Erik Francisco Lugo and Juan Pablo Andrés
+     updated: 11 Jun 2010    
+    -->
 
 
-== Mexico 2008/09
+
 
 Primera División Nacional
 
@@ -2556,10 +2554,4 @@ Monarcas Morelia champions.
 
 ‹list of topscorers, see page mextops›.
 
-
-
-
-
-
-<!-- $about$ -->
 

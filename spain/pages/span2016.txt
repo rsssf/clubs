@@ -1,25 +1,18 @@
-<!--
-  source: https://rsssf.org/tabless/span2016.html
-
-  outline: -/h2/-/h4/-/-
-           -/1/-/3/-/-
-    (2) ==      Spain 2015/16
-    (4) ====    Primera División (Liga BBVA)  ‹§laliga›
-    (4) ====    Copa del Rey  ‹§coparey›
-    (4) ====    Segunda División (Liga Adelante)  ‹§segunda›
-
-  aname 3: ‹§laliga›,‹§coparey›,‹§segunda›
- -->
-  
-
-
-== Spain 2015/16
+  <!--
+     title:   Spain 2015/16
+     source:  https://rsssf.org/tabless/span2016.html
+     author:  Karel Stokkermans
+     updated: 18 Jul 2019    
+    -->
 
 
 
 
 
-==== Primera División (Liga BBVA)  ‹§laliga›
+
+
+
+== Primera División (Liga BBVA)  ‹§laliga›
 
 <!-- $table1$ - Final Table -->
 
@@ -604,7 +597,7 @@ Sporting                  2-0 Villarreal
 
 
 
-==== Copa del Rey  ‹§coparey›
+== Copa del Rey  ‹§coparey›
 
 ▪ Round 1 ▪
 _ Aug 27 _
@@ -783,7 +776,7 @@ FC Barcelona              2-0 Sevilla FC                (aet)
 
 
 
-==== Segunda División (Liga Adelante)  ‹§segunda›
+== Segunda División (Liga Adelante)  ‹§segunda›
 
 <!-- $table3$ - Final Table -->
 
@@ -814,10 +807,4 @@ Osasuna                   2-1 Girona
 Girona                    0-1 Osasuna
 
 NB: Osasuna promoted
-
-
-
-
-
-<!-- $about$ -->
 

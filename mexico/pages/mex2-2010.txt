@@ -1,27 +1,18 @@
-<!--
-  source: https://rsssf.org/tablesm/mex2-2010.html
-
-  outline: -/h2/-/h4/-/-
-           -/1/-/5/-/-
-    (2) ==      Mexico 2009/10
-    (4) ====    Primera División Nacional  ‹§pdn›
-    (4) ====    Torneo Interliga 2010  ‹§inter›
-    (4) ====    Liga de Ascenso  ‹§ascenso›
-    (4) ====    Liga Premier de Ascenso and Liga de Ascenso de Nuevos Talentos  ‹§ascenso2›
-    (4) ====    Tercera Division Profesional  ‹§tercera›
-
-  aname 13: ‹§pdn›,‹§1aper›,‹§1clau›,‹§1agg›,‹§inter›,‹§ascenso›,‹§2aper›,‹§2clau›,‹§2releg›,‹§ascenso2›,‹§premiera›,‹§asctalent›,‹§tercera›
- -->
-  
-
-
-== Mexico 2009/10
+  <!--
+     title:   Mexico 2009/10
+     source:  https://rsssf.org/tablesm/mex2-2010.html
+     authors: Erik Francisco Lugo and Juan Pablo Andrés
+     updated: 28 Dec 2023    
+    -->
 
 
 
 
 
-==== Primera División Nacional  ‹§pdn›
+
+
+
+== Primera División Nacional  ‹§pdn›
 
 ‹Apertura 2009, see §1aper› | ‹Clausura 2010, see §1clau› | ‹Tabla Anual 2009/10, see §1agg›
 
@@ -1031,7 +1022,7 @@ Tabla Anual 2009/10  ‹§1agg›
 
 
 
-==== Torneo Interliga 2010  ‹§inter›
+== Torneo Interliga 2010  ‹§inter›
 
 NB: to decide 2 more Mexican teams in Copa Libertadores 2010
 
@@ -1094,7 +1085,7 @@ NB: winners semifinals qualify for Copa Libertadores 2010
 
 
 
-==== Liga de Ascenso  ‹§ascenso›
+== Liga de Ascenso  ‹§ascenso›
 
 ‹Apertura 2009, see §2aper› | ‹Clausura 2010, see §2clau› | ‹Relegation Table, see §2releg›
 
@@ -1796,7 +1787,7 @@ NB: Guerreros de Hermosillo eventually allowed to remain at 2nd level
 
 
 
-==== Liga Premier de Ascenso and Liga de Ascenso de Nuevos Talentos  ‹§ascenso2›
+== Liga Premier de Ascenso and Liga de Ascenso de Nuevos Talentos  ‹§ascenso2›
 
 ‹Liga Premier de Ascenso, see §premiera› | ‹Liga de Ascenso de Nuevos Talentos, see §asctalent›
 
@@ -2002,7 +1993,7 @@ later revoked by Mexican FA
 
 
 
-==== Tercera Division Profesional  ‹§tercera›
+== Tercera Division Profesional  ‹§tercera›
 
 
 <!-- $table32$ - Group 1 -->
@@ -2273,10 +2264,4 @@ Guadalajara champions.
 "Filiales" cannot promote to Third Level
 
 
-
-
-
-
-
-<!-- $about$ -->
 

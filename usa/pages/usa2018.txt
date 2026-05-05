@@ -1,24 +1,18 @@
-<!--
-  source: https://rsssf.org/tablesu/usa2018.html
-
-  outline: -/h2/-/h4/-/-
-           -/1/-/2/-/-
-    (2) ==      USA 2018
-    (4) ====    Major League Soccer  ‹§mls›
-    (4) ====    US Open Cup  ‹§open›
-
-  aname 2: ‹§mls›,‹§open›
- -->
-  
-
-
-== USA 2018
+  <!--
+     title:   USA 2018
+     source:  https://rsssf.org/tablesu/usa2018.html
+     author:  Karel Stokkermans
+     updated: 10 Jan 2020    
+    -->
 
 
 
 
 
-==== Major League Soccer  ‹§mls›
+
+
+
+== Major League Soccer  ‹§mls›
 
 ‹Regular Season, see §reg› | ‹Championship Playoff, see §play›
 
@@ -625,7 +619,7 @@ Atlanta United FC      2-0 Portland Timbers
 
 
 
-==== US Open Cup  ‹§open›
+== US Open Cup  ‹§open›
 
 ▪ Third Round ▪
 _ May 22 _
@@ -689,10 +683,4 @@ Houston Dynamo                  3-3 Los Angeles FC                  (aet, 7-6 pe
 
 ▪ Final ▪  Sep 26 @ BBVA Compass Stadium, Houston, Texas
 Houston Dynamo                  3-0 Philadelphia Union
-
-
-
-
-
-<!-- $about$ -->
 

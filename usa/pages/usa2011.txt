@@ -1,24 +1,18 @@
-<!--
-  source: https://rsssf.org/tablesu/usa2011.html
-
-  outline: -/h2/-/h4/-/-
-           -/1/-/2/-/-
-    (2) ==      USA 2011
-    (4) ====    Major League Soccer  ‹§mls›
-    (4) ====    US Open Cup  ‹§open›
-
-  aname 2: ‹§mls›,‹§open›
- -->
-  
-
-
-== USA 2011
+  <!--
+     title:   USA 2011
+     source:  https://rsssf.org/tablesu/usa2011.html
+     author:  Karel Stokkermans
+     updated: 24 Dec 2023    
+    -->
 
 
 
 
 
-==== Major League Soccer  ‹§mls›
+
+
+
+== Major League Soccer  ‹§mls›
 
 ‹Regular Season, see §reg› | ‹Championship Playoff, see §play›
 
@@ -97,7 +91,7 @@ Los Angeles Galaxy     1-0 Houston Dynamo
 
 
 
-==== US Open Cup  ‹§open›
+== US Open Cup  ‹§open›
 
 ▪ Third Round ▪  Jun 28
 Columbus Crew          1-2 Richmond Kickers
@@ -123,10 +117,4 @@ Seattle Sounders       1-0 FC Dallas
 
 ▪ Final ▪  Oct 4
 Seattle Sounders       2-0 Chicago Fire
-
-
-
-
-
-<!-- $about$ -->
 

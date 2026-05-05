@@ -1,26 +1,18 @@
-<!--
-  source: https://rsssf.org/tablesm/mex2011.html
-
-  outline: -/h2/-/h4/-/-
-           -/1/-/4/-/-
-    (2) ==      Mexico 2010/11
-    (4) ====    Primera División Nacional  ‹§pdn›
-    (4) ====    Liga de Ascenso  ‹§ascenso›
-    (4) ====    Liga Premier de Ascenso and Liga de Ascenso de Nuevos Talentos  ‹§ascenso2›
-    (4) ====    Tercera Division Profesional  ‹§tercera›
-
-  aname 11: ‹§pdn›,‹§1aper›,‹§1clau›,‹§ascenso›,‹§2aper›,‹§2clau›,‹§2releg›,‹§ascenso2›,‹§premiera›,‹§asctalent›,‹§tercera›
- -->
-  
-
-
-== Mexico 2010/11
+  <!--
+     title:   Mexico 2010/11
+     source:  https://rsssf.org/tablesm/mex2011.html
+     authors: Erik Francisco Lugo and Juan Pablo Andrés
+     updated: 28 Dec 2023    
+    -->
 
 
 
 
 
-==== Primera División Nacional  ‹§pdn›
+
+
+
+== Primera División Nacional  ‹§pdn›
 
 ‹Apertura 2010, see §1aper› | ‹Clausura 2011, see §1clau›
 
@@ -1020,7 +1012,7 @@ Pumas             2-1 Morelia
 
 
 
-==== Liga de Ascenso  ‹§ascenso›
+== Liga de Ascenso  ‹§ascenso›
 
 ‹Apertura 2010, see §2aper› | ‹Clausura 2011, see §2clau› | ‹Promotion Playoff, see §2prom› | ‹Relegation Table, see §2releg›
 
@@ -1763,7 +1755,7 @@ Guerreros de Hermosillo    80    30      20       0       50 0,6250 Withdrew and
 
 
 
-==== Liga Premier de Ascenso and Liga de Ascenso de Nuevos Talentos  ‹§ascenso2›
+== Liga Premier de Ascenso and Liga de Ascenso de Nuevos Talentos  ‹§ascenso2›
 
 ‹Liga Premier de Ascenso, see §premiera› | ‹Liga de Ascenso de Nuevos Talentos, see §asctalent›
 
@@ -2076,7 +2068,7 @@ FICUMDEP de Xalapa AC relegated.
 
 
 
-==== Tercera Division Profesional  ‹§tercera›
+== Tercera Division Profesional  ‹§tercera›
 
 <!-- $table28$ - Group 1 -->
 
@@ -2374,10 +2366,4 @@ Cruz Azul Dublán champions.
 "Filiales" cannot promote to Third Level
 
 
-
-
-
-
-
-<!-- $about$ -->
 

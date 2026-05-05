@@ -1,25 +1,18 @@
-<!--
-  source: https://rsssf.org/tablesi/ital2012.html
-
-  outline: -/h2/-/h4/-/-
-           -/1/-/3/-/-
-    (2) ==      Italy 2011/12
-    (4) ====    Serie A  ‹§seriea›
-    (4) ====    Coppa Italia  ‹§coppa›
-    (4) ====    Serie B  ‹§serieb›
-
-  aname 3: ‹§seriea›,‹§coppa›,‹§serieb›
- -->
-  
-
-
-== Italy 2011/12
+  <!--
+     title:   Italy 2011/12
+     source:  https://rsssf.org/tablesi/ital2012.html
+     authors: Roberto Di Maggio, Jan Schoenmakers and Karel Stokkermans
+     updated: 14 Jan 2021
+    -->
 
 
 
 
 
-==== Serie A  ‹§seriea›
+
+
+
+== Serie A  ‹§seriea›
 
 <!-- $table1$ - Final Table -->
 
@@ -51,7 +44,7 @@ AC Chievo Verona     0-0 0-1 2-0 3-2 1-0 1-0 2-1 0-0 0-1 0-2 1-0 1-0 2-2 1-0 1-2
 
 
 
-==== Coppa Italia  ‹§coppa›
+== Coppa Italia  ‹§coppa›
 
 ▪ First Round ▪
 _ Aug 6 _
@@ -269,11 +262,11 @@ Juventus: Storari, Barzagli, Bonucci, Caceres, Pirlo,
 
 
 
-==== Serie B  ‹§serieb›
+== Serie B  ‹§serieb›
 
 ‹Regular Season, see §2reg› | ‹Promotion Playoff, see §2prom› | ‹Relegation Playoff, see §2releg›
 
-▪ Regular Season ▪
+=== Regular Season  ‹§2reg›
 
 <!-- $table2$ - Final Table -->
 
@@ -302,7 +295,7 @@ AS Varese            2-1 4-0 0-2 2-2 0-1 0-0 0-1 1-3 1-0 2-1 0-2 0-0 2-1 3-0 2-1
 Hellas Verona FC     1-0 2-0 4-1 1-0 3-2 2-1 0-0 2-0 1-0 2-0 1-0 2-1 1-1 2-2 1-2 1-0 1-1 1-0 1-3 3-0     2-0
 Vicenza Calcio       2-1 1-1 3-1 0-1 1-4 1-1 1-0 0-1 3-1 0-3 1-1 2-1 0-1 0-1 1-1 0-0 1-1 0-1 0-1 0-2 2-1
 
-▪ Promotion Playoff ▪
+=== Promotion Playoff  ‹§2prom›
 
 ▪ Semifinals ▪
 
@@ -324,7 +317,7 @@ Varese      0-1 Sampdoria
 
 NB: Sampdoria promoted
 
-▪ Relegation Playoff ▪
+=== Relegation Playoff  ‹§2releg›
 
 ▪ First Leg ▪  Jun 3
 Vicenza     0-0 Empoli
@@ -335,10 +328,4 @@ Empoli      3-2 Vicenza
 NB: Vicenza relegated but later readmitted to Serie B due to the forced
     relegation of Lecce to the third level
 
-
-
-
-
-
-<!-- $about$ -->
 

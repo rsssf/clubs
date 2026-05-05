@@ -1,25 +1,18 @@
-<!--
-  source: https://rsssf.org/tabless/span2022.html
-
-  outline: -/h2/-/h4/-/-
-           -/1/-/3/-/-
-    (2) ==      Spain 2021/22
-    (4) ====    Primera División  ‹§laliga›
-    (4) ====    Segunda División  ‹§segunda›
-    (4) ====    Primera RFEF  ‹§1rfef›
-
-  aname 5: ‹§laliga›,‹§segunda›,‹§1rfef›,‹§3g1›,‹§3g2›
- -->
-  
-
-
-== Spain 2021/22
+  <!--
+     title:   Spain 2021/22
+     source:  https://rsssf.org/tabless/span2022.html
+     author:  Karel Stokkermans
+     updated: 28 Jun 2023    
+    -->
 
 
 
 
 
-==== Primera División  ‹§laliga›
+
+
+
+== Primera División  ‹§laliga›
 
 <!-- $table1$ - Final Table -->
 
@@ -625,7 +618,7 @@ Sevilla                   1-0 Athletic
 
 
 
-==== Segunda División  ‹§segunda›
+== Segunda División  ‹§segunda›
 
 <!-- $table3$ - Final Table -->
 
@@ -658,7 +651,7 @@ Tenerife                  1-3 Girona
 
 
 
-==== Primera RFEF  ‹§1rfef›
+== Primera RFEF  ‹§1rfef›
 
 ‹Grupo 1, see §3g1› | ‹Grupo 2, see §3g2› | ‹Final, see §3gf› | ‹Promotion Playoff, see §3gp›
 
@@ -700,10 +693,4 @@ Promoted from 4th level: AD Ceuta FC, Córdoba CF, CD Eldense, CF Intercity (Ali
                          CF La Nucía, AD Mérida, Real Murcia CF, CD Numancia (Soria),
                          CA Osasuna B (Pamplona), Pontevedra CF
 
-
-
-
-
-
-<!-- $about$ -->
 

@@ -1,25 +1,18 @@
-<!--
-  source: https://rsssf.org/tabless/span2020.html
-
-  outline: -/h2/-/h4/-/-
-           -/1/-/3/-/-
-    (2) ==      Spain 2019/20
-    (4) ====    Primera División  ‹§laliga›
-    (4) ====    Copa del Rey  ‹§coparey›
-    (4) ====    Segunda División (Liga Adelante)  ‹§segunda›
-
-  aname 3: ‹§laliga›,‹§coparey›,‹§segunda›
- -->
-  
-
-
-== Spain 2019/20
+  <!--
+     title:   Spain 2019/20
+     source:  https://rsssf.org/tabless/span2020.html
+     author:  Karel Stokkermans
+     updated: 8 Apr 2021    
+    -->
 
 
 
 
 
-==== Primera División  ‹§laliga›
+
+
+
+== Primera División  ‹§laliga›
 
 <!-- $table1$ - Final Table -->
 
@@ -602,7 +595,7 @@ Sevilla                   1-0 Valencia
 
 
 
-==== Copa del Rey  ‹§coparey›
+== Copa del Rey  ‹§coparey›
 
 ▪ Preliminary Round ▪  Nov 13
 CD Becerril               1-0 Urraca CF
@@ -775,7 +768,7 @@ Athletic Club (Bilbao)    0-1 Real Sociedad
 
 
 
-==== Segunda División (Liga Adelante)  ‹§segunda›
+== Segunda División (Liga Adelante)  ‹§segunda›
 
 <!-- $table4$ - Final Table -->
 
@@ -802,10 +795,4 @@ Elche                     0-0 Girona
 Girona                    0-1 Elche
 
 NB: Elche CF promoted
-
-
-
-
-
-<!-- $about$ -->
 

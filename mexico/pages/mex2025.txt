@@ -1,26 +1,18 @@
-<!--
-  source: https://rsssf.org/tablesm/mex2025.html
-
-  outline: -/h2/-/h4/-/-
-           -/1/-/4/-/-
-    (2) ==      Mexico 2024/25
-    (4) ====    Liga MX  ‹§pdn›
-    (4) ====    Campeón de Campeones  ‹§campcamp›
-    (4) ====    Liga Expansión MX  ‹§ascenso›
-    (4) ====    Liga 4  ‹§lig4›
-
-  aname 8: ‹§pdn›,‹§1aper›,‹§1clau›,‹§campcamp›,‹§ascenso›,‹§2aper›,‹§2clau›,‹§lig4›
- -->
-  
-
-
-== Mexico 2024/25
+  <!--
+     title:   Mexico 2024/25
+     source:  https://rsssf.org/tablesm/mex2025.html
+     author:  Erik Francisco Lugo
+     updated: 19 Dec 2025    
+    -->
 
 
 
 
 
-==== Liga MX  ‹§pdn›
+
+
+
+== Liga MX  ‹§pdn›
 
 ‹Apertura 2024, see §1aper› | ‹Clausura 2025, see §1clau›
 
@@ -976,7 +968,7 @@ FC Juárez            0-2 Querétaro
 
 Relegation Table
 
-Team      Average
+Team         Average
 América                 2.0392
 Monterrey               1.9510
 Toluca                  1.8039
@@ -1120,7 +1112,7 @@ Coach: Antonio Mohamed (ARG)
 
 
 
-==== Campeón de Campeones  ‹§campcamp›
+== Campeón de Campeones  ‹§campcamp›
 
 Between the winners of Apertura 2024 (América) and Clausura 2025 (Toluca)
 
@@ -1133,7 +1125,7 @@ América               1-3 Toluca
 
 
 
-==== Liga Expansión MX  ‹§ascenso›
+== Liga Expansión MX  ‹§ascenso›
 
 ‹Apertura 2024, see §2aper› | ‹Clausura 2025, see §2clau›
 
@@ -1664,23 +1656,23 @@ Correcaminos UAT bye
 
 Relegation Table
 
-Team      Average
-Atlante                 1.9000
-Leones Negros           1.8333
-Club Celaya              1.8000
-Venados FC              1.6000
-Tapatío      1.5222
-Jaiba Brava              1.5000
-Mineros                 1.4333
-Atlético Morelia      1.3667
-Cancún FC             1.3333
-Tepatitlán FC            1.2667
-Correcaminos UAT        1.1556
+Team         Average
+Atlante                  1.9000
+Leones Negros            1.8333
+Club Celaya               1.8000
+Venados FC               1.6000
+Tapatío        1.5222
+Jaiba Brava               1.5000
+Mineros                  1.4333
+Atlético Morelia       1.3667
+Cancún FC              1.3333
+Tepatitlán FC             1.2667
+Correcaminos UAT         1.1556
 La Paz                  1.1333
 ------------------------------
-Dorados Sinaloa         0.9889 (*)
-Alebrijes               0.9778 (*)
-Tlaxcala FC              0.9778 (*)
+Dorados Sinaloa          0.9889 (*)
+Alebrijes                0.9778 (*)
+Tlaxcala FC               0.9778 (*)
 
 (*) Due to suspension of Promotion and Relegation the last 3 teams of the relegation table were fined with:
 
@@ -1751,7 +1743,7 @@ Leones Negros    1-2 Tapatío
 
 
 
-==== Liga 4  ‹§lig4›
+== Liga 4  ‹§lig4›
 
 ▪ Group Stage ▪
 
@@ -1786,10 +1778,4 @@ Zona 4
 Lázaro Cardenas  1-2 Leones Naranjas
 
 NB: Leones Naranjas FC promoted to Tercera Division
-
-
-
-
-
-<!-- $about$ -->
 

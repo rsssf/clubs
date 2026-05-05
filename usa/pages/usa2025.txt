@@ -1,24 +1,18 @@
-<!--
-  source: https://rsssf.org/tablesu/usa2025.html
-
-  outline: -/h2/-/h4/-/-
-           -/1/-/2/-/-
-    (2) ==      USA 2025
-    (4) ====    Major League Soccer  ‹§mls›
-    (4) ====    US Open Cup  ‹§open›
-
-  aname 2: ‹§mls›,‹§open›
- -->
-  
-
-
-== USA 2025
+  <!--
+     title:   USA 2025
+     source:  https://rsssf.org/tablesu/usa2025.html
+     author:  Karel Stokkermans
+     updated: 7 Dec 2025    
+    -->
 
 
 
 
 
-==== Major League Soccer  ‹§mls›
+
+
+
+== Major League Soccer  ‹§mls›
 
 ‹Regular Season, see §reg› | ‹Championship Playoff, see §chplay›
 
@@ -117,7 +111,7 @@ Inter Miami            3-1 Vancouver Whitecaps
 
 
 
-==== US Open Cup  ‹§open›
+== US Open Cup  ‹§open›
 
 ▪ 1/8 Finals ▪
 _ May 20 _
@@ -149,10 +143,4 @@ Minnesota United       1-2 Austin FC              (aet)
 ▪ Final ▪  Oct 1
 Austin FC              1-2 Nashville SC
 
-
-
-
-
-
-<!-- $about$ -->
 

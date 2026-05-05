@@ -1,25 +1,18 @@
-<!--
-  source: https://rsssf.org/tablesi/ital2014.html
-
-  outline: -/h2/-/h4/-/-
-           -/1/-/3/-/-
-    (2) ==      Italy 2013/14
-    (4) ====    Serie A  ‹§seriea›
-    (4) ====    Coppa Italia  ‹§coppa›
-    (4) ====    Serie B  ‹§serieb›
-
-  aname 3: ‹§seriea›,‹§coppa›,‹§serieb›
- -->
-  
-
-
-== Italy 2013/14
+  <!--
+     title:   Italy 2013/14
+     source:  https://rsssf.org/tablesi/ital2014.html
+     author:  Karel Stokkermans
+     updated: 14 Jan 2021
+    -->
 
 
 
 
 
-==== Serie A  ‹§seriea›
+
+
+
+== Serie A  ‹§seriea›
 
 <!-- $table1$ - Final Table -->
 
@@ -586,7 +579,7 @@ Parma       2-0 Livorno
 
 
 
-==== Coppa Italia  ‹§coppa›
+== Coppa Italia  ‹§coppa›
 
 ▪ First Round ▪
 _ Aug 3 _
@@ -800,11 +793,11 @@ Fiorentina: Neto, Gonzalo Rodriguez, Savic, Pasqual (56 Mati
 
 
 
-==== Serie B  ‹§serieb›
+== Serie B  ‹§serieb›
 
 ‹Regular Season, see §2reg› | ‹Promotion Playoff, see §2prom› |  ‹Relegation Playoff, see §2rel›
 
-▪ Regular Season ▪
+=== Regular Season  ‹§2reg›
 
 <!-- $table3$ - Final Table -->
 
@@ -814,7 +807,7 @@ NB: AC Siena were dissolved at the end of the season due to bankruptcy; the club
 
 Promoted: Virtus Entella, Pro Vercelli, Perugia, Frosinone, Vicenza
 
-▪ Promotion Playoff ▪
+=== Promotion Playoff  ‹§2prom›
 
 ▪ Round 1 ▪  Jun 3
 Crotone     0-3 Bari
@@ -842,7 +835,7 @@ Latina      1-2 Cesena
 
 NB: Cesena promoted
 
-▪ Relegation Playoff ▪
+=== Relegation Playoff  ‹§2rel›
 
 ▪ First Leg ▪  Jun 6
 Novara      0-2 Varese
@@ -851,10 +844,4 @@ Novara      0-2 Varese
 Varese      2-2 Novara
 
 NB: Novara relegated
-
-
-
-
-
-<!-- $about$ -->
 

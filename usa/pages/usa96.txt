@@ -1,14 +1,12 @@
-<!--
-  source: https://rsssf.org/tablesu/usa96.html
-
-  outline: -/h2/-/-/-/-
-           -/1/-/-/-/-
-    (2) ==      USA 1996
- -->
-  
+  <!--
+     title:   USA 1996
+     source:  https://rsssf.org/tablesu/usa96.html
+     author:  Dave Litterer
+     updated: 7 Aug 2004    
+    -->
 
 
-== USA 1996
+
 
                          MAJOR LEAGUE SOCCER (1st Division)
 
@@ -803,7 +801,7 @@ CHAMPIONSHIP:           San Luis Obispo defeated San Francisco 1-0
                          CONTINENTAL INDOOR SOCCER LEAGUE
 
                           GP   W   L  Pct. GB   GF  GA
-  Eastern Division
+   Eastern Division
 Monterrey La Raza         28  18  10 .643  --- 196  159
 Houston Hotshots          28  18  10 .643  --- 186  167
 Dallas Sidekicks          28  16  12 .571   2  212  181
@@ -812,7 +810,7 @@ Detroit Neon              28  13  15 .464   5  173  197
 Indianapolis Twisters     28  10  18 .357   8  160  188
 
 
-  Western Division
+   Western Division
 San Diego Sockers         28  17  11 .607  --- 173  156
 Anaheim Splash            28  15  13 .536   2  180  169
 Sacramento Knights        28  14  14 .500   3  143  153
@@ -953,10 +951,4 @@ DC United 3-0 Rochester Raging Rhinos
 
 ‹MLS all-time table, see page usaalltime›
 
-
-
-
-
-
-<!-- $about$ -->
 

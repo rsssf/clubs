@@ -1,24 +1,18 @@
-<!--
-  source: https://rsssf.org/tablesu/usa2016.html
-
-  outline: -/h2/-/h4/-/-
-           -/1/-/2/-/-
-    (2) ==      USA 2016
-    (4) ====    Major League Soccer  ‹§mls›
-    (4) ====    US Open Cup  ‹§open›
-
-  aname 2: ‹§mls›,‹§open›
- -->
-  
-
-
-== USA 2016
+  <!--
+     title:   USA 2016
+     source:  https://rsssf.org/tablesu/usa2016.html
+     author:  Karel Stokkermans
+     updated: 10 Jan 2020    
+    -->
 
 
 
 
 
-==== Major League Soccer  ‹§mls›
+
+
+
+== Major League Soccer  ‹§mls›
 
 ‹Regular Season, see §reg› | ‹Championship Playoff, see §play›
 
@@ -564,7 +558,7 @@ Toronto FC             0-0 Seattle Sounders       (aet, 4-5 pen)
 
 
 
-==== US Open Cup  ‹§open›
+== US Open Cup  ‹§open›
 
 ▪ Third Round ▪  Jun 1
 Fort Lauderdale Strikers (NASL) 1-1 Richmond Kickers (USL)          (aet, 2-0 pen)
@@ -630,10 +624,4 @@ LA Galaxy                       1-2 FC Dallas                       (aet)
 ▪ Final ▪  Sep 13 @ Frisco, Texas
 FC Dallas                       4-2 New England Revolution
 
-
-
-
-
-
-<!-- $about$ -->
 

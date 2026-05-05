@@ -1,24 +1,18 @@
-<!--
-  source: https://rsssf.org/tablesu/usa2012.html
-
-  outline: -/h2/-/h4/-/-
-           -/1/-/2/-/-
-    (2) ==      USA 2012
-    (4) ====    Major League Soccer  ‹§mls›
-    (4) ====    US Open Cup  ‹§open›
-
-  aname 2: ‹§mls›,‹§open›
- -->
-  
-
-
-== USA 2012
+  <!--
+     title:   USA 2012
+     source:  https://rsssf.org/tablesu/usa2012.html
+     author:  Ian King
+     updated: 14 Mar 2013    
+    -->
 
 
 
 
 
-==== Major League Soccer  ‹§mls›
+
+
+
+== Major League Soccer  ‹§mls›
 
 ‹Regular Season, see §reg› | ‹Championship Playoff, see §play›
 
@@ -109,7 +103,7 @@ NB: both finalists had to qualify through the wild card games; both had also
 
 
 
-==== US Open Cup  ‹§open›
+== US Open Cup  ‹§open›
 
 ▪ Fourth Round ▪  Jun 5
 Carolina RailHawks         1-2 Chivas USA
@@ -133,10 +127,4 @@ Seattle Sounders           4-1 Chivas USA
 
 ▪ Final ▪  Aug 8
 Sporting Kansas City       1-1 Seattle Sounders           (aet, 3-2 pen)
-
-
-
-
-
-<!-- $about$ -->
 

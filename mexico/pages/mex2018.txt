@@ -1,28 +1,18 @@
-<!--
-  source: https://rsssf.org/tablesm/mex2018.html
-
-  outline: -/h2/-/h4/-/-
-           -/1/-/6/-/-
-    (2) ==      Mexico 2017/18
-    (4) ====    Liga MX  ‹§pdn›
-    (4) ====    Copa MX Apertura 2017  ‹§copa›
-    (4) ====    Copa MX Clausura 2018  ‹§copac›
-    (4) ====    Campeón de Campeones  ‹§campcamp›
-    (4) ====    Supercopa MX  ‹§supcopa›
-    (4) ====    Ascenso MX  ‹§ascenso›
-
-  aname 10: ‹§pdn›,‹§1aper›,‹§1clau›,‹§copa›,‹§copac›,‹§campcamp›,‹§supcopa›,‹§ascenso›,‹§2aper›,‹§2clau›
- -->
-  
-
-
-== Mexico 2017/18
+  <!--
+     title:   Mexico 2017/18
+     source:  https://rsssf.org/tablesm/mex2018.html
+     author:  Erik Francisco Lugo
+     updated: 18 Feb 2021    
+    -->
 
 
 
 
 
-==== Liga MX  ‹§pdn›
+
+
+
+== Liga MX  ‹§pdn›
 
 
 ‹Apertura 2017, see §1aper› | ‹Clausura 2018, see §1clau›
@@ -231,7 +221,7 @@ _ Sep 16 _
 Cruz Azul          2-1 Santos
   (Felipe Mora 54, Christian Giménez 69; Julio César Furch 12)
 Monterrey          2-1 Atlas
-  (Avilés Hurtado 23, Rogelio Funes Mori 85; Brayan Garnica   28)
+  (Avilés Hurtado 23, Rogelio Funes Mori 85; Brayan Garnica    28)
 León               3-1 Pachuca
   (Mauro Boselli 3, Luis Arturo Montes 24, Andrés Andrade 27; Ángelo Sagal 52)
 Necaxa             1-1 Puebla
@@ -495,28 +485,28 @@ Monterrey          1-2 Tigres
 
 Tigres UANL roster team
 
-Nahuel Guzmán      GK  (Argentina)
-Enrique Palos      GK
-Anselmo Vendrechovski    DEF (Brazil)
-Hugo Ayala      DEF
-Israel Jiménez      DEF
-Jorge Torres Nilo    DEF
+Nahuel Guzmán        GK  (Argentina)
+Enrique Palos        GK
+Anselmo Vendrechovski     DEF (Brazil)
+Hugo Ayala        DEF
+Israel Jiménez        DEF
+Jorge Torres Nilo     DEF
 Timothée Kolodziedjczak  DEF (France)
-Francisco Meza      DEF (Colombia)
-Jorge Estrada      DEF
-Luis Rodríguez      DEF
-Alberto Acosta           DEF
-Rafael De Souza      MDF (Brazil)
-Javier Aquino      MDF
-Jesús Alberto Dueñas    MDF
-Jürgen Damm      MDF
-Damián Ariel Álvarez    MDF (Argentina/Mexico)
-André-Pierre Gignac    FWD (France)
-Enner Valencia       FWD (Ecuador)
-Lucas Zelarayán      FWD (Argentina)
-Eduardo Vargas      FWD (Chile)
-Larry Vázquez      FWD (Colombia)
-Ismael Sosa      FWD (Argentina)
+Francisco Meza        DEF (Colombia)
+Jorge Estrada        DEF
+Luis Rodríguez        DEF
+Alberto Acosta            DEF
+Rafael De Souza        MDF (Brazil)
+Javier Aquino        MDF
+Jesús Alberto Dueñas     MDF
+Jürgen Damm        MDF
+Damián Ariel Álvarez     MDF (Argentina/Mexico)
+André-Pierre Gignac     FWD (France)
+Enner Valencia         FWD (Ecuador)
+Lucas Zelarayán        FWD (Argentina)
+Eduardo Vargas        FWD (Chile)
+Larry Vázquez        FWD (Colombia)
+Ismael Sosa        FWD (Argentina)
 
 Coach: Ricardo Ferreti (BRA)
 
@@ -939,7 +929,7 @@ Veracruz           1-2 Cruz Azul
 
 Relegation Table
 
-Team      Average
+Team         Average
 Monterrey              1.7451
 Toluca                 1.6667
 América                1.6471
@@ -1058,7 +1048,7 @@ Coach: Robert Dante Siboldi (URU)
 
 
 
-==== Copa MX Apertura 2017  ‹§copa›
+== Copa MX Apertura 2017  ‹§copa›
 
 ‹Group Stage, see §copagrp› | ‹Playoff Stage, see §copaplay›
 
@@ -1348,7 +1338,7 @@ Coach: Antonio Mohamed (ARG)
 
 
 
-==== Copa MX Clausura 2018  ‹§copac›
+== Copa MX Clausura 2018  ‹§copac›
 
 ‹Group Stage, see §copacgrp› | ‹Playoff Stage, see §copacplay›
 
@@ -1636,7 +1626,7 @@ Coach: Ignacio Ambriz
 
 
 
-==== Campeón de Campeones  ‹§campcamp›
+== Campeón de Campeones  ‹§campcamp›
 
 Between winners of Liga MX Apertura 2017 (Tigres) and winners of Liga MX
 Clausura 2018 (Santos Laguna), winners qualified to Campeones Cup against
@@ -1654,7 +1644,7 @@ Tigres           4-0 Santos
 
 
 
-==== Supercopa MX  ‹§supcopa›
+== Supercopa MX  ‹§supcopa›
 
 Between winners of Copa MX Apertura 2017 (Monterrey) and winners of
 Copa MX Clausura 2018 (Necaxa)
@@ -1672,7 +1662,7 @@ Monterrey        0-1 Necaxa
 
 
 
-==== Ascenso MX  ‹§ascenso›
+== Ascenso MX  ‹§ascenso›
 
 ‹Apertura 2017, see §2aper› | ‹Clausura 2018, see §2clau› | ‹Promotion Playoff, see §2prom›
 
@@ -2185,7 +2175,7 @@ Leones Negros        2-0 Atlético de San Luis
 
 Relegation Table
 
-Team      Average
+Team         Average
 Mineros               1.7234
 Dorados Sinaloa       1.6250
 Celaya FC             1.6064
@@ -2268,10 +2258,4 @@ As Cafetaleros is not a certified team, they could not be promoted to First Leve
 In compensation Lobos BUAP (relegated from first level) paid USD 6 million dollars
 to remain at first level.
 
-
-
-
-
-
-<!-- $about$ -->
 

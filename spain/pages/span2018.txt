@@ -1,25 +1,18 @@
-<!--
-  source: https://rsssf.org/tabless/span2018.html
-
-  outline: -/h2/-/h4/-/-
-           -/1/-/3/-/-
-    (2) ==      Spain 2017/18
-    (4) ====    Primera División  ‹§laliga›
-    (4) ====    Copa del Rey  ‹§coparey›
-    (4) ====    Segunda División (Liga Adelante)  ‹§segunda›
-
-  aname 3: ‹§laliga›,‹§coparey›,‹§segunda›
- -->
-  
-
-
-== Spain 2017/18
+  <!--
+     title:   Spain 2017/18
+     source:  https://rsssf.org/tabless/span2018.html
+     author:  Karel Stokkermans
+     updated: 29 Sep 2020    
+    -->
 
 
 
 
 
-==== Primera División  ‹§laliga›
+
+
+
+== Primera División  ‹§laliga›
 
 <!-- $table1$ - Final Table -->
 
@@ -622,7 +615,7 @@ Barcelona                 1-0 Sociedad
 
 
 
-==== Copa del Rey  ‹§coparey›
+== Copa del Rey  ‹§coparey›
 
 ▪ Round 1 ▪
 _ Aug 30 _
@@ -803,7 +796,7 @@ Sevilla FC                0-5 FC Barcelona
 
 
 
-==== Segunda División (Liga Adelante)  ‹§segunda›
+== Segunda División (Liga Adelante)  ‹§segunda›
 
 <!-- $table3$ - Final Table -->
 
@@ -835,10 +828,4 @@ Numancia                  0-3 Valladolid
 Valladolid                1-1 Numancia
 
 NB: Real Valladolid promoted
-
-
-
-
-
-<!-- $about$ -->
 

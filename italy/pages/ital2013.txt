@@ -1,25 +1,18 @@
-<!--
-  source: https://rsssf.org/tablesi/ital2013.html
-
-  outline: -/h2/-/h4/-/-
-           -/1/-/3/-/-
-    (2) ==      Italy 2012/13
-    (4) ====    Serie A  ‹§seriea›
-    (4) ====    Coppa Italia  ‹§coppa›
-    (4) ====    Serie B  ‹§serieb›
-
-  aname 3: ‹§seriea›,‹§coppa›,‹§serieb›
- -->
-  
-
-
-== Italy 2012/13
+  <!--
+     title:   Italy 2012/13
+     source:  https://rsssf.org/tablesi/ital2013.html
+     authors: Roberto Di Maggio and Karel Stokkermans
+     updated: 14 Jan 2021
+    -->
 
 
 
 
 
-==== Serie A  ‹§seriea›
+
+
+
+== Serie A  ‹§seriea›
 
 <!-- $table1$ - Final Table -->
 
@@ -577,7 +570,7 @@ Torino      2-2 Catania
 
 
 
-==== Coppa Italia  ‹§coppa›
+== Coppa Italia  ‹§coppa›
 
 ▪ First Round ▪
 _ Aug 4 _
@@ -794,17 +787,17 @@ Lazio: Marchetti, Konko, Biava, Cana, Radu, Ledesma
 
 
 
-==== Serie B  ‹§serieb›
+== Serie B  ‹§serieb›
 
 ‹Regular Season, see §2reg› | ‹Promotion Playoff, see §2prom›
 
-▪ Regular Season ▪
+=== Regular Season  ‹§2reg›
 
 <!-- $table3$ - Final Table -->
 
 Promoted: Avellino, Carpi, Latina, Trapani
 
-▪ Promotion Playoff ▪
+=== Promotion Playoff  ‹§2prom›
 
 ▪ Semifinals ▪
 
@@ -827,10 +820,4 @@ Empoli      1-1 Livorno
 Livorno     1-0 Empoli
 
 NB: Livorno promoted
-
-
-
-
-
-<!-- $about$ -->
 

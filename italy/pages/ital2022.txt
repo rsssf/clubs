@@ -1,25 +1,18 @@
-<!--
-  source: https://rsssf.org/tablesi/ital2022.html
-
-  outline: -/h2/-/h4/-/-
-           -/1/-/3/-/-
-    (2) ==      Italy 2021/22
-    (4) ====    Serie A  ‹§seriea›
-    (4) ====    Coppa Italia  ‹§coppa›
-    (4) ====    Serie B  ‹§serieb›
-
-  aname 3: ‹§seriea›,‹§coppa›,‹§serieb›
- -->
-  
-
-
-== Italy 2021/22
+  <!--
+     title:   Italy 2021/22
+     source:  https://rsssf.org/tablesi/ital2022.html
+     authors: Roberto Di Maggio and Karel Stokkermans
+     updated: 25 Sep 2022
+    -->
 
 
 
 
 
-==== Serie A  ‹§seriea›
+
+
+
+== Serie A  ‹§seriea›
 
 <!-- $table1$ - Final Table -->
 
@@ -605,7 +598,7 @@ Venezia         0-0 Cagliari
 
 
 
-==== Coppa Italia  ‹§coppa›
+== Coppa Italia  ‹§coppa›
 
 ▪ Preliminary Round ▪
 _ Aug 7 _
@@ -748,17 +741,17 @@ Inter: Handanovic, Skriniar, De Vrij, D'Ambrosio (63 Dimarco), Darmian (63 Dumfr
 
 
 
-==== Serie B  ‹§serieb›
+== Serie B  ‹§serieb›
 
 ‹Regular Season, see §2reg› | ‹Promotion Playoff, see §2prom› | ‹Relegation Playoff, see §2releg›
 
-▪ Regular Season ▪
+=== Regular Season  ‹§2reg›
 
 <!-- $table3$ - Final Table -->
 
 Promoted from Serie C: FC Südtirol (Bolzano), Modena FC 2018, SSC Bari, Palermo FC
 
-▪ Promotion Playoff ▪
+=== Promotion Playoff  ‹§2prom›
 
 ▪ Round 1 ▪
 _ May 13 _
@@ -790,17 +783,11 @@ Monza           2-1 Pisa
 ▪ Second Leg ▪  May 29
 Pisa            3-4 Monza           (aet)
 
-▪ Relegation Playoff ▪
+=== Relegation Playoff  ‹§2releg›
 
 ▪ First Leg ▪  May 12
 Vicenza         1-0 Cosenza
 
 ▪ Second Leg ▪  May 20
 Cosenza         2-0 Vicenza
-
-
-
-
-
-<!-- $about$ -->
 

@@ -1,25 +1,18 @@
-<!--
-  source: https://rsssf.org/tablesi/ital2015.html
-
-  outline: -/h2/-/h4/-/-
-           -/1/-/3/-/-
-    (2) ==      Italy 2014/15
-    (4) ====    Serie A  ‹§seriea›
-    (4) ====    Coppa Italia  ‹§coppa›
-    (4) ====    Serie B  ‹§serieb›
-
-  aname 3: ‹§seriea›,‹§coppa›,‹§serieb›
- -->
-  
-
-
-== Italy 2014/15
+  <!--
+     title:   Italy 2014/15
+     source:  https://rsssf.org/tablesi/ital2015.html
+     author:  Karel Stokkermans
+     updated: 14 Jan 2021
+    -->
 
 
 
 
 
-==== Serie A  ‹§seriea›
+
+
+
+== Serie A  ‹§seriea›
 
 <!-- $table1$ - Final Table -->
 
@@ -597,7 +590,7 @@ NB: Parma 7 points deducted for financial reasons
 
 
 
-==== Coppa Italia  ‹§coppa›
+== Coppa Italia  ‹§coppa›
 
 ▪ Round 1 ▪  Aug 10
 Benevento       2-0 Correggese
@@ -814,11 +807,11 @@ Juventus: Storari, Barzagli, Bonucci, Chiellini, Evra, Lichtsteiner
 
 
 
-==== Serie B  ‹§serieb›
+== Serie B  ‹§serieb›
 
 ‹Regular Season, see §2reg› | ‹Promotion Playoff, see §2prom› |  ‹Relegation Playoff, see §2rel›
 
-▪ Regular Season ▪
+=== Regular Season  ‹§2reg›
 
 <!-- $table4$ - Final Table -->
 
@@ -827,7 +820,7 @@ NB: Brescia (and Virtus Entella) reprieved from relegation due to bankruptcy of
 
 Promoted: Ascoli, Como, Novara and Salernitana
 
-▪ Promotion Playoff ▪
+=== Promotion Playoff  ‹§2prom›
 
 ▪ Round 1 ▪  May 26
 Perugia         1-2 Pescara
@@ -855,7 +848,7 @@ Bologna         1-1 Pescara
 
 NB: Bologna promoted on better regular season record
 
-▪ Relegation Playoff ▪
+=== Relegation Playoff  ‹§2rel›
 
 ▪ First Leg ▪  May 30
 Virtus Entella  2-2 Modena
@@ -866,10 +859,4 @@ Modena          1-1 Virtus Entella
 NB: Virtus Entella relegated due to worse regular season record but later reprieved due
     to bankruptcy of Parma (Serie A) and forced demotion of Catania (due to match fixing)
 
-
-
-
-
-
-<!-- $about$ -->
 

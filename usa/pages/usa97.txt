@@ -1,14 +1,12 @@
-<!--
-  source: https://rsssf.org/tablesu/usa97.html
-
-  outline: -/h2/-/-/-/-
-           -/1/-/-/-/-
-    (2) ==      USA 1997
- -->
-  
+  <!--
+     title:   USA 1997
+     source:  https://rsssf.org/tablesu/usa97.html
+     author:  Dave Litterer
+     updated: 25 Oct 2003    
+    -->
 
 
-== USA 1997
+
 
 
 
@@ -141,7 +139,7 @@ CHAMPIONSHIP:           Central Coast defeated Cocoa, 2-1
                          CONTINENTAL INDOOR SOCCER LEAGUE
 
                           GP   W   L  Pct.  GF  GA  GB
-  Eastern Division
+   Eastern Division
 Monterrey La Raza         28  20   8  .714 190 166  ---
 Indiana Twisters          28  17  11  .607 194 177  3.0
 Houston Hotshots          28  17  11  .607 199 157  3.0
@@ -149,7 +147,7 @@ Dallas Sidekicks          28  13  15  .464 165 160  7.0
 Washington Warthogs       28  12  16  .429 170 178  8.0
 Detroit Safari            28   3  25  .107 134 217 17.0
 
-  Western Division
+   Western Division
 Seattle SeaDogs           28  21   7  .750 170 128  ---
 Anaheim Splash            28  16  12  .571 165 134  5.0
 Sacramento Knights        28  14  14  .500 146 148  7.0
@@ -290,10 +288,4 @@ Dallas Burn 0 - 0 DC United (5-3)
 
 ‹MLS all-time table, see page usaalltime›
 
-
-
-
-
-
-<!-- $about$ -->
 
