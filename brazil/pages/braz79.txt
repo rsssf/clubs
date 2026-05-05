@@ -1,10 +1,12 @@
   <!--
-     source: https://rsssf.org/tablesb/braz79.html
+     title:   V COPA BRASIL - 1979 [Brazilian Championship]
+     source:  https://rsssf.org/tablesb/braz79.html
+     author:  Ricardo Pontes
+     updated: 2 Apr 2005    
     -->
-  
 
 
-== V COPA BRASIL - 1979 [Brazilian Championship]
+
 
 ▪ First Phase ▪
 Top 4 from Groups A through F  Qualified along with the four best fifth places in those groups.  Top 8 in groups G and H  Qualified.
@@ -18,7 +20,7 @@ Fluminense FC (Rio de Janeiro-RJ)         CR Vasco da Gama (Rio de Janeiro-RJ)
 AA Francana (Franca-SP)                   EC XV de Novembro (Jaú-SP)
 Goytacaz FC (Campos-RJ)                   EC XV de Novembro (Piracicaba-SP)
 
-▪ Group A ▪
+Group A
 
 AA Anapolina (Anápolis-GO)                Joinville EC (Joinville-SC)
 Avaí FC (Florianópolis-SC)                EC Juventude (Caxias do Sul-RS)
@@ -149,10 +151,9 @@ Anapolina         4-0  Confiança
 Novo Hamburgo     1-1  Avaí
   [Itamar; Júlio César]
 
-<!-- $table1$ -->
+<!-- $table1$ - Table -->
 
-
-▪ Group B ▪
+Group B
 
 GE Brasil (Pelotas-RS)                    Criciúma EC (Criciúma-SC)
 AA Caldense (Poços de Caldas-MG)          Assoc. Desportiva FVRD (Cariacica-ES)
@@ -276,10 +277,9 @@ São Paulo-RS      awd  Operário-PR         [points awarded to S.Paulo after
   [Paquito]                                 Operário had only 6 players in the
                                             field at 85', originally 0-1]
 
-<!-- $table2$ -->
+<!-- $table2$ - Table -->
 
-
-▪ Group C ▪
+Group C
 
 Atlético C Goianiense (Goiânia-GO)        CR Guará (Brasília-DF)
 Brasília EC (Brasília-DF)                 Itabuna AC (Itabuna-BA)
@@ -405,10 +405,9 @@ Guará 0-1  Operário-MT
 
 Comercial-MS      n/p  Guará
 
-<!-- $table3$ -->
+<!-- $table3$ - Table -->
 
-
-▪ Group D ▪
+Group D
 
 América FC (Belo Horizonte-MG)            Paysandu SC (Belém-PA)
 Botafogo FC (João Pessoa-PB)              At. Rio Negro Clube (Manaus-AM)
@@ -534,10 +533,9 @@ América-MG        2-1  Treze
 Paysandu          1-2  Rio Negro
   [Roberto Bacuri; Tuiúca, Zezinho Macapá]
 
-<!-- $table4$ -->
+<!-- $table4$ - Table -->
 
-
-▪ Group E ▪
+Group E
 
 Central SC (Caruaru-PE)                   River AC (Teresina-PI)
 Maranhão AC (São Luís-MA)                 Sampaio Corrêa FC (São Luís-MA)
@@ -671,10 +669,9 @@ River             1-1  Piauí
 Sampaio Corrêa    0-2  Uberaba
   [Donizetti Cabeça, Toinzinho]
 
-<!-- $table5$ -->
+<!-- $table5$ - Table -->
 
-
-▪ Group F ▪
+Group F
 
 ABC FC (Natal-RN)                         Ferroviário AC (Fortaleza-CE)
 América FC (Natal-RN)                     Fortaleza EC (Fortaleza-CE)
@@ -795,10 +792,9 @@ Potiguar          1-2  ASA
 CSA               3-1  ABC
   (Almir (2), Ênio; Danilo Meneses)
 
-<!-- $table6$ -->
+<!-- $table6$ - Table -->
 
-
-▪ Group G ▪
+Group G
 
 América FC (Rio de Janeiro-RJ)            SC Internacional (Porto Alegre-RS)
 Clube Atlético Paranaense (Curitiba-PR)   Operário FC (Campo Grande-MS)
@@ -928,10 +924,9 @@ Figueirense       1-0  Atlético-PR
 Internacional-RS  2-2  Operário-MS
   [Mário, João Carlos; Mauro (own goal), Tadeu Santos]
 
-<!-- $table7$ -->
+<!-- $table7$ - Table -->
 
-
-▪ Group H ▪
+Group H
 
 C Atlético Mineiro (Belo Horizonte-MG)    Goiás EC (Goiânia-GO)
 EC Bahia (Salvador-BA)                    Nacional FC (Manaus-AM)
@@ -1060,14 +1055,13 @@ Ceará             1-1  Cruzeiro
 Goiás             1-0  Vitória
   [Alexandre Bueno]
 
-<!-- $table8$ -->
-
+<!-- $table8$ - Table -->
 
 ▪ Second Phase ▪
 
 Byes: Palmeiras and Guarani
 
-▪ Group I ▪
+Group I
 
 _ Nov 7 _
 Colorado          2-1  América-RJ
@@ -1147,10 +1141,9 @@ _ Nov 30 _
 Campinense        0-1  Coritiba
   [Luís Freire]
 
-<!-- $table9$ -->
+<!-- $table9$ - Table -->
 
-
-▪ Group J ▪
+Group J
 
 _ Nov 7 _
 Botafogo-RJ       6-1  São Bento
@@ -1224,10 +1217,9 @@ Operário-MS       2-0  Botafogo-RJ
 Figueirense       n/p  ABC
 ABC               n/p  Grêmio Maringá
 
-<!-- $table10$ -->
+<!-- $table10$ - Table -->
 
-
-▪ Group K ▪
+Group K
 
 _ Nov 7 _
 Internacional-RS  1-0  Goytacaz
@@ -1304,10 +1296,9 @@ _ Nov 29 _
 Atlético-PR       1-0  Caldense
   [Rota]
 
-<!-- $table11$ -->
+<!-- $table11$ - Table -->
 
-
-▪ Group L ▪
+Group L
 
 _ Nov 7 _
 Santa Cruz        2-0  Gama
@@ -1380,10 +1371,9 @@ Náutico           2-2  Gama
 Grêmio            1-0  Londrina
   [Iúra]
 
-<!-- $table12$ -->
+<!-- $table12$ - Table -->
 
-
-▪ Group M ▪
+Group M
 
 _ Nov 7 _
 Ceará             2-1  Central
@@ -1458,10 +1448,9 @@ Botafogo-PB       1-1  Operário-MT
 ASA               0-1  Vasco da Gama
   [Roberto Dinamite]
 
-<!-- $table13$ -->
+<!-- $table13$ - Table -->
 
-
-▪ Group N ▪
+Group N
 
 _ Nov 8 _
 Vila Nova-GO      2-0  Vitória
@@ -1535,10 +1524,9 @@ Fluminense-RJ     6-0  Maranhão
   (Cristóvão (2), Zezé Gomes (2), Edevaldo, Mário)
 Vila Nova-GO      0-0  Uberlândia
 
-<!-- $table14$ -->
+<!-- $table14$ - Table -->
 
-
-▪ Group O ▪
+Group O
 
 _ Nov 7 _
 CSA               1-0  Villa Nova-MG
@@ -1619,12 +1607,11 @@ _ Nov 29 _
 Cruzeiro          1-0  Leônico
   [Alexandre]
 
-<!-- $table15$ -->
+<!-- $table15$ - Table -->
 
+▪ Third Phase ▪
 
-Third Phase
-
-▪ Group P ▪
+Group P
 
 _ Dec 2 _
 XV de Novembro/P  0-2  Guarani
@@ -1645,10 +1632,9 @@ Coritiba          1-0  XV de Novembro/P
 Vitória           3-0  Guarani
   [Vinícius, Sivaldo, Zé Julio]
 
-<!-- $table16$ -->
+<!-- $table16$ - Table -->
 
-
-▪ Group Q ▪
+Group Q
 
 _ Dec 2 _
 Palmeiras         5-1  Comercial-SP
@@ -1668,10 +1654,9 @@ São Bento         2-2  Comercial-SP
 Flamengo          1-4  Palmeiras
   [Zico; Jorge Mendonça, Carlos Alberto, Zé Mario, Pedrinho]
 
-<!-- $table17$ -->
+<!-- $table17$ - Table -->
 
-
-▪ Group R ▪
+Group R
 
 _ Dec 2 _
 Cruzeiro          0-0  Atlético-MG
@@ -1688,10 +1673,9 @@ Goiás             1-1  Cruzeiro
   [Éber; Roberto César]
 Atlético-MG       dns  Internacional-RS     [Atlético forfeited the tournament,
                                              points awarded to Internacional]
-<!-- $table18$ -->
+<!-- $table18$ - Table -->
 
-
-▪ Group S ▪
+Group S
 
 _ Dec 2 _
 Atlético-PR       1-1  Vasco da Gama
@@ -1713,8 +1697,7 @@ Vasco da Gama     4-0  Operário-MS
 Uberlândia        3-2  Atlético-PR
   (Nivaldo, Paulinho; Nenê Ramos (2), Binga)
 
-<!-- $table19$ -->
-
+<!-- $table19$ - Table -->
 
 ▪ Semifinal ▪
 
@@ -1738,8 +1721,8 @@ Vasco da Gama     0-2   1-2  Internacional-RS
 
 SC Internacional are the 1979 undefeated Brazilian champions
 
-<!-- $table20$ -->
-
+Final Table
+<!-- $table20$ - Table -->
 
 ‹1978, see page braz78›
 
@@ -1750,10 +1733,4 @@ SC Internacional are the 1979 undefeated Brazilian champions
 ‹list of 2nd division champions, see page braz2champ›.
 
 
-
-
-
-
-
-<!-- $about$ -->
 

@@ -1,19 +1,20 @@
   <!--
-     source: https://rsssf.org/tablesb/braz2019.html
+     title:   Brazil 2019
+     source:  https://rsssf.org/tablesb/braz2019.html
+     author:  RSSSF Brazil
+     updated: 8 Dec 2025    
     -->
-  
-
-
-== Brazil 2019
 
 
 
 
 
-==== Série A  ‹§sa›
 
-<!-- $table1$ -->
 
+
+== Série A  ‹§sa›
+
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Apr 27 _
@@ -294,8 +295,7 @@ Fluminense      1-0 Corinthians
 Grêmio          3-0 Goiás
 São Paulo       1-1 CSA
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Halfway Table -->
 
 ▪ Round 20 ▪
 _ Sep 21 _
@@ -570,8 +570,7 @@ Internacional   2-1 Atlético/MG
 Santos          4-0 Flamengo
 Vasco da Gama   1-1 Chapecoense
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 Promoted: Bragantino, Sport Recife, Coritiba, Atlético Goianiense
 
@@ -579,7 +578,7 @@ Promoted: Bragantino, Sport Recife, Coritiba, Atlético Goianiense
 
 
 
-==== Copa do Brasil  ‹§cb›
+== Copa do Brasil  ‹§cb›
 
 Participants
 
@@ -766,35 +765,35 @@ Aparecidense/GO       2-0  Ponte Preta/SP
 
 Single Leg
 _ Feb 19 _
-Londrina/PR           1-1  Paraná/PR (Pen 5-4)
+Londrina/PR           1-1  Paraná/PR (5-4 pen)
   (Luquinha 90+2f; Jenison 32)
 _ Feb 20 _
 Corinthians/SP        4-2  Avenida/RS
   (Henrique 45+1, Danilo Avelar 76c, Júnior Urso 87, Gustavo 90+2; Flávio Torres 03c, Tito 09)
-Santa Cruz/PE         1-1  Náutico/PE (Pen 4-2)
+Santa Cruz/PE         1-1  Náutico/PE (4-2 pen)
   (Pipico 27; Jorge Henrique 34)
 Serra/ES              0-2  Vasco da Gama/RJ
   (Lucas Mineiro 27c, Ribamar 90+3)
 Luverdense/MT         1-0  Figueirense/SC
   (Wilson Júnior 03c)
 _ Feb 21 _
-Goiás/GO              1-1  CRB/AL (Pen 2-3)
+Goiás/GO              1-1  CRB/AL (2-3 pen)
   (Renatinho 60p; Wellington Carvalho 46)
-Criciúma/SC           0-0  Oeste/SP (Pen 7-6)
+Criciúma/SC           0-0  Oeste/SP (7-6 pen)
 _ Feb 26 _
 Atlético Cearense/CE  0-4  Atlético/GO
   (Pedro Raul 09, 61c, Matheus 30, Mike 69)
 _ Feb 27 _
-URT/MG                2-2  Vila Nova/GO (Pen 4-5)
+URT/MG                2-2  Vila Nova/GO (4-5 pen)
   (Juninho Potiguar 55, Cascata 87; Michel Douglas 21, Danilo 83)
 Botafogo/RJ           3-0  Cuiabá/MT
   (Erik 45, 81p, Rodrigo Pimpão 72)
 Bragantino/PA          -   Aparecidense/GO   (Suspenso até que se resolva a questão do jogo entre Aparecidense x Ponte Preta)
-Foz do Iguaçu/PR      0-0  Ceará/CE (Pen 2-4)
+Foz do Iguaçu/PR      0-0  Ceará/CE (2-4 pen)
 _ Feb 28 _
 Juventude/RS          2-1  América/MG
   (Genílson 45+4p, Breno 46; Jonatas Belusso 88p)
-Tombense/MG           2-2  Botafogo/PB (Pen 6-7)
+Tombense/MG           2-2  Botafogo/PB (6-7 pen)
   (Juan 26p, Edson 68c; Clayton 28, 64)
 _ Mar 6 _
 Mixto/MT              1-2  Chapecoense/SC
@@ -804,7 +803,7 @@ Fluminense/RJ         3-0  Ypiranga/RS
 Santa Cruz/RN         0-1  Bahia/BA
   (Gilberto 28)
 _ Mar 7 _
-ABC/RN                2-2  Moto Club/MA (Pen 5-3)
+ABC/RN                2-2  Moto Club/MA (5-3 pen)
   (Maurício 60, Rodrigo Rodrigues 87c; Márcio Diogo 38, 57)
 Santos/SP             4-0  América/RN
   (Derlis González 34, Jean Mota 60, Rodrygo 70, Felipe Aguilar 83)
@@ -814,9 +813,9 @@ _ Apr 10 _
 Bragantino/PA         3-2  Aparecidense/GO
   (Lukinha 36, Marco Goiano 60p, 85; Rayro 46, 64)
 
-Third Phase
+▪ Third Phase ▪
 
-1st Leg
+▪ 1st Leg ▪
 _ Mar 13 _
 Ceará/CE              1-3  Corinthians/SP
   (Juninho 21p; Júnior Urso 08c, Vagner Love 64, Jadson 71)
@@ -844,7 +843,7 @@ _ Apr 16 _
 Vila Nova/GO          2-0  Bragantino/PA
   (Danilo 07p, Rafael Silva 70p)
 
-2nd Leg
+▪ 2nd Leg ▪
 _ Apr 3 _
 Londrina/PR           3-3  Botafogo/PB
   (Augusto 25, 53, Luquinha 79; Nando 40, 86, 86, Clayton 69)
@@ -871,9 +870,9 @@ _ Apr 20 _
 Bragantino/PA         2-1  Vila Nova/GO
   (Marco Goiano 39f, Paulo de Tarcio 78c; Facundo Boné 01)
 
-Fourth Phase
+▪ Fourth Phase ▪
 
-1st Leg
+▪ 1st Leg ▪
 _ Apr 17 _
 Fluminense/RJ         2-0  Santa Cruz/PE
   (Gilberto 18, Luciano 30)
@@ -887,24 +886,24 @@ Bahia/BA              4-0  Londrina/PR
 _ Apr 24 _
 Juventude/RS          0-0  Vila Nova/GO
 
-2nd Leg
+▪ 2nd Leg ▪
 _ Apr 24 _
 Corinthians/SP        2-0  Chapecoense/SC
   (Mauro Boselli 18, Mateus Vital 69)
 Vasco da Gama/RJ      2-1  Santos/SP
   (Raul 12, Ricardo Graça 38c; Jorge 53)
 _ Apr 25 _
-Santa Cruz/PE         2-0  Fluminense/RJ (Pen 2-3)
+Santa Cruz/PE         2-0  Fluminense/RJ (2-3 pen)
   (Jô 72, Pipico 74)
 Londrina/PR           2-1  Bahia/BA
   (Anderson Oliveira 00'42, Dagoberto 35p; Fernandão 21)
 _ May 7 _
-Vila Nova/GO          0-0  Juventude/RS (Pen 3-4)
+Vila Nova/GO          0-0  Juventude/RS (3-4 pen)
 
 
-Fifth Phase
+▪ Fifth Phase ▪
 
-1st Leg
+▪ 1st Leg ▪
 _ May 15 _
 Corinthians/SP        0-1  Flamengo/RJ
   (Willian Arão 78c)
@@ -923,7 +922,7 @@ _ May 23 _
 Internacional/RS      3-1  Paysandu/PA
   (Paolo Guerrero 25, 78c, Rodrigo Lindoso 56; Micael 47c)
 
-2nd Leg
+▪ 2nd Leg ▪
 _ May 29 _
 Bahia/BA              1-0  São Paulo/SP
   (Ernando 53)
@@ -938,7 +937,7 @@ _ Jun 4 _
 Flamengo/RJ           1-0  Corinthians/SP
   (Rodrigo Caio 86)
 _ Jun 5 _
-Cruzeiro/MG           2-2  Fluminense/RJ (Pen 3-1)
+Cruzeiro/MG           2-2  Fluminense/RJ (3-1 pen)
   (Thiago Neves 58, 80p; Ganso 15p, João Pedro 90+6b)
 Athletico/PR          1-0  Fortaleza/CE
   (Marco Rúben 87)
@@ -948,7 +947,7 @@ Santos/SP             1-2  Atlético/MG
 
 Sixth Phase
 
-1st Leg
+▪ 1st Leg ▪
 _ Jul 10 _
 Athletico/PR          1-1  Flamengo/RJ
   (Léo Pereira 50; Gabriel Barbosa 64)
@@ -960,11 +959,11 @@ _ Jul 11 _
 Cruzeiro/MG           3-0  Atlético/MG
   (Pedro Rocha 13, Thiago Neves 27, Robinho 54)
 
-2nd Leg
+▪ 2nd Leg ▪
 _ Jul 17 _
-Flamengo/RJ           1-1  Athletico/PR (Pen 1-3)
+Flamengo/RJ           1-1  Athletico/PR (1-3 pen)
   (Gabriel Barbosa 63; Rony 76)
-Internacional/RS      1-0  Palmeiras/SP (Pen 5-4)
+Internacional/RS      1-0  Palmeiras/SP (5-4 pen)
   (Patrick 40)
 Bahia/BA              0-1  Grêmio/RS
   (Alisson 64)
@@ -973,7 +972,7 @@ Atlético/MG           2-0  Cruzeiro/MG
 
 ▪ Semifinal ▪
 
-1st Leg
+▪ 1st Leg ▪
 _ Aug 7 _
 Cruzeiro/MG           0-1  Internacional/RS
   (Edenilson 75)
@@ -981,21 +980,21 @@ _ Aug 14 _
 Grêmio/RS             2-0  Athletico/PR
   (André Felipe 23c, Jean Pyerre 72f)
 
-2nd Leg
+▪ 2nd Leg ▪
 _ Sep 4 _
 Internacional/RS      3-0  Cruzeiro/MG
   (Paolo Guerrero 39c, 69, Edenilson 89)
-Athletico/PR          2-0  Grêmio/RS (Pen 5-4)
+Athletico/PR          2-0  Grêmio/RS (5-4 pen)
   (Nikão 16, Marco Rúben 48c)
 
 ▪ Final ▪
 
-1st Leg
+▪ 1st Leg ▪
 _ Sep 11 _
 Athletico/PR          1-0  Internacional/RS
   (Bruno Guimarães 57)
 
-2nd Leg
+▪ 2nd Leg ▪
 _ Sep 18 _
 Internacional/RS      1-2  Athletico/PR
   (Nico López 30; Léo Cittadini 23, Rony 90+6)
@@ -1005,11 +1004,11 @@ Internacional/RS      1-2  Athletico/PR
 
 
 
-==== Supercopa do Brasil 2020  ‹§supcb›
+== Supercopa do Brasil 2020  ‹§supcb›
 
 NB: between 2019 champions and cup winners
 
-_ Feb 16 2020 _, Brasília
+_ Feb 16 2020 _ @ Brasília
 Flamengo/RJ           3-0  Athletico/PR
 
 
@@ -1017,17 +1016,10 @@ Flamengo/RJ           3-0  Athletico/PR
 
 
 
-==== Série B  ‹§sb›
+== Série B  ‹§sb›
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Final Table -->
 
 Promoted: Náutico, Sampaio Corrêa, Confiança, Juventude (Caxias)
 
-
-
-
-
-
-<!-- $about$ -->
 

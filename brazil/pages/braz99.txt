@@ -1,13 +1,14 @@
   <!--
-     source: https://rsssf.org/tablesb/braz99.html
+     title:   Brazil 1999 Championship
+     source:  https://rsssf.org/tablesb/braz99.html
+     author:  Miguel Alvim Gonzalez
+     updated: 31 Jul 2000    
     -->
-  
 
 
-== Brazil 1999 Championship
 
-<!-- $table1$ -->
 
+<!-- $table1$ - Table -->
 
 [NB: Vasco-Paraná of Aug 19 included]
 [NB: São Paulo-Internacional and São Paulo-Botafogo/RJ included as 0-1]
@@ -43,7 +44,7 @@ Corinthians   4-1 Botafogo/SP
 Portuguesa    1-0 Guarani
 Internacional 0-2 Coritiba
 
-Moved Matches [Aug 4]
+▪ Moved Matches ▪  Aug 4
 São Paulo     6-1 Botafogo/RJ          [awarded 0-1 (player Hiroshi ineligible)]
 Guarani       0-2 Corinthians
 
@@ -61,7 +62,7 @@ Cruzeiro      3-1 Internacional
 _ Sep 5 _
 Grêmio        0-4 São Paulo
 
-Moved Matches [Aug 11]
+▪ Moved Matches ▪  Aug 11
 Atlético/MG   2-0 Palmeiras
 Internacional 1-2 Flamengo
 
@@ -104,7 +105,7 @@ Ponte Preta   1-0 Paraná
 Cruzeiro      3-1 Atlético/PR
 Internacional 1-0 Atlético/MG
 
-Moved Matches [Aug 25]
+▪ Moved Matches ▪  Aug 25
 Juventude     1-3 Corinthians
 Vitória       2-0 Botafogo/RJ
 Botafogo/SP   0-1 Ponte Preta
@@ -124,7 +125,7 @@ Portuguesa    2-0 Atlético/PR
 Paraná        2-1 Guarani
 Internacional 0-0 Juventude
 
-Moved Matches
+▪ Moved Matches ▪
 _ Sep 1 _
 Grêmio        3-4 Botafogo/SP
 Guarani       2-3 São Paulo
@@ -144,7 +145,7 @@ Palmeiras     2-2 Cruzeiro
 Juventude     1-2 Ponte Preta
 Paraná        1-1 Coritiba
 
-Moved Matches [Sep 8]
+▪ Moved Matches ▪  Sep 8
 Cruzeiro      1-3 Corinthians
 Botafogo/SP   1-4 Atlético/MG
 Vitória       1-0 Gama
@@ -190,7 +191,7 @@ Vasco da Gama abd Paraná      [abandoned at 1-1 in 90' after third Vasco
 Vitória       0-0 Ponte Preta  was sent off and Vasco president Miranda
 Cruzeiro      1-0 Sport        threatened the referee; result apparently stood]
 
-Moved Matches [Sep 22]
+▪ Moved Matches ▪  Sep 22
 Paraná        0-1 Palmeiras
 Corinthians   2-4 Vasco da Gama
 Botafogo/RJ   0-1 Juventude
@@ -236,7 +237,7 @@ São Paulo     0-0 Palmeiras
 Coritiba      4-0 Grêmio
 Cruzeiro      3-0 Atlético/MG
 
-Moved Matches [Oct 6]
+▪ Moved Matches ▪  Oct 6
 Juventude     0-5 Portuguesa
 Paraná        2-3 Botafogo/RJ
 Atlético/MG   2-0 Santos
@@ -283,7 +284,7 @@ Atlético/MG   1-2 Ponte Preta
 Corinthians   4-2 Internacional        [in Rio de Janeiro]
 Grêmio        2-3 Cruzeiro
 
-Moved Matches [Oct 20]
+▪ Moved Matches ▪  Oct 20
 Grêmio        1-0 Botafogo/RJ
 Portuguesa    1-1 Vasco da Gama
 Flamengo      1-1 Palmeiras
@@ -302,7 +303,7 @@ Ponte Preta   2-1 Portuguesa
 _ Nov 3 _
 Palmeiras     0-0 Guarani
 
-Moved Matches [Oct 27]
+▪ Moved Matches ▪  Oct 27
 Coritiba      2-1 Palmeiras
 Portuguesa    2-3 Flamengo
 
@@ -319,7 +320,7 @@ Corinthians   0-4 Atlético/MG
 Cruzeiro      2-1 Botafogo/SP
 Internacional 1-0 Ponte Preta
 
-Moved Matches
+▪ Moved Matches ▪
 _ Nov 3 _
 Grêmio        0-3 Corinthians
 Cruzeiro      2-1 Vasco da Gama
@@ -355,8 +356,7 @@ Santos        3-3 Cruzeiro
 Atlético/PR   3-1 Sport
 Atlético/MG   2-0 Grêmio
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Table -->
 
 [NB: Vasco-Paraná of Aug 19 included]
 [NB: São Paulo-Internacional and São Paulo-Botafogo/RJ included as 0-1]
@@ -378,7 +378,7 @@ Cruzeiro      2-3 Atlético/MG
 Vasco da Gama 2-2 Vitória
 Ponte Preta   2-1 São Paulo
 
-Third Legs [Nov 24]
+▪ Third Legs ▪  Nov 24
 Corinthians   1-1 Guarani
 Vasco da Gama 1-1 Vitória
 Ponte Preta   2-3 São Paulo
@@ -393,7 +393,7 @@ Atlético/MG   3-0 Vitória
 Corinthians   2-1 São Paulo
 Vitória       2-1 Atlético/MG
 
-Third Leg [Dec 8]
+▪ Third Leg ▪  Dec 8
 Vitória       0-3 Atlético/MG
 
 ▪ Final ▪
@@ -406,7 +406,7 @@ Atlético/MG   3-2 Corinthians
 Corinthians   2-0 Atlético/MG
   (Luizão 29, 59)
 
-Third Leg [Dec 22]
+▪ Third Leg ▪  Dec 22
 Corinthians   0-0 Atlético/MG
 
 Corinthians champions of Brazil 1999.
@@ -540,10 +540,4 @@ Atlético/PR qualified.
 
 ‹list of 2nd division champions, see page braz2champ›.
 
-
-
-
-
-
-<!-- $about$ -->
 

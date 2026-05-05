@@ -1,19 +1,20 @@
   <!--
-     source: https://rsssf.org/tablesb/braz2023.html
+     title:   Brazil 2023
+     source:  https://rsssf.org/tablesb/braz2023.html
+     author:  RSSSF Brazil
+     updated: 8 Dec 2025    
     -->
-  
-
-
-== Brazil 2023
 
 
 
 
 
-==== Série A  ‹§sa›
 
-<!-- $table1$ -->
 
+
+== Série A  ‹§sa›
+
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Apr 15 _
@@ -684,15 +685,14 @@ Santos          1-2 Fortaleza
 São Paulo       1-0 Flamengo
 Vasco da Gama   2-1 Bragantino
 
-<!-- $table2$ -->
+<!-- $table2$ - Final Table -->
 
 
 
 
 
 
-
-==== Copa do Brasil 2023  ‹§cb›
+== Copa do Brasil 2023  ‹§cb›
 
 ▪ 1/8 Finals ▪
 
@@ -762,42 +762,30 @@ São Paulo       1-1 Flamengo
 
 
 
-==== Série B  ‹§sb›
+== Série B  ‹§sb›
 
-<!-- $table3$ -->
-
-
+<!-- $table3$ - Final Table -->
 
 
 
 
 
-==== Série C  ‹§sc›
+
+== Série C  ‹§sc›
 
 First Stage (Grupo A)
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Final Table -->
 
 ▪ Second Stage ▪
 
 Final Tables:
 
-Grupo B
- 1.Brusque                6   4  1  1   9- 7  13  [R]  Promoted
- 2.Operário Ferroviário   6   2  1  3   9- 9   7  [R]  Promoted
-------------------------------------------------
- 3.São Bernardo           6   2  1  3   6- 6   7  [P]
- 4.São José               6   1  3  2   5- 7   6
+<!-- $table5$ - Grupo B -->
 
-Grupo C
- 1.Amazonas               6   4  0  2   9- 4  12  [P]  Promoted
- 2.Paysandu               6   3  1  2   7- 6  10       Promoted
-------------------------------------------------
- 3.Volta Redonda          6   3  1  2   6- 7  10
- 4.Botafogo/PB            6   1  0  5   6-11   3
+<!-- $table6$ - Grupo C -->
 
-Championship Final
+▪ Championship Final ▪
 
 ▪ First Leg ▪  Oct 15
 Amazonas        0-0 Brusque
@@ -808,10 +796,4 @@ Brusque         1-2 Amazonas
 Promoted from 4th level: Ferroviário AC (Fortaleza), Ferroviária (Araraquara),
                          Athletic (São João del-Rei), Caxias (Caxias do Sul)
 
-
-
-
-
-
-<!-- $about$ -->
 

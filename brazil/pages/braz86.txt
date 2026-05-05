@@ -1,16 +1,18 @@
   <!--
-     source: https://rsssf.org/tablesb/braz86.html
+     title:   Brazil 1986
+     source:  https://rsssf.org/tablesb/braz86.html
+     authors: Ricardo Pontes and Marcelo Leme de Arruda
+     updated: 2 Apr 2005    
     -->
-  
 
 
-== Brazil 1986
+
 
 COPA BRASIL
 
 ▪ First Phase ▪
 
-▪ Group A ▪
+Group A
 
 Participants
 Bangu AC (Rio de Janeiro-RJ)           Clube do Remo (Belém-PA)
@@ -164,10 +166,9 @@ Coritiba          1-1  Sobradinho
 Sampaio Corrêa    2-2  Remo
   [Mateus, Gil Lima; Toninho Silva, Jair]
 
-<!-- $table1$ -->
+<!-- $table1$ - Table -->
 
-
-▪ Group B ▪
+Group B
 
 Participants
 América FC (Rio de Janeiro-RJ)         Goiás EC (Goiânia-GO)
@@ -320,10 +321,9 @@ _ Oct 8 _
 Botafogo-PB       2-0  Paysandu
   (Carlos Roberto (2))
 
-<!-- $table2$ -->
+<!-- $table2$ - Table -->
 
-
-▪ Group C ▪
+Group C
 
 Participants
 Atlético C Goianiense (Goiânia-GO)     Piauí EC (Teresina-PI)
@@ -476,10 +476,9 @@ Tuna Luso         1-4  Guarani
 Vasco da Gama     6-0  Operário-MT
   (Roberto Dinamite (3), Gersinho, Mauricinho, Romário)
 
-<!-- $table3$ -->
+<!-- $table3$ - Table -->
 
-
-▪ Group D ▪
+Group D
 
 Participants
 Alecrim FC (Natal-RN)                  Nacional FC (Manaus-AM)
@@ -634,8 +633,7 @@ Botafogo-RJ       2-4  Atlético-MG
 _ Oct 9 _
 Alecrim           0-0  Comercial
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Table -->
 
 Note: Originally, only 28 teams from groups A-D were supposed to qualify for the
 second phase.  The last berth in the second phase was to be filled by Vasco da Gama,
@@ -650,7 +648,7 @@ Vasco da Gama was again qualified.  A few days later, CBF declared also that San
 Sobradinho, Náutico would also be qualified so all groups in the second phase would have
 the same number of participants.
 
-▪ Group E ▪
+Group E
 
 Participants
 América FC (Natal-RN)                  Atlético Rio Negro C (Manaus-AM)
@@ -713,10 +711,9 @@ Sport Belém       2-2  River
 Guarany           3-1  Moto Clube
 Ferroviário       0-1  Rio Negro
 
-<!-- $table5$ -->
+<!-- $table5$ - Table -->
 
-
-▪ Group F ▪
+Group F
 
 Participants
 Americano FC (Campos-RJ)               A Desportiva FVRD (Cariacica-ES)
@@ -780,10 +777,9 @@ Americano        2-0  CRB
 Taguatinga       2-2  Goytacaz
 Fluminense-BA    2-2  Central
 
-<!-- $table6$ -->
+<!-- $table6$ - Table -->
 
-
-▪ Group G ▪
+Group G
 
 Participants
 América FC (Belo Horizonte-MG)         Mixto EC (Cuiabá-MT)
@@ -846,10 +842,9 @@ Anápolis          1-0  Santo André
 Juventus          3-0  Mixto
 Itumbiara         0-2  Internacional-SP
 
-<!-- $table7$ -->
+<!-- $table7$ - Table -->
 
-
-▪ Group H ▪
+Group H
 
 Participants
 Avaí FC (Florianópolis-SC)             Londrina EC (PR)
@@ -912,8 +907,7 @@ Juventude         2-0  Avaí
 Marcílio Dias     2-1  Brasil
 Cascavel          0-0  Criciúma
 
-<!-- $table8$ -->
-
+<!-- $table8$ - Table -->
 
 
 
@@ -1106,10 +1100,9 @@ _ Jan 29 1987 _
 Botafogo-RJ       1-0  Palmeiras
   [Fernando Macaé]
 
-<!-- $table9$ -->
+<!-- $table9$ - Table -->
 
-
-▪ Group J ▪
+Group J
 
 _ Oct 12 _
 Atlético-GO       0-2  Fluminense-RJ
@@ -1309,11 +1302,10 @@ Vitória           2-1  Fluminense-RJ
 Grêmio            3-0  Central
   [Odair, Lima, Caio]
 
-▪ Group J ▪
-<!-- $table10$ -->
+Group J
+<!-- $table10$ - Table -->
 
-
-▪ Group K ▪
+Group K
 
 _ Oct 12 _
 Cruzeiro          5-1  Internacional-SP
@@ -1503,10 +1495,9 @@ Sport             0-1  Bahia
 Internacional-SP  2-0  CSA
   [João Batista, Tato]
 
-<!-- $table11$ -->
+<!-- $table11$ - Table -->
 
-
-▪ Group L ▪
+Group L
 
 _ Oct 12 _
 Corinthians       1-1  Criciúma
@@ -1700,10 +1691,9 @@ Sobradinho        0-3  Internacional-RS
 Nacional          0-1  Criciúma
   [Osmair]
 
-<!-- $table12$ -->
+<!-- $table12$ - Table -->
 
-
-Third Phase
+▪ Third Phase ▪
 
 _ Jan 31 & Feb 4 1987 _
 Vasco da Gama     0-3   0-2  Guarani
@@ -1767,8 +1757,7 @@ São Paulo         1-1   1-1  Guarani     [aet 2-2, pen 3-4]
   [Bernardo, Pita, Careca; Nelsinho (own goal), Marco Antônio Boiadeiro, João Paulo]
 
 
-<!-- $table13$ -->
-
+<!-- $table13$ - Final Table -->
 
 ‹1985, see page braz85›
 
@@ -1778,10 +1767,4 @@ São Paulo         1-1   1-1  Guarani     [aet 2-2, pen 3-4]
 
 ‹list of 2nd division champions, see page braz2champ›.
 
-
-
-
-
-
-<!-- $about$ -->
 

@@ -1,7 +1,8 @@
   <!--
-     source: https://rsssf.org/tablesb/braz93.html
+     title:   n/a
+     source:  https://rsssf.org/tablesb/braz93.html
+    
     -->
-  
 CAMPEONATO BRASILEIRO DE 1993
 1993 BRAZILIAN CHAMPIONSHIP
 
@@ -61,7 +62,7 @@ relegated, but Paraná, who were the 1992 champions, could be relegated.
 
 ▪ ROUND 1 ▪
 
-▪ GROUP A ▪
+GROUP A
 
 6/sep/93
 
@@ -76,7 +77,7 @@ Goals Tupãzinho and Leandro Silva.
 BAHIA 1 x FLAMENGO 1
 Goals Bahia: Marcelo. Flamengo: Casagrande.
 
-▪ GROUP B ▪
+GROUP B
 
 4/sep/93
 
@@ -95,7 +96,7 @@ Goal Valdir.
 SPORT 0 x SANTOS 2
 Goals Zé Renato and Almir.
 
-▪ GROUP C ▪
+GROUP C
 
 4/sep/93
 
@@ -111,7 +112,7 @@ Goals Ceará: Vítor Hugo, Sérgio Alves and Mirandinha. Fortaleza: Elói.
 REMO 2 x PAYSANDU 1
 Goals Remo: Ageu and Mário César. Paysandu: Marcos Roberto.
 
-▪ GROUP D ▪
+GROUP D
 
 4/sep/93
 
@@ -127,7 +128,7 @@ Goal Ronaldo.
 
 ▪ ROUND 2 ▪
 
-▪ GROUP A ▪
+GROUP A
 
 11/sep/93
 
@@ -143,7 +144,7 @@ Goals Flamengo: Júnior Baiano. Bragantino: João Santos.
 BAHIA 1 x CRUZEIRO 3
 Goals Bahia: Naldinho. Cruzeiro: Marco Antônio Boiadeiro, Roberto Gaúcho and Ronaldo.
 
-▪ GROUP B ▪
+GROUP B
 
 11/sep/93
 
@@ -166,7 +167,7 @@ Goals Guarani: Djalminha (2). Grêmio: Pingo and Gílson.
 FLUMINENSE 1 x VASCO 3
 Goals Fluminense: Lira. Vasco: França, Geovani and Hernande.
 
-▪ GROUP C ▪
+GROUP C
 
 11/sep/93
 
@@ -181,7 +182,7 @@ Goals Ceará: Júnior Xavier (2) and Ivanildo. Goiás: Alex.
 REMO 2 x NÁUTICO 1
 Goals Remo: Ageu and Agnaldo. Náutico: Maurício.
 
-▪ GROUP D ▪
+GROUP D
 
 11/sep/93
 
@@ -198,7 +199,7 @@ Goal Omar.
 
 ▪ ROUND 3 ▪
 
-▪ GROUP A ▪
+GROUP A
 
 18/sep/93
 
@@ -214,7 +215,7 @@ Goal Rivaldo.
 INTERNACIONAL 1 x BRAGANTINO 1
 Goals Internacional: Wágner. Bragantino: Sílvio.
 
-▪ GROUP B ▪
+GROUP B
 
 18/sep/93
 
@@ -229,7 +230,7 @@ Goal Gilberto.
 
 VASCO 0 x GUARANI 0
 
-▪ GROUP C ▪
+GROUP C
 
 15/sep/93
 
@@ -242,7 +243,7 @@ Goals Fortaleza: Bujica. Santa Cruz: Célio and Cláudio Adão.
 CEARÁ 0 x VITÓRIA-BA 3
 Goals Claudinho (3).
 
-▪ GROUP D ▪
+GROUP D
 
 15/sep/93
 
@@ -259,7 +260,7 @@ ATLÉTICO-PR 0 x PARANÁ 0
 
 ▪ ROUND 4 ▪
 
-▪ GROUP A ▪
+GROUP A
 
 15/sep/93
 
@@ -281,7 +282,7 @@ Goal Alberto.
 CORINTHIANS 2 x INTERNACIONAL 0
 Goals Leto and Tupãzinho.
 
-▪ GROUP B ▪
+GROUP B
 
 22/sep/93
 
@@ -297,7 +298,7 @@ Goal Moura.
 PALMEIRAS 2 x VASCO 0
 Goals Edílson and Zinho.
 
-▪ GROUP C ▪
+GROUP C
 
 18/sep/93
 
@@ -310,7 +311,7 @@ Goal Serginho.
 PAYSANDU 1 x GOIÁS 1
 Goals Paysandu: Carlos André. Goiás: César Mineiro.
 
-▪ GROUP D ▪
+GROUP D
 
 18/sep/93
 
@@ -324,7 +325,7 @@ Goals Desportiva-ES: Márcio Bueno. Atlético-PR: Barbosa.
 
 ▪ ROUND 5 ▪
 
-▪ GROUP A ▪
+GROUP A
 
 25/sep/93
 
@@ -338,7 +339,7 @@ SÃO PAULO 0 x CRUZEIRO 0
 INTERNACIONAL 1 x BAHIA 0
 Goal Vladimir.
 
-▪ GROUP B ▪
+GROUP B
 
 25/sep/93
 
@@ -354,7 +355,7 @@ Goals Santos: Sérgio Manoel, Ranielli and Almir. Palmeiras: Roberto Carlos.
 ATLÉTICO-MG 1 x GUARANI 0
 Goal Valdir.
 
-▪ GROUP C ▪
+GROUP C
 
 22/sep/93
 
@@ -367,7 +368,7 @@ Goals Rogerinho and Éverson.
 FORTALEZA 1 x GOIÁS 1
 Goals Fortaleza: Alaílson. Goiás: César Mineiro.
 
-▪ GROUP D ▪
+GROUP D
 
 22/sep/93
 
@@ -381,7 +382,7 @@ CORITIBA 0 x PARANÁ 0
 
 ▪ ROUND 6 ▪
 
-▪ GROUP A ▪
+GROUP A
 
 29/sep/93
 
@@ -400,7 +401,7 @@ Goals Ronaldo, Nonato and Macedo.
 SÃO PAULO 3 x BRAGANTINO 3
 Goals São Paulo: Dinho, Valdeir and Palhinha. Bragantino: João Santos, Claudinho and Sílvio.
 
-▪ GROUP B ▪
+GROUP B
 
 29/sep/93
 
@@ -416,7 +417,7 @@ Goal Zinho.
 PALMEIRAS 1 x ATLÉTICO-MG 0
 Goal Edílson.
 
-▪ GROUP C ▪
+GROUP C
 
 26/sep/93
 
@@ -429,7 +430,7 @@ Goals Oberdan and Éverson.
 GOIÁS 1 x SANTA CRUZ 0
 Goal Vivinho.
 
-▪ GROUP D ▪
+GROUP D
 
 26/sep/93
 
@@ -445,7 +446,7 @@ Goals Portuguesa: Bentinho (2) and Paulinho Kobayashi. Desportiva-ES: Dedé.
 
 ▪ ROUND 7 ▪
 
-▪ GROUP A ▪
+GROUP A
 
 3/oct/93
 
@@ -458,7 +459,7 @@ Goals Adílson (2) and Mazinho Loiola.
 BAHIA 1 x BRAGANTINO 0
 Goal Marcelo.
 
-▪ GROUP B ▪
+GROUP B
 
 2/oct/93
 
@@ -473,7 +474,7 @@ ATLÉTICO-MG 0 x GRÊMIO 0
 
 SPORT 0 x GUARANI 0
 
-▪ GROUP C ▪
+GROUP C
 
 29/sep/93
 
@@ -488,7 +489,7 @@ NÁUTICO 0 x GOIÁS 0
 VITÓRIA-BA 2 x SANTA CRUZ 1
 Goals Vitória-BA: Roberto Cavalo and Alex Alves. Santa Cruz: Serginho.
 
-▪ GROUP D ▪
+GROUP D
 
 29/sep/93
 
@@ -504,7 +505,7 @@ Goals Desportiva-ES: Barbosa. América-MG: Hamílton, Guttemberg, Euller and Fl�
 
 ▪ ROUND 1 ▪
 
-▪ GROUP A ▪
+GROUP A
 
 9/oct/93
 
@@ -526,7 +527,7 @@ Goals Cruzeiro: Ronaldo. São Paulo: Leonardo.
 FLAMENGO 2 x BOTAFOGO 0
 Goals Casagrande and Júnior Baiano.
 
-▪ GROUP B ▪
+GROUP B
 
 9/oct/93
 
@@ -545,7 +546,7 @@ Goals Palmeiras: Edmundo, Antônio Carlos and Evair. Guarani: Fernando.
 ATLÉTICO-MG 1 x VASCO 3
 Goals Atlético-MG: Reinaldo. Vasco: William, França and Valdir.
 
-▪ GROUP C ▪
+GROUP C
 
 6/oct/93
 
@@ -561,7 +562,7 @@ Goal Osmar.
 VITÓRIA-BA 3 x GOIÁS 1
 Goals Vitória-BA: Roberto Cavalo (2) and Gerônimo. Goiás: Wallace.
 
-▪ GROUP D ▪
+GROUP D
 
 6/oct/93
 
@@ -575,7 +576,7 @@ Goals América-MG: Ednélson-Paraná (own goal) and Hamílton. Paraná: Luís Am
 
 ▪ ROUND 2 ▪
 
-▪ GROUP A ▪
+GROUP A
 
 16/oct/93
 
@@ -592,7 +593,7 @@ Goal Mazinho Loiola.
 BOTAFOGO 0 x CRUZEIRO 1
 Goal Ronaldo.
 
-▪ GROUP B ▪
+GROUP B
 
 16/oct/93
 
@@ -611,7 +612,7 @@ Goal Clóvis.
 SANTOS 1 x ATLÉTICO-MG 0
 Goal Cuca.
 
-▪ GROUP C ▪
+GROUP C
 
 10/oct/93
 
@@ -627,7 +628,7 @@ Goals Goiás: Goiás: Vivinho and César Mineiro. Ceará: Gílson and Ivanildo.
 PAYSANDU 2 x SANTA CRUZ 1
 Goals Paysandu: Mané Ferreira and Marquinhos Capixaba. Santa Cruz: Marco Antônio.
 
-▪ GROUP D ▪
+GROUP D
 
 9/oct/93
 
@@ -644,7 +645,7 @@ DESPORTIVA-ES 0 x PARANÁ 0
 
 ▪ ROUND 3 ▪
 
-▪ GROUP A ▪
+GROUP A
 
 23/oct/93
 
@@ -665,7 +666,7 @@ Goals Internacional: Paulinho. Corinthians: Mabília.
 BOTAFOGO 3 x BAHIA 0
 Goals Sinval (2) and Róbson.
 
-▪ GROUP B ▪
+GROUP B
 
 23/oct/93
 
@@ -682,7 +683,7 @@ Goals Guga (2) and Zé Renato. Guarani: Robert, Fernando and Clóvis.
 GRÊMIO 2 x SPORT 1
 Goals Grêmio: Carlos Miguel and Paulão. Sport: Marcelo Gomes.
 
-▪ GROUP C ▪
+GROUP C
 
 13/oct/93
 
@@ -697,7 +698,7 @@ PAYSANDU 1 x CEARÁ 0
 Goal Marquinhos Capixaba.
 SANTA CRUZ 0 x VITÓRIA-BA 0
 
-▪ GROUP D ▪
+GROUP D
 
 13/oct/93
 
@@ -712,7 +713,7 @@ Goals Desportiva-ES: Barbosa. Criciúma: Ânderson and Dauri.
 
 ▪ ROUND 4 ▪
 
-▪ GROUP A ▪
+GROUP A
 
 30/oct/93
 
@@ -728,7 +729,7 @@ Goals Corinthians: Viola (2), Rivaldo (2) and Válber. Botafogo: André Duarte.
 CRUZEIRO 1 x BRAGANTINO 0
 Goal Ronaldo
 
-▪ GROUP B ▪
+GROUP B
 
 20/oct/93
 
@@ -750,7 +751,7 @@ Goals Palmeiras: Edmundo (2) and Luciano-Grêmio (own goal). Grêmio: Luciano.
 FLUMINENSE 3 x SANTOS 4
 Goals Fluminense: Nílson (2) and Andrei. Santos: Guga (2), Axel and Sérgio Manoel.
 
-▪ GROUP C ▪
+GROUP C
 
 17/oct/93
 
@@ -762,7 +763,7 @@ Goals Serginho, Willians and Marcelo.
 NÁUTICO 3 x FORTALEZA 1
 Goals Náutico: Niquinha, André and Gilberto. Fortaleza: Josué.
 
-▪ GROUP D ▪
+GROUP D
 
 16/oct/93
 
@@ -780,7 +781,7 @@ Goal Hélcio
 
 ▪ ROUND 5 ▪
 
-▪ GROUP A ▪
+GROUP A
 
 3/nov/93
 
@@ -796,7 +797,7 @@ Goals Müller and Palhinha.
 CRUZEIRO 6 x BAHIA 0
 Goals Ronaldo (5) and Careca.
 
-▪ GROUP B ▪
+GROUP B
 
 2/nov/93
 
@@ -819,7 +820,7 @@ FLUMINENSE 1 x GUARANI 2
 Goals Fluminense: Celinho. Guarani: Fernando and Tiba.
 
 
-▪ GROUP C ▪
+GROUP C
 
 20/oct/93
 
@@ -834,7 +835,7 @@ Goals Santa Cruz: Marcelo. Fortaleza: Eliézer.
 REMO 4 x GOIÁS 0
 Goals Ageu (2), Guilherme and Tarcísio.
 
-▪ GROUP D ▪
+GROUP D
 
 20/oct/93
 
@@ -847,7 +848,7 @@ AMÉRICA-MG 0 x CRICIÚMA 0
 
 ▪ ROUND 6 ▪
 
-▪ GROUP A ▪
+GROUP A
 
 9/oct/93
 
@@ -869,7 +870,7 @@ Goals Corinthians: Válber and Rivaldo. Cruzeiro: Edenílson.
 INTERNACIONAL 1 x SÃO PAULO 1
 Goals Internacional: Zinho. São Paulo: Leonardo.
 
-▪ GROUP B ▪
+GROUP B
 
 2/nov/93
 
@@ -887,7 +888,7 @@ GRÊMIO 4 x VASCO 1
 Goals Grêmio: Charles (2), Carlos Alberto Dias and Branco. Vasco: Valdir.
 FLUMINENSE 0 x SPORT 0
 
-▪ GROUP C ▪
+GROUP C
 
 24/oct/93
 
@@ -901,7 +902,7 @@ Goals Ceará: Júnior Xavier and Ronaldo. Remo: Tarcísio.
 SANTA CRUZ 3 x GOIÁS 1
 Goals Santa Cruz: Marcelinho (2) and Marcelo. Goiás: Niltinho.
 
-▪ GROUP D ▪
+GROUP D
 
 24/oct/93
 
@@ -913,7 +914,7 @@ CORITIBA 0 x ATLÉTICO-PR 0
 
 ▪ ROUND 7 ▪
 
-▪ GROUP A ▪
+GROUP A
 
 14/nov/93
 
@@ -926,7 +927,7 @@ Goals Cruzeiro: Edenílson (2), Zelão and Ronaldo. Internacional: Paulinho.
 BRAGANTINO 2 x BAHIA 2
 Goals Bragantino: Sílvio and Claudinho. Bahia: Arthurzinho and Marcelo.
 
-▪ GROUP B ▪
+GROUP B
 
 13/nov/93
 
@@ -942,7 +943,7 @@ Goals Carlos Alberto Dias and Carlos Miguel.
 VASCO 1 x SANTOS 1
 Goals Vasco: Júnior. Santos: Guga.
 
-▪ GROUP C ▪
+GROUP C
 
 27/oct/93
 
@@ -954,7 +955,7 @@ GOIÁS 0 x FORTALEZA 0
 NÁUTICO 2 x CEARÁ 1
 Goals Náutico: Maurício and Jéferson. Ceará: Claudemir.
 
-▪ GROUP D ▪
+GROUP D
 
 27/oct/93
 
@@ -967,49 +968,21 @@ Goal Émerson.
 AMÉRICA-MG 0 x DESPORTIVA-ES 0
 
 FINAL TABLE - FIRST PHASE
-▪ GROUP A ▪
+GROUP A
 TEAM             Pts  P   W  D  L   GF-GA  DIF
-1-CORINTHIANS    24  14  10  4  0   27- 8   19   Qualified
-2-SÃO PAULO      17  14   5  7  2   19-12    7   Qualified
-3-FLAMENGO       16  14   6  4  4   17-16    1   Qualified
-4-CRUZEIRO       14  14   6  2  6   22-15    7
-5-INTERNACIONAL  14  14   5  4  5   17-20   -3
-6-BRAGANTINO     13  14   2  9  3   18-16    2
-7-BAHIA           8  14   2  4  8   10-29  -19
-8-BOTAFOGO        6  14   2  2 10    7-21  -14
+<!-- $table1$ -->
 
-▪ GROUP B ▪
+GROUP B
 TEAM             Pts  P   W  D  L   GF-GA  DIF
-1-PALMEIRAS      22  14  10  2  2   27-14   13   Qualified
-2-SANTOS         20  14   8  4  2   24-14   10   Qualified
-3-GUARANI        19  14   7  5  2   21-13    8   Qualified
-4-GRÊMIO         15  14   6  3  5   20-17    3
-5-VASCO          13  14   5  3  6   19-20   -1
-6-SPORT          11  14   4  3  7   10-21  -11
-7-FLUMINENSE      8  14   3  2  9   18-26   -8
-8-ATLÉTICO-MG     4  14   1  2 11    7-21  -14
+<!-- $table2$ -->
 
-▪ GROUP C ▪
+GROUP C
 TEAM             Pts  P   W  D  L   GF-GA  DIF
-1-VITÓRIA-BA     20  14   9  2  3   27-14   13   To playoff
-2-REMO           17  14   8  1  5   28-17   11   To playoff
-3-PAYSANDU       17  14   6  5  3   15-13    2
-4-NÁUTICO        14  14   5  4  5   14-18   -4
-5-CEARÁ          13  14   6  1  7   16-19   -3   Relegated
-6-SANTA CRUZ     12  14   5  2  7   20-17    3   Relegated
-7-GOIÁS          10  14   2  6  6   12-22  -10   Relegated
-8-FORTALEZA       9  14   2  5  7   11-23  -12   Relegated
+<!-- $table3$ -->
 
-▪ GROUP D ▪
+GROUP D
 TEAM             Pts  P   W  D  L   GF-GA  DIF
-1-PORTUGUESA     17  14   7  3  4   23-16    7   To playoff
-2-PARANÁ         17  14   6  5  3   17-11    6   To playoff
-3-UNIÃO SÃO JOÃO 16  14   6  4  4   21-11   10
-4-CRICIÚMA       15  14   6  3  5   18-20   -2
-5-AMÉRICA-MG     14  14   4  6  4   18-18    0   Relegated
-6-CORITIBA       13  14   3  7  4   10-15   -5   Relegated
-7-ATLÉTICO-PR    12  14   3  6  5   14-16   -2   Relegated
-8-DESPORTIVA      8  14   1  6  7    9-23  -14   Relegated
+<!-- $table4$ -->
 
 GROUPS C and D - PLAYOFF
 
@@ -1040,7 +1013,7 @@ REMO and VITÓRIA (due to better first phase record) qualified to the Second Pha
 
 ▪ ROUND 1 ▪
 
-▪ GROUP E ▪
+GROUP E
 
 20/nov/93
 
@@ -1049,7 +1022,7 @@ Goals Corinthians: Rivaldo, Válber and Zé Elias. Santos: Guga (2).
 VITÓRIA-BA 1 x FLAMENGO 0
 Goal Roberto Cavalo.
 
-▪ GROUP F ▪
+GROUP F
 
 21/nov/93
 
@@ -1063,7 +1036,7 @@ Goals Remo: Agnaldo. Guarani. Djalminha.
 
 ▪ ROUND 2 ▪
 
-▪ GROUP E ▪
+GROUP E
 
 24/nov/93
 
@@ -1075,7 +1048,7 @@ Goals Vitória-BA: Claudinho and Alex Alves. Corinthians: Tupãzinho.
 FLAMENGO 1 x SANTOS 1
 Goals Flamengo: Rogério. Santos: Neizinho.
 
-▪ GROUP F ▪
+GROUP F
 
 25/nov/93
 
@@ -1090,7 +1063,7 @@ Goals Müller and Palhinha.
 
 ▪ ROUND 3 ▪
 
-▪ GROUP E ▪
+GROUP E
 
 28/nov/93
 
@@ -1099,7 +1072,7 @@ Goals Santos: Guga (2) and Júnior. Vitória-BA: Paulo Isidoro, Roberto Cavalo a
 FLAMENGO 1 x CORINTHIANS 1
 Goals Flamengo: Renato Gaúcho. Corinthians: Viola.
 
-▪ GROUP F ▪
+GROUP F
 
 28/nov/93
 
@@ -1112,7 +1085,7 @@ Goals Remo: Guilherme. Palmeiras: César Sampaio and Edmundo.
 
 ▪ ROUND 1 ▪
 
-▪ GROUP E ▪
+GROUP E
 
 1/dec/93
 VITÓRIA-BA 2 x SANTOS 2
@@ -1120,7 +1093,7 @@ Goals Vitória-BA: Paulo Isidoro (2). Santos: Guga and Cuca.
 CORINTHIANS 2 x FLAMENGO 2
 Goals Corinthians: Tupãzinho and Viola. Flamengo: Marcelinho Carioca and Renato Gaúcho.
 
-▪ GROUP F ▪
+GROUP F
 
 1/dec/93
 
@@ -1132,7 +1105,7 @@ Goals Edílson, Evair and Edmundo.
 
 ▪ ROUND 2 ▪
 
-▪ GROUP E ▪
+GROUP E
 
 4/dec/93
 
@@ -1144,7 +1117,7 @@ Goals Santos: Ranielli and Almir. Flamengo: Lula-Santos (own goal).
 CORINTHIANS 2 x VITÓRIA-BA 2
 Goals Corinthians: Rivaldo and Henrique. Vitória-BA: Roberto Cavalo and Pichetti.
 
-▪ GROUP F ▪
+GROUP F
 
 4/dec/93
 
@@ -1158,7 +1131,7 @@ Goals Guarani: Clóvis (3), Tiba (3), Henrique and Édson Pezinho. Remo: Giovann
 
 ▪ ROUND 3 ▪
 
-▪ GROUP E ▪
+GROUP E
 
 8/dec/93
 
@@ -1167,7 +1140,7 @@ Goals Flamengo: Renato Gaúcho. Vitória-BA: Roberto Cavalo.
 SANTOS 1 x CORINTHIANS 2
 Goals Santos: Almir. Corinthians: Rivaldo and Viola.
 
-▪ GROUP F ▪
+GROUP F
 
 19/nov/93
 
@@ -1179,19 +1152,13 @@ Goal Guilherme.
 PALMEIRAS 0 x REMO 0
 
 FINAL TABLE - SECOND PHASE
-▪ GROUP E ▪
+GROUP E
 TEAM             Pts  P   W  D  L   GF-GA  DIF
-1-VITÓRIA-BA      8   6   2  4  0   11- 9    2   Qualified
-2-CORINTHIANS     7   6   2  3  1   11-10    1
-3-SANTOS          5   6   1  3  2   11-12   -1
-4-FLAMENGO        4   6   0  4  2    6- 8   -2
+<!-- $table5$ -->
 
-▪ GROUP F ▪
+GROUP F
 TEAM             Pts  P   W  D  L   GF-GA  DIF
-1-PALMEIRAS      10   6   4  2  0   10- 3    7   Qualified
-2-SÃO PAULO       9   6   4  1  1    8- 5    3
-3-GUARANI         3   6   1  1  4   12-12    0
-4-REMO            2   6   0  2  4    4-14  -10
+<!-- $table6$ -->
 
 ▪ FINALS ▪
 
@@ -1213,38 +1180,7 @@ SE Palmeiras were the 1993 Brazilian champions
 
 FINAL TABLE - 1993 BRAZILIAN CHAMPIONSHIP
 TEAM             Pts  P   W  D  L   GF-GA  DIF
-1-PALMEIRAS      36  22  16  4  2   40-17   23
-2-VITÓRIA-BA     30  24  11  8  5   39-27   12
-3-CORINTHIANS    31  20  12  7  1   38-18   20
-4-SÃO PAULO      26  20   9  8  3   27-17   10
-5-SANTOS         25  20   9  7  4   35-26    9
-6-GUARANI        22  20   8  6  6   33-25    8
-7-FLAMENGO       20  20   6  8  6   23-24   -1
-8-REMO           21  22   9  3 10   37-35    2
-9-PORTUGUESA     19  16   8  3  5   27-21    6
-10-PARANÁ        19  16   6  7  3   18-12    6
-11-PAYSANDU      17  14   6  5  3   15-13    2
-12-U.SÃO JOÃO    16  14   6  4  4   21-11   10
-13-GRÊMIO        15  14   6  3  5   20-17    3
-14-CRICIÚMA      15  14   6  3  5   18-20   -2
-15-CRUZEIRO      14  14   6  2  6   22-15    7
-16-AMÉRICA-MG    14  14   4  6  4   18-18    0   Relegated
-17-INTERNACIONAL 14  14   5  4  5   17-20   -3
-18-NÁUTICO       14  14   5  4  5   14-18   -4
-19-BRAGANTINO    13  14   2  9  3   18-16    2
-20-VASCO         13  14   5  3  6   19-20   -1
-21-CEARÁ         13  14   6  1  7   16-19   -3   Relegated
-22-CORITIBA      13  14   3  7  4   10-15   -5   Relegated
-23-SANTA CRUZ    12  14   5  2  7   20-17    3   Relegated
-24-ATLÉTICO-PR   12  14   3  6  5   14-16   -2   Relegated
-25-SPORT         11  14   4  3  7   10-21  -11
-26-GOIÁS         10  14   2  6  6   12-22  -10   Relegated
-27-FORTALEZA      9  14   2  5  7   11-23  -12
-28-FLUMINENSE     8  14   3  2  9   18-26   -8   Relegated
-29-DESPORTIVA     8  14   1  6  7    9-23  -14   Relegated
-30-BAHIA          8  14   2  4  8   10-29  -19
-31-BOTAFOGO       6  14   2  2 10    7-21  -14
-32-ATLÉTICO-MG    4  14   1  2 11    7-21  -14
+<!-- $table7$ -->
 
 N.B. América-MG was suspended for 2 years in 1994, because they contested
      their relegation in a civil court.  In 1996 the team would return to the
@@ -1316,7 +1252,7 @@ V COPA DO BRASIL
 06/04 - 20/04 Vitória           2-1  0-1   Palmeiras
 30/03 - 13/04 União Bandeirante 0-4  1-2   Grêmio
 
-THIRD PHASE
+▪ THIRD PHASE ▪
 
 04/05 - 11/05 São Paulo         1-2  2-2   Cruzeiro
 06/05 - 14/05 Ceará             1-2  0-2   Vasco

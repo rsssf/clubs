@@ -1,10 +1,12 @@
   <!--
-     source: https://rsssf.org/tablesb/braz02.html
+     title:   Brazil 2002
+     source:  https://rsssf.org/tablesb/braz02.html
+     author:  RSSSF Brazil
+     updated: 19 Apr 2003    
     -->
-  
 
 
-== Brazil 2002
+
 
 Participants
 
@@ -24,8 +26,7 @@ Grêmio FBPA (Porto Alegre-RS)               EC Vitória (Salvador-BA)
 
 ▪ First Phase ▪
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Table -->
 
 ▪ Round 1 ▪
 _ Aug 10 _
@@ -775,8 +776,7 @@ Gama           4-0  Coritiba
 São Caetano    3-2  Santos
   (Claudecir 41', 63', Luís Carlos Capixaba 53'; Alex 58', Alberto 87'p)
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Table -->
 
 
 ▪ Quarterfinals ▪
@@ -891,10 +891,4 @@ Coach: CARLOS ALBERTO PARREIRA         Coach: Émerson LEÃO
 
 
 
-
-
-
-
-
-<!-- $about$ -->
 

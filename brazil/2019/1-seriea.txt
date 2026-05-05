@@ -1,12 +1,15 @@
-= Brazil Série A 2019
+= Brazil | Série A 2019
 
-Round 1
-[Apr 27]
+
+<!-- $table1$ - Final Table -->
+
+▪ Round 1 ▪
+_ Apr 27 _
 São Paulo       2-0 Botafogo
 Atlético/MG     2-1 Avaí
 Chapecoense     2-0 Internacional
 Flamengo        3-1 Cruzeiro
-[Apr 28]
+_ Apr 28 _
 Grêmio          1-2 Santos
 Athletico/PR    4-1 Vasco da Gama
 Bahia           3-2 Corinthians
@@ -14,8 +17,8 @@ Ceará           4-0 CSA
 Fluminense      0-1 Goiás
 Palmeiras       4-0 Fortaleza
 
-Round 2
-[May 1]
+▪ Round 2 ▪
+_ May 1 _
 Corinthians     1-0 Chapecoense
 CSA             1-1 Palmeiras
 Internacional   2-1 Flamengo
@@ -24,16 +27,16 @@ Cruzeiro        1-0 Ceará
 Fortaleza       2-1 Athletico/PR
 Goiás           1-2 São Paulo
 Vasco da Gama   1-2 Atlético/MG
-[May 2]
+_ May 2 _
 Santos          2-1 Fluminense
 Botafogo        3-2 Bahia
 
-Round 3
-[May 4]
+▪ Round 3 ▪
+_ May 4 _
 Vasco da Gama   1-1 Corinthians
 Palmeiras       1-0 Internacional
 Ceará           1-2 Atlético/MG
-[May 5]
+_ May 5 _
 Chapecoense     1-1 Athletico/PR
 Botafogo        1-0 Fortaleza
 Cruzeiro        2-1 Goiás
@@ -42,12 +45,12 @@ São Paulo       1-1 Flamengo
 Bahia           1-0 Avaí
 Grêmio          4-5 Fluminense
 
-Round 4
-[May 11]
+▪ Round 4 ▪
+_ May 11 _
 Fluminense      0-1 Botafogo
 Corinthians     0-0 Grêmio
 Goiás           2-1 Ceará
-[May 12]
+_ May 12 _
 Flamengo        2-1 Chapecoense
 Atlético/MG     0-2 Palmeiras
 Internacional   3-1 Cruzeiro
@@ -56,12 +59,12 @@ Athletico/PR    1-0 Bahia
 Avaí            0-0 CSA
 Fortaleza       0-1 São Paulo
 
-Round 5
-[May 18]
+▪ Round 5 ▪
+_ May 18 _
 Fluminense      4-1 Cruzeiro
 Palmeiras       4-0 Santos
 Atlético/MG     2-1 Flamengo
-[May 19]
+_ May 19 _
 São Paulo       0-0 Bahia
 Internacional   2-0 CSA
 Chapecoense     1-3 Fortaleza
@@ -70,26 +73,26 @@ Athletico/PR    0-2 Corinthians
 Vasco da Gama   1-1 Avaí
 Ceará           2-1 Grêmio
 
-Round 6
-[May 25]
+▪ Round 6 ▪
+_ May 25 _
 Botafogo        0-1 Palmeiras
 Grêmio          1-0 Atlético/MG
-[May 26]
+_ May 26 _
 Flamengo        3-2 Athletico/PR
 Santos          0-0 Internacional
 Fortaleza       1-1 Vasco da Gama
 Corinthians     1-0 São Paulo
 Bahia           3-2 Fluminense
 Cruzeiro        1-2 Chapecoense
-[May 27]
+_ May 27 _
 Avaí            1-2 Ceará
 CSA             1-0 Goiás
 
-Round 7
-[Jun 1]
+▪ Round 7 ▪
+_ Jun 1 _
 Flamengo        2-0 Fortaleza
 Bahia           1-0 Grêmio
-[Jun 2]
+_ Jun 2 _
 Botafogo        1-0 Vasco da Gama
 Ceará           0-1 Santos
 São Paulo       1-1 Cruzeiro
@@ -97,181 +100,181 @@ Athletico/PR    3-0 Fluminense
 Internacional   2-0 Avaí
 Atlético/MG     4-0 CSA
 Chapecoense     1-2 Palmeiras
-[Aug 7]
+_ Aug 7 _
 Corinthians     2-0 Goiás
 
-Round 8
-[Jun 7]
+▪ Round 8 ▪
+_ Jun 7 _
 Vasco da Gama   2-1 Internacional
-[Jun 8]
+_ Jun 8 _
 Palmeiras       1-0 Athletico/PR
 Cruzeiro        0-0 Corinthians
 Grêmio          1-0 Fortaleza
 Ceará           0-0 Bahia
 Avaí            0-0 São Paulo
-[Jun 9]
+_ Jun 9 _
 CSA             1-2 Botafogo
 Fluminense      0-0 Flamengo
 Santos          3-1 Atlético/MG
-[Jun 10]
+_ Jun 10 _
 Goiás           3-1 Chapecoense
 
-Round 9
-[Jun 12]
+▪ Round 9 ▪
+_ Jun 12 _
 Botafogo        0-1 Grêmio
 Fortaleza       2-1 Cruzeiro
 CSA             0-2 Flamengo
 Internacional   3-1 Bahia
 Santos          1-0 Corinthians
-[Jun 13]
+_ Jun 13 _
 Vasco da Gama   1-0 Ceará
 Atlético/MG     1-1 São Paulo
 Goiás           2-1 Athletico/PR
 Palmeiras       2-0 Avaí
 Chapecoense     1-1 Fluminense
 
-Round 10
-[Jul 13]
+▪ Round 10 ▪
+_ Jul 13 _
 Grêmio          2-1 Vasco da Gama
 Fortaleza       2-0 Avaí
 Bahia           0-1 Santos
 São Paulo       1-1 Palmeiras
-[Jul 14]
+_ Jul 14 _
 Flamengo        6-1 Goiás
 Corinthians     1-0 CSA
 Cruzeiro        0-0 Botafogo
 Athletico/PR    1-0 Internacional
 Chapecoense     1-2 Atlético/MG
-[Jul 15]
+_ Jul 15 _
 Fluminense      1-1 Ceará
 
-Round 11
-[Jul 20]
+▪ Round 11 ▪
+_ Jul 20 _
 Vasco da Gama   2-1 Fluminense
 Bahia           0-0 Cruzeiro
 Ceará           2-0 Palmeiras
 CSA             0-4 Athletico/PR
 Internacional   1-1 Grêmio
-[Jul 21]
+_ Jul 21 _
 Botafogo        0-1 Santos
 Atlético/MG     2-2 Fortaleza
 Corinthians     1-1 Flamengo
 Avaí            0-0 Goiás
-[Jul 22]
+_ Jul 22 _
 São Paulo       4-0 Chapecoense
 
-Round 12
-[Jul 27]
+▪ Round 12 ▪
+_ Jul 27 _
 Palmeiras       1-1 Vasco da Gama
 Cruzeiro        0-2 Athletico/PR
 Fluminense      1-2 São Paulo
 Internacional   1-0 Ceará
-[Jul 28]
+_ Jul 28 _
 Chapecoense     0-0 Bahia
 Flamengo        3-2 Botafogo
 Santos          3-1 Avaí
 Fortaleza       1-3 Corinthians
 Goiás           0-0 Atlético/MG
-[Jul 29]
+_ Jul 29 _
 CSA             0-0 Grêmio
 
-Round 13
-[Aug 3]
+▪ Round 13 ▪
+_ Aug 3 _
 Ceará           2-1 Fortaleza
 Fluminense      2-1 Internacional
-[Aug 4]
+_ Aug 4 _
 Santos          6-1 Goiás
 Avaí            0-2 Botafogo
 Bahia           3-0 Flamengo
 Atlético/MG     2-0 Cruzeiro
 Corinthians     1-1 Palmeiras
 Vasco da Gama   0-0 CSA
-[Aug 5]
+_ Aug 5 _
 Grêmio          3-3 Chapecoense
-[Aug 21]
+_ Aug 21 _
 Athletico/PR    0-1 São Paulo
 
-Round 14
-[Aug 10]
+▪ Round 14 ▪
+_ Aug 10 _
 Ceará           4-1 Chapecoense
 São Paulo       3-2 Santos
 Flamengo        3-1 Grêmio
 Atlético/MG     2-1 Fluminense
-[Aug 11]
+_ Aug 11 _
 Internacional   0-0 Corinthians
 Avaí            2-2 Cruzeiro
 Botafogo        2-1 Athletico/PR
 Palmeiras       2-2 Bahia
 Goiás           0-1 Vasco da Gama
-[Aug 12]
+_ Aug 12 _
 CSA             0-2 Fortaleza
 
-Round 15
-[Aug 17]
+▪ Round 15 ▪
+_ Aug 17 _
 Corinthians     2-0 Botafogo
 Fortaleza       0-1 Internacional
 Athletico/PR    1-0 Atlético/MG
 Vasco da Gama   1-4 Flamengo
 Grêmio          1-1 Palmeiras
-[Aug 18]
+_ Aug 18 _
 Bahia           1-1 Goiás
 Cruzeiro        2-0 Santos
 Fluminense      0-1 CSA
 São Paulo       1-0 Ceará
 Chapecoense     1-0 Avaí
 
-Round 16
-[Aug 24]
+▪ Round 16 ▪
+_ Aug 24 _
 Atlético/MG     0-1 Bahia
 Grêmio          2-1 Athletico/PR
-[Aug 25]
+_ Aug 25 _
 Goiás           2-1 Internacional
 Santos          3-3 Fortaleza
 Vasco da Gama   2-0 São Paulo
 Avaí            1-1 Corinthians
 Ceará           0-3 Flamengo
 CSA             1-1 Cruzeiro
-[Aug 26]
+_ Aug 26 _
 Botafogo        0-0 Chapecoense
-[Sep 10]
+_ Sep 10 _
 Palmeiras       3-0 Fluminense
 
-Round 17
-[Aug 31]
+▪ Round 17 ▪
+_ Aug 31 _
 São Paulo       0-0 Grêmio
 Bahia           1-0 CSA
 Athletico/PR    1-0 Ceará
 Chapecoense     0-1 Santos
 Internacional   3-2 Botafogo
-[Sep 1]
+_ Sep 1 _
 Flamengo        3-0 Palmeiras
 Fortaleza       2-0 Goiás
 Corinthians     1-0 Atlético/MG
 Cruzeiro        1-0 Vasco da Gama
-[Sep 2]
+_ Sep 2 _
 Fluminense      0-1 Avaí
 
-Round 18
-[Sep 7]
+▪ Round 18 ▪
+_ Sep 7 _
 Corinthians     2-2 Ceará
 Vasco da Gama   0-2 Bahia
 Avaí            0-3 Flamengo
 Fortaleza       0-1 Fluminense
 Internacional   1-0 São Paulo
 Goiás           1-2 Palmeiras
-[Sep 8]
+_ Sep 8 _
 Cruzeiro        1-4 Grêmio
 Botafogo        2-1 Atlético/MG
 Santos          1-1 Athletico/PR
 CSA             2-0 Chapecoense
 
-Round 19
-[Sep 14]
+▪ Round 19 ▪
+_ Sep 14 _
 Flamengo        1-0 Santos
 Chapecoense     1-2 Vasco da Gama
 Palmeiras       1-0 Cruzeiro
 Ceará           0-0 Botafogo
-[Sep 15]
+_ Sep 15 _
 Athletico/PR    0-1 Avaí
 Atlético/MG     1-3 Internacional
 Bahia           1-1 Fortaleza
@@ -279,67 +282,69 @@ Fluminense      1-0 Corinthians
 Grêmio          3-0 Goiás
 São Paulo       1-1 CSA
 
-Round 20
-[Sep 21]
+<!-- $table2$ - Halfway Table -->
+
+▪ Round 20 ▪
+_ Sep 21 _
 Botafogo        1-2 São Paulo
 Cruzeiro        1-2 Flamengo
 Corinthians     2-1 Bahia
 Santos          0-3 Grêmio
-[Sep 22]
+_ Sep 22 _
 Internacional   1-0 Chapecoense
 CSA             1-0 Ceará
 Fortaleza       0-1 Palmeiras
 Vasco da Gama   1-1 Athletico/PR
 Goiás           3-0 Fluminense
-[Sep 23]
+_ Sep 23 _
 Avaí            1-0 Atlético/MG
 
-Round 21
-[Sep 25]
+▪ Round 21 ▪
+_ Sep 25 _
 Ceará           0-0 Cruzeiro
 Bahia           2-0 Botafogo
 Flamengo        3-1 Internacional
 São Paulo       0-1 Goiás
-[Sep 26]
+_ Sep 26 _
 Palmeiras       6-2 CSA
 Fluminense      1-1 Santos
 Grêmio          6-1 Avaí
 Athletico/PR    4-1 Fortaleza
-[Oct 2]
+_ Oct 2 _
 Atlético/MG     1-2 Vasco da Gama
 Chapecoense     0-1 Corinthians
 
-Round 22
-[Sep 28]
+▪ Round 22 ▪
+_ Sep 28 _
 Flamengo        0-0 São Paulo
-[Sep 29]
+_ Sep 29 _
 Corinthians     1-0 Vasco da Gama
 Fluminense      2-1 Grêmio
 Internacional   1-1 Palmeiras
 Santos          2-0 CSA
 Athletico/PR    1-1 Chapecoense
 Atlético/MG     2-1 Ceará
-[Sep 30]
+_ Sep 30 _
 Avaí            0-2 Bahia
 Fortaleza       1-0 Botafogo
 Goiás           1-0 Cruzeiro
 
-Round 23
-[Oct 5]
+▪ Round 23 ▪
+_ Oct 5 _
 São Paulo       2-1 Fortaleza
 Vasco da Gama   0-1 Santos
 Bahia           1-2 Athletico/PR
 Grêmio          0-0 Corinthians
 Cruzeiro        1-1 Internacional
-[Oct 6]
+_ Oct 6 _
 Chapecoense     0-1 Flamengo
 Botafogo        0-1 Fluminense
 Ceará           0-1 Goiás
 Palmeiras       1-1 Atlético/MG
 CSA             3-1 Avaí
 
-Round 24
-[Oct 9]
+▪ Round 24 ▪
+_ Oct 9 _
 Botafogo        3-1 Goiás
 CSA             1-0 Internacional
 Fortaleza       2-0 Chapecoense
@@ -347,17 +352,17 @@ Bahia           0-0 São Paulo
 Grêmio          2-1 Ceará
 Cruzeiro        0-0 Fluminense
 Santos          2-0 Palmeiras
-[Oct 10]
+_ Oct 10 _
 Avaí            0-0 Vasco da Gama
 Corinthians     2-2 Athletico/PR
 Flamengo        3-1 Atlético/MG
 
-Round 25
-[Oct 12]
+▪ Round 25 ▪
+_ Oct 12 _
 Goiás           1-0 CSA
 Fluminense      2-0 Bahia
 Palmeiras       1-0 Botafogo
-[Oct 13]
+_ Oct 13 _
 Athletico/PR    0-2 Flamengo
 Ceará           1-0 Avaí
 Internacional   0-0 Santos
@@ -366,8 +371,8 @@ São Paulo       1-0 Corinthians
 Atlético/MG     1-4 Grêmio
 Chapecoense     1-1 Cruzeiro
 
-Round 26
-[Oct 16]
+▪ Round 26 ▪
+_ Oct 16 _
 CSA             2-2 Atlético/MG
 Grêmio          0-1 Bahia
 Fortaleza       1-2 Flamengo
@@ -375,61 +380,61 @@ Cruzeiro        1-0 São Paulo
 Palmeiras       1-0 Chapecoense
 Vasco da Gama   2-1 Botafogo
 Goiás           2-2 Corinthians
-[Oct 17]
+_ Oct 17 _
 Santos          2-1 Ceará
 Avaí            0-2 Internacional
 Fluminense      1-2 Athletico/PR
 
-Round 27
-[Oct 19]
+▪ Round 27 ▪
+_ Oct 19 _
 Fortaleza       2-1 Grêmio
 Corinthians     1-2 Cruzeiro
-[Oct 20]
+_ Oct 20 _
 São Paulo       1-0 Avaí
 Atlético/MG     2-0 Santos
 Internacional   0-1 Vasco da Gama
 Flamengo        2-0 Fluminense
 Chapecoense     2-2 Goiás
 Athletico/PR    1-1 Palmeiras
-[Oct 21]
+_ Oct 21 _
 Bahia           1-2 Ceará
 Botafogo        2-1 CSA
 
-Round 28
-[Oct 26]
+▪ Round 28 ▪
+_ Oct 26 _
 Ceará           1-1 Vasco da Gama
 Corinthians     0-0 Santos
 Bahia           2-3 Internacional
 Fluminense      1-1 Chapecoense
 Cruzeiro        1-1 Fortaleza
-[Oct 27]
+_ Oct 27 _
 Athletico/PR    4-1 Goiás
 Grêmio          3-0 Botafogo
 São Paulo       2-0 Atlético/MG
 Avaí            1-2 Palmeiras
 Flamengo        1-0 CSA
 
-Round 29
-[Oct 30]
+▪ Round 29 ▪
+_ Oct 30 _
 Atlético/MG     0-2 Chapecoense
 Avaí            1-3 Fortaleza
 Palmeiras       3-0 São Paulo
 Ceará           2-0 Fluminense
 CSA             2-1 Corinthians
 Vasco da Gama   1-3 Grêmio
-[Oct 31]
+_ Oct 31 _
 Santos          1-0 Bahia
 Goiás           2-2 Flamengo
 Botafogo        0-2 Cruzeiro
 Internacional   1-1 Athletico/PR
 
-Round 30
-[Nov 2]
+▪ Round 30 ▪
+_ Nov 2 _
 Fortaleza       2-2 Atlético/MG
 Fluminense      0-0 Vasco da Gama
 Palmeiras       1-0 Ceará
 Chapecoense     0-3 São Paulo
-[Nov 3]
+_ Nov 3 _
 Flamengo        4-1 Corinthians
 Athletico/PR    1-0 CSA
 Grêmio          2-0 Internacional
@@ -437,25 +442,25 @@ Cruzeiro        1-1 Bahia
 Santos          4-1 Botafogo
 Goiás           2-0 Avaí
 
-Round 31
-[Nov 6]
+▪ Round 31 ▪
+_ Nov 6 _
 Corinthians     3-2 Fortaleza
 Atlético/MG     2-0 Goiás
 Avaí            1-2 Santos
 Vasco da Gama   1-2 Palmeiras
 Athletico/PR    0-0 Cruzeiro
 Bahia           1-1 Chapecoense
-[Nov 7]
+_ Nov 7 _
 São Paulo       0-2 Fluminense
 Ceará           2-0 Internacional
 Botafogo        0-1 Flamengo
 Grêmio          2-1 CSA
 
-Round 32
-[Nov 9]
+▪ Round 32 ▪
+_ Nov 9 _
 Goiás           0-3 Santos
 Palmeiras       1-1 Corinthians
-[Nov 10]
+_ Nov 10 _
 São Paulo       0-1 Athletico/PR
 Cruzeiro        0-0 Atlético/MG
 Internacional   2-1 Fluminense
@@ -463,30 +468,30 @@ Flamengo        3-1 Bahia
 Chapecoense     0-1 Grêmio
 Fortaleza       1-0 Ceará
 CSA             0-3 Vasco da Gama
-[Nov 11]
+_ Nov 11 _
 Botafogo        2-0 Avaí
 
-Round 33
-[Nov 16]
+▪ Round 33 ▪
+_ Nov 16 _
 Santos          1-1 São Paulo
 Fluminense      1-1 Atlético/MG
-[Nov 17]
+_ Nov 17 _
 Grêmio          0-1 Flamengo
 Bahia           1-1 Palmeiras
 Corinthians     0-0 Internacional
 Chapecoense     1-0 Ceará
 Athletico/PR    1-0 Botafogo
 Fortaleza       3-0 CSA
-[Nov 18]
+_ Nov 18 _
 Vasco da Gama   1-1 Goiás
 Cruzeiro        0-0 Avaí
 
-Round 34
-[Nov 13]
+▪ Round 34 ▪
+_ Nov 13 _
 Flamengo        4-4 Vasco da Gama
-[Nov 23]
+_ Nov 23 _
 Santos          4-1 Cruzeiro
-[Nov 24]
+_ Nov 24 _
 Atlético/MG     0-1 Athletico/PR
 Goiás           4-3 Bahia
 Palmeiras       1-2 Grêmio
@@ -494,28 +499,28 @@ Botafogo        1-0 Corinthians
 Ceará           1-1 São Paulo
 Internacional   2-2 Fortaleza
 Avaí            0-1 Chapecoense
-[Nov 25]
+_ Nov 25 _
 CSA             0-1 Fluminense
 
-Round 35
-[Nov 27]
+▪ Round 35 ▪
+_ Nov 27 _
 Chapecoense     0-1 Botafogo
 Internacional   1-2 Goiás
 Bahia           1-1 Atlético/MG
 Athletico/PR    2-0 Grêmio
 Corinthians     3-0 Avaí
 Flamengo        4-1 Ceará
-[Nov 28]
+_ Nov 28 _
 Fluminense      1-0 Palmeiras
 Fortaleza       2-1 Santos
 São Paulo       1-0 Vasco da Gama
 Cruzeiro        0-1 CSA
 
-Round 36
-[Nov 30]
+▪ Round 36 ▪
+_ Nov 30 _
 Botafogo        0-1 Internacional
 Ceará           1-1 Athletico/PR
-[Dec 1]
+_ Dec 1 _
 Avaí            1-1 Fluminense
 Goiás           1-2 Fortaleza
 Palmeiras       1-3 Flamengo
@@ -523,32 +528,40 @@ Atlético/MG     2-1 Corinthians
 CSA             1-2 Bahia
 Grêmio          3-0 São Paulo
 Santos          2-0 Chapecoense
-[Dec 2]
+_ Dec 2 _
 Vasco da Gama   1-0 Cruzeiro
 
-Round 37
-[Dec 4]
+▪ Round 37 ▪
+_ Dec 4 _
 Athletico/PR    1-0 Santos
 Atlético/MG     2-0 Botafogo
 Ceará           0-1 Corinthians
 Chapecoense     3-0 CSA
 Fluminense      0-0 Fortaleza
 São Paulo       2-1 Internacional
-[Dec 5]
+_ Dec 5 _
 Bahia           1-1 Vasco da Gama
 Grêmio          2-0 Cruzeiro
 Palmeiras       5-1 Goiás
 Flamengo        6-1 Avaí
 
-Round 38 [Dec 8]
+▪ Round 38 ▪  Dec 8
 Avaí            0-0 Athletico/PR
 Botafogo        1-1 Ceará
 Corinthians     1-2 Fluminense
 Cruzeiro        0-2 Palmeiras       [abandoned at 0-2 in 86' due to crowd
-CSA             1-2 São Paulo        ⮑trouble]
+CSA             1-2 São Paulo        trouble]
 Fortaleza       2-1 Bahia
 Goiás           3-2 Grêmio
 Internacional   2-1 Atlético/MG
 Santos          4-0 Flamengo
 Vasco da Gama   1-1 Chapecoense
+
+<!-- $table3$ - Final Table -->
+
+Promoted: Bragantino, Sport Recife, Coritiba, Atlético Goianiense
+
+
+
+
 

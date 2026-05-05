@@ -1,10 +1,12 @@
   <!--
-     source: https://rsssf.org/tablesb/braz06.html
+     title:   Brazil 2006
+     source:  https://rsssf.org/tablesb/braz06.html
+     author:  RSSSF Brazil
+     updated: 29 May 2007    
     -->
-  
 
 
-== Brazil 2006
+
 
 Participants
 
@@ -19,8 +21,7 @@ Fortaleza EC (CE)                           São Caetano FL (São Caetano do Sul
 Grêmio FBPA (Porto Alegre-RS)               São Paulo FC (SP)
 Goiás EC (Goiânia-GO)                       CR Vasco da Gama (Rio de Janeiro-RJ)
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 (+) - Teams promoted from 2005 Série B (2nd level)
 Top 4 (excluding Flamengo and Internacional) qualify to 2007 Libertadores Cup
@@ -913,8 +914,7 @@ Fortaleza      1-0  Grêmio
 Corinthians    5-3  Juventude
   (Edson 3', Roger Flores 25', 43', Marquinhos 78', Amoroso 82'; Cristiano 8', 42', Marcel 47')
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 (+) - Teams promoted from 2005 Série B (2nd level)
 Top 4 (excluding Flamengo and Internacional) qualify to 2007 Libertadores Cup
@@ -936,10 +936,4 @@ Champions and teams positioned from 5-11 (excluding Flamengo and Internacional) 
 
 
 
-
-
-
-
-
-<!-- $about$ -->
 

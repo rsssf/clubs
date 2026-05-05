@@ -1,10 +1,12 @@
   <!--
-     source: https://rsssf.org/tablesb/braz03.html
+     title:   Brazil 2003
+     source:  https://rsssf.org/tablesb/braz03.html
+     author:  RSSSF Brazil
+     updated: 25 Apr 2004    
     -->
-  
 
 
-== Brazil 2003
+
 
 Participants
 
@@ -21,8 +23,7 @@ Fluminense FC (Rio de Janeiro-RJ)           São Paulo FC (SP)
 Fortaleza EC                                CR Vasco da Gama (Rio de Janeiro-RJ)
 Goiás EC (Goiânia-GO)                       EC Vitória S/A (Salvador-BA)
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 [1] Ponte Preta lost the point obtained from the draw in Round 1 with Internacional
     since they fielded an ineligible player (Roberto).  Internacional won 3 points for
@@ -1325,8 +1326,7 @@ Ponte Preta    2-0  Fortaleza
 Bahia          0-7  Cruzeiro
   (Alex 13'p, 17'p, 23'p, 38'p, 66', Felipe Mello 55', Mota 68')
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 [1] Ponte Preta lost the point obtained from the draw in Round 1 with Internacional
     since they fielded an ineligible player (Roberto).  Internacional won 3 points for
@@ -1832,10 +1832,4 @@ Alecsandro      (Vitória for Criciúma)                          1
 
 
 
-
-
-
-
-
-<!-- $about$ -->
 

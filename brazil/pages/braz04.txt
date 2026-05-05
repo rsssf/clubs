@@ -1,10 +1,12 @@
   <!--
-     source: https://rsssf.org/tablesb/braz04.html
+     title:   Brazil 2004
+     source:  https://rsssf.org/tablesb/braz04.html
+     author:  RSSSF Brazil
+     updated: 4 May 2005    
     -->
-  
 
 
-== Brazil 2004
+
 
 Participants
 
@@ -24,8 +26,7 @@ Grêmio FBPA (Porto Alegre-RS)               EC Vitória S/A (Salvador-BA)
 (1) - played home matches in Niterói - except for the derbies against other Rio de Janeiro clubs
 (2) - played home matches in Volta Redonda - except for the derbies against other Rio de Janeiro clubs
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 NB: São Caetano had 24 points deducted for fielding Serginho (who died
     in their match against São Paulo on Oct 27) in spite of knowing
@@ -1286,8 +1287,7 @@ Corinthians    5-2  Figueirense
 Juventude      1-2  Paysandu
   (Sandrinho 17'; Flávio Tanajura 48', Alex Pinho 80')
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Final Table -->
 
 NB: São Caetano had 24 points deducted for fielding Serginho (who died
     in their match against São Paulo on Oct 27) in spite of knowing
@@ -1790,10 +1790,4 @@ Alex Silva     (Vitória for Flamengo)         1
 
 
 
-
-
-
-
-
-<!-- $about$ -->
 

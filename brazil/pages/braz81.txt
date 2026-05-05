@@ -1,10 +1,12 @@
   <!--
-     source: https://rsssf.org/tablesb/braz81.html
+     title:   Brazil 1981
+     source:  https://rsssf.org/tablesb/braz81.html
+     author:  Ricardo Pontes
+     updated: 3 Apr 2005    
     -->
-  
 
 
-== Brazil 1981
+
 
 
 Taça de Ouro - Championship
@@ -102,7 +104,7 @@ Centro Sportivo Alagoano - CSA (Maceió-AL)
 
 ▪ First Phase ▪
 
-▪ Group A ▪
+Group A
 
 ▪ Round 1 ▪
 _ Jan 17 _
@@ -221,10 +223,9 @@ Colorado          0-0  Ponte Preta
 Internacional-RS  1-1  Internacional-SP
   [Vágner;  Vágner (own goal)]
 
-<!-- $table1$ -->
+<!-- $table1$ - Table -->
 
-
-▪ Group B ▪
+Group B
 
 ▪ Round 1 ▪
 _ Jan 18 _
@@ -343,10 +344,9 @@ Desportiva        0-1  Portuguesa
 Operário-MS       2-1  Grêmio
   [Lima, Cléber;  Odair]
 
-<!-- $table2$ -->
+<!-- $table2$ - Table -->
 
-
-▪ Group C ▪
+Group C
 
 ▪ Round 1 ▪
 _ Jan 18 _
@@ -464,10 +464,9 @@ Mixto             0-4  Atlético-MG
 Ferroviário       2-1  River
   [Jeová, Roberto;  Nascimento]
 
-<!-- $table3$ -->
+<!-- $table3$ - Table -->
 
-
-▪ Group D ▪
+Group D
 
 ▪ Round 1 ▪
 _ Jan 17 _
@@ -587,8 +586,7 @@ Sampaio Corrêa    0-2  Nacional
 CRB               1-0  Paysandu
   [Joãozinho Paulista]
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Table -->
 
 ▪ Second Phase ▪
 
@@ -599,7 +597,7 @@ Esporte Clube BAHIA (Salvador-BA)
 Sociedade Esportiva PALMEIRAS (São Paulo-SP)
 UBERABA Sport Club (Uberaba-MG)
 
-▪ Group E ▪
+Group E
 
 ▪ Round 1 ▪
 _ Mar 7 _
@@ -646,10 +644,9 @@ _ Apr 4 _
 CSA               3-0  Nacional
   [Luís Paulo, Mauro, Rômel]
 
-<!-- $table5$ -->
+<!-- $table5$ - Table -->
 
-
-▪ Group F ▪
+Group F
 
 ▪ Round 1 ▪
 _ Mar 7 _
@@ -694,8 +691,7 @@ Bahia             5-0  Santa Cruz
 Corinthians       2-2  Ponte Preta
   [Rui Rei, Sócrates;  Jorge Campos, Serginho]
 
-<!-- $table6$ -->
-
+<!-- $table6$ - Table -->
 
 ▪ Round 1 ▪
 _ Mar 7 _
@@ -739,10 +735,9 @@ Fluminense        4-1  Paysandu
 
 
 
-<!-- $table7$ -->
+<!-- $table7$ - Table -->
 
-
-▪ Group H ▪
+Group H
 
 ▪ Round 1 ▪
 _ Mar 7 _
@@ -787,10 +782,9 @@ Náutico           3-0  Ferroviário
 Cruzeiro          1-3  Operário-MS
   [Edmar;  Arthurzinho, Baianinho, Pastoril]
 
-<!-- $table8$ -->
+<!-- $table8$ - Table -->
 
-
-▪ Group I ▪
+Group I
 
 ▪ Round 1 ▪
 _ Mar 7 _
@@ -835,10 +829,9 @@ Fortaleza         0-1  São Paulo
 Grêmio            1-0  Internacional-SP
   [Newmar]
 
-<!-- $table9$ -->
+<!-- $table9$ - Table -->
 
-
-▪ Group J ▪
+Group J
 
 ▪ Round 1 ▪
 _ Mar 7 _
@@ -879,10 +872,9 @@ Sport             0-0  Internacional
 Palmeiras         2-0  Goiás
   (Paulinho (2))
 
-<!-- $table10$ -->
+<!-- $table10$ - Table -->
 
-
-▪ Group K ▪
+Group K
 
 ▪ Round 1 ▪
 _ Mar 7 _
@@ -926,10 +918,9 @@ _ Apr 4 _
 Mixto             1-2  Bangu
   (Tostão;  Mirandinha (2))
 
-<!-- $table11$ -->
+<!-- $table11$ - Table -->
 
-
-▪ Group L ▪
+Group L
 
 ▪ Round 1 ▪
 _ Mar 7 _
@@ -972,8 +963,7 @@ Atlético-MG       2-0  Uberaba
 Flamengo          2-1  Colorado
   (Zico (2);  Aladim)
 
-<!-- $table12$ -->
-
+<!-- $table12$ - Table -->
 
 ▪ 1/8 Finals ▪
 
@@ -1044,15 +1034,14 @@ Grêmio            2-1   1-0  São Paulo
 
 Grêmio FBPA are the 1981 Brazilian champions
 
-<!-- $table13$ -->
-
+<!-- $table13$ - Final Table -->
 
 
 Brazilian Championship Of 2nd Level - Taça De Prata 1981
 
 ▪ First Phase ▪
 
-▪ Group A ▪
+Group A
 
 Participants
 Ceará SC (Fortaleza-CE)
@@ -1118,10 +1107,9 @@ Ceará             2-2  Tiradentes
 Remo              2-0  Rio Negro
 Guarany           1-0  Tuna Luso
 
-<!-- $table14$ -->
+<!-- $table14$ - Table -->
 
-
-▪ Group B ▪
+Group B
 
 Participants
 ABC FC (Natal-RN)
@@ -1186,10 +1174,9 @@ _ Feb 2 _
 ASA               2-0  América-PE
 Náutico           1-1  Botafogo-PB
 
-<!-- $table15$ -->
+<!-- $table15$ - Table -->
 
-
-▪ Group C ▪
+Group C
 
 Participants
 AA Anapolina (Anápolis-GO)
@@ -1254,10 +1241,9 @@ Anápolis          0-5  Bahia
 União             0-2  Gama
 Itabuna           2-1  Atlético-GO
 
-<!-- $table16$ -->
+<!-- $table16$ - Table -->
 
-
-▪ Group D ▪
+Group D
 
 Participants
 Botafogo FC (Ribeirão Preto-SP)
@@ -1320,10 +1306,9 @@ Serrano           1-1  Cascavel
 Coritiba          1-0  Campo Grande
 Grêmio Maringá    1-2  Juventus
 
-<!-- $table17$ -->
+<!-- $table17$ - Table -->
 
-
-▪ Group E ▪
+Group E
 
 Participants
 América FC (Belo Horizonte-MG)
@@ -1386,10 +1371,9 @@ América-RJ        1-1  Comercial-MS
 América-MG        2-1  Volta Redonda
 Americano         5-0  São Bento
 
-<!-- $table18$ -->
+<!-- $table18$ - Table -->
 
-
-▪ Group F ▪
+Group F
 
 Participants
 América FC (São José do Rio Preto-SP)
@@ -1452,12 +1436,11 @@ América-SP        3-1  Ferroviária
 Internacional/SM  3-1  Novo Hamburgo
 Criciúma          2-2  São Paulo
 
-<!-- $table19$ -->
-
+<!-- $table19$ - Table -->
 
 ▪ Second Phase ▪
 
-▪ Group G ▪
+Group G
 
 _ Feb 7 _
 Botafogo-PB       0-0  Remo
@@ -1477,10 +1460,9 @@ Botafogo-PB       1-1  Bahia
 _ Feb 24 _
 Bahia             2-0  Remo
 
-<!-- $table20$ -->
+<!-- $table20$ - Table -->
 
-
-▪ Group H ▪
+Group H
 
 _ Feb 7 _
 Tuna Luso         1-2  Anapolina
@@ -1500,10 +1482,9 @@ Tuna Luso         2-3  Náutico
 _ Feb 24 _
 Náutico           2-1  Anapolina
 
-<!-- $table21$ -->
+<!-- $table21$ - Table -->
 
-
-▪ Group I ▪
+Group I
 
 _ Feb 7 _
 Americano         1-0  Guarani
@@ -1523,10 +1504,9 @@ Americano         0-0  Palmeiras
 _ Feb 24 _
 Palmeiras         2-0  Guarani
 
-<!-- $table22$ -->
+<!-- $table22$ - Table -->
 
-
-▪ Group J ▪
+Group J
 
 _ Feb 7 _
 Coritiba          4-0  Comercial-MS
@@ -1546,8 +1526,7 @@ Coritiba          0-1  Uberaba
 _ Feb 24 _
 Uberaba           1-1  Comercial-MS
 
-<!-- $table23$ -->
-
+<!-- $table23$ - Table -->
 
 ▪ Semifinals ▪
 
@@ -1571,10 +1550,4 @@ Guarani-SP, Anapolina         Qualify To 1982 Taça De Ouro.
 
 ‹list of 2nd division champions, see page braz2champ›.
 
-
-
-
-
-
-<!-- $about$ -->
 

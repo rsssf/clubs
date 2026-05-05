@@ -1,10 +1,12 @@
   <!--
-     source: https://rsssf.org/tablesb/braz89.html
+     title:   Brazil 1989
+     source:  https://rsssf.org/tablesb/braz89.html
+     author:  RSSSF Brazil
+     updated: 2 Apr 2005    
     -->
-  
 
 
-== Brazil 1989
+
 
 1st LEVEL
 
@@ -174,21 +176,9 @@ Atlético-MG       0-0  Vitória
 Internacional-RS  0-1  Náutico
   [Erasmo]
 
-Tables
- 1-Corinthians        10  6  2  2  11- 6  14  Qualified
- 2-Botafogo           10  4  3  3  10- 8  11  Qualified
- 3-Atlético-MG        10  3  5  2  13- 8  11  Qualified
- 4-Náutico            10  4  2  4  16-16  10  Qualified
- 5-Internacional-SP   10  3  4  3   8- 8  10  Qualified
- 6-Flamengo           10  3  4  3   6- 7  10  Qualified
- 7-São Paulo          10  2  6  2  11-11  10  Qualified
- 8-Internacional-RS   10  3  3  4   6- 6   9  Qualified
---------------------------------------------
- 9-Guarani            10  3  3  4   7- 8   9
-10-Atlético-PR        10  2  5  3   9-10   9
-11-Vitória            10  2  3  5   4-13   7
+<!-- $table1$ - Tables -->
 
-▪ Group B ▪
+Group B
 
 ▪ Round 1 ▪
 _ Sep 6 _
@@ -336,8 +326,7 @@ Coritiba          dns  Santos              [awarded 0-1, Coritiba refused to
                                             others of the round, as a result
                                             the club was eliminated from the
                                             tournament]
-<!-- $table1$ -->
-
+<!-- $table2$ - Table -->
 
 * - Lost 5 points and was eliminated from the tournament and relegated
 
@@ -503,25 +492,9 @@ Goiás             2-1  Náutico
 
 Tables
 
-▪ Group A ▪
- 1-São Paulo          18  7  9  2  25-15  23  Qualified to final
- 2-Botafogo           18  9  4  5  20-16  22
- 3-Corinthians        18  8  5  5  15-13  21
- 4-Atlético-MG        18  6  7  5  21-13  19
- 5-Flamengo           18  6  7  5  16-13  19
- 6-Náutico            18  5  5  8  27-34  15
- 7-Internacional-SP   18  4  7  7  13-19  15
- 8-Internacional-RS   18  4  5  9  14-19  13
+<!-- $table3$ - Group A -->
 
-▪ Group B ▪
- 1-Vasco da Gama      18  8  8  2  26-16  24  Qualified to final
- 2-Cruzeiro           18  9  5  4  23-14  23
- 3-Palmeiras          18  8  6  4  21-13  22
- 4-Portuguesa         18  7  6  5  21-13  20
- 5-Goiás              18  6  6  6  17-21  18
- 6-Grêmio             18  6  5  7  19-19  17
- 7-Santos             18  5  6  7  13-16  16
- 8-Fluminense         18  5  4  9  15-25  14
+<!-- $table4$ - Group B -->
 
 Relegation Tournament
 
@@ -589,8 +562,7 @@ Atlético-PR       4-1  Guarani
   (Mazinho (2), Geraldo, Osvaldo; Élcio)
 Sport             0-0  Vitória
 
-<!-- $table2$ -->
-
+<!-- $table5$ - Table -->
 
 ▪ Final ▪
 
@@ -617,8 +589,7 @@ Técnico: Nelsinho Rosa
 No second leg was held since Vasco da Gama reached 3 points
 CR Vasco da Gama were the 1989 Brazilian Champions
 
-<!-- $table3$ -->
-
+<!-- $table6$ - Final Table -->
 
 * - Lost 5 points and was eliminated from the tournament and relegated
 
@@ -632,7 +603,7 @@ DIVISÃO ESPECIAL
 
 16 groups of 6, top 2 qualified.  Teams disqualified automatically were excluded from the 1990 2nd level
 
-▪ GROUP A ▪
+GROUP A
 
 Participants
 
@@ -681,14 +652,9 @@ Rio Negro        2-0         Mixto
 FINAL TABLE - GROUP A
 
 TEAM                P    Pts   W   D   L   GF   GA   DIF
-1-Rio Branco        10   12    6   0   4   11   10     1     Qualified
-2-Rio Negro         10   12    5   2   3    9    3     6     Qualified
-3-Nacional          10   11    4   3   3    9    5     4
-4-Dom Bosco         10   10    5   0   5   13   11     2
-5-Mixto             10    8    4   0   6    9   13    -4
-6-Princesa          10    7    3   1   6   12   21    -9
+<!-- $table7$ -->
 
-▪ GROUP B ▪
+GROUP B
 
 
 Participants
@@ -740,14 +706,9 @@ Taguatinga       2-1         Ceilândia
 FINAL TABLE - GROUP B
 
 TEAM                P    Pts   W   D   L   GF   GA   DIF
-1-Anapolina         10   13    6   1   3   15   10     5     Qualified
-2-Ceilândia         10   12    5   2   3   11    9     2     Qualified
-3-Sobradinho        10    9    4   1   5   11   16    -5
-4-Vila Nova         10    9    3   3   4   12   11     1
-5-Taguatinga        10    9    3   3   4   12   13    -1
-6-Atlético          10    8    3   2   5   11   13    -2
+<!-- $table8$ -->
 
-▪ GROUP C ▪
+GROUP C
 
 Participants
 
@@ -799,14 +760,9 @@ Tuna Luso        1-3         Maranhão
 FINAL TABLE - GROUP C
 
 TEAM                P    Pts   W   D   L   GF   GA   DIF
-1-Moto Clube        10   14    5   4   1   17    7    10     Qualified
-2-Remo              10   13    5   3   2   11    7     4     Qualified
-3-Paysandu          10   12    4   4   2   10    6     4
-4-Maranhão          10    8    2   4   4   11   17    -6
-5-Sampaio Corrêa    10    7    2   3   5    6   13    -7
-6-Tuna Luso         10    6    1   4   5    7   12    -5
+<!-- $table9$ -->
 
-▪ GROUP D ▪
+GROUP D
 
 Participants
 
@@ -855,14 +811,9 @@ Ceará            0-0         Ríver
 FINAL TABLE - GROUP D
 
 TEAM                P    Pts   W   D   L   GF   GA   DIF
-1-Fortaleza         10   13    4   5   1    9    5     4     Qualified
-2-Ceará             10   12    4   4   2    9    7     2     Qualified
-3-Flamengo          10   12    4   4   2   11   10     1
-4-Ríver             10   11    4   3   3    8    8     0
-5-Ferroviário       10    8    3   2   5    9   10    -1
-6-4 de Julho        10    4    1   2   7   10   17    -7
+<!-- $table10$ -->
 
-▪ GROUP E ▪
+GROUP E
 
 Participants
 
@@ -913,14 +864,9 @@ América          0-0         Baraúnas
 FINAL TABLE - GROUP E
 
 TEAM                P    Pts   W   D   L   GF   GA   DIF
-1-ABC               10   14    5   4   1   10    4     6     Qualified
-2-Treze             10   12    3   6   1   12    6     6     Qualified
-3-América           10   11    4   3   3   13   11     2
-4-Nacional          10   10    4   2   4   11   13    -2
-5-Botafogo          10    7    3   1   6    9   14    -5
-6-Baraúnas          10    6    1   4   5    4   11    -7
+<!-- $table11$ -->
 
-▪ GROUP F ▪
+GROUP F
 
 Participants
 
@@ -971,14 +917,9 @@ CRB              1-0         CSA
 FINAL TABLE - GROUP F
 
 TEAM                P    Pts   W   D   L   GF   GA   DIF
-1-Central           10   17    7   3   0   14    3    11     Qualified
-2-Santa Cruz        10   15    6   3   1   14    2    12     Qualified
-3-CRB               10   12    4   4   2    9    5     4
-4-Capelense         10    8    2   4   4    7    8    -1
-5-CSA               10    7    3   1   6    5   14    -9
-6-América           10    1    0   1   9    2   19   -17
+<!-- $table12$ -->
 
-▪ GROUP G ▪
+GROUP G
 
 Participants
 
@@ -1029,14 +970,9 @@ Sergipe          0-0         Lagarto
 FINAL TABLE - GROUP G
 
 TEAM                P    Pts   W   D   L   GF   GA   DIF
-1-Catuense          10   13    5   3   2   12    5     7     Qualified
-2-Confiança         10   13    4   5   1   11    5     6     Qualified
-3-Fluminense        10   12    3   6   1    8    6     2
-4-Leônico           10   10    3   4   3    8    8     0
-5-Sergipe           10    8    1   6   3    6    9    -3
-6-Lagarto           10    4    0   4   6    2   14   -12
+<!-- $table13$ -->
 
-▪ GROUP H ▪
+GROUP H
 
 Participants
 
@@ -1087,14 +1023,9 @@ Desportiva       0-2         Colatina
 FINAL TABLE - GROUP H
 
 TEAM                P    Pts   W   D   L   GF   GA   DIF
-1-Itaperuna         10   14    5   4   1   11    4     7     Qualified
-2-Americano         10   13    5   3   2   14    5     9     Qualified
-3-Cabofriense       10   11    4   3   3    9    9     0
-4-Rio Branco        10   11    3   5   2    9    5     4
-5-Desportiva        10    7    3   1   6    7   17   -10
-6-Colatina          10    4    1   2   7    7   17   -10
+<!-- $table14$ -->
 
-▪ GROUP I ▪
+GROUP I
 
 Participants
 
@@ -1144,14 +1075,9 @@ Uberlândia       0-0         Goiatuba
 FINAL TABLE - GROUP I
 
 TEAM                P    Pts   W   D   L   GF   GA   DIF
-1-Botafogo          10   13    5   3   2    9    7     2     Qualified
-2-Catanduvense      10   13    4   5   1   11    5     6     Qualified
-3-Uberlândia        10    9    2   5   3    8    9    -1
-4-Goiatuba          10    9    1   7   2    3    4    -1
-5-Goiânia           10    8    3   2   5   10   14    -4
-6-América           10    8    1   6   3    3    5    -2
+<!-- $table15$ -->
 
-▪ GROUP J ▪
+GROUP J
 
 
 Participants
@@ -1202,14 +1128,9 @@ Bragantino       2-1         São José
 FINAL TABLE - GROUP J
 
 TEAM                P    Pts   W   D   L   GF   GA   DIF
-1-Bragantino        10   18    8   2   0   17    3    14     Qualified
-2-São José          10   10    3   4   3    6    6     0     Qualified
-3-Volta Redonda     10   10    3   4   3    6   13    -7
-4-Novorizontino     10    9    2   5   3    9    7     2
-5-Esportivo         10    7    2   3   5    2    7    -5
-6-Santo André       10    6    2   2   6    7   11    -4
+<!-- $table16$ -->
 
-▪ GROUP L ▪
+GROUP L
 
 Participants
 
@@ -1259,14 +1180,9 @@ Bangu            2-1         América
 FINAL TABLE - GROUP L
 
 TEAM                P    Pts   W   D   L   GF   GA   DIF
-1-América           10   13    5   3   2   15   10     5     Qualified
-2-União São João    10   11    4   3   3   13    9     4     Qualified
-3-Democrata         10   11    4   3   3   12   16    -4
-4-Bangu             10   10    4   2   4   12   12     0
-5-Valeriodoce       10    8    3   2   5    9   10    -1
-6-Tupi              10    7    2   3   5    7   11    -4
+<!-- $table17$ -->
 
-▪ GROUP M ▪
+GROUP M
 
 Participants
 
@@ -1316,14 +1232,9 @@ Mogi-Mirim       2-2         Juventus
 FINAL TABLE - GROUP M
 
 TEAM                P    Pts   W   D   L   GF   GA   DIF
-1-Juventus          10   14    4   6   0   13    7     6     Qualified
-2-XV de Novembro    10   12    4   4   2    9    6     3     Qualified
-3-Rio Branco        10   12    4   4   2    9    9     0
-4-Mogi-Mirim        10    9    2   5   3    7   11    -4
-5-América           10    7    2   3   5    9    9     0
-6-Ponte Preta       10    6    2   2   6    7   12    -5
+<!-- $table18$ -->
 
-▪ GROUP N ▪
+GROUP N
 
 Participants
 
@@ -1372,14 +1283,9 @@ Operário         2-1         União
 FINAL TABLE - GROUP N
 
 TEAM                P    Pts   W   D   L   GF   GA   DIF
-1-Grêmio Maringá    10   15    6   3   1   13    7     6     Qualified
-2-Londrina          10   12    5   2   3    8    5     3     Qualified
-3-Operário          10   11    3   5   2   14   11     3
-4-Douradense        10    8    2   4   4    7   11    -4
-5-Ubiratan          10    8    2   4   4    9   14    -5
-6-União             10    6    1   4   5    4    7    -3
+<!-- $table19$ -->
 
-▪ GROUP O ▪
+GROUP O
 
 Participants
 
@@ -1429,14 +1335,9 @@ Glória           2-0         Esportivo
 FINAL TABLE - GROUP O
 
 TEAM                P    Pts   W   D   L   GF   GA   DIF
-1-Blumenau          10   15    6   3   1   10    5     5     Qualified
-2-Juventude         10   12    5   2   3   14   10     4     Qualified
-3-Brusque           10   12    5   2   3   16   14     2
-4-Glória            10   11    4   3   3   12    9     3
-5-Marcílio Dias     10    8    4   0   6   11   14    -3
-6-Esportivo         10    2    0   2   8    5   16   -11
+<!-- $table20$ -->
 
-▪ GROUP P ▪
+GROUP P
 
 Participants
 
@@ -1489,14 +1390,9 @@ Caxias           0-0         Joinville
 FINAL TABLE - GROUP P
 
 TEAM                P    Pts   W   D   L   GF   GA   DIF
-1-Joinville         10   14    6   2   2    9    2     7     Qualified
-2-Operário          10   13    4   5   1   10    5     5     Qualified
-3-Noroeste          10   10    3   4   3    7    5     2
-4-Foz do Iguaçu     10   10    3   4   3    7    9    -2
-5-Caxias            10    8    2   4   4    4    7    -3
-6-Pinheiros         10    5    1   3   6    4   13    -9
+<!-- $table21$ -->
 
-▪ GROUP Q ▪
+GROUP Q
 
 Participants
 
@@ -1546,12 +1442,7 @@ Novo Hamburgo    1-1         Santa Cruz
 FINAL TABLE - GROUP Q
 
 TEAM                P    Pts   W   D   L   GF   GA   DIF
-1-Criciúma          10   14    5   4   1   22    8    14     Qualified
-2-Figueirense       10   12    4   4   2    8   10    -2     Qualified
-3-Novo Hamburgo     10   10    2   6   2    6    6     0
-4-Santa Cruz        10    9    2   5   3   13   15    -2
-5-Pelotas           10    8    2   4   4    6   11    -5
-6-Avaí              10    7    2   3   5    8   13    -5
+<!-- $table22$ -->
 
 ▪ SECOND PHASE ▪
 
@@ -1577,7 +1468,7 @@ Figueirense      0-2   2-3   Juventude
 Blumenau         1-0   0-1   Criciúma         [Criciúma won the pen. shootouts]
 
 
-THIRD PHASE
+▪ THIRD PHASE ▪
 
 Knockout style.  Away goal rule applied.  Two equal scores and vacancy would be decided in a penalties shootout.
 
@@ -1620,38 +1511,7 @@ CA Bragantino were the the 1989 Brazilian Champions of the 2nd Level
 FINAL TABLE - BEST 32
 
 TEAM                P    Pts   W   D   L   GF   GA   DIF
-1-Bragantino        20   33   14   5   1   29    8    21     Promoted
-2-São José          20   20    5  10   5   11   11     0     Promoted
-3-Remo              18   24    8   8   2   16    8     8     Qualified
-4-Catuense          18   21    8   5   5   17   10     7     Qualified
-5-Criciúma          16   21    8   5   3   26   13    13     Qualified
-6-Juventude         16   20    7   6   3   22   15     7     Qualified
-7-Itaperuna         16   20    6   8   2   16    9     7     Qualified
-8-Ceará             16   19    6   7   3   16   11     5     Qualified
-9-Central           14   23   10   3   1   21    6    15     Qualified
-10-Joinville        14   18    7   4   3   12    5     7     Qualified
-11-Operário-PR      14   17    5   7   2   16   10     6     Qualified
-12-XV de Novembro   14   17    5   7   2   11    7     4     Qualified
-13-Anapolina        14   16    6   4   4   17   13     4     Qualified
-14-Juventus         14   16    5   6   3   17   12     5     Qualified
-15-Treze            14   16    3  10   1   16   10     6     Qualified
-16-Rio Branco-AC    14   15    7   1   6   12   14    -2     Qualified
-17-Grêmio Maringá   12   17    7   3   2   15   10     5     Qualified
-18-Blumenau         12   17    7   3   2   11    6     5     Qualified
-19-Santa Cruz-PE    12   17    6   5   1   16    4    12     Qualified
-20-Moto Clube       12   16    5   6   1   19    9    10     Qualified
-21-Americano        12   15    6   3   3   16    7     9     Qualified
-22-Rio Negro        12   14    5   4   3   11    5     6
-23-América-RJ       12   14    5   4   3   15   11     4
-24-ABC              12   14    5   4   3   11    9     2
-25-Botafogo-SP      12   14    5   4   3    9    8     1     Qualified
-26-Confiança        12   14    4   6   2   12    7     5
-27-Catanduvense     12   14    4   6   2   12    7     5
-28-Fortaleza        12   14    4   6   2    9    7     2
-29-União São João   12   13    5   3   4   14   11     3
-30-Londrina         12   13    5   3   4    9    7     2
-31-Ceilândia        12   13    5   3   4   11   10     1
-32-Figueirense      12   12    4   4   4   10   15    -5
+<!-- $table23$ -->
 
 NOTE.  The 24th vacancy in the 1990 2nd level should go to Rio Negro, but for reasons unknown to me, Botafogo-SP was awarded this vacancy.
 
@@ -1751,10 +1611,4 @@ Grêmio FBPA were the 1989 winners of the Copa do Brasil.
 
 ‹list of 2nd division champions, see page braz2champ›.
 
-
-
-
-
-
-<!-- $about$ -->
 

@@ -1,19 +1,20 @@
   <!--
-     source: https://rsssf.org/tablesb/braz2022.html
+     title:   Brazil 2022
+     source:  https://rsssf.org/tablesb/braz2022.html
+     author:  RSSSF Brazil
+     updated: 8 Dec 2025    
     -->
-  
-
-
-== Brazil 2022
 
 
 
 
 
-==== Série A  ‹§sa›
 
-<!-- $table1$ -->
 
+
+== Série A  ‹§sa›
+
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Apr 9 _
@@ -300,8 +301,7 @@ Fortaleza       0-0 Santos
 _ Jul 25 _
 Coritiba        1-0 Cuiabá
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Halfway Table -->
 
 ▪ Round 20 ▪
 _ Jul 30 _
@@ -587,15 +587,14 @@ Internacional   3-0 Palmeiras
 Bragantino      0-1 Fluminense
 Santos          0-2 Fortaleza
 
-<!-- $table3$ -->
+<!-- $table3$ - Final Table -->
 
 
 
 
 
 
-
-==== Copa do Brasil 2022  ‹§cb›
+== Copa do Brasil 2022  ‹§cb›
 
 ▪ 1/8 Finals ▪
 
@@ -668,42 +667,30 @@ Flamengo        1-1 Corinthians     (6-5 pen)
 
 
 
-==== Série B  ‹§sb›
+== Série B  ‹§sb›
 
-<!-- $table4$ -->
-
-
+<!-- $table4$ - Final Table -->
 
 
 
 
 
-==== Série C  ‹§sc›
+
+== Série C  ‹§sc›
 
 First Stage (Grupo A)
 
-<!-- $table5$ -->
-
+<!-- $table5$ - Final Table -->
 
 ▪ Second Stage ▪
 
 Final Tables:
 
-Grupo B
- 1.Mirassol               6   3  3  0  11- 8  12       Promoted
- 2.Botafogo/SP            6   3  1  2  11- 8  10       Promoted
-------------------------------------------------
- 3.Aparecidense           6   2  1  3   8-10   7
- 4.Volta Redonda          6   1  1  4   7-11   4
+<!-- $table6$ - Grupo B -->
 
-Grupo C
- 1.ABC                    6   3  3  0   4- 1  12       Promoted
- 2.Vitória                6   2  3  1   4- 6   9  [R]  Promoted
-------------------------------------------------
- 3.Figueirense            6   2  1  3   8- 6   7
- 4.Paysandu               6   1  1  4   3- 6   4
+<!-- $table7$ - Grupo C -->
 
-Championship Final
+▪ Championship Final ▪
 
 ▪ First Leg ▪  Oct 1
 ABC             0-0 Mirassol
@@ -713,10 +700,4 @@ Mirassol        2-0 ABC
 
 Promoted from 4th level: América/RN, Pouso Alegre, Amazonas, São Bernardo
 
-
-
-
-
-
-<!-- $about$ -->
 

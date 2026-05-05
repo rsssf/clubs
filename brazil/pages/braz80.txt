@@ -1,10 +1,12 @@
   <!--
-     source: https://rsssf.org/tablesb/braz80.html
+     title:   VI Copa Brasil - 1980 [Brazilian Championship]
+     source:  https://rsssf.org/tablesb/braz80.html
+     authors: Ricardo Pontes, Julio Bovi Diogo and Marcelo Leme de Arruda
+     updated: 4 Jan 2000    
     -->
-  
 
 
-== VI Copa Brasil - 1980 [Brazilian Championship]
+
 
 Participants
 Teams selected by record on previous state championship-
@@ -95,7 +97,7 @@ Associação Olímpica de ITABAIANA (Itabaiana)
 
 ▪ First Phase ▪
 
-▪ Group A ▪
+Group A
 
 ▪ Round 1 ▪
 _ Feb 23 _
@@ -216,10 +218,9 @@ Corinthians    4-1  Colorado
   [Sócrates, Wilsinho, Geraldo, Píter;  Carlos Alberto]
 Botafogo-RJ    0-0  Joinville
 
-<!-- $table1$ -->
+<!-- $table1$ - Table -->
 
-
-▪ Group B ▪
+Group B
 
 ▪ Round 1 ▪
 _ Feb 24 _
@@ -337,10 +338,9 @@ Guarani        2-0  Vitória
 Desportiva     3-1  Flamengo-PI
   (Botelho (2), Dario;  Caíco)
 
-<!-- $table2$ -->
+<!-- $table2$ - Table -->
 
-
-▪ Group C ▪
+Group C
 
 ▪ Round 1 ▪
 _ Feb 23 _
@@ -411,7 +411,7 @@ Ponte Preta    6-2  Botafogo-PB
   [Serginho (2), Orlando Fumaça, Zé Mário, Parraga, Deca-Bota (Own Goal);  Zé
    Eduardo, Nicácio]
 
-Moved Matches
+▪ Moved Matches ▪
 _ Mar 12 _
 Ponte Preta    3-1  Itabaiana
   [Aílton-Itabaiana (Own Goal), Osvaldo, Odirlei;  Mica.
@@ -472,10 +472,9 @@ Itabaiana      0-5  Náutico
 Flamengo-RJ    2-2  Ponte Preta
   [Nunes, Zico;  Serginho, Odirlei]
 
-<!-- $table3$ -->
+<!-- $table3$ - Table -->
 
-
-▪ Group D ▪
+Group D
 
 ▪ Round 1 ▪
 _ Feb 23 _
@@ -596,8 +595,7 @@ Nacional       0-3  Grêmio
 Vasco da Gama  5-1  Gama
   (Wilsinho (2), Dudu (2), João Luís; Roldão)
 
-<!-- $table4$ -->
-
+<!-- $table4$ - Table -->
 
 ▪ Second Phase ▪
 
@@ -608,7 +606,7 @@ AMERICANO Futebol Clube (Campos-RJ)
 BANGU Esporte Clube (Rio de Janeiro-RJ)
 SPORT Clube do Recife (Recife-PE)
 
-▪ Group E ▪
+Group E
 
 ▪ Round 1 ▪
 _ Apr 6 _
@@ -655,10 +653,9 @@ Vitória        0-5  Vasco da Gama
 Corinthians    3-0  Náutico
   [Wilsinho, Toninho, Eli]
 
-<!-- $table5$ -->
+<!-- $table5$ - Table -->
 
-
-▪ Group F ▪
+Group F
 
 ▪ Round 1 ▪
 _ Apr 6 _
@@ -701,11 +698,10 @@ São Paulo-SP   4-1  Americano
 Botafogo-RJ    3-1  Ceará
   [Zuza, Renato Sá, Cláudio Adão; Jorginho]
 
-▪ Group F ▪
-<!-- $table6$ -->
+Group F
+<!-- $table6$ - Table -->
 
-
-▪ Group G ▪
+Group G
 
 ▪ Round 1 ▪
 _ Apr 6 _
@@ -752,10 +748,9 @@ Internacional  4-0  Atlético-GO
 Atlético-MG    5-1  Bahia
   (Fernando Roberto (2), Pedrinho (2), Éder;  Gilcimar)
 
-<!-- $table7$ -->
+<!-- $table7$ - Table -->
 
-
-▪ Group H ▪
+Group H
 
 ▪ Round 1 ▪
 _ Apr 5 _
@@ -801,10 +796,9 @@ Cruzeiro       2-0  Sport
 Fluminense     4-0  Botafogo-PB
   [Zezé Gomes, Tulica, Robertinho, Cristóvão]
 
-<!-- $table8$ -->
+<!-- $table8$ - Table -->
 
-
-▪ Group I ▪
+Group I
 
 ▪ Round 1 ▪
 _ Apr 5 _
@@ -852,8 +846,7 @@ Tiebreaking mathch for second place in Group I
 Guarani        3-2 América-RJ
   [Careca, Zé Dilson-Amér. (Own Goal), Uchoa-Amér.(Own Goal);  Porto Real, Nedo]
 
-<!-- $table9$ -->
-
+<!-- $table9$ - Table -->
 
 ▪ Round 1 ▪
 _ Apr 6 _
@@ -897,10 +890,9 @@ Santa Cruz     2-2  Palmeiras
 Bangu          0-3  Flamengo-RJ
   (Tita (3))
 
-<!-- $table10$ -->
+<!-- $table10$ - Table -->
 
-
-▪ Group K ▪
+Group K
 
 ▪ Round 1 ▪
 _ Apr 6 _
@@ -945,10 +937,9 @@ Coritiba       7-1  Desportiva
 Remo           2-1  Ferroviário
   [Bebeto, Jasson;  Celso]
 
-<!-- $table11$ -->
+<!-- $table11$ - Table -->
 
-
-▪ Group L ▪
+Group L
 
 ▪ Round 1 ▪
 _ Apr 5 _
@@ -993,12 +984,11 @@ _ May 4 _
 Grêmio         5-0  América-SP
   (Baltazar (2), Paulo Isidoro (2), Tarciso)
 
-<!-- $table12$ -->
+<!-- $table12$ - Table -->
 
+▪ Third Phase ▪
 
-Third Phase
-
-▪ Group M ▪
+Group M
 
 ▪ Round 1 ▪
 _ May 11 _
@@ -1020,10 +1010,9 @@ São Paulo-SP   3-2  Fluminense
   (Getúlio (2), Zé Sérgio;  Edinho (2))
 Atlético-MG    0-0  Vasco da Gama
 
-<!-- $table13$ -->
+<!-- $table13$ - Table -->
 
-
-▪ Group N ▪
+Group N
 
 ▪ Round 1 ▪
 _ May 11 _
@@ -1045,10 +1034,9 @@ Palmeiras      0-0  Guarani
 Internacional  1-0  Cruzeiro
   [Cláudio Mineiro]
 
-<!-- $table14$ -->
+<!-- $table14$ - Table -->
 
-
-▪ Group O ▪
+Group O
 
 ▪ Round 1 ▪
 _ May 10 _
@@ -1071,10 +1059,9 @@ Flamengo-RJ    2-0  Santos
 Desportiva     2-1  Ponte Preta
   [Luís Cláudio, Botelho;  Parraga]
 
-<!-- $table15$ -->
+<!-- $table15$ - Table -->
 
-
-▪ Group P ▪
+Group P
 
 ▪ Round 1 ▪
 _ May 11 _
@@ -1097,8 +1084,7 @@ Botafogo-RJ    1-1  Corinthians
 Grêmio         1-0  Coritiba
   [Ancheta]
 
-<!-- $table16$ -->
-
+<!-- $table16$ - Table -->
 
 ▪ Semifinals ▪
 
@@ -1120,8 +1106,7 @@ Atlético-MG    1-0   2-3  Flamengo-RJ
 Flamengo wins due to better semifinal record.
 CR Flamengo are the 1980 Brazilian champions
 
-<!-- $table17$ -->
-
+<!-- $table17$ - Final Table -->
 
 N.B. The table doesn't include the extra match between Guarani and América-RJ.
 
@@ -1202,7 +1187,7 @@ VITÓRIA Futebol Clube (Vitória-ES)
 Group winners qualified to 2nd phase (promotion playoff) to dispute berths in
 "Copa Brasil" - 1st level.  Second and third places qualified to 3rd phase.
 
-▪ Group A ▪
+Group A
 
 ▪ Round 1 ▪
 _ Feb 23 _
@@ -1262,10 +1247,9 @@ _ Mar 23 _
 Sampaio Corrêa    1-1  Moto Clube
 Paysandu          1-0  River
 
-<!-- $table18$ -->
+<!-- $table18$ - Table -->
 
-
-▪ Group B ▪
+Group B
 
 ▪ Round 1 ▪
 _ Feb 24 _
@@ -1323,10 +1307,9 @@ Americano         1-1  Itabuna
 Confiança         1-1  Sergipe
 Bonsucesso        1-0  Botafogo-BA
 
-<!-- $table19$ -->
+<!-- $table19$ - Table -->
 
-
-▪ Group C ▪
+Group C
 
 ▪ Round 1 ▪
 _ Feb 23 _
@@ -1384,10 +1367,9 @@ ABC               2-0  Treze
 Campinense        0-0  Leônico
 Central           1-2  Fortaleza
 
-<!-- $table20$ -->
+<!-- $table20$ - Table -->
 
-
-▪ Group D ▪
+Group D
 
 ▪ Round 1 ▪
 _ Feb 23 _
@@ -1444,10 +1426,9 @@ Anapolina         2-1  Itumbiara
 Uberaba           0-0  Villa Nova
 Operário-MT       2-1  Guará
 
-<!-- $table21$ -->
+<!-- $table21$ - Table -->
 
-
-▪ Group E ▪
+Group E
 
 ▪ Round 1 ▪
 _ Feb 23 _
@@ -1496,7 +1477,7 @@ _ Mar 16 _
 Goiás             1-1  América-MG
 Caldense          4-0  Rio Branco
 
-Moved Matches
+▪ Moved Matches ▪
 _ Mar 20 _
 Vitória-ES        0-1  Uberlândia
 Goiânia           1-0  Caldense
@@ -1508,10 +1489,9 @@ América-MG        0-1  Vitória-ES
 Rio Branco        1-1  Goiânia
 Uberlândia        1-1  Goiás
 
-<!-- $table22$ -->
+<!-- $table22$ - Table -->
 
-
-▪ Group F ▪
+Group F
 
 ▪ Round 1 ▪
 _ Feb 24 _
@@ -1565,10 +1545,9 @@ Noroeste          2-1  Campo Grande
 Internacional-SP  0-1  Bangu
 Serrano           0-2  Ferroviária
 
-<!-- $table23$ -->
+<!-- $table23$ - Table -->
 
-
-▪ Group G ▪
+Group G
 
 ▪ Round 1 ▪
 _ Feb 24 _
@@ -1621,10 +1600,9 @@ XV de Novembro    3-3  Avaí
 Figueirense       2-1  Grêmio Maringá
 Novo Hamburgo     1-0  Operário-PR
 
-<!-- $table24$ -->
+<!-- $table24$ - Table -->
 
-
-▪ Group H ▪
+Group H
 
 ▪ Round 1 ▪
 _ Feb 23 _
@@ -1679,8 +1657,7 @@ Juventude         0-0  Brasil
 Juventus          2-1  Criciúma
 Chapecoense       1-3  Londrina
 
-<!-- $table25$ -->
-
+<!-- $table25$ - Table -->
 
 Second Phase - Promotion playoff
 Knockout
@@ -1696,9 +1673,9 @@ Uberlândia        2-0   0-4  Bangu
 
 América-SP qualified due to better 1st phase record
 
-Third Phase
+▪ Third Phase ▪
 
-▪ Group I ▪
+Group I
 
 ▪ Round 1 ▪
 _ Apr 6 _
@@ -1727,10 +1704,9 @@ _ Apr 27 _
 Paysandu          0-0  Fortaleza
 Itumbiara         2-5  Botafogo-SP
 
-<!-- $table26$ -->
+<!-- $table26$ - Table -->
 
-
-▪ Group J ▪
+Group J
 
 ▪ Round 1 ▪
 _ Apr 6 _
@@ -1757,10 +1733,9 @@ _ Apr 27 _
 Anapolina         1-1  Sampaio Corrêa
 Bonsucesso        0-1  Londrina
 
-<!-- $table27$ -->
+<!-- $table27$ - Table -->
 
-
-▪ Group K ▪
+Group K
 
 ▪ Round 1 ▪
 _ Apr 5 _
@@ -1789,10 +1764,9 @@ _ Apr 27 _
 Uberlândia        1-0  Caxias
 Comercial-SP      3-0  Tuna Luso
 
-<!-- $table28$ -->
+<!-- $table28$ - Table -->
 
-
-▪ Group L ▪
+Group L
 
 ▪ Round 1 ▪
 _ Apr 6 _
@@ -1820,8 +1794,7 @@ _ Apr 27 _
 Juventus          1-1  América-MG
 Ferroviária       3-0  ABC
 
-<!-- $table29$ -->
-
+<!-- $table29$ - Table -->
 
 ▪ Semifinals ▪
 
@@ -1876,10 +1849,4 @@ Taguatinga Ec (Brasília, Df)
 
 ‹list of 2nd division champions, see page braz2champ›.
 
-
-
-
-
-
-<!-- $about$ -->
 

@@ -1,10 +1,12 @@
   <!--
-     source: https://rsssf.org/tablesb/braz84.html
+     title:   Brazil 1984 (Taça de Ouro and Taça de Prata)
+     source:  https://rsssf.org/tablesb/braz84.html
+     authors: Ricardo Pontes Julio Bovi Diogo and Marcelo Leme de Arruda
+     updated: 2 Apr 2005    
     -->
-  
 
 
-== Brazil 1984 (Taça de Ouro and Taça de Prata)
+
 
 Copa Brasil - 1984 [Brazilian Championship]
 
@@ -102,7 +104,7 @@ GRÊMIO Football Portoalegrense (Porto Alegre-RS)
 
 ▪ First Phase ▪
 
-▪ Group A ▪
+Group A
 
 ▪ Round 1 ▪
 _ Jan 29 _
@@ -175,10 +177,9 @@ Tuna Luso      1-0  Nacional-AM
 Fortaleza      2-1  Vasco da Gama
   [Tangerina, Luisinho; Marquinho Carioca]
 
-<!-- $table1$ -->
+<!-- $table1$ - Table -->
 
-
-▪ Group B ▪
+Group B
 
 ▪ Round 1 ▪
 _ Jan 29 _
@@ -248,10 +249,9 @@ _ Feb 29 _
 Bahia          0-0  CRB
 Treze          0-0  Atlético-MG
 
-<!-- $table2$ -->
+<!-- $table2$ - Table -->
 
-
-▪ Group C ▪
+Group C
 
 ▪ Round 1 ▪
 _ Jan 29 _
@@ -325,10 +325,9 @@ Santos         3-0  Confiança
 Fluminense     2-0  Ferroviário
   (Wilsinho (2))
 
-<!-- $table3$ -->
+<!-- $table3$ - Table -->
 
-
-▪ Group D ▪
+Group D
 
 ▪ Round 1 ▪
 _ Jan 29 _
@@ -403,10 +402,9 @@ Santo André    1-0  Náutico
 Grêmio         5-0  Coritiba
   [Paulo César, Tarciso, Jorge Leandro, Luís Eduardo, Guilherme]
 
-<!-- $table4$ -->
+<!-- $table4$ - Table -->
 
-
-▪ Group E ▪
+Group E
 
 ▪ Round 1 ▪
 _ Jan 28 _
@@ -481,10 +479,9 @@ Palmeiras      2-2  Operário-MS
 Flamengo       2-2  Goiás
   (Adílio, Andrade; Cacau (2))
 
-<!-- $table5$ -->
+<!-- $table5$ - Table -->
 
-
-▪ Group F ▪
+Group F
 
 ▪ Round 1 ▪
 _ Jan 29 _
@@ -557,10 +554,9 @@ América-RJ     3-1  Rio Branco
   [Gilcimar, Luisinho, Rick Richard; Arildo]
 Atlético-PR    0-0  Brasil
 
-<!-- $table6$ -->
+<!-- $table6$ - Table -->
 
-
-▪ Group G ▪
+Group G
 
 ▪ Round 1 ▪
 _ Jan 29 _
@@ -629,10 +625,9 @@ Internacional  1-1  Joinville
   [Geraldão; Jorge Luís]
 Anapolina      0-0  Corinthians
 
-<!-- $table7$ -->
+<!-- $table7$ - Table -->
 
-
-▪ Group H ▪
+Group H
 
 ▪ Round 1 ▪
 _ Jan 29 _
@@ -703,8 +698,7 @@ Portuguesa     2-0  Moto Clube
 Santa Cruz     1-2  Botafogo
   [Iva; Julião (own goal), Berg]
 
-<!-- $table8$ -->
-
+<!-- $table8$ - Table -->
 
 Repescagem
 _ Mar 2 _
@@ -719,7 +713,7 @@ Joinville      2-0  Auto Esporte
 
 ▪ Second Phase ▪
 
-▪ Group I ▪
+Group I
 
 ▪ Round 1 ▪
 _ Mar 11 _
@@ -762,10 +756,9 @@ São Paulo      2-0  Bahia
 Goiás          3-0  Fluminense
   [Hílton, Sávio, Washington]
 
-<!-- $table9$ -->
+<!-- $table9$ - Table -->
 
-
-▪ Group J ▪
+Group J
 
 ▪ Round 1 ▪
 _ Mar 11 _
@@ -809,10 +802,9 @@ Atlético-MG    1-0  Vasco da Gama
 Joinville      1-0  Grêmio
   [Carlos Silva]
 
-<!-- $table10$ -->
+<!-- $table10$ - Table -->
 
-
-▪ Group K ▪
+Group K
 
 ▪ Round 1 ▪
 _ Mar 11 _
@@ -855,10 +847,9 @@ Fortaleza      1-4  Santos
 Palmeiras      7-0  CRB
   (Jorginho (3), Reinaldo Xavier (2), Vágner, Márcio)
 
-<!-- $table11$ -->
+<!-- $table11$ - Table -->
 
-
-▪ Group L ▪
+Group L
 
 ▪ Round 1 ▪
 _ Mar 11 _
@@ -901,10 +892,9 @@ ABC            1-0  Atlético-PR
 Operário-MS    0-2  Santo André
   [Gérson Lopes, Barbosa]
 
-<!-- $table12$ -->
+<!-- $table12$ - Table -->
 
-
-▪ Group M ▪
+Group M
 
 ▪ Round 1 ▪
 _ Mar 10 _
@@ -949,10 +939,9 @@ Flamengo       2-0  Internacional
 Portuguesa     4-1  Brasil
   [Tite, Marinho Rã, Gérson Sodré, Leiz; Hélio]
 
-<!-- $table13$ -->
+<!-- $table13$ - Table -->
 
-
-▪ Group N ▪
+Group N
 
 ▪ Round 1 ▪
 _ Mar 11 _
@@ -997,10 +986,9 @@ Botafogo       0-1  Operário-MT
 Coritiba       3-2  América-RJ
   (Lela (2), Carlinhos Maracanã; Gilberto, Moreno)
 
-<!-- $table14$ -->
+<!-- $table14$ - Table -->
 
-
-▪ Group O ▪
+Group O
 
 ▪ Round 1 ▪
 _ Mar 11 _
@@ -1044,10 +1032,9 @@ Náutico        5-1  Corinthians
 Treze          0-1  Santa Cruz
   [Eraldo]
 
-<!-- $table15$ -->
+<!-- $table15$ - Table -->
 
-
-Third Phase
+▪ Third Phase ▪
 
 Qualified to Third Phase from Taça CBF
 
@@ -1098,10 +1085,9 @@ Santo André    1-1  Fluminense
   [Esquerdinha; Delei]
 
 
-<!-- $table16$ -->
+<!-- $table16$ - Table -->
 
-
-▪ Group Q ▪
+Group Q
 
 ▪ Round 1 ▪
 _ Apr 8 _
@@ -1143,10 +1129,9 @@ Vasco da Gama  1-0  Uberlândia
 Coritiba       2-1  Fortaleza
   [Carlinhos Maracanã, Lela; Vavá (own goal)]
 
-<!-- $table17$ -->
+<!-- $table17$ - Table -->
 
-
-▪ Group R ▪
+Group R
 
 ▪ Round 1 ▪
 _ Apr 8 _
@@ -1190,10 +1175,9 @@ Santos         1-0  América-RJ
 Náutico        2-1  Flamengo
   [Gérson, Édson Gaúcho; Bebeto]
 
-<!-- $table18$ -->
+<!-- $table18$ - Table -->
 
-
-▪ Group S ▪
+Group S
 
 ▪ Round 1 ▪
 _ Apr 8 _
@@ -1237,8 +1221,7 @@ Grêmio         2-0  Goiás
 Corinthians    2-0  Atlético-PR
   (Casagrande (2))
 
-<!-- $table19$ -->
-
+<!-- $table19$ - Table -->
 
 ▪ Quarterfinals ▪
 
@@ -1278,8 +1261,7 @@ Vasco da Gama  0-1   0-0  Fluminense
 
 Fluminense FC (Rio de Janeiro) are the 1984 Brazilian champions
 
-<!-- $table20$ -->
-
+<!-- $table20$ - Final Table -->
 
 Obs: The table doesn't compute the points attained in the "Repescagem".
 
@@ -1329,7 +1311,7 @@ _ Feb 26 & 28 _
 Guarani-SP           3-2   5-2  Avaí
 XV de Novembro/Pir.  1-0   3-2  Novo Hamburgo
 Uberlândia           3-0   1-2  Nacional-GO
-Internacional/SM-RS  1-1   0-0  União Bandeirante   (Pen 4-2)
+Internacional/SM-RS  1-1   0-0  União Bandeirante   (4-2 pen)
 Atlético-BA          2-2   0-2  Central
 Desportiva           1-1   2-0  Goytacaz
 Tiradentes-PI        1-2   0-0  Maranhão
@@ -1346,15 +1328,15 @@ América-MG           2-1   0-3  Volta Redonda
 ▪ Second Phase ▪
 
 _ Mar 2 & 10 _
-Itabuna              0-0   1-1  Pinheiros           (Pen 4-1)
+Itabuna              0-0   1-1  Pinheiros           (4-1 pen)
 Internacional/SM-RS  1-0   2-0  Volta Redonda
 Botafogo-PB          2-2   2-0  Sport
-Desportiva           2-1   1-2  Comercial-MS        (Pen 4-5)
+Desportiva           2-1   1-2  Comercial-MS        (4-5 pen)
 _ Mar 2 & 11 _
 Remo                 1-0   2-1  Maranhão
 Itumbiara            2-1   1-1  XV De Novembro/Pirac.
 Uberlândia           0-0   1-0  Guarani-SP
-Ceará                0-0   1-1  Central             (Pen 1-3)
+Ceará                0-0   1-1  Central             (1-3 pen)
 
 Third Phase (Quarterfinals)
 
@@ -1387,10 +1369,4 @@ Uberlândia and Remo Qualify To The 1985 Taça De Ouro
 
 ‹list of 2nd division champions, see page braz2champ›.
 
-
-
-
-
-
-<!-- $about$ -->
 

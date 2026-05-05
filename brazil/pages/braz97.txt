@@ -1,10 +1,12 @@
   <!--
-     source: https://rsssf.org/tablesb/braz97.html
+     title:   Brazil 1997
+     source:  https://rsssf.org/tablesb/braz97.html
+     authors: Marcelo Leme de Arruda, Miguel Alvim Gonzalez and Julio Bovi Diogo
+     updated: 18 Feb 2000    
     -->
-  
 
 
-== Brazil 1997
+
 
 The two teams relegated last season, Fluminense and Bragantino, will
 be kept in the first division, which will play with 26 teams this
@@ -47,8 +49,7 @@ VITÓRIA (Salvador)              - Bahia                 - -
 ▪ First Stage ▪
 ===========
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Table -->
 
 [*] 5 points deducted
 
@@ -126,7 +127,7 @@ Atletico/MG    2-1 Cruzeiro
 Gremio         1-1 Parana
 Vitoria        3-1 Sport
 
-Moved Match [Jul 23]
+▪ Moved Match ▪  Jul 23
 Santos         3-0 Gremio
 
 ▪ Round 6 ▪  Jul 26 & 27
@@ -143,7 +144,7 @@ Cruzeiro       0-0 Atletico/PR
 Bahia          3-3 Vitoria
 Criciuma       2-1 Sao Paulo        [Jul 30]
 
-Moved Matches [Jul 30]
+▪ Moved Matches ▪  Jul 30
 Vasco          2-0 Goias
 Sport          1-0 Flamengo
 Corinthians    0-0 Atletico/MG
@@ -159,7 +160,7 @@ Sao Paulo      1-1 Internacional
 Vitoria        1-0 Criciuma
 Gremio         2-1 Sport
 
-Moved Matches [Aug 6]
+▪ Moved Matches ▪  Aug 6
 Vitoria        1-2 Palmeiras
 Portuguesa     3-2 Bahia
 
@@ -175,10 +176,10 @@ Bahia          1-1 Guarani
 Criciuma       0-0 Uniao Sao Joao
 Juventude      1-0 Coritiba
 
-Moved Match [Aug 12]
+▪ Moved Match ▪  Aug 12
 Atletico/MG    2-4 Flamengo
 
-Moved Matches [Aug 13]
+▪ Moved Matches ▪  Aug 13
 Internacional  2-1 Palmeiras
 Criciuma       1-0 Botafogo
 
@@ -217,7 +218,7 @@ Criciuma       1-0 Parana
 Juventude      1-0 Vitoria
 Atletico/MG    1-1 Sport
 
-Moved Matches [Aug 27]
+▪ Moved Matches ▪  Aug 27
 Botafogo       1-1 Guarani
 Parana         0-0 Fluminense
 
@@ -236,7 +237,7 @@ Portuguesa     5-0 Guarani
 Parana         1-2 Juventude
 Corinthians    0-1 Sao Paulo
 
-Moved Matches [Sep 4]
+▪ Moved Matches ▪  Sep 4
 Atletico/PR    0-0 Fluminense
 Uniao Sao Joao 0-0 Palmeiras
 
@@ -310,7 +311,7 @@ Internacional  3-1 Goias
 Atletico/MG    1-1 Portuguesa
 America        2-0 Atletico/PR
 
-Moved Matches [Sep 23,24]
+▪ Moved Matches ▪  Sep 23 & 24
 Coritiba       0-0 Cruzeiro
 Uniao Sao Joao 1-1 Fluminense
 Botafogo       1-0 Corinthians
@@ -358,7 +359,7 @@ Vasco          2-1 Atletico/PR
 Juventude      2-1 Bragantino   [Nov 5]
 Fluminense     2-0 Criciuma     [Oct 29]
 
-Moved Matches [Oct 7,8]
+▪ Moved Matches ▪  Oct 7 & 8
 Flamengo       3-2 Gremio
 Coritiba       1-1 Palmeiras
 Cruzeiro       0-0 Vasco
@@ -378,7 +379,7 @@ Uniao Sao Joao 0-2 Goias
 Internacional  1-0 America
 Criciuma       2-0 Bahia
 
-Moved Matches [Oct 14]
+▪ Moved Matches ▪  Oct 14
 Santos         1-0 Corinthians
 
 ▪ Round 22 ▪  Oct 18 & 19
@@ -395,7 +396,7 @@ Guarani        1-1 Sport
 Vasco          1-0 Botafogo
 Atletico/MG    5-3 Uniao Sao Joao
 
-Moved Matches [Oct 21,22]
+▪ Moved Matches ▪  Oct 21 & 22
 Portuguesa     3-2 Cruzeiro
 Fluminense     1-0 Corinthians
 Palmeiras      3-1 Atletico/PR
@@ -415,7 +416,7 @@ Coritiba       0-2 Atletico/PR
 Vitoria        1-1 Cruzeiro
 Atletico/MG    3-2 America
 
-Moved Match [Oct 30]
+▪ Moved Match ▪  Oct 30
 Flamengo       1-0 Vitoria
 
 ▪ Round 24 ▪  Nov 1 & 2
@@ -433,7 +434,7 @@ America        1-3 Sao Paulo
 Gremio         1-4 Guarani
 Bragantino     1-0 Uniao Sao Joao
 
-Moved Matches [Nov 5]
+▪ Moved Matches ▪  Nov 5
 Uniao Sao Joao 0-1 Guarani
 Corinthians    1-0 Flamengo
 Santos         2-0 America
@@ -453,8 +454,7 @@ Flamengo       0-0 Uniao Sao Joao
 Sport          1-1 Palmeiras
 Sao Paulo      4-4 Parana
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Table -->
 
 [*] 5 points deducted
 
@@ -462,15 +462,13 @@ Sao Paulo      4-4 Parana
 ▪ Second Stage ▪
 ============
 
-▪ Group A ▪
+Group A
 
-<!-- $table3$ -->
+<!-- $table3$ - Table -->
 
+Group B
 
-▪ Group B ▪
-
-<!-- $table4$ -->
-
+<!-- $table4$ - Table -->
 
 ▪ Round 1 ▪  Nov 15 & 16
 Juventude      0-3 Vasco
@@ -508,15 +506,13 @@ Vasco          1-1 Juventude
 Santos         1-0 Atletico/MG
 Internacional  0-1 Palmeiras
 
-▪ Group A ▪
+Group A
 
-<!-- $table5$ -->
+<!-- $table5$ - Table -->
 
+Group B
 
-▪ Group B ▪
-
-<!-- $table6$ -->
-
+<!-- $table6$ - Table -->
 
 
 ▪ Final ▪  Dec 14 & 20
@@ -638,50 +634,15 @@ be promoted.
 
 Tables:
 
-▪ Group A ▪
- 1.Gama                  8  4  3  1 12- 5 15   [Brasília-DF]
- 2.Tuna Luso             8  4  3  1  9- 5 15   [Belem-PA]
- 3.Atlético Goianiense   8  2  3  3  7- 9  9   [Goiânia-GO]
- - - - - - - - - - - - - - - - - - - - - - -
- 4.Remo                  8  2  2  4  8- 8  8   [Belem-PA]
---------------------------------------------
- 5.Moto Clube            8  1  3  4 10-19  6   [São Luiz-MA]
+<!-- $table7$ - Group A -->
 
-▪ Group B ▪
- 1.Ceará                 8  5  2  1  8- 7 17   [Fortaleza-CE]
- 2.Payssandú             8  4  2  2 12- 7 14   [Belem-PA]
- 3.ABC                   8  3  3  2  9- 6 12   [Natal-RN]
- - - - - - - - - - - - - - - - - - - - - - -
- 4.Santa Cruz            8  2  1  5  6-12  7   [Recife-PE]
---------------------------------------------
- 5.Central               8  1  2  5  8-11  5   [Caruaru-PE]
+<!-- $table8$ - Group B -->
 
-▪ Group C ▪
- 1.CRB                   8  4  1  3 10-10 13   [Maceió-AL]
- 2.América               8  4  1  3  9-11 13   [Belo Horizonte-MG]
- 3.Vila Nova             8  3  3  2 13- 8 12   [Goiânia-GO]
- 4.Náutico               8  3  2  3 11-11 11   [Recife-PE]
- - - - - - - - - - - - - - - - - - - - - - -
---------------------------------------------
- 5.Sergipe               8  1  3  4  9-12  6   [Aracajú-SE]
+<!-- $table9$ - Group C -->
 
-▪ Group D ▪
- 1.Ponte Preta           8  5  2  1 11- 4 17   [Campinas-SP]
- 2.Desportiva            8  4  2  2  5- 3 14   [Vitória-ES]
- 3.Americano             8  3  3  2  8- 8 12   [Campos-RJ]
- - - - - - - - - - - - - - - - - - - - - - -
- 4.Botafogo              8  3  1  4 11-14 10   [Ribeirão Preto-SP]
---------------------------------------------
- 5.Goiatuba              8  0  2  6  2- 8  2   [Goiatuba-GO]
+<!-- $table10$ - Group D -->
 
-▪ Group E ▪
- 1.Londrina              8  5  1  2 12- 8 16   [Londrina-PR]
- 2.Joinville             8  4  2  2 11- 9 14   [Joinville-SC]
- 3.XV/Novembre           8  3  2  3 11-14 11   [Piracicaba-SP]
- - - - - - - - - - - - - - - - - - - - - - -
- 4.Volta Redonda         8  2  2  4 10-11  8   [Volta Redonda-RJ]
---------------------------------------------
- 5.Mogi-Mirim            8  1  3  4 10-12  6   [Mogi-Mirim-SP]
+<!-- $table11$ - Group E -->
 
 ▪ Round 1 ▪
 August 9th:
@@ -843,50 +804,15 @@ Mogi-Mirim    2-2 Londrina
 
 Tables:
 
-▪ Group A ▪
- 1.Gama                  8  4  3  1 12- 5 15   [Brasília-DF]
- 2.Tuna Luso             8  4  3  1  9- 5 15   [Belem-PA]
- 3.Atlético Goianiense   8  2  3  3  7- 9  9   [Goiânia-GO]
- - - - - - - - - - - - - - - - - - - - - - -
- 4.Remo                  8  2  2  4  8- 8  8   [Belem-PA]
---------------------------------------------
- 5.Moto Clube            8  1  3  4 10-19  6   [São Luiz-MA]
+<!-- $table12$ - Group A -->
 
-▪ Group B ▪
- 1.Ceará                 8  5  2  1  8- 7 17   [Fortaleza-CE]
- 2.Payssandú             8  4  2  2 12- 7 14   [Belem-PA]
- 3.ABC                   8  3  3  2  9- 6 12   [Natal-RN]
- - - - - - - - - - - - - - - - - - - - - - -
- 4.Santa Cruz            8  2  1  5  6-12  7   [Recife-PE]
---------------------------------------------
- 5.Central               8  1  2  5  8-11  5   [Caruaru-PE]
+<!-- $table13$ - Group B -->
 
-▪ Group C ▪
- 1.CRB                   8  4  1  3 10-10 13   [Maceió-AL]
- 2.América               8  4  1  3  9-11 13   [Belo Horizonte-MG]
- 3.Vila Nova             8  3  3  2 13- 8 12   [Goiânia-GO]
- 4.Náutico               8  3  2  3 11-11 11   [Recife-PE]
- - - - - - - - - - - - - - - - - - - - - - -
---------------------------------------------
- 5.Sergipe               8  1  3  4  9-12  6   [Aracajú-SE]
+<!-- $table14$ - Group C -->
 
-▪ Group D ▪
- 1.Ponte Preta           8  5  2  1 11- 4 17   [Campinas-SP]
- 2.Desportiva            8  4  2  2  5- 3 14   [Vitória-ES]
- 3.Americano             8  3  3  2  8- 8 12   [Campos-RJ]
- - - - - - - - - - - - - - - - - - - - - - -
- 4.Botafogo              8  3  1  4 11-14 10   [Ribeirão Preto-SP]
---------------------------------------------
- 5.Goiatuba              8  0  2  6  2- 8  2   [Goiatuba-GO]
+<!-- $table15$ - Group D -->
 
-▪ Group E ▪
- 1.Londrina              8  5  1  2 12- 8 16   [Londrina-PR]
- 2.Joinville             8  4  2  2 11- 9 14   [Joinville-SC]
- 3.XV/Novembre           8  3  2  3 11-14 11   [Piracicaba-SP]
- - - - - - - - - - - - - - - - - - - - - - -
- 4.Volta Redonda         8  2  2  4 10-11  8   [Volta Redonda-RJ]
---------------------------------------------
- 5.Mogi-Mirim            8  1  3  4 10-12  6   [Mogi-Mirim-SP]
+<!-- $table16$ - Group E -->
 
 Bottom clubs relegated to third division; top-3 of each group plus
 Náutico (as best 4th placed teams) to knock-out stage for
@@ -910,19 +836,9 @@ Atlético-GO     1-2 1-2     Joinville
 
 ▪ THIRD STAGE ▪
 
-▪ Group A ▪
- 1.Ponte Preta           6  3  2  1 14- 9 11
- 2.Náutico               6  3  1  2 12- 9 10
- - - - - - - - - - - - - - - - - - - - - - -
- 3.CRB                   6  3  1  2 10-12 10
- 4.Gama                  6  0  2  4  6-12  2
+<!-- $table17$ - Group A -->
 
-▪ Group B ▪
- 1.América-MG            6  4  1  1 13- 4 13
- 2.Vila Nova-GO          6  4  0  2  7- 6 12
- - - - - - - - - - - - - - - - - - - - - - -
- 3.Joinville             6  1  2  3  7- 9  5
- 4.Tuna Luso             6  1  1  4  6-14  4
+<!-- $table18$ - Group B -->
 
 ▪ Round 1 ▪  Oct 13-20
 CRB           2-2 Ponte Preta
@@ -960,24 +876,13 @@ Gama          2-2 Náutico
 Joinville     1-2 Vila Nova
 América       5-0 Tuna Luso
 
-▪ Group A ▪
- 1.Ponte Preta           6  3  2  1 14- 9 11
- 2.Náutico               6  3  1  2 12- 9 10
- - - - - - - - - - - - - - - - - - - - - - -
- 3.CRB                   6  3  1  2 10-12 10
- 4.Gama                  6  0  2  4  6-12  2
+<!-- $table19$ - Group A -->
 
-▪ Group B ▪
- 1.América-MG            6  4  1  1 13- 4 13
- 2.Vila Nova-GO          6  4  0  2  7- 6 12
- - - - - - - - - - - - - - - - - - - - - - -
- 3.Joinville             6  1  2  3  7- 9  5
- 4.Tuna Luso             6  1  1  4  6-14  4
+<!-- $table20$ - Group B -->
 
 FINAL STAGE
 
-<!-- $table7$ -->
-
+<!-- $table21$ - Table -->
 
 ▪ Round 1 ▪  Nov 14 & 16
 Náutico       3-0 Ponte Preta
@@ -1003,8 +908,7 @@ Náutico       0-2 América        [abandoned in 90']
 Ponte Preta   1-1 Náutico
 América       1-0 Vila Nova
 
-<!-- $table8$ -->
-
+<!-- $table22$ - Table -->
 
 <!-- $topscorers2$ -->
 
@@ -1081,7 +985,7 @@ Villa Nova Atlético Clube (Nova Lima - MG)
 
 ▪ First Phase ▪
 
-▪ Group 1 ▪
+Group 1
 
 30. 8.97
 Baré(RR) 1-1 São Raimundo(AM)
@@ -1104,12 +1008,9 @@ São Raimundo(AM) 3-2 Roraima(RR)
 São Raimundo(AM) 2-0 Baré(RR)
 Ji Paraná(RO) 3-1 Roraima(RR)
 
- 1. São Raimundo(AM)       6   4   1   1  10   6  13
- 2. Ji Paraná(RO)          6   3   1   2   8   5  10
- 3. Roraima(RR)             6   2   1   3   7   8   7
- 4. Baré(RR)               6   1   1   4   7  13   4
+<!-- $table23$ -->
 
-▪ Group 2 ▪
+Group 2
 
 31. 8.97
 Santa Rosa(PA) 0-0 Sampaio Corrêa(MA)
@@ -1133,12 +1034,9 @@ Santa Rosa(PA) 2-1 IV de Julho(PI)
 Sampaio Corrêa(MA) 4-0 Santa Rosa(PA)
 IV de Julho(PI) 2-1 River(PI)
 
- 1. Sampaio Corrêa(MA)     6   5   1   0  12   3  16
- 2. Santa Rosa(PA)     6   3   1   2  11  10  10
- 3. IV de Julho(PI)     6   2   1   3  11  12   7
- 4. River(PI)       6   0   1   5   7  16   1
+<!-- $table24$ -->
 
-▪ Group 3 ▪
+Group 3
 
 31. 8.97
 Potiguar(RN) 0-2 Ferroviário(CE)
@@ -1161,12 +1059,9 @@ Potiguar(RN) 3-2 Picos(PI)
 Ferroviário(CE) 2-1 Potiguar(RN)
 Picos(PI) 0-0 Quixadá(CE)
 
- 1. Quixadá(CE)            6   3   3   0   8   3  12
- 2. Ferroviário(CE)        6   3   2   1   8   3  11
- 3. Picos(PI)       6   1   2   3   3   7   5
- 4. Potiguar(RN)     6   1   1   4   6  12   4
+<!-- $table25$ -->
 
-▪ Group 4 ▪
+Group 4
 
 31. 8.97
 Fortaleza(CE) 1-1 Porto(PE)
@@ -1189,12 +1084,9 @@ Vitória(PE) 2-2 Porto(PE)
 Porto(PE) 2-0 Fortaleza(CE)
 C.S.A.(AL) 3-0 Vitória(PE)
 
- 1. C.S.A.(AL)       6   3   2   1   9   4  11
- 2. Porto(PE)       6   1   5   0   8   6   8
- 3. Vitória(PE)            6   1   3   2   5   8   6
- 4. Fortaleza(CE)     6   1   2   3   4   8   5
+<!-- $table26$ -->
 
-▪ Group 5 ▪
+Group 5
 
 31. 8.97
 A.S.A.(AL) 3-1 Flamengo(PE)
@@ -1216,12 +1108,9 @@ Limoeirense(PE) 0-0 Flamengo(PE)
 Flamengo(PE) 0-1 A.S.A.(AL)
 Juazeiro(BA) 1-0 Limoeirense(PE)
 
- 1. A.S.A.(AL)       6   5   1   0  10   1  16
- 2. Juazeiro(BA)     6   2   0   4   7   7   6
- 3. Limoeirense(PE)     6   1   3   2   2   5   6
- 4. Flamengo(PE)     6   1   2   3   5  11   5
+<!-- $table27$ -->
 
-▪ Group 6 ▪
+Group 6
 
 31. 8.97
 Galícia(BA) 1-3 Confiança(SE)
@@ -1243,12 +1132,9 @@ Itabaiana(SE) 1-2 Confiança(SE)
 Confiança(SE) 1-1 Galícia(BA)
 Catuense(BA) 1-2 Itabaiana(SE)
 
- 1. Confiança(SE)          6   3   3   0  11   6  12
- 2. Itabaiana(SE)     6   3   1   2  12   9  10
- 3. Catuense(BA)     6   1   4   1   8   8   7
- 4. Galícia(BA)            6   0   2   4   7  15   2
+<!-- $table28$ -->
 
-▪ Group 7 ▪
+Group 7
 
 31. 8.97
 Goiânia(GO) 2-1 Operário(MS)
@@ -1272,12 +1158,9 @@ União(MT) 1-0 Operário(MS)                    [also reported 0-0]
 Operário(MS) 2-1 Goiânia(GO)
 Operário(MT) 4-0 União(MT)
 
- 1. Goiânia(GO)            6   3   2   1   8   5  11
- 2. Operário(MS)           6   3   0   3   4   6   9
- 3. Operário(MT)           6   2   2   2   9   5   8
- 4. União(MT)              6   1   2   3   3   8   5
+<!-- $table29$ -->
 
-▪ Group 8 ▪
+Group 8
 
 31. 8.97
 Palmas(TO) 0-1 Tocantinópolis(TO)
@@ -1300,12 +1183,9 @@ Brasília(DF) 0-0 Tocantinópolis(TO)
 Tocantinópolis(TO) 0-2 Palmas(TO)
 Ceilandense(DF) 1-1 Brasília(DF)
 
- 1. Palmas(TO)       6   3   0   3   5   6   9
- 2. Brasília(DF)           6   2   3   1  11   6   9
- 3. Tocantinópolis(TO)     6   2   2   2   5   6   8
- 4. Ceilandense(DF)     6   2   1   3   5   8   7
+<!-- $table30$ -->
 
-▪ Group 9 ▪
+Group 9
 
 31. 8.97
 Rio Branco(ES) 0-2 Tupi(MG)
@@ -1328,12 +1208,9 @@ Rio Branco(ES) 3-1 América(RJ)
 Tupi(MG) 2-1 Rio Branco(ES)
 América(RJ) 1-0 Campo Grande(RJ)
 
- 1. Tupi(MG)               6   3   2   1   7   4  11
- 2. Rio Branco(ES)         6   3   1   2   6   5  10
- 3. América(RJ)            6   2   1   3   4   6   7
- 4. Campo Grande(RJ)       6   0   4   2   1   3   4
+<!-- $table31$ -->
 
-▪ Group 10 ▪
+Group 10
 
 30. 8.97
 Juventus(SP) 1-1 Rio Branco(SP)
@@ -1358,12 +1235,9 @@ Rio Branco(SP) 0-2 Juventus(SP)
 21. 9.97
 Sorocaba(SP) 4-2 Portuguesa(SP)
 
- 1. Juventus(SP)     6   4   2   0  12   6  14
- 2. Sorocaba(SP)     6   4   1   1  10   6  13
- 3. Portuguesa(SP)     6   2   0   4   8  12   6
- 4. Rio Branco(SP)     6   0   1   5   3   9   1
+<!-- $table32$ -->
 
-▪ Group 11 ▪
+Group 11
 
 31. 8.97
 Montes Claros(MG) 1-0 Anápolis(GO)
@@ -1386,12 +1260,9 @@ Montes Claros(MG) 1-1 Itumbiara(GO)
 Anápolis(GO) 0-2 Montes Claros(MG)
 Itumbiara(GO) 0-1 Uberlândia(MG)
 
- 1. Uberlândia(MG)         6   5   1   0  16   2  16
- 2. Montes Claros(MG)     6   3   1   2   5   7  10
- 3. Anápolis(GO)           6   1   2   3   6   9   5
- 4. Itumbiara(GO)     6   0   2   4   2  11   2
+<!-- $table33$ -->
 
-▪ Group 12 ▪
+Group 12
 
 31. 8.97
 Villa Nova(MG) 1-0 Social(MG)
@@ -1415,12 +1286,9 @@ São José(SP) 4-1 Internacional(SP)
 Internacional(SP) 2-1 São José(SP)
 Social(MG) 4-0 Villa Nova(MG)
 
- 1. Internacional(SP)     6   4   0   2  11  10  12
- 2. Social(MG)       6   3   1   2  10   6  10
- 3. São José(SP)           6   3   1   2  11   8  10
- 4. Villa Nova(MG)     6   1   0   5   5  13   3
+<!-- $table34$ -->
 
-▪ Group 13 ▪
+Group 13
 
 31. 8.97
 Maringá(PR) 1-2 União Bandeirante(PR)
@@ -1443,12 +1311,9 @@ Francana(SP) 3-0 União Bandeirante(PR)
 União Bandeirante(PR) 0-2 Maringá(PR)
 América(SP) 3-0 Francana(SP)
 
- 1. Francana(SP)     6   4   0   2   7   5  12
- 2. União Bandeirante(PR)  6   3   0   3   7   8   9
- 3. América(SP)            6   2   2   2   4   4   8
- 4. Maringá(PR)            6   1   2   3   3   4   5
+<!-- $table35$ -->
 
-▪ Group 14 ▪
+Group 14
 
 31. 8.97
 Internacional(RS) 2-1 XV de Novembro(RS)
@@ -1470,12 +1335,9 @@ Ponta Grossa(PR) 2-1 XV de Novembro(RS)
 Chapecoense(SC) 0-1 Ponta Grossa(PR)
 XV de Novembro(RS) 1-1 Internacional(RS)
 
- 1. Ponta Grossa(PR)     6   4   0   2   5   3  12
- 2. Internacional(RS)      6   3   1   2   6   5  10
- 3. Chapecoense(SC)     6   2   1   3   3   4   7
- 4. XV de Novembro(RS)     6   1   2   3   4   6   5
+<!-- $table36$ -->
 
-▪ Group 15 ▪
+Group 15
 
 31. 8.97
 Caxias(RS) 1-1 Avaí(SC)
@@ -1497,12 +1359,9 @@ Caxias(RS) 3-1 Paulista(SP)
 Avaí(SC) 0-1 Caxias(RS)
 Paulista(SP) 3-0 Blumenau(SC)
 
- 1. Caxias(RS)       6   3   3   0  10   5  12
- 2. Avaí(SC)               6   2   1   3   7   7   7
- 3. Paulista(SP)     6   2   1   3  10  11   7
- 4. Blumenau(SC)     6   2   1   3   4   8   7
+<!-- $table37$ -->
 
-▪ Group 16 ▪
+Group 16
 
 30. 8.97
 São José(RS) 1-0 Brasil(RS)
@@ -1527,10 +1386,7 @@ Figueirense(SC) 1-0 Brasil(RS)
 Brasil(RS) 2-0 São José(RS)
 Tubarão(SC) 2-4 Figueirense(SC)
 
- 1. Figueirense(SC)     6   4   1   1  14  11  13
- 2. São José(RS)           6   3   1   2  11   9  10
- 3. Brasil(RS)       6   2   1   3   5   7   7
- 4. Tubarão(SC)            6   1   1   4  10  13   4
+<!-- $table38$ -->
 
 
 Second Phase [28. 9.97 and 5.10.97]
@@ -1572,8 +1428,7 @@ Ji Paraná(RO)          0-3 2-4 Juventus(SP)
 
 Final Phase
 
-<!-- $table9$ -->
-
+<!-- $table39$ - Table -->
 
 ▪ Round 1 ▪  Nov 9
 Francana(SP)           1-1 Sampaio Corrêa(MA)
@@ -1599,8 +1454,7 @@ Francana(SP)           1-0 Juventus(SP)
 Sampaio Corrêa(MA)     3-1 Francana(SP)
 Juventus(SP)           3-1 Tupi(MG)
 
-<!-- $table10$ -->
-
+<!-- $table40$ - Table -->
 
 ‹1996, see page braz96›
 
@@ -1612,10 +1466,4 @@ Juventus(SP)           3-1 Tupi(MG)
 
 ‹list of 2nd division champions, see page braz2champ›.
 
-
-
-
-
-
-<!-- $about$ -->
 

@@ -1,10 +1,12 @@
   <!--
-     source: https://rsssf.org/tablesb/braz09.html
+     title:   Brazil 2009
+     source:  https://rsssf.org/tablesb/braz09.html
+     author:  RSSSF Brazil
+     updated: 13 Dec 2012    
     -->
-  
 
 
-== Brazil 2009
+
 
 
 Participants
@@ -20,8 +22,7 @@ CR Flamengo (Rio de Janeiro-RJ)         São Paulo FC (SP)
 Fluminense FC (Rio de Janeiro-RJ)       Sport Club do Recife (PE)
 Grêmio FBPA (Porto Alegre-RS)           EC Vitória (Salvador-BA)
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ May 9 _
@@ -569,13 +570,6 @@ Flamengo        2-1 Grêmio
 Vitória         2-2 Goiás
 Botafogo        2-1 Palmeiras
 
-<!-- $table2$ -->
+<!-- $table2$ - Final Table -->
 
-
-
-
-
-
-
-<!-- $about$ -->
 

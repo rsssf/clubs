@@ -1,10 +1,12 @@
   <!--
-     source: https://rsssf.org/tablesb/braz83.html
+     title:   Brazil 1983 (Taça de Ouro and Taça de Prata)
+     source:  https://rsssf.org/tablesb/braz83.html
+     author:  Ricardo Pontes
+     updated: 7 May 2000    
     -->
-  
 
 
-== Brazil 1983 (Taça de Ouro and Taça de Prata)
+
 
 TAÇA DE OURO - 1983 [Brazilian Championship]
 
@@ -105,7 +107,7 @@ SANTOS Futebol Clube (Santos-SP)
 
 ▪ First Phase ▪
 
-▪ Group A ▪
+Group A
 
 ▪ Round 1 ▪
 _ Jan 23 _
@@ -177,10 +179,9 @@ Moto Clube     1-1  Santos
 Paysandu       3-0  Rio Negro
   [Edésio, Careca, Cabinho]
 
-<!-- $table1$ -->
+<!-- $table1$ - Table -->
 
-
-▪ Group B ▪
+Group B
 
 ▪ Round 1 ▪
 _ Jan 23 _
@@ -252,10 +253,9 @@ _ Mar 7 _
 Ponte Preta    3-1  Joinville
   (Nívio (2), Luís Sílvio; João Carlos)
 
-<!-- $table2$ -->
+<!-- $table2$ - Table -->
 
-
-▪ Group C ▪
+Group C
 
 ▪ Round 1 ▪
 _ Jan 22 _
@@ -327,10 +327,9 @@ São Paulo      3-1  Sport
 Sergipe        2-0  Galícia
   [Luís Carlos, Valença]
 
-<!-- $table3$ -->
+<!-- $table3$ - Table -->
 
-
-▪ Group D ▪
+Group D
 
 ▪ Round 1 ▪
 _ Jan 23 _
@@ -402,10 +401,9 @@ Fluminense     1-0  Corinthians
 Tiradentes     2-1  CSA
   [Sabará, Flávio; Rômel]
 
-<!-- $table4$ -->
+<!-- $table4$ - Table -->
 
-
-▪ Group E ▪
+Group E
 
 ▪ Round 1 ▪
 _ Jan 23 _
@@ -479,10 +477,9 @@ _ Mar 6 _
 Bahia          3-0  Goiás
   [Róbson, Sabino, Léo Oliveira]
 
-<!-- $table5$ -->
+<!-- $table5$ - Table -->
 
-
-▪ Group F ▪
+Group F
 
 ▪ Round 1 ▪
 _ Jan 23 _
@@ -554,10 +551,9 @@ Atlético-MG    1-0  Juventus
 América-RJ     4-0  Rio Branco
   (Luisinho (2), Gílson, Moreno)
 
-<!-- $table6$ -->
+<!-- $table6$ - Table -->
 
-
-▪ Group G ▪
+Group G
 
 ▪ Round 1 ▪
 _ Jan 23 _
@@ -626,10 +622,9 @@ Internacional  0-0  Botafogo-RJ
 Ferroviária    3-1  Brasília
   [Claudinho, Bozó, Marcão; Santos]
 
-<!-- $table7$ -->
+<!-- $table7$ - Table -->
 
-
-▪ Group H ▪
+Group H
 
 ▪ Round 1 ▪
 _ Jan 22 _
@@ -700,8 +695,7 @@ Vasco da Gama  5-2  Treze
 Ferroviário    1-2  Náutico
   [Betinho; Luisinho (own goal), Mirandinha]
 
-<!-- $table8$ -->
-
+<!-- $table8$ - Table -->
 
 ▪ Playoff ▪
 
@@ -767,10 +761,9 @@ Comercial      2-2  Santos
 Cruzeiro       1-1  Guarani
   [Edmar; Marlon]
 
-<!-- $table9$ -->
+<!-- $table9$ - Table -->
 
-
-▪ Group J ▪
+Group J
 
 ▪ Round 1 ▪
 _ Mar 13 _
@@ -814,10 +807,9 @@ Ponte Preta    2-1  Sport
 Internacional  2-1  Atlético-MG
   [Geraldão, Silvinho; Formiga]
 
-<!-- $table10$ -->
+<!-- $table10$ - Table -->
 
-
-▪ Group K ▪
+Group K
 
 ▪ Round 1 ▪
 _ Mar 13 _
@@ -861,10 +853,9 @@ São Paulo      5-1  Uberaba
 Vila Nova      4-1  Colorado
   (Zé Carlos (2), Marquinhos, Falcão; César)
 
-<!-- $table11$ -->
+<!-- $table11$ - Table -->
 
-
-▪ Group L ▪
+Group L
 
 ▪ Round 1 ▪
 _ Mar 13 _
@@ -906,10 +897,9 @@ Vasco da Gama  1-1  Bahia
 Corinthians    3-1  Campo Grande
   (Zenon (2), Sócrates; Luisinho)
 
-<!-- $table12$ -->
+<!-- $table12$ - Table -->
 
-
-▪ Group M ▪
+Group M
 
 ▪ Round 1 ▪
 _ Mar 13 _
@@ -954,10 +944,9 @@ Flamengo       2-0  Tiradentes
 _ Apr 2 _
 Palmeiras      0-0  Americano
 
-<!-- $table13$ -->
+<!-- $table13$ - Table -->
 
-
-▪ Group N ▪
+Group N
 
 ▪ Round 1 ▪
 _ Mar 13 _
@@ -1002,10 +991,9 @@ Grêmio         1-1  América-RJ
 Sergipe        2-6  Botafogo-RJ
   (Mica (2); Té (2), Geraldo, Lupercínio, Jérson, Róbson (own goal))
 
-<!-- $table14$ -->
+<!-- $table14$ - Table -->
 
-
-▪ Group O ▪
+Group O
 
 ▪ Round 1 ▪
 _ Mar 13 _
@@ -1047,10 +1035,9 @@ Ferroviária    5-1  América-RN
 Atlético-PR    2-0  Botafogo-SP
   [Washington, Abel]
 
-<!-- $table15$ -->
+<!-- $table15$ - Table -->
 
-
-▪ Group P ▪
+Group P
 
 ▪ Round 1 ▪
 _ Mar 12 _
@@ -1094,12 +1081,11 @@ Goiás          1-1  Fluminense
 Náutico        5-1  Rio Negro
   [Hêider, Mirandinha, Manguinha, Ademir Lobo, Baiano; Berg]
 
-<!-- $table16$ -->
+<!-- $table16$ - Table -->
 
+▪ Third Phase ▪
 
-Third Phase
-
-▪ Group Q ▪
+Group Q
 
 ▪ Round 1 ▪
 _ Apr 10 _
@@ -1142,10 +1128,9 @@ Palmeiras      0-0  Vasco da Gama
 Náutico        0-1  Santos
   [Paulo Isidoro]
 
-<!-- $table17$ -->
+<!-- $table17$ - Table -->
 
-
-▪ Group R ▪
+Group R
 
 ▪ Round 1 ▪
 _ Apr 10 _
@@ -1191,10 +1176,9 @@ América-RJ     5-1  Colorado
 Atlético-MG    1-1  Atlético-PR
   [Rômulo; Peu]
 
-<!-- $table18$ -->
+<!-- $table18$ - Table -->
 
-
-▪ Group S ▪
+Group S
 
 ▪ Round 1 ▪
 _ Apr 9 _
@@ -1238,10 +1222,9 @@ Grêmio         1-3 Ferroviária
 São Paulo      2-0  Sport
   [Heriberto, Darío Pereyra]
 
-<!-- $table19$ -->
+<!-- $table19$ - Table -->
 
-
-▪ Group T ▪
+Group T
 
 ▪ Round 1 ▪
 _ Apr 10 _
@@ -1286,8 +1269,7 @@ Corinthians    4-1  Flamengo
 Guarani        1-2  Goiás
   (Adalberto (Own Goal); Luvanor (2))
 
-<!-- $table20$ -->
-
+<!-- $table20$ - Table -->
 
 ▪ Quarterfinals ▪
 
@@ -1324,8 +1306,7 @@ Santos         2-1   0-3 Flamengo
 
 CR Flamengo (Rio de Janeiro) are the 1983 Brazilian champions
 
-<!-- $table21$ -->
-
+<!-- $table21$ - Final Table -->
 
 Obs: The points disputed in the playoff didn't count for the final table
 
@@ -1335,7 +1316,7 @@ Brazilian Championship Of 2nd Level - Taça De Prata 1983
 
 ▪ First Phase ▪
 
-▪ Group A ▪
+Group A
 
 Participants
 Ceará SC (Fortaleza-CE)
@@ -1375,10 +1356,9 @@ Ceará           0-0  Maranhão
 Nacional        2-2  Ríver
 Remo            0-1  Guarany
 
-<!-- $table22$ -->
+<!-- $table22$ - Table -->
 
-
-▪ Group B ▪
+Group B
 
 Participants
 Alecrim FC (Natal-RN)
@@ -1419,10 +1399,9 @@ CRB             0-3 Santa Cruz
 Campinense      2-0  Itabaiana
 Central         4-0  Alecrim
 
-<!-- $table23$ -->
+<!-- $table23$ - Table -->
 
-
-▪ Group C ▪
+Group C
 
 Participants
 Americano FC (Campos-RJ)
@@ -1463,10 +1442,9 @@ Bangu           3-0  Vitória
 Guarapari       2-1  Americano
 Fluminense-BA   1-2  Guará
 
-<!-- $table24$ -->
+<!-- $table24$ - Table -->
 
-
-▪ Group D ▪
+Group D
 
 Participants
 Atlético CG (Goiânia-GO)
@@ -1507,15 +1485,9 @@ Coritiba        n/p  Operário-MT
 Itumbiara       1-3  Botafogo-SP
 Grêmio Maringá  3-2  Atlético-GO
 
- 1-Botafogo-SP      5  3  2  0  10- 5   8  Qualified
- 2-Itumbiara        5  3  1  1   8- 6   7  Qualified
------------------------------------------
- 3-Atlético-GO      5  2  1  2   9- 8   5
- 4-Coritiba         4  1  2  1   5- 7   4
- 5-Grêmio Maringá   5  1  1  3   7- 9   3
- 6-Operário-MT      4  0  1  3   2- 6   1
+<!-- $table25$ -->
 
-▪ Group E ▪
+Group E
 
 Participants
 América FC (Belo Horizonte-MG)
@@ -1555,10 +1527,9 @@ Guarani         4-1  Volta Redonda
 América-MG      0-2  Uberaba
 Bonsucesso      1-3  Operário-MS
 
-<!-- $table25$ -->
+<!-- $table26$ - Table -->
 
-
-▪ Group F ▪
+Group F
 
 Participants
 Criciúma EC (Criciúma-SC)
@@ -1598,12 +1569,11 @@ Portuguesa      0-0  Londrina
 Esportivo       2-1  São Bento
 Novo Hamburgo   2-2  Criciúma
 
-<!-- $table26$ -->
-
+<!-- $table27$ - Table -->
 
 ▪ Second Phase ▪
 
-▪ Group G ▪
+Group G
 
 _ Feb 27 _
 Central         3-0  Maranhão
@@ -1614,10 +1584,9 @@ Guarani         0-0  Central
 _ Mar 5 _
 Maranhão        1-5  Guarani
 
-<!-- $table27$ -->
+<!-- $table28$ - Table -->
 
-
-▪ Group H ▪
+Group H
 
 _ Feb 27 _
 Guarany         6-3 Uberaba
@@ -1628,10 +1597,9 @@ Santa Cruz      3-1  Guarany
 _ Mar 6 _
 Uberaba         5-0  Santa Cruz
 
-<!-- $table28$ -->
+<!-- $table29$ - Table -->
 
-
-▪ Group I ▪
+Group I
 
 _ Feb 27 _
 Americano       2-0  Itumbiara
@@ -1642,10 +1610,9 @@ Portuguesa      1-1  Americano
 _ Mar 6 _
 Itumbiara       3-2  Portuguesa
 
-<!-- $table29$ -->
+<!-- $table30$ - Table -->
 
-
-▪ Group J ▪
+Group J
 
 _ Feb 27 _
 Londrina        1-0  Bangu
@@ -1656,12 +1623,11 @@ Botafogo-SP     3-0  Londrina
 _ Mar 5 _
 Bangu           1-1  Botafogo-SP
 
-<!-- $table30$ -->
-
+<!-- $table31$ - Table -->
 
 Brasília, CSA, Ferroviário, Fortaleza, Galícia, Joinville, Juventus, Mixto, Moto Clube, Paysandu, Rio Branco, Treze were eliminated from the first phase of the first level (Taça de Ouro) and entered in the second level (Taça de Prata) in the third phase
 
-Third Phase
+▪ Third Phase ▪
 
 _ Mar 13 & 20 _
 Ferroviário     1-0   1-3  Londrina
@@ -1673,7 +1639,7 @@ Treze           3-2   0-3  Brasília
 Galícia         5-2   0-1  Fortaleza
 Rio Branco      1-1   1-2  Mixto
 
-Fourth Phase
+▪ Fourth Phase ▪
 
 _ Mar 27 & Apr 2 _
 Galícia         2-3   1-2  Juventus
@@ -1712,10 +1678,4 @@ CA Juventus (São Paulo) are the 1983 Brazilian 2nd level champions
 
 ‹list of 2nd division champions, see page braz2champ›.
 
-
-
-
-
-
-<!-- $about$ -->
 

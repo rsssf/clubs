@@ -1,10 +1,13 @@
-= Brazil Série A 2017
+= Brazil | Série A 2017
 
-Round 1
-[May 13]
+
+<!-- $table1$ - Final Table -->
+
+▪ Round 1 ▪
+_ May 13 _
 Flamengo        1-1 Atlético/MG
 Corinthians     1-1 Chapecoense
-[May 14]
+_ May 14 _
 Fluminense      3-2 Santos
 Avaí            0-0 Vitória
 Bahia           6-2 Atlético/PR
@@ -12,74 +15,74 @@ Ponte Preta     4-0 Sport Recife
 Palmeiras       4-0 Vasco da Gama
 Cruzeiro        1-0 São Paulo
 Grêmio          2-0 Botafogo
-[May 15]
+_ May 15 _
 Coritiba        4-1 Atlético/GO
 
-Round 2
-[May 20]
+▪ Round 2 ▪
+_ May 20 _
 Santos          1-0 Coritiba
 Chapecoense     1-0 Palmeiras
 Atlético/GO     0-3 Flamengo
-[May 21]
+_ May 21 _
 Vasco da Gama   2-1 Bahia
 Atlético/MG     1-2 Fluminense
 Vitória         0-1 Corinthians
 Atlético/PR     0-2 Grêmio
 Botafogo        2-0 Ponte Preta
 Sport Recife    1-1 Cruzeiro
-[May 22]
+_ May 22 _
 São Paulo       2-0 Avaí
 
-Round 3
-[May 27]
+▪ Round 3 ▪
+_ May 27 _
 Vasco da Gama   3-2 Fluminense
 São Paulo       2-0 Palmeiras
 Vitória         0-1 Coritiba
-[May 28]
+_ May 28 _
 Atlético/MG     2-2 Ponte Preta
 Atlético/GO     0-1 Corinthians
 Santos          0-1 Cruzeiro
 Atlético/PR     1-1 Flamengo
 Sport Recife    4-3 Grêmio
 Botafogo        1-0 Bahia
-[May 29]
+_ May 29 _
 Chapecoense     2-0 Avaí
 
-Round 4
-[Jun 3]
+▪ Round 4 ▪
+_ Jun 3 _
 Coritiba        1-0 Atlético/PR
 Fluminense      2-1 Vitória
 Corinthians     2-0 Santos
-[Jun 4]
+_ Jun 4 _
 Flamengo        0-0 Botafogo
 Avaí            1-0 Sport Recife
 Grêmio          2-0 Vasco da Gama
 Ponte Preta     1-0 São Paulo
 Palmeiras       0-0 Atlético/MG
 Cruzeiro        0-2 Chapecoense
-[Jun 5]
+_ Jun 5 _
 Bahia           3-0 Atlético/GO
 
-Round 5
-[Jun 6]
+▪ Round 5 ▪
+_ Jun 6 _
 Fluminense      1-1 Atlético/PR
-[Jun 7]
+_ Jun 7 _
 Atlético/MG     1-0 Avaí
 Coritiba        1-0 Palmeiras
 Santos          1-0 Botafogo
 Sport Recife    2-0 Flamengo
 Vasco da Gama   2-5 Corinthians
-[Jun 8]
+_ Jun 8 _
 Atlético/GO     3-0 Ponte Preta
 São Paulo       2-0 Vitória
 Chapecoense     3-6 Grêmio
 Bahia           1-0 Cruzeiro
 
-Round 6
-[Jun 10]
+▪ Round 6 ▪
+_ Jun 10 _
 Palmeiras       3-1 Fluminense
 Vasco da Gama   2-1 Sport Recife
-[Jun 11]
+_ Jun 11 _
 Botafogo        2-2 Coritiba
 Avaí            1-1 Flamengo
 Vitória         2-0 Atlético/MG
@@ -87,11 +90,11 @@ Corinthians     3-2 São Paulo
 Ponte Preta     3-2 Chapecoense
 Cruzeiro        2-0 Atlético/GO
 Atlético/PR     0-2 Santos
-[Jun 12]
+_ Jun 12 _
 Grêmio          1-0 Bahia
 
-Round 7
-[Jun 14]
+▪ Round 7 ▪
+_ Jun 14 _
 Atlético/GO     3-1 Avaí
 Atlético/MG     0-1 Atlético/PR
 Sport Recife    0-0 São Paulo
@@ -100,43 +103,43 @@ Flamengo        2-0 Ponte Preta
 Chapecoense     2-1 Vasco da Gama
 Corinthians     1-0 Cruzeiro
 Santos          1-0 Palmeiras
-[Jun 15]
+_ Jun 15 _
 Coritiba        0-0 Bahia
 Fluminense      0-2 Grêmio
 
-Round 8
-[Jun 17]
+▪ Round 8 ▪
+_ Jun 17 _
 Atlético/GO     0-1 Atlético/PR
 Vasco da Gama   1-0 Avaí
 Santos          0-0 Ponte Preta
-[Jun 18]
+_ Jun 18 _
 Coritiba        0-0 Corinthians
 Bahia           2-4 Palmeiras
 Chapecoense     0-2 Botafogo
 Fluminense      2-2 Flamengo
 São Paulo       1-2 Atlético/MG
 Sport Recife    1-3 Vitória
-[Jun 19]
+_ Jun 19 _
 Cruzeiro        3-3 Grêmio
 
-Round 9
-[Jun 21]
+▪ Round 9 ▪
+_ Jun 21 _
 Vitória         0-2 Santos
 Botafogo        3-1 Vasco da Gama
 Palmeiras       1-0 Atlético/GO
 Atlético/MG     2-2 Sport Recife
 Atlético/PR     1-0 São Paulo
 Avaí            0-3 Fluminense
-[Jun 22]
+_ Jun 22 _
 Corinthians     3-0 Bahia
 Ponte Preta     1-0 Cruzeiro
 Flamengo        5-1 Chapecoense
 Grêmio          2-0 Coritiba
 
-Round 10
-[Jun 24]
+▪ Round 10 ▪
+_ Jun 24 _
 Santos          0-1 Sport Recife
-[Jun 25]
+_ Jun 25 _
 Vasco da Gama   1-0 Atlético/GO
 Atlético/PR     4-1 Vitória
 Cruzeiro        2-0 Coritiba
@@ -145,14 +148,14 @@ Ponte Preta     1-2 Palmeiras
 São Paulo       1-1 Fluminense
 Bahia           0-1 Flamengo
 Chapecoense     0-1 Atlético/MG
-[Jun 26]
+_ Jun 26 _
 Botafogo        0-2 Avaí
 
-Round 11
-[Jul 1]
+▪ Round 11 ▪
+_ Jul 1 _
 Palmeiras       1-0 Grêmio
 Atlético/GO     1-1 Santos
-[Jul 2]
+_ Jul 2 _
 Atlético/MG     3-1 Cruzeiro
 Corinthians     1-0 Botafogo
 Flamengo        2-0 São Paulo
@@ -160,42 +163,42 @@ Sport Recife    1-0 Atlético/PR
 Vitória         0-0 Bahia
 Avaí            0-0 Ponte Preta
 Coritiba        2-2 Vasco da Gama
-[Jul 3]
+_ Jul 3 _
 Fluminense      3-3 Chapecoense
 
-Round 12
-[Jul 8]
+▪ Round 12 ▪
+_ Jul 8 _
 Atlético/GO     1-2 Vitória
 Vasco da Gama   0-1 Flamengo
 Corinthians     2-0 Ponte Preta
-[Jul 9]
+_ Jul 9 _
 Chapecoense     1-1 Atlético/PR
 Cruzeiro        3-1 Palmeiras
 Bahia           1-1 Fluminense
 Grêmio          0-2 Avaí
 Botafogo        1-1 Atlético/MG
 Santos          3-2 São Paulo
-[Jul 10]
+_ Jul 10 _
 Coritiba        0-3 Sport Recife
 
-Round 13
-[Jul 12]
+▪ Round 13 ▪
+_ Jul 12 _
 Atlético/MG     0-1 Santos
 Ponte Preta     0-3 Bahia
 Fluminense      0-1 Botafogo
 Atlético/PR     0-2 Cruzeiro
 Palmeiras       0-2 Corinthians
 Vitória         1-4 Vasco da Gama
-[Jul 13]
+_ Jul 13 _
 Flamengo        0-1 Grêmio
 São Paulo       2-2 Atlético/GO
 Sport Recife    3-0 Chapecoense
 Avaí            1-4 Coritiba
 
-Round 14
-[Jul 15]
+▪ Round 14 ▪
+_ Jul 15 _
 Corinthians     2-2 Atlético/PR
-[Jul 16]
+_ Jul 16 _
 Palmeiras       4-2 Vitória
 Atlético/GO     1-2 Atlético/MG
 Chapecoense     2-0 São Paulo
@@ -204,11 +207,11 @@ Grêmio          3-1 Ponte Preta
 Vasco da Gama   0-0 Santos
 Bahia           1-1 Avaí
 Coritiba        1-2 Fluminense
-[Jul 17]
+_ Jul 17 _
 Botafogo        2-1 Sport Recife
 
-Round 15
-[Jul 19]
+▪ Round 15 ▪
+_ Jul 19 _
 Santos          1-0 Chapecoense
 Vitória         1-3 Grêmio
 Avaí            0-0 Corinthians
@@ -216,16 +219,16 @@ Ponte Preta     4-0 Coritiba
 Atlético/MG     0-2 Bahia
 Flamengo        2-2 Palmeiras
 São Paulo       1-0 Vasco da Gama
-[Jul 20]
+_ Jul 20 _
 Fluminense      1-1 Cruzeiro
 Sport Recife    4-0 Atlético/GO
 Atlético/PR     0-0 Botafogo
 
-Round 16
-[Jul 22]
+▪ Round 16 ▪
+_ Jul 22 _
 Vitória         1-2 Chapecoense
 Flamengo        2-1 Coritiba
-[Jul 23]
+_ Jul 23 _
 Santos          3-0 Bahia
 Avaí            1-0 Cruzeiro
 Fluminense      0-1 Corinthians
@@ -233,27 +236,27 @@ Sport Recife    0-2 Palmeiras
 Atlético/GO     1-1 Botafogo
 Atlético/MG     1-2 Vasco da Gama
 Atlético/PR     0-2 Ponte Preta
-[Jul 24]
+_ Jul 24 _
 São Paulo       1-1 Grêmio
 
-Round 17
-[Jul 29]
+▪ Round 17 ▪
+_ Jul 29 _
 Botafogo        3-4 São Paulo
 Palmeiras       2-0 Avaí
-[Jul 30]
+_ Jul 30 _
 Chapecoense     1-2 Atlético/GO
 Bahia           1-3 Sport Recife
 Corinthians     1-1 Flamengo
 Coritiba        0-2 Atlético/MG
 Cruzeiro        0-0 Vitória
 Grêmio          1-1 Santos
-[Jul 31]
+_ Jul 31 _
 Vasco da Gama   0-1 Atlético/PR
-[Aug 9]
+_ Aug 9 _
 Ponte Preta     0-0 Fluminense
 
-Round 18
-[Aug 2]
+▪ Round 18 ▪
+_ Aug 2 _
 Chapecoense     1-1 Bahia
 Sport Recife    2-2 Fluminense
 Atlético/MG     0-2 Corinthians
@@ -261,16 +264,16 @@ Vitória         3-1 Ponte Preta
 Atlético/GO     0-1 Grêmio
 Botafogo        1-2 Palmeiras
 Santos          3-2 Flamengo
-[Aug 3]
+_ Aug 3 _
 Atlético/PR     5-0 Avaí
 São Paulo       1-2 Coritiba
 Vasco da Gama   0-3 Cruzeiro
 
-Round 19
-[Aug 5]
+▪ Round 19 ▪
+_ Aug 5 _
 Corinthians     3-1 Sport Recife
 Fluminense      3-1 Atlético/GO
-[Aug 6]
+_ Aug 6 _
 Flamengo        0-2 Vitória
 Bahia           2-1 São Paulo
 Coritiba        2-0 Chapecoense
@@ -280,27 +283,29 @@ Palmeiras       0-1 Atlético/PR
 Avaí            0-0 Santos
 Ponte Preta     0-0 Vasco da Gama
 
-Round 20
-[Aug 12]
+<!-- $table2$ - Halfway Table -->
+
+▪ Round 20 ▪
+_ Aug 12 _
 Atlético/GO     1-0 Coritiba
 Vitória         0-1 Avaí
-[Aug 13]
+_ Aug 13 _
 São Paulo       3-2 Cruzeiro
 Atlético/MG     2-0 Flamengo
 Sport Recife    0-0 Ponte Preta
 Vasco da Gama   1-1 Palmeiras
 Atlético/PR     4-1 Bahia
 Botafogo        1-0 Grêmio
-[Aug 14]
+_ Aug 14 _
 Santos          0-0 Fluminense
-[Aug 23]
+_ Aug 23 _
 Chapecoense     0-1 Corinthians
 
-Round 21
-[Aug 19]
+▪ Round 21 ▪
+_ Aug 19 _
 Corinthians     0-1 Vitória
 Flamengo        2-0 Atlético/GO
-[Aug 20]
+_ Aug 20 _
 Grêmio          0-0 Atlético/PR
 Avaí            1-1 São Paulo
 Bahia           3-0 Vasco da Gama
@@ -308,45 +313,45 @@ Cruzeiro        2-0 Sport Recife
 Ponte Preta     2-1 Botafogo
 Coritiba        0-0 Santos
 Palmeiras       0-2 Chapecoense
-[Aug 21]
+_ Aug 21 _
 Fluminense      2-1 Atlético/MG
 
-Round 22
-[Aug 26]
+▪ Round 22 ▪
+_ Aug 26 _
 Fluminense      0-1 Vasco da Gama
 Corinthians     0-1 Atlético/GO
-[Aug 27]
+_ Aug 27 _
 Bahia           1-2 Botafogo
 Flamengo        2-0 Atlético/PR
 Palmeiras       4-2 São Paulo
 Ponte Preta     1-2 Atlético/MG
 Avaí            1-0 Chapecoense
 Cruzeiro        1-1 Santos
-[Aug 28]
+_ Aug 28 _
 Coritiba        0-1 Vitória
-[Sep 2]
+_ Sep 2 _
 Grêmio          5-0 Sport Recife
 
-Round 23
-[Sep 9]
+▪ Round 23 ▪
+_ Sep 9 _
 Atlético/MG     1-1 Palmeiras
 Vasco da Gama   1-0 Grêmio
 São Paulo       2-2 Ponte Preta
-[Sep 10]
+_ Sep 10 _
 Atlético/PR     1-1 Coritiba
 Santos          2-0 Corinthians
 Sport Recife    0-1 Avaí
 Vitória         2-2 Fluminense
 Botafogo        2-0 Flamengo
 Chapecoense     1-2 Cruzeiro
-[Sep 11]
+_ Sep 11 _
 Atlético/GO     1-1 Bahia
 
-Round 24
-[Sep 16]
+▪ Round 24 ▪
+_ Sep 16 _
 Botafogo        2-0 Santos
 Ponte Preta     1-3 Atlético/GO
-[Sep 17]
+_ Sep 17 _
 Avaí            1-1 Atlético/MG
 Atlético/PR     3-1 Fluminense
 Corinthians     1-0 Vasco da Gama
@@ -354,14 +359,14 @@ Flamengo        2-0 Sport Recife
 Grêmio          0-1 Chapecoense
 Vitória         1-2 São Paulo
 Cruzeiro        1-0 Bahia
-[Sep 18]
+_ Sep 18 _
 Palmeiras       1-0 Coritiba
 
-Round 25
-[Sep 23]
+▪ Round 25 ▪
+_ Sep 23 _
 Flamengo        1-1 Avaí
 Santos          1-0 Atlético/PR
-[Sep 24]
+_ Sep 24 _
 São Paulo       1-1 Corinthians
 Atlético/GO     1-2 Cruzeiro
 Chapecoense     1-0 Ponte Preta
@@ -369,72 +374,72 @@ Coritiba        2-3 Botafogo
 Fluminense      0-1 Palmeiras
 Atlético/MG     1-3 Vitória
 Bahia           1-0 Grêmio
-[Sep 25]
+_ Sep 25 _
 Sport Recife    1-1 Vasco da Gama
 
-Round 26
-[Sep 30]
+▪ Round 26 ▪
+_ Sep 30 _
 Bahia           1-1 Coritiba
 Vasco da Gama   1-1 Chapecoense
 Palmeiras       0-1 Santos
-[Oct 1]
+_ Oct 1 _
 Avaí            0-2 Atlético/GO
 Botafogo        2-3 Vitória
 Cruzeiro        1-1 Corinthians
 Grêmio          1-0 Fluminense
 São Paulo       1-0 Sport Recife
 Atlético/PR     0-2 Atlético/MG
-[Oct 2]
+_ Oct 2 _
 Ponte Preta     1-0 Flamengo
 
-Round 27
-[Oct 11]
+▪ Round 27 ▪
+_ Oct 11 _
 Atlético/PR     2-2 Atlético/GO
 Botafogo        2-1 Chapecoense
 Corinthians     3-1 Coritiba
 Atlético/MG     1-0 São Paulo
 Avaí            1-2 Vasco da Gama
 Grêmio          0-1 Cruzeiro
-[Oct 12]
+_ Oct 12 _
 Flamengo        1-1 Fluminense
 Ponte Preta     1-1 Santos
 Vitória         1-2 Sport Recife
 Palmeiras       2-2 Bahia
 
-Round 28
-[Oct 7]
+▪ Round 28 ▪
+_ Oct 7 _
 Cruzeiro        2-1 Ponte Preta
-[Oct 14]
+_ Oct 14 _
 Vasco da Gama   1-0 Botafogo
 São Paulo       2-1 Atlético/PR
-[Oct 15]
+_ Oct 15 _
 Atlético/GO     1-3 Palmeiras
 Chapecoense     0-1 Flamengo
 Fluminense      1-0 Avaí
 Sport Recife    1-1 Atlético/MG
 Bahia           2-0 Corinthians
 Coritiba        0-1 Grêmio
-[Oct 16]
+_ Oct 16 _
 Santos          2-2 Vitória
 
-Round 29
-[Oct 18]
+▪ Round 29 ▪
+_ Oct 18 _
 Atlético/GO     0-1 Vasco da Gama
 Coritiba        1-0 Cruzeiro
 Atlético/MG     2-3 Chapecoense
 Avaí            1-1 Botafogo
 Corinthians     0-0 Grêmio
 Fluminense      3-1 São Paulo
-[Oct 19]
+_ Oct 19 _
 Palmeiras       2-0 Ponte Preta
 Vitória         2-3 Atlético/PR
 Flamengo        4-1 Bahia
 Sport Recife    1-1 Santos
 
-Round 30
-[Oct 21]
+▪ Round 30 ▪
+_ Oct 21 _
 Vasco da Gama   1-1 Coritiba
-[Oct 22]
+_ Oct 22 _
 Atlético/PR     2-1 Sport Recife
 Bahia           2-1 Vitória
 Cruzeiro        1-3 Atlético/MG
@@ -443,31 +448,31 @@ Santos          1-0 Atlético/GO
 São Paulo       2-0 Flamengo
 Chapecoense     2-0 Fluminense
 Ponte Preta     1-2 Avaí
-[Oct 23]
+_ Oct 23 _
 Botafogo        2-1 Corinthians
 
-Round 31
-[Oct 28]
+▪ Round 31 ▪
+_ Oct 28 _
 São Paulo       2-1 Santos
 Flamengo        0-0 Vasco da Gama
 Atlético/PR     0-0 Chapecoense
-[Oct 29]
+_ Oct 29 _
 Atlético/MG     0-0 Botafogo
 Fluminense      1-1 Bahia
 Ponte Preta     1-0 Corinthians
 Sport Recife    3-4 Coritiba
 Vitória         1-1 Atlético/GO
 Avaí            2-2 Grêmio
-[Oct 30]
+_ Oct 30 _
 Palmeiras       2-2 Cruzeiro
 
-Round 32
-[Nov 4]
+▪ Round 32 ▪
+_ Nov 4 _
 Santos          3-1 Atlético/MG
 Atlético/GO     0-1 São Paulo
 Botafogo        1-2 Fluminense
 Coritiba        4-0 Avaí
-[Nov 5]
+_ Nov 5 _
 Corinthians     3-2 Palmeiras
 Cruzeiro        1-0 Atlético/PR
 Grêmio          3-1 Flamengo
@@ -475,8 +480,8 @@ Bahia           2-0 Ponte Preta
 Chapecoense     1-1 Sport Recife
 Vasco da Gama   1-1 Vitória
 
-Round 33
-[Nov 8]
+▪ Round 33 ▪
+_ Nov 8 _
 Avaí            1-2 Bahia
 Ponte Preta     0-1 Grêmio
 Atlético/PR     0-1 Corinthians
@@ -484,16 +489,16 @@ Sport Recife    1-2 Botafogo
 Flamengo        2-0 Cruzeiro
 Santos          1-2 Vasco da Gama
 Vitória         3-1 Palmeiras
-[Nov 9]
+_ Nov 9 _
 Atlético/MG     3-2 Atlético/GO
 São Paulo       2-2 Chapecoense
 Fluminense      2-2 Coritiba
 
-Round 34
-[Nov 11]
+▪ Round 34 ▪
+_ Nov 11 _
 Botafogo        0-1 Atlético/PR
 Corinthians     1-0 Avaí
-[Nov 12]
+_ Nov 12 _
 Atlético/GO     2-0 Sport Recife
 Grêmio          1-1 Vitória
 Palmeiras       2-0 Flamengo
@@ -501,25 +506,25 @@ Vasco da Gama   1-1 São Paulo
 Bahia           2-2 Atlético/MG
 Coritiba        1-1 Ponte Preta
 Cruzeiro        3-1 Fluminense
-[Nov 13]
+_ Nov 13 _
 Chapecoense     2-0 Santos
 
-Round 35
-[Nov 15]
+▪ Round 35 ▪
+_ Nov 15 _
 Ponte Preta     2-1 Atlético/PR
 Cruzeiro        2-2 Avaí
 Grêmio          1-0 São Paulo
 Corinthians     3-1 Fluminense
 Vasco da Gama   1-1 Atlético/MG
-[Nov 16]
+_ Nov 16 _
 Botafogo        1-2 Atlético/GO
 Chapecoense     2-1 Vitória
 Palmeiras       5-1 Sport Recife
 Bahia           3-1 Santos
 Coritiba        1-0 Flamengo
 
-Round 36
-[Nov 19]
+▪ Round 36 ▪
+_ Nov 19 _
 Atlético/GO     1-1 Chapecoense
 Flamengo        3-0 Corinthians
 São Paulo       0-0 Botafogo
@@ -528,14 +533,14 @@ Vitória         1-1 Cruzeiro
 Atlético/MG     3-0 Coritiba
 Atlético/PR     3-1 Vasco da Gama
 Santos          1-0 Grêmio
-[Nov 20]
+_ Nov 20 _
 Fluminense      2-0 Ponte Preta
 Avaí            2-1 Palmeiras
 
-Round 37
-[Nov 25]
+▪ Round 37 ▪
+_ Nov 25 _
 Fluminense      1-2 Sport Recife
-[Nov 26]
+_ Nov 26 _
 Avaí            1-0 Atlético/PR
 Corinthians     2-2 Atlético/MG
 Coritiba        1-2 São Paulo
@@ -544,10 +549,10 @@ Grêmio          1-1 Atlético/GO
 Ponte Preta     2-3 Vitória
 Bahia           0-1 Chapecoense
 Flamengo        1-2 Santos
-[Nov 27]
+_ Nov 27 _
 Palmeiras       2-0 Botafogo
 
-Round 38 [Dec 3]
+▪ Round 38 ▪  Dec 3
 Atlético/GO     1-1 Fluminense
 Atlético/MG     4-3 Grêmio
 Atlético/PR     3-0 Palmeiras
@@ -558,4 +563,12 @@ São Paulo       1-1 Bahia
 Sport Recife    1-0 Corinthians
 Vasco da Gama   2-1 Ponte Preta
 Vitória         1-2 Flamengo
+
+<!-- $table3$ - Final Table -->
+
+Promoted: América/MG, Internacional, Ceará, Paraná
+
+
+
+
 

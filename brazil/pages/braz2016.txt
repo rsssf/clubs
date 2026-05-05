@@ -1,19 +1,20 @@
   <!--
-     source: https://rsssf.org/tablesb/braz2016.html
+     title:   Brazil 2016
+     source:  https://rsssf.org/tablesb/braz2016.html
+     author:  RSSSF Brazil
+     updated: 8 Dec 2025    
     -->
-  
-
-
-== Brazil 2016
 
 
 
 
 
-==== Série A  ‹§sa›
 
-<!-- $table1$ -->
 
+
+== Série A  ‹§sa›
+
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ May 14 _
@@ -569,14 +570,13 @@ São Paulo       5-0 Santa Cruz
 Sport Recife    2-0 Figueirense
 Vitória         1-2 Palmeiras
 
-<!-- $table2$ -->
+<!-- $table2$ - Final Table -->
 
 
 
 
 
-
-==== Copa do Brasil  ‹§cb›
+== Copa do Brasil  ‹§cb›
 
 <!-- start pre -->articipants:
 
@@ -756,10 +756,10 @@ First Round (16/03 to 25/05)
  4 América (RN) - Gama (DF)                     0-1 (14/05)     3-2 (25/05)
                                                 (Roberto Pitio 17)
                                                 (Rafael Toledo 5, Luiz Eduardo 9, 39 ; Roberto Pitio 13, 41)
- 5 Goiás (GO) - Ríver (PI)                      1-2 (07/04)     2-1 (27/04)     (7-8pen)
+ 5 Goiás (GO) - Ríver (PI)                      1-2 (07/04)     2-1 (27/04)     (7-8 pen)
                                                 (Carlos Eduardo 45 ; Felipe Macedo 23og, Vanderlei 55pen)
                                                 (Rafhael Lucas 11, 61 ; Eduardo 8)
- 6 Botafogo (PB) - Linense (SP)                 1-1 (16/03)     1-1 (06/04)     (6-5pen)
+ 6 Botafogo (PB) - Linense (SP)                 1-1 (16/03)     1-1 (06/04)     (6-5 pen)
                                                 (Müller Fernandes 25 ; Thiago Humberto 17pen)
                                                 (Warley 79 ; Cristiano 58)
  7 Ceará (CE) - Resende (RJ)                    2-2 (06/04)     1-1 (27/04)
@@ -847,7 +847,7 @@ First Round (16/03 to 25/05)
 37 Botafogo (RJ) - Coruripe (AL)                1-0 (05/04)     1-1 (28/04)     [f]
                                                 (Luís Henrique 83)
                                                 (Sassá 66pen ; João Paulo 28pen)
-38 Cuiabá (MT) - Juazeirense (BA)               0-1 (13/04)     1-0 (27/04)     (4-5pen)
+38 Cuiabá (MT) - Juazeirense (BA)               0-1 (13/04)     1-0 (27/04)     (4-5 pen)
                                                 (Ricardo Braz 19)
                                                 (Uederson 24)
 39 Avaí (SC) - Operário (MT)                    0-1 (21/04)     2-0 (28/04)     [g]
@@ -867,9 +867,9 @@ First Round (16/03 to 25/05)
 Second Round (03/08 to 06/07)
 [if the away team wins the 1st leg by 2 or more goals, no 2nd leg is played]
 
-41 Santos - Galvez                             3-0 (11/05)     n/p (18/05)
+41 Santos - Galvez                              3-0 (11/05)     n/p (18/05)
                                                 (Rafael Longuine 35, Paulinho 45, Fernando Medeiros 59)
-42 ABC - Gama                                   1-1 (01/06)     1-1 (15/06)     (1-4pen)
+42 ABC - Gama                                   1-1 (01/06)     1-1 (15/06)     (1-4 pen)
                                                 (Nando 32 ; Roberto 67pen)
                                                 (Elivélton 11 ; Felipe 66)
 43 Botafogo (PB) - Ríver                        1-0 (11/05)     1-0 (18/05)
@@ -980,7 +980,7 @@ Third Round (06 to 27/07)
 74 Botafogo (PB) - Palmeiras                    0-3 (31/08)     1-0 (21/09)
                                                 (Jean 58pen, Rafael Marques 62, Tchê Tchê 80)
                                                 (Carlinhos 75)
-75 Grêmio - Atlético (PR)                       1-0 (24/08)     0-1 (21/09)     (4-3pen)
+75 Grêmio - Atlético (PR)                       1-0 (24/08)     0-1 (21/09)     (4-3 pen)
                                                 (Miller Bolaños 6)
                                                 (André Lima 29)
 76 Fortaleza - Internacional                    0-3 (31/08)     1-0 (22/09)
@@ -997,7 +997,7 @@ Third Round (06 to 27/07)
 
 ▪ Quarterfinals ▪
 
-79 Juventude - Atlético (MG)                    0-1 (28/09)     1-0 (19/10)     (2-4pen)
+79 Juventude - Atlético (MG)                    0-1 (28/09)     1-0 (19/10)     (2-4 pen)
                                                 (Lucas Pratto 16)
                                                 (Hugo 34")
 80 Internacional - Santos                       1-2 (28/09)     2-0 (19/10)
@@ -1034,16 +1034,9 @@ GRÊMIO champions of Copa do Brasil 2016 and classified to Copa Libertadores 201
 
 
 
-==== Série B  ‹§sb›
+== Série B  ‹§sb›
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 Promoted: Boa Esporte (Varginha), Guarani, ABC, Juventude (Caxias)
-
-
-
-
-
-<!-- $about$ -->
 

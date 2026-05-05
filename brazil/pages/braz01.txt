@@ -1,10 +1,12 @@
   <!--
-     source: https://rsssf.org/tablesb/braz01.html
+     title:   Brazil 2001
+     source:  https://rsssf.org/tablesb/braz01.html
+     author:  RSSSF Brazil
+     updated: 15 Aug 2002    
     -->
-  
 
 
-== Brazil 2001
+
 
 After leaving the organisation of the 2000 tournament to the Clube dos 13, CBF
 decided to claim back the organisation of that tournament in 2001.  To avoid
@@ -31,8 +33,7 @@ Grêmio FBPA (Porto Alegre-RS)               EC Vitória (Salvador-BA)
 
 ▪ First Phase ▪
 
-<!-- $table1$ -->
-
+<!-- $table1$ - Table -->
 
 ▪ Round 1 ▪
 _ Aug 1 _
@@ -314,7 +315,7 @@ Ponte Preta    3-6  São Caetano
   (Washington Cerqueira 23', Marco Aurélio 59', Marquinhos 90'; Magrão 15',
    Rodrigo Costa 44'og, Müller 48', 63', 67', Márcio Griggio 86')
 
-Moved Matches
+▪ Moved Matches ▪
 _ Sep 6 _
 Flamengo       2-0  Santos
   (Roma 31', Reinaldo 90+3')
@@ -894,8 +895,7 @@ Gama           5-0  Botafogo-SP
 Santos         2-2  Vasco da Gama
   (Marcelo Silva 73', Válber 77'; Gilberto 32'p, Dedé 69')
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Table -->
 
 ▪ Quarterfinals ▪
 
@@ -997,10 +997,4 @@ Clube Atlético Paranaense are the 2001 Brazilian champions
 
 ‹list of 2nd division champions, see page braz2champ›.
 
-
-
-
-
-
-<!-- $about$ -->
 

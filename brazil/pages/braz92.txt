@@ -1,10 +1,12 @@
   <!--
-     source: https://rsssf.org/tablesb/braz92.html
+     title:   Brazil 1992
+     source:  https://rsssf.org/tablesb/braz92.html
+     authors: Marcelo Leme de Arruda, Julio Bovi Diogo and Ricardo Pontes
+     updated: 18 Feb 2000    
     -->
-  
 
 
-== Brazil 1992
+
 
 
 FIRST LEVEL
@@ -602,26 +604,7 @@ ATLÉTICO-MG 0 x PAYSANDU 0
 
 FINAL TABLE - FIRST PHASE
 TEAM             Pts  P   W  D  L   GF-GA  DIF
-1-VASCO          26  19  10  6  3   31-14   17   Qualified
-2-BOTAFOGO       24  19  11  2  6   37-23   14   Qualified
-3-BRAGANTINO     24  19   9  6  4   16-13    3   Qualified
-4-FLAMENGO       22  19   8  6  5   32-24    8   Qualified
-5-CORINTHIANS    22  19   8  6  5   24-22    2   Qualified
-6-SÃO PAULO      21  19   8  5  6   22-16    6   Qualified
-7-CRUZEIRO       21  19   7  7  5   20-14    6   Qualified
-8-SANTOS         21  19   7  7  5   23-18    5   Qualified
-9-GUARANI        20  19   8  4  7   15-19   -4
-10-INTERNACIONAL 20  19   7  6  6   19-20   -1
-11-PALMEIRAS     19  19   8  3  8   23-17    6
-12-SPORT         19  19   4 11  4   15-15    0
-13-ATLÉTICO-MG   18  19   6  6  7   15-18   -3
-14-FLUMINENSE    18  19   5  8  6   21-19    2
-15-ATLÉTICO-PR   16  19   5  6  8   19-32  -13
-16-PORTUGUESA    15  19   4  7  8   21-26   -5
-17-GOIÁS         15  19   4  7  8   23-34  -11
-18-BAHIA         14  19   4  6  9   20-24   -4
-19-NÁUTICO       13  19   3  7  9   17-29  -12
-20-PAYSANDU      12  19   5  2 12   19-35  -16
+<!-- $table1$ -->
 
 ▪ SECOND PHASE ▪
 
@@ -631,7 +614,7 @@ TEAM             Pts  P   W  D  L   GF-GA  DIF
 
 ▪ ROUND 1 ▪
 
-▪ GROUP 1 ▪
+GROUP 1
 
 7/jun/92
 
@@ -643,7 +626,7 @@ Goals Vasco: Bebeto (3). Santos: Paulinho (3).
 FLAMENGO 1 x SÃO PAULO 0
 Goal Rogério.
 
-▪ GROUP 2 ▪
+GROUP 2
 
 6/jun/92
 
@@ -658,7 +641,7 @@ Goals Bragantino: Donizete and Marco Aurélio. Corinthians: Viola.
 
 ▪ ROUND 2 ▪
 
-▪ GROUP 1 ▪
+GROUP 1
 
 20/jun/92
 
@@ -670,7 +653,7 @@ Goal Guga.
 SÃO PAULO 2 x VASCO 2
 Goals São Paulo: Müller (2). Vasco: Edmundo and Bebeto.
 
-▪ GROUP 2 ▪
+GROUP 2
 
 13/jun/92
 
@@ -682,7 +665,7 @@ Goal Paulo Roberto Costa.
 
 ▪ ROUND 3 ▪
 
-▪ GROUP 1 ▪
+GROUP 1
 
 27/jun/92
 
@@ -694,7 +677,7 @@ Goals Santos: Almir. São Paulo: Ivan.
 FLAMENGO 1 x VASCO 1
 Goals Flamengo: Júnior. Vasco: Júnior-Flamengo (own goal).
 
-▪ GROUP 2 ▪
+GROUP 2
 
 20/jun/92
 
@@ -710,7 +693,7 @@ Goals Bragantino: Alberto. Botafogo: Renato Gaúcho.
 
 ▪ ROUND 1 ▪
 
-▪ GROUP 1 ▪
+GROUP 1
 
 1/jul/92
 
@@ -719,7 +702,7 @@ Goal Macedo.
 VASCO 0 x FLAMENGO 2
 Goals Júnior and Nélio.
 
-▪ GROUP 2 ▪
+GROUP 2
 
 27/jun/92
 
@@ -734,7 +717,7 @@ Goals Corinthians: Viola (2) and Neto. Cruzeiro: Édson.
 
 ▪ ROUND 2 ▪
 
-▪ GROUP 1 ▪
+GROUP 1
 
 4/jul/92
 
@@ -746,7 +729,7 @@ Goals Raí and Palhinha.
 SANTOS 1 x VASCO 1
 Goals Santos: Guga. Vasco: Edmundo.
 
-▪ GROUP 2 ▪
+GROUP 2
 
 4/jul/92
 
@@ -760,7 +743,7 @@ Goals Corinthians: Neto. Bragantino: Alberto.
 
 ▪ ROUND 3 ▪
 
-▪ GROUP 1 ▪
+GROUP 1
 
 8/jul/92
 
@@ -769,7 +752,7 @@ Goals Bebeto, Bismarck and Edmundo.
 FLAMENGO 3 x SANTOS 1
 Goals Flamengo: Nélio, Bernardo-Santos (own goal) and Gaúcho. Santos: Marcelo Passos.
 
-▪ GROUP 2 ▪
+GROUP 2
 
 9/jul/92
 
@@ -780,17 +763,11 @@ Goal Tiba.
 
 FINAL TABLE - SECOND PHASE - GROUP 1
 TEAM             Pts  P   W  D  L   GF-GA  DIF
-1-FLAMENGO        7   6   3  1  2    7- 5    2   Qualified
-2-VASCO           6   6   1  4  1   10- 9    1
-3-SÃO PAULO       6   6   2  2  2    6- 7   -1
-4-SANTOS          5   6   1  3  2    7- 9   -2
+<!-- $table2$ -->
 
 FINAL TABLE - SECOND PHASE - GROUP 2
 TEAM             Pts  P   W  D  L   GF-GA  DIF
-1-BOTAFOGO        9   6   4  1  1    7- 4    3   Qualified
-2-BRAGANTINO      8   6   3  2  1    6- 4    2
-3-CORINTHIANS     5   6   2  1  3    8- 7    1
-4-CRUZEIRO        2   6   1  0  5    5-11   -6
+<!-- $table3$ -->
 
 ▪ FINALS ▪
 
@@ -812,26 +789,7 @@ CR FLAMENGO were the 1992 Brazilian champions.
 
 1992 BRAZILIAN CHAMPIONSHIP - FINAL TABLE
 TEAM             Pts  P   W  D  L   GF-GA  DIF
-1-FLAMENGO       32  27  12  8  7   44-31   13
-2-BOTAFOGO       34  27  15  4  8   46-32   14
-3-VASCO          32  25  11 10  4   41-23   18
-4-BRAGANTINO     32  25  12  8  5   22-17    5
-5-CORINTHIANS    27  25  10  7  8   32-29    3
-6-SÃO PAULO      27  25  10  7  8   28-23    5
-7-SANTOS         26  25   8 10  7   30-27    3
-8-CRUZEIRO       23  25   8  7 10   25-25    0
-9-GUARANI        20  19   8  4  7   15-19   -4
-10-INTERNACIONAL 20  19   7  6  6   19-20   -1
-11-PALMEIRAS     19  19   8  3  8   23-17    6
-12-SPORT         19  19   4 11  4   15-15    0
-13-ATLÉTICO-MG   18  19   6  6  7   15-18   -3
-14-FLUMINENSE    18  19   5  8  6   21-19    2
-15-ATLÉTICO-PR   16  19   5  6  8   19-32  -13
-16-PORTUGUESA    15  19   4  7  8   21-26   -5
-17-GOIÁS         15  19   4  7  8   23-34  -11
-18-BAHIA         14  19   4  6  9   20-24   -4
-19-NÁUTICO       13  19   3  7  9   17-29  -12
-20-PAYSANDU      12  19   5  2 12   19-35  -16
+<!-- $table4$ -->
 
 Tiebreaking criteria for the teams disqualified in the second phase, were most number
 of points in the championship and then most number of points in the first phase.
@@ -844,7 +802,7 @@ SÉRIE-B (2nd LEVEL)
 
 4 groups of 8 teams.  Top 3 qualified to the second phase and were promoted to 1993 1st Level.
 
-▪ GROUP I ▪
+GROUP I
 
 PARTICIPANTS
 
@@ -933,16 +891,9 @@ CSA             2-1     Picos
 
 FINAL TABLE - GROUP I
 TEAM             P   Pts   W  D  L   GF-GA  DIF
-1-Santa Cruz     14   19   6  7  1   18- 6   12  Qualified, promoted
-2-Fortaleza      14   16   6  4  4   15-11    4  Qualified, promoted
-3-Ceará          14   16   5  6  3   10-10    0  Qualified, promoted
-4-Campinense     14   15   5  5  4   12-14   -2
-5-Picos          14   15   4  7  3   10-13   -3
-6-CSA            14   13   6  1  7   16-14    2
-7-ABC            14   10   3  4  7   10-16   -6
-8-Central        14    8   3  2  9   12-19   -7
+<!-- $table5$ -->
 
-▪ GROUP II ▪
+GROUP II
 
 PARTICIPANTS
 
@@ -1031,16 +982,9 @@ Confiança       1-0     Anapolina
 
 FINAL TABLE - GROUP II
 TEAM             P   Pts   W  D  L   GF-GA  DIF
-1-Remo           14   18   8  2  4   26-12   14  Qualified, promoted
-2-Vitória        14   17   6  5  3   18- 9    9  Qualified, promoted
-3-Desportiva     13   16   7  2  4   15-15    0  Qualified, promoted
-4-Anapolina      14   15   6  3  5   15-16   -1
-5-Confiança      14   14   5  4  5   12-13   -1
-6-Americano      14   12   4  4  6   15-17   -2
-7-Itaperuna      13   12   4  4  5   16-21   -5
-8-Taguatinga     14    6   1  4  9   14-28  -14
+<!-- $table6$ -->
 
-▪ GROUP III ▪
+GROUP III
 
 PARTICIPANTS
 
@@ -1129,16 +1073,9 @@ Botafogo        2-2     União São João
 
 FINAL TABLE - GROUP III
 TEAM             P   Pts   W  D  L   GF-GA  DIF
-1-Criciúma       14   16   7  2  5   15- 9    6  Qualified, promoted
-2-Coritiba       14   16   6  4  4   11- 9    2  Qualified, promoted
-3-União São João 14   14   5  4  5   12- 9    3  Qualified, promoted
-4-Juventus       14   14   5  4  5   11- 9    2
-5-Botafogo       14   14   5  4  5   10-10    0
-6-Noroeste       14   13   5  3  6   13-20   -7
-7-Bangu          14   13   4  5  5    8- 9   -1
-8-Joinville      14   12   4  4  6    6-11   -5
+<!-- $table7$ -->
 
-▪ GROUP IV ▪
+GROUP IV
 
 PARTICIPANTS
 
@@ -1227,19 +1164,12 @@ Paraná          2-1     Londrina
 
 FINAL TABLE - GROUP IV
 TEAM             P   Pts   W  D  L   GF-GA  DIF
-1-América        14   18   6  6  2   12- 5    7  Qualified, promoted
-2-Paraná         14   18   5  8  1   17-10    7  Qualified, promoted
-3-Grêmio         14   17   6  5  3   22-13    9  Qualified, promoted
-4-São José       14   16   6  4  4   22-13    9
-5-Ponte Preta    14   16   5  6  3   15-13    2
-6-Londrina       14   13   5  3  6   15-16   -1
-7-Operário-MS    14   10   2  6  6   13-19   -6
-8-Operário-MT    14    4   1  2 11   11-38  -27
+<!-- $table8$ -->
 
 
 ▪ SECOND PHASE ▪
 
-▪ GROUP 1 ▪
+GROUP 1
 Ceará           1-1     Fortaleza
 Ceará           0-0     Remo
 Ceará           2-2     Santa Cruz
@@ -1254,12 +1184,9 @@ Santa Cruz      0-1     Fortaleza
 Santa Cruz      0-0     Remo
 
 TEAM             P   Pts   W  D  L   GF-GA  DIF
-1-Remo            6    8   2  4  0    6- 3    3  Qualified
-2-Fortaleza       6    6   2  2  2    7- 5    2  Qualified
-3-Santa Cruz      6    5   1  3  2    5- 9   -4  Qualified
-4-Ceará           6    5   0  5  1    5- 6   -1
+<!-- $table9$ -->
 
-▪ GROUP 2 ▪
+GROUP 2
 América-MG      2-1     Desportiva
 América-MG      2-0     União São João
 América-MG      1-1     Vitória
@@ -1274,12 +1201,9 @@ Vitória         3-1     Desportiva
 Vitória         0-0     União São João
 
 TEAM             P   Pts   W  D  L   GF-GA  DIF
-1-Vitória         6    9   3  3  0    7- 3    4  Qualified
-2-União São João  6    7   2  3  1    4- 3    1  Qualified
-3-América-MG      6    6   2  2  2    7- 6    1  Qualified
-4-Desportiva      6    2   0  2  4    4-10   -6
+<!-- $table10$ -->
 
-▪ GROUP 3 ▪
+GROUP 3
 Coritiba        0-0     Criciúma
 Coritiba        1-2     Grêmio
 Coritiba        1-1     Paraná Clube
@@ -1294,15 +1218,12 @@ Paraná Clube    2-1     Criciúma
 Paraná Clube    2-1     Grêmio
 
 TEAM             P   Pts   W  D  L   GF-GA  DIF
-1-Criciúma        6    8   3  2  1    9- 4    5  Qualified
-2-Paraná Clube    6    8   3  2  1    7- 6    1  Qualified
-3-Grêmio          6    5   2  1  3    7- 7    0
-4-Coritiba        6    3   0  3  3    4-10   -6
+<!-- $table11$ -->
 
 
-THIRD PHASE
+▪ THIRD PHASE ▪
 
-▪ Group A ▪
+Group A
 Fortaleza       5-1     Remo
 Fortaleza       1-0     Santa Cruz
 Fortaleza       0-2     Vitória
@@ -1317,12 +1238,9 @@ Vitória         1-0     Remo
 Vitória         1-0     Santa Cruz
 
 TEAM             P   Pts   W  D  L   GF-GA  DIF
-1-Vitória         6    9   4  1  1    7- 1    6  Qualified
-2-Santa Cruz      6    6   3  0  3    6- 4    2  Qualified
-3-Fortaleza       6    5   2  1  3    6- 9   -3
-4-Remo            6    4   1  2  3    3- 8   -5
+<!-- $table12$ -->
 
-▪ GROUP B ▪
+GROUP B
 América-MG      0-0     Criciúma
 América-MG      0-0     Paraná Clube
 América-MG      1-0     União São João
@@ -1336,10 +1254,7 @@ União São João  4-1     América-MG
 União São João  1-1     Criciúma
 União São João  0-0     Paraná Clube
 
-1-Criciúma        6    7   2  3  1    5- 3    2  Qualified
-2-Paraná Clube    6    7   1  5  0    1- 0    1  Qualified
-3-União São João  6    5   1  3  2    5- 5    0
-4-América-MG      6    5   1  3  2    3- 6   -3
+<!-- $table13$ -->
 
 
 ▪ SEMI-FINALS ▪
@@ -1372,7 +1287,7 @@ SÉRIE C (3RD LEVEL)
 
 (from 22/03 to 22/04)
 
-▪ Group 1 ▪
+Group 1
 
 Participating Teams:
 Atlético Acreano (Rio Branco, AC)
@@ -1395,7 +1310,7 @@ Rio Negro   1x1 4x0 2x2 0x2 xxx
 4. Atlético              6
 5. Ji-Paraná             5
 
-▪ Group 2 ▪
+Group 2
 
 Participating Teams:
 EC Flamengo (Teresina, PI)
@@ -1418,7 +1333,7 @@ Tuna Luso   1x0 3x1 1x0 3x0 xxx
 4. Izabelense            5
 5. Flamengo              5
 
-▪ Group 3 ▪
+Group 3
 
 Participating Teams:
 Auto Esporte Clube (João Pessoa, PB)
@@ -1441,7 +1356,7 @@ Vitória     1x3 3x1 2x1 2x1 xxx
 4. Ferroviário           7
 5. Treze                 3
 
-▪ Group 4 ▪
+Group 4
 
 Participating Teams:
 ASA (Arapiraca, AL)
@@ -1461,7 +1376,7 @@ Sergipe     1x1 1x1 2x2 xxx
 3. ASA                  5
 4. Sergipe              3
 
-▪ Group 5 ▪
+Group 5
 
 Participating Teams:
 Atlético CG (Goiânia, GO)
@@ -1481,7 +1396,7 @@ Tiradentes  0x1 2x1 0x1 xxx
 3. Guará                7
 4. Tiradentes           2
 
-▪ Group 6 ▪
+Group 6
 
 Participating Teams:
 Marília AC (Marília, PR)
@@ -1501,7 +1416,7 @@ São Bento   1x0 2x2 unk xxx
 3. Rio Branco           4
 4. Marília              4
 
-▪ Group 7 ▪
+Group 7
 
 Participating Teams:
 Blumenau EC (Blumenau, SC)
@@ -1525,7 +1440,7 @@ Operário    1x0 5x1 2x0 xxx
 
 (from 10/05 to 27/05)
 
-▪ Group A ▪
+Group A
 
             AE  Nac TL
 Auto Esporte xx 1x0 0x1
@@ -1537,7 +1452,7 @@ Tuna Luso   1x0 0x0 xxx
 2. Nacional             4
 3. Auto Esporte         2
 
-▪ Group B ▪
+Group B
 
             Flu Mat Ope RP
 Fluminense  xxx 1x0 (*) 1x0
@@ -1631,7 +1546,7 @@ PARTICIPANTS
 15/09 - 22/09 Remo              0-0  1-5   Palmeiras
 08/09 - 08/10 Atlético-PR       0-0  2-1   Bahia
 
-THIRD PHASE
+▪ THIRD PHASE ▪
 
 28/10 - 10/11 CSA               1-3  0-4   Sport
 30/10 - 13/11 Fluminense        2-1  3-0   Criciúma
@@ -1657,10 +1572,4 @@ SC Internacional were the 1992 Copa do Brasil winners
 
 ‹list of 2nd division champions, see page braz2champ›.
 
-
-
-
-
-
-<!-- $about$ -->
 

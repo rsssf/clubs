@@ -1,27 +1,30 @@
-= Brazil Série A 2022
+= Brazil | Série A 2022
 
-Round 1
-[Apr 9]
+
+<!-- $table1$ - Final Table -->
+
+▪ Round 1 ▪
+_ Apr 9 _
 Fluminense      0-0 Santos
 Atlético/GO     1-1 Flamengo
 Palmeiras       2-3 Ceará
-[Apr 10]
+_ Apr 10 _
 Coritiba        3-0 Goiás
 Atlético/MG     2-0 Internacional
 Botafogo        1-3 Corinthians
 Fortaleza       0-1 Cuiabá
 Avaí            1-0 América/MG
 São Paulo       4-0 Athletico/PR
-[Apr 11]
+_ Apr 11 _
 Juventude       2-2 Bragantino
 
-Round 2
-[Apr 16]
+▪ Round 2 ▪
+_ Apr 16 _
 Goiás           1-1 Palmeiras
 América/MG      4-1 Juventude
 Corinthians     3-0 Avaí
 Cuiabá          0-1 Fluminense
-[Apr 17]
+_ Apr 17 _
 Santos          2-1 Coritiba
 Flamengo        3-1 São Paulo
 Athletico/PR    0-1 Atlético/MG
@@ -29,43 +32,43 @@ Internacional   2-1 Fortaleza
 Bragantino      4-0 Atlético/GO
 Ceará           1-3 Botafogo
 
-Round 3
-[Apr 23]
+▪ Round 3 ▪
+_ Apr 23 _
 Athletico/PR    1-0 Flamengo
 Bragantino      1-1 São Paulo
 Fluminense      0-1 Internacional
 Palmeiras       3-0 Corinthians
 Atlético/MG     2-2 Coritiba
-[Apr 24]
+_ Apr 24 _
 Santos          3-0 América/MG
 Juventude       0-1 Cuiabá
 Atlético/GO     1-1 Botafogo
-[Apr 25]
+_ Apr 25 _
 Avaí            3-2 Goiás
-[Jun 1]
+_ Jun 1 _
 Fortaleza       0-1 Ceará
 
-Round 4
-[Apr 20]
+▪ Round 4 ▪
+_ Apr 20 _
 Flamengo        0-0 Palmeiras
-[Apr 30]
+_ Apr 30 _
 América/MG      1-0 Athletico/PR
 Ceará           0-1 Bragantino
 Goiás           2-2 Atlético/MG
 Cuiabá          1-1 Atlético/GO
-[May 1]
+_ May 1 _
 Botafogo        1-1 Juventude
 Corinthians     1-0 Fortaleza
 Coritiba        3-2 Fluminense
 Internacional   0-0 Avaí
-[May 2]
+_ May 2 _
 São Paulo       2-1 Santos
 
-Round 5
-[May 7]
+▪ Round 5 ▪
+_ May 7 _
 Atlético/MG     1-2 América/MG
 Athletico/PR    1-0 Ceará
-[May 8]
+_ May 8 _
 Flamengo        0-1 Botafogo
 Atlético/GO     0-1 Goiás
 Palmeiras       1-1 Fluminense
@@ -73,118 +76,118 @@ Bragantino      0-1 Corinthians
 Santos          4-1 Cuiabá
 Fortaleza       1-1 São Paulo
 Juventude       1-1 Internacional
-[May 9]
+_ May 9 _
 Avaí            2-1 Coritiba
 
-Round 6
-[May 14]
+▪ Round 6 ▪
+_ May 14 _
 Ceará           2-2 Flamengo
 Palmeiras       2-0 Bragantino
 Atlético/MG     2-0 Atlético/GO
 Internacional   2-2 Corinthians
 Fluminense      2-1 Athletico/PR
-[May 15]
+_ May 15 _
 São Paulo       2-1 Cuiabá
 Coritiba        1-0 América/MG
 Avaí            1-2 Juventude
 Botafogo        3-1 Fortaleza
 Goiás           1-0 Santos
 
-Round 7
-[May 11]
+▪ Round 7 ▪
+_ May 11 _
 Bragantino      1-1 Atlético/MG
-[May 21]
+_ May 21 _
 Atlético/GO     2-0 Coritiba
 Flamengo        1-0 Goiás
 Santos          0-0 Ceará
 Juventude       0-3 Palmeiras
 América/MG      1-1 Botafogo
 Cuiabá          1-1 Internacional
-[May 22]
+_ May 22 _
 Corinthians     1-1 São Paulo
 Fortaleza       0-1 Fluminense
 Athletico/PR    2-1 Avaí
 
-Round 8
-[May 28]
+▪ Round 8 ▪
+_ May 28 _
 Goiás           1-1 Bragantino
 São Paulo       2-2 Ceará
 Fortaleza       1-1 Juventude
-[May 29]
+_ May 29 _
 Coritiba        1-0 Botafogo
 Santos          0-1 Palmeiras
 Corinthians     1-1 América/MG
 Cuiabá          0-1 Athletico/PR
 Fluminense      1-2 Flamengo
 Atlético/MG     2-1 Avaí
-[May 30]
+_ May 30 _
 Internacional   1-1 Atlético/GO
 
-Round 9
-[Jun 4]
+▪ Round 9 ▪
+_ Jun 4 _
 América/MG      2-1 Cuiabá
 Athletico/PR    2-2 Santos
 Avaí            1-1 São Paulo
 Ceará           1-1 Coritiba
 Atlético/GO     0-1 Corinthians
-[Jun 5]
+_ Jun 5 _
 Juventude       1-0 Fluminense
 Flamengo        1-2 Fortaleza
 Palmeiras       0-0 Atlético/MG
 Bragantino      0-2 Internacional
-[Jun 6]
+_ Jun 6 _
 Botafogo        1-2 Goiás
 
-Round 10
-[Jun 7]
+▪ Round 10 ▪
+_ Jun 7 _
 Cuiabá          1-0 Corinthians
-[Jun 8]
+_ Jun 8 _
 América/MG      0-2 Ceará
 Juventude       1-3 Athletico/PR
 Atlético/GO     2-1 Avaí
 Bragantino      1-0 Flamengo
 Fluminense      5-3 Atlético/MG
 Santos          1-1 Internacional
-[Jun 9]
+_ Jun 9 _
 Palmeiras       4-0 Botafogo
 Coritiba        1-1 São Paulo
 Fortaleza       1-1 Goiás
 
-Round 11
-[Jun 11]
+▪ Round 11 ▪
+_ Jun 11 _
 Corinthians     2-0 Juventude
 Atlético/MG     1-1 Santos
 Cuiabá          1-1 Bragantino
 Fluminense      0-2 Atlético/GO
 Internacional   3-1 Flamengo
-[Jun 12]
+_ Jun 12 _
 São Paulo       1-0 América/MG
 Goiás           1-1 Ceará
 Coritiba        0-2 Palmeiras
 Fortaleza       0-0 Athletico/PR
-[Jun 13]
+_ Jun 13 _
 Botafogo        0-1 Avaí
 
-Round 12
-[Jun 14]
+▪ Round 12 ▪
+_ Jun 14 _
 Juventude       1-2 Santos
-[Jun 15]
+_ Jun 15 _
 Ceará           0-0 Atlético/MG
 Bragantino      4-2 Coritiba
 Flamengo        2-0 Cuiabá
 Goiás           1-2 Internacional
 América/MG      0-0 Fluminense
 Athletico/PR    1-1 Corinthians
-[Jun 16]
+_ Jun 16 _
 Botafogo        1-0 São Paulo
 Palmeiras       4-2 Atlético/GO
 Avaí            3-2 Fortaleza
 
-Round 13
-[Jun 18]
+▪ Round 13 ▪
+_ Jun 18 _
 Cuiabá          0-0 Ceará
 Santos          2-2 Bragantino
-[Jun 19]
+_ Jun 19 _
 Coritiba        0-1 Athletico/PR
 Atlético/MG     2-0 Flamengo
 Corinthians     1-0 Goiás
@@ -192,73 +195,73 @@ Atlético/GO     3-1 Juventude
 Fortaleza       1-0 América/MG
 Internacional   2-3 Botafogo
 Fluminense      2-0 Avaí
-[Jun 20]
+_ Jun 20 _
 São Paulo       1-2 Palmeiras
 
-Round 14
-[Jun 24]
+▪ Round 14 ▪
+_ Jun 24 _
 Internacional   3-0 Coritiba
-[Jun 25]
+_ Jun 25 _
 Athletico/PR    4-2 Bragantino
 Corinthians     0-0 Santos
 Flamengo        3-0 América/MG
 Atlético/MG     3-2 Fortaleza
-[Jun 26]
+_ Jun 26 _
 Botafogo        0-1 Fluminense
 Avaí            2-2 Palmeiras
 Goiás           1-0 Cuiabá
 São Paulo       0-0 Juventude
 Ceará           1-1 Atlético/GO
 
-Round 15
-[Jul 2]
+▪ Round 15 ▪
+_ Jul 2 _
 Fluminense      4-0 Corinthians
 Juventude       1-2 Atlético/MG
 Ceará           1-1 Internacional
 Santos          1-2 Flamengo
 Palmeiras       0-2 Athletico/PR
-[Jul 3]
+_ Jul 3 _
 Avaí            1-2 Cuiabá
 Atlético/GO     1-2 São Paulo
 América/MG      1-0 Goiás
 Coritiba        2-1 Fortaleza
-[Jul 4]
+_ Jul 4 _
 Bragantino      0-1 Botafogo
 
-Round 16
-[Jul 9]
+▪ Round 16 ▪
+_ Jul 9 _
 Bragantino      4-0 Avaí
 Fluminense      2-1 Ceará
 Goiás           2-1 Athletico/PR
-[Jul 10]
+_ Jul 10 _
 Coritiba        2-2 Juventude
 Corinthians     1-0 Flamengo
 Atlético/MG     0-0 São Paulo
 Fortaleza       0-0 Palmeiras
 Santos          1-0 Atlético/GO
 Cuiabá          2-0 Botafogo
-[Jul 11]
+_ Jul 11 _
 Internacional   1-0 América/MG
 
-Round 17
-[Jul 16]
+▪ Round 17 ▪
+_ Jul 16 _
 Athletico/PR    0-0 Internacional
 Avaí            1-0 Santos
 Flamengo        2-0 Coritiba
 Ceará           3-1 Corinthians
-[Jul 17]
+_ Jul 17 _
 Juventude       0-0 Goiás
 São Paulo       2-2 Fluminense
 Atlético/GO     0-1 Fortaleza
 Botafogo        0-1 Atlético/MG
 América/MG      0-3 Bragantino
-[Jul 18]
+_ Jul 18 _
 Palmeiras       1-0 Cuiabá
 
-Round 18
-[Jul 19]
+▪ Round 18 ▪
+_ Jul 19 _
 Ceará           1-0 Avaí
-[Jul 20]
+_ Jul 20 _
 Goiás           2-3 Fluminense
 Bragantino      2-1 Fortaleza
 Athletico/PR    4-1 Atlético/GO
@@ -266,15 +269,15 @@ Flamengo        4-0 Juventude
 Internacional   3-3 São Paulo
 Corinthians     3-1 Coritiba
 Santos          2-0 Botafogo
-[Jul 21]
+_ Jul 21 _
 Cuiabá          1-1 Atlético/MG
 América/MG      0-1 Palmeiras
 
-Round 19
-[Jul 23]
+▪ Round 19 ▪
+_ Jul 23 _
 São Paulo       3-3 Goiás
 Botafogo        2-0 Athletico/PR
-[Jul 24]
+_ Jul 24 _
 Avaí            1-2 Flamengo
 Fluminense      2-1 Bragantino
 Juventude       1-0 Ceará
@@ -282,46 +285,48 @@ Palmeiras       2-1 Internacional
 Atlético/GO     0-1 América/MG
 Atlético/MG     1-2 Corinthians
 Fortaleza       0-0 Santos
-[Jul 25]
+_ Jul 25 _
 Coritiba        1-0 Cuiabá
 
-Round 20
-[Jul 30]
+<!-- $table2$ - Halfway Table -->
+
+▪ Round 20 ▪
+_ Jul 30 _
 Ceará           1-2 Palmeiras
 Goiás           1-0 Coritiba
 Corinthians     1-0 Botafogo
 Flamengo        4-1 Atlético/GO
-[Jul 31]
+_ Jul 31 _
 Athletico/PR    1-0 São Paulo
 Internacional   3-0 Atlético/MG
 América/MG      3-1 Avaí
 Cuiabá          0-1 Fortaleza
 Bragantino      1-0 Juventude
-[Aug 1]
+_ Aug 1 _
 Santos          2-2 Fluminense
 
-Round 21
-[Aug 6]
+▪ Round 21 ▪
+_ Aug 6 _
 Botafogo        1-1 Ceará
 Juventude       0-1 América/MG
 Atlético/GO     2-1 Bragantino
 Avaí            1-1 Corinthians
 São Paulo       0-2 Flamengo
-[Aug 7]
+_ Aug 7 _
 Fluminense      1-0 Cuiabá
 Palmeiras       3-0 Goiás
 Fortaleza       3-0 Internacional
 Atlético/MG     2-3 Athletico/PR
-[Aug 8]
+_ Aug 8 _
 Coritiba        1-2 Santos
 
-Round 22
-[Aug 13]
+▪ Round 22 ▪
+_ Aug 13 _
 Goiás           1-1 Avaí
 Corinthians     0-1 Palmeiras
 Cuiabá          1-0 Juventude
 Botafogo        0-0 Atlético/GO
-[Aug 14]
+_ Aug 14 _
 Coritiba        0-1 Atlético/MG
 Ceará           0-1 Fortaleza
 Flamengo        5-0 Athletico/PR
@@ -329,11 +334,11 @@ São Paulo       3-0 Bragantino
 América/MG      1-0 Santos
 Internacional   3-0 Fluminense
 
-Round 23
-[Aug 20]
+▪ Round 23 ▪
+_ Aug 20 _
 Atlético/MG     0-1 Goiás
 Fluminense      5-2 Coritiba
-[Aug 21]
+_ Aug 21 _
 Juventude       2-2 Botafogo
 Palmeiras       1-1 Flamengo
 Athletico/PR    1-1 América/MG
@@ -341,59 +346,59 @@ Atlético/GO     1-1 Cuiabá
 Fortaleza       1-0 Corinthians
 Bragantino      1-1 Ceará
 Santos          1-0 São Paulo
-[Aug 22]
+_ Aug 22 _
 Avaí            0-1 Internacional
 
-Round 24
-[Aug 27]
+▪ Round 24 ▪
+_ Aug 27 _
 Coritiba        1-0 Avaí
 Goiás           2-1 Atlético/GO
 Fluminense      1-1 Palmeiras
 Ceará           0-0 Athletico/PR
-[Aug 28]
+_ Aug 28 _
 América/MG      1-1 Atlético/MG
 São Paulo       0-1 Fortaleza
 Botafogo        0-1 Flamengo
 Cuiabá          0-0 Santos
-[Aug 29]
+_ Aug 29 _
 Internacional   4-0 Juventude
 Corinthians     1-0 Bragantino
 
-Round 25
-[Sep 3]
+▪ Round 25 ▪
+_ Sep 3 _
 Juventude       1-1 Avaí
 Athletico/PR    1-0 Fluminense
 Bragantino      2-2 Palmeiras
 América/MG      2-0 Coritiba
-[Sep 4]
+_ Sep 4 _
 Flamengo        1-1 Ceará
 Corinthians     2-2 Internacional
 Fortaleza       1-3 Botafogo
 Atlético/GO     0-2 Atlético/MG
 Cuiabá          1-1 São Paulo
-[Sep 5]
+_ Sep 5 _
 Santos          1-2 Goiás
 
-Round 26
-[Sep 7]
+▪ Round 26 ▪
+_ Sep 7 _
 Atlético/MG     1-1 Bragantino
-[Sep 10]
+_ Sep 10 _
 Ceará           2-1 Santos
 Internacional   1-0 Cuiabá
 Fluminense      2-1 Fortaleza
 Palmeiras       2-1 Juventude
-[Sep 11]
+_ Sep 11 _
 Avaí            1-1 Athletico/PR
 Botafogo        0-0 América/MG
 Coritiba        2-0 Atlético/GO
 São Paulo       1-1 Corinthians
 Goiás           1-1 Flamengo
 
-Round 27
-[Sep 17]
+▪ Round 27 ▪
+_ Sep 17 _
 Avaí            1-0 Atlético/MG
 Botafogo        2-0 Coritiba
-[Sep 18]
+_ Sep 18 _
 Bragantino      1-1 Goiás
 Ceará           0-2 São Paulo
 Flamengo        1-2 Fluminense
@@ -401,15 +406,15 @@ América/MG      1-0 Corinthians
 Juventude       1-1 Fortaleza
 Palmeiras       1-0 Santos
 Athletico/PR    2-2 Cuiabá
-[Sep 19]
+_ Sep 19 _
 Atlético/GO     1-2 Internacional
 
-Round 28
-[Sep 25]
+▪ Round 28 ▪
+_ Sep 25 _
 São Paulo       4-0 Avaí
-[Sep 27]
+_ Sep 27 _
 Santos          2-0 Athletico/PR
-[Sep 28]
+_ Sep 28 _
 Corinthians     2-1 Atlético/GO
 Coritiba        1-0 Ceará
 Fluminense      4-0 Juventude
@@ -419,8 +424,8 @@ Atlético/MG     0-1 Palmeiras
 Goiás           0-1 Botafogo
 Internacional   0-0 Bragantino
 
-Round 29
-[Oct 1]
+▪ Round 29 ▪
+_ Oct 1 _
 Atlético/MG     2-0 Fluminense
 Ceará           1-2 América/MG
 Internacional   1-0 Santos
@@ -429,94 +434,94 @@ Avaí            1-2 Atlético/GO
 Flamengo        4-1 Bragantino
 Goiás           0-1 Fortaleza
 Corinthians     2-0 Cuiabá
-[Oct 3]
+_ Oct 3 _
 Botafogo        1-3 Palmeiras
-[Oct 20]
+_ Oct 20 _
 São Paulo       3-1 Coritiba
 
-Round 30
-[Oct 4]
+▪ Round 30 ▪
+_ Oct 4 _
 Juventude       2-2 Corinthians
-[Oct 5]
+_ Oct 5 _
 Atlético/GO     3-2 Fluminense
 Ceará           1-1 Goiás
 Bragantino      2-1 Cuiabá
 Athletico/PR    1-1 Fortaleza
 Flamengo        0-0 Internacional
 Santos          1-2 Atlético/MG
-[Oct 6]
+_ Oct 6 _
 Palmeiras       4-0 Coritiba
 Avaí            1-2 Botafogo
 América/MG      1-2 São Paulo
 
-Round 31
-[Oct 8]
+▪ Round 31 ▪
+_ Oct 8 _
 Cuiabá          1-2 Flamengo
 Corinthians     2-1 Athletico/PR
-[Oct 9]
+_ Oct 9 _
 Internacional   4-2 Goiás
 Fortaleza       2-0 Avaí
 São Paulo       0-1 Botafogo
 Atlético/MG     0-0 Ceará
 Coritiba        2-1 Bragantino
 Fluminense      0-2 América/MG
-[Oct 10]
+_ Oct 10 _
 Atlético/GO     1-1 Palmeiras
 Santos          4-1 Juventude
 
-Round 32
-[Oct 15]
+▪ Round 32 ▪
+_ Oct 15 _
 América/MG      1-2 Fortaleza
 Flamengo        1-0 Atlético/MG
-[Oct 16]
+_ Oct 16 _
 Ceará           1-1 Cuiabá
 Palmeiras       0-0 São Paulo
 Botafogo        0-1 Internacional
 Juventude       1-1 Atlético/GO
 Athletico/PR    1-0 Coritiba
 Avaí            0-3 Fluminense
-[Oct 17]
+_ Oct 17 _
 Bragantino      0-2 Santos
-[Oct 29]
+_ Oct 29 _
 Goiás           0-0 Corinthians
 
-Round 33
-[Oct 22]
+▪ Round 33 ▪
+_ Oct 22 _
 Bragantino      4-2 Athletico/PR
 América/MG      1-2 Flamengo
 Santos          0-1 Corinthians
 Palmeiras       3-0 Avaí
-[Oct 23]
+_ Oct 23 _
 Fluminense      2-2 Botafogo
 Juventude       1-2 São Paulo
 Atlético/GO     1-0 Ceará
 Coritiba        1-1 Internacional
 Cuiabá          1-2 Goiás
-[Oct 24]
+_ Oct 24 _
 Fortaleza       0-0 Atlético/MG
 
-Round 34
-[Oct 25]
+▪ Round 34 ▪
+_ Oct 25 _
 Athletico/PR    1-3 Palmeiras
 Flamengo        3-2 Santos
-[Oct 26]
+_ Oct 26 _
 Botafogo        2-1 Bragantino
 Corinthians     0-2 Fluminense
 Goiás           2-2 América/MG
 Internacional   2-1 Ceará
-[Oct 27]
+_ Oct 27 _
 Fortaleza       3-1 Coritiba
 São Paulo       2-1 Atlético/GO
 Atlético/MG     1-0 Juventude
 Cuiabá          1-0 Avaí
 
-Round 35
-[Oct 31]
+▪ Round 35 ▪
+_ Oct 31 _
 Ceará           0-1 Fluminense
-[Nov 1]
+_ Nov 1 _
 Botafogo        0-2 Cuiabá
 São Paulo       2-2 Atlético/MG
-[Nov 2]
+_ Nov 2 _
 América/MG      1-0 Internacional
 Athletico/PR    3-2 Goiás
 Atlético/GO     2-3 Santos
@@ -525,25 +530,25 @@ Juventude       0-1 Coritiba
 Flamengo        1-2 Corinthians
 Palmeiras       4-0 Fortaleza
 
-Round 36
-[Nov 5]
+▪ Round 36 ▪
+_ Nov 5 _
 Fluminense      3-1 São Paulo
 Santos          1-1 Avaí
 Goiás           1-0 Juventude
 Bragantino      1-4 América/MG
 Corinthians     1-0 Ceará
 Internacional   2-0 Athletico/PR
-[Nov 6]
+_ Nov 6 _
 Coritiba        1-0 Flamengo
 Fortaleza       1-1 Atlético/GO
 Cuiabá          1-1 Palmeiras
-[Nov 7]
+_ Nov 7 _
 Atlético/MG     0-2 Botafogo
 
-Round 37
-[Nov 8]
+▪ Round 37 ▪
+_ Nov 8 _
 São Paulo       0-1 Internacional
-[Nov 9]
+_ Nov 9 _
 Avaí            2-0 Ceará
 Coritiba        2-2 Corinthians
 Fluminense      3-0 Goiás
@@ -551,14 +556,14 @@ Atlético/GO     1-1 Athletico/PR
 Fortaleza       6-0 Bragantino
 Juventude       2-2 Flamengo
 Palmeiras       2-1 América/MG
-[Nov 10]
+_ Nov 10 _
 Atlético/MG     3-0 Cuiabá
 Botafogo        3-0 Santos
 
-Round 38
-[Nov 12]
+▪ Round 38 ▪
+_ Nov 12 _
 Flamengo        1-2 Avaí
-[Nov 13]
+_ Nov 13 _
 América/MG      1-1 Atlético/GO
 Athletico/PR    3-0 Botafogo
 Ceará           4-1 Juventude
@@ -568,4 +573,11 @@ Goiás           0-4 São Paulo
 Internacional   3-0 Palmeiras
 Bragantino      0-1 Fluminense
 Santos          0-2 Fortaleza
+
+<!-- $table3$ - Final Table -->
+
+
+
+
+
 

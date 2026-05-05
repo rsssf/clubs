@@ -1,19 +1,20 @@
   <!--
-     source: https://rsssf.org/tablesb/braz2020.html
+     title:   Brazil 2020/21
+     source:  https://rsssf.org/tablesb/braz2020.html
+     author:  RSSSF Brazil
+     updated: 8 Dec 2025    
     -->
-  
-
-
-== Brazil 2020/21
 
 
 
 
 
-==== Série A  ‹§sa›
 
-<!-- $table1$ -->
 
+
+== Série A  ‹§sa›
+
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Aug 8 _
@@ -590,15 +591,14 @@ Bragantino      1-0 Grêmio
 São Paulo       2-1 Flamengo
 Vasco da Gama   3-2 Goiás
 
-<!-- $table2$ -->
+<!-- $table2$ - Final Table -->
 
 
 
 
 
 
-
-==== Copa do Brasil 2020/21  ‹§cb›
+== Copa do Brasil 2020/21  ‹§cb›
 
 Participants
 
@@ -775,35 +775,35 @@ _ Feb 18 _
 Vitória/ES                0-1  Figueirense/SC
   (Diego Gonçalves 90+2)
 _ Feb 19 _
-Náutico/PE                1-1  Botafogo/RJ               (Pen 3-4)
+Náutico/PE                1-1  Botafogo/RJ               (3-4 pen)
   (Jean Carlos 42; Bruno Nazário 68c)
-Paysandu/PA               1-1  CRB/AL                    (Pen 3-5)
+Paysandu/PA               1-1  CRB/AL                    (3-5 pen)
   (Caíque Oliveira 45+2; Léo Gamalho 45p)
-Oeste/SP                  1-1  Ceará/CE                  (Pen 2-4)
+Oeste/SP                  1-1  Ceará/CE                  (2-4 pen)
   (De Paula 43; Leandro Carvalho 07)
 _ Feb 20 _
 Brusque/SC                5-1  Remo/PA
   (Thiago Alagoano 38, 90+2, Airton 58f, Neguete 76 (og), Edu 77; Giovane Gomez 70)
 _ Feb 26 _
-River/PI                  1-1  América/RN                (Pen 3-4)
+River/PI                  1-1  América/RN                (3-4 pen)
   (Valdo Bacabal 65; Dione 10)
 Ferroviária/SP            6-2  Águia Negra/MS
   (Henan 07, Tony 33p, Claudinho 45+1, 45+2, Max 59, Caio Rangel 90+3; Salomão 18f, Pedro 83)
-Afogados da Ingazeira/PE  2-2  Atlético/MG               (Pen 7-6)
+Afogados da Ingazeira/PE  2-2  Atlético/MG               (7-6 pen)
   (Candinho 61, Philip 72; Gabriel 65, Ricardo Oliveira 78)
-XV de Piracicaba/SP       1-1  Juventude/RS              (Pen 7-8)
+XV de Piracicaba/SP       1-1  Juventude/RS              (7-8 pen)
   (Daniel Costa 47; Eltinho 71)
 Paraná/PR                 3-2  Bahia de Feira/BA
   (Thales 90+1c, Fabrício 90+2, Renan Bressan 90+8f; Léo Porto 58, Alex Cazumba 68f)
 _ Feb 27 _
-Ponte Preta/SP            0-0  Vila Nova/GO              (Pen 5-3)
-São José/RS               0-0  Chapecoense/SC            (Pen 5-4)
+Ponte Preta/SP            0-0  Vila Nova/GO              (5-3 pen)
+São José/RS               0-0  Chapecoense/SC            (5-4 pen)
 _ Mar 4 _
 Brasil/RS                 1-0  Manaus/AM
   (Lázaro 26)
-Boa Esporte/MG            1-1  Cruzeiro/MG               (Pen 4-5)
+Boa Esporte/MG            1-1  Cruzeiro/MG               (4-5 pen)
   (Claudeci 58; João Lucas 36)
-Atlético/GO               1-1  Santa Cruz/PE             (Pen 4-3)
+Atlético/GO               1-1  Santa Cruz/PE             (4-3 pen)
   (Renato Kayser 13; Patrick Nonato 38c)
 Fluminense/RJ             2-0  Botafogo/PB
   (Marcos Paulo 51, Nenê 71p)
@@ -817,9 +817,9 @@ Vasco da Gama/RJ          1-0  ABC/RN
 Vitória/BA                3-1  Lagarto/SE
   (Vico 04, 76, Léo Ceará 41p; Edilson 45)
 
-Third Phase
+▪ Third Phase ▪
 
-1st Leg
+▪ 1st Leg ▪
 _ Mar 10 _
 Botafogo/RJ               1-0  Paraná/PR
   (Luiz Fernando 11)
@@ -839,24 +839,24 @@ Brasil/RS                 0-1  Brusque/SC
 Ponte Preta/SP            3-0  Afogados da Ingazeira/PE
 Ceará/CE                  1-0  Vitória/BA
 
-2nd Leg
+▪ 2nd Leg ▪
 _ Aug 25 _
 Afogados da Ingazeira/PE  0-2  Ponte Preta/SP
 Fluminense/RJ             3-0  Figueirense/SC
 América/MG                1-0  Ferroviária/SP
 _ Aug 26 _
-América/RN                1-1  Juventude/RS              (Pen 3-5)
+América/RN                1-1  Juventude/RS              (3-5 pen)
 CRB/AL                    1-1  Cruzeiro/MG
 Paraná/PR                 1-2  Botafogo/RJ
-Goiás/GO                  1-2  Vasco da Gama/RJ          (Pen 2-3)
+Goiás/GO                  1-2  Vasco da Gama/RJ          (2-3 pen)
 Vitória/BA                3-4  Ceará/CE
 _ Aug 27 _
 Brusque/SC                1-0  Brasil/RS
 São José/RS               1-0  Atlético/GO
 
-Fourth Phase
+▪ Fourth Phase ▪
 
-1st Leg
+▪ 1st Leg ▪
 _ Sep 16 _
 Ponte Preta/SP            2-2  América/MG
 Brusque/SC                0-2  Ceará/CE
@@ -865,7 +865,7 @@ _ Sep 17 _
 Juventude/RS              2-0  CRB/AL
 Botafogo/RJ               1-0  Vasco da Gama/RJ
 
-2nd Leg
+▪ 2nd Leg ▪
 _ Sep 22 _
 CRB/AL                    1-0  Juventude/RS
 América/MG                3-1  Ponte Preta/SP
@@ -882,7 +882,7 @@ NB: 11 clubs obtained a bye to the 1/8 Finals:
 
 Fifth Phase (1/8 Finals)
 
-1st Leg
+▪ 1st Leg ▪
 _ Oct 14 _
 Fortaleza/CE              3-3  São Paulo/SP
 _ Oct 27 _
@@ -896,9 +896,9 @@ _ Oct 29 _
 Grêmio/RS                 1-0  Juventude/RS
 Red Bull Bragantino/SP    1-3  Palmeiras/SP
 
-2nd Leg
+▪ 2nd Leg ▪
 _ Oct 25 _
-São Paulo/SP              2-2  Fortaleza/CE              (Pen 10-9)
+São Paulo/SP              2-2  Fortaleza/CE              (10-9 pen)
 _ Nov 3 _
 Cuiabá/MG                 0-0  Botafogo/RJ
 Internacional/RS          2-1  Atlético/GO
@@ -912,34 +912,34 @@ Palmeiras/SP              1-0  Red Bull Bragantino/SP
 
 Sixth Phase (1/4 Finals)
 
-1st Leg [Nov 11]
+▪ 1st Leg ▪  Nov 11
 Palmeiras/SP              3-0  Ceará/CE
 Cuiabá/MG                 1-2  Grêmio/RS
 Flamengo/RJ               1-2  São Paulo/SP
 Internacional/RS          0-1  América/MG
 
-2nd Leg [Nov 18]
+▪ 2nd Leg ▪  Nov 18
 Ceará/CE                  2-2  Palmeiras/SP
 Grêmio/RS                 2-0  Cuiabá/MG
 São Paulo/SP              3-0  Flamengo/RJ
-América/MG                0-1  Internacional/RS          (Pen 6-5)
+América/MG                0-1  Internacional/RS          (6-5 pen)
 
 ▪ Semifinals ▪
 
-1st Leg [Dec 23]
+▪ 1st Leg ▪  Dec 23
 Grêmio/RS                 1-0  São Paulo/SP
 Palmeiras/SP              1-1  América/MG
 
-2nd Leg [Dec 30]
+▪ 2nd Leg ▪  Dec 30
 São Paulo/SP              0-0  Grêmio/RS
 América/MG                0-2  Palmeiras/SP
 
 ▪ Final ▪
 
-1st Leg [Feb 28, 2021]
+▪ 1st Leg ▪  Feb 28 2021
 Grêmio/RS                 0-1  Palmeiras/SP
 
-2nd Leg [Mar 7, 2021]
+▪ 2nd Leg ▪  Mar 7 2021
 Palmeiras/SP              2-0  Grêmio/RS
 
 
@@ -947,9 +947,9 @@ Palmeiras/SP              2-0  Grêmio/RS
 
 
 
-==== Supercopa do Brasil 2021  ‹§supcb›
+== Supercopa do Brasil 2021  ‹§supcb›
 
-_ Apr 11 2021 _, Brasília
+_ Apr 11 2021 _ @ Brasília
 Flamengo/RJ               2-2  Palmeiras/SP              [6-5 pen (no extra time)]
 
 
@@ -957,10 +957,9 @@ Flamengo/RJ               2-2  Palmeiras/SP              [6-5 pen (no extra time
 
 
 
-==== Série B  ‹§sb›
+== Série B  ‹§sb›
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 Promoted: Vila Nova, Remo, Brusque, Londrina
 
@@ -969,59 +968,25 @@ Promoted: Vila Nova, Remo, Brusque, Londrina
 
 
 
-==== Série C  ‹§sc›
+== Série C  ‹§sc›
 
 ▪ First Stage ▪
 
 Final Tables:
 
-▪ Group A ▪
- 1.Santa Cruz            18  11  4  3  32-16  37       Qualified
- 2.Remo                  18   8  7  3  20-10  31       Qualified
- 3.Vila Nova             18   8  7  3  20-11  31  [R]  Qualified
- 4.Paysandu              18   8  5  5  25-14  29       Qualified
- - - - - - - - - - - - - - - - - - - - - - - - -
- 5.Manaus                18   6  8  4  19-18  26  [P]
- 6.Jacuipense            18   6  6  6  19-21  24  [P]
- 7.Ferroviário           18   6  5  7  27-22  23
- 8.Botafogo/PB           18   4  8  6  19-17  20
-------------------------------------------------
- 9.Treze                 18   4  7  7  19-21  19       Relegated
-10.Imperatriz            18   0  1 17  10-60   1       Relegated
+<!-- $table4$ - Group A -->
 
-▪ Group B ▪
- 1.Ypiranga              18   9  4  5  31-26  31       Qualified
- 2.Ituano                18   8  5  5  28-20  29  [P]  Qualified
- 3.Londrina              18   8  5  5  20-16  29  [R]  Qualified
- 4.Brusque               18   8  5  5  23-26  29  [P]  Qualified
- - - - - - - - - - - - - - - - - - - - - - - - -
- 5.Tombense              18   7  6  5  21-18  27
- 6.Volta Redonda         18   5  8  5  31-23  23
- 7.São José              18   5  5  8  15-23  20
- 8.Criciúma           18   4  7  7  20-25  19  [R]
-------------------------------------------------
- 9.São Bento             18   3  8  7  13-19  17  [R]  Relegated
-10.Boa Esporte           18   2  9  7  17-23  15       Relegated
+<!-- $table5$ - Group B -->
 
 ▪ Second Stage ▪
 
 Final Tables:
 
-▪ Group C ▪
- 1.Vila Nova              6   3  1  2   6- 7  10  [R]  Promoted
- 2.Brusque                6   2  3  1   9- 6   9  [P]  Promoted
-------------------------------------------------
- 3.Santa Cruz             6   2  2  2   8- 7   8
- 4.Ituano                 6   1  2  3   7-10   5  [P]
+<!-- $table6$ - Group C -->
 
-▪ Group D ▪
- 1.Remo                   6   3  1  2   7- 5  10       Promoted
- 2.Londrina               6   2  3  1   8- 7   9  [R]  Promoted
-------------------------------------------------
- 3.Ypiranga               6   2  1  3   8- 9   7
- 4.Paysandu               6   2  1  3   7- 9   7
+<!-- $table7$ - Group D -->
 
-Championship Final
+▪ Championship Final ▪
 
 ▪ First Leg ▪  Jan 23 2021
 Vila Nova       5-1 Remo
@@ -1031,10 +996,4 @@ Remo            2-3 Vila Nova
 
 Promoted from 4th level: Altos, Floresta, Mirassol, Novorizontino
 
-
-
-
-
-
-<!-- $about$ -->
 

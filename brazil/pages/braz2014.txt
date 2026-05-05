@@ -1,19 +1,20 @@
   <!--
-     source: https://rsssf.org/tablesb/braz2014.html
+     title:   Brazil 2014
+     source:  https://rsssf.org/tablesb/braz2014.html
+     author:  RSSSF Brazil
+     updated: 13 May 2015    
     -->
-  
-
-
-== Brazil 2014
 
 
 
 
 
-==== Série A  ‹§sa›
 
-<!-- $table1$ -->
 
+
+== Série A  ‹§sa›
+
+<!-- $table1$ - Final Table -->
 
 ▪ Round 1 ▪
 _ Apr 19 _
@@ -284,8 +285,7 @@ Internacional   2-3 Figueirense
 Atlético/PR     1-1 Palmeiras
 Bahia           0-0 Coritiba
 
-<!-- $table2$ -->
-
+<!-- $table2$ - Halfway Table -->
 
 ▪ Round 20 ▪
 _ Sep 10 _
@@ -554,8 +554,7 @@ Palmeiras       1-1 Atlético/PR
 Botafogo        0-0 Atlético/MG
 Goiás           4-2 Chapecoense
 
-<!-- $table3$ -->
-
+<!-- $table3$ - Final Table -->
 
 Promoted: Joinville, Ponte Preta, Vasco da Gama, Avaí
 
@@ -563,7 +562,7 @@ Promoted: Joinville, Ponte Preta, Vasco da Gama, Avaí
 
 
 
-==== Copa do Brasil  ‹§cb›
+== Copa do Brasil  ‹§cb›
 
 Participants:
 
@@ -953,12 +952,12 @@ First Round (03/04 to 25/04)
   the 7 best placed in Brazilian Championship 2013 will be qualified to Copa
   Sul-Americana 2014:
 
-  1. Vitória (BA) - 5th in Brazilian Championship 2013
-  2. Goiás (GO) - 6th in Brazilian Championship 2013
-  3. São Paulo (SP) - 9th in Brazilian Championship 2013
-  4. Bahia (BA) - 12th in Brazilian Championship 2013
-  5. Internacional (RS) - 13th in Brazilian Championship 2013
-  6. Criciúma (SC) - 14th in Brazilian Championship 2013
+   1. Vitória (BA) - 5th in Brazilian Championship 2013
+   2. Goiás (GO) - 6th in Brazilian Championship 2013
+   3. São Paulo (SP) - 9th in Brazilian Championship 2013
+   4. Bahia (BA) - 12th in Brazilian Championship 2013
+   5. Internacional (RS) - 13th in Brazilian Championship 2013
+   6. Criciúma (SC) - 14th in Brazilian Championship 2013
         7. Fluminense (RJ) - 15th in Brazilian Championship 2013
 
 ▪ 1/8 Finals ▪
@@ -1029,10 +1028,4 @@ ATLÉTICO MINEIRO Champions of Copa do Brasil 2014 and classified to Copa Libert
 
 <!-- $topscorers1$ -->
 
-
-
-
-
-
-<!-- $about$ -->
 

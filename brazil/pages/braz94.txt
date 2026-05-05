@@ -1,10 +1,12 @@
   <!--
-     source: https://rsssf.org/tablesb/braz94.html
+     title:   Brazilian Championship 1994
+     source:  https://rsssf.org/tablesb/braz94.html
+     authors: Ricardo Pontes and Marcelo Leme de Arruda
+     updated: 27 Jul 1999    
     -->
-  
 
 
-== Brazilian Championship 1994
+
 
 PARTICIPANTS
 
@@ -39,7 +41,7 @@ UNIÃO SÃO JOÃO Esporte Clube (Araras-SP)
 
 ▪ ROUND 1 ▪
 
-▪ GROUP A ▪
+GROUP A
 
 13/aug/94
 
@@ -52,7 +54,7 @@ Goals Sport: Fábio. Flamengo: Nélio.
 
 BRAGANTINO 0 x GRÊMIO 0
 
-▪ GROUP B ▪
+GROUP B
 
 14/aug/94
 
@@ -61,7 +63,7 @@ BOTAFOGO 1 x VITÓRIA-BA 1
 Goals Botafogo: Túlio. Vitória-BA: Dão.
 ATLÉTICO-MG 0 x PORTUGUESA 0
 
-▪ GROUP C ▪
+GROUP C
 
 14/aug/94
 
@@ -71,7 +73,7 @@ Goal Paulinho Kobayashi.
 GUARANI 2 x CRUZEIRO 0
 Goals Djalminha (2).
 
-▪ GROUP D ▪
+GROUP D
 
 14/aug/94
 
@@ -86,7 +88,7 @@ Goals Caio Júnior (2).
 
 17/aug/94
 
-▪ GROUP A ▪
+GROUP A
 
 FLAMENGO 2 x BRAGANTINO 1
 Goals Flamengo: Nélio and Magno. Bragantino: Índio-Flamengo (own goal).
@@ -95,7 +97,7 @@ Goals Grêmio: Carlos Miguel (2). Criciúma: Betinho.
 CORINTHIANS 1 x SPORT 1
 Goals Corinthians: Branco. Sport: Fábio.
 
-▪ GROUP B ▪
+GROUP B
 
 17/aug/94
 
@@ -108,7 +110,7 @@ Goal Juninho.
 VITÓRIA-BA 0 x PAYSANDU 1
 Goal Mirandinha.
 
-▪ GROUP C ▪
+GROUP C
 
 17/aug/94
 
@@ -118,7 +120,7 @@ CRUZEIRO 0 x SANTOS 0
 REMO 1 x BAHIA 1
 Goals Remo: Alencar. Bahia: Ronald.
 
-▪ GROUP D ▪
+GROUP D
 
 17/aug/94
 
@@ -131,7 +133,7 @@ Goals Paraná: Saulo. Internacional: Nando.
 
 ▪ ROUND 3 ▪
 
-▪ GROUP A ▪
+GROUP A
 
 21/aug/94
 
@@ -142,7 +144,7 @@ Goals Criciúma: Betinho. Flamengo: Sávio.
 BRAGANTINO 0 x SPORT 1
 Goal Fábio.
 
-▪ GROUP B ▪
+GROUP B
 
 20/aug/94
 
@@ -156,7 +158,7 @@ Goals Atlético-MG: Reinaldo. Paysandu: Édson Santos, Marcos and Roberto.
 PORTUGUESA 1 x VITÓRIA-BA 0
 Goal Cosminho.
 
-▪ GROUP C ▪
+GROUP C
 
 20/aug/94
 
@@ -170,7 +172,7 @@ Goals Júlio César and Amoroso.
 REMO 2 x CRUZEIRO 1
 Goals Remo: Wânder and Almir. Cruzeiro: Nonato.
 
-▪ GROUP D ▪
+GROUP D
 
 21/aug/94
 
@@ -183,7 +185,7 @@ Goal Alexandre.
 
 ▪ ROUND 4 ▪
 
-▪ GROUP A ▪
+GROUP A
 
 24/aug/94
 
@@ -194,7 +196,7 @@ Goal Marcelinho Carioca.
 SPORT 1 x CRICIÚMA 1
 Goals Sport: Juninho. Criciúma: Miranda.
 
-▪ GROUP B ▪
+GROUP B
 
 24/aug/94
 
@@ -207,7 +209,7 @@ Goals Botafogo: Róbson and Juninho. Atlético-MG: Paulo Roberto Prestes.
 VITÓRIA-BA 1 x SÃO PAULO 1
 Goals Vitória-BA: Giuliano. São Paulo: Júnior Baiano.
 
-▪ GROUP C ▪
+GROUP C
 
 24/aug/94
 
@@ -218,7 +220,7 @@ Goal Djalminha.
 SANTOS 3 x BAHIA 0
 Goals Macedo, Paulinho Kobayashi and Silva.
 
-▪ GROUP D ▪
+GROUP D
 
 24/aug/94
 
@@ -234,7 +236,7 @@ Goals Paraná: João Antônio: Náutico: Denílson-Paraná (own goal).
 
 ▪ ROUND 5 ▪
 
-▪ GROUP A ▪
+GROUP A
 
 28/aug/94
 
@@ -245,7 +247,7 @@ Goal Carlos Miguel.
 FLAMENGO 5 x CORINTHIANS 2
 Goals Flamengo: Magno (3), Marcos Adriano and Sávio. Corinthians: Henrique and Marques.
 
-▪ GROUP B ▪
+GROUP B
 
 28/aug/94
 
@@ -256,7 +258,7 @@ Goals Aílton and Caio.
 ATLÉTICO-MG 3 x VITÓRIA-BA 1
 Goals Atlético-MG: Valdir (2) and Zé Carlos. Vitória-BA: Ricky.
 
-▪ GROUP C ▪
+GROUP C
 
 27/aug/94
 
@@ -270,7 +272,7 @@ Goals Valdir, Ricardo Rocha and França.
 BAHIA 2 x CRUZEIRO 1
 Goals Bahia: Raudinei and Paulo Emílio. Cruzeiro: Jean Carlo.
 
-▪ GROUP D ▪
+GROUP D
 
 27/aug/94
 
@@ -286,7 +288,7 @@ Goals Dinei (3), Ânderson and Nando.
 
 ▪ ROUND 6 ▪
 
-▪ GROUP A ▪
+GROUP A
 
 31/aug/94
 
@@ -300,7 +302,7 @@ Goals Flamengo: Sávio and Nélio. Grêmio: Osias and Carlos Miguel.
 CRICIÚMA 5 x SPORT 0
 Goals Miranda, Soares, Gilvan, Betinho and Daniel.
 
-▪ GROUP B ▪
+GROUP B
 
 31/aug/94
 
@@ -314,7 +316,7 @@ Goals São Paulo: Caio (2). Vitória-BA: Roberto Cavalo and Ricky.
 PORTUGUESA 3 x PAYSANDU 1
 Goals Portuguesa: Paulinho (2) and Aritana. Paysandu: Chiquinho.
 
-▪ GROUP C ▪
+GROUP C
 
 31/aug/94
 
@@ -325,7 +327,7 @@ Goals Bahia: Marcelo and Raudinei. Santos: Neto.
 REMO 0 x GUARANI 2
 Goals Amoroso (2).
 
-▪ GROUP D ▪
+GROUP D
 
 31/aug/94
 
@@ -343,7 +345,7 @@ Goal Fabinho-União São João-SP (own goal).
 
 ▪ ROUND 7 ▪
 
-▪ GROUP A ▪
+GROUP A
 
 3/sep/94
 
@@ -360,7 +362,7 @@ Goals Grêmio: Émerson. Sport: Marcelo.
 BRAGANTINO 1 x CRICIÚMA 0
 Goal Maurinho.
 
-▪ GROUP B ▪
+GROUP B
 
 4/sep/94
 
@@ -371,7 +373,7 @@ Goals Vitória-BA: Fabinho. Atlético-MG: Renato Gaúcho.
 PORTUGUESA 0 x SÃO PAULO 0
 
 
-▪ GROUP C ▪
+GROUP C
 
 4/sep/94
 
@@ -382,7 +384,7 @@ Goal Paulinho Kobayashi.
 REMO 0 x VASCO 1
 Goal Jardel.
 
-▪ GROUP D ▪
+GROUP D
 
 3/sep/94
 
@@ -401,7 +403,7 @@ Goals Náutico: Catende. Internacional: Dinei.
 
 ▪ ROUND 8 ▪
 
-▪ GROUP A ▪
+GROUP A
 
 10/sep/94
 
@@ -416,7 +418,7 @@ Goals Flamengo: Nélio. Criciúma: Paulo da Pinta.
 SPORT 4 x BRAGANTINO 3
 Goals Sport: Marcelo (3) and Zinho. Bragantino; Nando (2) and Júnior.
 
-▪ GROUP B ▪
+GROUP B
 
 7/sep/94
 
@@ -432,7 +434,7 @@ Goals São Paulo: Euller, Caio, Júnior Baiano and Aílton. Botafogo: Nélson.
 
 VITÓRIA-BA 0 x PORTUGUESA 0
 
-▪ GROUP C ▪
+GROUP C
 
 7/sep/94
 
@@ -445,7 +447,7 @@ VASCO 0 x SANTOS 0
 CRUZEIRO 0 x REMO 1
 Goal Helinho.
 
-▪ GROUP D ▪
+GROUP D
 
 11/sep/94
 
@@ -460,7 +462,7 @@ UNIÃO SÃO JOÃO-SP 0 x NÁUTICO 0
 
 ▪ ROUND 9 ▪
 
-▪ GROUP A ▪
+GROUP A
 
 18/sep/94
 
@@ -471,7 +473,7 @@ Goal Sávio.
 CRICIÚMA 1 x GRÊMIO 0
 Goal Betinho.
 
-▪ GROUP B ▪
+GROUP B
 
 17/sep/94
 
@@ -484,7 +486,7 @@ Goal Túlio.
 PAYSANDU 3 x VITÓRIA-BA 1
 Goals Paysandu: Antônio Carlos (2) and Augusto. Vitória-BA: Gil Baiano.
 
-▪ GROUP C ▪
+GROUP C
 
 14/sep/94
 
@@ -501,7 +503,7 @@ Goals Guarani: Amoroso and Fábio Augusto. Vasco: Valdir.
 SANTOS 4 x CRUZEIRO 1
 Goals Santos: Macedo (2), Ranielli and Guga. Cruzeiro: Cleisson.
 
-▪ GROUP D ▪
+GROUP D
 
 18/sep/94
 
@@ -514,7 +516,7 @@ Goals Fluminense: Djair and Ézio. União São João-SP: Vágner and Israel.
 
 ▪ ROUND 10 ▪
 
-▪ GROUP A ▪
+GROUP A
 
 25/sep/94
 
@@ -525,7 +527,7 @@ Goals Sávio (3).
 GRÊMIO 2 x BRAGANTINO 1
 Goals Grêmio: Agnaldo and Carlinhos. Bragantino: Sílvio.
 
-▪ GROUP B ▪
+GROUP B
 
 24/sep/94
 
@@ -538,7 +540,7 @@ VITÓRIA-BA 2 x BOTAFOGO 0
 Goals Dão and Everaldo.
 PORTUGUESA 0 x ATLÉTICO-MG 0
 
-▪ GROUP C ▪
+GROUP C
 
 25/sep/94
 
@@ -549,7 +551,7 @@ Goals Remo: Chicão. Santos: Macedo, Ranielli, Paulinho Kobayashi and Guga.
 CRUZEIRO 1 x GUARANI 2
 Goals Cruzeiro: Edenílson. Guarani: Amoroso and Luizão.
 
-▪ GROUP D ▪
+GROUP D
 
 24/sep/94
 
@@ -564,55 +566,11 @@ TABLES
 First stage (groups A-D)
 
  ---------------------------------------------------------------------
-▪ GROUP A ▪
+ GROUP A
  ---------------------------------------------------------------------
           POS TEAM           P+   G   W   D   L  GF-GA    SG    P-  TP
  ---------------------------------------------------------------------
- (*)(+1)   1  CORINTHIANS    13  10   5   3   2  18-14     4     7  13
- (*)       2  FLAMENGO       12  10   4   4   2  16-11     5     8  12
- (*)       3  GRÊMIO         12  10   4   4   2  12-09     3     8  12
- (*)       4  SPORT          10  10   3   4   3  11-16    -5    10  10
- ---------------------------------------------------------------------
-           5  CRICIÚMA        9  10   2   5   3  14-11     3    11   9
-           6  BRAGANTINO      4  10   1   2   7  08-18   -10    16   4
- ---------------------------------------------------------------------
-▪ GROUP B ▪
- ---------------------------------------------------------------------
-          POS TEAM           P+   G   W   D   L  GF-GA    SG    P-  TP
- ---------------------------------------------------------------------
- (*)(+1)   1  BOTAFOGO       12  10   5   2   3  16-12     4     8  12
- (*)       2  PAYSANDU       12  10   5   2   3  14-13     1     8  12
- (*)       3  SÃO PAULO      11  10   3   5   2  11-10     1     9  11
- (*)       4  PORTUGUESA     10  10   2   6   2  04-04     0    10  10
- ---------------------------------------------------------------------
-           5  ATLÉTICO(MG)    8  10   2   4   4  08-10    -2    12   8
-           6  VITÓRIA         7  10   1   5   4  09-13    -4    13   7
- ---------------------------------------------------------------------
-▪ GROUP C ▪
- ---------------------------------------------------------------------
-          POS TEAM           P+   G   W   D   L  GF-GA    SG    P-  TP
- ---------------------------------------------------------------------
- (*)(+1)   1  GUARANI        15  10   7   1   2  17-07    10     5  15
- (*)       2  SANTOS         14  10   6   2   2  16-08     8     6  14
- (*)       3  VASCO DA GAMA  11  10   4   3   3  12-09     3     9  11
- (*)       4  BAHIA          11  10   4   3   3  11-13    -2     9  11
- ---------------------------------------------------------------------
-           5  REMO            5  10   2   1   7  05-15   -10    15   5
-           6  CRUZEIRO        4  10   1   2   7  07-16    -9    16   4
- ---------------------------------------------------------------------
-▪ GROUP D ▪
- ---------------------------------------------------------------------
-          POS TEAM           P+   G   W   D   L  GF-GA    SG    P-  TP
- ---------------------------------------------------------------------
- (*)(+1)   1  PALMEIRAS      19  10   9   1   0  26-07    19     1  19
- (*)       2  FLUMINENSE     10  10   4   2   4  14-15    -1    10  10
- (*)       3  PARANÁ          9  10   3   3   4  15-18    -3    11   9
- (*)       4  INTER(RS)       8  10   3   2   5  14-13     1    12   8
- ---------------------------------------------------------------------
-           5  UNIÃO S. JOÃO   8  10   3   2   5  10-14    -4    12   8
-           6  NÁUTICO         6  10   1   4   5  07-19   -12    14   6
- ---------------------------------------------------------------------
- (*) - Qualify for Next round
+<!-- $table1$ -->
 
  GROUP E                            GROUP F
  -------                            -------
@@ -641,7 +599,7 @@ SUBSTAGE 1
 
 ▪ ROUND 1 ▪
 
-▪ GROUP E ▪
+GROUP E
 
 1/oct/94
 
@@ -659,7 +617,7 @@ Goals Grêmio: Ayupe and Fabinho. Portuguesa: Caio.
 PAYSANDU 1 x VASCO 0
 Goal Oberdan.
 
-▪ GROUP F ▪
+GROUP F
 
 1/oct/94
 
@@ -699,7 +657,7 @@ Goals Sílvio (2) and Ludo.
 
 ▪ ROUND 2 ▪
 
-▪ GROUP E ▪
+GROUP E
 
 8/oct/94
 
@@ -714,7 +672,7 @@ FLUMINENSE 0 x VASCO 0
 INTERNACIONAL 3 x PAYSANDU 1
 Goals Internacional: Argel, Luís Fernando Gomes and Augusto-Paysandu (own goal). Paysandu: Augusto.
 
-▪ GROUP F ▪
+GROUP F
 
 27/sep/94
 
@@ -746,7 +704,7 @@ Goal Sílvio.
 
 ▪ ROUND 3 ▪
 
-▪ GROUP E ▪
+GROUP E
 
 12/oct/94
 
@@ -762,7 +720,7 @@ Goal Pedro Renato.
 PAYSANDU 1 x GRÊMIO 0
 Goal Antônio Carlos.
 
-▪ GROUP F ▪
+GROUP F
 
 12/oct/94
 
@@ -799,7 +757,7 @@ Goals União São João-SP: Chiquinho. Criciúma: Betinho.
 
 ▪ ROUND 4 ▪
 
-▪ GROUP E ▪
+GROUP E
 
 12/oct/94
 
@@ -816,7 +774,7 @@ Goals Fluminense: Ézio. Guarani: Amoroso and Luizão.
 GRÊMIO 1 x INTERNACIONAL 1
 Goals Grêmio: Agnaldo. Internacional: Nando.
 
-▪ GROUP F ▪
+GROUP F
 
 15/oct/94
 
@@ -852,7 +810,7 @@ REMO 0 x CRUZEIRO 0
 
 ▪ ROUND 5 ▪
 
-▪ GROUP E ▪
+GROUP E
 
 23/oct/94
 
@@ -864,7 +822,7 @@ VASCO 5 x INTERNACIONAL 2
 Goals Vasco: Preto (2), Valdir, Gian and Alex-Internacional (own goal). Internacional: Nando and Mazinho Loiola.
 PAYSANDU 0 x FLUMINENSE 0
 
-▪ GROUP F ▪
+GROUP F
 
 22/oct/94
 
@@ -898,7 +856,7 @@ Goal Cláudio Moura.
 
 ▪ ROUND 6 ▪
 
-▪ GROUP E ▪
+GROUP E
 
 26/oct/94
 
@@ -913,7 +871,7 @@ Goals Guarani: Amoroso and Jean Carlos. Paysandu: Flávio Goiano and Reginaldo-G
 FLUMINENSE 2 x PORTUGUESA 1
 Goals Fluminense: Djair (2). Portuguesa: Caio.
 
-▪ GROUP F ▪
+GROUP F
 
 26/oct/94
 
@@ -950,7 +908,7 @@ Goals Cruzeiro: Rogério, Macalé and Roberto Gaúcho. União São João-SP: Gla
 
 ▪ ROUND 7 ▪
 
-▪ GROUP E ▪
+GROUP E
 
 29/oct/94
 
@@ -966,7 +924,7 @@ Goal Simão.
 GRÊMIO 3 x FLUMINENSE 1
 Goals Grêmio: Carlinhos (2) and Ciro. Fluminense: Leonardo.
 
-▪ GROUP F ▪
+GROUP F
 
 29/oct/94
 
@@ -997,33 +955,11 @@ UNIÃO SÃO JOÃO-SP 0 x REMO 0
 TABLES
 Substage 2-1 (Groups E-F; internal matches)
 
-▪ Group E ▪
+Group E
 ------------------------------------------------
 Pos Team          P+  G  W  D  L  GF-GA   SG P-
 ------------------------------------------------
- 1  CORINTHIANS   12  7  5  1  1  13-06    7  3  (Qualified)
-------------------------------------------------
- 2  GUARANI       12  7  4  3  0  11-06    5  3
- 3  GRÊMIO         7  7  3  1  3  09-09    0  7
- 4  INTER(RS)      7  7  2  3  2  09-10   -1  7
- 5  PAYSANDU       6  7  2  2  3  06-08   -2  8
- 6  VASCO          5  7  2  1  4  07-09   -2  9
- 7  PORTUGUESA     5  7  2  1  4  06-08   -2  9
- 8  FLUMINENSE     4  7  1  2  4  07-12   -5 10
-------------------------------------------------
-▪ Group F ▪
-------------------------------------------------
-Pos Team          P+  G  W  D  L  GF-GA   SG P-
-------------------------------------------------
- 1  PALMEIRAS     11  7  4  2  1  08-05    3  4 (Qualified)
-------------------------------------------------
- 2  SPORT         10  7  4  2  1  15-08    7  4
- 3  SÃO PAULO      9  7  3  3  1  14-12    2  5
- 4  BAHIA          8  7  2  4  1  09-08    1  6
- 5  SANTOS         6  7  2  2  3  10-11   -1  8
- 6  BOTAFOGO       6  7  2  1  4  07-12   -5  9
- 7  FLAMENGO       4  7  1  2  4  03-07   -4 10
- 8  PARANÁ         4  7  0  4  3  05-08   -3 10
+<!-- $table2$ -->
 
 SUBSTAGE 2
 
@@ -1338,71 +1274,24 @@ Goals Nélio and Magno.
 
 Substage 2-2 (Groups E-F; external matches)
 
-▪ Group E ▪
+Group E
 ------------------------------------------------
 Pos Team          P+  G  W  D  L  GF-GA   SG P-
 ------------------------------------------------
- 1  GUARANI       12  8  5  2  1  11-05    6  4  (Qualified)
-------------------------------------------------
- 2  PORTUGUESA    11  8  5  1  2  16-08    8  5
- 3  FLUMINENSE     8  8  3  2  3  14-13    1  8
- 4  VASCO          8  8  2  4  2  04-07   -3  8
- 5  INTER(RS)      7  8  2  3  3  04-05   -1  9
- 6  GREMIO         5  8  2  1  5  06-12   -6 11
- 7  PAYSANDU       4  8  1  2  5  02-11   -9 12
- 8  CORINTHIANS    4  8  1  2  5  06-16  -10 12
-------------------------------------------------
-▪ Group F ▪
-------------------------------------------------
-Pos Team          P+  G  W  D  L  GF-GA   SG P-
-------------------------------------------------
- 1  BOTAFOGO      13  8  5  3  0  13-05    8  3  (Qualified)
-------------------------------------------------
- 2  SANTOS        11  8  5  1  2  10-03    7  5
- 3  SAO PAULO     10  8  5  0  3  14-09    5  6
- 4  BAHIA         10  8  3  4  1  10-06    4  6
- 5  PARANA         8  8  3  2  3  09-09    0  8
- 6  FLAMENGO       7  8  2  3  3  05-09   -4  9
- 7  PALMEIRAS      6  8  2  2  4  11-12   -1 10
- 8  SPORT          4  8  1  2  5  05-10   -5 12
-------------------------------------------------
+<!-- $table3$ -->
 
 Group Qualify
 ------------------
 ------------------------------
 Pos Team          P+  G  W  D  L  GF-GA   SG P-
 ------------------------------------------------
- 1  BRAGANTINO    19 14  7  5  2  20-10   10  9  (Qualified)
- 2  ATLÉTICO(MG)  18 14  7  4  3  22-13    9 10  (Qualified)
-------------------------------------------------
- 3  VITÓRIA       15 14  6  3  5  16-15    1 13
- 4  CRICIÚMA      14 14  5  4  5  20-23   -3 14
- 5  UNIÃO S. JOÃO 13 14  4  5  5  16-18   -2 15
- 6  CRUZEIRO      12 14  5  2  7  15-19   -4 16
- 7  REMO          12 14  4  4  6  13-19   -6 16  (Relegated)
- 8  NÁUTICO        9 14  4  1  9  09-14   -5 19  (Relegated)
-------------------------------------------------
+<!-- $table4$ -->
 
 
 TABLE - SECOND STAGE
 GROUPS E and F
 TEAM             Pts  P   W  D  L   GF-GA  DIF
-1-GUARANI        24  15   9  5  1   22-11   11   Qualified
-2-SÃO PAULO      19  15   8  3  4   28-21    7   Qualified*
-3-BOTAFOGO       19  15   7  4  4   20-17    3   Qualified
-4-BAHIA          18  15   5  8  2   19-14    5   Qualified*
-5-SANTOS         17  15   7  3  5   20-14    6
-6-PALMEIRAS      17  15   6  4  5   19-17    2   Qualified
-7-PORTUGUESA     16  15   7  2  6   22-16    6
-8-CORINTHIANS    16  15   6  3  6   19-22   -3   Qualified
-9-SPORT          14  15   5  4  6   20-18    2
-10-INTERNACIONAL 14  15   4  6  5   13-15   -2
-11-VASCO         13  15   4  5  6   11-16   -5
-12-GRÊMIO        12  15   5  2  8   15-21   -6
-13-FLUMINENSE    12  15   4  4  7   21-25   -4
-14-PARANÁ        12  15   3  6  6   14-17   -3
-15-FLAMENGO      11  15   3  5  7    8-16   -8
-16-PAYSANDU      10  15   3  4  8    8-19  -11
+<!-- $table5$ -->
 
 * - Qualified due to better second stage record.
 
@@ -1513,30 +1402,7 @@ SE Palmeiras Champion of Brazil 94
 
 FINAL TABLE - 1994 BRAZILIAN CHAMPIONSHIP
 TEAM             Pts  P   W  D  L   GF-GA  DIF
-1-PALMEIRAS      46  31  20  6  5   58-30   28
-2-CORINTHIANS    33  31  12  9 10   43-44   -1
-3-GUARANI        40  29  17  6  6   45-26   19
-4-ATLÉTICO-MG    30  28  11  8  9   36-28    8
-5-BOTAFOGO       32  27  13  6  8   38-32    6
-6-SÃO PAULO      32  27  12  8  7   42-35    7
-7-BAHIA          29  27   9 11  7   32-31    1
-8-BRAGANTINO     25  26   8  9  9   29-29    0
-9-SANTOS         31  25  13  5  7   36-22   14
-10-PORTUGUESA    26  25   9  8  8   26-20    6
-11-GRÊMIO        24  25   9  6 10   27-30   -3
-12-VASCO         24  25   8  8  9   23-25   -2
-13-SPORT         24  25   8  8  9   31-34   -3
-14-FLAMENGO      23  25   7  9  9   24-27   -3
-15-FLUMINENSE    22  25   8  6 11   35-40   -5
-16-PAYSANDU      22  25   8  6 11   22-32  -10
-17-INTERNACIONAL 22  25   7  8 10   27-28   -1
-18-PARANÁ        21  25   6  9 10   29-35   -6
-19-VITÓRIA-BA    22  24   7  8  9   25-28   -3
-20-CRICIÚMA      23  24   7  9  8   34-34    0
-21-UNIÃO S.JOÃO  21  24   7  7 10   26-32   -6
-22-CRUZEIRO      16  24   6  4 14   22-35  -13
-23-REMO          17  24   6  5 13   18-34  -16   Relegated
-24-NÁUTICO       15  24   5  5 14   16-33  -17   Relegated
+<!-- $table6$ -->
 
 
 VI COPA DO BRASIL
@@ -1604,7 +1470,7 @@ VI COPA DO BRASIL
 06/05 - 24/05 Bahia             5-4  0-1   Internacional
 18/05 - 29/05 Ceará             0-0  1-1   Palmeiras
 
-THIRD PHASE
+▪ THIRD PHASE ▪
 
 04/06 - 07/06 Grêmio            1-0  1-0   Vitória
 14/06 - 17/06 Vasco             3-1  3-4   Atlético-MG
@@ -1627,7 +1493,7 @@ Brazil 1994 Second Division
 
 ▪ 1st Phase ▪
 
-▪ Group A ▪
+Group A
 
 Participating Teams:
 América FC (Natal, RN)
@@ -1668,17 +1534,11 @@ Tuna Luso 0-1 América
 Moto Clube 2-1 Central
 Fortaleza 1-5 Ceará
 
-1.América               13   10     4   5   1      16   14      2
-2.Tuna Luso             11   10     5   1   4      13   11      2
-3.Moto Clube            10   10     4   2   4      12   16     -4
-4.Ceará                 10   10     3   4   3      16   12      4
------------------------------------------------------------------
-5.Central               10   10     3   4   3      18   16      2
-6.Fortaleza              6   10     1   4   5       9   17     -8
+<!-- $table7$ -->
 
 [w/o GD matches between Fortaleza and Tuna Luso]
 
-▪ Group B ▪
+Group B
 
 Participating Teams:
 Americano FC (Campos, RJ)
@@ -1717,15 +1577,9 @@ Americano 2-0 Santa Cruz                02/10
                                         Santa Cruz 2-1 CRB
                                         Americano 0-0 Democrata
 
-1.Desportiva            13   10     5   3   2       9    7      2
-2.Sergipe               11   10     5   1   4      14   11      3
-3.Americano             11   10     4   3   3       7    8     -1
-4.Santa Cruz            10   10     3   4   3      11   11      0
------------------------------------------------------------------
-5.Democrata              9   10     1   7   2       6    7     -1
-6.CRB                    6   10     2   2   6       9   12     -3
+<!-- $table8$ -->
 
-▪ Group C ▪
+Group C
 
 Participating Teams:
 América FC (São José do Rio Preto, SP)
@@ -1770,17 +1624,11 @@ Goiás 2-0 Londrina
 
 (1) unknown result, but is known that the match was drawn.
 
-1.Goiás                 13   10     5   3   2      15    9      6
-2.Atlético              12   10     5   2   3       8    8      0
-3.Londrina              10   10     3   4   3      11   11      0
-4.Goiatuba               9   10     4   1   5      11   10      1
------------------------------------------------------------------
-5.América                8   10     3   2   5       7    9     -2
-6.Barra do Garças        8   10     3   2   5       7   12     -5
+<!-- $table9$ -->
 
 [w/o GD Londrina-América]
 
-▪ Group D ▪
+Group D
 
 Participating Teams:
 Bangu AC (Rio de Janeiro, RJ)
@@ -1821,13 +1669,7 @@ Juventude 2-2 Bangu                     Bangu 2-0 Tiradentes
 Coritiba 0-1 Tiradentes
 Mogi-Mirim 1-2 Ponte Preta
 
-1.Ponte Preta           14   10     6   2   2      13   10      3
-2.Mogi-Mirim            12   10     4   4   2      11    6      5
-3.Juventude             11   10     4   3   3      16   12      4
-4.Coritiba              11   10     4   3   3      12    8      4
------------------------------------------------------------------
-5.Bangu                  7   10     2   3   5      10   12     -2
-6.Tiradentes             5   10     2   1   7       6   20    -14
+<!-- $table10$ -->
 
 Relegated: Fortaleza and Tiradentes (worst bottom teams).
 
@@ -1836,7 +1678,7 @@ Relegated: Fortaleza and Tiradentes (worst bottom teams).
 
 (unknown dates)
 
-▪ Group E ▪
+Group E
 
 Moto Clube 2-2 Santa Cruz               Desportiva 0-0 Santa Cruz
 América (RN) 0-1 Desportiva             América (RN) 1-0 Moto Clube
@@ -1847,13 +1689,9 @@ Moto Clube 0-0 Desportiva               Santa Cruz 1-3 América (RN)
 Santa Cruz 1-3 Desportiva               Santa Cruz 1-3 Moto Clube
 Moto Clube 1-1 América (RN)             Desportiva 1-0 América (RN)
 
-1.Desportiva            10    6     4   2   0       8    1      7
------------------------------------------------------------------
-2.América                7    6     3   1   2       7    5      2
-3.Moto Clube             5    6     1   3   2       6    8     -2
-4.Santa Cruz             2    6     0   2   4       6   13     -7
+<!-- $table11$ -->
 
-▪ Group F ▪
+Group F
 
 Tuna Luso 2-0 Ceará                     Americano 3-0 Tuna Luso
 Sergipe 1-0 Americano                   Sergipe 1-2 Ceará
@@ -1864,13 +1702,9 @@ Tuna Luso 0-1 Sergipe                   Americano 3-1 Ceará
 Tuna Luso 0-0 Americano                 Americano 1-0 Sergipe
 Ceará 3-1 Sergipe                       Ceará 6-1 Tuna Luso
 
-1.Americano              8    6     3   2   1       8    3      5
------------------------------------------------------------------
-2.Ceará                  7    6     3   1   2      13    9      4
-3.Sergipe                6    6     3   0   3       5    6     -1
-4.Tuna Luso              3    6     1   1   4       3   11     -8
+<!-- $table12$ -->
 
-▪ Group G ▪
+Group G
 
 Coritiba 1-2 Mogi-Mirim                 Goiás 2-0 Mogi-Mirim
 Londrina 1-1 Goiás                      Londrina 4-2 Coritiba
@@ -1881,13 +1715,9 @@ Mogi-Mirim 2-0 Londrina                 Goiás 2-0 Coritiba
 Mogi-Mirim 1-1 Goiás                    Goiás 2-1 Londrina
 Coritiba 3-1 Londrina                   Mogi-Mirim 2-2 Coritiba
 
-1.Goiás                 10    6     4   2   0       9    3      6
------------------------------------------------------------------
-2.Mogi-Mirim             6    6     2   2   2       8    9     -1
-3.Londrina               5    6     2   1   3      10   11     -1
-4.Coritiba               3    6     1   1   4       8   12     -4
+<!-- $table13$ -->
 
-▪ Group H ▪
+Group H
 
 Goiatuba 1-2 Atlético                   Juventude 4-2 Atlético
 Ponte Preta 0-1 Juventude               Ponte Preta 2-2 Goiatuba
@@ -1898,11 +1728,7 @@ Goiatuba 1-1 Juventude                  Juventude 2-0 Goiatuba
 Atlético 2-2 Juventude                  Juventude 5-3 Ponte Preta
 Goiatuba 1-0 Ponte Preta                Atlético 3-0 Goiatuba
 
-1.Juventude             10    6     4   2   0      15    8      7
------------------------------------------------------------------
-2.Atlético               7    6     3   1   2      14   11      3
-3.Goiatuba               4    6     1   2   3       5   10     -5
-4.Ponte Preta            3    6     1   1   4       9   14     -5
+<!-- $table14$ -->
 
 ▪ Semifinals ▪
 1st leg                                 2nd leg
@@ -1923,7 +1749,7 @@ Fortaleza and Tiradentes are relegated to the 3rd Division.
 
 Brazil 1994 Third Division
 
-▪ Group 1 ▪
+Group 1
 
 Participating Teams:
 ABC FC (Natal, RN)
@@ -1934,11 +1760,9 @@ Sousa 1-0 ABC                           ABC 2-0 Sousa
 ABC 3-1 América                         Sousa 3-1 América
 América 2-1 Sousa                       América 2-1 ABC
 
-1.ABC                    4    4     2   0   2       6    4      1
-2.Sousa                  4    4     2   0   2       5    5      0
-3.América                4    4     2   0   2       6    8     -2
+<!-- $table15$ -->
 
-▪ Group 2 ▪
+Group 2
 
 Participating Teams:
 Botafogo FC (João Pessoa, PB)
@@ -1955,13 +1779,9 @@ Vitória 3-1 Porto                       Porto 0-0 Vitória
 Porto 1-1 Botafogo                      Vitória 1-1 Botafogo
 Vitória 0-2 Santa Cruz                  Santa Cruz 1-1 Porto
 
-1.Santa Cruz             7    6     2   3   1       5    3      2
-2.Botafogo               7    6     1   5   0       7    6      1
-3.Vitória                6    6     1   4   1       5    5      0
------------------------------------------------------------------
-4.Porto                  4    6     0   4   2       5    8     -3
+<!-- $table16$ -->
 
-▪ Group 3 ▪
+Group 3
 
 Participating Teams:
 CSA (Maceió, AL)
@@ -1978,13 +1798,9 @@ Confiança 1-1 Itabaiana                 Itabaiana 1-0 Confiança
 CSA 3-1 Confiança                       Confiança 2-2 Maruinense
 Maruinense 2-1 Itabaiana                CSA x Itabaiana (unknown)
 
-1.Itabaiana              7    5     3   1   1       7    4      3
-2.CSA                    6    5     3   0   2       8    5      3
-3.Maruinense             5    6     2   1   3       6    9     -3
------------------------------------------------------------------
-4.Confiança              4    6     1   2   3       6    9     -3
+<!-- $table17$ -->
 
-▪ Group 4 ▪
+Group 4
 
 Participating Teams:
 AE Catuense (Alagoinhas, BA)
@@ -1993,12 +1809,9 @@ Vitória FC (Vitória, ES)
 
 Catuense 0-WO Serrano
 Vitória 0-0 Catuense                    Catuense 0-1 Vitória
-Serrano withdrew
+<!-- $table18$ - Serrano withdrew -->
 
-1.Vitória                3    2     1   1   0       1    0      3
-2.Catuense               1    2     0   1   1       0    1      1
-
-▪ Group 5 ▪
+Group 5
 
 Participating Teams:
 Campo Grande AC (Rio de Janeiro, RJ)
@@ -2015,16 +1828,12 @@ Tupi 0-0 Valeriodoce                    Valeriodoce x Tupi (unknown)
 Campo Grande 1-2 Valeriodoce            Tupi 1-1 Campo Grande
 Tupi 2-1 Villa Nova                     Villa Nova 1-1 Valeriodoce
 
-1.Valeriodoce            5    4     1   3   0       3    2      1
-2.Villa Nova             6    6     1   4   1       4    4      0
-3.Campo Grande           4    5     1   2   2       4    5     -1
------------------------------------------------------------------
-4.Tupi                   5    5     1   3   1       3    3      0
+<!-- $table19$ -->
 
 It is known Tupi finished last; therefore, Valeriodoce-Tupi must have been
 a home win, Valeriodoce-Campo Grande a draw or away win.
 
-▪ Group 6 ▪
+Group 6
 
 Participating Teams:
 América FC (Rio de Janeiro, RJ)
@@ -2041,13 +1850,9 @@ Santo André 0-0 Ituano                  Ituano 3-0 Juventus
 Ituano 2-1 América                      América 1-0 Ituano
 Santo André 0-0 Juventus                Juventus 3-2 Santo André
 
-1.Juventus               9    6     4   1   1       7    6      1
-2.Ituano                 7    6     3   1   2       7    4      3
-3.América                6    6     3   0   3       6    5      1
------------------------------------------------------------------
-4.Santo André            2    6     0   2   4       3    8     -5
+<!-- $table20$ -->
 
-▪ Group 7 ▪
+Group 7
 
 Participating Teams:
 Atlético CG (Goiânia, GO)
@@ -2064,13 +1869,9 @@ Taguatinga 0-0 Atlético                 Taguatinga 3-2 Vila Nova
 Atlético 0-1 Vila Nova                  União Araguainense 2-1 Taguatinga
 Taguatinga 2-0 União Araguainense       Vila Nova 1-0 Atlético
 
-1.Vila Nova              8    6     4   0   2       8    5      3
-2.Taguatinga             7    6     3   1   2       6    5      1
-3.Atlético               5    6     2   1   3       5    5      0
------------------------------------------------------------------
-4.União Araguainense     4    6     2   0   4       6   10     -4
+<!-- $table21$ -->
 
-▪ Group 8 ▪
+Group 8
 
 Participating Teams:
 Caldas EC (Caldas, GO)
@@ -2087,13 +1888,9 @@ Itumbiara 1-2 Uberlândia                Uberlândia 2-1 Itumbiara
 Uberlândia 1-0 Operário                 Itumbiara 4-0 Caldas
 Caldas 5-1 Itumbiara                    Operário 1-2 Uberlândia
 
-1.Uberlândia            11    6     5   1   0       9    4      5
-2.Caldas                 6    6     2   2   2       9    7      1
-3.Itumbiara              4    6     2   0   4       9   11     -2
------------------------------------------------------------------
-4.Operário               3    6     1   1   4       3    7     -4
+<!-- $table22$ -->
 
-▪ Group 9 ▪
+Group 9
 
 Participating Teams:
 Clube Atlético Sorocaba (Sorocaba, SP)
@@ -2110,13 +1907,9 @@ Esportivo Passense 1-0 Atl. Sorocaba    Matsubara 4-5 Novorizontino
 Matsubara 4-1 Esportivo Passense        Atlético Sorocaba 0-0 Novorizontino
 Novorizontino 5-0 Atlético Sorocaba     Esportivo Passense 0-1 Matsubara
 
-1.Novorizontino         11    6     5   1   0      16    7      9
-2.Matsubara              8    6     4   0   2      14    8      6
-3.Esportivo Passense     4    6     2   0   4       6    9     -3
------------------------------------------------------------------
-4.Atlético Sorocaba      1    6     0   1   5       0   12    -12
+<!-- $table23$ -->
 
-▪ Group 10 ▪
+Group 10
 
 Participating Teams:
 Associação Ferroviária de Esportes (Araraquara, SP)
@@ -2133,13 +1926,9 @@ Ferroviária 0-0 União Bandeirante       União Bandeirante 3-0 Ferroviária
 União Bandeirante 3-0 Operário          Operário 2-0 União Bandeirante
 Rio Branco 0-1 Ferroviária              Ferroviária 1-2 Rio Branco
 
-1.União Bandeirante      7    5     3   1   1       8    2      6
-2.Operário               6    6     2   2   2       6    7     -1
-3.Ferroviária            6    6     2   2   2       4    5     -1
------------------------------------------------------------------
-4.Rio Branco             3    5     1   1   3       4    8     -4
+<!-- $table24$ -->
 
-▪ Group 11 ▪
+Group 11
 
 Participating Teams:
 AA Batel (Guarapuava, PR)
@@ -2156,11 +1945,7 @@ Batel x Blumenau (unknown)              Blumenau x Batel (unknown)
 Joinville 1-1 Batel                     Batel 0-1 Joinville
 Blumenau 1-2 Figueirense                Figueirense 3-1 Blumenau
 
-1.Joinville              9    6     3   3   0       8    2      6
-2.Figueirense            7    6     3   1   2       8    8      0
-3.Batel                  2    4     0   2   2       2    5     -3
------------------------------------------------------------------
-4.Blumenau               2    4     0   2   2       3    6     -3
+<!-- $table25$ -->
 
 ▪ Round 2 ▪
 ABC(RN)-Botafogo(PB)                  4-1    2-4
@@ -2220,10 +2005,4 @@ Novorizontino and Ferroviária promoted.
 ‹list of 2nd division champions, see page braz2champ›.
 
 
-
-
-
-
-
-<!-- $about$ -->
 

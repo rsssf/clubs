@@ -1,10 +1,12 @@
   <!--
-     source: https://rsssf.org/tablesb/braz90.html
+     title:   Brazil 1990
+     source:  https://rsssf.org/tablesb/braz90.html
+     authors: Ricardo Pontes, Marcelo Leme de Arruda and Julio Bovi Diogo
+     updated: 18 Feb 2000    
     -->
-  
 
 
-== Brazil 1990
+
 
 CAMPEONATO BRASILEIRO DE 1990
 1990 BRAZILIAN CHAMPIONSHIP (1st LEVEL)
@@ -344,37 +346,19 @@ Goals Mazinho, Barbosa and Carlos Augusto.
 GOIÁS 3 x FLUMINENSE 0
 Goals Túlio (2) and Rubens Carlos.
 
-▪ GROUP A ▪
+GROUP A
 TEAM                Pts   P   W   D   L   GF   GA   DIF
-1-ATLÉTICO-MG       16   10   6   4   0   13    5     8     Qualified
-2-CORINTHIANS       14   10   6   2   2   10    8     2
-3-BRAGANTINO        12   10   5   2   3   11    7     4
-4-GOIÁS             12   10   4   4   2   14   10     4
-5-BAHIA             11   10   4   3   3   14    9     5
-6-SANTOS            11   10   3   5   2    9    7     2
-7-BOTAFOGO          10   10   4   2   4    6    6     0
-8-VASCO              8   10   1   6   3    5    8    -3
-9-INTERNACIONAL-RS   7   10   1   5   4    9   13    -4
-10-PORTUGUESA        7   10   1   5   4   11   16    -5
+<!-- $table1$ -->
 
-▪ GROUP B ▪
+GROUP B
 TEAM                Pts   P   W   D   L   GF   GA   DIF
-1-GRÊMIO            13   10   4   5   1   12    6     6     Qualified
-2-CRUZEIRO          12   10   4   4   2    9    9     0
-3-VITÓRIA           12   10   3   6   1    6    5     1
-4-NÁUTICO           10   10   3   4   3    8    8     0
-5-SÃO PAULO          9   10   3   3   4    9   10    -1
-6-INTERNACIONAL-SP   8   10   3   2   5    7   11    -4
-7-FLAMENGO           8   10   2   4   4   11   12    -1
-8-FLUMINENSE         7   10   2   3   5   13   17    -4
-9-SÃO JOSÉ           7   10   1   5   4    6   12    -6
-10-PALMEIRAS         6   10   2   2   6    8   12    -4
+<!-- $table2$ -->
 
 ▪ SECOND STAGE ▪
 
 ▪ ROUND 1 ▪
 
-▪ GROUP A ▪
+GROUP A
 
 10/oct/90
 
@@ -392,7 +376,7 @@ Goals Atlético-MG: Altair and Gilberto Costa. Internacional-RS: Luís Fernando.
 BOTAFOGO 0 x BAHIA 1
 Goal Gil.
 
-▪ GROUP B ▪
+GROUP B
 
 10/oct/90
 
@@ -408,7 +392,7 @@ Goals Luís Gustavo (2) and Ramón (2).
 
 ▪ ROUND 2 ▪
 
-▪ GROUP A ▪
+GROUP A
 
 14/oct/90
 
@@ -421,7 +405,7 @@ Goals Bebeto, Bismarck and Luciano.
 BOTAFOGO 2 x GOIÁS 0
 Goals Vivinho and Wílson Gottardo.
 
-▪ GROUP B ▪
+GROUP B
 
 13/oct/90
 
@@ -442,7 +426,7 @@ Goals Grêmio: Assis and Vílson. Fluminense: Denílson.
 
 ▪ ROUND 3 ▪
 
-▪ GROUP A ▪
+GROUP A
 
 21/oct/90
 
@@ -459,7 +443,7 @@ Goals Hamílton and Célio.
 BOTAFOGO 2 x VASCO 2
 Goals Botafogo: Wílson Gottardo and Gílson Jáder. Vasco: Bismarck and Sorato.
 
-▪ GROUP B ▪
+GROUP B
 
 20/oct/90
 
@@ -478,7 +462,7 @@ Goals Flamengo: Gaúcho and Renato Gaúcho. Fluminense: Dedei.
 
 ▪ ROUND 4 ▪
 
-▪ GROUP A ▪
+GROUP A
 
 24/oct/90
 
@@ -493,7 +477,7 @@ INTERNACIONAL-RS 0 x BRAGANTINO 0
 
 BAHIA 0 x PORTUGUESA 0
 
-▪ GROUP B ▪
+GROUP B
 
 24/oct/90
 
@@ -513,7 +497,7 @@ Goal Luís Fernando Flores.
 
 ▪ ROUND 5 ▪
 
-▪ GROUP A ▪
+GROUP A
 
 27/oct/90
 
@@ -530,7 +514,7 @@ Goals Bahia: Carlos Augusto-Bragantino (own goal). Bragantino: Souza.
 PORTUGUESA 3 x BOTAFOGO 1
 Goals Portuguesa: Vágner Mancini (2) and Vladimir. Botafogo: Valdeir.
 
-▪ GROUP B ▪
+GROUP B
 
 28/oct/90
 
@@ -547,7 +531,7 @@ Goal Augusto.
 
 ▪ ROUND 6 ▪
 
-▪ GROUP A ▪
+GROUP A
 
 3/nov/90
 
@@ -562,7 +546,7 @@ Goal Dinei.
 BRAGANTINO 0 x GOIÁS 0
 PORTUGUESA 0 x ATLÉTICO-MG 0
 
-▪ GROUP B ▪
+GROUP B
 
 3/nov/90
 
@@ -581,7 +565,7 @@ Goals Cruzeiro: Luís Fernando Flores. São Paulo: Mário Tilico and Ivan.
 
 ▪ ROUND 7 ▪
 
-▪ GROUP A ▪
+GROUP A
 
 10/nov/90
 
@@ -599,7 +583,7 @@ Goals Botafogo: Luisinho. Atlético-MG: Mauricinho.
 BAHIA 2 x INTERNACIONAL-RS 1
 Goals Bahia: Charles (2). Internacional-RS: Caçapava.
 
-▪ GROUP B ▪
+GROUP B
 
 10/nov/90
 
@@ -618,7 +602,7 @@ Goal Caio.
 
 ▪ ROUND 8 ▪
 
-▪ GROUP A ▪
+GROUP A
 
 14/nov/90
 
@@ -635,7 +619,7 @@ GOIÁS 0 x BAHIA 0
 SANTOS 2 x BOTAFOGO 1
 Goals Santos: Almir and Axel. Botafogo: Gílson Jáder.
 
-▪ GROUP B ▪
+GROUP B
 
 14/nov/90
 
@@ -655,7 +639,7 @@ Goal Elivélton.
 
 ▪ ROUND 9 ▪
 
-▪ GROUP A ▪
+GROUP A
 
 18/nov/90
 
@@ -670,7 +654,7 @@ Goals Vasco: Bismarck and Luciano. Santos: Sérgio Manoel and Ney.
 BAHIA 2 x ATLÉTICO-MG 0
 Goals Charles and Luís Henrique.
 
-▪ GROUP B ▪
+GROUP B
 
 18/nov/90
 
@@ -685,54 +669,17 @@ CRUZEIRO 2 x VITÓRIA 1
 Goals Cruzeiro: Édson and Dinho. Vitória: Catatau.
 
 SECOND STAGE - FINAL TABLE
-▪ GROUP A ▪
+GROUP A
 TEAM                Pts   P   W   D   L   GF   GA   DIF
-1-SANTOS            11    9   4   3   2   10    6     4     Qualified
-2-BAHIA             11    9   3   5   1    6    3     3
-3-VASCO             10    9   2   6   1   10    7     3
-4-BRAGANTINO        10    9   2   6   1    8    9    -1
-5-GOIÁS              9    9   3   3   3    8    9    -1
-6-INTERNACIONAL-RS   8    9   3   2   4   10   10     0
-7-BOTAFOGO           8    9   3   2   4   11   12    -1
-8-PORTUGUESA         8    9   2   4   3    7    6     1
-9-CORINTHIANS        8    9   2   4   3    7   10    -3
-10-ATLÉTICO-MG       7    9   1   5   3    6   11    -5
+<!-- $table3$ -->
 
-▪ GROUP B ▪
+GROUP B
 TEAM                Pts   P   W   D   L   GF   GA   DIF
-1-PALMEIRAS         15    9   6   3   0   13    6     7     Qualified
-2-SÃO PAULO         13    9   5   3   1   11    4     7
-3-FLAMENGO          12    9   5   2   2   13    6     7
-4-GRÊMIO            12    9   5   2   2   13    7     6
-5-CRUZEIRO           9    9   4   1   4   12    9     3
-6-FLUMINENSE         8    9   3   2   4    6    7    -1
-7-SÃO JOSÉ           8    9   2   4   3    4    8    -4
-8-NÁUTICO            8    9   1   6   2    5   10    -5
-9-VITÓRIA            3    9   1   1   7    9   17    -8
-10-INTERNACIONAL-SP  2    9   1   0   8    2   14   -12
+<!-- $table4$ -->
 
 FIRST PHASE - FINAL TABLE
 TEAM                Pts   P   W   D   L   GF   GA   DIF
-1-GRÊMIO            25   19   9   7   3   25   13    12     Qualified
-2-ATLÉTICO          23   19   7   9   3   19   16     3     Qualified
-3-SÃO PAULO         22   19   8   6   5   20   14     5     Qualified*
-4-CORINTHIANS       22   19   8   6   5   17   18    -1     Qualified*
-5-BAHIA             22   19   7   8   4   20   12     8     Qualified*
-6-BRAGANTINO        22   19   7   8   4   19   16     7     Qualified*
-7-SANTOS            22   19   7   8   4   19   13     6     Qualified
-8-PALMEIRAS         21   19   8   5   6   21   18     3     Qualified
-9-CRUZEIRO          21   19   8   5   6   21   18     3
-10-GOIÁS            21   19   7   7   5   22   19     3
-11-FLAMENGO         20   19   7   6   6   24   18     6
-12-BOTAFOGO         18   19   7   4   8   17   18    -1
-13-NÁUTICO          18   19   4  10   5   13   18    -5
-14-VASCO            18   19   3  12   4   15   15     0
-15-FLUMINENSE       15   19   5   5   9   19   24    -5
-16-INTERNACIONAL-RS 15   19   4   7   8   19   23    -4
-17-VITÓRIA          15   19   4   7   8   15   22    -7
-18-PORTUGUESA       15   19   3   9   7   18   22    -4
-19-SÃO JOSÉ         15   19   3   9   7   10   20   -10     Relegated
-20-INTERNACIONAL-SP 10   19   4   2  13    9   25   -16     Relegated
+<!-- $table5$ -->
 
 * - Qualified due to better first phase record.
 
@@ -805,26 +752,7 @@ Goal Tupãzinho.
 
 1990 BRAZILIAN CHAMPIONSHIP (1st LEVEL) - FINAL TABLE
 TEAM                Pts   P   W   D   L   GF   GA   DIF
-1-CORINTHIANS       32   25  12   8   5   23   20     3
-2-SÃO PAULO         27   25  10   7   8   24   18     6
-3-GRÊMIO            29   23  11   7   5   28   16    12
-4-BAHIA             26   23   8  10   5   25   17     8
-5-ATLÉTICO-MG       24   21   7  10   4   20   18     2
-6-PALMEIRAS         23   21   9   5   7   22   20     2
-7-SANTOS            23   21   7   9   5   20   15     5
-8-BRAGANTINO        23   21   7   9   5   22   20     2
-9-CRUZEIRO          21   19   8   5   6   21   18     3
-10-GOIÁS            21   19   7   7   5   22   19     3
-11-FLAMENGO         20   19   7   6   6   24   18     6
-12-BOTAFOGO         18   19   7   4   8   17   18    -1
-13-NÁUTICO          18   19   4  10   5   13   18    -5
-14-VASCO            18   19   3  12   4   15   15     0
-15-FLUMINENSE       15   19   5   5   9   19   24    -5
-16-INTERNACIONAL-RS 15   19   4   7   8   19   23    -4
-17-VITÓRIA          15   19   4   7   8   15   22    -7
-18-PORTUGUESA       15   19   3   9   7   18   22    -4
-19-SÃO JOSÉ         15   19   3   9   7   10   20   -10     Relegated
-20-INTERNACIONAL-SP 10   19   4   2  13    9   25   -16     Relegated
+<!-- $table6$ -->
 
 CAMPEONATO BRASILEIRO DE 1990
 
@@ -835,7 +763,7 @@ SEGUNDA DIVISÃO (2ND LEVEL)
 4 groups of 6.  Top 4 qualified to second phase, worst 4 teams among the
 disqualified were relegated to 3rd level.
 
-▪ GROUP A ▪
+GROUP A
 
 PARTICIPANTS
 
@@ -892,14 +820,9 @@ Coritiba          2-0      Joinville
 
 FINAL TABLE - GROUP A
 TEAM                P   Pts   W  D  L   GF-GA  DIF
-1-Criciúma         10   13    5  3  2    8- 6    2     Qualified
-2-Blumenau         10   11    3  5  2    5- 3    2     Qualified
-3-Atlético         10   11    2  7  1    7- 2    5     Qualified
-4-Juventude        10   10    3  4  3    6- 7   -1     Qualified
-5-Joinville        10    9    2  5  3    8- 8    0
-6-Coritiba         10    6    2  2  6    6-14   -8
+<!-- $table7$ -->
 
-▪ GROUP B ▪
+GROUP B
 
 PARTICIPANTS
 
@@ -956,14 +879,9 @@ Botafogo          1-0      Grêmio Maringá
 
 FINAL TABLE - GROUP B
 TEAM                P   Pts   W  D  L   GF-GA  DIF
-1-Grêmio Maringá   10   12    4  4  2    9- 6    3     Qualified
-2-XV de Novembro   10   12    4  4  2   13-12    1     Qualified
-3-Guarani          10   10    4  2  4   13-11    2     Qualified
-4-Botafogo         10   11    4  3  3   14- 6    8     Qualified
-5-Rio Branco       10    8    2  4  4    7-15   -8
-6-Anapolina        10    7    1  5  4    9-15   -6
+<!-- $table8$ -->
 
-▪ GROUP C ▪
+GROUP C
 
 PARTICIPANTS
 
@@ -1020,14 +938,9 @@ Americano         1-0      Juventus
 
 FINAL TABLE - GROUP C
 TEAM                P   Pts   W  D  L   GF-GA  DIF
-1-Catuense         10   14    5  4  1   14- 6    8     Qualified
-2-Operário         10   12    4  4  2   16- 8    8     Qualified
-3-Juventus         10   11    5  1  4    8-10   -2     Qualified
-4-Itaperuna        10   10    3  4  3   10-11   -1     Qualified
-5-Central          10    7    1  5  4    4- 8   -4
-6-Americano        10    6    2  2  6    4-13   -9
+<!-- $table9$ -->
 
-▪ GROUP D ▪
+GROUP D
 
 PARTICIPANTS
 
@@ -1084,29 +997,17 @@ Sport             2-0      Ceará
 
 FINAL TABLE - GROUP D
 TEAM                P   Pts   W  D  L   GF-GA  DIF
-1-Sport            10   12    3  6  1    9- 4    5     Qualified
-2-Moto Clube       10   12    3  6  1    8- 4    4     Qualified
-3-Remo             10   11    3  5  2    9- 6    3     Qualified
-4-Ceará            10   10    4  2  4    8- 9   -1     Qualified
-5-Santa Cruz       10   10    2  6  2    8- 9   -1
-6-Treze            10    5    1  3  6    4-14  -10
+<!-- $table10$ -->
 
 FINAL TABLE - UNQUALIFIED TEAMS
 TEAM                P   Pts   W  D  L   GF-GA  DIF
-17-Santa Cruz      10   10    2  6  2    8- 9   -1
-18-Joinville       10    9    2  5  3    8- 8    0
-19-Rio Branco      10    8    2  4  4    7-15   -8
-20-Central         10    7    1  5  4    4- 8   -4
-21-Anapolina       10    7    1  5  4    9-15   -6     Relegated
-22-Coritiba        10    6    2  2  6    6-14   -8     Relegated
-23-Americano       10    6    2  2  6    4-13   -9     Relegated
-24-Treze           10    6    1  4  5    4-12   -8     Relegated
+<!-- $table11$ -->
 
 ▪ SECOND PHASE ▪
 
 4 groups of 4 teams, top 2 qualified to third phase.
 
-▪ GROUP E ▪
+GROUP E
 
 ▪ FIRST STAGE ▪
 
@@ -1132,12 +1033,9 @@ Criciúma          2-0      XV de Novembro
 
 FINAL TABLE - GROUP E
 TEAM                P   Pts   W  D  L   GF-GA  DIF
-1-Guarani           6    8    3  2  1    6- 3    3     Qualified
-2-Criciúma          6    6    2  2  2    5- 4    1     Qualified
-3-XV de Novembro    6    5    2  1  3    5- 8   -3
-4-Blumenau          6    5    1  3  2    5- 6   -1
+<!-- $table12$ -->
 
-▪ GROUP F ▪
+GROUP F
 
 ▪ FIRST STAGE ▪
 
@@ -1163,12 +1061,9 @@ Botafogo          1-0      Atlético
 
 FINAL TABLE - GROUP F
 TEAM                P   Pts   W  D  L   GF-GA  DIF
-1-Juventude         6   10    4  2  0    6- 1    5     Qualified
-2-Atlético          6    7    3  1  2    7- 4    3     Qualified
-3-Botafogo          6    6    2  2  2    4- 3    1
-4-Grêmio Maringá    6    1    0  1  5    3-12   -9
+<!-- $table13$ -->
 
-▪ GROUP G ▪
+GROUP G
 
 ▪ FIRST STAGE ▪
 
@@ -1194,12 +1089,9 @@ Moto Clube        2-0      Ceará
 
 FINAL TABLE - GROUP G
 TEAM                P   Pts   W  D  L   GF-GA  DIF
-1-Catuense          6    7    3  1  2    6- 5    1     Qualified
-2-Moto Clube        6    6    3  0  3    4- 3    1     Qualified
-3-Juventus          6    6    3  0  3    5- 5    0
-4-Ceará             6    5    2  1  3    3- 5   -2
+<!-- $table14$ -->
 
-▪ GROUP H ▪
+GROUP H
 
 ▪ FIRST STAGE ▪
 
@@ -1225,18 +1117,15 @@ Sport             1-0      Remo
 
 FINAL TABLE - GROUP H
 TEAM                P   Pts   W  D  L   GF-GA  DIF
-1-Operário          6    8    3  2  1    6- 5    1     Qualified
-2-Sport             6    6    1  4  1    4- 4    0     Qualified
-3-Itaperuna         6    6    1  4  1    4- 4    0
-4-Remo              6    4    1  2  3    5- 6   -1
+<!-- $table15$ -->
 
 Sport won the tiebreaking draw to determine 2nd place.
 
-THIRD PHASE
+▪ THIRD PHASE ▪
 
 2 groups of 4 teams, winners were promoted to 1st level and qualified to the final.
 
-▪ GROUP I ▪
+GROUP I
 
 ▪ FIRST STAGE ▪
 
@@ -1262,12 +1151,9 @@ Guarani           1-1      Sport
 
 FINAL TABLE - GROUP I
 TEAM                P   Pts   W  D  L   GF-GA  DIF
-1-Sport             6    9    3  3  0    8- 5    3   Qualified, promoted
-2-Guarani           6    8    3  2  1   10- 3    7
-3-Juventude         6    6    2  2  2    6- 7   -1
-4-Moto Clube        6    1    0  1  5    5-14   -9
+<!-- $table16$ -->
 
-▪ GROUP J ▪
+GROUP J
 
 ▪ FIRST STAGE ▪
 
@@ -1293,10 +1179,7 @@ Criciúma          4-1      Catuense
 
 FINAL TABLE - GROUP J
 TEAM                P   Pts   W  D  L   GF-GA  DIF
-1-Atlético          6    7    2  3  1    7- 5    2   Qualified, promoted
-2-Criciúma          6    6    2  2  2   10- 5    5
-3-Operário          6    6    2  2  2    5- 9   -4
-4-Catuense          6    5    2  1  3    7-10   -3
+<!-- $table17$ -->
 
 ▪ FINALS ▪
 
@@ -1314,7 +1197,7 @@ TERCEIRA DIVISÃO (3RD LEVEL)
 
 6 groups of 5 teams, winners qualified to quarterfinals along with the two best group's runners-up.
 
-▪ GROUP A ▪
+GROUP A
 
 PARTICIPANTS
 
@@ -1337,13 +1220,9 @@ Paysandu          1-0      Maranhão
 
 FINAL TABLE - GROUP A
 TEAM                P   Pts   W  D  L   GF-GA  DIF
-1-Paysandu          4    7    3  1  0    5- 1    4   Qualified
-2-Fortaleza         4    6    2  2  0    5- 2    3   Qualified
-3-Maranhão          4    4    1  2  1    5- 3    2
-4-Tiradentes        4    3    1  1  2    4- 6   -2
-5-Nacional          4    0    0  0  4    2- 9   -7
+<!-- $table18$ -->
 
-▪ GROUP B ▪
+GROUP B
 
 PARTICIPANTS
 
@@ -1366,13 +1245,9 @@ CSA               1-2      Estudantes
 
 FINAL TABLE - GROUP B
 TEAM                P   Pts   W  D  L   GF-GA  DIF
-1-América-RN        4    7    3  1  0    7- 3    4   Qualified
-2-Estudantes        4    5    2  1  1    4- 3    1
-3-CSA               4    4    1  2  1    4- 4    0
-4-América-PE        4    2    0  2  2    0- 2   -2
-5-Campinense        4    2    0  2  2    2- 5   -3
+<!-- $table19$ -->
 
-▪ GROUP C ▪
+GROUP C
 
 PARTICIPANTS
 
@@ -1395,13 +1270,9 @@ Fluminense        1-1      Colatina
 
 FINAL TABLE - GROUP C
 TEAM                P   Pts   W  D  L   GF-GA  DIF
-1-América-MG        4    6    2  2  0    3- 0    3   Qualified
-2-Colatina          4    5    1  3  0    4- 2    2
-3-América-RJ        4    4    2  0  2    4- 5   -1
-4-Fluminense        4    3    1  1  2    3- 4   -1
-5-Lagarto           4    2    0  2  2    1- 4   -3
+<!-- $table20$ -->
 
-▪ GROUP D ▪
+GROUP D
 
 PARTICIPANTS
 
@@ -1424,13 +1295,9 @@ Vila Nova         3-1      Ubiratan
 
 FINAL TABLE - GROUP D
 TEAM                P   Pts   W  D  L   GF-GA  DIF
-1-Atlético          4    8    4  0  0   12- 3    9   Qualified
-2-Gama              4    6    3  0  1    3- 1    2   Qualified
-3-Vila Nova         4    4    2  0  2    6- 6    0
-4-União             4    2    1  0  3    2- 5   -3
-5-Ubiratan          4    0    0  0  4    2-10   -8
+<!-- $table21$ -->
 
-▪ GROUP E ▪
+GROUP E
 
 PARTICIPANTS
 
@@ -1453,16 +1320,12 @@ Bangu             0-0      Mogi-Mirim
 
 FINAL TABLE - GROUP E
 TEAM                P   Pts   W  D  L   GF-GA  DIF
-1-Bangu             4    5    1  3  0    3- 0    3   Qualified
-2-Noroeste          4    5    2  1  1    6- 5    1
-3-Esportivo         4    4    1  2  1    5- 5    0
-4-Mogi-Mirim        4    3    1  1  2    2- 3   -1
-5-Campo Grande      4    3    1  1  2    2- 5   -3
+<!-- $table22$ -->
 
 NOTE: Unsure of what tiebreaking criterion was used to place Bangu in 1st.  Either it was
 goal difference or the fact that Bangu defeated Noroeste.
 
-▪ GROUP F ▪
+GROUP F
 
 PARTICIPANTS
 
@@ -1488,11 +1351,7 @@ Ponte Preta       0-0      Paraná
 
 FINAL TABLE - GROUP F
 TEAM                P   Pts   W  D  L   GF-GA  DIF
-1-Paraná            4    7    3  1  0    8- 1   7   Qualified
-2-Caxias            4    4    2  0  2    5- 7  -2
-3-Ponte Preta       4    4    1  2  1    3- 3   0
-4-União Bandeirante 4    3    1  1  2    3- 5  -2
-5-América           4    2    1  0  3    1- 4  -3
+<!-- $table23$ -->
 
 ▪ SECOND PHASE ▪
 
@@ -1522,7 +1381,7 @@ AGAIN EXTINGUISH THE THIRD LEVEL AND INCREASE THE NUMBER OF PARTICIPANTS
 IN THE SECOND LEVEL (FROM 24 TO 64)
 
 
-II COPA DO BRASIL  (BRAZIL'S CUP)
+II COPA DO BRASIL   (BRAZIL'S CUP)
 
 PARTICIPANTS
 
@@ -1589,7 +1448,7 @@ PARTICIPANTS
 11/07 - 10/08 Santa Cruz        0-0 0-1    Remo
 10/07 - 15/07 Ceará             0-0 0-3    Náutico
 
-THIRD PHASE
+▪ THIRD PHASE ▪
 
 22/07 - 29/07 Goiás             4-3 0-0    Atlético-MG
 22/08 - 05/09 Criciúma          2-0 0-1    São Paulo
@@ -1618,10 +1477,4 @@ CR Flamengo were the 1990 Copa do Brasil champions
 
 
 
-
-
-
-
-
-<!-- $about$ -->
 
