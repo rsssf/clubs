@@ -6,6 +6,7 @@ Germany (Deutschland)
 
 | Season | League, Cup | Errors |
 | :----- | :---------- | -----: |
+| 2024-25 | [1-bundesliga.txt](2024-25/1-bundesliga.txt) |  OK  |
 | 2023-24 | [1-bundesliga.txt](2023-24/1-bundesliga.txt) |  OK  |
 | 2022-23 | [1-bundesliga.txt](2022-23/1-bundesliga.txt) |  OK  |
 | 2021-22 | [1-bundesliga.txt](2021-22/1-bundesliga.txt) |  OK  |
