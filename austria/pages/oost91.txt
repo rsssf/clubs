@@ -11,7 +11,8 @@
 Fall season
 ===========
 
-1.Bundesliga
+== 1.Bundesliga
+
 ------------
 
 <!-- $table1$ - Table -->
@@ -358,7 +359,8 @@ Austria Salzburg 1-2 Tirol
 Fall season
 ===========
 
-2. Bundesliga
+== 2. Bundesliga
+
 
 <!-- $table5$ -->
 

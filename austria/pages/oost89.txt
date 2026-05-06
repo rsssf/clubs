@@ -11,7 +11,8 @@
 Fall season
 ===========
 
-1.Bundesliga
+== 1.Bundesliga
+
 ------------
 
 <!-- $table1$ - Table -->
@@ -373,7 +374,8 @@ Vienna        5-0 Sportclub
 Fall season
 ============
 
-2.Bundesliga
+== 2.Bundesliga
+
 ------------
 <!-- $table5$ -->
 

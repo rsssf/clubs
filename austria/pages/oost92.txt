@@ -11,7 +11,8 @@
 Fall Season
 ===========
 
-1.Bundesliga
+== 1.Bundesliga
+
 ------------
 
 <!-- $table1$ - Table -->
@@ -359,7 +360,8 @@ Linz             2-2 Admira/Wacker
 Fall season
 ===========
 
-2.Bundesliga
+== 2.Bundesliga
+
 ------------
 
 <!-- $table5$ -->

@@ -8,7 +8,8 @@
 
 
 
-1.Bundesliga
+== 1.Bundesliga
+
 
 <!-- $table1$ - Table -->
 
@@ -487,7 +488,8 @@ Admira/Wacker    5-1 Vorwärts
  went out of existence.  They later retracted that threat.]
 
 
-Austria, ÖFB ("Magnofit") Cup 1996/97
+== Austria, ÖFB ("Magnofit") Cup 1996/97
+
 
 With thanks to Andreas Exenberger.
 
@@ -715,9 +717,8 @@ Vienna: H.Weber - Blizenec - Ch.Jank,
  Lang - Radovic, Strasser (70' Cestnik)
 
 
-Austria 1996/97
+== 2.Bundesliga
 
-2.Bundesliga
 
 <!-- $table3$ - Table -->
 
@@ -1056,9 +1057,8 @@ the Regionalliga Ost (3rd level) in 1997/98.
 
 
 
-Austria 1996/97
+== Regionalliga (Third Level)
 
-Regionalliga's (Third Level)
 
 Regionalliga Ost
 
@@ -1927,7 +1927,8 @@ Lustenau          2-2 Tirol
 
 
 
-Landesliga's (Fourth Level)
+== Landesliga's (Fourth Level)
+
 
 Feeders for Regionalliga Ost
 ----------------------------
@@ -2223,7 +2224,8 @@ Note: SC Austria Lustenau (Amateure) may also be added in 1997/98.
 
 
 
-Fifth Level and Lower.
+== Fifth Level and Lower.
+
 
 All Länder except for Niederösterreich available.
 

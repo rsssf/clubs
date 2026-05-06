@@ -11,7 +11,8 @@
 Fall season
 ===========
 
-1.Bundesliga
+== 1.Bundesliga
+
 ------------
 
 <!-- $table1$ -->
@@ -363,7 +364,8 @@ Sportclub     1-1 Vorwärts
 Fall season
 ===========
 
-2.Bundesliga
+== 2.Bundesliga
+
 ------------
 
 <!-- $table5$ -->

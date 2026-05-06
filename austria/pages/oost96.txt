@@ -8,7 +8,8 @@
 
 
 
-1.Bundesliga
+== 1.Bundesliga
+
 
 <!-- $table1$ - Table -->
 
@@ -344,7 +345,8 @@ Admira/Wacker remains in first division.
 
 
 
-Austria, OeFB ("Magnofit") Cup 1995/96
+== Austria, OeFB ("Magnofit") Cup 1995/96
+
 
 Round 1 (Aug 2 - Aug 22)
 -------
@@ -504,7 +506,8 @@ Referee: Plautz, att: 8800.
 
 
 
-2.Bundesliga
+== 2.Bundesliga
+
 
 <!-- $table3$ - Table -->
 
@@ -828,7 +831,8 @@ Gerasdorf        0-6 Admira/Wacker
 Gerasdorf remains in second division.
 
 
-Austria 1995/96 Third Level (Regionalligen)
+== Austria 1995/96 Third Level (Regionalligen)
+
 
 Regionalliga Ost
 
@@ -934,7 +938,8 @@ FC Tirol (Amateure), FC Hard, VfB Hohenems, FC Lustenau, SCR Altach,
 FC Lauterach.
 
 
-Austria 1995/96 Fourth Level (Landesligen; Feeder Leagues of Regionalligen)
+== Austria 1995/96 Fourth Level (Landesligen; Feeder Leagues of Regionalligen)
+
 
 
 Feeders for Regionalliga Ost

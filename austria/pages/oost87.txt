@@ -12,7 +12,8 @@
 Fall season
 ===========
 
-1.Bundesliga
+== 1.Bundesliga
+
 ------------
 
 <!-- $table1$ - Table -->
@@ -358,7 +359,8 @@ VOEST            1-1 Admira/Wacker
 Fall season
 ===========
 
-2.Bundesliga
+== 2.Bundesliga
+
 ------------
 
 <!-- $table5$ -->

@@ -316,7 +316,10 @@ Innsbruck     3-2 LASK
 
 
 
-<!-- $table3$ - Nationalliga -->
+== Nationalliga
+
+
+<!-- $table3$ -->
 
 FC Vorarlberg, a Spielgemeinschaft of Rätia Bludenz and Vorwerk
 Bregenz (a temporary name for Schwarz-Weiß Bregenz) is dissolved
