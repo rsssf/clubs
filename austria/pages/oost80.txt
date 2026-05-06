@@ -8,7 +8,8 @@
 
 
 
-1.Division
+== 1.Division
+
 
 <!-- $table1$ - Final Table -->
 
@@ -344,7 +345,8 @@ Sportclub/Post was renamed to Wr. Sport-Club at the end of the season
 <!-- $topscorers1$ -->
 
 
-2.Division
+== 2.Division
+
 
 <!-- $table3$ -->
 

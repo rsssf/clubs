@@ -8,7 +8,8 @@
 
 
 
-First Level (Bundesliga)
+== First Level (Bundesliga)
+
 
 <!-- $table1$ - Final Table -->
 
@@ -365,7 +366,8 @@ Ried             3-2 Sturm
 
 
 
-ÖFB-Stiegl-Cup 2008/09
+== ÖFB-Stiegl-Cup 2008/09
+
 
 ▪ Preliminary Round ▪
 _ Jul 18 _
@@ -496,7 +498,8 @@ FK Austria Wien           3-1 FC Admira                (aet)
 
 
 
-Second Level (1. Liga)
+== Second Level (1. Liga)
+
 
 <!-- $table3$ - Final Table -->
 
@@ -826,7 +829,8 @@ FC Lustenau      0-2 Magna
 [*] SC Schwanenstadt sold their license to FC Magna for 2008/09
 
 
-Third Level 2008/09
+== Third Level 2008/09
+
 
 Regionalliga West
 

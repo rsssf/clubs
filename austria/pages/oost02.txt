@@ -8,7 +8,8 @@
 
 
 
-First Level (Bundesliga)
+== First Level (Bundesliga)
+
 
 <!-- $table1$ - Final Table -->
 
@@ -534,7 +535,8 @@ Tirol            3-1 Kärnten
 
 
 
-Austria Cup (ÖFB Cup) 2001/02
+== Austria Cup (ÖFB Cup) 2001/02
+
 
 
 ▪ Round 1 ▪
@@ -632,7 +634,8 @@ NB: SK Sturm (league runners-up) replaced champions FC Tirol Innsbruck
     who were refused a professional license for 2002/03
 
 
-Austria 2001/02 Second Level (1.Division)
+== Austria 2001/02 Second Level (1.Division)
+
 
 
 <!-- $table3$ - Final Table -->
@@ -1144,7 +1147,8 @@ NB: due to the refusal of a professional license to FC Tirol for 2002/03,
     outcome of their playoff matches, and Wiener Sportclub will be promoted.
 
 
-Third Level (Regionalligen)
+== Third Level (Regionalligen)
+
 
 REGIONALLIGA OST
 
@@ -2346,7 +2350,8 @@ Promoted to 1.Divison: Kapfenberger SV, Wiener Sportclub (due to license
                        refusal to FC Tirol Innsbruck)
 
 
-Fourth Level (Landesligen)
+== Fourth Level (Landesligen)
+
 
 NB: only Tirol.
 
@@ -2857,7 +2862,8 @@ SV Reichenau - WSG Wattens ................. 2-1
 
 
 
-Fifth and Lower Levels (only Tirol)
+== Fifth and Lower Levels (only Tirol)
+
 
 
 FIFTH LEVEL

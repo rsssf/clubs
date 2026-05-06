@@ -8,7 +8,8 @@
 
 
 
-1.Division
+== 1.Division
+
 
 <!-- $table1$ - Final Table -->
 
@@ -335,7 +336,8 @@ Spielgemeinschaft between FK Austria and WAC dissolved at end of te season
 <!-- $topscorers1$ -->
 
 
-2.Division
+== 2.Division
+
 
 <!-- $table3$ -->
 

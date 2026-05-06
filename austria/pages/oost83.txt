@@ -8,7 +8,8 @@
 
 
 
-1.Division
+== 1.Division
+
 ----------
 
 <!-- $table1$ - Table -->
@@ -387,7 +388,8 @@ Sportclub     2-2 Sturm
 <!-- $topscorers1$ -->
 
 
-2.Division
+== 2.Division
+
 
 <!-- $table3$ -->
 

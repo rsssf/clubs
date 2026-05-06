@@ -9,7 +9,8 @@
 
 
 
-1.Division
+== 1.Division
+
 ----------
 
 <!-- $table1$ - Table -->
@@ -395,7 +396,8 @@ DSV Alpine 2-0 1-1 SV Sankt Veit
 <!-- $topscorers1$ -->
 
 
-2.Division
+== 2.Division
+
 
 <!-- $table3$ -->
 

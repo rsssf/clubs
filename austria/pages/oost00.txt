@@ -519,7 +519,8 @@ Ried             1-1 Sturm
 
 
 
-Austria Cup (ÖFB Cup) 1999/2000
+== Austria Cup (ÖFB Cup) 1999/2000
+
 
 ▪ Round 1 ▪
 _ Jul 30-Aug 1 _
@@ -667,7 +668,8 @@ Salzburg: Safar - Szewczyk (97./Lipcsei) - Winklhofer, C.Jank - Laessig,
           Polster (56./Sabitzer)
 
 
-Second Level (1. Division)
+== Second Level (1. Division)
+
 
 <!-- $table3$ - Final Table -->
 
@@ -1004,7 +1006,8 @@ NB: Austria Klagenfurt/VSV changed name to FC Kärnten.
 Promoted: BSV Bad Bleiberg and SV Mattersburg
 
 
-Third Level (Regionalliga)
+== Third Level (Regionalliga)
+
 
 Regionalliga Ost
 
@@ -1533,7 +1536,8 @@ SV Mattersburg  5-0     FC Lustenau
 SV Mattersburg promoted, FC Lustenau remain in Regionalliga
 
 
-Fourth Level
+== Fourth Level
+
 
 Landesliga Burgenland
 
@@ -3004,7 +3008,8 @@ Donaufeld   3-4   Ostbahn XI
 <!-- $table16$ - Final Table -->
 
 
-Fifth and Lower Levels (partial)
+== Fifth and Lower Levels (partial)
+
 
 (Currently only for Oberösterreich, Tirol and Vorarlberg)
 

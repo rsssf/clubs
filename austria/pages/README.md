@@ -22,23 +22,23 @@ football.db RSSSF Archive Data Summary for Austria (Österreich)
 | [oost2012.txt](oost2012.txt) | **Austria 2011/12** <br> == Bundesliga <br> == ÖFB Cup <br> == 1. Liga (Second Level) <br> == Promotion/Relegation 2nd/3rd level <br> == SFV (Salzburg) Cup 2011/12 <br> == Woche Steirer Cup 2011/12| <span title="by Hans Schöggl, Jan Schoenmakers and Karel Stokkermans">7 Mar 2023</span> | 298 (10848) |
 | [oost2011.txt](oost2011.txt) | **Austria 2010/11** <br> == Bundesliga <br> == ÖFB Cup <br> == 1. Liga (Second Level) <br> == Promotion/Relegation 2nd/3rd level <br> == SFV (Salzburg) Cup 2010/11 <br> == Woche Steirer Cup 2010/11| <span title="by Hans Schöggl, Jan Schoenmakers and Karel Stokkermans">7 Mar 2023</span> | 311 (11003) |
 | [oost2010.txt](oost2010.txt) | **Austria 2009/10** <br> == Bundesliga <br> == ÖFB Cup <br> == 1. Liga (Second Level) <br> == Promotion/Relegation 2nd/3rd level <br> == Regionalliga <br> === Regionalliga West <br> === Regionalliga Mitte <br> === Regionalliga Ost <br> == SFV (Salzburg) Cup 2009/10 <br> == Woche Steirer Cup 2009/10| <span title="by Andreas Exenberger, Hans Schöggl and Karel Stokkermans">7 Mar 2023</span> | 903 (19737) |
-| [oost09.txt](oost09.txt) | **Austria 2008/09** | <span title="by Andreas Exenberger, Hans Schöggl and Karel Stokkermans">15 Jul 2022</span> | 925 (22145) |
-| [oost08.txt](oost08.txt) | **Austria 2007/08** | <span title="by Andreas Exenberger, Hans Schöggl and Karel Stokkermans">15 Jun 2022</span> | 868 (20495) |
-| [oost07.txt](oost07.txt) | **Austria 2006/07** | <span title="by Andreas Exenberger, Hans Schöggl and Karel Stokkermans">15 Jun 2022</span> | 992 (26447) |
-| [oost06.txt](oost06.txt) | **Austria 2005/06** | <span title="by Andreas Exenberger, Hans Schöggl and Karel Stokkermans">15 Jun 2022</span> | 1153 (31276) |
-| [oost05.txt](oost05.txt) | **Austria 2004/05** | <span title="by Andreas Exenberger, Hans Schöggl and Karel Stokkermans">15 Jun 2022</span> | 1357 (37696) |
-| [oost04.txt](oost04.txt) | **Austria 2003/04** | <span title="by Andreas Exenberger and Karel Stokkermans">15 Jun 2022</span> | 1538 (44587) |
-| [oost03.txt](oost03.txt) | **Austria 2002/03** | <span title="by Andreas Exenberger and Karel Stokkermans">15 Jun 2022</span> | 1383 (36278) |
-| [oost02.txt](oost02.txt) | **Austria 2001/02** | <span title="by Andreas Exenberger and Karel Stokkermans">15 Jun 2022</span> | 2926 (75855) |
-| [oost01.txt](oost01.txt) | **Austria 2000/01** | <span title="by Karel Stokkermans, Gerhard Öhlinger and Andreas Exenberger">15 Jun 2022</span> | 5302 (129093) |
-| [oost00.txt](oost00.txt) | **Austria 1999/2000** | <span title="by Andreas Exenberger, Karel Stokkermans and Gerhard Öhlinger">15 Jun 2022</span> | 3344 (87795) |
-| [oost99.txt](oost99.txt) | **Austria 1998/99** | <span title="by RSSSF">15 Jun 2022</span> | 1643 (41786) |
+| [oost09.txt](oost09.txt) | **Austria 2008/09** <br> == First Level (Bundesliga) <br> == ÖFB-Stiegl-Cup 2008/09 <br> == Second Level (1. Liga) <br> == Third Level 2008/09| <span title="by Andreas Exenberger, Hans Schöggl and Karel Stokkermans">15 Jul 2022</span> | 929 (22161) |
+| [oost08.txt](oost08.txt) | **Austria 2007/08** <br> == First Level (Bundesliga) <br> == Second Level (1. Liga) <br> == Third Level (Regionalliga)| <span title="by Andreas Exenberger, Hans Schöggl and Karel Stokkermans">15 Jun 2022</span> | 871 (20507) |
+| [oost07.txt](oost07.txt) | **Austria 2006/07** <br> == First Level (Bundesliga) <br> == ÖFB-Stiegl-Cup 2006/07 <br> == Second Level (1. Liga) <br> == Third Level (Regionalliga)| <span title="by Andreas Exenberger, Hans Schöggl and Karel Stokkermans">15 Jun 2022</span> | 996 (26463) |
+| [oost06.txt](oost06.txt) | **Austria 2005/06** <br> == First Level (Bundesliga) <br> == ÖFB-Stiegl-Cup 2005/06 <br> == Third Level 2005/06| <span title="by Andreas Exenberger, Hans Schöggl and Karel Stokkermans">15 Jun 2022</span> | 1156 (31288) |
+| [oost05.txt](oost05.txt) | **Austria 2004/05** <br> == First Level (Bundesliga) <br> == ÖFB-Stiegl-Cup 2004/05 <br> == Second Level (Red Zac Erste Liga) 2004/05 <br> == Third Level (Regionalligen) 2004/05 <br> == Fourth Level 2004/05 (Landesligen)| <span title="by Andreas Exenberger, Hans Schöggl and Karel Stokkermans">15 Jun 2022</span> | 1362 (37716) |
+| [oost04.txt](oost04.txt) | **Austria 2003/04** <br> == First Level (Bundesliga) <br> == Second Level (1. Liga) <br> == Third Level 2003/04| <span title="by Andreas Exenberger and Karel Stokkermans">15 Jun 2022</span> | 1541 (44599) |
+| [oost03.txt](oost03.txt) | **Austria 2002/03** <br> == First Level (Bundesliga) <br> == Austria Cup (ÖFB Cup) 2002/03 <br> == Fourth Level| <span title="by Andreas Exenberger and Karel Stokkermans">15 Jun 2022</span> | 1386 (36290) |
+| [oost02.txt](oost02.txt) | **Austria 2001/02** <br> == First Level (Bundesliga) <br> == Austria Cup (ÖFB Cup) 2001/02 <br> == Austria 2001/02 Second Level (1.Division) <br> == Third Level (Regionalligen) <br> == Fourth Level (Landesligen) <br> == Fifth and Lower Levels (only Tirol)| <span title="by Andreas Exenberger and Karel Stokkermans">15 Jun 2022</span> | 2932 (75879) |
+| [oost01.txt](oost01.txt) | **Austria 2000/01** <br> == First Level (Bundesliga) <br> == Austria Cup (ÖFB Cup) 2000/01 <br> == Austria 2000/01 Second Level (1. Division)| <span title="by Karel Stokkermans, Gerhard Öhlinger and Andreas Exenberger">15 Jun 2022</span> | 5305 (129105) |
+| [oost00.txt](oost00.txt) | **Austria 1999/2000** <br> == Austria Cup (ÖFB Cup) 1999/2000 <br> == Second Level (1. Division) <br> == Third Level (Regionalliga) <br> == Fourth Level <br> == Fifth and Lower Levels (partial)| <span title="by Andreas Exenberger, Karel Stokkermans and Gerhard Öhlinger">15 Jun 2022</span> | 3349 (87815) |
+| [oost99.txt](oost99.txt) | **Austria 1998/99** <br> == Bundesliga <br> == Fourth Level| <span title="by RSSSF">15 Jun 2022</span> | 1645 (41794) |
 | [oost98.txt](oost98.txt) | **Austria 1997/98** | <span title="by RSSSF">15 Jun 2022</span> | 1395 (45681) |
 | [oost97.txt](oost97.txt) | **Austria 1996/97** | <span title="by RSSSF">15 Jun 2022</span> | 3034 (86172) |
 | [oost96.txt](oost96.txt) | **Austria 1995/96** | <span title="by Ambrosius Kutschera and Karel Stokkermans">31 Oct 2004</span> | 1518 (43868) |
-| [oost95.txt](oost95.txt) | **Austria 1994/95** | <span title="by Ambrosius Kutschera and Karel Stokkermans">31 Oct 2004</span> | 719 (17427) |
-| [oost94.txt](oost94.txt) | **Austria 1993/94** | <span title="by Ambrosius Kutschera and Karel Stokkermans">31 Oct 2004</span> | 557 (12222) |
-| [oost93.txt](oost93.txt) | **Austria 1992/93** | <span title="by Ambrosius Kutschera and Karel Stokkermans">31 Oct 2004</span> | 666 (17348) |
+| [oost95.txt](oost95.txt) | **Austria 1994/95** <br> == Zehnerliga <br> == Austria "Snickers" Cup 1994/95 <br> == 2. Bundesliga 1994/95 <br> == Feeder Leagues for 2. Liga: <br> == Lower Levels (only available for Tirol)| <span title="by Ambrosius Kutschera and Karel Stokkermans">31 Oct 2004</span> | 724 (17447) |
+| [oost94.txt](oost94.txt) | **Austria 1993/94** <br> == Zehnerliga <br> == Feeder Leagues for 2. Liga:| <span title="by Ambrosius Kutschera and Karel Stokkermans">31 Oct 2004</span> | 559 (12230) |
+| [oost93.txt](oost93.txt) | **Austria 1992/93** <br> == Third Level 1992/93| <span title="by Ambrosius Kutschera and Karel Stokkermans">31 Oct 2004</span> | 667 (17352) |
 | [oost92.txt](oost92.txt) | **Austria 1991/92** | <span title="by Ambrosius Kutschera">16 Apr 2003</span> | 406 (7940) |
 | [oost91.txt](oost91.txt) | **Austria 1990/91** | <span title="by Ambrosius Kutschera">18 May 2003</span> | 404 (7881) |
 | [oost90.txt](oost90.txt) | **Austria 1989/90** | <span title="by Ambrosius Kutschera">5 Jul 2003</span> | 398 (7701) |
@@ -46,16 +46,16 @@ football.db RSSSF Archive Data Summary for Austria (Österreich)
 | [oost88.txt](oost88.txt) | **Austria 1987/88** | <span title="by Ambrosius Kutschera">31 Aug 2003</span> | 406 (7501) |
 | [oost87.txt](oost87.txt) | **Austria 1986/87** | <span title="by Ambrosius Kutschera">31 Aug 2003</span> | 401 (7640) |
 | [oost86.txt](oost86.txt) | **Austria 1985/86** | <span title="by Ambrosius Kutschera">31 Aug 2003</span> | 393 (7558) |
-| [oost85.txt](oost85.txt) | **Austria 1984/85** | <span title="by Ambrosius Kutschera">14 Nov 2003</span> | 431 (9175) |
-| [oost84.txt](oost84.txt) | **Austria 1983/84** | <span title="by Ambrosius Kutschera">14 Nov 2003</span> | 426 (9129) |
-| [oost83.txt](oost83.txt) | **Austria 1982/83** | <span title="by Ambrosius Kutschera">10 Oct 2004</span> | 414 (8470) |
-| [oost82.txt](oost82.txt) | **Austria 1981/82** | <span title="by Ambrosius Kutschera">10 Oct 2004</span> | 359 (6966) |
-| [oost81.txt](oost81.txt) | **Austria 1980/81** | <span title="by Ambrosius Kutschera">10 Oct 2004</span> | 342 (6848) |
-| [oost80.txt](oost80.txt) | **Austria 1979/80** | <span title="by Ambrosius Kutschera">10 Oct 2004</span> | 371 (7100) |
-| [oost79.txt](oost79.txt) | **Austria 1978/79** | <span title="by Ambrosius Kutschera">26 Mar 2005</span> | 373 (7311) |
-| [oost78.txt](oost78.txt) | **Austria 1977/78** | <span title="by Ambrosius Kutschera">23 Apr 2009</span> | 371 (6757) |
-| [oost77.txt](oost77.txt) | **Austria 1976/77** | <span title="by Ambrosius Kutschera">10 Oct 2004</span> | 362 (6863) |
-| [oost76.txt](oost76.txt) | **Austria 1975/76** | <span title="by Ambrosius Kutschera">12 Jul 2005</span> | 360 (7097) |
-| [oost75.txt](oost75.txt) | **Austria 1974/75** | <span title="by Ambrosius Kutschera">12 Jul 2005</span> | 348 (7432) |
+| [oost85.txt](oost85.txt) | **Austria 1984/85** <br> == 1.Division <br> == 2.Division| <span title="by Ambrosius Kutschera">14 Nov 2003</span> | 433 (9183) |
+| [oost84.txt](oost84.txt) | **Austria 1983/84** <br> == 1.Division <br> == 2.Division| <span title="by Ambrosius Kutschera">14 Nov 2003</span> | 428 (9137) |
+| [oost83.txt](oost83.txt) | **Austria 1982/83** <br> == 1.Division <br> == 2.Division| <span title="by Ambrosius Kutschera">10 Oct 2004</span> | 416 (8478) |
+| [oost82.txt](oost82.txt) | **Austria 1981/82** <br> == 1.Division <br> == 2.Division| <span title="by Ambrosius Kutschera">10 Oct 2004</span> | 361 (6974) |
+| [oost81.txt](oost81.txt) | **Austria 1980/81** <br> == 1.Division <br> == 2.Division| <span title="by Ambrosius Kutschera">10 Oct 2004</span> | 344 (6856) |
+| [oost80.txt](oost80.txt) | **Austria 1979/80** <br> == 1.Division <br> == 2.Division| <span title="by Ambrosius Kutschera">10 Oct 2004</span> | 373 (7108) |
+| [oost79.txt](oost79.txt) | **Austria 1978/79** <br> == 1.Division <br> == 2.Division| <span title="by Ambrosius Kutschera">26 Mar 2005</span> | 375 (7319) |
+| [oost78.txt](oost78.txt) | **Austria 1977/78** <br> == 1.Division <br> == 2.Division| <span title="by Ambrosius Kutschera">23 Apr 2009</span> | 373 (6765) |
+| [oost77.txt](oost77.txt) | **Austria 1976/77** <br> == 1.Division <br> == 2.Division| <span title="by Ambrosius Kutschera">10 Oct 2004</span> | 364 (6871) |
+| [oost76.txt](oost76.txt) | **Austria 1975/76** <br> == 1.Division <br> == 2.Division| <span title="by Ambrosius Kutschera">12 Jul 2005</span> | 362 (7105) |
+| [oost75.txt](oost75.txt) | **Austria 1974/75** <br> == Bundesliga| <span title="by Ambrosius Kutschera">12 Jul 2005</span> | 349 (7436) |
 
 

@@ -8,7 +8,8 @@
 
 
 
-First Level (Bundesliga)
+== First Level (Bundesliga)
+
 
 <!-- $table1$ - Final Table -->
 
@@ -695,7 +696,8 @@ Grazer AK         1-1 Austria Wien             (2-4 pen)
 
 
 
-Second Level (1. Liga)
+== Second Level (1. Liga)
+
 
 <!-- $table3$ - Final Table -->
 
@@ -1205,7 +1207,8 @@ FC Gratkorn and SC Rheindorf Altach promoted, FC Lustenau relegated
 
 
 
-Third Level 2003/04
+== Third Level 2003/04
+
 
 Regionalliga West
 (Teams from Vorarlberg, Tirol and Salzburg)

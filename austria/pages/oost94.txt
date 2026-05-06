@@ -8,7 +8,8 @@
 
 
 
-Zehnerliga
+== Zehnerliga
+
 
 <!-- $table1$ - Table -->
 
@@ -361,7 +362,8 @@ WSC's homeground in Dornbach).
 
 
 
-Feeder Leagues for 2. Liga:
+== Feeder Leagues for 2. Liga:
+
 --------------------------
 
 <!-- $table4$ - Regionalliga Ost -->

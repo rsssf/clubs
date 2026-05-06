@@ -8,7 +8,8 @@
 
 
 
-First Level (Bundesliga)
+== First Level (Bundesliga)
+
 
 <!-- $table1$ - Final Table -->
 
@@ -532,7 +533,8 @@ Austria W        0-2 Tirol
 
 
 
-Austria Cup (ÖFB Cup) 2000/01
+== Austria Cup (ÖFB Cup) 2000/01
+
 
 ▪ Round 1 ▪
 _ Aug 1 _
@@ -697,7 +699,8 @@ Tirol             0-0 Kärnten               (aet, 9-10 pen)
 
 
 
-Austria 2000/01 Second Level (1. Division)
+== Austria 2000/01 Second Level (1. Division)
+
 
 <!-- $table3$ - Final Table -->
 

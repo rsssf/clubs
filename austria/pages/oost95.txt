@@ -8,7 +8,8 @@
 
 
 
-Zehnerliga
+== Zehnerliga
+
 
 <!-- $table1$ - Table -->
 
@@ -345,7 +346,8 @@ Ried 1-0 Linz
 Ried promoted, Linz relegated
 
 
-Austria "Snickers" Cup 1994/95
+== Austria "Snickers" Cup 1994/95
+
 ------------------------------
 
 Round 1 (Jul 27-Aug 16)
@@ -525,7 +527,8 @@ SK Rapid               1-0 DSV Leoben
 Guggi 19'
 
 
-2. Bundesliga 1994/95
+== 2. Bundesliga 1994/95
+
 
 <!-- $table3$ - Table -->
 
@@ -542,7 +545,8 @@ in 1995/96.
 
 
 
-Feeder Leagues for 2. Liga:
+== Feeder Leagues for 2. Liga:
+
 --------------------------
 
 <!-- $table4$ - Regionalliga Ost -->
@@ -639,7 +643,8 @@ Down from the Westliga: FC Hard, SW Bregenz, RW Rankweil.
 Promoted to Vorarlberger Liga: FC Lustenau, FC Lauterach.
 
 
-Lower Levels (only available for Tirol)
+== Lower Levels (only available for Tirol)
+
 
 Thanks to Andreas Exenberger.
 

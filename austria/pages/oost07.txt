@@ -8,7 +8,8 @@
 
 
 
-First Level (Bundesliga)
+== First Level (Bundesliga)
+
 
 <!-- $table1$ - Final Table -->
 
@@ -533,7 +534,8 @@ NB: Sturm 3 points deducted for irregularities in license application
 
 
 
-ÖFB-Stiegl-Cup 2006/07
+== ÖFB-Stiegl-Cup 2006/07
+
 
 ▪ Preliminary Round ▪
 _ Jul 28 _
@@ -658,7 +660,8 @@ FK Austria Wien     2-1 SV Mattersburg
 
 
 
-Second Level (1. Liga)
+== Second Level (1. Liga)
+
 
 <!-- $table3$ - Final Table -->
 
@@ -951,7 +954,8 @@ RB Salzburg Amateure (RL West)
 
 
 
-Third Level (Regionalliga)
+== Third Level (Regionalliga)
+
 
 Regionalliga Ost
 

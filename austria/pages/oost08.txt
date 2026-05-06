@@ -8,7 +8,8 @@
 
 
 
-First Level (Bundesliga)
+== First Level (Bundesliga)
+
 
 <!-- $table1$ - Final Table -->
 
@@ -360,7 +361,8 @@ Sturm            3-1 Austria K
 
 
 
-Second Level (1. Liga)
+== Second Level (1. Liga)
+
 
 <!-- $table3$ - Final Table -->
 
@@ -700,7 +702,8 @@ DSV              1-1 FC Lustenau
 
 
 
-Third Level (Regionalliga)
+== Third Level (Regionalliga)
+
 
 Regionalliga Ost
 

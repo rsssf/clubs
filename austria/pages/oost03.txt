@@ -8,7 +8,8 @@
 
 
 
-First Level (Bundesliga)
+== First Level (Bundesliga)
+
 
 <!-- $table1$ - Final Table -->
 
@@ -512,7 +513,8 @@ NB: champions FC Tirol Innsbruck were refused a professional license
 
 
 
-Austria Cup (ÖFB Cup) 2002/03
+== Austria Cup (ÖFB Cup) 2002/03
+
 
 ▪ Round 1 ▪
 _ Aug 27 _
@@ -1170,7 +1172,8 @@ Blau-Weiß Linz and SVS Schwechat not promoted.
  Promoted: Admira/Wacker Mödling Amateure, Fortuna 05, SC/ESV Parndorf
 
 
-Fourth Level
+== Fourth Level
+
 
 FEEDERS OF REGIONALLIGA WEST
 

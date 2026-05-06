@@ -8,7 +8,8 @@
 
 
 
-First Level (Bundesliga)
+== First Level (Bundesliga)
+
 
 <!-- $table1$ - Final Table -->
 
@@ -511,7 +512,8 @@ NB: VfB Admira/Wacker Mödling were originally refused a license for the
 
 
 
-ÖFB-Stiegl-Cup 2005/06
+== ÖFB-Stiegl-Cup 2005/06
+
 
 ▪ Preliminary Round ▪
 _ Jul 26 _
@@ -1095,7 +1097,8 @@ Kärnten          2-4 Kapfenberg
 
 
 
-Third Level 2005/06
+== Third Level 2005/06
+
 
 Regionalliga West
 

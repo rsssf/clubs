@@ -8,7 +8,8 @@
 
 
 
-First Level (Bundesliga)
+== First Level (Bundesliga)
+
 
 <!-- $table1$ - Final Table -->
 
@@ -528,7 +529,8 @@ NB: although Kollmann's 2 goals against Austria Wien on May 5
     overall
 
 
-ÖFB-Stiegl-Cup 2004/05
+== ÖFB-Stiegl-Cup 2004/05
+
 
 ▪ Round 1 ▪
 _ Sep 14 _
@@ -624,7 +626,8 @@ Austria           3-1 Rapid
   (Mila 20, Vastic 55, Sionko 65; Burgstaller 5)
 
 
-Second Level (Red Zac Erste Liga) 2004/05
+== Second Level (Red Zac Erste Liga) 2004/05
+
 
 
 <!-- $table3$ - Final Table -->
@@ -1078,7 +1081,8 @@ Promoted: Austria Wien Amateure, SC Schwanenstadt, FC Kufstein
 
 
 
-Third Level (Regionalligen) 2004/05
+== Third Level (Regionalligen) 2004/05
+
 
 
 Final Tables:
@@ -1114,7 +1118,8 @@ NB: Schwarz-Weiß Bregenz (relegated from first level and refused
     license for 2nd level) will play at the fifth level 2005/06
 
 
-Fourth Level 2004/05 (Landesligen)
+== Fourth Level 2004/05 (Landesligen)
+
 
 <!-- $table8$ - Vorarlberg-Liga -->
 

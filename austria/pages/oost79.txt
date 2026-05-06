@@ -8,7 +8,8 @@
 
 
 
-1.Division
+== 1.Division
+
 
 <!-- $table1$ - Final Table -->
 
@@ -341,7 +342,8 @@ Innsbruck     1-3 Admira/Wacker
 <!-- $topscorers1$ -->
 
 
-2.Division
+== 2.Division
+
 
 <!-- $table3$ -->
 
