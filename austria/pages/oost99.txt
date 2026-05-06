@@ -516,7 +516,8 @@ Sturm            3-0 Tirol
 
 
 
-Austria ÖFB Cup 1998/99
+== Austria ÖFB Cup 1998/99
+
 
 ▪ Round 1 ▪
 Puch             2-3 Austria Salzburg Am.
@@ -664,7 +665,8 @@ Sturm Graz       1-1 LASK Linz             (aet, 5-4 pen)
   [Vastic 60' Udovic 25'] [att 4,500]
 
 
-1.Division (Second Level)
+== 1.Division (Second Level)
+
 
 <!-- $table3$ - Table -->
 
@@ -1051,7 +1053,8 @@ Promoted to RL West: Seekirchen (Salzburg), SPG Jenbach/Achensee (Tirol),
                      Blau-Weiß Feldkirch (Vorarlberg)
 
 
-Fourth Level (Landesliga's) and below.
+== Fourth Level (Landesligen)
+
 
 No info on Burgenland or Niederösterreich.
 
@@ -1062,8 +1065,7 @@ Thanks to Andreas Exenberger for Tirol and Vorarlberg.
 Kärnten
 =======
 
-== Fourth Level
-
+Fourth Level
 ============
 
 <!-- $table8$ - Landesliga -->

@@ -1536,7 +1536,7 @@ SV Mattersburg  5-0     FC Lustenau
 SV Mattersburg promoted, FC Lustenau remain in Regionalliga
 
 
-== Fourth Level
+== Fourth Level (Landesligen)
 
 
 Landesliga Burgenland
@@ -3008,7 +3008,7 @@ Donaufeld   3-4   Ostbahn XI
 <!-- $table16$ - Final Table -->
 
 
-== Fifth and Lower Levels (partial)
+== Fifth Level and Lower
 
 
 (Currently only for Oberösterreich, Tirol and Vorarlberg)

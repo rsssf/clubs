@@ -362,7 +362,8 @@ Vienna        2-1 Admira/Wacker
 Fall season
 ===========
 
-2.Bundesliga:
+== 2.Bundesliga
+
 -------------
 
 <!-- $table5$ -->
