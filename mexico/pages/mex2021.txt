@@ -2,7 +2,7 @@
      title:   Mexico 2020/21
      source:  https://rsssf.org/tablesm/mex2021.html
      author:  Erik Francisco Lugo
-     updated: 27 Jul 2021    
+     updated: 27 Jul 2021
     -->
 
 
@@ -14,11 +14,9 @@
 
 == Liga MX  ‹§pdn›
 
-‹Apertura 2020 (Torneo Guardianes), see §1aper› | ‹Clausura 2021 (Torneo Guardianes), see §1clau›
 
-Apertura 2020 (Torneo Guardianes)  ‹§1aper›
+=== Apertura 2020 (Torneo Guardianes)  ‹§1aper›
 
-‹Regular Stage, see §apreg› | ‹Playoffs, see §applay›
 
 ▪ Regular Stage ▪
 
@@ -557,9 +555,8 @@ Armando León            FWD
 TD: Ignacio Ambriz
 
 
-Clausura 2021 (Torneo Guard1anes)  ‹§1clau›
+=== Clausura 2021 (Torneo Guard1anes)  ‹§1clau›
 
-‹Regular Stage, see §clreg› | ‹Playoffs, see §clplay›
 
 ▪ Regular Stage ▪
 
@@ -1166,13 +1163,11 @@ León            1-2 Cruz Azul
 
 == Liga Expansión MX  ‹§ascenso›
 
-‹Apertura 2020, see §2aper› | ‹Clausura 2021, see §2clau› | ‹Campeón de Campeones, see §2cc›
 
-Apertura 2020 (Torneo Guard1anes)  ‹§2aper›
+=== Apertura 2020 (Torneo Guard1anes)  ‹§2aper›
 
-‹Regular Stage, see §2aperreg› | ‹Playoff Stage, see §2aperplay›
 
-▪ Regular Stage ▪
+==== Regular Stage  ‹§2aperreg›
 
 Changes before season:
 
@@ -1435,7 +1430,7 @@ NB: winners qualify to semifinals;
 
 
 
-▪ Playoff Stage ▪
+==== Playoff Stage  ‹§2aperplay›
 
 Reclasificación
 
@@ -1492,11 +1487,10 @@ Estadio de la Ciudad de los Deportes
 Atlante              2-3 Tampico Madero   (aet)
 
 
-Clausura 2021 (Torneo Guard1anes)  ‹§2clau›
+=== Clausura 2021 (Torneo Guard1anes)  ‹§2clau›
 
-‹Regular Stage, see §2claureg› | ‹Playoff Stage, see §2clauplay›
 
-▪ Regular Stage ▪
+==== Regular Stage  ‹§2claureg›
 
 Participants:
 
@@ -1779,7 +1773,7 @@ Correcaminos UAT: $25,000 USD
 
 +Pumas Tabasco exonerated of the fine due its status of "guest team".
 
-▪ Playoff Stage ▪
+==== Playoff Stage  ‹§2clauplay›
 
 Reclasificación (over one leg)
 
@@ -1834,7 +1828,7 @@ Tepatitlán           1-0 Atlético Morelia
 Estadio Morelos, Morelia
 Atlético Morelia     2-2 Tepatitlán
 
-Campeón de Campeones  ‹§2cc›
+=== Campeón de Campeones  ‹§2cc›
 
 ▪ First Leg ▪  May 19
 Estadio Tamaulipas, Tampico

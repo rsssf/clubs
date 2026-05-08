@@ -2,7 +2,7 @@
      title:   Spain 2015/16
      source:  https://rsssf.org/tabless/span2016.html
      author:  Karel Stokkermans
-     updated: 18 Jul 2019    
+     updated: 18 Jul 2019
     -->
 
 
@@ -782,7 +782,7 @@ FC Barcelona              2-0 Sevilla FC                (aet)
 
 Promoted: Cádiz CF, CF Reus, Sevilla Atlético, UCAM Murcia CF
 
-▪ Promotion Playoff ▪
+=== Promotion Playoff  ‹§2prom›
 
 ▪ Semifinals ▪
 

@@ -2,7 +2,7 @@
      title:   Mexico 2024/25
      source:  https://rsssf.org/tablesm/mex2025.html
      author:  Erik Francisco Lugo
-     updated: 19 Dec 2025    
+     updated: 19 Dec 2025
     -->
 
 
@@ -14,11 +14,9 @@
 
 == Liga MX  ‹§pdn›
 
-‹Apertura 2024, see §1aper› | ‹Clausura 2025, see §1clau›
 
-Apertura 2024  ‹§1aper›
+=== Apertura 2024  ‹§1aper›
 
-‹Regular Stage, see §apreg› | ‹Playoffs, see §applay›
 
 ▪ Regular Stage ▪
 
@@ -535,9 +533,8 @@ Patricio Salas                          FW
 
 Coach: André Jardine (BRA)
 
-Clausura 2025  ‹§1clau›
+=== Clausura 2025  ‹§1clau›
 
-‹Regular Stage, see §clreg› | ‹Playoffs, see §clplay›
 
 ▪ Regular Stage ▪
 
@@ -1127,13 +1124,11 @@ América               1-3 Toluca
 
 == Liga Expansión MX  ‹§ascenso›
 
-‹Apertura 2024, see §2aper› | ‹Clausura 2025, see §2clau›
 
-Apertura 2024  ‹§2aper›
+=== Apertura 2024  ‹§2aper›
 
-‹Regular Stage, see §2aperreg› | ‹Playoff Stage, see §2aperplay›
 
-▪ Regular Stage ▪
+==== Regular Stage  ‹§2aperreg›
 
 Participants:
 
@@ -1370,7 +1365,7 @@ Correcaminos UAT bye
 <!-- $topscorers3$ -->
 
 
-▪ Playoff Stage ▪
+==== Playoff Stage  ‹§2aperplay›
 
 ▪ Quarterfinals ▪
 
@@ -1416,11 +1411,10 @@ Estadio Akron, Zapopan
 Tapatío         3-2 Celaya
 
 
-Clausura 2025  ‹§2clau›
+=== Clausura 2025  ‹§2clau›
 
-‹Regular Stage, see §2claureg› | ‹Playoff Stage, see §2clauplay›
 
-▪ Regular Stage ▪
+==== Regular Stage  ‹§2claureg›
 
 Changes before season:
 Atlante moved to Zacatepec
@@ -1682,7 +1676,7 @@ Tlaxcala:         $75,000 USD+
 
 +Tlaxcala exonerated of the fine due its status of "guest team".
 
-▪ Playoff Stage ▪
+==== Playoff Stage  ‹§2clauplay›
 
 ▪ Quarterfinals ▪
 

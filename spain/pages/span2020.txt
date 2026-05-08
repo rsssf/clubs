@@ -2,7 +2,7 @@
      title:   Spain 2019/20
      source:  https://rsssf.org/tabless/span2020.html
      author:  Karel Stokkermans
-     updated: 8 Apr 2021    
+     updated: 8 Apr 2021
     -->
 
 
@@ -774,7 +774,7 @@ Athletic Club (Bilbao)    0-1 Real Sociedad
 
 Promoted: FC Cartagena, UD Logroñés, CD Castellón, CE Sabadell
 
-▪ Promotion Playoff ▪
+=== Promotion Playoff  ‹§2prom›
 
 ▪ Semifinals ▪
 

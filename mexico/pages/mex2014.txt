@@ -2,7 +2,7 @@
      title:   Mexico 2013/14
      source:  https://rsssf.org/tablesm/mex2014.html
      author:  Erik Francisco Lugo
-     updated: 18 Feb 2021    
+     updated: 18 Feb 2021
     -->
 
 
@@ -22,9 +22,8 @@ Changes before season
 
 ‹Apertura 2013, see §1aper› | ‹Clausura 2014, see §1clau›
 
-Apertura 2013  ‹§1aper›
+=== Apertura 2013  ‹§1aper›
 
-‹Regular Stage, see §apreg› | ‹Playoffs, see §applay›
 
 ▪ Regular Stage ▪
 
@@ -532,9 +531,8 @@ NB: Santos and León qualified to Group Phase,
     Morelia qualified to Preliminary Round
 
 
-Clausura 2014  ‹§1clau›
+=== Clausura 2014  ‹§1clau›
 
-‹Regular Stage, see §clreg› | ‹Playoffs, see §clplay›
 
 ▪ Regular Stage ▪
 
@@ -1070,7 +1068,6 @@ Coach: Gustavo Matosas (ARG)
 
 == Copa MX Apertura 2013  ‹§copa›
 
-‹Group Stage, see §copagrp› | ‹Playoff Stage, see §copaplay›
 
 NB: the Cup Tournament is played by 14 teams from the Liga MX (first level) and
     14 teams from the Ascenso MX (second level);
@@ -1078,7 +1075,7 @@ NB: the Cup Tournament is played by 14 teams from the Liga MX (first level) and
     participating in the CONCACAF Champions League 2013-14;
     Ballenas Galeana (Ascenso MX) also excluded
 
-▪ Group Stage ▪
+==== Group Stage  ‹§copagrp›
 
 
 The Group Stage was played in 3 home/away series, with the winners of each series earning
@@ -1318,7 +1315,7 @@ Tables:
 <!-- $table19$ - Group 7 -->
 
 
-▪ Playoff Stage ▪
+==== Playoff Stage  ‹§copaplay›
 
 ▪ Quarterfinals ▪
 
@@ -1398,7 +1395,6 @@ Coach: Carlos Julio Bustos [ARG]
 
 == Copa MX Clausura 2014  ‹§copac›
 
-‹Group Stage, see §copacgrp› | ‹Playoff Stage, see §copacplay›
 
 NB: the Cup Tournament is played by 11 teams from the Liga MX (first level) and
     13 teams from the Ascenso MX (second level);
@@ -1407,7 +1403,7 @@ NB: the Cup Tournament is played by 11 teams from the Liga MX (first level) and
     León, Santos and Morelia also excluded because of participating in Copa Libertadores 2014
     Ballenas Galeana and Zacatepec 1948 (Ascenso MX) also excluded
 
-▪ Group Stage ▪
+==== Group Stage  ‹§copacgrp›
 
 The Group Stage was played in 3 home/away series, with the winners of each series
 earning an additional bonus point; if the series was tied after 2 matches, the
@@ -1624,7 +1620,7 @@ Tables:
 <!-- $table31$ - Group 6 -->
 
 
-▪ Playoff Stage ▪
+==== Playoff Stage  ‹§copacplay›
 
 
 ▪ Quarterfinals ▪
@@ -1718,9 +1714,8 @@ Tigres             3-1 Morelia
 
 == Ascenso MX  ‹§ascenso›
 
-‹Apertura 2013, see §2aper› | ‹Clausura 2014, see §2clau› | ‹Promotion Playoff, see §2prom›
 
-Apertura 2013  ‹§2aper›
+=== Apertura 2013  ‹§2aper›
 
 Changes before season:
 
@@ -1734,7 +1729,7 @@ Changes before season:
 
 ‹Regular Stage, see §2aperreg› | ‹Playoff Stage, see §2aperplay›
 
-▪ Regular Stage ▪
+==== Regular Stage  ‹§2aperreg›
 
 
 Participants:
@@ -1952,7 +1947,7 @@ Lobos BUAP        bye
 
 <!-- $table33$ - Final Table -->
 
-▪ Playoff Stage ▪
+==== Playoff Stage  ‹§2aperplay›
 
 NB: Alebrijes bye to semifinals
 
@@ -1991,11 +1986,10 @@ Leones Negros     1-0 Necaxa
 Necaxa            1-1 Leones Negros
 
 
-Clausura 2014  ‹§2clau›
+=== Clausura 2014  ‹§2clau›
 
-‹Regular Stage, see §2claureg› | ‹Playoff Stage, see §2clauplay›
 
-▪ Regular Stage ▪
+==== Regular Stage  ‹§2claureg›
 
 Participants:
 
@@ -2234,7 +2228,7 @@ Ballenas       1.0000
 Zacatepec 1948      0.9524 (relegated)
 
 
-▪ Playoff Stage ▪
+==== Playoff Stage  ‹§2clauplay›
 
 NB: Correcaminos UAT bye to semifinals
 
@@ -2279,7 +2273,7 @@ Correcaminos UAT  1-1 Estudiantes UAG  (aet, 3-4 pen)
 Estudiantes UAG Clausura champions
 
 
-▪ Promotion Playoff ▪
+=== Promotion Playoff  ‹§2prom›
 
 ▪ Championship Final ▪
 

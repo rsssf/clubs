@@ -2,7 +2,7 @@
      title:   Mexico 2019/20
      source:  https://rsssf.org/tablesm/mex2020.html
      author:  Erik Francisco Lugo
-     updated: 18 Feb 2021    
+     updated: 18 Feb 2021
     -->
 
 
@@ -14,11 +14,9 @@
 
 == Liga MX  ‹§pdn›
 
-‹Apertura 2019, see §1aper› | ‹Clausura 2020, see §1clau›
 
-Apertura 2019  ‹§1aper›
+=== Apertura 2019  ‹§1aper›
 
-‹Regular Stage, see §apreg› | ‹Playoffs, see §applay›
 
 ▪ Regular Stage ▪
 
@@ -601,9 +599,8 @@ Rodolfo Pizarro           FWD
 Coach: Antonio Mohamed (ARG)
 
 
-Clausura 2020  ‹§1clau›
+=== Clausura 2020  ‹§1clau›
 
-‹Regular Stage, see §clreg› | ‹Playoffs, see §clplay›
 
 ▪ Regular Stage ▪
 
@@ -909,7 +906,6 @@ On June 2, Monarcas Morelia sold its license to Mazatlán FC.
 
 == Copa MX 2019/20  ‹§copa›
 
-‹Group Stage, see §copagrp› | ‹Playoff Stage, see §copaplay›
 
 NB: Since 2019-20 season the Cup tournament become annual.
     The Cup Tournament is played by 15 teams from the Liga MX (first level) and
@@ -918,7 +914,7 @@ NB: Since 2019-20 season the Cup tournament become annual.
     participating in the CONCACAF Champions League 2020;
     Loros U.de Colima and Tampico Madero (Ascenso MX) also excluded
 
-▪ Group Stage ▪
+==== Group Stage  ‹§copagrp›
 
 Tables:
 
@@ -1109,7 +1105,7 @@ Tables:
 <!-- $table22$ - Group 9 -->
 
 
-▪ Playoff Stage ▪
+==== Playoff Stage  ‹§copaplay›
 
 ▪ Round of 16 ▪
 
@@ -1304,13 +1300,11 @@ Not held; since the Cup became annual this trophy was discontinued.
 
 == Ascenso MX  ‹§ascenso›
 
-‹Apertura 2019, see §2aper› | ‹Clausura 2020, see §2clau› | ‹Promotion Playoff, see §2prom›
 
-Apertura 2019  ‹§2aper›
+=== Apertura 2019  ‹§2aper›
 
-‹Regular Stage, see §2aperreg› | ‹Playoff Stage, see §2aperplay›
 
-▪ Regular Stage ▪
+==== Regular Stage  ‹§2aperreg›
 
 Changes before season:
 
@@ -1531,7 +1525,7 @@ NB: winners qualify to semifinals;
 
 
 
-▪ Playoff Stage ▪
+==== Playoff Stage  ‹§2aperplay›
 
 ▪ Quarterfinals ▪
 
@@ -1575,11 +1569,10 @@ Alebrijes            2-2 CA Zacatepec
 
 
 
-Clausura 2020  ‹§2clau›
+=== Clausura 2020  ‹§2clau›
 
-‹Regular Stage, see §2claureg› | ‹Playoff Stage, see §2clauplay›
 
-▪ Regular Stage ▪
+==== Regular Stage  ‹§2claureg›
 
 Changes before season:
 Potros UAEM and Loros U.de Colima withdrew.
@@ -1727,11 +1720,11 @@ Venados                 1.1948
 Cafetaleros             1.1169
 
 
-▪ Playoff Stage ▪
+==== Playoff Stage  ‹§2clauplay›
 
 NB: between top-7 of regular season; cancelled due to Covid-19 pandemic
 
-▪ Promotion Playoff ▪
+=== Promotion Playoff  ‹§2prom›
 
 NB: not held
 

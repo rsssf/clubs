@@ -2,7 +2,7 @@
      title:   USA 2022
      source:  https://rsssf.org/tablesu/usa2022.html
      author:  Karel Stokkermans
-     updated: 6 Dec 2024    
+     updated: 6 Dec 2024
     -->
 
 
@@ -14,9 +14,8 @@
 
 == Major League Soccer  ‹§mls›
 
-‹Regular Season, see §reg› | ‹Championship Playoff, see §chplay›
 
-▪ Regular Season ▪
+=== Regular Season  ‹§reg›
 
 NB: Charlotte FC were admitted
 
@@ -639,9 +638,9 @@ Final Tables:
 
 <!-- $table4$ - Western Conference -->
 
-▪ Championship Playoff ▪
+=== Championship Playoff  ‹§chplay›
 
-▪ Conference Quarterfinals ▪
+==== Conference Quarterfinals  ‹§cqf›
 
 Eastern Conference
 _ Oct 15 _
@@ -661,7 +660,7 @@ _ Oct 17 _
 FC Dallas              1-1 Minnesota United       (5-4 pen)
 Los Angeles FC         bye
 
-▪ Conference Semifinals ▪
+==== Conference Semifinals  ‹§csf›
 
 Eastern Conference
 _ Oct 20 _

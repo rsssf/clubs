@@ -2,7 +2,7 @@
      title:   Mexico 2018/19
      source:  https://rsssf.org/tablesm/mex2019.html
      author:  Erik Francisco Lugo
-     updated: 18 Feb 2021    
+     updated: 18 Feb 2021
     -->
 
 
@@ -14,11 +14,9 @@
 
 == Liga MX  ‹§pdn›
 
-‹Apertura 2018, see §1aper› | ‹Clausura 2019, see §1clau›
 
-Apertura 2018  ‹§1aper›
+=== Apertura 2018  ‹§1aper›
 
-‹Regular Stage, see §apreg› | ‹Playoffs, see §applay›
 
 ▪ Regular Stage ▪
 
@@ -525,9 +523,8 @@ Jéremy Ménez           FWD (France)
 
 Coach: Miguel Herrera
 
-Clausura 2019  ‹§1clau›
+=== Clausura 2019  ‹§1clau›
 
-‹Regular Stage, see §clreg› | ‹Playoffs, see §clplay›
 
 ▪ Regular Stage ▪
 
@@ -1073,7 +1070,6 @@ Coach: Ricardo "Tuca" Ferreti (BRA)
 
 == Copa MX Apertura 2018  ‹§copa›
 
-‹Group Stage, see §copagrp› | ‹Playoff Stage, see §copaplay›
 
 NB: the Cup Tournament is played by 16 teams from the Liga MX (first level) and
     11 teams from the Ascenso MX (second level);
@@ -1081,7 +1077,7 @@ NB: the Cup Tournament is played by 16 teams from the Liga MX (first level) and
     Leones Negros, Atlante, Cimarrones, Correcaminos UAT and Potros UAEM (Ascenso MX)
     also excluded
 
-▪ Group Stage ▪
+==== Group Stage  ‹§copagrp›
 
 Tables:
 
@@ -1262,7 +1258,7 @@ Tables:
 
 <!-- $table22$ - Group 9 -->
 
-▪ Playoff Stage ▪
+==== Playoff Stage  ‹§copaplay›
 
 ▪ Round of 16 ▪
 
@@ -1368,7 +1364,6 @@ Coach: Pedro Caixinha (POR)
 
 == Copa MX Clausura 2019  ‹§copac›
 
-‹Group Stage, see §copacgrp› | ‹Playoff Stage, see §copacplay›
 
 NB: the Cup Tournament is played by 14 teams from the Liga MX (first level) and
     13 teams from the Ascenso MX (second level);
@@ -1376,7 +1371,7 @@ NB: the Cup Tournament is played by 14 teams from the Liga MX (first level) and
     participating in the CONCACAF Champions League 2019;
     Leones Negros, Atlante and Potros UAEM (Ascenso MX) also excluded
 
-▪ Group Stage ▪
+==== Group Stage  ‹§copacgrp›
 
 Tables:
 
@@ -1551,7 +1546,7 @@ Tables:
 
 <!-- $table40$ - Group 9 -->
 
-▪ Playoff Stage ▪
+==== Playoff Stage  ‹§copacplay›
 
 ▪ Round of 16 ▪
 
@@ -1683,13 +1678,11 @@ Cruz Azul       4-0 Necaxa
 
 == Ascenso MX  ‹§ascenso›
 
-‹Apertura 2018, see §2aper› | ‹Clausura 2019, see §2clau› | ‹Promotion Playoff, see §2prom›
 
-Apertura 2018  ‹§2aper›
+=== Apertura 2018  ‹§2aper›
 
-‹Regular Stage, see §2aperreg› | ‹Playoff Stage, see §2aperplay›
 
-▪ Regular Stage ▪
+==== Regular Stage  ‹§2aperreg›
 
 Changes before season:
 
@@ -1918,7 +1911,7 @@ Alebrijes            bye
 <!-- $topscorers5$ -->
 
 
-▪ Playoff Stage ▪
+==== Playoff Stage  ‹§2aperplay›
 
 ▪ Quarterfinals ▪
 
@@ -1966,11 +1959,10 @@ Estadio Alfonso Lastras Ramírez
 Atlético de San Luis 4-2 Dorados              (aet)
 
 
-Clausura 2019  ‹§2clau›
+=== Clausura 2019  ‹§2clau›
 
-‹Regular Stage, see §2claureg› | ‹Playoff Stage, see §2clauplay›
 
-▪ Regular Stage ▪
+==== Regular Stage  ‹§2claureg›
 
 Participants:
 
@@ -2219,7 +2211,7 @@ Tampico Madero           1.0761 (relegated)
 
 NB: Tampico Madero remain at second level after paying USD $800,000
 
-▪ Playoff Stage ▪
+==== Playoff Stage  ‹§2clauplay›
 
 ▪ Quarterfinals ▪
 
@@ -2263,7 +2255,7 @@ Dorados              1-1 Atlético de San Luis
 Estadio Alfonso Lastras Ramírez
 Atlético de San Luis 1-0 Dorados              (aet)
 
-▪ Promotion Playoff ▪
+=== Promotion Playoff  ‹§2prom›
 
 Atlético de San Luis promoted automatically as winners of Apertura 2018 and Clausura 2019
 

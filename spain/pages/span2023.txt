@@ -2,7 +2,7 @@
      title:   Spain 2022/23
      source:  https://rsssf.org/tabless/span2023.html
      author:  Karel Stokkermans
-     updated: 21 Nov 2023    
+     updated: 21 Nov 2023
     -->
 
 
@@ -623,7 +623,7 @@ Valladolid                0-0 Getafe
 
 <!-- $table4$ - Final Table -->
 
-▪ Promotion Playoff ▪
+=== Promotion Playoff  ‹§2prom›
 
 ▪ Semifinals ▪
 
@@ -652,17 +652,16 @@ Levante                   0-1 Alavés                    (aet)
 
 == Primera RFEF  ‹§1rfef›
 
-‹Grupo 1, see §3g1› | ‹Grupo 2, see §3g2› | ‹Final, see §3gf› | ‹Promotion Playoff, see §3gp›
 
-Grupo 1  ‹§3g1›
+=== Grupo 1  ‹§3g1›
 
 <!-- $table5$ - Final Table -->
 
-Grupo 2  ‹§3g2›
+=== Grupo 2  ‹§3g2›
 
 <!-- $table6$ - Final Table -->
 
-▪ Final ▪
+=== Final  ‹§3gf›
 
 ▪ First Leg ▪  Jun 3
 Amorebieta                3-0 Racing Ferrol
@@ -670,7 +669,7 @@ Amorebieta                3-0 Racing Ferrol
 ▪ Second Leg ▪  Jun 10
 Racing Ferrol             2-0 Amorebieta
 
-▪ Promotion Playoff ▪
+=== Promotion Playoff  ‹§3gp›
 
 ▪ Round 1 ▪
 

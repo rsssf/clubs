@@ -2,7 +2,7 @@
      title:   Spain 2017/18
      source:  https://rsssf.org/tabless/span2018.html
      author:  Karel Stokkermans
-     updated: 29 Sep 2020    
+     updated: 29 Sep 2020
     -->
 
 
@@ -803,7 +803,7 @@ Sevilla FC                0-5 FC Barcelona
 Promoted: RCD Mallorca (Palma de Mallorca), CF Rayo Majadahonda,
           Elche CF, Extremadura UD
 
-▪ Promotion Playoff ▪
+=== Promotion Playoff  ‹§2prom›
 
 ▪ Semifinals ▪
 

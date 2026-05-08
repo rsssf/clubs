@@ -2,7 +2,7 @@
      title:   USA 2010
      source:  https://rsssf.org/tablesu/usa2010.html
      author:  David A. Litterer
-     updated: 24 Dec 2023    
+     updated: 24 Dec 2023
     -->
 
 
@@ -14,9 +14,8 @@
 
 == Major League Soccer  ‹§mls›
 
-‹Regular Season, see §reg› | ‹Championship Playoff, see §play›
 
-▪ Regular Season ▪
+=== Regular Season  ‹§reg›
 
 Final Tables:
 
@@ -418,7 +417,7 @@ NB: Philadelphia Union were added for 2010
 NB: top-2 of both conferences and 4 next best teams in overall table
     qualify for championship playoff
 
-▪ Championship Playoff ▪
+=== Championship Playoff  ‹§play›
 
 ▪ Conference Semifinals ▪
 
@@ -571,7 +570,7 @@ Final Tables:
 NB: conference winners and 6 next best teams in overall table
     qualify for championship playoff
 
-▪ Championship Playoff ▪
+=== Championship Playoff  ‹§sfplay›
 
 ▪ Quarterfinals ▪
 
@@ -622,7 +621,7 @@ Champions: Puerto Rico Islanders
 
 <!-- $table8$ - Final Table -->
 
-▪ Championship Playoff ▪
+=== Championship Playoff  ‹§uslplay›
 
 ▪ Semifinal ▪  Aug 21
 Richmond Kickers       2-0 Pittsburgh Riverhounds
@@ -659,7 +658,7 @@ Champions: Charleston Battery
 
 <!-- $table16$ - Northwest Division -->
 
-▪ Championship Playoff ▪
+=== Championship Playoff  ‹§uslpdl›
 
 ▪ Conference Semifinals ▪
 Portland U23   2-1 Hollywood
@@ -706,7 +705,7 @@ Champions: Portland Timbers U23's
 
 <!-- $table21$ - West Conference -->
 
-▪ Championship Playoff ▪
+=== Championship Playoff  ‹§npsl›
 Divisional Playoffs
 Sacramento     6-3 Bay Area
 San Diego Boca 4-0 San Jose

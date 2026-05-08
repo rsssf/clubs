@@ -2,7 +2,7 @@
      title:   Spain 2020/21
      source:  https://rsssf.org/tabless/span2021.html
      authors: Hans Schöggl and Karel Stokkermans
-     updated: 9 Jun 2022    
+     updated: 9 Jun 2022
     -->
 
 
@@ -665,7 +665,7 @@ Athletic Club (Bilbao)    0-4 FC Barcelona
 
 Promoted: Burgos CF, Real Sociedad B, UD Ibiza, SD Amorebieta
 
-▪ Promotion Playoff ▪
+=== Promotion Playoff  ‹§2prom›
 
 ▪ Semifinals ▪
 

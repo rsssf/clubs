@@ -2,7 +2,7 @@
      title:   Spain 2014/15
      source:  https://rsssf.org/tabless/span2015.html
      author:  Karel Stokkermans
-     updated: 28 Jan 2021    
+     updated: 28 Jan 2021
     -->
 
 
@@ -796,7 +796,7 @@ FC Barcelona              3-1 Athletic Club (Bilbao)
 
 Promoted: Club Gimnàstic de Tarragona, Real Oviedo, SD Huesca, Bilbao Athletic
 
-▪ Promotion Playoff ▪
+=== Promotion Playoff  ‹§2prom›
 
 ▪ Semifinals ▪
 

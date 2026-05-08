@@ -2,7 +2,7 @@
      title:   USA 2023
      source:  https://rsssf.org/tablesu/usa2023.html
      author:  Karel Stokkermans
-     updated: 6 Dec 2024    
+     updated: 6 Dec 2024
     -->
 
 
@@ -14,9 +14,8 @@
 
 == Major League Soccer  ‹§mls›
 
-‹Regular Season, see §reg› | ‹Championship Playoff, see §chplay›
 
-▪ Regular Season ▪
+=== Regular Season  ‹§reg›
 
 NB: Saint Louis City were admitted
 
@@ -635,16 +634,16 @@ Final Tables:
 
 <!-- $table4$ - Western Conference -->
 
-▪ Championship Playoff ▪
+=== Championship Playoff  ‹§chplay›
 
-▪ Conference Wild Card Round ▪
+==== Conference Wild Card Round  ‹§cwc›
 
 Eastern Conference [Oct 25]
 New York Red Bulls     5-2 Charlotte FC
 Western Conference [Oct 25]
 Sporting Kansas City   0-0 San Jose Earthquakes   (4-2 pen)
 
-▪ Eastern Conference Quarterfinals ▪
+==== Eastern Conference Quarterfinals  ‹§cqe›
 
 ▪ First Legs ▪
 _ Oct 28 _
@@ -673,7 +672,7 @@ Philadelphia Union     n/p New England Revolution
 Orlando City           n/p Nashville SC
 Columbus Crew          4-2 Atlanta United
 
-▪ Western Conference Quarterfinals ▪
+==== Western Conference Quarterfinals  ‹§cqw›
 
 ▪ First Legs ▪
 _ Oct 28 _
@@ -702,7 +701,7 @@ _ Nov 11 _
 Houston Dynamo         1-1 Real Salt Lake         (4-3 pen)
 Saint Louis City       n/p Sporting Kansas City
 
-▪ Conference Semifinals ▪
+==== Conference Semifinals  ‹§csf›
 
 Eastern Conference [Nov 25]
 Orlando City           0-2 Columbus Crew          (aet)

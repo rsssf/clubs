@@ -2,7 +2,7 @@
      title:   Spain 2016/17
      source:  https://rsssf.org/tabless/span2017.html
      author:  Karel Stokkermans
-     updated: 18 Jul 2019    
+     updated: 18 Jul 2019
     -->
 
 
@@ -800,7 +800,7 @@ FC Barcelona              3-1 Deportivo Alavés
 
 Promoted: Cultural Leonesa, Lorca FC, FC Barcelona B, Albacete Balompié
 
-▪ Promotion Playoff ▪
+=== Promotion Playoff  ‹§2prom›
 
 ▪ Semifinals ▪
 

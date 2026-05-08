@@ -2,7 +2,7 @@
      title:   Spain 2021/22
      source:  https://rsssf.org/tabless/span2022.html
      author:  Karel Stokkermans
-     updated: 28 Jun 2023    
+     updated: 28 Jun 2023
     -->
 
 
@@ -622,7 +622,7 @@ Sevilla                   1-0 Athletic
 
 <!-- $table3$ - Final Table -->
 
-▪ Promotion Playoff ▪
+=== Promotion Playoff  ‹§2prom›
 
 ▪ Semifinals ▪
 
@@ -653,27 +653,26 @@ Tenerife                  1-3 Girona
 
 == Primera RFEF  ‹§1rfef›
 
-‹Grupo 1, see §3g1› | ‹Grupo 2, see §3g2› | ‹Final, see §3gf› | ‹Promotion Playoff, see §3gp›
 
-Grupo 1  ‹§3g1›
+=== Grupo 1  ‹§3g1›
 
 <!-- $table4$ - Final Table -->
 
 NB: Talavera de la Reina remained at third level due to withdrawal Internacional
 
-Grupo 2  ‹§3g2›
+=== Grupo 2  ‹§3g2›
 
 <!-- $table5$ - Final Table -->
 
 [*] UD Llagostera were relocated to Palamós and renamed UE Costa Brava before the season;
     after the season they were absorbed by CF Badalona
 
-▪ Final ▪
+=== Final  ‹§3gf›
 
 _ Jun 3 _ @ Ferrol
 Racing Santander          1-0 FC Andorra
 
-▪ Promotion Playoff ▪
+=== Promotion Playoff  ‹§3gp›
 
 ▪ Round 1 ▪
 _ Jun 4 _

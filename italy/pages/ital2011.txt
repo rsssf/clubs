@@ -1218,7 +1218,6 @@ Palermo: Sirigu, Cassani, Goian (24 Carrozzieri), Munoz,
 
 == Serie B  ‹§serieb›
 
-‹Regular Season, see §2reg› | ‹Promotion Playoff, see §2prom› | ‹Relegation Playoff, see §2releg›
 
 === Regular Season  ‹§2reg›
 
@@ -1797,7 +1796,6 @@ NB: Piacenza relegated on worse regular season record
 
 == Prima Divisione  ‹§prima›
 
-‹Gruppo A, see §3a› | ‹Gruppo B, see §3b›
 
 === Gruppo A  ‹§3a›
 
@@ -2634,7 +2632,6 @@ Foligno one point deducted
 
 == Seconda Divisione  ‹§seconda›
 
-‹Gruppo A, see §4a› | ‹Gruppo B, see §4b› | ‹Gruppo C, see §4c›
 
 === Gruppo A  ‹§4a›
 
@@ -3571,8 +3568,6 @@ In all groups a relegation playoff is played if the difference between 15th and 
 
 == Serie D  ‹§seried›
 
-‹Gruppo A, see §5a› | ‹Gruppo B, see §5b› | ‹Gruppo C, see §5c› | ‹Gruppo D, see §5d› | ‹Gruppo E, see §5e› |
-‹Gruppo F, see §5f› | ‹Gruppo G, see §5g› | ‹Gruppo H, see §5h› | ‹Gruppo I, see §5i› |
 
 
 === Gruppo A  ‹§5a›

@@ -2,7 +2,7 @@
      title:   USA 2012
      source:  https://rsssf.org/tablesu/usa2012.html
      author:  Ian King
-     updated: 14 Mar 2013    
+     updated: 14 Mar 2013
     -->
 
 
@@ -14,9 +14,8 @@
 
 == Major League Soccer  ‹§mls›
 
-‹Regular Season, see §reg› | ‹Championship Playoff, see §play›
 
-▪ Regular Season ▪
+=== Regular Season  ‹§reg›
 
 NB: Montreal Impact were added for 2012
 
@@ -30,9 +29,9 @@ NB: top-3 of both conferences qualified for conference semifinals;
     teams finishing 4th and 5th qualify for wild card game
 
 
-▪ Championship Playoff ▪
+=== Championship Playoff  ‹§play›
 
-▪ Wild Card Games ▪
+==== Wild Card Games  ‹§wcard›
 
 _ Oct 31 _
 Chicago Fire               1-2 Houston Dynamo
@@ -42,7 +41,7 @@ Los Angeles Galaxy         2-1 Vancouver Whitecaps
 NB: Houston Dynamo enter ‹Eastern Semifinals, see §esemi›;
     Los Angeles Galaxy enter ‹Western Semifinals, see §wsemi›
 
-▪ Eastern Semifinals ▪
+==== Eastern Semifinals  ‹§esemi›
 
 ▪ First Legs ▪
 _ Nov 3 _
@@ -56,7 +55,7 @@ Sporting Kansas City       1-0 Houston Dynamo
 _ Nov 8 _
 New York Red Bulls         0-1 DC United
 
-▪ Eastern Conference Final ▪
+==== Eastern Conference Final  ‹§efinal›
 
 ▪ First Leg ▪  Nov 11
 Houston Dynamo             3-1 DC United
@@ -66,7 +65,7 @@ DC United                  1-1 Houston Dynamo
 
 NB: Houston Dynamo to ‹MLS Cup 2012, see §mlscup›
 
-▪ Western Semifinals ▪
+==== Western Semifinals  ‹§wsemi›
 
 ▪ First Legs ▪
 _ Nov 2 _
@@ -80,7 +79,7 @@ San Jose Earthquakes       1-3 Los Angeles Galaxy
 _ Nov 8 _
 Real Salt Lake             0-1 Seattle Sounders
 
-▪ Western Conference Final ▪
+==== Western Conference Final  ‹§wfinal›
 
 ▪ First Leg ▪  Nov 11
 Los Angeles Galaxy         3-0 Seattle Sounders
@@ -91,7 +90,7 @@ Seattle Sounders           2-1 Los Angeles Galaxy
 NB: Los Angeles Galaxy to ‹MLS Cup 2012, see §mlscup›
 
 
-▪ MLS Cup 2012 ▪
+==== MLS Cup 2012  ‹§mlscup›
 
 _ Dec 1 _ @ Home Depot Center, Carson City, California
 Los Angeles Galaxy         3-1 Houston Dynamo

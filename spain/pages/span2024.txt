@@ -2,7 +2,7 @@
      title:   Spain 2023/24
      source:  https://rsssf.org/tabless/span2024.html
      author:  Karel Stokkermans
-     updated: 11 Oct 2024    
+     updated: 11 Oct 2024
     -->
 
 
@@ -629,7 +629,7 @@ Sevilla                   1-2 Barcelona
 
 <!-- $table4$ - Final Table -->
 
-▪ Promotion Playoff ▪
+=== Promotion Playoff  ‹§2prom›
 
 ▪ Semifinals ▪
 
@@ -660,17 +660,16 @@ Espanyol                  2-0 Oviedo
 
 == Primera RFEF  ‹§1rfef›
 
-‹Grupo 1, see §3g1› | ‹Grupo 2, see §3g2› | ‹Final, see §3gf› | ‹Promotion Playoff, see §3gp›
 
-Grupo 1  ‹§3g1›
+=== Grupo 1  ‹§3g1›
 
 <!-- $table5$ - Final Table -->
 
-Grupo 2  ‹§3g2›
+=== Grupo 2  ‹§3g2›
 
 <!-- $table6$ - Final Table -->
 
-▪ Final ▪
+=== Final  ‹§3gf›
 
 ▪ First Leg ▪  May 29
 Deportivo (La Coruña)     2-1 Castellón
@@ -678,7 +677,7 @@ Deportivo (La Coruña)     2-1 Castellón
 ▪ Second Leg ▪  Jun 2
 Castellón                 2-4 Deportivo (La Coruña)
 
-▪ Promotion Playoff ▪
+=== Promotion Playoff  ‹§3gp›
 
 ▪ Round 1 ▪
 

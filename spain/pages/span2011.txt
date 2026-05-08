@@ -2,7 +2,7 @@
      title:   Spain 2010/11
      source:  https://rsssf.org/tabless/span2011.html
      author:  Anthony Zea
-     updated: 25 Mar 2024    
+     updated: 25 Mar 2024
     -->
 
 
@@ -2625,7 +2625,7 @@ Betis                     2-1 Villarreal B
 
 
 
-▪ Promotion Playoff ▪
+=== Promotion Playoff  ‹§2prom›
 
 ▪ Semifinals ▪
 
@@ -2658,9 +2658,8 @@ NB: Granada CF promoted
 
 == Segunda División B  ‹§segundb›
 
-‹Grupo I, see §2b1› | ‹Grupo II, see §2b2› | ‹Grupo III, see §2b3› | ‹Grupo IV, see §2b4› |
 
-Grupo I  ‹§2b1›
+=== Grupo I  ‹§2b1›
 
 <!-- $table5$ - Final Table -->
 
@@ -3505,7 +3504,7 @@ Getafe B                  0-0 RM Castilla
 <!-- $topscorers3$ -->
 
 
-Grupo II  ‹§2b2›
+=== Grupo II  ‹§2b2›
 
 <!-- $table7$ - Final Table -->
 
@@ -4335,7 +4334,7 @@ Lemona                    3-3  Cultural
 <!-- $topscorers4$ -->
 
 
-Grupo III  ‹§2b3›
+=== Grupo III  ‹§2b3›
 
 <!-- $table9$ - Final Table -->
 
@@ -5172,7 +5171,7 @@ Orihuela                  0-0 Ontinyent
 <!-- $topscorers5$ -->
 
 
-Grupo IV  ‹§2b4›
+=== Grupo IV  ‹§2b4›
 
 <!-- $table11$ - Final Table -->
 

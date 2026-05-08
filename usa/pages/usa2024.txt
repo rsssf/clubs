@@ -2,7 +2,7 @@
      title:   USA 2024
      source:  https://rsssf.org/tablesu/usa2024.html
      author:  Karel Stokkermans
-     updated: 7 Dec 2025    
+     updated: 7 Dec 2025
     -->
 
 
@@ -14,9 +14,8 @@
 
 == Major League Soccer  ‹§mls›
 
-‹Regular Season, see §reg› | ‹Championship Playoff, see §chplay›
 
-▪ Regular Season ▪
+=== Regular Season  ‹§reg›
 
 Final Tables:
 
@@ -625,16 +624,16 @@ Final Tables:
 
 <!-- $table4$ - Western Conference -->
 
-▪ Championship Playoff ▪
+=== Championship Playoff  ‹§chplay›
 
-▪ Conference Wild Card Round ▪
+==== Conference Wild Card Round  ‹§cwc›
 
 Eastern Conference [Oct 22]
 Montréal CF            2-2 Atlanta United         (4-5 pen)
 Western Conference [Oct 23]
 Vancouver Whitecaps    5-0 Portland Timbers
 
-▪ Eastern Conference Quarterfinals ▪
+==== Eastern Conference Quarterfinals  ‹§cqe›
 
 ▪ First Legs ▪
 _ Oct 25 _
@@ -660,7 +659,7 @@ FC Cincinnati          0-0 New York City          (5-6 pen)
 Orlando City           1-1 Charlotte FC           (4-1 pen)
 Inter Miami            2-3 Atlanta United
 
-▪ Western Conference Quarterfinals ▪
+==== Western Conference Quarterfinals  ‹§cqw›
 
 ▪ First Legs ▪
 _ Oct 26 _
@@ -684,7 +683,7 @@ Vancouver Whitecaps    3-0 Los Angeles FC
 ▪ Third Leg ▪  Nov 8
 Los Angeles FC         1-0 Vancouver Whitecaps
 
-▪ Conference Semifinals ▪
+==== Conference Semifinals  ‹§csf›
 
 Eastern Conference
 _ Nov 23 _

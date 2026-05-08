@@ -2,7 +2,7 @@
      title:   Mexico 2022/23
      source:  https://rsssf.org/tablesm/mex2023.html
      author:  Erik Francisco Lugo
-     updated: 10 Oct 2023    
+     updated: 10 Oct 2023
     -->
 
 
@@ -14,11 +14,9 @@
 
 == Liga MX  ‹§pdn›
 
-‹Apertura 2022, see §1aper› | ‹Clausura 2023, see §1clau›
 
-Apertura 2022  ‹§1aper›
+=== Apertura 2022  ‹§1aper›
 
-‹Regular Stage, see §apreg› | ‹Playoffs, see §applay›
 
 ▪ Regular Stage ▪
 
@@ -566,9 +564,8 @@ Illian Hernández                        FW
 Coach: Guillermo Almada (URU)
 
 
-Clausura 2023  ‹§1clau›
+=== Clausura 2023  ‹§1clau›
 
-‹Regular Stage, see §clreg› | ‹Playoffs, see §clplay›
 
 ▪ Regular Stage ▪
 
@@ -1176,13 +1173,11 @@ Pachuca              1-2 Tigres
 
 == Liga Expansión MX  ‹§ascenso›
 
-‹Apertura 2022, see §2aper› | ‹Clausura 2023, see §2clau›
 
-Apertura 2022  ‹§2aper›
+=== Apertura 2022  ‹§2aper›
 
-‹Regular Stage, see §2aperreg› | ‹Playoff Stage, see §2aperplay›
 
-▪ Regular Stage ▪
+==== Regular Stage  ‹§2aperreg›
 
 Changes before season:
 
@@ -1487,7 +1482,7 @@ NB: Teams 1st to 4th qualify to quarterfinals;
 <!-- $topscorers2$ -->
 
 
-▪ Playoff Stage ▪
+==== Playoff Stage  ‹§2aperplay›
 
 Reclasificación
 
@@ -1543,11 +1538,10 @@ Estadio Miguel Alemán Valdez, Celaya
 Celaya           1-3 Atlante          (aet)
 
 
-Clausura 2023  ‹§2clau›
+=== Clausura 2023  ‹§2clau›
 
-‹Regular Stage, see §2claureg› | ‹Playoff Stage, see §2clauplay›
 
-▪ Regular Stage ▪
+==== Regular Stage  ‹§2claureg›
 
 Participants:
 
@@ -1885,7 +1879,7 @@ Pumas Tabasco:    $86,000 USD+
 
 +Pumas Tabasco exonerated of the fine due its status of "filial team".
 
-▪ Playoff Stage ▪
+==== Playoff Stage  ‹§2clauplay›
 
 Preliminary Round (Repechaje) (over one leg)
 _ Apr 26 _

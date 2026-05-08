@@ -2,7 +2,7 @@
      title:   USA 2025
      source:  https://rsssf.org/tablesu/usa2025.html
      author:  Karel Stokkermans
-     updated: 7 Dec 2025    
+     updated: 7 Dec 2025
     -->
 
 
@@ -14,9 +14,8 @@
 
 == Major League Soccer  ‹§mls›
 
-‹Regular Season, see §reg› | ‹Championship Playoff, see §chplay›
 
-▪ Regular Season ▪
+=== Regular Season  ‹§reg›
 
 Final Tables:
 
@@ -24,16 +23,16 @@ Final Tables:
 
 <!-- $table2$ - Western Conference -->
 
-▪ Championship Playoff ▪
+=== Championship Playoff  ‹§chplay›
 
-▪ Conference Wild Card Round ▪
+==== Conference Wild Card Round  ‹§cwc›
 
 Eastern Conference [Oct 22]
 Chicago Fire           3-1 Orlando City
 Western Conference [Oct 22]
 Portland Timbers       3-1 Real Salt Lake
 
-▪ Eastern Conference Quarterfinals ▪
+==== Eastern Conference Quarterfinals  ‹§cqe›
 
 ▪ First Legs ▪
 _ Oct 24 _
@@ -60,7 +59,7 @@ _ Nov 8 _
 Inter Miami            4-0 Nashville SC
 FC Cincinnati          2-1 Columbus Crew
 
-▪ Western Conference Quarterfinals ▪
+==== Western Conference Quarterfinals  ‹§cqw›
 
 ▪ First Legs ▪
 _ Oct 26 _
@@ -86,7 +85,7 @@ Minnesota United       3-3 Seattle Sounders       (7-6 pen)
 _ Nov 9 _
 San Diego FC           4-0 Portland Timbers
 
-▪ Conference Semifinals ▪
+==== Conference Semifinals  ‹§csf›
 
 Eastern Conference [Nov 23]
 FC Cincinnati          0-4 Inter Miami

@@ -2,7 +2,7 @@
      title:   USA 2019
      source:  https://rsssf.org/tablesu/usa2019.html
      author:  Karel Stokkermans
-     updated: 12 Mar 2020    
+     updated: 12 Mar 2020
     -->
 
 
@@ -14,9 +14,8 @@
 
 == Major League Soccer  ‹§mls›
 
-‹Regular Season, see §reg› | ‹Championship Playoff, see §play›
 
-▪ Regular Season ▪
+=== Regular Season  ‹§reg›
 
 NB: FC Cincinnati were admitted
 
@@ -586,9 +585,9 @@ Final Tables:
 <!-- $table4$ - Western Conference -->
 
 
-▪ Championship Playoff ▪
+=== Championship Playoff  ‹§play›
 
-▪ Conference Quarterfinals ▪
+==== Conference Quarterfinals  ‹§cqf›
 
 Eastern Conference
 _ Oct 19 _
@@ -606,7 +605,7 @@ _ Oct 20 _
 Minnesota United FC    1-2 Los Angeles Galaxy
 Los Angeles FC         bye
 
-▪ Conference Semifinals ▪
+==== Conference Semifinals  ‹§csf›
 
 Eastern Conference
 _ Oct 23 _
