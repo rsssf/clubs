@@ -1,7 +1,6 @@
 = Austria | Bundesliga 2019/20
 
 
-‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
 === Regular Stage  ‹§reg›
 
@@ -237,7 +236,6 @@ Mattersburg      0-1 LASK
 
 === Playoff Stage  ‹§play›
 
-‹Championship Playoff, see §champ› | ‹Relegation Playoff, see §releg›
 
 ==== Championship Playoff  ‹§champ›
 

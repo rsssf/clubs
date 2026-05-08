@@ -14,7 +14,6 @@
 
 == Bundesliga  ‹§bund›
 
-‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
 === Regular Stage  ‹§reg›
 
@@ -248,7 +247,6 @@ Wolfsberg        1-1 Altach
 
 === Playoff Stage  ‹§play›
 
-‹Championship Playoff, see §champ› | ‹Relegation Playoff, see §releg›
 
 ==== Championship Playoff  ‹§champ›
 
@@ -914,7 +912,6 @@ NB: SW Bregenz 3 points deducted for fielding 3 Brazilian players who did not ha
 
 == Regionalliga  ‹§regliga›
 
-‹Regionalliga West, see §regwest› | ‹Regionalliga Mitte, see §regmitte› | ‹Regionalliga Ost, see §regost›
 
 === Regionalliga West  ‹§regwest›
 

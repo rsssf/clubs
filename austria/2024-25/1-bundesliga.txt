@@ -1,7 +1,6 @@
 = Austria | Bundesliga 2024/25
 
 
-‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
 === Regular Stage  ‹§reg›
 
@@ -233,7 +232,6 @@ Sturm            4-2 LASK
 
 === Playoff Stage  ‹§play›
 
-‹Championship Playoff, see §champ› | ‹Relegation Playoff, see §releg›
 
 ==== Championship Playoff  ‹§champ›
 

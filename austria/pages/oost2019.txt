@@ -14,7 +14,6 @@
 
 == Bundesliga  ‹§bund›
 
-‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
 === Regular Stage  ‹§reg›
 
@@ -242,7 +241,6 @@ Sturm            1-0 Austria
 
 === Playoff Stage  ‹§play›
 
-‹Championship Playoff, see §champ› | ‹Relegation Playoff, see §releg›
 
 ==== Championship Playoff  ‹§champ›
 
@@ -506,7 +504,6 @@ Promoted: GAK, FC Dornbirn
 
 == Regionalliga  ‹§regliga›
 
-‹Regionalliga West, see §regwest› | ‹Regionalliga Mitte, see §regmitte› | ‹Regionalliga Ost, see §regost›
 
 === Regionalliga West  ‹§regwest›
 

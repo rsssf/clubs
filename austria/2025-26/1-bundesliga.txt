@@ -1,7 +1,6 @@
 = Austria | Bundesliga 2025/26
 
 
-‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
 === Regular Stage  ‹§reg›
 
@@ -230,7 +229,6 @@ Wattens          2-0 GAK
 
 === Playoff Stage  ‹§play›
 
-‹Championship Playoff, see §champ› | ‹Relegation Playoff, see §releg›
 
 ==== Championship Playoff  ‹§champ›
 

@@ -1,7 +1,6 @@
 = Austria | Bundesliga 2021/22
 
 
-‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
 === Regular Stage  ‹§reg›
 
@@ -235,7 +234,6 @@ Hartberg         0-1 Wattens
 
 === Playoff Stage  ‹§play›
 
-‹Championship Playoff, see §champ› | ‹Relegation Playoff, see §releg›
 
 ==== Championship Playoff  ‹§champ›
 

@@ -1,7 +1,6 @@
 = Austria | Bundesliga 2022/23
 
 
-‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
 === Regular Stage  ‹§reg›
 
@@ -235,7 +234,6 @@ NB: Austria Wien 3 points deducted
 
 === Playoff Stage  ‹§play›
 
-‹Championship Playoff, see §champ› | ‹Relegation Playoff, see §releg›
 
 ==== Championship Playoff  ‹§champ›
 

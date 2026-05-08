@@ -14,7 +14,6 @@
 
 == Bundesliga  ‹§bund›
 
-‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
 
 === Regular Stage  ‹§reg›
 
@@ -246,7 +245,6 @@ Sturm            4-2 LASK
 
 === Playoff Stage  ‹§play›
 
-‹Championship Playoff, see §champ› | ‹Relegation Playoff, see §releg›
 
 ==== Championship Playoff  ‹§champ›
 
@@ -900,7 +898,6 @@ Ried             1-1 Vienna
 
 == Regionalliga  ‹§regliga›
 
-‹Regionalliga West, see §regwest› | ‹Regionalliga Mitte, see §regmitte› | ‹Regionalliga Ost, see §regost›
 
 === Regionalliga West  ‹§regwest›
 
