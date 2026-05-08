@@ -600,7 +600,6 @@ Southampton   4-4 Liverpool
 
 == Championship  ‹§champ›
 
-‹Regular Stage, see §2reg› | ‹Promotion Playoff, see §2prom›
 
 === Regular Stage  ‹§2reg›
 
@@ -632,7 +631,6 @@ Luton         1-1 Coventry      (aet, 6-5 pen)
 
 == Division 1  ‹§first›
 
-‹Regular Stage, see §3reg› | ‹Promotion Playoff, see §3prom›
 
 === Regular Stage  ‹§3reg›
 
@@ -664,7 +662,6 @@ Sheffield W   1-0 Barnsley      (aet)
 
 == Division 2  ‹§second›
 
-‹Regular Stage, see §4reg› | ‹Promotion Playoff, see §4prom›
 
 === Regular Stage  ‹§4reg›
 
@@ -694,7 +691,6 @@ Stockport     1-1 Carlisle      (aet, 4-5 pen)
 
 == National League  ‹§conf›
 
-‹Regular Stage, see §5reg› | ‹Promotion Playoff, see §5prom›
 
 === Regular Stage  ‹§5reg›
 

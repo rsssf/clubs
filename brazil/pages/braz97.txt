@@ -2,7 +2,7 @@
      title:   Brazil 1997
      source:  https://rsssf.org/tablesb/braz97.html
      authors: Marcelo Leme de Arruda, Miguel Alvim Gonzalez and Julio Bovi Diogo
-     updated: 18 Feb 2000    
+     updated: 18 Feb 2000
     -->
 
 
@@ -1456,14 +1456,9 @@ Juventus(SP)           3-1 Tupi(MG)
 
 <!-- $table40$ - Table -->
 
-‹1996, see page braz96›
 
-‹1998, see page braz98›
 
-‹Cup 1998, see page brazcup98›
 
-‹list of champions, see page brazchamp›.
 
-‹list of 2nd division champions, see page braz2champ›.
 
 

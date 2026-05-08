@@ -23,7 +23,6 @@
 
 == Cup Tournaments  ‹§cups›
 
-‹FA Cup, see §facup› | ‹League Cup, see §leaguecup›
 
 === FA Cup  ‹§facup›
 
@@ -377,7 +376,6 @@ Cardiff City            2-2 Liverpool               (aet, 2-3 pen)
 
 == Championship  ‹§champ›
 
-‹Regular Stage, see §2reg› | ‹Promotion Playoff, see §2prom›
 
 === Regular Stage  ‹§2reg›
 
@@ -412,7 +410,6 @@ NB: West Ham United promoted
 
 == Division 1  ‹§first›
 
-‹Regular Stage, see §3reg› | ‹Promotion Playoff, see §3prom›
 
 === Regular Stage  ‹§3reg›
 
@@ -445,7 +442,6 @@ NB: Huddersfield Town promoted
 
 == Division 2  ‹§second›
 
-‹Regular Stage, see §4reg› | ‹Promotion Playoff, see §4prom›
 
 === Regular Stage  ‹§4reg›
 
@@ -480,7 +476,6 @@ NB: Crewe Alexandra promoted
 
 == Conference  ‹§conf›
 
-‹Regular Stage, see §5reg› | ‹Promotion Playoff, see §5prom›
 
 === Regular Stage  ‹§5reg›
 

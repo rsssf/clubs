@@ -2,7 +2,7 @@
      title:   V COPA BRASIL - 1979 [Brazilian Championship]
      source:  https://rsssf.org/tablesb/braz79.html
      author:  Ricardo Pontes
-     updated: 2 Apr 2005    
+     updated: 2 Apr 2005
     -->
 
 
@@ -1724,13 +1724,9 @@ SC Internacional are the 1979 undefeated Brazilian champions
 Final Table
 <!-- $table20$ - Table -->
 
-‹1978, see page braz78›
 
-‹1980, see page braz80›
 
-‹list of champions, see page brazchamp›.
 
-‹list of 2nd division champions, see page braz2champ›.
 
 
 

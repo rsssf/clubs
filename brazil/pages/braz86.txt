@@ -2,7 +2,7 @@
      title:   Brazil 1986
      source:  https://rsssf.org/tablesb/braz86.html
      authors: Ricardo Pontes and Marcelo Leme de Arruda
-     updated: 2 Apr 2005    
+     updated: 2 Apr 2005
     -->
 
 
@@ -1759,12 +1759,8 @@ São Paulo         1-1   1-1  Guarani     [aet 2-2, pen 3-4]
 
 <!-- $table13$ - Final Table -->
 
-‹1985, see page braz85›
 
-‹1987, see page braz87›
 
-‹list of champions, see page brazchamp›.
 
-‹list of 2nd division champions, see page braz2champ›.
 
 
