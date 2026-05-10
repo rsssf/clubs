@@ -1,9 +1,17 @@
-  <!--
-     title:   Austria 1982/83
-     source:  https://rsssf.org/tableso/oost83.html
-     author:  Ambrosius Kutschera
-     updated: 10 Oct 2004
-    -->
+<!--
+   title:   Austria 1982/83
+   source:  https://rsssf.org/tableso/oost83.html
+   author:  Ambrosius Kutschera
+   updated: 10 Oct 2004
+  -->
+
+<!--
+                     Contents:
+
+         1.Division                       
+         2.Division                       
+  -->
+
 
 
 
@@ -397,13 +405,5 @@ Promoted to the 2.Division:
 ASK Voitsberg (Mitte)
 Kremser SC (Ost)
 SK Kufstein (West)
-
-
-
-
-
-
-
-
 
 

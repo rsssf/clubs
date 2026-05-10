@@ -1,13 +1,18 @@
-  <!--
-     title:   Spain 2015/16
-     source:  https://rsssf.org/tabless/span2016.html
-     author:  Karel Stokkermans
-     updated: 18 Jul 2019
-    -->
+<!--
+   title:   Spain 2015/16
+   source:  https://rsssf.org/tabless/span2016.html
+   author:  Karel Stokkermans
+   updated: 18 Jul 2019
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Primera División (Liga BBVA)       (see §laliga)
+         Copa del Rey                       (see §coparey)
+         Segunda División (Liga Adelante)   (see §segunda)
+           Promotion Playoff                (see §2prom)
+  -->
 
 
 
@@ -594,9 +599,6 @@ Sporting                  2-0 Villarreal
 <!-- $table2$ - Final Table -->
 
 
-
-
-
 == Copa del Rey  ‹§coparey›
 
 ▪ Round 1 ▪
@@ -771,9 +773,6 @@ RC Celta de Vigo          2-2 Sevilla FC
 
 ▪ Final ▪  May 22 @ Madrid
 FC Barcelona              2-0 Sevilla FC                (aet)
-
-
-
 
 
 == Segunda División (Liga Adelante)  ‹§segunda›

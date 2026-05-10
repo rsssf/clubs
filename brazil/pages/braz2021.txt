@@ -1,13 +1,19 @@
-  <!--
-     title:   Brazil 2021
-     source:  https://rsssf.org/tablesb/braz2021.html
-     author:  RSSSF Brazil
-     updated: 8 Dec 2025
-    -->
+<!--
+   title:   Brazil 2021
+   source:  https://rsssf.org/tablesb/braz2021.html
+   author:  RSSSF Brazil
+   updated: 8 Dec 2025
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Série A                            (see §sa)
+         Copa do Brasil 2021                (see §cb)
+         Supercopa do Brasil 2022           (see §supcb)
+         Série B                            (see §sb)
+         Série C                            (see §sc)
+  -->
 
 
 
@@ -594,10 +600,6 @@ Sport Recife    1-1 Athletico/PR
 <!-- $table2$ - Final Table -->
 
 
-
-
-
-
 == Copa do Brasil 2021  ‹§cb›
 
 ▪ 1/8 Finals ▪
@@ -666,27 +668,15 @@ Atlético/MG     4-0 Athletico/PR
 Athletico/PR    1-2 Atlético/MG
 
 
-
-
-
-
 == Supercopa do Brasil 2022  ‹§supcb›
 
 _ Feb 20 2022 _ @ Cuiabá
 Atlético/MG     2-2 Flamengo        [8-7 pen(no extra time)]
 
 
-
-
-
-
 == Série B  ‹§sb›
 
 <!-- $table3$ - Final Table -->
-
-
-
-
 
 
 == Série C  ‹§sc›

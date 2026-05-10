@@ -1,11 +1,9 @@
-  <!--
-     title:   USA 1997
-     source:  https://rsssf.org/tablesu/usa97.html
-     author:  Dave Litterer
-     updated: 25 Oct 2003
-    -->
-
-
+<!--
+   title:   USA 1997
+   source:  https://rsssf.org/tablesu/usa97.html
+   author:  Dave Litterer
+   updated: 25 Oct 2003
+  -->
 
 
 
@@ -267,15 +265,5 @@ DC United 2 - 1 San Francisco Bay Seals
 ▪ FINAL ▪
 _ Wed Oct 29 _
 Dallas Burn 0 - 0 DC United (5-3)
-
-
-
-
-
-
-
-
-
-
 
 

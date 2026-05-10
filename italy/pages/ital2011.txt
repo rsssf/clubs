@@ -1,13 +1,37 @@
-  <!--
-     title:   Italy 2010/11
-     source:  https://rsssf.org/tablesi/ital2011.html
-     authors: Giacomo Giusti, Roberto Di Maggio and Andrea Ferrigno
-     updated: 18 Jan 2024
-    -->
+<!--
+   title:   Italy 2010/11
+   source:  https://rsssf.org/tablesi/ital2011.html
+   authors: Giacomo Giusti, Roberto Di Maggio and Andrea Ferrigno
+   updated: 18 Jan 2024
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Serie A                            (see §seriea)
+         Coppa Italia                       (see §coppa)
+         Serie B                            (see §serieb)
+           Regular Season                   (see §2reg)
+           Promotion Playoff                (see §2prom)
+           Relegation Playoff               (see §2releg)
+         Prima Divisione                    (see §prima)
+           Gruppo A                         (see §3a)
+           Gruppo B                         (see §3b)
+         Seconda Divisione                  (see §seconda)
+           Gruppo A                         (see §4a)
+           Gruppo B                         (see §4b)
+           Gruppo C                         (see §4c)
+         Serie D                            (see §seried)
+           Gruppo A                         (see §5a)
+           Gruppo B                         (see §5b)
+           Gruppo C                         (see §5c)
+           Gruppo D                         (see §5d)
+           Gruppo E                         (see §5e)
+           Gruppo F                         (see §5f)
+           Gruppo G                         (see §5g)
+           Gruppo H                         (see §5h)
+           Gruppo I                         (see §5i)
+  -->
 
 
 
@@ -997,10 +1021,6 @@ Udinese    0-0 Milan
 <!-- $table2$ - Final Table -->
 
 
-
-
-
-
 == Coppa Italia  ‹§coppa›
 
 ▪ First Round ▪
@@ -1212,13 +1232,7 @@ Palermo: Sirigu, Cassani, Goian (24 Carrozzieri), Munoz,
  Pastore, Ilicic, Hernandez (78 Pinilla). Tr.: Rossi
 
 
-
-
-
-
 == Serie B  ‹§serieb›
-
-
 === Regular Season  ‹§2reg›
 
 <!-- $table3$ - Final Table -->
@@ -1296,7 +1310,6 @@ A relegation playoff is played if the difference between 18th and 19th place is 
 [30/08/2010] Empoli                                        0-0 Pescara
 
 
-
 ▪ Round 3 ▪
 [04/09/2010] Torino                                        1-1 Crotone
 48' Aniello Cutolo (0-1); 76' Antimo Iunco (1-1)
@@ -1329,7 +1342,6 @@ A relegation playoff is played if the difference between 18th and 19th place is 
 9' Ettore Marchi (1-0)
 
 [05/09/2010] Varese                                        0-0 Empoli
-
 
 
 ▪ Round 4 ▪
@@ -1681,7 +1693,6 @@ A relegation playoff is played if the difference between 18th and 19th place is 
 [06/11/2010] Varese                                        0-0 Cittadella
 
 
-
 ▪ Round 14 ▪
 [09/11/2010] Atalanta                                      1-0 Modena
 45+2' Giacomo Bonaventura (1-0)
@@ -1714,7 +1725,6 @@ A relegation playoff is played if the difference between 18th and 19th place is 
 45+1' Rolando Bianchi (1-0)
 
 [08/12/2010] Vicenza                                        -  Siena
-
 
 
 ▪ Round 15 ▪
@@ -1790,13 +1800,7 @@ AlbinoLeffe 2-2 Piacenza
 NB: Piacenza relegated on worse regular season record
 
 
-
-
-
-
 == Prima Divisione  ‹§prima›
-
-
 === Gruppo A  ‹§3a›
 
 <!-- $table5$ - Table -->
@@ -2181,7 +2185,6 @@ Awarded for the irregular position of player Fausto Ferrari disqualified. Match 
 [01/12/2010] Hellas Verona                                  -  Sorrento
 
 
-
 ▪ Round 14 ▪
 [21/11/2010] Bassano Virtus                                0-0 Spezia
 
@@ -2274,7 +2277,6 @@ Foligno one point deducted
 31' Domenico Di Cecco (1-0)
 
 [30/08/2010] Ternana                                       0-0 Cosenza
-
 
 
 ▪ Round 3 ▪
@@ -2392,7 +2394,6 @@ Foligno one point deducted
 [27/10/2010] Atletico Roma                                 0-0 Virtus Lanciano
 
 
-
 ▪ Round 7 ▪
 [03/10/2010] Barletta                                      2-0 Cosenza
 36' Nicola Bellomo (1-0); 62' Nicola Bellomo (2-0)
@@ -2477,7 +2478,6 @@ Foligno one point deducted
 35' Daniel Ciofani (0-1); 73' Tommaso Marolda (1-1)
 
 [17/10/2010] Virtus Lanciano                               0-0 Ternana
-
 
 
 ▪ Round 10 ▪
@@ -2566,7 +2566,6 @@ Foligno one point deducted
 [08/11/2010] Lucchese                                      0-0 Nocerina
 
 
-
 ▪ Round 13 ▪
 [14/11/2010] Andria Bat                                    1-1 Cosenza
 2' Alessandro Moro (1-0); 82' Ayub Daud (1-1)
@@ -2593,7 +2592,6 @@ Foligno one point deducted
 47' Alessandro Marotta (0-1); 72' Denis D'Onofrio (1-1)
 
 [14/11/2010] Virtus Lanciano                               0-0 Taranto
-
 
 
 ▪ Round 14 ▪
@@ -2625,14 +2623,7 @@ Foligno one point deducted
 16' Marco Carparelli (1-0); 61' Carlo Mammarella (1-1)
 
 
-
-
-
-
-
 == Seconda Divisione  ‹§seconda›
-
-
 === Gruppo A  ‹§4a›
 
 <!-- $table7$ - Table -->
@@ -2821,7 +2812,6 @@ Rodengo Saiano one point deducted
 [10/10/2010] Virtus Entella                                0-0 Sanremese
 
 
-
 ▪ Round 8 ▪
 [17/10/2010] Canavese                                      0-0 Tritium
 
@@ -2845,7 +2835,6 @@ Rodengo Saiano one point deducted
 10' Rodolfo Moronti (1-0); 90+1' Nicolas Siega (1-1)
 
 [17/10/2010] Savona                                        0-0 Valenzana
-
 
 
 ▪ Round 9 ▪
@@ -2949,7 +2938,6 @@ Rodengo Saiano one point deducted
 14' Alessio Battaglino (0-1) pen; 29' Rodolfo Moronti (1-1) pen; 42' Stefano Brognoli (1-2); 68' Simone Siciliano (2-2)
 
 [14/11/2010] Valenzana                                     0-0 Sacilese
-
 
 
 ▪ Round 13 ▪
@@ -3217,7 +3205,6 @@ Sangiovannese four points deducted
 [31/10/2010] Poggibonsi                                    1-1 San Marino
 
 
-
 ▪ Round 10 ▪
 [07/11/2010] Carpi                                         2-0 Chieti
 
@@ -3241,7 +3228,6 @@ Sangiovannese four points deducted
 
 
 [07/11/2010] Villacidrese                                  4-1 Poggibonsi
-
 
 
 ▪ Round 11 ▪
@@ -3431,7 +3417,6 @@ In all groups a relegation playoff is played if the difference between 15th and 
 [17/10/2010] Pomezia                                       0-0 Latina
 
 
-
 ▪ Round 7 ▪
 [10/10/2010] Avellino                                      1-0 Pomezia
 87' Ferdinando Rega (1-0)
@@ -3509,7 +3494,6 @@ In all groups a relegation playoff is played if the difference between 15th and 
 [31/10/2010] Vigor Lametia                                 0-1 Pomezia
 
 
-
 ▪ Round 10 ▪
 [07/11/2010] Catanzaro                                     0-2 Milazzo
 
@@ -3533,7 +3517,6 @@ In all groups a relegation playoff is played if the difference between 15th and 
 
 
 [07/11/2010] Vibonese                                      2-2 Latina
-
 
 
 ▪ Round 11 ▪
@@ -3561,15 +3544,7 @@ In all groups a relegation playoff is played if the difference between 15th and 
 [14/11/2010] Vigor Lametia                                 4-1 Melfi
 
 
-
-
-
-
-
 == Serie D  ‹§seried›
-
-
-
 === Gruppo A  ‹§5a›
 
 <!-- $table10$ - Table -->

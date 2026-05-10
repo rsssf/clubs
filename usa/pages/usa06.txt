@@ -1,13 +1,9 @@
-  <!--
-     title:   USA 2006
-     source:  https://rsssf.org/tablesu/usa06.html
-     author:  David A. Litterer
-     updated: 11 Sep 2019
-    -->
-
-
-
-
+<!--
+   title:   USA 2006
+   source:  https://rsssf.org/tablesu/usa06.html
+   author:  David A. Litterer
+   updated: 11 Sep 2019
+  -->
 
 
 
@@ -359,9 +355,6 @@ Houston Dynamo  3-1 Colorado Rapids
 NE Revolution   1-1 Houston Dynamo        (aet, 3-4 pen)
 
 
-
-
-
 USL - 1ST DIVISION (2nd Division)
 
 <!-- $table5$ -->
@@ -378,7 +371,6 @@ Voyageurs Cup  ‹§voyageurs›
 NB: based on the head-to-head results of the Canadian USL 1st Division members
 
 <!-- $table6$ -->
-
 
 
 USL - 2ND DIVISION (3rd Division)
@@ -464,6 +456,5 @@ Minnesota NSC United         9   2   7   0             6
 Grand Rapids Alliance       10   1   8   1             4
 
 CHAMPIONSHIP:  Sacramento defeated Princeton 2-0
-
 
 

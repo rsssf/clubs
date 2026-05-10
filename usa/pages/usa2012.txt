@@ -1,19 +1,29 @@
-  <!--
-     title:   USA 2012
-     source:  https://rsssf.org/tablesu/usa2012.html
-     author:  Ian King
-     updated: 14 Mar 2013
-    -->
+<!--
+   title:   USA 2012
+   source:  https://rsssf.org/tablesu/usa2012.html
+   author:  Ian King
+   updated: 14 Mar 2013
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Major League Soccer                (see §mls)
+           Regular Season                   (see §reg)
+           Championship Playoff             (see §play)
+             Wild Card Games                (see §wcard)
+             Eastern Semifinals             (see §esemi)
+             Eastern Conference Final       (see §efinal)
+             Western Semifinals             (see §wsemi)
+             Western Conference Final       (see §wfinal)
+             MLS Cup 2012                   (see §mlscup)
+         US Open Cup                        (see §open)
+  -->
 
 
 
 
 == Major League Soccer  ‹§mls›
-
 
 === Regular Season  ‹§reg›
 
@@ -30,7 +40,6 @@ NB: top-3 of both conferences qualified for conference semifinals;
 
 
 === Championship Playoff  ‹§play›
-
 ==== Wild Card Games  ‹§wcard›
 
 _ Oct 31 _
@@ -97,9 +106,6 @@ Los Angeles Galaxy         3-1 Houston Dynamo
 
 NB: both finalists had to qualify through the wild card games; both had also
     contested the 2011 final, also won by Los Angeles Galaxy
-
-
-
 
 
 == US Open Cup  ‹§open›

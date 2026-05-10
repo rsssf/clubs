@@ -1,13 +1,18 @@
-  <!--
-     title:   Spain 2011/12
-     source:  https://rsssf.org/tabless/span2012.html
-     author:  Karel Stokkermans
-     updated: 28 Jan 2021
-    -->
+<!--
+   title:   Spain 2011/12
+   source:  https://rsssf.org/tabless/span2012.html
+   author:  Karel Stokkermans
+   updated: 28 Jan 2021
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Primera División (Liga BBVA)       (see §laliga)
+         Copa del Rey                       (see §coparey)
+         Segunda División (Liga Adelante)   (see §segunda)
+           Promotion Playoff                (see §2prom)
+  -->
 
 
 
@@ -15,9 +20,6 @@
 == Primera División (Liga BBVA)  ‹§laliga›
 
 <!-- $table1$ - Final Table -->
-
-
-
 
 
 == Copa del Rey  ‹§coparey›
@@ -191,10 +193,6 @@ FC Barcelona              2-0 Valencia CF
 
 ▪ Final ▪  May 25 @ Madrid
 Athletic Club (Bilbao)    0-3 FC Barcelona
-
-
-
-
 
 
 == Segunda División (Liga Adelante)  ‹§segunda›

@@ -1,13 +1,22 @@
-  <!--
-     title:   Spain 2022/23
-     source:  https://rsssf.org/tabless/span2023.html
-     author:  Karel Stokkermans
-     updated: 21 Nov 2023
-    -->
+<!--
+   title:   Spain 2022/23
+   source:  https://rsssf.org/tabless/span2023.html
+   author:  Karel Stokkermans
+   updated: 21 Nov 2023
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Primera División                   (see §laliga)
+         Segunda División                   (see §segunda)
+           Promotion Playoff                (see §2prom)
+         Primera RFEF                       (see §1rfef)
+           Grupo 1                          (see §3g1)
+           Grupo 2                          (see §3g2)
+           Final                            (see §3gf)
+           Promotion Playoff                (see §3gp)
+  -->
 
 
 
@@ -615,10 +624,6 @@ Valladolid                0-0 Getafe
 <!-- $table3$ - Final Table -->
 
 
-
-
-
-
 == Segunda División  ‹§segunda›
 
 <!-- $table4$ - Final Table -->
@@ -646,13 +651,7 @@ Alavés                    0-0 Levante
 Levante                   0-1 Alavés                    (aet)
 
 
-
-
-
-
 == Primera RFEF  ‹§1rfef›
-
-
 === Grupo 1  ‹§3g1›
 
 <!-- $table5$ - Final Table -->

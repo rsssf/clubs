@@ -1,9 +1,16 @@
-  <!--
-     title:   Germany 1998/99
-     source:  https://rsssf.org/tablesd/duit99.html
-     author:  Gwidon Naskrent
-     updated: 1 Apr 2001
-    -->
+<!--
+   title:   Germany 1998/99
+   source:  https://rsssf.org/tablesd/duit99.html
+   author:  Gwidon Naskrent
+   updated: 1 Apr 2001
+  -->
+
+<!--
+                     Contents:
+
+         DFB Pokal                        
+         2. Bundesliga                    
+  -->
 
 
 
@@ -685,8 +692,6 @@ FC Bayern München 1998/99
      Alexander ZICKLER       26  (1230) + 7
 
 
-
-
 <!-- $topscorers2$ -->
 
 
@@ -897,23 +902,5 @@ SG Quelle Fürth (R-Up Bayern) - SV Sandhausen 3-3
 SG Hoechst - SG Quelle F"urth 0-2
 
 <!-- $table10$ -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 

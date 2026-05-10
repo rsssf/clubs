@@ -1,13 +1,20 @@
-  <!--
-     title:   Germany 2022/23
-     source:  https://rsssf.org/tablesd/duit2023.html
-     author:  Karel Stokkermans
-     updated: 21 Nov 2023
-    -->
+<!--
+   title:   Germany 2022/23
+   source:  https://rsssf.org/tablesd/duit2023.html
+   author:  Karel Stokkermans
+   updated: 21 Nov 2023
+  -->
 
+<!--
+                     Contents:
 
-
-
+         1. Bundesliga                      (see §1bl)
+           Promotion/Relegation Playoff 1./2. Bundesliga  (see §1prorel)
+         2. Bundesliga                      (see §2bl)
+           Promotion/Relegation Playoff 2./3. Bundesliga  (see §2prorel)
+         3. Liga                            (see §3bl)
+           Promotion Playoffs for 3. Bundesliga  (see §3pro)
+  -->
 
 
 
@@ -501,9 +508,6 @@ Hamburg         1-3 Stuttgart
 NB: both remain at former level
 
 
-
-
-
 == 2. Bundesliga  ‹§2bl›
 
 <!-- $table4$ - Final Table -->
@@ -517,9 +521,6 @@ Wehen Wiesbaden 4-0 Bielefeld
 Bielefeld       1-2 Wehen Wiesbaden
 
 NB: SV Wehen Wiesbaden promoted, Arminia Bielefeld relegated
-
-
-
 
 
 == 3. Liga  ‹§3bl›

@@ -1,19 +1,35 @@
-  <!--
-     title:   England 2018/19
-     source:  https://rsssf.org/tablese/eng2019.html
-     authors: Karel Stokkermans and Roberto Di Maggio
-     updated: 7 Jul 2022
-    -->
+<!--
+   title:   England 2018/19
+   source:  https://rsssf.org/tablese/eng2019.html
+   authors: Karel Stokkermans and Roberto Di Maggio
+   updated: 7 Jul 2022
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Premier League                     (see §premier)
+         Cup Tournaments                    (see §cups)
+           FA Cup                           (see §facup)
+           League Cup                       (see §leaguecup)
+         Championship                       (see §champ)
+           Regular Stage                    (see §2reg)
+           Promotion Playoff                (see §2prom)
+         Division 1                         (see §first)
+           Regular Stage                    (see §3reg)
+           Promotion Playoff                (see §3prom)
+         Division 2                         (see §second)
+           Regular Stage                    (see §4reg)
+           Promotion Playoff                (see §4prom)
+         National League                    (see §conf)
+           Regular Stage                    (see §5reg)
+           Promotion Playoff                (see §5prom)
+  -->
 
 
 
 
 == Premier League  ‹§premier›
-
 
 <!-- $table1$ - Final Table -->
 
@@ -589,12 +605,7 @@ Watford       1-4 West Ham
 ‹Premier League 2018/19 Match Details, see page eng2019det›
 
 
-
-
-
 == Cup Tournaments  ‹§cups›
-
-
 === FA Cup  ‹§facup›
 
 ▪ Round 1 ▪
@@ -935,13 +946,7 @@ Chelsea                 2-1 Tottenham Hotspur       (4-2 pen)
 Manchester City         0-0 Chelsea                 (aet, 4-3 pen)
 
 
-
-
-
-
 == Championship  ‹§champ›
-
-
 === Regular Stage  ‹§2reg›
 
 <!-- $table4$ - Final Table -->
@@ -966,13 +971,7 @@ Leeds         2-4 Derby
 Aston Villa   2-1 Derby
 
 
-
-
-
-
 == Division 1  ‹§first›
-
-
 === Regular Stage  ‹§3reg›
 
 <!-- $table5$ - Final Table -->
@@ -997,13 +996,7 @@ Charlton      2-3 Doncaster     (aet, 4-3 pen)
 Charlton      2-1 Sunderland
 
 
-
-
-
-
 == Division 2  ‹§second›
-
-
 === Regular Stage  ‹§4reg›
 
 <!-- $table6$ - Final Table -->
@@ -1028,13 +1021,7 @@ Forest Green  1-1 Tranmere
 Newport       0-1 Tranmere      (aet)
 
 
-
-
-
-
 == National League  ‹§conf›
-
-
 === Regular Stage  ‹§5reg›
 
 <!-- $table7$ - Final Table -->

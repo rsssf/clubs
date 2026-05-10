@@ -1,13 +1,20 @@
-  <!--
-     title:   Italy 2019/20
-     source:  https://rsssf.org/tablesi/ital2020.html
-     authors: Roberto Di Maggio and Karel Stokkermans
-     updated: 8 Oct 2020
-    -->
+<!--
+   title:   Italy 2019/20
+   source:  https://rsssf.org/tablesi/ital2020.html
+   authors: Roberto Di Maggio and Karel Stokkermans
+   updated: 8 Oct 2020
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Serie A                            (see §seriea)
+         Coppa Italia                       (see §coppa)
+         Serie B                            (see §serieb)
+           Regular Season                   (see §2reg)
+           Promotion Playoff                (see §2prom)
+           Relegation Playoff               (see §2rel)
+  -->
 
 
 
@@ -590,10 +597,6 @@ Sassuolo        0-1 Udinese
 <!-- $table2$ - Final Table -->
 
 
-
-
-
-
 == Coppa Italia  ‹§coppa›
 
 <!-- start pre -->Round 1
@@ -804,13 +807,7 @@ Penalty Kicks: Dyabala (missed), Insigne, Danilo (missed), Politano,
                Bonucci, Maksimovic, Ramsey, Milik
 
 
-
-
-
-
 == Serie B  ‹§serieb›
-
-
 === Regular Season  ‹§2reg›
 
 <!-- $table3$ - Final Table -->

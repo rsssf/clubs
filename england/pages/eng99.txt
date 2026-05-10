@@ -1,10 +1,9 @@
-  <!--
-     title:   England 1998/99
-     source:  https://rsssf.org/tablese/eng99.html
-     author:  RSSSF
-     updated: 20 Dec 1999
-    -->
-
+<!--
+   title:   England 1998/99
+   source:  https://rsssf.org/tablese/eng99.html
+   author:  RSSSF
+   updated: 20 Dec 1999
+  -->
 
 
 
@@ -872,13 +871,5 @@ Dr Martens League Premier Division
 UniBond League Premier Division
 
 <!-- $table9$ - Final Table -->
-
-
-
-
-
-
-
-
 
 

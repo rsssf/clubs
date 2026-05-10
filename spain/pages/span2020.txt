@@ -1,13 +1,18 @@
-  <!--
-     title:   Spain 2019/20
-     source:  https://rsssf.org/tabless/span2020.html
-     author:  Karel Stokkermans
-     updated: 8 Apr 2021
-    -->
+<!--
+   title:   Spain 2019/20
+   source:  https://rsssf.org/tabless/span2020.html
+   author:  Karel Stokkermans
+   updated: 8 Apr 2021
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Primera División                   (see §laliga)
+         Copa del Rey                       (see §coparey)
+         Segunda División (Liga Adelante)   (see §segunda)
+           Promotion Playoff                (see §2prom)
+  -->
 
 
 
@@ -591,10 +596,6 @@ Sevilla                   1-0 Valencia
 <!-- $table3$ - Final Table -->
 
 
-
-
-
-
 == Copa del Rey  ‹§coparey›
 
 ▪ Preliminary Round ▪  Nov 13
@@ -762,10 +763,6 @@ Granada CF                2-1 Athletic Club (Bilbao)
 
 ▪ Final ▪  Apr 3 2021 @ Estadio La Cartuja, Sevilla
 Athletic Club (Bilbao)    0-1 Real Sociedad
-
-
-
-
 
 
 == Segunda División (Liga Adelante)  ‹§segunda›

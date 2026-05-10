@@ -1,9 +1,9 @@
-  <!--
-     title:   Brazil 1987
-     source:  https://rsssf.org/tablesb/braz87.html
-     authors: Ricardo Pontes and Marcelo Leme de Arruda
-     updated: 2 Apr 2005
-    -->
+<!--
+   title:   Brazil 1987
+   source:  https://rsssf.org/tablesb/braz87.html
+   authors: Ricardo Pontes and Marcelo Leme de Arruda
+   updated: 2 Apr 2005
+  -->
 
 
 
@@ -276,7 +276,6 @@ TEAM              Pts   P   W   D   L   GF   GA   DIF
 GROUP B
 TEAM              Pts   P   W   D   L   GF   GA   DIF
 <!-- $table2$ -->
-
 
 
 ▪ SECOND STAGE ▪
@@ -566,7 +565,6 @@ CR Flamengo were the 1987 Brazilian champions.
 BRAZILIAN CHAMPIONSHIP 1987 - FINAL TABLE
 TEAM              Pts   P   W   D   L   GF   GA   DIF
 <!-- $table5$ -->
-
 
 
 Taça Roberto Gomes Pedrosa/Yellow Module
@@ -1230,9 +1228,5 @@ Juventude 0x2 Uberlândia
 3. Juventude      1
 
 Americano is promoted to the 2nd level.
-
-
-
-
 
 

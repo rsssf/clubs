@@ -1,10 +1,9 @@
-  <!--
-     title:   Germany 1967/68
-     source:  https://rsssf.org/tablesd/duit68.html
-     author:  Gwidon Naskrent
-     updated: 1 Apr 2001
-    -->
-
+<!--
+   title:   Germany 1967/68
+   source:  https://rsssf.org/tablesd/duit68.html
+   author:  Gwidon Naskrent
+   updated: 1 Apr 2001
+  -->
 
 
 
@@ -545,7 +544,5 @@ Stuttgart   4-1 Hamburger   (Gress 8, Larsson 17, Sieloff 30 p, Handschuh 52 -
         Heinz STREHL         33  (2881)  +18
         Georg VOLKERT        33  (2951)  + 9
     Ferdinand WENAUER        35  (3060)
-
-
 
 

@@ -1,9 +1,20 @@
-  <!--
-     title:   Austria 1995/96
-     source:  https://rsssf.org/tableso/oost96.html
-     authors: Ambrosius Kutschera and Karel Stokkermans
-     updated: 31 Oct 2004
-    -->
+<!--
+   title:   Austria 1995/96
+   source:  https://rsssf.org/tableso/oost96.html
+   authors: Ambrosius Kutschera and Karel Stokkermans
+   updated: 31 Oct 2004
+  -->
+
+<!--
+                     Contents:
+
+         1.Bundesliga                     
+         Austria, OeFB ("Magnofit") Cup 1995/96
+         2.Bundesliga                     
+         Austria 1995/96 Third Level (Regionalligen)
+         Fourth Level (Landesligen)       
+  -->
+
 
 
 
@@ -344,7 +355,6 @@ Gerasdorf        0-6 Admira/Wacker
 Admira/Wacker remains in first division.
 
 
-
 == Austria, OeFB ("Magnofit") Cup 1995/96
 
 
@@ -503,7 +513,6 @@ Admira/Wacker: Knaller; Müller (54'I.Ogris), H.Kogler, Graf; Binder, Gager,
 Morous, Rosenegger, Panis (71'Scharrer); Rodax, Mayrleb (63'Klausz).
 
 Referee: Plautz, att: 8800.
-
 
 
 == 2.Bundesliga
@@ -1503,14 +1512,5 @@ Eighth Level
 3. Klasse
 
 <!-- $table67$ -->
-
-
-
-
-
-
-
-
-
 
 

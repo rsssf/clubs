@@ -1,13 +1,17 @@
-  <!--
-     title:   Brazil 2017
-     source:  https://rsssf.org/tablesb/braz2017.html
-     author:  RSSSF Brazil
-     updated: 8 Dec 2025
-    -->
+<!--
+   title:   Brazil 2017
+   source:  https://rsssf.org/tablesb/braz2017.html
+   author:  RSSSF Brazil
+   updated: 8 Dec 2025
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Série A                            (see §sa)
+         Copa do Brasil                     (see §cb)
+         Série B                            (see §sb)
+  -->
 
 
 
@@ -582,9 +586,6 @@ Vitória         1-2 Flamengo
 Promoted: América/MG, Internacional, Ceará, Paraná
 
 
-
-
-
 == Copa do Brasil  ‹§cb›
 
 Participants:
@@ -995,10 +996,6 @@ Semifinals (16/08 to 23/08)
 CRUZEIRO champions of Copa do Brasil 2017 and classified to Copa Libertadores 2018.
 
 <!-- $topscorers1$ -->
-
-
-
-
 
 
 

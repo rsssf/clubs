@@ -1,9 +1,9 @@
-  <!--
-     title:   Brazil 2000 - Copa João Havelange
-     source:  https://rsssf.org/tablesb/braz-joao00.html
-     authors: Guillermo Rivera, Antônio Message Jr. and Miguel Alvim Gonzalez
-     updated: 15 Aug 2001
-    -->
+<!--
+   title:   Brazil 2000 - Copa João Havelange
+   source:  https://rsssf.org/tablesb/braz-joao00.html
+   authors: Guillermo Rivera, Antônio Message Jr. and Miguel Alvim Gonzalez
+   updated: 15 Aug 2001
+  -->
 
 
 
@@ -1830,14 +1830,6 @@ NB: on January 13, 2001, CBF announced that São Caetano were promoted to the fi
     level of the 'regular' league because of its successes in the Copa Havelange.
 
 <!-- $topscorers1$ -->
-
-
-
-
-
-
-
-
 
 
 

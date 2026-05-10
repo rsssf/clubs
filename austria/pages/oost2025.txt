@@ -1,19 +1,41 @@
-  <!--
-     title:   Austria 2024/25
-     source:  https://rsssf.org/tableso/oost2025.html
-     author:  Hans Schöggl
-     updated: 7 Jul 2025
-    -->
+<!--
+   title:   Austria 2024/25
+   source:  https://rsssf.org/tableso/oost2025.html
+   author:  Hans Schöggl
+   updated: 7 Jul 2025
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Bundesliga                         (see §bund)
+           Regular Stage                    (see §reg)
+           Playoff Stage                    (see §play)
+             Championship Playoff           (see §champ)
+           Conference League Playoff        (see §conf)
+             Relegation Playoff             (see §releg)
+         ÖFB Cup                            (see §cup)
+         2. Liga (Second Level)             (see §1liga)
+         Regionalliga                       (see §regliga)
+           Regionalliga West                (see §regwest)
+           Regionalliga Mitte               (see §regmitte)
+           Regionalliga Ost                 (see §regost)
+         Cup Tournaments Bundesländer       (see §bundcup)
+           BFV-Cup (Burgenland) 2024/25     (see §burgcup)
+           Kärnten-Cup 2024/25              (see §kaerncup)
+           NÖ Meistercup (Niederösterreich) 2024/25  (see §noecup)
+           OÖ-Landescup (Oberösterreich) 2024/25  (see §ooecup)
+           Salzburger Landescup 2024/25     (see §salzcup)
+           Steirer-Cup 2024/25              (see §steicup)
+           Tirol-Cup 2024/25                (see §tircup)
+           VFV-Cup (Vorarlberg) 2024/25     (see §vorcup)
+           Wiener Landescup 2024/25         (see §wiencup)
+  -->
 
 
 
 
 == Bundesliga  ‹§bund›
-
 
 === Regular Stage  ‹§reg›
 
@@ -244,8 +266,6 @@ Sturm            4-2 LASK
 <!-- $table2$ - Final Table -->
 
 === Playoff Stage  ‹§play›
-
-
 ==== Championship Playoff  ‹§champ›
 
 <!-- $table3$ - Final Table -->
@@ -402,10 +422,6 @@ NB: teams carry over half their points from the regular stage (listed between
     square brackets), rounded downwards (marked by * where applicable)
 
 
-
-
-
-
 == ÖFB Cup  ‹§cup›
 
 ▪ Round 1 ▪
@@ -495,9 +511,6 @@ FK Austria Wien                     0-1 TSV Hartberg
 ▪ Final ▪  May 1 @ Wörthersee Stadion, Klagenfurt; att: 20,500
 Wolfsberger AC                      1-0 TSV Hartberg
   (Gattermayer 77)
-
-
-
 
 
 == 2. Liga (Second Level)  ‹§1liga›
@@ -892,13 +905,7 @@ Ried             1-1 Vienna
 <!-- $table9$ - Final Table -->
 
 
-
-
-
-
 == Regionalliga  ‹§regliga›
-
-
 === Regionalliga West  ‹§regwest›
 
 <!-- $table10$ - Final Table -->
@@ -918,9 +925,6 @@ NB: FC Dornbirn have appealed the decision to rank them last and forcibly
 
 [*] Kremser SC formed Spielgemeinschaft with SV Rehberg; KM presumably denotes Kampfmannschaft
 [!] Donaufeld did not apply for license second level
-
-
-
 
 
 == Cup Tournaments Bundesländer  ‹§bundcup›

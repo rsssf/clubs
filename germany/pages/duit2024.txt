@@ -1,13 +1,20 @@
-  <!--
-     title:   Germany 2023/24
-     source:  https://rsssf.org/tablesd/duit2024.html
-     author:  Karel Stokkermans
-     updated: 11 Oct 2024
-    -->
+<!--
+   title:   Germany 2023/24
+   source:  https://rsssf.org/tablesd/duit2024.html
+   author:  Karel Stokkermans
+   updated: 11 Oct 2024
+  -->
 
+<!--
+                     Contents:
 
-
-
+         1. Bundesliga                      (see §1bl)
+           Promotion/Relegation Playoff 1./2. Bundesliga  (see §1prorel)
+         2. Bundesliga                      (see §2bl)
+           Promotion/Relegation Playoff 2./3. Bundesliga  (see §2prorel)
+         3. Liga                            (see §3bl)
+           Promotion Playoffs for 3. Bundesliga  (see §3pro)
+  -->
 
 
 
@@ -501,9 +508,6 @@ Düsseldorf      0-3 Bochum          (aet, 5-6 pen)
 NB: both remain at former level
 
 
-
-
-
 == 2. Bundesliga  ‹§2bl›
 
 <!-- $table3$ - Final Table -->
@@ -517,9 +521,6 @@ Regensburg      2-2 Wehen Wiesbaden
 Wehen Wiesbaden 1-2 Regensburg
 
 NB: Jahn Regensburg promoted, Wehen Wiesbaden relegated
-
-
-
 
 
 == 3. Liga  ‹§3bl›

@@ -1,13 +1,21 @@
-  <!--
-     title:   Italy 2022/23
-     source:  https://rsssf.org/tablesi/ital2023.html
-     author:  Karel Stokkermans
-     updated: 6 Jul 2024
-    -->
+<!--
+   title:   Italy 2022/23
+   source:  https://rsssf.org/tablesi/ital2023.html
+   author:  Karel Stokkermans
+   updated: 6 Jul 2024
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Serie A                            (see §seriea)
+           Spareggio Retrocessione          (see §relpo)
+         Coppa Italia                       (see §coppa)
+         Serie B                            (see §serieb)
+           Regular Season                   (see §2reg)
+           Promotion Playoff                (see §2prom)
+           Relegation Playoff               (see §2releg)
+  -->
 
 
 
@@ -613,10 +621,6 @@ Spezia          1-3 Hellas Verona
 NB: Spezia relegated
 
 
-
-
-
-
 == Coppa Italia  ‹§coppa›
 
 ▪ Preliminary Round ▪
@@ -755,13 +759,7 @@ Inter: Handanovic, Darmian, Acerbi, Bastoni (57 de Vrij), Dumfries, Barella, Bro
   (57 Lukaku). Tr.: S. Inzaghi
 
 
-
-
-
-
 == Serie B  ‹§serieb›
-
-
 === Regular Season  ‹§2reg›
 
 <!-- $table4$ - Final Table -->

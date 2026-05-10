@@ -1,14 +1,9 @@
-  <!--
-     title:   Italy 1999/2000
-     source:  https://rsssf.org/tablesi/ital00.html
-     authors: Davide Rota, Ken Butler and Misha Miladinovich
-     updated: 12 Dec 2011
-    -->
-
-
-
-
-
+<!--
+   title:   Italy 1999/2000
+   source:  https://rsssf.org/tablesi/ital00.html
+   authors: Davide Rota, Ken Butler and Misha Miladinovich
+   updated: 12 Dec 2011
+  -->
 
 
 
@@ -1556,7 +1551,6 @@ Cesena        1-0   Pistoiese
 Cesena relegated
 
 
-
 Serie C1 Girone A
 
 _ Sep 5 _
@@ -2373,7 +2367,6 @@ Fid. Andria   3-1   Gualdo
 Juve Stabia   1-0   Atletico Catania
 
 Gualdo and Juve Stabia relegated
-
 
 
 Serie C2 Girone A
@@ -3672,16 +3665,5 @@ Terza Categoria (3.Amateurliga) Südtirol
 <!-- $table29$ - Group C -->
 
 <!-- $table30$ - Group D -->
-
-
-
-
-
-
-
-
-
-
-
 
 

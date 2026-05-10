@@ -1,13 +1,9 @@
-  <!--
-     title:   USA 2009
-     source:  https://rsssf.org/tablesu/usa09.html
-     author:  David A. Litterer
-     updated: 7 May 2010
-    -->
-
-
-
-
+<!--
+   title:   USA 2009
+   source:  https://rsssf.org/tablesu/usa09.html
+   author:  David A. Litterer
+   updated: 7 May 2010
+  -->
 
 
 
@@ -433,7 +429,6 @@ Chicago Fire              0-0 Real Salt Lake            (aet, 4-5 pen)
 Los Angeles Galaxy        1-1 Real Salt Lake            (aet, 4-5 pen)
 
 
-
 USA Open Cup
 
 
@@ -520,8 +515,6 @@ Seattle Sounders           2-1 Houston Dynamo             (aet)
 Final [Sep 2, RFK Stadium; Washington, DC]
 Seattle Sounders           2-1 DC United
   (Fredy Montero 67, Roger Levesque 86; Clyde Simms 89)
-
-
 
 
 USL First Division
@@ -845,9 +838,6 @@ Vancouver Whitecaps       2-3 Montreal Impact
 Montreal Impact           3-1 Vancouver Whitecaps
 
 
-
-
-
 USL Second Division
 
 ▪ Regular Season ▪
@@ -1010,8 +1000,6 @@ Wilmington Hammerheads    0-1 Charlotte Eagles
 Richmond Kickers          3-1 Charlotte Eagles
 
 
-
-
 USL - PREMIER DEVELOPMENT LEAGUE
 ("4th Division")
 
@@ -1111,15 +1099,5 @@ Conference Finals:       Ottawa defeated FC Indiana 2-1
 Semi-Finals:             Washington defeated Ottawa 0-0 (3-1-PK)
                          Pali defeated Hudson Valley 4-0
 CHAMPIONSHIP:            Pali defeated Washington 2-1
-
-
-
-
-
-
-
-
-
-
 
 

@@ -1,13 +1,18 @@
-  <!--
-     title:   Spain 2012/13
-     source:  https://rsssf.org/tabless/span2013.html
-     author:  Karel Stokkermans
-     updated: 13 Sep 2018
-    -->
+<!--
+   title:   Spain 2012/13
+   source:  https://rsssf.org/tabless/span2013.html
+   author:  Karel Stokkermans
+   updated: 13 Sep 2018
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Primera División (Liga BBVA)       (see §laliga)
+         Copa del Rey                       (see §coparey)
+         Segunda División (Liga Adelante)   (see §segunda)
+           Promotion Playoff                (see §2prom)
+  -->
 
 
 
@@ -599,9 +604,6 @@ Sevilla                   4-3 Valencia
 <!-- $table2$ - Final Table -->
 
 
-
-
-
 == Copa del Rey  ‹§coparey›
 
 ▪ Round 1 ▪
@@ -776,10 +778,6 @@ Sevilla FC                2-2 Atlético de Madrid
 
 ▪ Final ▪  May 17 @ Madrid
 Real Madrid CF            1-2 Atlético de Madrid        (aet)
-
-
-
-
 
 
 == Segunda División (Liga Adelante)  ‹§segunda›

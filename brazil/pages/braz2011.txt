@@ -1,13 +1,19 @@
-  <!--
-     title:   Brazil 2011
-     source:  https://rsssf.org/tablesb/braz2011.html
-     author:  RSSSF Brazil
-     updated: 20 Feb 2024
-    -->
+<!--
+   title:   Brazil 2011
+   source:  https://rsssf.org/tablesb/braz2011.html
+   author:  RSSSF Brazil
+   updated: 20 Feb 2024
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Série A                            (see §sa)
+         Copa do Brasil                     (see §cb)
+         Série B                            (see §sb)
+         Série C                            (see §sc)
+         Série D                            (see §sd)
+  -->
 
 
 
@@ -935,10 +941,6 @@ and Vasco da Gama already qualified as 2011 Copa do Brasil champions).
 Teams placed 6-13 (except Santos) qualified to 2012 Sudamericana.
 
 
-
-
-
-
 == Copa do Brasil  ‹§cb›
 
 Participants:
@@ -1279,9 +1281,6 @@ Third Round (13/04 to 28/04)
 VASCO Champions of Copa do Brasil 2011 and classified to Copa Libertadores 2012.
 
 <!-- $topscorers2$ -->
-
-
-
 
 
 
@@ -1858,10 +1857,6 @@ ASA       1-2  Vitória
 (+) - Teams promoted from 2010 Série C (3rd level)
 
 
-
-
-
-
 == Série C  ‹§sc›
 
 Participants
@@ -1892,7 +1887,6 @@ Esporte Clube SANTO ANDRÉ (Santo André-SP)
 
 [2] Plays home matches in Taguatinga-DF.
 [2] Manda seus jogos em Taguatinga-DF.
-
 
 
 ▪ FIRST STAGE ▪
@@ -2204,7 +2198,6 @@ Ipatinga    0-1 Joinville
 <!-- $table14$ - Table -->
 
 
-
 ▪ FINALS ▪
 
 _ Nov 26 _
@@ -2214,9 +2207,6 @@ _ Dec 3 _
 Joinville      4-0 CRB
 
 *** JOINVILLE are Brazil 2011 3rd level (Série C) champions ***
-
-
-
 
 
 == Série D  ‹§sd›
@@ -2323,7 +2313,6 @@ Tocantinópolis EC - Tocantins 2010 - replacing Gurupi EC.
 [1] Former Sendas EC
 
 
-
 ▪ FIRST STAGE ▪
 (Top 2 from each group qualify)
 (Os 2 primeiros de cada grupo se classificam)
@@ -2393,7 +2382,6 @@ Cuiabá          4-0  Penarol
 Vila Aurora     1-3  Nacional
 
 <!-- $table15$ - Table -->
-
 
 
 Group A2
@@ -2466,8 +2454,6 @@ Independente     1-0  Trem
 <!-- $table16$ - Table -->
 
 
-
-
 Group A3
 
 Alecrim FC (Natal-RN) [5]
@@ -2526,8 +2512,6 @@ Santa Cruz-PE   2-1  Alecrim
 [7] Disputados em João Pessoa-PB.
 
 <!-- $table17$ - Table -->
-
-
 
 
 Group A4
@@ -2589,7 +2573,6 @@ V. da Conquista 2-0  Treze
 River Plate     1-2  Bahia de Feira
 
 <!-- $table18$ - Table -->
-
 
 
 Group A5
@@ -2670,8 +2653,6 @@ Anapolina       6-1   Tocantinópolis
 <!-- $table19$ - Table -->
 
 
-
-
 Group A6
 
 Bosque Formosa EC (Bosque Formosa-GO)*
@@ -2739,7 +2720,6 @@ Volta Redonda   4-1  São Mateus
 <!-- $table20$ - Table -->
 
 
-
 Group A7
 
 CENE (Campo Grande-MS)
@@ -2802,9 +2782,7 @@ Oeste       3-1  CENE
 [9] Disputado em Catanduva-SP.
 
 
-
 <!-- $table21$ - Table -->
-
 
 
 Group A8
@@ -2869,7 +2847,6 @@ Brusque          0-1  Juventude
 ▪ SECOND STAGE ▪
 
 
-
 ▪ First leg ▪
 
 _ Sep 25 _
@@ -2921,7 +2898,6 @@ Mirassol   3-1  Oeste          (pk: 3-4)
 Santa Cruz      0-0  Treze
 _ Oct 30 _
 Anapolina       2-2  Tupi
-
 
 
 ▪ SEMIFINALS ▪

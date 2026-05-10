@@ -1,9 +1,20 @@
-  <!--
-     title:   Austria 1998/99
-     source:  https://rsssf.org/tableso/oost99.html
-     author:  RSSSF
-     updated: 15 Jun 2022
-    -->
+<!--
+   title:   Austria 1998/99
+   source:  https://rsssf.org/tableso/oost99.html
+   author:  RSSSF
+   updated: 15 Jun 2022
+  -->
+
+<!--
+                     Contents:
+
+         Bundesliga                       
+         Austria ÖFB Cup 1998/99          
+         1.Division (Second Level)        
+         Third Level (Regionalliga's)     
+         Fourth Level (Landesligen)       
+  -->
+
 
 
 
@@ -1442,7 +1453,6 @@ Kundls second win (1995,1999) in the Tiroler Cup, "replaying" last years
 quarter-final on neutral ground.
 
 
-
 Fourth Level
 ============
 
@@ -1643,6 +1653,5 @@ Eighth Level
 3. Klasse
 
 <!-- $table87$ -->
-
 
 

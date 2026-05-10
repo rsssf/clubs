@@ -1,13 +1,21 @@
-  <!--
-     title:   Germany 2017/18
-     source:  https://rsssf.org/tablesd/duit2018.html
-     author:  Karel Stokkermans
-     updated: 9 May 2019
-    -->
+<!--
+   title:   Germany 2017/18
+   source:  https://rsssf.org/tablesd/duit2018.html
+   author:  Karel Stokkermans
+   updated: 9 May 2019
+  -->
 
+<!--
+                     Contents:
 
-
-
+         1. Bundesliga                      (see §1bl)
+           Promotion/Relegation Playoff 1./2. Bundesliga  (see §1prorel)
+         DFB Pokal                          (see §dfbpokal)
+         2. Bundesliga                      (see §2bl)
+           Promotion/Relegation Playoff 2./3. Bundesliga  (see §2prorel)
+         3. Liga                            (see §3bl)
+           Promotion Playoffs for 3. Bundesliga  (see §3pro)
+  -->
 
 
 
@@ -503,9 +511,6 @@ Kiel            0-1 Wolfsburg
 NB: both remain at former level
 
 
-
-
-
 == DFB Pokal  ‹§dfbpokal›
 
 ▪ Round 1 ▪
@@ -596,9 +601,6 @@ Schalke 04             0-1 Eintracht Frankfurt
 Eintracht Frankfurt    3-1 Bayern München
 
 
-
-
-
 == 2. Bundesliga  ‹§2bl›
 
 <!-- $table4$ - Final Table -->
@@ -612,10 +614,6 @@ Karlsruhe       0-0 Aue
 Aue             3-1 Karlsruhe
 
 NB: both remain at former level
-
-
-
-
 
 
 == 3. Liga  ‹§3bl›

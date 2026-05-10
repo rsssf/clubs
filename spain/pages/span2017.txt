@@ -1,13 +1,18 @@
-  <!--
-     title:   Spain 2016/17
-     source:  https://rsssf.org/tabless/span2017.html
-     author:  Karel Stokkermans
-     updated: 18 Jul 2019
-    -->
+<!--
+   title:   Spain 2016/17
+   source:  https://rsssf.org/tabless/span2017.html
+   author:  Karel Stokkermans
+   updated: 18 Jul 2019
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Primera División                   (see §laliga)
+         Copa del Rey                       (see §coparey)
+         Segunda División (Liga Adelante)   (see §segunda)
+           Promotion Playoff                (see §2prom)
+  -->
 
 
 
@@ -612,9 +617,6 @@ Málaga                    0-2 Madrid
 <!-- $table2$ - Final Table -->
 
 
-
-
-
 == Copa del Rey  ‹§coparey›
 
 ▪ Round 1 ▪  Aug 31
@@ -789,9 +791,6 @@ Deportivo Alavés          1-0 RC Celta de Vigo
 
 ▪ Final ▪  May 27 @ Madrid
 FC Barcelona              3-1 Deportivo Alavés
-
-
-
 
 
 == Segunda División (Liga Adelante)  ‹§segunda›

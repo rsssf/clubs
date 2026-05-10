@@ -1,13 +1,22 @@
-  <!--
-     title:   Spain 2021/22
-     source:  https://rsssf.org/tabless/span2022.html
-     author:  Karel Stokkermans
-     updated: 28 Jun 2023
-    -->
+<!--
+   title:   Spain 2021/22
+   source:  https://rsssf.org/tabless/span2022.html
+   author:  Karel Stokkermans
+   updated: 28 Jun 2023
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Primera División                   (see §laliga)
+         Segunda División                   (see §segunda)
+           Promotion Playoff                (see §2prom)
+         Primera RFEF                       (see §1rfef)
+           Grupo 1                          (see §3g1)
+           Grupo 2                          (see §3g2)
+           Final                            (see §3gf)
+           Promotion Playoff                (see §3gp)
+  -->
 
 
 
@@ -614,10 +623,6 @@ Sevilla                   1-0 Athletic
 <!-- $table2$ - Final Table -->
 
 
-
-
-
-
 == Segunda División  ‹§segunda›
 
 <!-- $table3$ - Final Table -->
@@ -647,13 +652,7 @@ Girona                    0-0 Tenerife
 Tenerife                  1-3 Girona
 
 
-
-
-
-
 == Primera RFEF  ‹§1rfef›
-
-
 === Grupo 1  ‹§3g1›
 
 <!-- $table4$ - Final Table -->

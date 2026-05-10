@@ -1,19 +1,27 @@
-  <!--
-     title:   USA 2023
-     source:  https://rsssf.org/tablesu/usa2023.html
-     author:  Karel Stokkermans
-     updated: 6 Dec 2024
-    -->
+<!--
+   title:   USA 2023
+   source:  https://rsssf.org/tablesu/usa2023.html
+   author:  Karel Stokkermans
+   updated: 6 Dec 2024
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Major League Soccer                (see §mls)
+           Regular Season                   (see §reg)
+           Championship Playoff             (see §chplay)
+             Conference Wild Card Round     (see §cwc)
+             Eastern Conference Quarterfinals  (see §cqe)
+             Western Conference Quarterfinals  (see §cqw)
+             Conference Semifinals          (see §csf)
+         US Open Cup                        (see §open)
+  -->
 
 
 
 
 == Major League Soccer  ‹§mls›
-
 
 === Regular Season  ‹§reg›
 
@@ -635,7 +643,6 @@ Final Tables:
 <!-- $table4$ - Western Conference -->
 
 === Championship Playoff  ‹§chplay›
-
 ==== Conference Wild Card Round  ‹§cwc›
 
 Eastern Conference [Oct 25]
@@ -718,10 +725,6 @@ Los Angeles FC         2-0 Houston Dynamo
 
 ▪ MLS Cup ▪  Dec 9
 Columbus Crew          2-1 Los Angeles FC
-
-
-
-
 
 
 == US Open Cup  ‹§open›

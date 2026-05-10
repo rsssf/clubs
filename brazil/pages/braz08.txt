@@ -1,9 +1,9 @@
-  <!--
-     title:   Brazil 2008
-     source:  https://rsssf.org/tablesb/braz08.html
-     author:  RSSSF Brazil
-     updated: 21 May 2009
-    -->
+<!--
+   title:   Brazil 2008
+   source:  https://rsssf.org/tablesb/braz08.html
+   author:  RSSSF Brazil
+   updated: 21 May 2009
+  -->
 
 
 
@@ -882,14 +882,5 @@ Palmeiras      0-1  Botafogo
 <!-- $table2$ - Final Table -->
 
 (+) - Teams promoted from 2007 Série B (2nd level)
-
-
-
-
-
-
-
-
-
 
 

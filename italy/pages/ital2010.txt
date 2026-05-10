@@ -1,13 +1,46 @@
-  <!--
-     title:   Italy 2009/10
-     source:  https://rsssf.org/tablesi/ital2010.html
-     authors: Giacomo Giusti and Andrea Ferrigno
-     updated: 7 Feb 2013
-    -->
+<!--
+   title:   Italy 2009/10
+   source:  https://rsssf.org/tablesi/ital2010.html
+   authors: Giacomo Giusti and Andrea Ferrigno
+   updated: 7 Feb 2013
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Serie A                            (see §seriea)
+         Coppa Italia                       (see §coppa)
+         Super Cup 2010                     (see §supcoppa)
+         Serie B                            (see §serieb)
+           Regular Season                   (see §2reg)
+           Promotion Playoff                (see §2prom)
+         Prima Divisione                    (see §prima)
+           Gruppo A                         (see §3a)
+           Gruppo B                         (see §3b)
+           Promotion Playoff                (see §3prom)
+           Relegation Playoff               (see §3rel)
+           Prima Divisione Lega Pro Supercup  (see §3sup)
+         Seconda Divisione                  (see §seconda)
+           Gruppo A                         (see §4a)
+           Gruppo B                         (see §4b)
+           Gruppo C                         (see §4c)
+           Promotion Playoff                (see §4prom)
+           Relegation Playoff               (see §4rel)
+           Seconda Divisione Supercup       (see §4sup)
+         Serie D                            (see §seried)
+           Gruppo A                         (see §5a)
+           Gruppo B                         (see §5b)
+           Gruppo C                         (see §5c)
+           Gruppo D                         (see §5d)
+           Gruppo E                         (see §5e)
+           Gruppo F                         (see §5f)
+           Gruppo G                         (see §5g)
+           Gruppo H                         (see §5h)
+           Gruppo I                         (see §5i)
+           Amateur Championship             (see §5champ)
+           Promotion Playoff                (see §5prom)
+           Relegation Playoff               (see §5rel)
+  -->
 
 
 
@@ -1018,12 +1051,7 @@ Siena       0-1 Inter
 <!-- $table2$ - Final Table -->
 
 
-
-
-
-
 == Coppa Italia  ‹§coppa›
-
 
 ▪ Round 1 ▪
 _ Aug 2 _
@@ -1246,13 +1274,7 @@ Inter: Julio Cesar, Cordoba (39 Samuel), Maicon, Materazzi, Chivu,
 ref: Rizzoli
 
 
-
-
-
-
-
 == Super Cup 2010  ‹§supcoppa›
-
 
 _ Aug 21 _ @ stadio San Siro, Milan
 Inter                 3-1 Roma
@@ -1267,13 +1289,7 @@ Inter: Julio Cesar, Maicon, Lucio, Samuel, Chivu, Zanetti (46 Stankovic),
 ref: Bergonzi
 
 
-
-
-
-
 == Serie B  ‹§serieb›
-
-
 === Regular Season  ‹§2reg›
 
 <!-- $table3$ - Final Table -->
@@ -2161,14 +2177,7 @@ Calcio Padova s.p.a.                   - Unione Sportiva Triestina Calcio s.p.a.
 In playoff tie if both teams are at the same level of goals the tie breaker is the final position in regular season
 
 
-
-
-
-
-
 == Prima Divisione  ‹§prima›
-
-
 === Gruppo A  ‹§3a›
 
 <!-- $table5$ - Final Table -->
@@ -2972,13 +2981,7 @@ C. Portogruaro Summaga S.R.L.          - Novara Calcio S.P.A.                   
 Novara Calcio S.P.A. wins the Prima Divisione Lega Pro Supercup 2009-2010
 
 
-
-
-
-
 == Seconda Divisione  ‹§seconda›
-
-
 === Gruppo A  ‹§4a›
 
 <!-- $table7$ - Final Table -->
@@ -4190,14 +4193,7 @@ Fussballclub Südtirol S.R.L.       0-3 A.S. Lucchese Libertas 1905 S.R.L.
 A.S. Lucchese Libertas 1905 S.R.L. 4-2 S.S. Juve Stabia S.P.A.
 
 
-
-
-
-
-
 == Serie D  ‹§seried›
-
-
 === Gruppo A  ‹§5a›
 
 <!-- $table11$ - Final Table -->

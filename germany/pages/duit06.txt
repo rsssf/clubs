@@ -1,9 +1,23 @@
-  <!--
-     title:   Germany 2005/06
-     source:  https://rsssf.org/tablesd/duit06.html
-     authors: Lars Kubusch, Daniel Dalence and Anthony Zea
-     updated: 4 Oct 2006
-    -->
+<!--
+   title:   Germany 2005/06
+   source:  https://rsssf.org/tablesd/duit06.html
+   authors: Lars Kubusch, Daniel Dalence and Anthony Zea
+   updated: 4 Oct 2006
+  -->
+
+<!--
+                     Contents:
+
+         1. Bundesliga                    
+         DFB Pokal                        
+         2. Bundesliga                    
+         Third Level 2005/06              
+         Fourth Level 2005/06 (Oberligen) 
+         Fifth Level 2005/06 (Verbandsligen/Landesligen)
+         Sixth Level 2005/06 (Bezirksligen, partial)
+         Seventh Level 2005/06 (Bezirksklassen, partial)
+  -->
+
 
 
 
@@ -816,7 +830,6 @@ Köln            4-2 Arminia B
 <!-- $table2$ - Final Table -->
 
 <!-- $topscorers1$ -->
-
 
 
 
@@ -1853,7 +1866,6 @@ Hansa            1-3 Dynamo D
 
 
 
-
 == Third Level 2005/06
 
 
@@ -1894,7 +1906,6 @@ SG Betzdorf saved from relegation.
 <!-- $table14$ - Baden-Württemberg -->
 
 <!-- $table15$ - Bayern -->
-
 
 
 == Fifth Level 2005/06 (Verbandsligen/Landesligen)
@@ -1963,7 +1974,6 @@ Bahlinger SC 1929 win the Promotion Playoff and are promoted.
 In April 6 the 1. FC 1901 Bamberg change name to 1. FC Eintracht Bamberg.
 
 
-
 == Sixth Level 2005/06 (Bezirksligen, partial)
 
 
@@ -2002,26 +2012,5 @@ Hamburg
 <!-- $table52$ - Hamburg Nord -->
 
 <!-- $table53$ - Hamburg West -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 

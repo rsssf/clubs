@@ -1,13 +1,16 @@
-  <!--
-     title:   Brazil 2014
-     source:  https://rsssf.org/tablesb/braz2014.html
-     author:  RSSSF Brazil
-     updated: 13 May 2015
-    -->
+<!--
+   title:   Brazil 2014
+   source:  https://rsssf.org/tablesb/braz2014.html
+   author:  RSSSF Brazil
+   updated: 13 May 2015
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Série A                            (see §sa)
+         Copa do Brasil                     (see §cb)
+  -->
 
 
 
@@ -557,9 +560,6 @@ Goiás           4-2 Chapecoense
 <!-- $table3$ - Final Table -->
 
 Promoted: Joinville, Ponte Preta, Vasco da Gama, Avaí
-
-
-
 
 
 == Copa do Brasil  ‹§cb›

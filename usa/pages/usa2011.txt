@@ -1,19 +1,24 @@
-  <!--
-     title:   USA 2011
-     source:  https://rsssf.org/tablesu/usa2011.html
-     author:  Karel Stokkermans
-     updated: 24 Dec 2023
-    -->
+<!--
+   title:   USA 2011
+   source:  https://rsssf.org/tablesu/usa2011.html
+   author:  Karel Stokkermans
+   updated: 24 Dec 2023
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Major League Soccer                (see §mls)
+           Regular Season                   (see §reg)
+           Championship Playoff             (see §play)
+           MLS Cup 2011                     (see §mlscup)
+         US Open Cup                        (see §open)
+  -->
 
 
 
 
 == Major League Soccer  ‹§mls›
-
 
 === Regular Season  ‹§reg›
 
@@ -84,10 +89,6 @@ NB: Los Angeles Galaxy to ‹MLS Cup 2011, see §mlscup›
 
 _ Nov 20 _ @ Home Depot Center, Carson City, California
 Los Angeles Galaxy     1-0 Houston Dynamo
-
-
-
-
 
 
 == US Open Cup  ‹§open›

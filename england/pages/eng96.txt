@@ -1,9 +1,9 @@
-  <!--
-     title:   England 1995/96
-     source:  https://rsssf.org/tablese/eng96.html
-     authors: Michael Heneghan, Ken Fox, Stephen Mulrine and Rob Monger
-     updated: 7 Jul 2004
-    -->
+<!--
+   title:   England 1995/96
+   source:  https://rsssf.org/tablese/eng96.html
+   authors: Michael Heneghan, Ken Fox, Stephen Mulrine and Rob Monger
+   updated: 7 Jul 2004
+  -->
 
 
 
@@ -995,7 +995,6 @@ U=UEFA Cup 1996/97
 2=Qualified for Cup Winners Cup
 
 
-
 England FA Cup 1995/96
 
 Fourth Qualifying Round
@@ -1240,7 +1239,6 @@ Manchester United          1  Liverpool                  0 [at Wembley]
 85' Cantona 1-0
 
 
-
 England League Cup 1995/96
 
 Third Round (1/16 Finals)
@@ -1309,7 +1307,6 @@ Final, March 24
 Aston Villa                3  Leeds United               0
 
 
-
 England 1995/96 First Division (Second Level)
 
 FINAL TABLE
@@ -1331,7 +1328,6 @@ Date: 27th May  Endsleigh League Division One Playoff Final  Season 1995/96
                                         Claridge 120       Att: 73573
 
 Leicester City are promoted to the FA Carling Premiership.
-
 
 
 England 1995/96 Second Division (Third Level)
@@ -1357,7 +1353,6 @@ Date: 26th May  Endsleigh League Division Two Playoff Final  Season 1995/96
 Bradford City are promoted to Division One.
 
 
-
 England 1995/96 Third Division (Fourth Level)
 
                                     HOME             AWAY
@@ -1376,14 +1371,12 @@ Final: (Saturday May 25th)
 Plymouth Argyle   1-0 Darlington
 
 
-
 England Fifth Level (Conference)
 
                                     HOME             AWAY
 <!-- $table6$ - P  W  D  L  F   A   W  D  L  F   A   GD PD PTS -->
 
 Stevenage are not eligible for the Football League, so they won't go up.
-
 
 
 England 1995/96 Sixth Level (Conference Feeder Leagues)
@@ -3316,14 +3309,5 @@ Yeovil Town - Enfield..................................0:1
 <!-- $table9$ -->
 
 R - relegated
-
-
-
-
-
-
-
-
-
 
 

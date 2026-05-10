@@ -1,13 +1,20 @@
-  <!--
-     title:   Germany 2011/12
-     source:  https://rsssf.org/tablesd/duit2012.html
-     author:  Karel Stokkermans
-     updated: 23 Sep 2021
-    -->
+<!--
+   title:   Germany 2011/12
+   source:  https://rsssf.org/tablesd/duit2012.html
+   author:  Karel Stokkermans
+   updated: 23 Sep 2021
+  -->
 
+<!--
+                     Contents:
 
-
-
+         1. Bundesliga                      (see §1bl)
+           Promotion/Relegation Playoff 1./2. Bundesliga  (see §1prorel)
+         DFB Pokal                          (see §dfbpokal)
+         2. Bundesliga                      (see §2bl)
+           Promotion/Relegation Playoff 2./3. Bundesliga  (see §2prorel)
+         3. Liga                            (see §3bl)
+  -->
 
 
 
@@ -27,11 +34,7 @@ Düsseldorf      2-2 Hertha
 NB: Fortuna Düsseldorf promoted, Hertha BSC relegated
 
 
-
-
-
 == DFB Pokal  ‹§dfbpokal›
-
 
 ▪ Round 1 ▪
 _ Jul 29 _
@@ -121,12 +124,7 @@ Borussia M'gladbach    0-0 Bayern München         (aet, 2-4 pen)
 Borussia Dortmund      5-2 Bayern München
 
 
-
-
-
-
 == 2. Bundesliga  ‹§2bl›
-
 
 <!-- $table2$ - Final Table -->
 
@@ -141,13 +139,8 @@ Karlsruhe       2-2 Regensburg
 NB: Jahn Regensburg promoted, Karlsruher SC relegated
 
 
-
-
-
-
 == 3. Liga  ‹§3bl›
 
 <!-- $table3$ - Final Table -->
-
 
 

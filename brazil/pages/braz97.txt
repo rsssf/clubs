@@ -1,9 +1,9 @@
-  <!--
-     title:   Brazil 1997
-     source:  https://rsssf.org/tablesb/braz97.html
-     authors: Marcelo Leme de Arruda, Miguel Alvim Gonzalez and Julio Bovi Diogo
-     updated: 18 Feb 2000
-    -->
+<!--
+   title:   Brazil 1997
+   source:  https://rsssf.org/tablesb/braz97.html
+   authors: Marcelo Leme de Arruda, Miguel Alvim Gonzalez and Julio Bovi Diogo
+   updated: 18 Feb 2000
+  -->
 
 
 
@@ -1455,10 +1455,5 @@ Sampaio Corrêa(MA)     3-1 Francana(SP)
 Juventus(SP)           3-1 Tupi(MG)
 
 <!-- $table40$ - Table -->
-
-
-
-
-
 
 

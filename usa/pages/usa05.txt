@@ -1,13 +1,9 @@
-  <!--
-     title:   USA 2005
-     source:  https://rsssf.org/tablesu/usa05.html
-     authors: David A. Litterer and Antonio Zea
-     updated: 11 Sep 2019
-    -->
-
-
-
-
+<!--
+   title:   USA 2005
+   source:  https://rsssf.org/tablesu/usa05.html
+   authors: David A. Litterer and Antonio Zea
+   updated: 11 Sep 2019
+  -->
 
 
 
@@ -609,8 +605,6 @@ NE Revolution        0-1 LA Galaxy            (aet)
    attendance: 21,193]
 
 
-
-
 ALL STARS GAME
 _ Jul 30 _
 In Columbus Crew Stadium, (Columbus, Ohio)
@@ -632,8 +626,6 @@ FFC: Moritz Volz 39
 Referee: Ricardo Valenzuela (USA)
 Attendance: 23,309
 Honda Most Valuable Player MVP: Taylor Twellman (New England Revolution)
-
-
 
 
 USL - 1ST DIVISION (2nd Division)
@@ -713,6 +705,5 @@ NATIONAL PREMIER SOCCER LEAGUE ("Div. 4")
 <!-- $table17$ - Midwestern Teams -->
 
 FINAL:   Detroit defeated Sonoma 1-0
-
 
 

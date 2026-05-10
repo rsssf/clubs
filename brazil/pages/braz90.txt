@@ -1,9 +1,9 @@
-  <!--
-     title:   Brazil 1990
-     source:  https://rsssf.org/tablesb/braz90.html
-     authors: Ricardo Pontes, Marcelo Leme de Arruda and Julio Bovi Diogo
-     updated: 18 Feb 2000
-    -->
+<!--
+   title:   Brazil 1990
+   source:  https://rsssf.org/tablesb/braz90.html
+   authors: Ricardo Pontes, Marcelo Leme de Arruda and Julio Bovi Diogo
+   updated: 18 Feb 2000
+  -->
 
 
 
@@ -1466,11 +1466,5 @@ PARTICIPANTS
 First leg played in Juiz de Fora-MG
 
 CR Flamengo were the 1990 Copa do Brasil champions
-
-
-
-
-
-
 
 

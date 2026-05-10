@@ -1,9 +1,9 @@
-  <!--
-     title:   England 2004/05
-     source:  https://rsssf.org/tablese/eng05.html
-     authors: Ian King and Matthew Perry
-     updated: 23 Nov 2007
-    -->
+<!--
+   title:   England 2004/05
+   source:  https://rsssf.org/tablese/eng05.html
+   authors: Ian King and Matthew Perry
+   updated: 23 Nov 2007
+  -->
 
 
 
@@ -1201,7 +1201,6 @@ Man Utd - Carroll, Brown, Ferdinand, Silvestre, O'Shea (Fortune 76),
           Rooney; Manager - Ferguson
 
 
-
 Carling Cup 2004/05
 
 ▪ First Round ▪
@@ -1443,7 +1442,6 @@ Chelsea              3-2 Liverpool            (aet)
                  Liverpool: Hyypia, Traore, Hamann, Carragher.
    man of the match: Jamie Carragher (Liverpool);
    ref: Steve Bennett]
-
 
 
 Second Level 2004/05
@@ -5339,15 +5337,5 @@ Hereford United            0-1 Stevenage Borough
 ▪ Final ▪  May 14 @ Britannia Stadium, Stoke
 Carlisle United            1-0 Stevenage Borough
   (Murphy 23)
-
-
-
-
-
-
-
-
-
-
 
 

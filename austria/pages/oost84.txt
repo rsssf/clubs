@@ -1,9 +1,16 @@
-  <!--
-     title:   Austria 1983/84
-     source:  https://rsssf.org/tableso/oost84.html
-     author:  Ambrosius Kutschera
-     updated: 14 Nov 2003
-    -->
+<!--
+   title:   Austria 1983/84
+   source:  https://rsssf.org/tableso/oost84.html
+   author:  Ambrosius Kutschera
+   updated: 14 Nov 2003
+  -->
+
+<!--
+                     Contents:
+
+         1.Division                       
+         2.Division                       
+  -->
 
 
 
@@ -409,13 +416,5 @@ USV Salzburg (West)
 Note: due to the disbandment of Union Wels and SC Neusiedl's withdrawal
       to the amateur leagues 3 teams were promoted and only one relegated
       from the 2.Division.
-
-
-
-
-
-
-
-
 
 

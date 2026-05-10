@@ -1,9 +1,9 @@
-  <!--
-     title:   Mexico 2006/07
-     source:  https://rsssf.org/tablesm/mex07.html
-     authors: Juan Pablo Andrés, Erik Francisco Lugo and José de Jesus Mora Rivera
-     updated: 22 Jan 2009
-    -->
+<!--
+   title:   Mexico 2006/07
+   source:  https://rsssf.org/tablesm/mex07.html
+   authors: Juan Pablo Andrés, Erik Francisco Lugo and José de Jesus Mora Rivera
+   updated: 22 Jan 2009
+  -->
 
 
 
@@ -506,8 +506,6 @@ Toluca      1-2 Guadalajara
 Guadalajara champions Apertura 2006
 
 
-
-
 Libertadores 2007 Playoff
 
 _ Sep 20 _
@@ -575,7 +573,6 @@ América     0-0 Tigres               (aet, 4-2 pen)
 
 Necaxa (Mexico 2) and América (Mexico 3) qualified for
 Copa Libertadores 2007
-
 
 
 Clausura 2007
@@ -1068,7 +1065,6 @@ Relegation
 
 
 <!-- $topscorers2$ -->
-
 
 
 
@@ -1891,7 +1887,6 @@ red cards: Ramírez (71), Pinto (76); Reyes (71), Fierros (76)]
 Dorados Clausura Champions
 
 
-
 ▪ Championship Playoff ▪
 
 First Leg [May 23, Banorte, Culiacán, ref: Hugo León]
@@ -1934,7 +1929,6 @@ Relegation
 
 
 <!-- $topscorers4$ -->
-
 
 
 
@@ -2000,7 +1994,6 @@ on penalty kicks get extra point
 
 Top-3 of each group and the best 4th place qualify to Liguilla de Ascenso.
 The best 8 Filiales Teams qualify to Liguilla de Filiales.
-
 
 
 Liguilla de Ascenso
@@ -2104,7 +2097,6 @@ Top-3 of each group and the best 4th place qualify to Liguilla de Ascenso.
 The best 8 Filiales Teams qualify to Liguilla de Filiales.
 
 
-
 Liguilla de Ascenso
 
 ▪ First Round ▪
@@ -2175,7 +2167,6 @@ America Coapa champion Clausura 2007
 "Filiales" cannot promote to Primera A (Second Level)
 
 <!-- $topscorers6$ -->
-
 
 
 
@@ -2413,13 +2404,5 @@ Vencedores de Delicias          2-1  1-2 Gallos de Pelea de Canal 5 (6-7 pen)
 
 Gallos de Pelea de Canal 5 champion Clausura 2007
 "Grupo Promocional - Estado Chihuahua" cannot promote to Third Level
-
-
-
-
-
-
-
-
 
 

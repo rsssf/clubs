@@ -1,9 +1,17 @@
-  <!--
-     title:   Germany 2001/02
-     source:  https://rsssf.org/tablesd/duit02.html
-     authors: Karel Stokkermans and Pierre Winkler
-     updated: 1 Jun 2005
-    -->
+<!--
+   title:   Germany 2001/02
+   source:  https://rsssf.org/tablesd/duit02.html
+   authors: Karel Stokkermans and Pierre Winkler
+   updated: 1 Jun 2005
+  -->
+
+<!--
+                     Contents:
+
+         1. Bundesliga                    
+         DFB Pokal                        
+         2. Bundesliga                    
+  -->
 
 
 
@@ -2347,25 +2355,5 @@ Bayern         2-2 Hoffenheim
 Relegated from 2nd level: 1.FC Saarbrücken and 1.FC Schweinfurt 05
 Promoted from 4th level: FC Augsburg, SC Pfullendorf, Borussia Neunkirchen,
                          Eintracht Frankfurt Amateure
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 

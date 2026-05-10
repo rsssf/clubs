@@ -1,22 +1,32 @@
-  <!--
-     title:   Mexico 2011/12
-     source:  https://rsssf.org/tablesm/mex2012.html
-     authors: Erik Francisco Lugo and Juan Pablo Andrés
-     updated: 18 Feb 2021
-    -->
+<!--
+   title:   Mexico 2011/12
+   source:  https://rsssf.org/tablesm/mex2012.html
+   authors: Erik Francisco Lugo and Juan Pablo Andrés
+   updated: 18 Feb 2021
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Primera División Nacional          (see §pdn)
+           Apertura 2011                    (see §1aper)
+           Clausura 2012                    (see §1clau)
+         Liga de Ascenso                    (see §ascenso)
+           Apertura 2011                    (see §2aper)
+             Regular Stage                  (see §2aperreg)
+             Playoff Stage                  (see §2aperplay)
+           Clausura 2012                    (see §2clau)
+             Regular Stage                  (see §2claureg)
+             Playoff Stage                  (see §2clauplay)
+           Promotion Playoff                (see §2prom)
+  -->
 
 
 
 
 == Primera División Nacional  ‹§pdn›
 
-
 === Apertura 2011  ‹§1aper›
-
 
 ▪ Regular Stage ▪
 
@@ -501,7 +511,6 @@ Tigres            3-1 Santos
   (Héctor Raúl Mancilla 51, Danilo Verón 63, Alan Pulido 86; Oribe Peralta 30)
 
 
-
 Tigres UANL roster team
 
 Enrique Palos      GK
@@ -523,7 +532,6 @@ Alan Pulido      FWD
 Coach: Ricardo Ferreti (BRA)
 
 
-
 Copa Libertadores 2012 qualification
 
 NB: top-3 of Apertura 2011 Final Table qualify
@@ -535,7 +543,6 @@ NB: Guadalajara and Cruz Azul qualified to Group Phase,
 
 
 === Clausura 2012  ‹§1clau›
-
 
 ▪ Regular Stage ▪
 
@@ -938,7 +945,6 @@ América            2-2 Cruz Azul
 <!-- $table5$ - Table -->
 
 
-
 Relegation Table
 
 Team         Average
@@ -1054,17 +1060,8 @@ Carlos Ochoa      FWD
 Coach: Benjamín Galindo
 
 
-
-
-
-
-
-
 == Liga de Ascenso  ‹§ascenso›
-
-
 === Apertura 2011  ‹§2aper›
-
 
 Changes before season:
 - Alacranes de Durango and Albinegros de Orizaba decline to take part.
@@ -1353,13 +1350,11 @@ La Piedad         0-1 Correcaminos UAT
 
 === Clausura 2012  ‹§2clau›
 
-
 Change before season:
 
 - Indios (Ciudad Juárez) withdrew
 
 ==== Regular Stage  ‹§2claureg›
-
 
 <!-- $table8$ - Table -->
 
@@ -1571,7 +1566,6 @@ NB: winners qualify to semifinals;
 
 ==== Playoff Stage  ‹§2clauplay›
 
-
 León bye to Semifinals
 
 ▪ Quarterfinals ▪
@@ -1615,7 +1609,6 @@ León              4-0 Lobos BUAP
 León Clausura champions
 
 === Promotion Playoff  ‹§2prom›
-
 
 ▪ Championship Final ▪
 

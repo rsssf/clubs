@@ -1,9 +1,20 @@
-  <!--
-     title:   Germany 2002/03
-     source:  https://rsssf.org/tablesd/duit03.html
-     authors: Pierre Winkler, Daniel Dalence Garcia and Manuel Schmidt
-     updated: 1 Jun 2005
-    -->
+<!--
+   title:   Germany 2002/03
+   source:  https://rsssf.org/tablesd/duit03.html
+   authors: Pierre Winkler, Daniel Dalence Garcia and Manuel Schmidt
+   updated: 1 Jun 2005
+  -->
+
+<!--
+                     Contents:
+
+         1. Bundesliga                    
+         DFB Pokal                        
+         2. Bundesliga                    
+         Third Level 2002/03              
+         Fourth Level 2002/03             
+         Fifth Level 2002/03              
+  -->
 
 
 
@@ -747,8 +758,6 @@ Corners: 7-6
 Red Card: Hristov (78)
 
 
-
-
 == 2. Bundesliga
 
 
@@ -1252,7 +1261,6 @@ NB: the relegation of Stuttgarter Kickers will not be effective due
     Reutlingen is upheld.
 
 
-
 == Fourth Level 2002/03
 
 
@@ -1333,7 +1341,6 @@ TSV Großbardorf - 1.FC Passau     1:3
 Großbardorf and Passau promoted, because no club was relegated to the Oberliga Bayern.
 
 
-
 == Fifth Level 2002/03
 
 <!-- $table17$ - Group Schleswig-Holstein -->
@@ -1387,26 +1394,5 @@ Großbardorf and Passau promoted, because no club was relegated to the Oberliga 
 <!-- $table41$ - Group Bayern Mitte -->
 
 <!-- $table42$ - Group Bayern Süd -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 

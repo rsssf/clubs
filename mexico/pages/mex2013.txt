@@ -1,13 +1,31 @@
-  <!--
-     title:   Mexico 2012/13
-     source:  https://rsssf.org/tablesm/mex2013.html
-     author:  Erik Francisco Lugo
-     updated: 18 Feb 2021
-    -->
+<!--
+   title:   Mexico 2012/13
+   source:  https://rsssf.org/tablesm/mex2013.html
+   author:  Erik Francisco Lugo
+   updated: 18 Feb 2021
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Liga MX                            (see §pdn)
+           Apertura 2012                    (see §1aper)
+           Clausura 2012                    (see §1clau)
+         Copa MX Apertura 2012              (see §copa)
+             Group Stage                    (see §copagrp)
+             Playoff Stage                  (see §copaplay)
+         Copa MX Clausura 2013              (see §copac)
+             Group Stage                    (see §copacgrp)
+             Playoff Stage                  (see §copacplay)
+         Ascenso MX                         (see §ascenso)
+           Apertura 2012                    (see §2aper)
+             Regular Stage                  (see §2aperreg)
+             Playoff Stage                  (see §2aperplay)
+           Clausura 2013                    (see §2clau)
+             Regular Stage                  (see §2claureg)
+             Playoff Stage                  (see §2clauplay)
+           Promotion Playoff                (see §2prom)
+  -->
 
 
 
@@ -19,7 +37,6 @@ NB: for this season the Primera División Nacional changed name to Liga MX
 ‹Apertura 2012, see §1aper› | ‹Clausura 2013, see §1clau›
 
 === Apertura 2012  ‹§1aper›
-
 
 ▪ Regular Stage ▪
 
@@ -507,7 +524,6 @@ Raúl Enríquez         FWD
 Coach: Antonio Mohamed [ARG]
 
 
-
 Copa Libertadores 2013 qualification
 
 NB: top-3 of Apertura 2012 Final Table qualify
@@ -518,9 +534,7 @@ NB: Toluca and Tijuana qualified to Group Phase,
     León qualified to Preliminary Round
 
 
-
 === Clausura 2012  ‹§1clau›
-
 
 ▪ Regular Stage ▪
 
@@ -1039,14 +1053,7 @@ Christian Benítez      FWD (Ecuador)
 Coach: Miguel Herrera
 
 
-
-
-
-
-
-
 == Copa MX Apertura 2012  ‹§copa›
-
 
 NB: the Cup Tournament is played by 14 teams from the Liga MX (first level) and 14 teams
     from the Ascenso MX (second level);
@@ -1299,9 +1306,7 @@ Tables:
 <!-- $table19$ - Group 7 -->
 
 
-
 ==== Playoff Stage  ‹§copaplay›
-
 
 ▪ Quarterfinals ▪
 
@@ -1364,14 +1369,7 @@ Mario Padilla      FWD
 Coach: Francisco Ramírez
 
 
-
-
-
-
-
 == Copa MX Clausura 2013  ‹§copac›
-
-
 
 NB: the Cup Tournament is played by 11 teams from the Liga MX (first level) and 13 teams
     from the Ascenso MX (second level);
@@ -1381,7 +1379,6 @@ NB: the Cup Tournament is played by 11 teams from the Liga MX (first level) and 
     Pumas Morelos and Leones Negros (Ascenso MX) (last in the 2012 Apertura tournament) excluded too.
 
 ==== Group Stage  ‹§copacgrp›
-
 
 The Group Stage was played in 3 home/away series, with the winners of each series earning
 an additional bonus point; if the series was tied after 2 matches, the team with more away goals
@@ -1612,7 +1609,6 @@ Tables:
 
 ==== Playoff Stage  ‹§copacplay›
 
-
 ▪ Quarterfinals ▪
 
 One single leg played
@@ -1681,12 +1677,6 @@ Mariano Pavone      FWD [Argentina]
 Teófilo Gutiérrez   FWD [Colombia]
 
 Coach: Guillermo Vázquez Herrera
-
-
-
-
-
-
 
 
 == Ascenso MX  ‹§ascenso›
@@ -1984,10 +1974,7 @@ La Piedad         3-1 Dorados   (aet)
 
 
 === Clausura 2013  ‹§2clau›
-
-
 ==== Regular Stage  ‹§2claureg›
-
 
 Participants:
 
@@ -2241,9 +2228,7 @@ Cruz Azul Hidalgo   1.1023
 Pumas Morelos      1.0909 (relegated]
 
 
-
 ==== Playoff Stage  ‹§2clauplay›
-
 
 NB: Leones Negros bye to semifinals
 
@@ -2287,9 +2272,7 @@ Necaxa            0-1 Neza
 Neza FC Clausura champions
 
 
-
 === Promotion Playoff  ‹§2prom›
-
 
 ▪ Championship Final ▪
 

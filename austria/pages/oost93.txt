@@ -1,9 +1,18 @@
-  <!--
-     title:   Austria 1992/93
-     source:  https://rsssf.org/tableso/oost93.html
-     authors: Ambrosius Kutschera and Karel Stokkermans
-     updated: 31 Oct 2004
-    -->
+<!--
+   title:   Austria 1992/93
+   source:  https://rsssf.org/tableso/oost93.html
+   authors: Ambrosius Kutschera and Karel Stokkermans
+   updated: 31 Oct 2004
+  -->
+
+<!--
+                     Contents:
+
+         1.Bundesliga                     
+         2.Bundesliga                     
+         Third Level 1992/93              
+  -->
+
 
 
 
@@ -352,7 +361,6 @@ Innsbruck     2-4 Admira/Wacker
 Sportclub     1-1 Vorwärts
 
 
-
 <!-- $table4$ - Table -->
 
 [Note: points between brackets are points retained from fall (halved and
@@ -649,14 +657,5 @@ Promoted to the Landesliga Burgenland: Parndorf, Mannersdorf, Kohfidisch.
 <!-- $table9$ - Wiener Liga -->
 
 Promoted to the Wiener Liga: Wienerberg/Inzersdorf, Feuerwehr/BSC.
-
-
-
-
-
-
-
-
-
 
 

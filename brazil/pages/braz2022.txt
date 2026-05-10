@@ -1,13 +1,18 @@
-  <!--
-     title:   Brazil 2022
-     source:  https://rsssf.org/tablesb/braz2022.html
-     author:  RSSSF Brazil
-     updated: 8 Dec 2025
-    -->
+<!--
+   title:   Brazil 2022
+   source:  https://rsssf.org/tablesb/braz2022.html
+   author:  RSSSF Brazil
+   updated: 8 Dec 2025
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Série A                            (see §sa)
+         Copa do Brasil 2022                (see §cb)
+         Série B                            (see §sb)
+         Série C                            (see §sc)
+  -->
 
 
 
@@ -590,10 +595,6 @@ Santos          0-2 Fortaleza
 <!-- $table3$ - Final Table -->
 
 
-
-
-
-
 == Copa do Brasil 2022  ‹§cb›
 
 ▪ 1/8 Finals ▪
@@ -663,17 +664,9 @@ Corinthians     0-0 Flamengo
 Flamengo        1-1 Corinthians     (6-5 pen)
 
 
-
-
-
-
 == Série B  ‹§sb›
 
 <!-- $table4$ - Final Table -->
-
-
-
-
 
 
 == Série C  ‹§sc›

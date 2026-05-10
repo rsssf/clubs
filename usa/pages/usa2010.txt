@@ -1,19 +1,35 @@
-  <!--
-     title:   USA 2010
-     source:  https://rsssf.org/tablesu/usa2010.html
-     author:  David A. Litterer
-     updated: 24 Dec 2023
-    -->
+<!--
+   title:   USA 2010
+   source:  https://rsssf.org/tablesu/usa2010.html
+   author:  David A. Litterer
+   updated: 24 Dec 2023
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Major League Soccer                (see §mls)
+           Regular Season                   (see §reg)
+           Championship Playoff             (see §play)
+         US Open Cup                        (see §open)
+         Women's Professional Soccer (Division 1)  (see §wps)
+         USSF D2Pro League (Division 2)     (see §ussf2)
+           Championship Playoff             (see §sfplay)
+         USL Second Division (Division 3)   (see §usl2)
+           Championship Playoff             (see §uslplay)
+         USL Premier Development League ("Division 4")  (see §pdl)
+           Championship Playoff             (see §uslpdl)
+         National Premier Soccer League ("Division 4")  (see §npsl)
+           Championship Playoff             (see §npsl)
+         Women's Premier Soccer League      (see §wpsl)
+         USL - W-League                     (see §wleague)
+         Major Indoor Soccer League         (see §misl)
+  -->
 
 
 
 
 == Major League Soccer  ‹§mls›
-
 
 === Regular Season  ‹§reg›
 
@@ -465,10 +481,6 @@ Colorado Rapids        2-1 FC Dallas              (aet)
   (Casey 57, John 107og; Ferreira 35)
 
 
-
-
-
-
 == US Open Cup  ‹§open›
 
 ▪ Qualification MLS ▪
@@ -531,12 +543,7 @@ Seattle Sounders       3-1 Chivas USA
 Seattle Sounders       2-1 Columbus Crew
 
 
-
-
-
 == Women's Professional Soccer (Division 1)  ‹§wps›
-
-
 
 <!-- $table5$ -->
 
@@ -551,10 +558,6 @@ Boston Breakers           1-2 Phladelphia Independence  (aet)
 ▪ Final ▪  Sep 26 @ Hayward, Calif.; att: 5.528
 FC Gold Pride             4-0 Philadelphia Independence
   (Sinclair 16, 53, Wilson 28, Marta 90)
-
-
-
-
 
 
 == USSF D2Pro League (Division 2)  ‹§ussf2›
@@ -611,10 +614,6 @@ Carolina RailHawks     1-1 Puerto Rico Islanders
 Champions: Puerto Rico Islanders
 
 
-
-
-
-
 == USL Second Division (Division 3)  ‹§usl2›
 
 ▪ Regular Season ▪
@@ -630,9 +629,6 @@ Richmond Kickers       2-0 Pittsburgh Riverhounds
 Charleston Battery     2-1 Richmond Kickers
 
 Champions: Charleston Battery
-
-
-
 
 
 == USL Premier Development League ("Division 4")  ‹§pdl›
@@ -689,9 +685,6 @@ Portland U23   4-1 Thunder Bay
 Champions: Portland Timbers U23's
 
 
-
-
-
 == National Premier Soccer League ("Division 4")  ‹§npsl›
 
                             GP   W   L   D   GF  GA  Pts
@@ -725,10 +718,6 @@ Lehigh Valley  3-1 Madison
 Sacramento     3-1 Chattanooga
 
 Champions: Sacramento Gold
-
-
-
-
 
 
 == Women's Premier Soccer League  ‹§wpsl›
@@ -775,13 +764,7 @@ Semi-Finals:          Ajax America defeated Oklahoma 2-0
 CHAMPIONSHIP:         Boston defeated Ajax America 2-1
 
 
-
-
-
-
 == USL - W-League  ‹§wleague›
-
-
 
                             GP   W   L   D   GF  GA  Pts
      EASTERN CONFERENCE
@@ -810,12 +793,7 @@ Third Place Game:      Hudson Valley defeated Atlanta 3-0
 CHAMPIONSHIP:          Buffalo defeated Vancouver 3-1
 
 
-
-
-
-
 == Major Indoor Soccer League  ‹§misl›
-
 
                            GP   W   L   PCT.   GB   GF   GA
 Milwaukee Wave             20  14   6   .700   --  242  201

@@ -1,13 +1,18 @@
-  <!--
-     title:   Spain 2017/18
-     source:  https://rsssf.org/tabless/span2018.html
-     author:  Karel Stokkermans
-     updated: 29 Sep 2020
-    -->
+<!--
+   title:   Spain 2017/18
+   source:  https://rsssf.org/tabless/span2018.html
+   author:  Karel Stokkermans
+   updated: 29 Sep 2020
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Primera División                   (see §laliga)
+         Copa del Rey                       (see §coparey)
+         Segunda División (Liga Adelante)   (see §segunda)
+           Promotion Playoff                (see §2prom)
+  -->
 
 
 
@@ -612,9 +617,6 @@ Barcelona                 1-0 Sociedad
 <!-- $table2$ - Final Table -->
 
 
-
-
-
 == Copa del Rey  ‹§coparey›
 
 ▪ Round 1 ▪
@@ -791,9 +793,6 @@ Valencia CF               0-2 FC Barcelona
 
 ▪ Final ▪  Apr 21 @ Madrid
 Sevilla FC                0-5 FC Barcelona
-
-
-
 
 
 == Segunda División (Liga Adelante)  ‹§segunda›

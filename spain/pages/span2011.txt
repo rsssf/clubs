@@ -1,13 +1,23 @@
-  <!--
-     title:   Spain 2010/11
-     source:  https://rsssf.org/tabless/span2011.html
-     author:  Anthony Zea
-     updated: 25 Mar 2024
-    -->
+<!--
+   title:   Spain 2010/11
+   source:  https://rsssf.org/tabless/span2011.html
+   author:  Anthony Zea
+   updated: 25 Mar 2024
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Primera División (Liga BBVA)       (see §laliga)
+         Copa del Rey                       (see §coparey)
+         Segunda División (Liga Adelante)   (see §segunda)
+           Promotion Playoff                (see §2prom)
+         Segunda División B                 (see §segundb)
+           Grupo I                          (see §2b1)
+           Grupo II                         (see §2b2)
+           Grupo III                        (see §2b3)
+           Grupo IV                         (see §2b4)
+  -->
 
 
 
@@ -1062,12 +1072,7 @@ Racing                    1-2 Athletic
 
 
 
-
-
-
-
 == Copa del Rey  ‹§coparey›
-
 
 ▪ Round 1 ▪
 _ Aug 21 _
@@ -1388,10 +1393,6 @@ Madrid                    1-0 Barcelona                 (aet)
    red card: Di María (M) 120 (2 yellow);
    ref: Alberto Undiano Mallenco;
    att: 50,000]
-
-
-
-
 
 
 == Segunda División (Liga Adelante)  ‹§segunda›
@@ -2652,13 +2653,7 @@ Elche                     1-1 Granada
 NB: Granada CF promoted
 
 
-
-
-
-
 == Segunda División B  ‹§segundb›
-
-
 === Grupo I  ‹§2b1›
 
 <!-- $table5$ - Final Table -->

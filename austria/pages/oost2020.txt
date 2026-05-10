@@ -1,19 +1,29 @@
-  <!--
-     title:   Austria 2019/20
-     source:  https://rsssf.org/tableso/oost2020.html
-     authors: Hans Schöggl and Karel Stokkermans
-     updated: 7 Mar 2023
-    -->
+<!--
+   title:   Austria 2019/20
+   source:  https://rsssf.org/tableso/oost2020.html
+   authors: Hans Schöggl and Karel Stokkermans
+   updated: 7 Mar 2023
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Bundesliga                         (see §bund)
+           Regular Stage                    (see §reg)
+           Playoff Stage                    (see §play)
+             Championship Playoff           (see §champ)
+           Europa League Playoff            (see §eurpo)
+             Relegation Playoff             (see §releg)
+         ÖFB Cup                            (see §cup)
+         2. Liga (Second Level)             (see §1liga)
+         SFV (Salzburg) Cup 2019/20         (see §salzcup)
+         Woche Cup 2019/20                  (see §steicup)
+  -->
 
 
 
 
 == Bundesliga  ‹§bund›
-
 
 === Regular Stage  ‹§reg›
 
@@ -248,8 +258,6 @@ Mattersburg      0-1 LASK
 [*] WSG Wattens were renamed WSG Tirol and play home matches in Innsbruck
 
 === Playoff Stage  ‹§play›
-
-
 ==== Championship Playoff  ‹§champ›
 
 <!-- $table3$ - Final Table -->
@@ -412,9 +420,6 @@ NB: on Aug 5, Mattersburg renounced on its Bundesliga license for financial
     Mattersburger Sportverein 2020
 
 
-
-
-
 == ÖFB Cup  ‹§cup›
 
 ▪ Round 1 ▪
@@ -506,10 +511,6 @@ FC Red Bull Salzburg            5-0 SC Austria Lustenau
   (Szoboszlai 10, Stumberger 21og, Okafor 30, Ashimeru 65, Koita 79)
 
 
-
-
-
-
 == 2. Liga (Second Level)  ‹§1liga›
 
 <!-- $table7$ - Final Table -->
@@ -518,10 +519,6 @@ NB: no relegation to third level or promotion from third level; the 16th
     place freed by the withdrawal of Mattersburg will be filled by Rapid II
     (a fourth youth team, after Liefering (Salzburg), Young Violets (Austria)
     and Juniors Oberösterreich (LASK)).
-
-
-
-
 
 
 == SFV (Salzburg) Cup 2019/20  ‹§salzcup›
@@ -549,9 +546,6 @@ FC Zell/See                   n/p SV Austria Salzburg
 Semifinals [Apr 22 - cancelled]
 
 Final [May 21 - cancelled]
-
-
-
 
 
 == Woche Cup 2019/20  ‹§steicup›

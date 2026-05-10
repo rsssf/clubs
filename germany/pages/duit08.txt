@@ -1,9 +1,21 @@
-  <!--
-     title:   Germany 2007/08
-     source:  https://rsssf.org/tablesd/duit08.html
-     authors: Karel Stokkermans and Daniel Dalence
-     updated: 7 Nov 2008
-    -->
+<!--
+   title:   Germany 2007/08
+   source:  https://rsssf.org/tablesd/duit08.html
+   authors: Karel Stokkermans and Daniel Dalence
+   updated: 7 Nov 2008
+  -->
+
+<!--
+                     Contents:
+
+         1. Bundesliga                    
+         DFB Pokal                        
+         2. Bundesliga                    
+         Third Level 2007/08              
+         OBERLIGA (Fourth Level)          
+         VERBANDESLIGA/LANDESLIGA (Fifth Level)
+  -->
+
 
 
 
@@ -486,7 +498,6 @@ Stuttgart      2-2 Arminia
 <!-- $table2$ - Final Table -->
 
 
-
 == DFB Pokal
 
 
@@ -576,7 +587,6 @@ Bayern München           2-0 VfL Wolfsburg
 
 ▪ Final ▪  Apr 19 @ Berlin
 Borussia Dortmund        1-2 Bayern München            (aet)
-
 
 
 == 2. Bundesliga
@@ -1068,8 +1078,6 @@ NB: TuS Koblenz 8 points deducted for infringements in license
     for 2007/08 and 3 points for 2008/09
 
 
-
-
 == Third Level 2007/08
 
 
@@ -1085,8 +1093,6 @@ Regionalliga Süd
 NB: a new, nationwide 3rd level league is formed for 2008/09, which
     will contain the 4 clubs relegated from the 2nd level 2007/08 as
     well as the 16 clubs finishing 3rd to 10th in both RLs 2007/08.
-
-
 
 
 == OBERLIGA (Fourth Level)
@@ -1280,26 +1286,5 @@ FC Schönberg 95         1-2 1. FC Lokomotiv Leipzig
 <!-- $table42$ - Westfalen - Group 2 -->
 
 <!-- $table43$ - Württemberg -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 

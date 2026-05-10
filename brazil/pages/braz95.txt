@@ -1,10 +1,9 @@
-  <!--
-     title:   Brazil 1995
-     source:  https://rsssf.org/tablesb/braz95.html
-     author:  RSSSF Brazil
-     updated: 2 Apr 2005
-    -->
-
+<!--
+   title:   Brazil 1995
+   source:  https://rsssf.org/tablesb/braz95.html
+   author:  RSSSF Brazil
+   updated: 2 Apr 2005
+  -->
 
 
 
@@ -163,7 +162,6 @@ GROUP A
 Pos Team          P+  G  W  D  L  GF-GA SG |  G  W  D  L GF-GA | G  W  D  L GF-G
 --------------------------------------------------------------------------------
 <!-- $table1$ -->
-
 
 
 ****************************************
@@ -427,7 +425,6 @@ turnos sao:
        los sofridos);
     6. confronto direto e,
     7. sorteio.
-
 
 
           *************************************************
@@ -1102,7 +1099,6 @@ Pos Team          P+  G  W  D  L  GF-GA SG |  G  W  D  L GF-GA | G  W  D  L GF-G
 <!-- $table13$ -->
 
 
-
 *       SERIE C  - - SECOND PHASE
 *                                            24/9   1/10
 NACIONAL(AM)(*) X ATLETICO RORAIMA(RR)        4-0   0-0 (3009)
@@ -1192,9 +1188,5 @@ XV de Novembro/Pir.(SP) X  Volta Redonda(RJ)  2-0   1-0
 EC XV de Novembro (Piracicaba-SP) were the 1995 3rd Level Champions
 
 Both finalists were promoted.
-
-
-
-
 
 

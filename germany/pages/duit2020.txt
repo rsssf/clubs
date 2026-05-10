@@ -1,13 +1,21 @@
-  <!--
-     title:   Germany 2019/20
-     source:  https://rsssf.org/tablesd/duit2020.html
-     author:  Karel Stokkermans
-     updated: 8 Oct 2020
-    -->
+<!--
+   title:   Germany 2019/20
+   source:  https://rsssf.org/tablesd/duit2020.html
+   author:  Karel Stokkermans
+   updated: 8 Oct 2020
+  -->
 
+<!--
+                     Contents:
 
-
-
+         1. Bundesliga                      (see §1bl)
+           Promotion/Relegation Playoff 1./2. Bundesliga  (see §1prorel)
+         DFB Pokal                          (see §dfbpokal)
+         2. Bundesliga                      (see §2bl)
+           Promotion/Relegation Playoff 2./3. Bundesliga  (see §2prorel)
+         3. Liga                            (see §3bl)
+           Promotion Playoffs for 3. Bundesliga  (see §3pro)
+  -->
 
 
 
@@ -505,9 +513,6 @@ Heidenheim      2-2 Bremen
 NB: both remain at former level
 
 
-
-
-
 == DFB Pokal  ‹§dfbpokal›
 
 ▪ Round 1 ▪
@@ -604,10 +609,6 @@ Bayern München         2-1 Eintracht Frankfurt
 Bayern München         4-2 Bayer Leverkusen
 
 
-
-
-
-
 == 2. Bundesliga  ‹§2bl›
 
 <!-- $table4$ - Final Table -->
@@ -621,9 +622,6 @@ Nürnberg        2-0 Ingolstadt
 Ingolstadt      3-1 Nürnberg
 
 NB: both remain at former level
-
-
-
 
 
 == 3. Liga  ‹§3bl›

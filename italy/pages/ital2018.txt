@@ -1,13 +1,20 @@
-  <!--
-     title:   Italy 2017/18
-     source:  https://rsssf.org/tablesi/ital2018.html
-     authors: Roberto Di Maggio and Karel Stokkermans
-     updated: 14 Jan 2021
-    -->
+<!--
+   title:   Italy 2017/18
+   source:  https://rsssf.org/tablesi/ital2018.html
+   authors: Roberto Di Maggio and Karel Stokkermans
+   updated: 14 Jan 2021
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Serie A                            (see §seriea)
+         Coppa Italia                       (see §coppa)
+         Serie B                            (see §serieb)
+           Regular Season                   (see §2reg)
+           Promotion Playoff                (see §2prom)
+           Relegation Playoff               (see §2rel)
+  -->
 
 
 
@@ -567,10 +574,6 @@ Lazio           2-3 Inter
 <!-- $table2$ - Final Table -->
 
 
-
-
-
-
 == Coppa Italia  ‹§coppa›
 
 ▪ Round 1 ▪
@@ -775,13 +778,7 @@ Milan: G. Donnarumma, Calabria, Bonucci, Romagnoli, Rodriguez, Kessie, Locatelli
   Bonaventura, Suso (Borini 68), Cutrone (Kalinic 62), Calhanoglu. Tr.: Gattuso.
 
 
-
-
-
-
 == Serie B  ‹§serieb›
-
-
 === Regular Season  ‹§2reg›
 
 <!-- $table3$ - Final Table -->

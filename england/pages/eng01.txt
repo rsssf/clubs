@@ -1,9 +1,9 @@
-  <!--
-     title:   England 2000/01
-     source:  https://rsssf.org/tablese/eng01.html
-     authors: Ian King and Stephen Mulrine
-     updated: 15 Feb 2006
-    -->
+<!--
+   title:   England 2000/01
+   source:  https://rsssf.org/tablese/eng01.html
+   authors: Ian King and Stephen Mulrine
+   updated: 15 Feb 2006
+  -->
 
 
 
@@ -2215,13 +2215,5 @@ UniBond League
 <!-- $table10$ - Final Table -->
 
 [*] Spennymoor United 1 point deducted
-
-
-
-
-
-
-
-
 
 

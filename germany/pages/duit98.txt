@@ -1,9 +1,17 @@
-  <!--
-     title:   Germany 1997/98
-     source:  https://rsssf.org/tablesd/duit98.html
-     authors: Gwidon Naskrent and Daniel Dalence
-     updated: 7 Jun 2005
-    -->
+<!--
+   title:   Germany 1997/98
+   source:  https://rsssf.org/tablesd/duit98.html
+   authors: Gwidon Naskrent and Daniel Dalence
+   updated: 7 Jun 2005
+  -->
+
+<!--
+                     Contents:
+
+         DFB Pokal                        
+         2. Bundesliga                    
+  -->
+
 
 
 
@@ -675,7 +683,6 @@ Wolfsburg  0-2 M'gladbach (Effenberg 13, Wynhoff 35)
         Martin WAGNER        30  (2223) + 4
 
 
-
 == DFB Pokal
 
 
@@ -795,23 +802,5 @@ Kickers Offenbach      1-2  Tennis Borussia Berlin
 Tennis Borussia Berlin      2-0  Sportfreunde Siegen
 
 <!-- $table9$ -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 

@@ -1,13 +1,20 @@
-  <!--
-     title:   Italy 2014/15
-     source:  https://rsssf.org/tablesi/ital2015.html
-     author:  Karel Stokkermans
-     updated: 14 Jan 2021
-    -->
+<!--
+   title:   Italy 2014/15
+   source:  https://rsssf.org/tablesi/ital2015.html
+   author:  Karel Stokkermans
+   updated: 14 Jan 2021
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Serie A                            (see §seriea)
+         Coppa Italia                       (see §coppa)
+         Serie B                            (see §serieb)
+           Regular Season                   (see §2reg)
+           Promotion Playoff                (see §2prom)
+           Relegation Playoff               (see §2rel)
+  -->
 
 
 
@@ -586,10 +593,6 @@ Torino          5-0 Cesena
 NB: Parma 7 points deducted for financial reasons
 
 
-
-
-
-
 == Coppa Italia  ‹§coppa›
 
 ▪ Round 1 ▪  Aug 10
@@ -803,13 +806,7 @@ Juventus: Storari, Barzagli, Bonucci, Chiellini, Evra, Lichtsteiner
   (Matri 84). Tr.: Allegri
 
 
-
-
-
-
 == Serie B  ‹§serieb›
-
-
 === Regular Season  ‹§2reg›
 
 <!-- $table4$ - Final Table -->

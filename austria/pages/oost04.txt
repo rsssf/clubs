@@ -1,9 +1,19 @@
-  <!--
-     title:   Austria 2003/04
-     source:  https://rsssf.org/tableso/oost04.html
-     authors: Andreas Exenberger and Karel Stokkermans
-     updated: 15 Jun 2022
-    -->
+<!--
+   title:   Austria 2003/04
+   source:  https://rsssf.org/tableso/oost04.html
+   authors: Andreas Exenberger and Karel Stokkermans
+   updated: 15 Jun 2022
+  -->
+
+<!--
+                     Contents:
+
+         First Level (Bundesliga)         
+         ÖFB Cup 2003/04                  
+         Second Level (1. Liga)           
+         Third Level 2003/04              
+  -->
+
 
 
 
@@ -696,7 +706,6 @@ Grazer AK         1-1 Austria Wien             (2-4 pen)
   (Kollmann 8; Pogatetz 54og)
 
 
-
 == Second Level (1. Liga)
 
 
@@ -1309,7 +1318,6 @@ Promoted to Stadtliga: Wienerberg, SV Essling
 
 Relegated from Regionalliga (Ost): SV Neuberg, SV Oberwart
 Promoted to Burgenland-Liga: SK Neusiedl/S., SV Forchtenstein, SV Stegersbach
-
 
 
 Fifth and Lower Levls (only Tirol)

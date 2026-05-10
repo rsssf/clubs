@@ -1,9 +1,18 @@
-  <!--
-     title:   Germany 2003/04
-     source:  https://rsssf.org/tablesd/duit04.html
-     author:  Lars Kubusch
-     updated: 8 Aug 2004
-    -->
+<!--
+   title:   Germany 2003/04
+   source:  https://rsssf.org/tablesd/duit04.html
+   author:  Lars Kubusch
+   updated: 8 Aug 2004
+  -->
+
+<!--
+                     Contents:
+
+         1. Bundesliga                    
+         DFB Pokal                        
+         2. Bundesliga                    
+         Third Level 2003/04              
+  -->
 
 
 
@@ -799,7 +808,6 @@ NB: Kaiserslautern have 3 points deducted
 
 
 
-
 == DFB Pokal
 
 
@@ -971,7 +979,6 @@ SV Werder Bremen              3-2  TSV Alemannia Aachen
    sent off: George Stanley Mbwando (Alemannia Aachen) 75]
 
 <!-- $topscorers2$ -->
-
 
 
 
@@ -1884,7 +1891,6 @@ Final Table:
 
 
 <!-- $topscorers3$ -->
-
 
 
 
@@ -3681,7 +3687,6 @@ Siegen remained in the Regionalliga.
 
 
 
-
 Fourth Level (Oberligen) 2003/04
 
     Bayern
@@ -3963,26 +3968,5 @@ VFC Plauen      2-4   Hertha BSC Berlin Amateure
 
 ▪ Second Leg ▪  Jun 6
 Hertha BSC Berlin   2-3   VFC Plauen
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 

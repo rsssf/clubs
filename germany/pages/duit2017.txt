@@ -1,13 +1,21 @@
-  <!--
-     title:   Germany 2016/17
-     source:  https://rsssf.org/tablesd/duit2017.html
-     author:  Karel Stokkermans
-     updated: 7 Jan 2021
-    -->
+<!--
+   title:   Germany 2016/17
+   source:  https://rsssf.org/tablesd/duit2017.html
+   author:  Karel Stokkermans
+   updated: 7 Jan 2021
+  -->
 
+<!--
+                     Contents:
 
-
-
+         1. Bundesliga                      (see §1bl)
+           Promotion/Relegation Playoff 1./2. Bundesliga  (see §1prorel)
+         DFB Pokal                          (see §dfbpokal)
+         2. Bundesliga                      (see §2bl)
+           Promotion/Relegation Playoff 2./3. Bundesliga  (see §2prorel)
+         3. Liga                            (see §3bl)
+           Promotion Playoffs for 3. Bundesliga  (see §3pro)
+  -->
 
 
 
@@ -497,9 +505,6 @@ Braunschweig    0-1 Wolfsburg
 NB: both remain at former level
 
 
-
-
-
 == DFB Pokal  ‹§dfbpokal›
 
 ▪ Round 1 ▪
@@ -591,9 +596,6 @@ Bayern München         2-3 Borussia Dortmund
 Borussia Dortmund      2-1 Eintracht Frankfurt
 
 
-
-
-
 == 2. Bundesliga  ‹§2bl›
 
 <!-- $table4$ - Final Table -->
@@ -609,10 +611,6 @@ Regensburg      1-1 1860 München
 NB: TSV 1860 München relegated, Jahn Regensburg promoted;
     as TSV 1860 München cannot fulful the license conditions for the third level,
     they are demoted to the fourth level
-
-
-
-
 
 
 == 3. Liga  ‹§3bl›

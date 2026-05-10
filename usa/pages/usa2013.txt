@@ -1,19 +1,29 @@
-  <!--
-     title:   USA 2013
-     source:  https://rsssf.org/tablesu/usa2013.html
-     author:  Karel Stokkermans
-     updated: 25 Feb 2021
-    -->
+<!--
+   title:   USA 2013
+   source:  https://rsssf.org/tablesu/usa2013.html
+   author:  Karel Stokkermans
+   updated: 25 Feb 2021
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Major League Soccer                (see §mls)
+           Regular Season                   (see §reg)
+           Championship Playoff             (see §play)
+             Wild Card Games                (see §wcard)
+             Eastern Semifinals             (see §esemi)
+             Eastern Conference Final       (see §efinal)
+             Western Semifinals             (see §wsemi)
+             Western Conference Final       (see §wfinal)
+             MLS Cup 2013                   (see §mlscup)
+         US Open Cup                        (see §open)
+  -->
 
 
 
 
 == Major League Soccer  ‹§mls›
-
 
 === Regular Season  ‹§reg›
 
@@ -491,7 +501,6 @@ Final Tables:
 
 
 === Championship Playoff  ‹§play›
-
 ==== Wild Card Games  ‹§wcard›
 
 _ Oct 30 _
@@ -547,11 +556,6 @@ Portland Timbers       0-1 Real Salt Lake
 
 _ Dec 7 _
 Sporting Kansas City   1-1 Real Salt Lake         (aet, 7-6 pen)
-
-
-
-
-
 
 
 == US Open Cup  ‹§open›

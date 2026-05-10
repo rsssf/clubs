@@ -1,13 +1,20 @@
-  <!--
-     title:   Italy 2023/24
-     source:  https://rsssf.org/tablesi/ital2024.html
-     authors: Roberto Di Maggio and Karel Stokkermans
-     updated: 11 Oct 2024
-    -->
+<!--
+   title:   Italy 2023/24
+   source:  https://rsssf.org/tablesi/ital2024.html
+   authors: Roberto Di Maggio and Karel Stokkermans
+   updated: 11 Oct 2024
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Serie A                            (see §seriea)
+         Coppa Italia                       (see §coppa)
+         Serie B                            (see §serieb)
+           Regular Season                   (see §2reg)
+           Promotion Playoff                (see §2prom)
+           Relegation Playoff               (see §2releg)
+  -->
 
 
 
@@ -613,10 +620,6 @@ Lazio           1-1 Sassuolo
 <!-- $table3$ - Final Table -->
 
 
-
-
-
-
 == Coppa Italia  ‹§coppa›
 
 ▪ Preliminary Round ▪
@@ -760,13 +763,7 @@ Atalanta: Carnesecchi, De Roon (65 Toloi), Hien (59 Scalvini), Djimsiti,
   De Ketelaere (46 Touré), Lookman. Tr.: Gasperini
 
 
-
-
-
-
 == Serie B  ‹§serieb›
-
-
 === Regular Season  ‹§2reg›
 
 <!-- $table4$ - Final Table -->

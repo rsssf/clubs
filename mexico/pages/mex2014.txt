@@ -1,13 +1,32 @@
-  <!--
-     title:   Mexico 2013/14
-     source:  https://rsssf.org/tablesm/mex2014.html
-     author:  Erik Francisco Lugo
-     updated: 18 Feb 2021
-    -->
+<!--
+   title:   Mexico 2013/14
+   source:  https://rsssf.org/tablesm/mex2014.html
+   author:  Erik Francisco Lugo
+   updated: 18 Feb 2021
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Liga MX                            (see §pdn)
+           Apertura 2013                    (see §1aper)
+           Clausura 2014                    (see §1clau)
+         Copa MX Apertura 2013              (see §copa)
+             Group Stage                    (see §copagrp)
+             Playoff Stage                  (see §copaplay)
+         Copa MX Clausura 2014              (see §copac)
+             Group Stage                    (see §copacgrp)
+             Playoff Stage                  (see §copacplay)
+         Supercopa MX                       (see §supcopa)
+         Ascenso MX                         (see §ascenso)
+           Apertura 2013                    (see §2aper)
+             Regular Stage                  (see §2aperreg)
+             Playoff Stage                  (see §2aperplay)
+           Clausura 2014                    (see §2clau)
+             Regular Stage                  (see §2claureg)
+             Playoff Stage                  (see §2clauplay)
+           Promotion Playoff                (see §2prom)
+  -->
 
 
 
@@ -23,7 +42,6 @@ Changes before season
 ‹Apertura 2013, see §1aper› | ‹Clausura 2014, see §1clau›
 
 === Apertura 2013  ‹§1aper›
-
 
 ▪ Regular Stage ▪
 
@@ -533,7 +551,6 @@ NB: Santos and León qualified to Group Phase,
 
 === Clausura 2014  ‹§1clau›
 
-
 ▪ Regular Stage ▪
 
 <!-- $table4$ - Final Table -->
@@ -1027,7 +1044,6 @@ Pachuca            0-2 León               (aet)
   (Mauro Boselli 66, Juan Ignacio González 112)
 
 
-
 Club León roster team
 
 William Yarbrough   GK
@@ -1062,12 +1078,7 @@ Mauricio Castañeda   FWD
 Coach: Gustavo Matosas (ARG)
 
 
-
-
-
-
 == Copa MX Apertura 2013  ‹§copa›
-
 
 NB: the Cup Tournament is played by 14 teams from the Liga MX (first level) and
     14 teams from the Ascenso MX (second level);
@@ -1076,7 +1087,6 @@ NB: the Cup Tournament is played by 14 teams from the Liga MX (first level) and
     Ballenas Galeana (Ascenso MX) also excluded
 
 ==== Group Stage  ‹§copagrp›
-
 
 The Group Stage was played in 3 home/away series, with the winners of each series earning
 an additional bonus point; if the series was tied after 2 matches, the team with more away goals earn the extra point; if still tied no bonus point was awarded.
@@ -1389,12 +1399,7 @@ Luis Gerardo Arroyo   FWD
 Coach: Carlos Julio Bustos [ARG]
 
 
-
-
-
-
 == Copa MX Clausura 2014  ‹§copac›
-
 
 NB: the Cup Tournament is played by 11 teams from the Liga MX (first level) and
     13 teams from the Ascenso MX (second level);
@@ -1622,7 +1627,6 @@ Tables:
 
 ==== Playoff Stage  ‹§copacplay›
 
-
 ▪ Quarterfinals ▪
 
 One single leg played
@@ -1686,13 +1690,7 @@ Uvaldo Luna                FWD (USA)
 Coach: Ricardo Ferreti (BRA)
 
 
-
-
-
-
-
 == Supercopa MX  ‹§supcopa›
-
 
 First edition of this tournament held between the winners of Copa MX Apertura 2013 (Morelia) and
 Copa MX Clausura 2014 (Tigres); the champion qualify to Preliminary Round of Copa Libertadores 2015.
@@ -1709,12 +1707,7 @@ Tigres             3-1 Morelia
   (Hernán Darío Burbano 15, Anselmo Vendrechovski 63pen, 81; Duvier Orlando Riascos 77)
 
 
-
-
-
 == Ascenso MX  ‹§ascenso›
-
-
 === Apertura 2013  ‹§2aper›
 
 Changes before season:
@@ -1730,7 +1723,6 @@ Changes before season:
 ‹Regular Stage, see §2aperreg› | ‹Playoff Stage, see §2aperplay›
 
 ==== Regular Stage  ‹§2aperreg›
-
 
 Participants:
 
@@ -1987,8 +1979,6 @@ Necaxa            1-1 Leones Negros
 
 
 === Clausura 2014  ‹§2clau›
-
-
 ==== Regular Stage  ‹§2claureg›
 
 Participants:

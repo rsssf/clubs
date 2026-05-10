@@ -1,13 +1,27 @@
-  <!--
-     title:   England 2022/23
-     source:  https://rsssf.org/tablese/eng2023.html
-     author:  Karel Stokkermans
-     updated: 15 Jun 2025
-    -->
+<!--
+   title:   England 2022/23
+   source:  https://rsssf.org/tablese/eng2023.html
+   author:  Karel Stokkermans
+   updated: 15 Jun 2025
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Premier League                     (see §premier)
+         Championship                       (see §champ)
+           Regular Stage                    (see §2reg)
+           Promotion Playoff                (see §2prom)
+         Division 1                         (see §first)
+           Regular Stage                    (see §3reg)
+           Promotion Playoff                (see §3prom)
+         Division 2                         (see §second)
+           Regular Stage                    (see §4reg)
+           Promotion Playoff                (see §4prom)
+         National League                    (see §conf)
+           Regular Stage                    (see §5reg)
+           Promotion Playoff                (see §5prom)
+  -->
 
 
 
@@ -594,13 +608,7 @@ Southampton   4-4 Liverpool
 <!-- $table2$ - Final Table -->
 
 
-
-
-
-
 == Championship  ‹§champ›
-
-
 === Regular Stage  ‹§2reg›
 
 <!-- $table3$ - Final Table -->
@@ -625,13 +633,7 @@ _ May 27 _
 Luton         1-1 Coventry      (aet, 6-5 pen)
 
 
-
-
-
-
 == Division 1  ‹§first›
-
-
 === Regular Stage  ‹§3reg›
 
 <!-- $table4$ - Final Table -->
@@ -656,13 +658,7 @@ Barnsley      1-0 Bolton
 Sheffield W   1-0 Barnsley      (aet)
 
 
-
-
-
-
 == Division 2  ‹§second›
-
-
 === Regular Stage  ‹§4reg›
 
 <!-- $table5$ - Final Table -->
@@ -685,13 +681,7 @@ Carlisle      3-1 Bradford      (aet)
 Stockport     1-1 Carlisle      (aet, 4-5 pen)
 
 
-
-
-
-
 == National League  ‹§conf›
-
-
 === Regular Stage  ‹§5reg›
 
 <!-- $table6$ - Final Table -->

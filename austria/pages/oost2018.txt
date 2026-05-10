@@ -1,13 +1,24 @@
-  <!--
-     title:   Austria 2017/18
-     source:  https://rsssf.org/tableso/oost2018.html
-     authors: Hans Schöggl and Karel Stokkermans
-     updated: 7 Mar 2023
-    -->
+<!--
+   title:   Austria 2017/18
+   source:  https://rsssf.org/tableso/oost2018.html
+   authors: Hans Schöggl and Karel Stokkermans
+   updated: 7 Mar 2023
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Bundesliga                         (see §bund)
+           Promotion/Relegation Playoff     (see §prorel)
+         ÖFB Cup                            (see §cup)
+         1. Liga (Second Level)             (see §1liga)
+         Regionalliga                       (see §regliga)
+           Regionalliga West                (see §regwest)
+           Regionalliga Mitte               (see §regmitte)
+           Regionalliga Ost                 (see §regost)
+         SFV (Salzburg) Cup 2017/18         (see §salzcup)
+         Woche Cup 2017/18                  (see §steicup)
+  -->
 
 
 
@@ -355,9 +366,6 @@ Sankt Pölten     1-1 Wiener Neustadt
 NB: both remain at former level
 
 
-
-
-
 == ÖFB Cup  ‹§cup›
 
 ▪ Round 1 ▪
@@ -450,10 +458,6 @@ SK Sturm Graz               1-0 FC Red Bull Salzburg        (aet)
   (Hierländer 112)
 
 
-
-
-
-
 == 1. Liga (Second Level)  ‹§1liga›
 
 <!-- $table4$ - Final Table -->
@@ -463,13 +467,7 @@ SK Sturm Graz               1-0 FC Red Bull Salzburg        (aet)
 NB: no relegation as second level is extended to 16 clubs for 2018/19.
 
 
-
-
-
-
 == Regionalliga  ‹§regliga›
-
-
 === Regionalliga West  ‹§regwest›
 
 <!-- $table5$ - Final Table -->
@@ -496,9 +494,6 @@ NB: Lafnitz, Vorwärts Steyr, Juniors and Austria Klagenfurt are the four best p
 
 NB: Horn, Amstetten and Austria II are the only teams to have expressed an interest in
     promotion and obtained a license for the second level
-
-
-
 
 
 == SFV (Salzburg) Cup 2017/18  ‹§salzcup›
@@ -531,9 +526,6 @@ SV Straßwalchen               2-1 SV Grödig
 
 ▪ Final ▪  May 23
 SV Straßwalchen               1-0 FC Pinzgau Saalfelden
-
-
-
 
 
 == Woche Cup 2017/18  ‹§steicup›

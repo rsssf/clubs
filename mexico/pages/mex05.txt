@@ -1,9 +1,9 @@
-  <!--
-     title:   Mexico 2004/05
-     source:  https://rsssf.org/tablesm/mex05.html
-     authors: Juan Pablo Andrés, Erik Francisco Lugo and José de Jesus Mora Rivera
-     updated: 22 Jan 2009
-    -->
+<!--
+   title:   Mexico 2004/05
+   source:  https://rsssf.org/tablesm/mex05.html
+   authors: Juan Pablo Andrés, Erik Francisco Lugo and José de Jesus Mora Rivera
+   updated: 22 Jan 2009
+  -->
 
 
 
@@ -512,7 +512,6 @@ Monterrey    0-1 Pumas
   (Francisco Fonseca 46)
 
 <!-- $topscorers1$ -->
-
 
 
 
@@ -1115,13 +1114,11 @@ COACH: Mario Carrillo (first championship title) (Mexico)
    Damián Alvarez             Morelia          Argentina    6
 
 
-
 Relegation (May 9):
 
 17.Tecos     1.1818 (130/110)
 -----------------------------
 18.Puebla    1.0454 (115/110)  Relegated
-
 
 
 Campeón de Campeones 2004-05 (Super Cup)
@@ -1132,7 +1129,6 @@ Pumas        0-0 América
 ▪ Second Leg ▪  Jul 27
 América      2-1 Pumas
   (Kléber Boas Pereira 64, 68; Guillermo Ochoa 53og)
-
 
 
 Second Level 2004/05
@@ -1916,7 +1912,6 @@ NB: 2nd Leg played in Durango
 CD Guadalajara "B" champion Apertura 2004
 
 
-
 Torneo Clausura 2005
 
 <!-- $table36$ - Zona Sur (South) -->
@@ -1969,7 +1964,6 @@ Cachorros UG remain at 3rd level
 Atlético San Julián relegated
 
 
-
 Liguilla de Filiales
 
 Quarterfinals (Apr 15,16-22,23)
@@ -1989,16 +1983,6 @@ CD Guadalajara "B" champion Clausura 2005
 "Filiales" cannot promote to Primera A (Second Level)
 
 <!-- $topscorers5$ -->
-
-
-
-
-
-
-
-
-
-
 
 
 

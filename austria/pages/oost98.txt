@@ -1,9 +1,21 @@
-  <!--
-     title:   Austria 1997/98
-     source:  https://rsssf.org/tableso/oost98.html
-     author:  RSSSF
-     updated: 15 Jun 2022
-    -->
+<!--
+   title:   Austria 1997/98
+   source:  https://rsssf.org/tableso/oost98.html
+   author:  RSSSF
+   updated: 15 Jun 2022
+  -->
+
+<!--
+                     Contents:
+
+         1.Bundesliga                     
+         ÖFB Cup 1997/98                  
+         2.Bundesliga                     
+         Third Level (Regionalliga's)     
+         Fourth Level (Landesligen)       
+         Fifth Level and Lower            
+  -->
+
 
 
 

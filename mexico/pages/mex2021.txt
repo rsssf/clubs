@@ -1,22 +1,33 @@
-  <!--
-     title:   Mexico 2020/21
-     source:  https://rsssf.org/tablesm/mex2021.html
-     author:  Erik Francisco Lugo
-     updated: 27 Jul 2021
-    -->
+<!--
+   title:   Mexico 2020/21
+   source:  https://rsssf.org/tablesm/mex2021.html
+   author:  Erik Francisco Lugo
+   updated: 27 Jul 2021
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Liga MX                            (see §pdn)
+           Apertura 2020 (Torneo Guardianes)  (see §1aper)
+           Clausura 2021 (Torneo Guard1anes)  (see §1clau)
+         Campeón de Campeones               (see §campcamp)
+         Liga Expansión MX                  (see §ascenso)
+           Apertura 2020 (Torneo Guard1anes)  (see §2aper)
+             Regular Stage                  (see §2aperreg)
+             Playoff Stage                  (see §2aperplay)
+           Clausura 2021 (Torneo Guard1anes)  (see §2clau)
+             Regular Stage                  (see §2claureg)
+             Playoff Stage                  (see §2clauplay)
+           Campeón de Campeones             (see §2cc)
+  -->
 
 
 
 
 == Liga MX  ‹§pdn›
 
-
 === Apertura 2020 (Torneo Guardianes)  ‹§1aper›
-
 
 ▪ Regular Stage ▪
 
@@ -556,7 +567,6 @@ TD: Ignacio Ambriz
 
 
 === Clausura 2021 (Torneo Guard1anes)  ‹§1clau›
-
 
 ▪ Regular Stage ▪
 
@@ -1141,9 +1151,6 @@ Pedro Pacheco             FW
 Coach: Juan Máximo Reynoso (PER)
 
 
-
-
-
 == Campeón de Campeones  ‹§campcamp›
 
 Between León (winners Apertura 2020) and Cruz Azul (winners Clausura 2021),
@@ -1157,15 +1164,8 @@ León            1-2 Cruz Azul
   (Santiago Ormeño 81; Jonathan Rodríguez 59, 66)
 
 
-
-
-
-
 == Liga Expansión MX  ‹§ascenso›
-
-
 === Apertura 2020 (Torneo Guard1anes)  ‹§2aper›
-
 
 ==== Regular Stage  ‹§2aperreg›
 
@@ -1488,8 +1488,6 @@ Atlante              2-3 Tampico Madero   (aet)
 
 
 === Clausura 2021 (Torneo Guard1anes)  ‹§2clau›
-
-
 ==== Regular Stage  ‹§2claureg›
 
 Participants:

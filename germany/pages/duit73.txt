@@ -1,10 +1,9 @@
-  <!--
-     title:   Germany 1972/73
-     source:  https://rsssf.org/tablesd/duit73.html
-     author:  Gwidon Naskrent
-     updated: 1 Apr 2001
-    -->
-
+<!--
+   title:   Germany 1972/73
+   source:  https://rsssf.org/tablesd/duit73.html
+   author:  Gwidon Naskrent
+   updated: 1 Apr 2001
+  -->
 
 
 
@@ -572,7 +571,5 @@ FC Bayern München 1972/73
         Georg SCHWARZENBECK  34  (3060) + 1
       Herbert ZIMMERMANN      1  (  45)
        Rainer ZOBEL          28  (2475) + 2
-
-
 
 

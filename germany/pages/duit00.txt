@@ -1,9 +1,19 @@
-  <!--
-     title:   Germany 1999/2000
-     source:  https://rsssf.org/tablesd/duit00.html
-     authors: Ken Butler and Karel Stokkermans
-     updated: 21 Feb 2002
-    -->
+<!--
+   title:   Germany 1999/2000
+   source:  https://rsssf.org/tablesd/duit00.html
+   authors: Ken Butler and Karel Stokkermans
+   updated: 21 Feb 2002
+  -->
+
+<!--
+                     Contents:
+
+         1. Bundesliga                    
+         DFB Pokal                        
+         2. Bundesliga                    
+         Regionalliga's (third level)     
+  -->
+
 
 
 
@@ -1441,7 +1451,6 @@ LR Ahlen                    2-1   Union Berlin
 <!-- $table5$ -->
 
 
-
 == Regionalliga's (third level)
 
 
@@ -1512,28 +1521,5 @@ Wuppertaler SV              2-3   SpVgg. Elversberg        [in Worms]
 VfB Hüls                    3-0   Borussia Neunkirchen     [in Köln]
 
 <!-- $table10$ -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 

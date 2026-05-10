@@ -1,9 +1,9 @@
-  <!--
-     title:   USA 2002
-     source:  https://rsssf.org/tablesu/usa02.html
-     author:  Dave Litterer
-     updated: 11 Sep 2019
-    -->
+<!--
+   title:   USA 2002
+   source:  https://rsssf.org/tablesu/usa02.html
+   author:  Dave Litterer
+   updated: 11 Sep 2019
+  -->
 
 
 
@@ -364,9 +364,6 @@ N England 2-2 Columbus
 N England 0-1 L Angeles   (asdet)
 
 
-
-
-
                                THE A-LEAGUE (2nd Division)
 
                             GP   W   L   D   GF  GA  BP Pts
@@ -501,7 +498,6 @@ WOMEN'S PREMIER SOCCER LEAGUE
 CHAMPIONSHIP:  California defeated Ajax 1-0.
 
 
-
 CANADIAN PREMIER SOCCER LEAGUE
 
                                     2002
@@ -515,7 +511,5 @@ Wild-Card Game:              North York defeated Mississauga 3-0
 Division Finals:             Ottawa defeated Metro 1-0
                              North York defeated Toronto Croatia 1-0
 ROGERS CUP:                  Ottawa defeated North York 2-0
-
-
 
 

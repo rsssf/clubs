@@ -1,19 +1,41 @@
-  <!--
-     title:   Austria 2022/23
-     source:  https://rsssf.org/tableso/oost2023.html
-     author:  Hans Schöggl
-     updated: 14 Jun 2024
-    -->
+<!--
+   title:   Austria 2022/23
+   source:  https://rsssf.org/tableso/oost2023.html
+   author:  Hans Schöggl
+   updated: 14 Jun 2024
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Bundesliga                         (see §bund)
+           Regular Stage                    (see §reg)
+           Playoff Stage                    (see §play)
+             Championship Playoff           (see §champ)
+           Conference League Playoff        (see §conf)
+             Relegation Playoff             (see §releg)
+         ÖFB Cup                            (see §cup)
+         2. Liga (Second Level)             (see §1liga)
+         Regionalliga                       (see §regliga)
+           Regionalliga West                (see §regwest)
+           Regionalliga Mitte               (see §regmitte)
+           Regionalliga Ost                 (see §regost)
+         Cup Tournaments Bundesländer       (see §bundcup)
+           Burgenland-Cup 2022/23           (see §burgcup)
+           Kärnten Cup 2022/23              (see §kaerncup)
+           NÖ (Niederösterreich) Cup 2022/23  (see §noecup)
+           OÖ (Oberösterreich) Landescup 2022/23  (see §ooecup)
+           SFV (Salzburg) Cup 2022/23       (see §salzcup)
+           Steirer Cup 2022/23              (see §steicup)
+           Tirol-Cup 2022/23                (see §tircup)
+           VFV (Vorarlberg) Cup 2022/23     (see §vorcup)
+           Wiener Landescup 2022/23         (see §wiencup)
+  -->
 
 
 
 
 == Bundesliga  ‹§bund›
-
 
 === Regular Stage  ‹§reg›
 
@@ -246,8 +268,6 @@ Wattens          0-2 Sturm
 NB: Austria Wien 3 points deducted
 
 === Playoff Stage  ‹§play›
-
-
 ==== Championship Playoff  ‹§champ›
 
 <!-- $table3$ - Final Table -->
@@ -411,10 +431,6 @@ NB: teams carry over half their points from the regular stage (listed between
 
 
 
-
-
-
-
 == ÖFB Cup  ‹§cup›
 
 ▪ Round 1 ▪
@@ -510,9 +526,6 @@ SK Sturm Graz                       1-0 LASK
 ▪ Final ▪  Apr 30 @ 28 Black Arena, Klagenfurt; att: 30,000
 SK Rapid Wien                       0-2 SK Sturm Graz
   (Sarkaria 65, 84)
-
-
-
 
 
 == 2. Liga (Second Level)  ‹§1liga›
@@ -909,13 +922,7 @@ Vienna           1-2 Lafnitz
 <!-- $table9$ - Final Table -->
 
 
-
-
-
-
 == Regionalliga  ‹§regliga›
-
-
 === Regionalliga West  ‹§regwest›
 
 <!-- $table10$ - Final Table -->
@@ -931,10 +938,6 @@ Vienna           1-2 Lafnitz
 <!-- $table12$ - Final Table -->
 
 [*] FC Marchfeld/Mannsdorf-Großenzersdorf were renamed FC Marchfeld Donauauen
-
-
-
-
 
 
 == Cup Tournaments Bundesländer  ‹§bundcup›

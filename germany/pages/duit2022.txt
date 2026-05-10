@@ -1,13 +1,20 @@
-  <!--
-     title:   Germany 2021/22
-     source:  https://rsssf.org/tablesd/duit2022.html
-     author:  Karel Stokkermans
-     updated: 25 Sep 2022
-    -->
+<!--
+   title:   Germany 2021/22
+   source:  https://rsssf.org/tablesd/duit2022.html
+   author:  Karel Stokkermans
+   updated: 25 Sep 2022
+  -->
 
+<!--
+                     Contents:
 
-
-
+         1. Bundesliga                      (see §1bl)
+           Promotion/Relegation Playoff 1./2. Bundesliga  (see §1prorel)
+         2. Bundesliga                      (see §2bl)
+           Promotion/Relegation Playoff 2./3. Bundesliga  (see §2prorel)
+         3. Liga                            (see §3bl)
+           Promotion Playoffs for 3. Bundesliga  (see §3pro)
+  -->
 
 
 
@@ -502,9 +509,6 @@ Hamburg         0-2 Hertha
 NB: both remain at former level
 
 
-
-
-
 == 2. Bundesliga  ‹§2bl›
 
 <!-- $table4$ - Final Table -->
@@ -518,9 +522,6 @@ Kaiserslautern  0-0 Dresden
 Dresden         0-2 Kaiserslautern
 
 NB: Kaiserslautern promoted, Dynamo Dresden relegated
-
-
-
 
 
 == 3. Liga  ‹§3bl›

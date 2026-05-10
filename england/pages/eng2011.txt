@@ -1,13 +1,30 @@
-  <!--
-     title:   England 2010/11
-     source:  https://rsssf.org/tablese/eng2011.html
-     authors: Ian King, Karel Stokkermans and Jan Schoenmakers
-     updated: 5 Feb 2015
-    -->
+<!--
+   title:   England 2010/11
+   source:  https://rsssf.org/tablese/eng2011.html
+   authors: Ian King, Karel Stokkermans and Jan Schoenmakers
+   updated: 5 Feb 2015
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Premiership                        (see §premier)
+         Cup Tournaments                    (see §cups)
+           FA Cup                           (see §facup)
+           League Cup                       (see §leaguecup)
+         Championship                       (see §champ)
+           Regular Stage                    (see §2reg)
+           Promotion Playoff                (see §2prom)
+         Division 1                         (see §first)
+           Regular Stage                    (see §3reg)
+           Promotion Playoff                (see §3prom)
+         Division 2                         (see §second)
+           Regular Stage                    (see §4reg)
+           Promotion Playoff                (see §4prom)
+         Conference                         (see §conf)
+           Regular Stage                    (see §5reg)
+           Promotion Playoff                (see §5prom)
+  -->
 
 
 
@@ -180,13 +197,7 @@ Wigan Athletic       2-2  1-2  2-1  4-3  0-4  1-1  0-6  1-1  1-1  1-1  0-2  0-4 
 Wolverhampton Wand.  0-2  1-2  1-0  2-3  4-0  2-3  1-0  0-3  1-1  0-3  2-1  2-1  1-1  2-1  3-2  3-3  3-1  1-1  1-2
 
 
-
-
-
-
 == Cup Tournaments  ‹§cups›
-
-
 === FA Cup  ‹§facup›
 
 ▪ Round 1 ▪
@@ -529,13 +540,7 @@ Birmingham City         3-1 West Ham United         (aet)
 Arsenal                 1-2 Birmingham City
 
 
-
-
-
-
 == Championship  ‹§champ›
-
-
 === Regular Stage  ‹§2reg›
 
 <!-- $table3$ - Final Table -->
@@ -589,12 +594,7 @@ Swansea       4-2 Reading
 NB: Swansea City promoted
 
 
-
-
-
 == Division 1  ‹§first›
-
-
 === Regular Stage  ‹§3reg›
 
 <!-- $table4$ - Final Table -->
@@ -650,12 +650,7 @@ Huddersfield  0-3 Peterborough
 NB: Peterborough United promoted
 
 
-
-
-
 == Division 2  ‹§second›
-
-
 === Regular Stage  ‹§4reg›
 
 <!-- $table5$ - Final Table -->
@@ -711,12 +706,7 @@ Stevenage     1-0 Torquay
 NB: Stevenage promoted
 
 
-
-
-
 == Conference  ‹§conf›
-
-
 === Regular Stage  ‹§5reg›
 
 <!-- $table6$ - Final Table -->

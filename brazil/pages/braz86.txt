@@ -1,9 +1,9 @@
-  <!--
-     title:   Brazil 1986
-     source:  https://rsssf.org/tablesb/braz86.html
-     authors: Ricardo Pontes and Marcelo Leme de Arruda
-     updated: 2 Apr 2005
-    -->
+<!--
+   title:   Brazil 1986
+   source:  https://rsssf.org/tablesb/braz86.html
+   authors: Ricardo Pontes and Marcelo Leme de Arruda
+   updated: 2 Apr 2005
+  -->
 
 
 
@@ -910,7 +910,6 @@ Cascavel          0-0  Criciúma
 <!-- $table8$ - Table -->
 
 
-
 ▪ Second Phase ▪
 
 _ Oct 12 _
@@ -1758,9 +1757,5 @@ São Paulo         1-1   1-1  Guarani     [aet 2-2, pen 3-4]
 
 
 <!-- $table13$ - Final Table -->
-
-
-
-
 
 

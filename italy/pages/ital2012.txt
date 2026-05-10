@@ -1,13 +1,20 @@
-  <!--
-     title:   Italy 2011/12
-     source:  https://rsssf.org/tablesi/ital2012.html
-     authors: Roberto Di Maggio, Jan Schoenmakers and Karel Stokkermans
-     updated: 14 Jan 2021
-    -->
+<!--
+   title:   Italy 2011/12
+   source:  https://rsssf.org/tablesi/ital2012.html
+   authors: Roberto Di Maggio, Jan Schoenmakers and Karel Stokkermans
+   updated: 14 Jan 2021
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Serie A                            (see §seriea)
+         Coppa Italia                       (see §coppa)
+         Serie B                            (see §serieb)
+           Regular Season                   (see §2reg)
+           Promotion Playoff                (see §2prom)
+           Relegation Playoff               (see §2releg)
+  -->
 
 
 
@@ -38,10 +45,6 @@ SS Lazio             2-0 1-3 1-0 1-1 3-2 1-0 1-2 0-1 2-0 3-1 1-1 3-1 3-0 0-0 1-0
 AC Siena             2-2 1-1 3-0 0-1 2-0 0-0 0-2 0-1 1-4 0-1 3-0 1-1 0-2 4-1 0-2 1-0 4-0     1-0 4-1
 Udinese Calcio       0-0 2-0 0-0 2-1 4-1 2-0 2-0 0-0 1-2 1-3 2-1 2-2 3-0 1-0 3-1 2-0 2-0 2-1     2-1
 AC Chievo Verona     0-0 0-1 2-0 3-2 1-0 1-0 2-1 0-0 0-1 0-2 1-0 1-0 2-2 1-0 1-2 0-0 0-3 1-1 0-0
-
-
-
-
 
 
 == Coppa Italia  ‹§coppa›
@@ -258,13 +261,7 @@ Juventus: Storari, Barzagli, Bonucci, Caceres, Pirlo,
  Tr.: Conte
 
 
-
-
-
-
 == Serie B  ‹§serieb›
-
-
 === Regular Season  ‹§2reg›
 
 <!-- $table2$ - Final Table -->

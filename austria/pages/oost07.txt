@@ -1,9 +1,19 @@
-  <!--
-     title:   Austria 2006/07
-     source:  https://rsssf.org/tableso/oost07.html
-     authors: Andreas Exenberger, Hans Schöggl and Karel Stokkermans
-     updated: 15 Jun 2022
-    -->
+<!--
+   title:   Austria 2006/07
+   source:  https://rsssf.org/tableso/oost07.html
+   authors: Andreas Exenberger, Hans Schöggl and Karel Stokkermans
+   updated: 15 Jun 2022
+  -->
+
+<!--
+                     Contents:
+
+         First Level (Bundesliga)         
+         ÖFB-Stiegl-Cup 2006/07           
+         Second Level (1. Liga)           
+         Third Level (Regionalliga)       
+  -->
+
 
 
 
@@ -533,7 +543,6 @@ NB: Sturm 3 points deducted for irregularities in license application
 
 
 
-
 == ÖFB-Stiegl-Cup 2006/07
 
 
@@ -656,8 +665,6 @@ Salzburg Amateure   1-1 FK Austria Wien       (aet, 1-3 pen)
 ▪ Final ▪  May 1 @ Hanappi-Stadion, Wien; att: 15,000
 FK Austria Wien     2-1 SV Mattersburg
   (Lafata 54, Lasnik 56; Schmidt 23)
-
-
 
 
 == Second Level (1. Liga)
@@ -953,7 +960,6 @@ SV Bad Aussee (RL Mitte)
 RB Salzburg Amateure (RL West)
 
 
-
 == Third Level (Regionalliga)
 
 
@@ -976,7 +982,6 @@ Regionalliga West
 Promoted from 4th level: USK Anif, SC Bregenz, SC Kundl
 
 
-
 SFV (Salzburg) Cup 2006/07  ‹§salzcup›
 
 ▪ Quarterfinals ▪
@@ -991,6 +996,5 @@ FC Hallein 04                 1-1 USK Anif                      (aet, 4-5 pen)
 
 ▪ Final ▪  Jun 6
 USK Anif                      0-0 SV Grödig                     (2-4 pen)
-
 
 

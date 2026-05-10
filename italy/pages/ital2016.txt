@@ -1,13 +1,20 @@
-  <!--
-     title:   Italy 2015/16
-     source:  https://rsssf.org/tablesi/ital2016.html
-     author:  Karel Stokkermans
-     updated: 14 Jan 2021
-    -->
+<!--
+   title:   Italy 2015/16
+   source:  https://rsssf.org/tablesi/ital2016.html
+   author:  Karel Stokkermans
+   updated: 14 Jan 2021
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Serie A                            (see §seriea)
+         Coppa Italia                       (see §coppa)
+         Serie B                            (see §serieb)
+           Regular Season                   (see §2reg)
+           Promotion Playoff                (see §2prom)
+           Relegation Playoff               (see §2rel)
+  -->
 
 
 
@@ -572,10 +579,6 @@ Udinese         1-2 Carpi
 <!-- $table2$ - Final Table -->
 
 
-
-
-
-
 == Coppa Italia  ‹§coppa›
 
 ▪ Round 1 ▪  Aug 2
@@ -781,13 +784,7 @@ Juventus: Neto, Rugani, Barzagli, Chiellini, Lichtsteiner (Cuadrado 75),
   Mandzukic. Tr.: Allegri
 
 
-
-
-
-
 == Serie B  ‹§serieb›
-
-
 === Regular Season  ‹§2reg›
 
 <!-- $table3$ - Final Table -->

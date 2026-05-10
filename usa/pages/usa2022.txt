@@ -1,19 +1,25 @@
-  <!--
-     title:   USA 2022
-     source:  https://rsssf.org/tablesu/usa2022.html
-     author:  Karel Stokkermans
-     updated: 6 Dec 2024
-    -->
+<!--
+   title:   USA 2022
+   source:  https://rsssf.org/tablesu/usa2022.html
+   author:  Karel Stokkermans
+   updated: 6 Dec 2024
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Major League Soccer                (see §mls)
+           Regular Season                   (see §reg)
+           Championship Playoff             (see §chplay)
+             Conference Quarterfinals       (see §cqf)
+             Conference Semifinals          (see §csf)
+         US Open Cup                        (see §open)
+  -->
 
 
 
 
 == Major League Soccer  ‹§mls›
-
 
 === Regular Season  ‹§reg›
 
@@ -639,7 +645,6 @@ Final Tables:
 <!-- $table4$ - Western Conference -->
 
 === Championship Playoff  ‹§chplay›
-
 ==== Conference Quarterfinals  ‹§cqf›
 
 Eastern Conference
@@ -684,10 +689,6 @@ Los Angeles FC         3-0 Austin FC
 
 ▪ MLS Cup ▪  Nov 5 @ Banc of California Stadium, Los Angeles
 Los Angeles FC         3-3 Philadelphia Union     (aet, 3-0 pen)
-
-
-
-
 
 
 == US Open Cup  ‹§open›

@@ -1,23 +1,40 @@
-  <!--
-     title:   Mexico 2016/17
-     source:  https://rsssf.org/tablesm/mex2017.html
-     author:  Erik Francisco Lugo
-     updated: 6 Jun 2023
-    -->
+<!--
+   title:   Mexico 2016/17
+   source:  https://rsssf.org/tablesm/mex2017.html
+   author:  Erik Francisco Lugo
+   updated: 6 Jun 2023
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Liga MX                            (see §pdn)
+           Apertura 2016                    (see §1aper)
+           Clausura 2017                    (see §1clau)
+         Copa MX Apertura 2016              (see §copa)
+             Group Stage                    (see §copagrp)
+             Playoff Stage                  (see §copaplay)
+         Copa MX Clausura 2017              (see §copac)
+             Group Stage                    (see §copacgrp)
+             Playoff Stage                  (see §copacplay)
+         Campeón de Campeones               (see §campcamp)
+         Supercopa MX                       (see §supcopa)
+         Ascenso MX                         (see §ascenso)
+           Apertura 2016                    (see §2aper)
+             Regular Stage                  (see §2aperreg)
+             Playoff Stage                  (see §2aperplay)
+           Clausura 2017                    (see §2clau)
+             Regular Stage                  (see §2claureg)
+             Playoff Stage                  (see §2clauplay)
+           Promotion Playoff                (see §2prom)
+  -->
 
 
 
 
 == Liga MX  ‹§pdn›
 
-
-
 === Apertura 2016  ‹§1aper›
-
 
 ▪ Regular Stage ▪
 
@@ -527,7 +544,6 @@ NB: Tijuana, América (Group Phase) and Guadalajara (Preliminary Round) had qual
 
 
 === Clausura 2017  ‹§1clau›
-
 
 ▪ Regular Stage ▪
 
@@ -1055,11 +1071,7 @@ Edson Torres      FWD
 Coach: Matías Almeyda (ARG)
 
 
-
-
-
 == Copa MX Apertura 2016  ‹§copa›
-
 
 NB: the Cup Tournament is played by 12 teams from the Liga MX (first level) and
     12 teams from the Ascenso MX (second level);
@@ -1322,14 +1334,7 @@ Emanuel Villa         FWD (Argentina)
 Coach: Víctor Manuel Vucetich
 
 
-
-
-
-
-
-
 == Copa MX Clausura 2017  ‹§copac›
-
 
 NB: the Cup Tournament is played by 15 teams from the Liga MX (first level) and
     12 teams from the Ascenso MX (second level);
@@ -1630,10 +1635,6 @@ Edson Torres      FWD
 Coach: Matías Almeyda (ARG)
 
 
-
-
-
-
 == Campeón de Campeones  ‹§campcamp›
 
 Between winners of Liga MX Apertura 2016 (Tigres) and winners of Liga MX Clausura 2017 (Guadalajara)
@@ -1643,10 +1644,6 @@ One single leg played [Jul 16]
 Stub Hub Center, Carson, California, USA
 Tigres           1-0 Guadalajara
   (Eduardo Jesús Vargas 61)
-
-
-
-
 
 
 == Supercopa MX  ‹§supcopa›
@@ -1663,13 +1660,7 @@ Querétaro        2-0 América
   (Emanuel Villa 12pen, Hiram Mier 62)
 
 
-
-
-
-
 == Ascenso MX  ‹§ascenso›
-
-
 === Apertura 2016  ‹§2aper›
 
 Changes before season:
@@ -1989,8 +1980,6 @@ Atlante           2-3 Dorados
 Dorados           1-0 Atlante
 
 === Clausura 2017  ‹§2clau›
-
-
 ==== Regular Stage  ‹§2claureg›
 
 Participants:

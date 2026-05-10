@@ -1,19 +1,25 @@
-  <!--
-     title:   Austria 2025/26
-     source:  https://rsssf.org/tableso/oost2026.html
-     author:  Hans Schöggl
-     updated: 2 May 2026
-    -->
+<!--
+   title:   Austria 2025/26
+   source:  https://rsssf.org/tableso/oost2026.html
+   author:  Hans Schöggl
+   updated: 2 May 2026
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Bundesliga                         (see §bund)
+           Regular Stage                    (see §reg)
+           Playoff Stage                    (see §play)
+             Championship Playoff           (see §champ)
+             Relegation Playoff             (see §releg)
+         ÖFB Cup                            (see §cup)
+  -->
 
 
 
 
 == Bundesliga  ‹§bund›
-
 
 === Regular Stage  ‹§reg›
 
@@ -241,8 +247,6 @@ Wattens          2-0 GAK
 <!-- $table2$ - Final Table -->
 
 === Playoff Stage  ‹§play›
-
-
 ==== Championship Playoff  ‹§champ›
 
 <!-- $table3$ - Table -->
@@ -290,10 +294,6 @@ Wattens          1-5 GAK
 
 NB: teams carry over half their points from the regular stage (listed between
     square brackets), rounded downwards (marked by * where applicable)
-
-
-
-
 
 
 == ÖFB Cup  ‹§cup›

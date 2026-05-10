@@ -1,13 +1,21 @@
-  <!--
-     title:   Germany 2015/16
-     source:  https://rsssf.org/tablesd/duit2016.html
-     author:  Karel Stokkermans
-     updated: 9 May 2019
-    -->
+<!--
+   title:   Germany 2015/16
+   source:  https://rsssf.org/tablesd/duit2016.html
+   author:  Karel Stokkermans
+   updated: 9 May 2019
+  -->
 
+<!--
+                     Contents:
 
-
-
+         1. Bundesliga                      (see §1bl)
+           Promotion/Relegation Playoff 1./2. Bundesliga  (see §1prorel)
+         DFB Pokal                          (see §dfbpokal)
+         2. Bundesliga                      (see §2bl)
+           Promotion/Relegation Playoff 2./3. Liga  (see §2prorel)
+         3. Liga                            (see §3bl)
+           Promotion Playoffs for 3. Bundesliga  (see §3pro)
+  -->
 
 
 
@@ -498,9 +506,6 @@ Nürnberg        0-1 Frankfurt
 NB: both remain at former level
 
 
-
-
-
 == DFB Pokal  ‹§dfbpokal›
 
 ▪ Round 1 ▪
@@ -591,9 +596,6 @@ Hertha BSC             0-3 Borussia Dortmund
 Bayern München         0-0 Borussia Dortmund      (aet, 4-3 pen)
 
 
-
-
-
 == 2. Bundesliga  ‹§2bl›
 
 <!-- $table4$ - Final Table -->
@@ -609,9 +611,6 @@ Würzburg        2-0 Duisburg
 Duisburg        1-2 Würzburg
 
 NB: MSV Duisburg relegated, FC Würzburger Kickers promoted
-
-
-
 
 
 == 3. Liga  ‹§3bl›

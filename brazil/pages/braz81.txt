@@ -1,10 +1,9 @@
-  <!--
-     title:   Brazil 1981
-     source:  https://rsssf.org/tablesb/braz81.html
-     author:  Ricardo Pontes
-     updated: 3 Apr 2005
-    -->
-
+<!--
+   title:   Brazil 1981
+   source:  https://rsssf.org/tablesb/braz81.html
+   author:  Ricardo Pontes
+   updated: 3 Apr 2005
+  -->
 
 
 
@@ -732,7 +731,6 @@ Vitória           1-0  Portuguesa
   [Tadeu Macrini]
 Fluminense        4-1  Paysandu
   (Zezé Gomes (2), Gilberto, Édson;  Juca)
-
 
 
 <!-- $table7$ - Table -->
@@ -1541,9 +1539,5 @@ Anapolina         2-4   1-1  Guarani
 
 Guarani           (Campinas-SP) Champions Of Taça De Prata 1981.
 Guarani-SP, Anapolina         Qualify To 1982 Taça De Ouro.
-
-
-
-
 
 

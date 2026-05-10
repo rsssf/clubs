@@ -1,10 +1,9 @@
-  <!--
-     title:   Germany 1983/84
-     source:  https://rsssf.org/tablesd/duit84.html
-     author:  Gwidon Naskrent
-     updated: 1 Apr 2001
-    -->
-
+<!--
+   title:   Germany 1983/84
+   source:  https://rsssf.org/tablesd/duit84.html
+   author:  Gwidon Naskrent
+   updated: 1 Apr 2001
+  -->
 
 
 

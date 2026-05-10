@@ -1,13 +1,21 @@
-  <!--
-     title:   Germany 2018/19
-     source:  https://rsssf.org/tablesd/duit2019.html
-     author:  Karel Stokkermans
-     updated: 14 Jan 2021
-    -->
+<!--
+   title:   Germany 2018/19
+   source:  https://rsssf.org/tablesd/duit2019.html
+   author:  Karel Stokkermans
+   updated: 14 Jan 2021
+  -->
 
+<!--
+                     Contents:
 
-
-
+         1. Bundesliga                      (see §1bl)
+           Promotion/Relegation Playoff 1./2. Bundesliga  (see §1prorel)
+         DFB Pokal                          (see §dfbpokal)
+         2. Bundesliga                      (see §2bl)
+           Promotion/Relegation Playoff 2./3. Bundesliga  (see §2prorel)
+         3. Liga                            (see §3bl)
+           Promotion Playoffs for 3. Bundesliga  (see §3pro)
+  -->
 
 
 
@@ -505,10 +513,6 @@ Union Berlin    0-0 Stuttgart
 NB: 1.FC Union Berlin promoted, VfB Stuttgart relegated
 
 
-
-
-
-
 == DFB Pokal  ‹§dfbpokal›
 
 ▪ Round 1 ▪
@@ -599,9 +603,6 @@ Werder Bremen          2-3 Bayern München
 RB Leipzig             0-3 Bayern München
 
 
-
-
-
 == 2. Bundesliga  ‹§2bl›
 
 <!-- $table4$ - Final Table -->
@@ -615,9 +616,6 @@ Wiesbaden       1-2 Ingolstadt
 Ingolstadt      2-3 Wiesbaden
 
 NB: SV Wehen Wiesbaden promoted, FC Ingolstadt 04 relegated
-
-
-
 
 
 == 3. Liga  ‹§3bl›

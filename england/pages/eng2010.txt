@@ -1,13 +1,31 @@
-  <!--
-     title:   England 2009/10
-     source:  https://rsssf.org/tablese/eng2010.html
-     author:  Ian King
-     updated: 23 Dec 2020
-    -->
+<!--
+   title:   England 2009/10
+   source:  https://rsssf.org/tablese/eng2010.html
+   author:  Ian King
+   updated: 23 Dec 2020
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Premiership                        (see §premier)
+         Cup Tournaments                    (see §cups)
+           FA Cup                           (see §facup)
+           League Cup                       (see §leaguecup)
+           Football League Trophy           (see §assmemb)
+         Championship                       (see §champ)
+           Regular Stage                    (see §2reg)
+           Promotion Playoff                (see §2prom)
+         Division 1                         (see §first)
+           Regular Stage                    (see §3reg)
+           Promotion Playoff                (see §3prom)
+         Division 2                         (see §second)
+           Regular Stage                    (see §4reg)
+           Promotion Playoff                (see §4prom)
+         Conference                         (see §conf)
+           Regular Stage                    (see §5reg)
+           Promotion Playoff                (see §5prom)
+  -->
 
 
 
@@ -711,12 +729,7 @@ Wolverhampton 2-1 Sunderland
 NB: Portsmouth 9 points deducted for financial reasons
 
 
-
-
-
 == Cup Tournaments  ‹§cups›
-
-
 === FA Cup  ‹§facup›
 
 Fourth Qualifying Round
@@ -1282,12 +1295,7 @@ Overall Final [Mar 28, Wembley]
 Carlisle      1-4 Southampton
 
 
-
-
-
 == Championship  ‹§champ›
-
-
 === Regular Stage  ‹§2reg›
 
 <!-- $table3$ - Final Table -->
@@ -2064,12 +2072,7 @@ Blackpool     3-2 Cardiff
 NB: Blackpool promoted
 
 
-
-
-
 == Division 1  ‹§first›
-
-
 === Regular Stage  ‹§3reg›
 
 <!-- $table5$ - Final Table -->
@@ -2837,12 +2840,7 @@ Millwall      1-0 Swindon
 NB: Millwall promoted
 
 
-
-
-
 == Division 2  ‹§second›
-
-
 === Regular Stage  ‹§4reg›
 
 <!-- $table7$ - Final Table -->
@@ -3594,12 +3592,7 @@ Rotherham     2-3 Dagenham & R
 NB: Dagenham & Redbridge promoted
 
 
-
-
-
 == Conference  ‹§conf›
-
-
 === Regular Stage  ‹§5reg›
 
 <!-- $table9$ - Final Table -->

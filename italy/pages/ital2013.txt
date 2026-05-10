@@ -1,13 +1,19 @@
-  <!--
-     title:   Italy 2012/13
-     source:  https://rsssf.org/tablesi/ital2013.html
-     authors: Roberto Di Maggio and Karel Stokkermans
-     updated: 14 Jan 2021
-    -->
+<!--
+   title:   Italy 2012/13
+   source:  https://rsssf.org/tablesi/ital2013.html
+   authors: Roberto Di Maggio and Karel Stokkermans
+   updated: 14 Jan 2021
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Serie A                            (see §seriea)
+         Coppa Italia                       (see §coppa)
+         Serie B                            (see §serieb)
+           Regular Season                   (see §2reg)
+           Promotion Playoff                (see §2prom)
+  -->
 
 
 
@@ -566,10 +572,6 @@ Torino      2-2 Catania
 <!-- $table2$ - Final Table -->
 
 
-
-
-
-
 == Coppa Italia  ‹§coppa›
 
 ▪ First Round ▪
@@ -784,12 +786,7 @@ Lazio: Marchetti, Konko, Biava, Cana, Radu, Ledesma
  (92 Ciani), Lulic, Klose. Tr.: Petkovic
 
 
-
-
-
 == Serie B  ‹§serieb›
-
-
 === Regular Season  ‹§2reg›
 
 <!-- $table3$ - Final Table -->

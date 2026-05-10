@@ -1,13 +1,18 @@
-  <!--
-     title:   Brazil 2023
-     source:  https://rsssf.org/tablesb/braz2023.html
-     author:  RSSSF Brazil
-     updated: 8 Dec 2025
-    -->
+<!--
+   title:   Brazil 2023
+   source:  https://rsssf.org/tablesb/braz2023.html
+   author:  RSSSF Brazil
+   updated: 8 Dec 2025
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Série A                            (see §sa)
+         Copa do Brasil 2023                (see §cb)
+         Série B                            (see §sb)
+         Série C                            (see §sc)
+  -->
 
 
 
@@ -688,10 +693,6 @@ Vasco da Gama   2-1 Bragantino
 <!-- $table2$ - Final Table -->
 
 
-
-
-
-
 == Copa do Brasil 2023  ‹§cb›
 
 ▪ 1/8 Finals ▪
@@ -758,17 +759,9 @@ Flamengo        0-1 São Paulo
 São Paulo       1-1 Flamengo
 
 
-
-
-
-
 == Série B  ‹§sb›
 
 <!-- $table3$ - Final Table -->
-
-
-
-
 
 
 == Série C  ‹§sc›

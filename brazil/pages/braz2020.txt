@@ -1,13 +1,19 @@
-  <!--
-     title:   Brazil 2020/21
-     source:  https://rsssf.org/tablesb/braz2020.html
-     author:  RSSSF Brazil
-     updated: 8 Dec 2025
-    -->
+<!--
+   title:   Brazil 2020/21
+   source:  https://rsssf.org/tablesb/braz2020.html
+   author:  RSSSF Brazil
+   updated: 8 Dec 2025
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Série A                            (see §sa)
+         Copa do Brasil 2020/21             (see §cb)
+         Supercopa do Brasil 2021           (see §supcb)
+         Série B                            (see §sb)
+         Série C                            (see §sc)
+  -->
 
 
 
@@ -594,10 +600,6 @@ Vasco da Gama   3-2 Goiás
 <!-- $table2$ - Final Table -->
 
 
-
-
-
-
 == Copa do Brasil 2020/21  ‹§cb›
 
 Participants
@@ -943,18 +945,10 @@ Grêmio/RS                 0-1  Palmeiras/SP
 Palmeiras/SP              2-0  Grêmio/RS
 
 
-
-
-
-
 == Supercopa do Brasil 2021  ‹§supcb›
 
 _ Apr 11 2021 _ @ Brasília
 Flamengo/RJ               2-2  Palmeiras/SP              [6-5 pen (no extra time)]
-
-
-
-
 
 
 == Série B  ‹§sb›
@@ -962,10 +956,6 @@ Flamengo/RJ               2-2  Palmeiras/SP              [6-5 pen (no extra time
 <!-- $table3$ - Final Table -->
 
 Promoted: Vila Nova, Remo, Brusque, Londrina
-
-
-
-
 
 
 == Série C  ‹§sc›

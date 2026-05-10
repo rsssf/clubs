@@ -1,13 +1,20 @@
-  <!--
-     title:   Italy 2021/22
-     source:  https://rsssf.org/tablesi/ital2022.html
-     authors: Roberto Di Maggio and Karel Stokkermans
-     updated: 25 Sep 2022
-    -->
+<!--
+   title:   Italy 2021/22
+   source:  https://rsssf.org/tablesi/ital2022.html
+   authors: Roberto Di Maggio and Karel Stokkermans
+   updated: 25 Sep 2022
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Serie A                            (see §seriea)
+         Coppa Italia                       (see §coppa)
+         Serie B                            (see §serieb)
+           Regular Season                   (see §2reg)
+           Promotion Playoff                (see §2prom)
+           Relegation Playoff               (see §2releg)
+  -->
 
 
 
@@ -594,10 +601,6 @@ Venezia         0-0 Cagliari
 <!-- $table2$ - Final Table -->
 
 
-
-
-
-
 == Coppa Italia  ‹§coppa›
 
 ▪ Preliminary Round ▪
@@ -737,13 +740,7 @@ Inter: Handanovic, Skriniar, De Vrij, D'Ambrosio (63 Dimarco), Darmian (63 Dumfr
   Brozovic, Calhanoglu (90 Vidal), Perisic, Lautaro (90 Sanchez), Dzeko (63 Correa). Tr.: Inzaghi S.
 
 
-
-
-
-
 == Serie B  ‹§serieb›
-
-
 === Regular Season  ‹§2reg›
 
 <!-- $table3$ - Final Table -->

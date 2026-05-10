@@ -1,9 +1,17 @@
-  <!--
-     title:   Austria 1978/79
-     source:  https://rsssf.org/tableso/oost79.html
-     author:  Ambrosius Kutschera
-     updated: 26 Mar 2005
-    -->
+<!--
+   title:   Austria 1978/79
+   source:  https://rsssf.org/tableso/oost79.html
+   author:  Ambrosius Kutschera
+   updated: 26 Mar 2005
+  -->
+
+<!--
+                     Contents:
+
+         1.Division                       
+         2.Division                       
+  -->
+
 
 
 
@@ -356,13 +364,5 @@ After the season Schwarz-Weiß Bregenz and FC Dornbirn formed the
 Spielgemeinschaft Bregenz/Dornbirn.
 SPG Innsbruck was a Spielgemeinschaft formed by Austria Innsbruck,
 SV Innsbruck and Innsbrucker Sportklub.
-
-
-
-
-
-
-
-
 
 

@@ -1,9 +1,18 @@
-  <!--
-     title:   Austria 2005/06
-     source:  https://rsssf.org/tableso/oost06.html
-     authors: Andreas Exenberger, Hans Schöggl and Karel Stokkermans
-     updated: 15 Jun 2022
-    -->
+<!--
+   title:   Austria 2005/06
+   source:  https://rsssf.org/tableso/oost06.html
+   authors: Andreas Exenberger, Hans Schöggl and Karel Stokkermans
+   updated: 15 Jun 2022
+  -->
+
+<!--
+                     Contents:
+
+         First Level (Bundesliga)         
+         ÖFB-Stiegl-Cup 2005/06           
+         Third Level 2005/06              
+  -->
+
 
 
 
@@ -508,7 +517,6 @@ NB: VfB Admira/Wacker Mödling were originally refused a license for the
     2nd level 2006/07 but obtained one eventually.
 
 <!-- $topscorers1$ -->
-
 
 
 

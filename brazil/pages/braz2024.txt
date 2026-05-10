@@ -1,13 +1,18 @@
-  <!--
-     title:   Brazil 2024
-     source:  https://rsssf.org/tablesb/braz2024.html
-     author:  Karel Stokkermans
-     updated: 8 Dec 2025
-    -->
+<!--
+   title:   Brazil 2024
+   source:  https://rsssf.org/tablesb/braz2024.html
+   author:  Karel Stokkermans
+   updated: 8 Dec 2025
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Série A                            (see §sa)
+         Copa do Brasil 2024                (see §cb)
+         Série B                            (see §sb)
+         Série C                            (see §sc)
+  -->
 
 
 
@@ -588,10 +593,6 @@ Bragantino      5-1 Criciúma
 <!-- $table2$ - Final Table -->
 
 
-
-
-
-
 == Copa do Brasil 2024  ‹§cb›
 
 ▪ 1/8 Finals ▪
@@ -661,17 +662,9 @@ Flamengo        3-1 Atlético/MG
 Atlético/MG     0-1 Flamengo
 
 
-
-
-
-
 == Série B  ‹§sb›
 
 <!-- $table3$ - Final Table -->
-
-
-
-
 
 
 == Série C  ‹§sc›

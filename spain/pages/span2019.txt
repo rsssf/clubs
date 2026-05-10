@@ -1,13 +1,18 @@
-  <!--
-     title:   Spain 2018/19
-     source:  https://rsssf.org/tabless/span2019.html
-     author:  Karel Stokkermans
-     updated: 28 Jan 2021
-    -->
+<!--
+   title:   Spain 2018/19
+   source:  https://rsssf.org/tabless/span2019.html
+   author:  Karel Stokkermans
+   updated: 28 Jan 2021
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Primera División                   (see §laliga)
+         Copa del Rey                       (see §coparey)
+         Segunda División (Liga Adelante)   (see §segunda)
+           Promotion Playoff                (see §2prom)
+  -->
 
 
 
@@ -605,9 +610,6 @@ Eibar                     2-2 Barcelona
 <!-- $table3$ - Final Table -->
 
 
-
-
-
 == Copa del Rey  ‹§coparey›
 
 ▪ Round 1 ▪  Sep 5
@@ -784,9 +786,6 @@ Valencia CF               1-0 Real Betis Balompié
 
 ▪ Final ▪  May 25 @ Sevilla
 FC Barcelona              1-2 Valencia CF
-
-
-
 
 
 == Segunda División (Liga Adelante)  ‹§segunda›

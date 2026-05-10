@@ -1,13 +1,18 @@
-  <!--
-     title:   Spain 2013/14
-     source:  https://rsssf.org/tabless/span2014.html
-     author:  Karel Stokkermans
-     updated: 29 Sep 2020
-    -->
+<!--
+   title:   Spain 2013/14
+   source:  https://rsssf.org/tabless/span2014.html
+   author:  Karel Stokkermans
+   updated: 29 Sep 2020
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Primera División (Liga BBVA)       (see §laliga)
+         Copa del Rey                       (see §coparey)
+         Segunda División (Liga Adelante)   (see §segunda)
+           Promotion Playoff                (see §2prom)
+  -->
 
 
 
@@ -610,10 +615,6 @@ Almería                   0-0 Athletic
 <!-- $table2$ - Final Table -->
 
 
-
-
-
-
 == Copa del Rey  ‹§coparey›
 
 ▪ Round 1 ▪  Sep 4
@@ -783,11 +784,6 @@ Real Sociedad             1-1 FC Barcelona
 
 ▪ Final ▪  Apr 16 @ Valencia
 FC Barcelona              1-2 Real Madrid CF
-
-
-
-
-
 
 
 == Segunda División (Liga Adelante)  ‹§segunda›

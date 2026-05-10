@@ -1,10 +1,9 @@
-  <!--
-     title:   England 1999/2000
-     source:  https://rsssf.org/tablese/eng00.html
-     authors: Ken Butler, Stephen Mulrine and Andreas Exenberger
-     updated: 15 Apr 2001
-    -->
-
+<!--
+   title:   England 1999/2000
+   source:  https://rsssf.org/tablese/eng00.html
+   authors: Ken Butler, Stephen Mulrine and Andreas Exenberger
+   updated: 15 Apr 2001
+  -->
 
 
 
@@ -4694,13 +4693,5 @@ Ryman League Premier Division (Isthmian League)
 UniBond League Premier Division (Northern Premier League)
 
 <!-- $table13$ - Final Table -->
-
-
-
-
-
-
-
-
 
 

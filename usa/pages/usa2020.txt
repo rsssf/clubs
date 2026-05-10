@@ -1,19 +1,25 @@
-  <!--
-     title:   USA 2020
-     source:  https://rsssf.org/tablesu/usa2020.html
-     author:  Karel Stokkermans
-     updated: 12 May 2021
-    -->
+<!--
+   title:   USA 2020
+   source:  https://rsssf.org/tablesu/usa2020.html
+   author:  Karel Stokkermans
+   updated: 12 May 2021
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Major League Soccer                (see §mls)
+           Regular Season                   (see §reg)
+           Championship Playoff             (see §chplay)
+           MLS is Back tournament           (see §back)
+             Group Stage                    (see §backgrp)
+             Knock-Out Stage                (see §backko)
+  -->
 
 
 
 
 == Major League Soccer  ‹§mls›
-
 
 === Regular Season  ‹§reg›
 

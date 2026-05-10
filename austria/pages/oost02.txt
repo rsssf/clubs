@@ -1,9 +1,21 @@
-  <!--
-     title:   Austria 2001/02
-     source:  https://rsssf.org/tableso/oost02.html
-     authors: Andreas Exenberger and Karel Stokkermans
-     updated: 15 Jun 2022
-    -->
+<!--
+   title:   Austria 2001/02
+   source:  https://rsssf.org/tableso/oost02.html
+   authors: Andreas Exenberger and Karel Stokkermans
+   updated: 15 Jun 2022
+  -->
+
+<!--
+                     Contents:
+
+         First Level (Bundesliga)         
+         Austria Cup (ÖFB Cup) 2001/02    
+         Austria 2001/02 Second Level (1.Division)
+         Third Level (Regionalligen)      
+         Fourth Level (Landesligen)       
+         Fifth Level and Lower            
+  -->
+
 
 
 
@@ -2760,7 +2772,6 @@ Promoted to Tiroler Liga: SVG Mayrhofen, SV Landeck,
    SV Westendorf, SV Oberperfuss
 
 
-
 TIROL
 *****
 
@@ -2861,7 +2872,6 @@ _ May 30 _ @ Thaur
 SV Reichenau - WSG Wattens ................. 2-1
 
 
-
 == Fifth Level and Lower
 
 
@@ -2927,6 +2937,5 @@ New teams: SV Sistrans (Ost), FC See (West)
 Regrouped: FC Grinzens (West)
 Dissolved: SC Serfaus (merges with FC Prutz from 1.Klasse)
 No relegation, lowest class.
-
 
 

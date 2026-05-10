@@ -1,13 +1,19 @@
-  <!--
-     title:   Brazil 2010
-     source:  https://rsssf.org/tablesb/braz2010.html
-     author:  RSSSF Brazil
-     updated: 25 Mar 2024
-    -->
+<!--
+   title:   Brazil 2010
+   source:  https://rsssf.org/tablesb/braz2010.html
+   author:  RSSSF Brazil
+   updated: 25 Mar 2024
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Série A                            (see §sa)
+         Copa do Brasil                     (see §cb)
+         Série B                            (see §sb)
+         Série C                            (see §sc)
+         Série D                            (see §sd)
+  -->
 
 
 
@@ -924,11 +930,6 @@ Atlético-PR     1-0   Avaí
 
 
 
-
-
-
-
-
 == Copa do Brasil  ‹§cb›
 
 Participants:
@@ -1276,9 +1277,6 @@ Pedro in 1st leg
 SANTOS Champions of Copa do Brasil 2010 and classified to Copa Libertadores 2011.
 
 <!-- $topscorers2$ -->
-
-
-
 
 
 
@@ -1837,10 +1835,6 @@ América-RN       1-2  Brasiliense
 
 
 
-
-
-
-
 == Série C  ‹§sc›
 
 Participants
@@ -2224,9 +2218,6 @@ ABC      0-0  Ituiutaba
 
 
 
-
-
-
 == Série D  ‹§sd›
 
 Participants
@@ -2326,7 +2317,6 @@ SE River Plate - Sergipe 2010.
 
 TOCANTINS (1 berth)
 Araguaína FR - Tocantins 2009.
-
 
 
 ▪ FIRST STAGE ▪
@@ -2673,7 +2663,6 @@ Metropolitano    1-1  Marcílio Dias
 <!-- $table23$ - Table -->
 
 
-
 ▪ SECOND STAGE ▪
 
 ▪ First leg ▪
@@ -2775,7 +2764,6 @@ NOTA: Após o termino do campeonato , o STJD condenou o América-AM, por infraç
 de seis pontos, além dos pontos obtidos nas partidas contra o Joinville pela Quarta Fase. O clube manauara foi desclassificado e a vaga na Série C
 2011 foi repassada ao Joinville em 10 de dezembro de 2010. Como não havia tempo hábil para realização de novos jogos, a CBF reformulou a
 Classificação Geral. As Semifinais e Finais tiveram seus resultados mantidos.
-
 
 
 <!-- $table24$ - Final standings -->

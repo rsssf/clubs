@@ -1,10 +1,9 @@
-  <!--
-     title:   Germany 1980/81
-     source:  https://rsssf.org/tablesd/duit81.html
-     author:  Gwidon Naskrent
-     updated: 1 Apr 2001
-    -->
-
+<!--
+   title:   Germany 1980/81
+   source:  https://rsssf.org/tablesd/duit81.html
+   author:  Gwidon Naskrent
+   updated: 1 Apr 2001
+  -->
 
 
 
@@ -572,8 +571,5 @@ Karlsruher 7-2 TSV 1860   (Günther 29, 87, Wiesner 55, Groß 59, Schüler 66,
        Jürgen RÖBER          14  ( 427)
    Karl-Heinz RUMMENIGGE     34  (3060) +29
          Hans WEINER         31  (2689) + 1
-
-
-
 
 

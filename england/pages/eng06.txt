@@ -1,9 +1,9 @@
-  <!--
-     title:   England 2005/06
-     source:  https://rsssf.org/tablese/eng06.html
-     authors: Daniel Dalence, Gurgen Mahari and Ian King
-     updated: 18 May 2007
-    -->
+<!--
+   title:   England 2005/06
+   source:  https://rsssf.org/tablese/eng06.html
+   authors: Daniel Dalence, Gurgen Mahari and Ian King
+   updated: 18 May 2007
+  -->
 
 
 
@@ -911,7 +911,6 @@ West Ham United         2-1 Tottenham Hotspur
   (Fletcher 10, Benayoun 80; Defoe 35)
 
 <!-- $table2$ - Final Table -->
-
 
 
 FA Cup 2005/06
@@ -3905,15 +3904,5 @@ Hereford                3-2 Morecambe               (aet)
 
 ▪ Final ▪
 Halifax Town            2-3 Hereford                (aet)
-
-
-
-
-
-
-
-
-
-
 
 

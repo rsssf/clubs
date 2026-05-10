@@ -1,13 +1,19 @@
-  <!--
-     title:   Italy 2016/17
-     source:  https://rsssf.org/tablesi/ital2017.html
-     author:  Karel Stokkermans
-     updated: 31 Aug 2017
-    -->
+<!--
+   title:   Italy 2016/17
+   source:  https://rsssf.org/tablesi/ital2017.html
+   author:  Karel Stokkermans
+   updated: 31 Aug 2017
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Serie A                            (see §seriea)
+         Coppa Italia                       (see §coppa)
+         Serie B                            (see §serieb)
+           Regular Season                   (see §2reg)
+           Promotion Playoff                (see §2prom)
+  -->
 
 
 
@@ -575,10 +581,6 @@ Torino          5-3 Sassuolo
 <!-- $table2$ - Final Table -->
 
 
-
-
-
-
 == Coppa Italia  ‹§coppa›
 
 ▪ Round 1 ▪
@@ -791,13 +793,7 @@ Juventus: Neto, Barzagli, Bonucci, Chiellini, Dani Alves,
   Higuain. Tr.: Allegri
 
 
-
-
-
-
 == Serie B  ‹§serieb›
-
-
 === Regular Season  ‹§2reg›
 
 <!-- $table3$ - Final Table -->

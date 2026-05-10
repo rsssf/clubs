@@ -1,19 +1,41 @@
-  <!--
-     title:   Austria 2023/24
-     source:  https://rsssf.org/tableso/oost2024.html
-     author:  Hans Schöggl
-     updated: 10 Jun 2025
-    -->
+<!--
+   title:   Austria 2023/24
+   source:  https://rsssf.org/tableso/oost2024.html
+   author:  Hans Schöggl
+   updated: 10 Jun 2025
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Bundesliga                         (see §bund)
+           Regular Stage                    (see §reg)
+           Playoff Stage                    (see §play)
+             Championship Playoff           (see §champ)
+           Conference League Playoff        (see §conf)
+             Relegation Playoff             (see §releg)
+         ÖFB Cup                            (see §cup)
+         2. Liga (Second Level)             (see §1liga)
+         Regionalliga                       (see §regliga)
+           Regionalliga West                (see §regwest)
+           Regionalliga Mitte               (see §regmitte)
+           Regionalliga Ost                 (see §regost)
+         Cup Tournaments Bundesländer       (see §bundcup)
+           BFV-Cup (Burgenland) 2023/24     (see §burgcup)
+           Kärnten-Cup 2023/24              (see §kaerncup)
+           NÖ Meistercup (Niederösterreich) 2023/24  (see §noecup)
+           OÖ-Landescup (Oberösterreich) 2023/24  (see §ooecup)
+           Salzburger Landescup 2023/24     (see §salzcup)
+           Steirer-Cup 2023/24              (see §steicup)
+           Tirol-Cup 2023/24                (see §tircup)
+           VFV-Cup (Vorarlberg) 2023/24     (see §vorcup)
+           Wiener Landescup 2023/24         (see §wiencup)
+  -->
 
 
 
 
 == Bundesliga  ‹§bund›
-
 
 === Regular Stage  ‹§reg›
 
@@ -246,8 +268,6 @@ Wolfsberg        1-1 Altach
 <!-- $table3$ - Final Table -->
 
 === Playoff Stage  ‹§play›
-
-
 ==== Championship Playoff  ‹§champ›
 
 <!-- $table4$ - Final Table -->
@@ -403,10 +423,6 @@ NB: teams carry over half their points from the regular stage (listed between
     square brackets), rounded downwards (marked by * where applicable)
 
 
-
-
-
-
 == ÖFB Cup  ‹§cup›
 
 ▪ Round 1 ▪
@@ -502,10 +518,6 @@ RB Salzburg                         3-4 SK Sturm Graz
 ▪ Final ▪  May 1 @ Wörthersee-Stadion, Klagenfurt; att: 30,000
 SK Rapid Wien                       1-2 SK Sturm Graz
   (Seidl 43; Querfeld 50og, Horvat 81)
-
-
-
-
 
 
 == 2. Liga (Second Level)  ‹§1liga›
@@ -906,13 +918,7 @@ NB: SW Bregenz 3 points deducted for fielding 3 Brazilian players who did not ha
       as well, and therefore no clubs are relegated
 
 
-
-
-
-
 == Regionalliga  ‹§regliga›
-
-
 === Regionalliga West  ‹§regwest›
 
 <!-- $table10$ - Final Table -->
@@ -928,10 +934,6 @@ NB: SPG Silz/Mötz voluntarily withdrew at the end of the season
 === Regionalliga Ost  ‹§regost›
 
 <!-- $table12$ - Final Table -->
-
-
-
-
 
 
 == Cup Tournaments Bundesländer  ‹§bundcup›

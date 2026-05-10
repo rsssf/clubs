@@ -1,19 +1,29 @@
-  <!--
-     title:   USA 2014
-     source:  https://rsssf.org/tablesu/usa2014.html
-     author:  Karel Stokkermans
-     updated: 16 Jul 2015
-    -->
+<!--
+   title:   USA 2014
+   source:  https://rsssf.org/tablesu/usa2014.html
+   author:  Karel Stokkermans
+   updated: 16 Jul 2015
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Major League Soccer                (see §mls)
+           Regular Season                   (see §reg)
+           Championship Playoff             (see §play)
+             Wild Card Games                (see §wcard)
+             Eastern Semifinals             (see §esemi)
+             Eastern Conference Final       (see §efinal)
+             Western Semifinals             (see §wsemi)
+             Western Conference Final       (see §wfinal)
+             MLS Cup 2013                   (see §mlscup)
+         US Open Cup                        (see §open)
+  -->
 
 
 
 
 == Major League Soccer  ‹§mls›
-
 
 === Regular Season  ‹§reg›
 
@@ -515,7 +525,6 @@ Final Tables:
 
 
 === Championship Playoff  ‹§play›
-
 ==== Wild Card Games  ‹§wcard›
 
 _ Oct 29 _
@@ -574,10 +583,6 @@ Seattle Sounders       2-1 Los Angeles Galaxy
 
 _ Dec 7 _
 Los Angeles Galaxy     2-1 New England Revolution (aet)
-
-
-
-
 
 
 == US Open Cup  ‹§open›

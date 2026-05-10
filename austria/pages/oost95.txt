@@ -1,9 +1,20 @@
-  <!--
-     title:   Austria 1994/95
-     source:  https://rsssf.org/tableso/oost95.html
-     authors: Ambrosius Kutschera and Karel Stokkermans
-     updated: 31 Oct 2004
-    -->
+<!--
+   title:   Austria 1994/95
+   source:  https://rsssf.org/tableso/oost95.html
+   authors: Ambrosius Kutschera and Karel Stokkermans
+   updated: 31 Oct 2004
+  -->
+
+<!--
+                     Contents:
+
+         Zehnerliga                       
+         Austria "Snickers" Cup 1994/95   
+         2. Bundesliga 1994/95            
+         Feeder Leagues for 2. Liga       
+         Fifth Level and Lower            
+  -->
+
 
 
 
@@ -704,14 +715,5 @@ Karres No relegation, Brixlegg plays as SPG Brixlegg/Rattenberg II
 Haiming II is dissolved
 New teams for next season: SV Wörgl II, SV Kirchbichl II, FC Kitzbühel
 II, FC Hochfilzen, FC Ehrwald, SV Ried im Oberinntal, FC St.Anton
-
-
-
-
-
-
-
-
-
 
 

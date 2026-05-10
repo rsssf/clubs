@@ -1,19 +1,24 @@
-  <!--
-     title:   USA 2021
-     source:  https://rsssf.org/tablesu/usa2021.html
-     author:  Karel Stokkermans
-     updated: 30 Jun 2022
-    -->
+<!--
+   title:   USA 2021
+   source:  https://rsssf.org/tablesu/usa2021.html
+   author:  Karel Stokkermans
+   updated: 30 Jun 2022
+  -->
 
+<!--
+                     Contents:
 
-
-
+         Major League Soccer                (see §mls)
+           Regular Season                   (see §reg)
+           Championship Playoff             (see §chplay)
+             Conference Quarterfinals       (see §cqf)
+             Conference Semifinals          (see §csf)
+  -->
 
 
 
 
 == Major League Soccer  ‹§mls›
-
 
 === Regular Season  ‹§reg›
 
@@ -693,7 +698,6 @@ Final Tables:
 <!-- $table4$ - Western Conference -->
 
 === Championship Playoff  ‹§chplay›
-
 ==== Conference Quarterfinals  ‹§cqf›
 
 Eastern Conference
